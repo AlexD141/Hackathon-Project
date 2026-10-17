@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My profile · What can I cook?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="profile">
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-links">
+      <a href="index.html#how">How it works</a>
+      <a href="index.html#kitchen">Cook</a>
+      <span class="account" id="account-links"></span>
+      <a href="index.html#kitchen" class="btn btn-solid btn-small">Start cooking</a>
+    </div>
+  </nav>
+
+  <main class="kitchen profile">
+    <div class="section-head">
+      <p class="label" id="welcome">Your profile</p>
+      <h1 class="page-title">Your saved kitchen</h1>
+      <p class="muted page-intro">Add the utensils you own and the staples you always keep. Next time you cook, load them with one click.</p>
+    </div>
+
+    <div class="panels">
+      <section class="panel" id="utensils-panel" data-kind="utensils" aria-labelledby="utensils-title"></section>
+      <section class="panel" id="ingredients-panel" data-kind="ingredients" aria-labelledby="ingredients-title"></section>
+    </div>
+
+    <div class="actions">
+      <button type="button" id="save-profile-btn" class="btn btn-solid btn-large">Save changes</button>
+      <p id="save-status" class="hint" aria-live="polite"></p>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-main">
+      <div>
+        <p class="label">Ready when you are</p>
+        <h2>Let’s get<br>cooking</h2>
+      </div>
+      <a href="index.html#kitchen" class="btn btn-light">Go to your kitchen</a>
+    </div>
+  </footer>
+
+  <template id="panel-template">
+    <div class="panel-head">
+      <h2 class="panel-title"></h2>
+      <span class="count" aria-live="polite">0 selected</span>
+    </div>
+
+    <div class="tabs" role="tablist">
+      <button type="button" role="tab" class="tab" data-tab="list" aria-selected="true">Pick from list</button>
+      <button type="button" role="tab" class="tab" data-tab="photo" aria-selected="false">Take a photo</button>
+    </div>
+
+    <!-- Pick from list -->
+    <div class="tab-body" data-body="list">
+      <div class="search-row">
+        <input type="search" class="search" autocomplete="off">
+        <select class="category">
+          <option value="all">All categories</option>
+        </select>
+      </div>
+      <ul class="options" role="listbox" aria-multiselectable="true"></ul>
+      <p class="options-note hint"></p>
+    </div>
+
+    <!-- Take a photo -->
+    <div class="tab-body" data-body="photo" hidden>
+      <label class="plate">
+        <input type="file" accept="image/*" capture="environment" class="photo-input">
+        <img class="photo-preview" alt="" hidden>
+        <span class="plate-text">Tap to take or upload a photo</span>
+      </label>
+      <div class="photo-actions">
+        <button type="button" class="btn btn-outline detect-btn" disabled>Detect items</button>
+        <button type="button" class="btn btn-quiet clear-photo-btn" hidden>Remove photo</button>
+      </div>
+      <div class="detected" hidden>
+        <p class="detected-title">We spotted these. Uncheck anything that’s wrong.</p>
+        <ul class="detected-list"></ul>
+        <button type="button" class="btn btn-solid btn-small add-detected-btn">Add checked items</button>
+      </div>
+    </div>
+
+    <div class="selected-wrap">
+      <div class="selected-head">
+        <h3>Your list</h3>
+        <button type="button" class="link-btn clear-btn" hidden>Clear all</button>
+      </div>
+      <ul class="selected"></ul>
+      <p class="empty hint"></p>
+
+      <!-- Shown on the cooking page when signed in -->
+      <div class="saved-row" hidden>
+        <button type="button" class="btn btn-outline btn-small load-saved-btn">Add from my saved list</button>
+        <button type="button" class="link-btn save-btn">Save this list to my profile</button>
+        <p class="saved-status hint" aria-live="polite"></p>
+      </div>
+      <!-- Shown on the cooking page when signed out -->
+      <p class="signin-note hint" hidden><a href="login.html?next=index.html%23kitchen">Sign in</a> to save your kitchen and load it next time.</p>
+    </div>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

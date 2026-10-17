@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What can I cook?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-page="cook">
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-links">
+      <a href="#how">How it works</a>
+      <a href="#kitchen">Your kitchen</a>
+      <span class="account" id="account-links"></span>
+      <a href="#kitchen" class="btn btn-solid btn-small">Start cooking</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero">
+    <div class="hero-text">
+      <h1>What can<br>I cook?</h1>
+      <p class="label">Recipes from what you already have</p>
+      <p class="hero-sub">Tell us what’s in your kitchen. Pick from the list or snap a photo, and we’ll suggest what to make tonight.</p>
+      <div class="hero-actions">
+        <a href="#kitchen" class="btn btn-solid">Start with your kitchen</a>
+        <a href="#how" class="btn-circle-link"><span class="circle" aria-hidden="true">↓</span>See how it works</a>
+      </div>
+    </div>
+
+    <div class="hero-art" aria-hidden="true">
+      <div class="disc disc-sage"></div>
+      <div class="disc disc-dust"></div>
+      <div class="disc disc-lilac"></div>
+      <svg class="hero-icon" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M30 105h140"/>
+        <path d="M38 105c0 36 28 58 62 58s62-22 62-58"/>
+        <path d="M80 163v8h40v-8"/>
+        <path d="M150 40l-46 58"/>
+        <ellipse cx="156" cy="33" rx="9" ry="14" transform="rotate(38 156 33)"/>
+        <path d="M70 92c-6-14 0-30 14-36"/>
+        <path d="M84 56c-2 10-8 16-16 18"/>
+        <path d="M84 56c8 4 12 12 10 22"/>
+        <path d="M110 96c4-10 12-16 22-16"/>
+      </svg>
+      <p class="hero-badge">Cook with<br>what you have</p>
+    </div>
+  </header>
+
+  <!-- How it works -->
+  <section class="how" id="how">
+    <div class="how-intro">
+      <p class="label">How it works</p>
+      <h2>Three steps<br>to dinner</h2>
+      <p class="muted">No shopping list needed. Start with the tools and food you already own.</p>
+    </div>
+    <ol class="steps">
+      <li>
+        <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M8 32 28 12"/><ellipse cx="31" cy="9" rx="3.5" ry="6" transform="rotate(45 31 9)"/><path d="M10 8v10a3 3 0 0 0 6 0V8M13 8v24"/></svg>
+        <h3>Add utensils</h3>
+        <p>Search the list or take a photo of your pans, knives and tools.</p>
+      </li>
+      <li>
+        <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M20 34c8 0 13-6 13-14 0-6-4-9-8-9-2 0-4 1-5 2-1-1-3-2-5-2-4 0-8 3-8 9 0 8 5 14 13 14Z"/><path d="M20 13c0-4 2-7 5-8"/></svg>
+        <h3>Add ingredients</h3>
+        <p>Pick what’s in your fridge and pantry, or let the camera spot it.</p>
+      </li>
+      <li>
+        <svg viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><rect x="8" y="5" width="24" height="30" rx="1"/><path d="M13 13h14M13 19h14M13 25h9"/></svg>
+        <h3>Get recipes</h3>
+        <p>See dishes you can make now, and what you’d need for a few more.</p>
+      </li>
+    </ol>
+  </section>
+
+  <!-- Kitchen -->
+  <main class="kitchen" id="kitchen">
+    <div class="section-head">
+      <p class="label">Your kitchen</p>
+      <h2>What do you have?</h2>
+    </div>
+
+    <div class="panels">
+      <!-- Each panel is filled in by app.js using the <template> below -->
+      <section class="panel" id="utensils-panel" data-kind="utensils" aria-labelledby="utensils-title"></section>
+      <section class="panel" id="ingredients-panel" data-kind="ingredients" aria-labelledby="ingredients-title"></section>
+    </div>
+
+    <div class="actions">
+      <button type="button" id="find-btn" class="btn btn-solid btn-large" disabled>Find recipes</button>
+      <p id="find-hint" class="hint">Add at least one ingredient to get suggestions.</p>
+    </div>
+  </main>
+
+  <!-- Stats band -->
+  <section class="stats" aria-label="What’s in the app">
+    <div><strong>973</strong><span>Utensils to<br>choose from</span></div>
+    <div><strong>2,017</strong><span>Ingredients to<br>choose from</span></div>
+    <div><strong>2</strong><span>Ways to<br>add items</span></div>
+  </section>
+
+  <!-- Results -->
+  <section id="results" class="results" aria-live="polite" hidden>
+    <div class="section-head">
+      <p class="label">Suggested for you</p>
+      <h2>Recipes you can make</h2>
+      <p class="hint">These are placeholder results until your recipe logic is connected.</p>
+    </div>
+    <div id="results-list" class="results-list"></div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-main">
+      <div>
+        <p class="label">Ready when you are</p>
+        <h2>Let’s get<br>cooking</h2>
+      </div>
+      <a href="#kitchen" class="btn btn-light">Back to your kitchen</a>
+    </div>
+  </footer>
+
+  <template id="panel-template">
+    <div class="panel-head">
+      <h2 class="panel-title"></h2>
+      <span class="count" aria-live="polite">0 selected</span>
+    </div>
+
+    <div class="tabs" role="tablist">
+      <button type="button" role="tab" class="tab" data-tab="list" aria-selected="true">Pick from list</button>
+      <button type="button" role="tab" class="tab" data-tab="photo" aria-selected="false">Take a photo</button>
+    </div>
+
+    <!-- Pick from list -->
+    <div class="tab-body" data-body="list">
+      <div class="search-row">
+        <input type="search" class="search" autocomplete="off">
+        <select class="category">
+          <option value="all">All categories</option>
+        </select>
+      </div>
+      <ul class="options" role="listbox" aria-multiselectable="true"></ul>
+      <p class="options-note hint"></p>
+    </div>
+
+    <!-- Take a photo -->
+    <div class="tab-body" data-body="photo" hidden>
+      <label class="plate">
+        <input type="file" accept="image/*" capture="environment" class="photo-input">
+        <img class="photo-preview" alt="" hidden>
+        <span class="plate-text">Tap to take or upload a photo</span>
+      </label>
+      <div class="photo-actions">
+        <button type="button" class="btn btn-outline detect-btn" disabled>Detect items</button>
+        <button type="button" class="btn btn-quiet clear-photo-btn" hidden>Remove photo</button>
+      </div>
+      <div class="detected" hidden>
+        <p class="detected-title">We spotted these. Uncheck anything that’s wrong.</p>
+        <ul class="detected-list"></ul>
+        <button type="button" class="btn btn-solid btn-small add-detected-btn">Add checked items</button>
+      </div>
+    </div>
+
+    <div class="selected-wrap">
+      <div class="selected-head">
+        <h3>Your list</h3>
+        <button type="button" class="link-btn clear-btn" hidden>Clear all</button>
+      </div>
+      <ul class="selected"></ul>
+      <p class="empty hint"></p>
+
+      <!-- Shown on the cooking page when signed in -->
+      <div class="saved-row" hidden>
+        <button type="button" class="btn btn-outline btn-small load-saved-btn">Add from my saved list</button>
+        <button type="button" class="link-btn save-btn">Save this list to my profile</button>
+        <p class="saved-status hint" aria-live="polite"></p>
+      </div>
+      <!-- Shown on the cooking page when signed out -->
+      <p class="signin-note hint" hidden><a href="login.html?next=index.html%23kitchen">Sign in</a> to save your kitchen and load it next time.</p>
+    </div>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
