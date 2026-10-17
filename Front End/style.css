@@ -526,3 +526,42 @@ h2 { font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.08; }
   .nav-links .account a, .nav-links .account .nav-button { display: inline; }
   .nav-links { gap: 1.25rem; }
 }
+
+/* Show-password eye button */
+.field label {
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--plum);
+}
+.password-wrap { position: relative; }
+.password-wrap input { width: 100%; padding-right: 3.25rem; }
+.show-password {
+  position: absolute;
+  top: 50%;
+  right: 0.4rem;
+  transform: translateY(-50%);
+  display: grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+.show-password:hover { color: var(--plum); background: var(--honeydew); }
+.show-password svg { width: 1.25rem; height: 1.25rem; }
+.show-password svg[hidden] { display: none; }
+
+.saved-row[hidden] { display: none; }
+
+/* Clear saved list, pushed to the right */
+.clear-saved-btn { margin-left: auto; }
+.clear-saved-btn:hover { color: var(--missing); }
+
+/* Paste an image */
+.paste-note { text-align: center; margin: 0.75rem 0 0; font-size: 0.875rem; }
+.btn[hidden] { display: none; }

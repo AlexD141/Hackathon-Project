@@ -189,10 +189,10 @@ function buildPanel(kind, data, usedFallback) {
   refresh(kind);
 }
 
-// "Add from my saved list" and "Save this list" on the cooking page
+// Saved-list buttons inside each panel (cooking page and profile page)
 function setupSavedRow(kind, panel) {
   const $ = (sel) => panel.querySelector(sel);
-  if (PAGE !== "cook") return;
+  if (PAGE !== "cook" && PAGE !== "profile") return;
 
   if (!currentUser) {
     $(".signin-note").hidden = false;
@@ -204,11 +204,14 @@ function setupSavedRow(kind, panel) {
   const label = kind === "utensils" ? "utensils" : "staples";
   row.hidden = false;
 
+  // The profile page has its own big "Save changes" button
+  if (PAGE === "profile") $(".save-btn").hidden = true;
+
   $(".load-saved-btn").addEventListener("click", async () => {
     try {
       const saved = await getSaved(kind);
       if (saved.length === 0) {
-        status.textContent = `Your saved list is empty. Add ${label} on your profile, or save this list.`;
+        status.textContent = `Your saved list is empty. Add ${label}, then save them.`;
         return;
       }
       const before = state[kind].selected.size;
@@ -230,6 +233,20 @@ function setupSavedRow(kind, panel) {
       const saved = await getSaved(kind);
       const merged = await putSaved(kind, [...new Set([...saved, ...state[kind].selected])]);
       status.textContent = `Saved. Your profile now has ${plural(merged.length, label)}.`;
+    } catch (err) {
+      status.textContent = err.message;
+    }
+  });
+
+  $(".clear-saved-btn").addEventListener("click", async () => {
+    if (!confirm(`Clear all your saved ${label}? This removes them from your profile.`)) return;
+    try {
+      await putSaved(kind, []);
+      if (PAGE === "profile") {
+        state[kind].selected.clear();
+        refresh(kind);
+      }
+      status.textContent = `Your saved ${label} are cleared.`;
     } catch (err) {
       status.textContent = err.message;
     }
@@ -324,28 +341,78 @@ function refresh(kind) {
 }
 
 // ---------- Photo ----------
+const PASTE_HINT = "Or copy an image and press Ctrl + V (⌘ + V on Mac).";
+let lastPhotoKind = null; // the panel whose photo tab was used most recently
+
 function setupPhoto(kind, panel) {
   const $ = (sel) => panel.querySelector(sel);
   const input = $(".photo-input");
   const preview = $(".photo-preview");
   const detectBtn = $(".detect-btn");
   const clearBtn = $(".clear-photo-btn");
+  const pasteBtn = $(".paste-btn");
+  const pasteNote = $(".paste-note");
   const detected = $(".detected");
   const detectedList = $(".detected-list");
+  const photoBody = panel.querySelector('[data-body="photo"]');
   let photoFile = null;
 
   input.setAttribute("aria-label", `Take or upload a photo of your ${kind}`);
 
-  input.addEventListener("change", () => {
-    photoFile = input.files[0] || null;
-    if (!photoFile) return;
-    preview.src = URL.createObjectURL(photoFile);
+  // Shows a photo (uploaded, taken or pasted) and gets it ready to detect
+  function setPhoto(file, note = PASTE_HINT) {
+    if (!file || !file.type.startsWith("image/")) return;
+    photoFile = file;
+    if (preview.src.startsWith("blob:")) URL.revokeObjectURL(preview.src);
+    preview.src = URL.createObjectURL(file);
     preview.alt = `Your photo of ${kind}`;
     preview.hidden = false;
     $(".plate-text").hidden = true;
     detectBtn.disabled = false;
     clearBtn.hidden = false;
     detected.hidden = true;
+    if (pasteNote) pasteNote.textContent = note;
+    lastPhotoKind = kind;
+  }
+
+  panel.querySelector('.tab[data-tab="photo"]').addEventListener("click", () => (lastPhotoKind = kind));
+  input.addEventListener("change", () => setPhoto(input.files[0]));
+
+  // "Paste image" button
+  if (pasteBtn) {
+    pasteBtn.addEventListener("click", async () => {
+      lastPhotoKind = kind;
+      if (!navigator.clipboard || !navigator.clipboard.read) {
+        pasteNote.textContent = "This browser can’t paste with the button. Press Ctrl + V (⌘ + V on Mac) instead.";
+        return;
+      }
+      try {
+        for (const item of await navigator.clipboard.read()) {
+          const type = item.types.find((t) => t.startsWith("image/"));
+          if (type) {
+            const blob = await item.getType(type);
+            setPhoto(new File([blob], `pasted.${type.split("/")[1]}`, { type }), "Image pasted. Press Detect items.");
+            return;
+          }
+        }
+        pasteNote.textContent = "There’s no image on your clipboard. Copy an image first, then try again.";
+      } catch {
+        pasteNote.textContent = "The browser blocked the paste. Press Ctrl + V (⌘ + V on Mac) instead, or allow clipboard access.";
+      }
+    });
+  }
+
+  // Ctrl + V / ⌘ + V while this panel's photo tab is open
+  document.addEventListener("paste", (e) => {
+    if (photoBody.hidden) return;
+    if (lastPhotoKind && lastPhotoKind !== kind) {
+      const other = document.querySelector(`#${lastPhotoKind}-panel [data-body="photo"]`);
+      if (other && !other.hidden) return; // the other panel's photo tab was used last
+    }
+    const file = [...(e.clipboardData ? e.clipboardData.files : [])].find((f) => f.type.startsWith("image/"));
+    if (!file) return;
+    e.preventDefault();
+    setPhoto(file, "Image pasted. Press Detect items.");
   });
 
   clearBtn.addEventListener("click", () => {
@@ -356,6 +423,7 @@ function setupPhoto(kind, panel) {
     detectBtn.disabled = true;
     clearBtn.hidden = true;
     detected.hidden = true;
+    if (pasteNote) pasteNote.textContent = PASTE_HINT;
   });
 
   detectBtn.addEventListener("click", async () => {

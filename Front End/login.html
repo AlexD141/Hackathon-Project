@@ -13,8 +13,6 @@
   <!-- Navigation -->
   <nav class="nav">
     <div class="nav-links">
-      <a href="index.html#how">How it works</a>
-      <a href="index.html#kitchen">Cook</a>
       <span class="account" id="account-links"></span>
       <a href="index.html#kitchen" class="btn btn-solid btn-small">Start cooking</a>
     </div>
@@ -36,10 +34,25 @@
           <span>Username</span>
           <input id="username" name="username" autocomplete="username" autocapitalize="none" spellcheck="false" required>
         </label>
-        <label class="field">
-          <span>Password</span>
-          <input id="password" name="password" type="password" autocomplete="current-password" required>
-        </label>
+        <div class="field">
+          <label for="password">Password</label>
+          <div class="password-wrap">
+            <input id="password" name="password" type="password" autocomplete="current-password" required>
+            <button type="button" class="show-password" id="show-password" aria-label="Show password" aria-pressed="false">
+              <!-- Open eye: shown while the password is hidden -->
+              <svg class="eye-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"/>
+                <circle cx="12" cy="12" r="3"/>
+              </svg>
+              <!-- Crossed-out eye: shown while the password is visible -->
+              <svg class="eye-closed" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" hidden>
+                <path d="M10.6 5.1A10.6 10.6 0 0 1 12 5c6.5 0 10 7 10 7a17 17 0 0 1-2.6 3.6M6.6 6.6C3.7 8.4 2 12 2 12s3.5 7 10 7a9.7 9.7 0 0 0 5.4-1.6"/>
+                <path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/>
+                <path d="M3 3l18 18"/>
+              </svg>
+            </button>
+          </div>
+        </div>
         <p id="password-hint" class="hint" hidden>Use at least 8 characters. Usernames can use letters, numbers, dots, dashes and underscores.</p>
         <p id="auth-error" class="form-error" role="alert"></p>
         <button type="submit" class="btn btn-solid btn-large" id="auth-submit">Sign in</button>
@@ -72,10 +85,25 @@
         <p class="label">Ready when you are</p>
         <h2>Let’s get<br>cooking</h2>
       </div>
-      <a href="index.html#kitchen" class="btn btn-light">Go to your kitchen</a>
     </div>
   </footer>
 
   <script src="app.js"></script>
+  <script>
+    // Show or hide the password when the eye button is pressed
+    (() => {
+      const input = document.getElementById("password");
+      const button = document.getElementById("show-password");
+      button.addEventListener("click", () => {
+        const show = input.type === "password";
+        input.type = show ? "text" : "password";
+        button.setAttribute("aria-pressed", show);
+        button.setAttribute("aria-label", show ? "Hide password" : "Show password");
+        button.querySelector(".eye-open").toggleAttribute("hidden", show);
+        button.querySelector(".eye-closed").toggleAttribute("hidden", !show);
+        input.focus();
+      });
+    })();
+  </script>
 </body>
 </html>

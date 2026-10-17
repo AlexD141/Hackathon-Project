@@ -13,8 +13,6 @@
   <!-- Navigation -->
   <nav class="nav">
     <div class="nav-links">
-      <a href="index.html#how">How it works</a>
-      <a href="index.html#kitchen">Cook</a>
       <span class="account" id="account-links"></span>
       <a href="index.html#kitchen" class="btn btn-solid btn-small">Start cooking</a>
     </div>
@@ -45,7 +43,6 @@
         <p class="label">Ready when you are</p>
         <h2>Let’s get<br>cooking</h2>
       </div>
-      <a href="index.html#kitchen" class="btn btn-light">Go to your kitchen</a>
     </div>
   </footer>
 
@@ -77,12 +74,14 @@
       <label class="plate">
         <input type="file" accept="image/*" capture="environment" class="photo-input">
         <img class="photo-preview" alt="" hidden>
-        <span class="plate-text">Tap to take or upload a photo</span>
+        <span class="plate-text">Tap to upload, or paste an image</span>
       </label>
       <div class="photo-actions">
+        <button type="button" class="btn btn-outline paste-btn">Paste image</button>
         <button type="button" class="btn btn-outline detect-btn" disabled>Detect items</button>
         <button type="button" class="btn btn-quiet clear-photo-btn" hidden>Remove photo</button>
       </div>
+      <p class="paste-note hint" aria-live="polite">Or copy an image and press Ctrl + V (⌘ + V on Mac).</p>
       <div class="detected" hidden>
         <p class="detected-title">We spotted these. Uncheck anything that’s wrong.</p>
         <ul class="detected-list"></ul>
@@ -102,6 +101,7 @@
       <div class="saved-row" hidden>
         <button type="button" class="btn btn-outline btn-small load-saved-btn">Add from my saved list</button>
         <button type="button" class="link-btn save-btn">Save this list to my profile</button>
+        <button type="button" class="link-btn clear-saved-btn">Clear saved list</button>
         <p class="saved-status hint" aria-live="polite"></p>
       </div>
       <!-- Shown on the cooking page when signed out -->
