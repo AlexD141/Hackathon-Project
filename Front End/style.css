@@ -565,3 +565,122 @@ h2 { font-size: clamp(2.2rem, 4vw, 3rem); line-height: 1.08; }
 /* Paste an image */
 .paste-note { text-align: center; margin: 0.75rem 0 0; font-size: 0.875rem; }
 .btn[hidden] { display: none; }
+
+/* ---------- Shopping cart ---------- */
+.cart-button { display: inline-flex; align-items: center; gap: 0.5rem; }
+.cart-count {
+  display: inline-grid;
+  place-items: center;
+  min-width: 1.4rem;
+  height: 1.4rem;
+  padding: 0 0.35rem;
+  border-radius: 999px;
+  background: var(--sage);
+  color: var(--plum);
+  font-size: 0.6875rem;
+  letter-spacing: 0;
+}
+.nav-links .cart-button { display: inline-flex; }
+
+.recipe .cook-btn { margin: 1.25rem 1.25rem 1.5rem; }
+.recipe ul:last-of-type { margin-bottom: 0; }
+
+/* Dialogs */
+dialog { color: var(--ink); font-family: var(--sans); font-weight: 300; }
+dialog::backdrop { background: rgba(47, 37, 48, 0.45); }
+
+.sheet {
+  width: min(92vw, 30rem);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--dust);
+  padding: 0;
+  background: var(--white);
+}
+.sheet-body { padding: 2rem; }
+.sheet h2 { font-size: 2rem; margin-bottom: 0.5rem; }
+.sheet .buy-text { margin: 0 0 1.25rem; }
+.buy-list { list-style: none; margin: 0 0 1.75rem; padding: 0; display: grid; gap: 0.5rem; }
+.buy-list label { display: flex; gap: 0.65rem; align-items: center; cursor: pointer; }
+.buy-list input { accent-color: var(--plum); width: 1.05rem; height: 1.05rem; }
+.buy-list input:disabled + span { color: var(--muted); }
+.sheet-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+
+.drawer {
+  margin: 0 0 0 auto;
+  height: 100%;
+  max-height: none;
+  width: min(100vw, 28rem);
+  border: 0;
+  border-left: 1px solid var(--line);
+  padding: 2rem;
+  background: var(--white);
+  overflow-y: auto;
+}
+.drawer-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem; }
+.drawer-head h2 { font-size: 2.2rem; }
+.drawer-close {
+  font: inherit; font-size: 1rem; color: var(--muted);
+  background: none; border: 0; cursor: pointer;
+  width: 2.5rem; height: 2.5rem; border-radius: 50%;
+}
+.drawer-close:hover { background: var(--honeydew); color: var(--plum); }
+.cart-empty { margin: 0; }
+.cart-list { list-style: none; margin: 0 0 1.75rem; padding: 0; border-top: 1px solid var(--line); }
+.cart-item {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 0.75rem;
+  align-items: center;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.cart-item-text { display: grid; min-width: 0; }
+.cart-item-name { font-weight: 400; }
+.cart-item-for { font-size: 0.8125rem; color: var(--muted); }
+.cart-item-link { font-size: 0.75rem; letter-spacing: 0.08em; color: var(--plum); white-space: nowrap; text-underline-offset: 3px; }
+.cart-item-remove {
+  display: grid; place-items: center;
+  width: 1.6rem; height: 1.6rem;
+  border: 0; border-radius: 50%;
+  background: var(--sage); color: var(--plum);
+  font-size: 0.7rem; cursor: pointer;
+}
+.cart-item-remove:hover { background: var(--plum); color: var(--white); }
+.cart-checkout { display: grid; gap: 1rem; }
+.cart-checkout[hidden], .instacart-box[hidden] { display: none; }
+.instacart-box { padding-bottom: 1.25rem; border-bottom: 1px dashed var(--line); }
+.instacart-box .hint { margin: 0.6rem 0 0; font-size: 0.875rem; }
+.field select {
+  font: inherit; color: var(--ink); background: var(--white);
+  border: 1px solid var(--dust); border-radius: 4px; padding: 0.75rem 0.9rem;
+}
+.store-hint, .cart-status { margin: 0; font-size: 0.875rem; }
+.cart-actions { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+
+/* Toast */
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(1.5rem + env(safe-area-inset-bottom, 0px));
+  transform: translateX(-50%);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  max-width: calc(100vw - 2rem);
+  padding: 0.9rem 1.25rem;
+  background: var(--plum);
+  color: var(--white);
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(47, 37, 48, 0.25);
+}
+.toast[hidden] { display: none; }
+.toast .link-btn { color: var(--dust); }
+.toast .link-btn[hidden] { display: none; }
+.toast .link-btn:hover { color: var(--white); }
+
+@media (max-width: 640px) {
+  .drawer { padding: 1.5rem; }
+  .cart-item { grid-template-columns: 1fr auto; }
+  .cart-item-link { grid-column: 1; }
+}

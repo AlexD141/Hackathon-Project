@@ -14,6 +14,8 @@ import os
 import re
 import secrets
 import sqlite3
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 from flask import Flask, abort, g, jsonify, redirect, request, send_from_directory, session
@@ -201,6 +203,62 @@ def put_saved(kind):
     )
     conn.commit()
     return jsonify(items=sorted(items, key=str.lower))
+
+
+# ---------- Shopping (optional Instacart) ----------
+# Get a key from the Instacart Developer Platform, then:
+#   export INSTACART_API_KEY="your-key"
+# Development keys use the test server:
+#   export INSTACART_API_URL="https://connect.dev.instacart.tools"
+INSTACART_API_KEY = os.environ.get("INSTACART_API_KEY")
+INSTACART_API_URL = os.environ.get("INSTACART_API_URL", "https://connect.instacart.com")
+
+
+@app.get("/api/shop/config")
+def shop_config():
+    return jsonify(instacart=bool(INSTACART_API_KEY))
+
+
+@app.post("/api/shop/instacart")
+def instacart_link():
+    """Creates an Instacart shopping-list page with the cart items and returns its link."""
+    if not INSTACART_API_KEY:
+        return jsonify(error="Instacart isn’t set up on this server."), 501
+
+    body = request.get_json(silent=True) or {}
+    items = [str(n).strip() for n in body.get("items", []) if str(n).strip()][:100]
+    if not items:
+        return jsonify(error="Your cart is empty."), 400
+
+    payload = {
+        "title": "What can I cook? shopping list",
+        "link_type": "shopping_list",
+        "line_items": [{"name": name} for name in items],
+    }
+    req = urllib.request.Request(
+        f"{INSTACART_API_URL}/idp/v1/products/products_link",
+        data=json.dumps(payload).encode(),
+        headers={
+            "Authorization": f"Bearer {INSTACART_API_KEY}",
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as res:
+            data = json.load(res)
+    except urllib.error.HTTPError as err:
+        print("Instacart error:", err.code, err.read().decode(errors="replace")[:500])
+        return jsonify(error=f"Instacart turned down the request (error {err.code}). Check the terminal running server.py."), 502
+    except Exception as err:
+        print("Instacart error:", repr(err))
+        return jsonify(error="Couldn’t reach Instacart. Check your internet connection and try again."), 502
+
+    url = data.get("products_link_url")
+    if not url:
+        return jsonify(error="Instacart didn’t send back a link. Check the terminal running server.py."), 502
+    return jsonify(url=url)
 
 
 # ---------- Photo detection ----------

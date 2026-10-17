@@ -546,11 +546,23 @@ function renderRecipes(recipes) {
     h1.textContent = "You have";
     card.append(h1, makeList(r.have, "have"));
 
-    if (r.missing.length) {
+    const missing = r.missing || [];
+    if (missing.length) {
       const h2 = document.createElement("h4");
       h2.textContent = "You’ll also need";
-      card.append(h2, makeList(r.missing, "missing"));
+      card.append(h2, makeList(missing, "missing"));
     }
+
+    // "Cook this" asks to buy missing ingredients (see shop.js)
+    const cook = document.createElement("button");
+    cook.type = "button";
+    cook.className = "btn btn-solid btn-small cook-btn";
+    cook.textContent = "Cook this";
+    cook.addEventListener("click", () => {
+      if (window.Shop) window.Shop.askToBuy(r);
+    });
+    card.append(cook);
+
     list.append(card);
   }
 }
