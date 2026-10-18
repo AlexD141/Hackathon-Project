@@ -35,6 +35,18 @@ from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).parent
 VOCAB_FILE = ROOT / "ingredients_common.json"
+GROQ_API_KEY_FILE = ROOT / ".data" / "groq_api_key"
+
+
+def get_groq_api_key():
+    api_key = os.environ.get("GROQ_API_KEY")
+    if api_key:
+        return api_key
+    try:
+        api_key = GROQ_API_KEY_FILE.read_text(encoding="utf-8").strip()
+    except FileNotFoundError:
+        return None
+    return api_key or None
 
 # Which list each kind is matched against. Ingredients use the curated common
 # subset - 500 names keeps the prompt small and the model focused.
@@ -231,10 +243,10 @@ def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="groq", api_k
     model returns something unparseable - the caller turns that into an HTTP error.
     """
     vocab = vocab or load_vocab(VOCAB_FILES[kind])
-    api_key = api_key or os.environ.get("GROQ_API_KEY")
+    api_key = api_key or get_groq_api_key()
     if not api_key:
         raise RuntimeError(
-            "No API key. Set GROQ_API_KEY in your environment "
+            "No API key. Set GROQ_API_KEY in your environment or add it to .data/groq_api_key "
             "(get one at https://console.groq.com/keys).")
 
     prompt = PROMPTS[kind].format(count=len(vocab), vocabulary=", ".join(vocab))

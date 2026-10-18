@@ -30,6 +30,29 @@
       <section class="panel" id="ingredients-panel" data-kind="ingredients" aria-labelledby="ingredients-title"></section>
     </div>
 
+    <section class="prefs" aria-labelledby="prefs-title">
+      <div class="prefs-head">
+        <p class="label">Preferences</p>
+        <h2 id="prefs-title">Diet and allergies</h2>
+        <p class="muted">Recipes will be filtered to match these. Only you can see them.</p>
+      </div>
+      <div class="prefs-grid">
+        <fieldset class="pref-group">
+          <legend>Diet</legend>
+          <div class="pref-options" id="diet-options"></div>
+        </fieldset>
+        <fieldset class="pref-group">
+          <legend>Allergies</legend>
+          <div class="pref-options" id="allergy-options"></div>
+          <div class="custom-allergy">
+            <input type="text" id="custom-allergy" maxlength="40" placeholder="Another allergy, e.g. kiwi" aria-label="Add another allergy">
+            <button type="button" class="btn btn-outline btn-small" id="add-allergy-btn">Add</button>
+          </div>
+          <ul class="selected" id="custom-allergies"></ul>
+        </fieldset>
+      </div>
+    </section>
+
     <div class="actions">
       <button type="button" id="save-profile-btn" class="btn btn-solid btn-large">Save changes</button>
       <p id="save-status" class="hint" aria-live="polite"></p>

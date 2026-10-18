@@ -684,3 +684,97 @@ dialog::backdrop { background: rgba(47, 37, 48, 0.45); }
   .cart-item { grid-template-columns: 1fr auto; }
   .cart-item-link { grid-column: 1; }
 }
+
+/* ---------- Diet and allergy preferences ---------- */
+.prefs {
+  margin-top: 3rem;
+  padding: 2rem;
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--lilac);
+  background: var(--white);
+}
+.prefs-head { margin-bottom: 1.75rem; }
+.prefs-head h2 { margin-bottom: 0.5rem; }
+.prefs-head .muted { margin: 0; }
+.prefs-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); gap: 2rem; }
+.pref-group { border: 0; margin: 0; padding: 0; min-width: 0; }
+.pref-group legend {
+  padding: 0;
+  margin-bottom: 0.9rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--plum);
+}
+.pref-options { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.pref-pill { position: relative; cursor: pointer; }
+.pref-pill input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.pref-pill span {
+  display: inline-block;
+  padding: 0.45rem 1rem;
+  border: 1px solid var(--dust);
+  border-radius: 999px;
+  font-size: 0.9375rem;
+  color: var(--ink);
+  background: var(--white);
+}
+.pref-pill:hover span { background: var(--honeydew); }
+.pref-pill input:checked + span { background: var(--sage); border-color: var(--plum); color: var(--plum); font-weight: 500; }
+.pref-pill input:checked + span::before { content: "✓ "; }
+.pref-pill input:focus-visible + span { outline: 2px solid var(--plum); outline-offset: 2px; }
+.custom-allergy { display: flex; gap: 0.5rem; margin-top: 1rem; }
+.custom-allergy input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  color: var(--ink);
+  border: 1px solid var(--dust);
+  border-radius: 4px;
+  padding: 0.6rem 0.8rem;
+}
+.custom-allergy input:focus { outline: none; border-color: var(--plum); }
+#custom-allergies { margin-top: 0.75rem; }
+@media (max-width: 640px) { .prefs { padding: 1.25rem; } }
+
+/* ---------- Estimated prices ---------- */
+.recipe .priced li { margin-bottom: 0.35rem; }
+.priced-line { display: flex; justify-content: space-between; gap: 0.75rem; }
+.priced-price { color: var(--plum); font-weight: 500; white-space: nowrap; }
+.priced-unit { display: block; font-size: 0.75rem; color: var(--muted); }
+.recipe .est-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 0.75rem 1.25rem 0;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.75rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--plum);
+}
+.recipe .est-total strong { font-family: var(--serif); font-size: 1.35rem; font-weight: 400; letter-spacing: 0; text-transform: none; }
+
+.buy-list li { display: grid; }
+.buy-list label { justify-content: flex-start; }
+.buy-price { margin-left: auto; color: var(--plum); font-weight: 500; white-space: nowrap; }
+.buy-unit { padding-left: 1.7rem; font-size: 0.75rem; color: var(--muted); }
+.buy-total, .cart-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  margin: 0 0 0.5rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.75rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--plum);
+}
+.buy-total:empty, .cart-total:empty { display: none; }
+.buy-total strong, .cart-total strong { font-family: var(--serif); font-size: 1.5rem; font-weight: 400; letter-spacing: 0; }
+.cart-total small { flex-basis: 100%; margin-top: 0.25rem; font-size: 0.75rem; letter-spacing: 0; text-transform: none; color: var(--muted); }
+.sheet .price-note { margin: 0 0 1.5rem; font-size: 0.8125rem; }
+.cart-item-price { font-size: 0.8125rem; color: var(--plum); }

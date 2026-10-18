@@ -496,7 +496,8 @@ function updateFindButton() {
 }
 
 // PLACEHOLDER: replace with your real recipe-matching logic or API call.
-async function findRecipes(utensils, ingredients) {
+// preferences = { diets: ["vegetarian"], allergies: ["peanuts", "kiwi"] }
+async function findRecipes(utensils, ingredients, preferences = { diets: [], allergies: [] }) {
   // const res = await fetch("/api/recipes", {
   //   method: "POST",
   //   headers: { "Content-Type": "application/json" },
@@ -550,7 +551,30 @@ function renderRecipes(recipes) {
     if (missing.length) {
       const h2 = document.createElement("h4");
       h2.textContent = "You’ll also need";
-      card.append(h2, makeList(missing, "missing"));
+
+      // Each missing item with its estimated price (see prices.js)
+      const ul = document.createElement("ul");
+      ul.className = "missing priced";
+      for (const name of missing) {
+        const li = document.createElement("li");
+        li.innerHTML = `<div class="priced-line"><span class="priced-name"></span><span class="priced-price"></span></div><span class="priced-unit"></span>`;
+        li.querySelector(".priced-name").textContent = name;
+        if (window.Prices) {
+          const est = Prices.estimate(name);
+          li.querySelector(".priced-price").textContent = `~${Prices.format(est.price)}`;
+          li.querySelector(".priced-unit").textContent = est.unit;
+        }
+        ul.append(li);
+      }
+      card.append(h2, ul);
+
+      if (window.Prices) {
+        const totalLine = document.createElement("p");
+        totalLine.className = "est-total";
+        totalLine.innerHTML = `<span>Estimated cost</span><strong></strong>`;
+        totalLine.querySelector("strong").textContent = `~${Prices.format(Prices.total(missing))}`;
+        card.append(totalLine);
+      }
     }
 
     // "Cook this" asks to buy missing ingredients (see shop.js)
@@ -573,7 +597,7 @@ function initCook() {
     btn.disabled = true;
     btn.innerHTML = `<span class="spinner" aria-hidden="true"></span>Finding recipes…`;
 
-    const recipes = await findRecipes([...state.utensils.selected], [...state.ingredients.selected]);
+    const recipes = await findRecipes([...state.utensils.selected], [...state.ingredients.selected], state.preferences);
 
     btn.textContent = "Find recipes";
     btn.disabled = false;
@@ -584,8 +608,102 @@ function initCook() {
   });
 }
 
+// ---------- Preferences (diet and allergies) ----------
+// Keep these in sync with DIETS and ALLERGIES in server.py
+const DIETS = ["vegetarian", "vegan", "pescatarian", "gluten-free", "dairy-free", "halal", "kosher", "keto", "low-carb", "paleo"];
+const ALLERGIES = ["peanuts", "tree nuts", "milk", "eggs", "fish", "shellfish", "wheat", "soy", "sesame"];
+state.preferences = { diets: [], allergies: [] };
+
+const getPreferences = async () => (await api("/api/preferences")).preferences;
+const putPreferences = async (prefs) =>
+  (await api("/api/preferences", { method: "PUT", body: JSON.stringify(prefs) })).preferences;
+
+const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+
+function markProfileDirty() {
+  profileDirty = true;
+  const status = document.getElementById("save-status");
+  if (status) status.textContent = "You have unsaved changes.";
+}
+
+// Draws the diet and allergy checkboxes from state.preferences
+function renderPreferences() {
+  const prefs = state.preferences;
+  const makeOptions = (boxId, options, chosen, field) => {
+    const box = document.getElementById(boxId);
+    box.innerHTML = "";
+    for (const option of options) {
+      const label = document.createElement("label");
+      label.className = "pref-pill";
+      label.innerHTML = `<input type="checkbox"><span></span>`;
+      const input = label.querySelector("input");
+      input.value = option;
+      input.checked = chosen.includes(option);
+      label.querySelector("span").textContent = capitalize(option);
+      input.addEventListener("change", () => {
+        const list = state.preferences[field];
+        if (input.checked && !list.includes(option)) list.push(option);
+        if (!input.checked) state.preferences[field] = list.filter((x) => x !== option);
+        markProfileDirty();
+      });
+      box.append(label);
+    }
+  };
+  makeOptions("diet-options", DIETS, prefs.diets, "diets");
+  makeOptions("allergy-options", ALLERGIES, prefs.allergies, "allergies");
+
+  // Allergies the person typed in themselves
+  const custom = document.getElementById("custom-allergies");
+  custom.innerHTML = "";
+  for (const allergy of prefs.allergies.filter((a) => !ALLERGIES.includes(a))) {
+    const li = document.createElement("li");
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className = "chip";
+    chip.setAttribute("aria-label", `Remove ${allergy}`);
+    chip.innerHTML = `<span></span><span class="x" aria-hidden="true">✕</span>`;
+    chip.firstChild.textContent = capitalize(allergy);
+    chip.addEventListener("click", () => {
+      state.preferences.allergies = state.preferences.allergies.filter((a) => a !== allergy);
+      markProfileDirty();
+      renderPreferences();
+    });
+    li.append(chip);
+    custom.append(li);
+  }
+}
+
+async function initPreferences() {
+  try {
+    state.preferences = await getPreferences();
+  } catch (err) {
+    document.getElementById("save-status").textContent = err.message;
+  }
+  renderPreferences();
+
+  const input = document.getElementById("custom-allergy");
+  const add = () => {
+    const allergy = input.value.trim().toLowerCase();
+    if (!allergy) return;
+    if (!state.preferences.allergies.includes(allergy)) {
+      state.preferences.allergies.push(allergy);
+      markProfileDirty();
+    }
+    input.value = "";
+    renderPreferences();
+  };
+  document.getElementById("add-allergy-btn").addEventListener("click", add);
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      add();
+    }
+  });
+}
+
 // ---------- Profile page ----------
 async function initProfile() {
+  await initPreferences();
   document.getElementById("welcome").textContent = `Signed in as ${currentUser.username}`;
   const status = document.getElementById("save-status");
   const saveBtn = document.getElementById("save-profile-btn");
@@ -606,8 +724,10 @@ async function initProfile() {
     try {
       const utensils = await putSaved("utensils", [...state.utensils.selected]);
       const staples = await putSaved("ingredients", [...state.ingredients.selected]);
+      state.preferences = await putPreferences(state.preferences);
+      renderPreferences();
       profileDirty = false;
-      status.textContent = `Saved ${plural(utensils.length, "utensils")} and ${plural(staples.length, "staples")}.`;
+      status.textContent = `Saved ${plural(utensils.length, "utensils")}, ${plural(staples.length, "staples")} and your preferences.`;
     } catch (err) {
       status.textContent = err.message;
     }
@@ -697,8 +817,12 @@ function initLogin() {
   for (const kind of ["utensils", "ingredients"]) {
     const { data, fallback } = await loadData(kind);
     buildPanel(kind, data, fallback);
+    if (kind === "ingredients" && window.Prices) Prices.registerCategories(state.ingredients.items);
   }
 
   if (PAGE === "profile") await initProfile();
-  if (PAGE === "cook") initCook();
+  if (PAGE === "cook") {
+    if (currentUser) state.preferences = await getPreferences().catch(() => state.preferences);
+    initCook();
+  }
 })();

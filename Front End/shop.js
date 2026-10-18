@@ -94,6 +94,8 @@
         <h2 id="buy-title"></h2>
         <p class="muted buy-text"></p>
         <ul class="buy-list"></ul>
+        <p class="buy-total"></p>
+        <p class="hint price-note">Prices are estimates of typical U.S. grocery prices and vary by store.</p>
         <div class="sheet-actions">
           <button type="submit" value="add" class="btn btn-solid">Add to cart</button>
           <button type="submit" value="no" class="btn btn-quiet">No thanks</button>
@@ -110,6 +112,7 @@
       <p class="muted cart-empty">Your cart is empty. When a recipe needs ingredients you don’t have, you can add them here.</p>
       <ul class="cart-list"></ul>
       <div class="cart-checkout">
+        <p class="cart-total"></p>
         <div class="instacart-box" hidden>
           <button type="button" class="btn btn-solid instacart-btn">Send cart to Instacart</button>
           <p class="hint">Opens Instacart with these items listed, ready to add to your cart.</p>
@@ -173,13 +176,38 @@
       box.checked = !already;
       box.disabled = already;
       li.querySelector("span").textContent = already ? `${name} (already in your cart)` : name;
+      if (window.Prices) {
+        const est = Prices.estimate(name);
+        const price = document.createElement("span");
+        price.className = "buy-price";
+        price.textContent = `~${Prices.format(est.price)}`;
+        price.title = est.unit;
+        const unit = document.createElement("span");
+        unit.className = "buy-unit";
+        unit.textContent = est.unit;
+        li.querySelector("label").append(price);
+        li.append(unit);
+      }
       list.append(li);
     }
 
+    updateBuyTotal();
     askDialog.dataset.recipe = recipe.name;
     askDialog.returnValue = "";
     askDialog.showModal();
   }
+
+  function updateBuyTotal() {
+    const el = askDialog.querySelector(".buy-total");
+    if (!window.Prices) {
+      el.textContent = "";
+      return;
+    }
+    const names = [...askDialog.querySelectorAll(".buy-list input:checked:not(:disabled)")].map((b) => b.value);
+    el.innerHTML = `<span>Estimated total</span><strong></strong>`;
+    el.querySelector("strong").textContent = `~${Prices.format(Prices.total(names))}`;
+  }
+  askDialog.addEventListener("change", updateBuyTotal);
 
   askDialog.addEventListener("close", () => {
     if (askDialog.returnValue !== "add") return;
@@ -209,12 +237,17 @@
           <div class="cart-item-text">
             <span class="cart-item-name"></span>
             <span class="cart-item-for"></span>
+            <span class="cart-item-price"></span>
           </div>
           <a class="cart-item-link" target="_blank" rel="noopener"></a>
           <button type="button" class="cart-item-remove">✕</button>
         </li>`);
       li.querySelector(".cart-item-name").textContent = item.name;
       li.querySelector(".cart-item-for").textContent = item.recipes.length ? `For ${item.recipes.join(", ")}` : "";
+      if (window.Prices) {
+        const est = Prices.estimate(item.name);
+        li.querySelector(".cart-item-price").textContent = `~${Prices.format(est.price)} · ${est.unit}`;
+      }
       const link = li.querySelector(".cart-item-link");
       link.href = store.url.replace("{q}", encodeURIComponent(item.name));
       link.textContent = `Find at ${store.name} ↗`;
@@ -222,6 +255,14 @@
       remove.setAttribute("aria-label", `Remove ${item.name}`);
       remove.addEventListener("click", () => removeFromCart(item.name));
       list.append(li);
+    }
+
+    const totalEl = cartDialog.querySelector(".cart-total");
+    if (window.Prices && cart.length) {
+      totalEl.innerHTML = `<span>Estimated total</span><strong></strong><small>Prices are estimates and vary by store.</small>`;
+      totalEl.querySelector("strong").textContent = `~${Prices.format(Prices.total(cart.map((i) => i.name)))}`;
+    } else {
+      totalEl.textContent = "";
     }
 
     const empty = cart.length === 0;

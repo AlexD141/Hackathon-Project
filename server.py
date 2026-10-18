@@ -23,7 +23,7 @@ from flask import Flask, abort, g, jsonify, redirect, request, send_from_directo
 from PIL import Image, UnidentifiedImageError
 from werkzeug.security import check_password_hash, generate_password_hash
 
-from recognizer import VOCAB_FILES, load_vocab, recognize
+from recognizer import VOCAB_FILES, get_groq_api_key, load_vocab, recognize
 
 ROOT = Path(__file__).parent
 DATA_DIR = ROOT / ".data"          # folders starting with "." are never served to the browser
@@ -98,6 +98,10 @@ def init_db():
                 kind TEXT NOT NULL,
                 name TEXT NOT NULL,
                 PRIMARY KEY (user_id, kind, name)
+            );
+            CREATE TABLE IF NOT EXISTS preferences (
+                user_id INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
+                data TEXT NOT NULL
             );
         """)
 
@@ -263,6 +267,50 @@ def instacart_link():
     return jsonify(url=url)
 
 
+# ---------- Preferences (diet and allergies) ----------
+# Keep these in sync with DIETS and ALLERGIES in Front End/app.js
+DIETS = {"vegetarian", "vegan", "pescatarian", "gluten-free", "dairy-free",
+         "halal", "kosher", "keto", "low-carb", "paleo"}
+ALLERGIES = {"peanuts", "tree nuts", "milk", "eggs", "fish", "shellfish", "wheat", "soy", "sesame"}
+EMPTY_PREFERENCES = {"diets": [], "allergies": []}
+
+
+@app.get("/api/preferences")
+def get_preferences():
+    user = current_user()
+    if user is None:
+        return jsonify(error="Sign in to see your preferences."), 401
+    row = db().execute("SELECT data FROM preferences WHERE user_id = ?", (user["id"],)).fetchone()
+    return jsonify(preferences=json.loads(row["data"]) if row else EMPTY_PREFERENCES)
+
+
+@app.put("/api/preferences")
+def put_preferences():
+    user = current_user()
+    if user is None:
+        return jsonify(error="Sign in to save your preferences."), 401
+
+    body = request.get_json(silent=True) or {}
+    diets = sorted({str(d).strip().lower() for d in body.get("diets", [])} & DIETS)
+
+    allergies = []
+    for a in body.get("allergies", []):
+        a = str(a).strip().lower()
+        # Known allergies, or a custom one the person typed (short, sensible text)
+        if a and len(a) <= 40 and a not in allergies:
+            allergies.append(a)
+    allergies = allergies[:30]
+
+    prefs = {"diets": diets, "allergies": allergies}
+    db().execute(
+        "INSERT INTO preferences (user_id, data) VALUES (?, ?) "
+        "ON CONFLICT(user_id) DO UPDATE SET data = excluded.data",
+        (user["id"], json.dumps(prefs)),
+    )
+    db().commit()
+    return jsonify(preferences=prefs)
+
+
 # ---------- Photo detection ----------
 # Loaded once - recognizer.py matches against these (ingredients use the common subset)
 VOCABS = {kind: load_vocab(path) for kind, path in VOCAB_FILES.items()}
@@ -316,7 +364,7 @@ def files(path):
 
 if __name__ == "__main__":
     init_db()
-    if not os.environ.get("GROQ_API_KEY"):
+    if not get_groq_api_key():
         print("Warning: GROQ_API_KEY isn't set, so photo detection will fail. "
               "Get a key at https://console.groq.com/keys")
     app.run(host="0.0.0.0", port=8000, debug=False)
