@@ -5,10 +5,11 @@ Start it from the project folder:
     python server.py
 Then open port 8000 and go to /Front%20End/
 
-If ANTHROPIC_API_KEY is set, photos are read by Claude (most accurate).
-Otherwise the free CLIP model in detector.py is used.
+Photo detection uses the vision model in recognizer.py, so set GROQ_API_KEY
+first (get one at https://console.groq.com/keys).
 """
 
+import io
 import json
 import os
 import re
@@ -22,10 +23,11 @@ from flask import Flask, abort, g, jsonify, redirect, request, send_from_directo
 from PIL import Image, UnidentifiedImageError
 from werkzeug.security import check_password_hash, generate_password_hash
 
+from recognizer import VOCAB_FILES, load_vocab, recognize
+
 ROOT = Path(__file__).parent
 DATA_DIR = ROOT / ".data"          # folders starting with "." are never served to the browser
 DB_PATH = DATA_DIR / "app.db"
-USE_CLAUDE = bool(os.environ.get("ANTHROPIC_API_KEY"))
 
 # Which list each kind is matched against
 LISTS = {
@@ -262,18 +264,8 @@ def instacart_link():
 
 
 # ---------- Photo detection ----------
-_detectors = {}
-
-
-def get_detector(kind):
-    if kind not in _detectors:
-        if USE_CLAUDE:
-            from ai_detector import ClaudeListDetector
-            _detectors[kind] = ClaudeListDetector(LISTS[kind], kind)
-        else:
-            from detector import ListDetector
-            _detectors[kind] = ListDetector(LISTS[kind], kind)
-    return _detectors[kind]
+# Loaded once - recognizer.py matches against these (ingredients use the common subset)
+VOCABS = {kind: load_vocab(path) for kind, path in VOCAB_FILES.items()}
 
 
 @app.post("/api/detect/<kind>")
@@ -285,17 +277,19 @@ def detect(kind):
     if photo is None:
         return jsonify(error="No photo was sent. Send the image in a form field named “photo”."), 400
 
+    data = photo.read()
     try:
-        image = Image.open(photo.stream)
+        image = Image.open(io.BytesIO(data))
         image.load()
     except (UnidentifiedImageError, OSError):
         return jsonify(error="That file isn’t an image. Upload a JPG or PNG photo."), 400
+    mime = Image.MIME.get(image.format, "image/jpeg")
 
     try:
-        found = get_detector(kind).detect(image)
-    except Exception as err:  # e.g. bad API key or no internet
-        print("Detection failed:", repr(err))
-        return jsonify(error=f"Photo detection failed: {err.__class__.__name__}. Check the terminal running server.py."), 502
+        found = recognize(data, mime, VOCABS[kind], kind=kind)
+    except RuntimeError as err:  # e.g. missing API key, all models busy, no internet
+        print("Detection failed:", err)
+        return jsonify(error=f"Photo detection failed: {str(err).splitlines()[0][:200]}"), 502
 
     return jsonify(items=[f["name"] for f in found], scores=found)
 
@@ -322,7 +316,7 @@ def files(path):
 
 if __name__ == "__main__":
     init_db()
-    print("Photo detection:", "Claude" if USE_CLAUDE else "CLIP (free, less accurate). Set ANTHROPIC_API_KEY to use Claude.")
-    if not USE_CLAUDE:
-        get_detector("ingredients")  # load CLIP up front so the first photo isn't slow
+    if not os.environ.get("GROQ_API_KEY"):
+        print("Warning: GROQ_API_KEY isn't set, so photo detection will fail. "
+              "Get a key at https://console.groq.com/keys")
     app.run(host="0.0.0.0", port=8000, debug=False)
