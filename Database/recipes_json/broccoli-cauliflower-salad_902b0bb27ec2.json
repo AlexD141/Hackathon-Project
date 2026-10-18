@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14307/broccoli-cauliflower-salad/",
+  "extracted_at": "2026-10-18T01:58:51.299157+00:00",
+  "recipes": [
+    {
+      "name": "Broccoli Cauliflower Salad",
+      "ingredients_raw": [
+        "6 slices bacon",
+        "1 cup mayonnaise",
+        "0.5 cup white sugar",
+        "2 tablespoons white wine vinegar",
+        "1 cup broccoli florets",
+        "1 cup cauliflower florets",
+        "2 cups hard-cooked eggs, diced",
+        "1 cup shredded Cheddar cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain, remove from the heat, and crumble when cool enough to handle."
+        },
+        {
+          "id": 2,
+          "text": "Whisk mayonnaise, sugar, and vinegar together in a small bowl."
+        },
+        {
+          "id": 3,
+          "text": "Layer broccoli, cauliflower, eggs, Cheddar, and crumbled bacon (in that order) in a medium bowl. Drizzle dressing over top and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Broccoli Cauliflower Salad",
+        "datePublished": "1999-08-10T00:24:59-04:00",
+        "dateModified": "2025-12-22T12:13:08-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Colleen"
+          }
+        ],
+        "description": "This simple broccoli and cauliflower salad is layered with hard-boiled eggs, Cheddar cheese, and bacon and served with a tasty mayonnaise-based dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/O435MF6bICbqzM2jcJ_vdYggr0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2875-7c726106613a4fdcb2fe6fed651f0fd2.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/eOQCycVd-ma1DlVvV.mp4",
+          "description": "AR1249",
+          "duration": "PT2M42S",
+          "name": "Broccoli-Cauliflower Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/eOQCycVd/poster.jpg?width=1280",
+          "uploadDate": "2021-07-20T05:54:00-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Broccoli Cauliflower Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "302"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "400 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "177 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "453 mg",
+          "sugarContent": "14 g",
+          "fatContent": "33 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 slices bacon",
+          "1 cup mayonnaise",
+          "0.5 cup white sugar",
+          "2 tablespoons white wine vinegar",
+          "1 cup broccoli florets",
+          "1 cup cauliflower florets",
+          "2 cups hard-cooked eggs, diced",
+          "1 cup shredded Cheddar cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain, remove from the heat, and crumble when cool enough to handle."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk mayonnaise, sugar, and vinegar together in a small bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/O435MF6bICbqzM2jcJ_vdYggr0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2875-7c726106613a4fdcb2fe6fed651f0fd2.jpg"
+              }
+            ],
+            "text": "Layer broccoli, cauliflower, eggs, Cheddar, and crumbled bacon (in that order) in a medium bowl. Drizzle dressing over top and serve."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JONESCLAN"
+            },
+            "reviewBody": "I did some research... After cutting the dressing in half- which is sufficent- and changing the mayo to fat-free mayo and the sugar to splenda and 1 oz. of cheese- it changed the calorie intake to about 80 calories instead of 400+. And it tastes just as good. My 2 cents. Thanks for this great recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LindaP"
+            },
+            "reviewBody": "I make this salad often, with less sugar and used Splenda. I also use hormel real bacon bits, the whole small bag. This really cuts back on calories and carbs. Red onions work well. I will be trying the curry and raisins. Toss night before serving, toss again before serving.",
+            "datePublished": "2014-05-29T11:08:09.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jill"
+            },
+            "reviewBody": "This is delicious!! I’ve made it a few times. Cut the dressing in half though or you will have about 2 cups left!! Way too much. I also don’t add all the sugar because it’s too sweet. I add about 1/3 of the sugar. I add sunflower seeds to it also.",
+            "datePublished": "2021-08-21T08:59:14.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elgie"
+            },
+            "reviewBody": "Delicious. The whole family gave it 5 stars. Made this salad without bacon to make it vegetarian. Followed advice of some reviewers and only added half of the dressing but it was not enough for our taste so I added more. In total I’d say I put 3/4 of the dressing which more than enough. I also added some red onion and sunflower seeds per recommendations. Even more delicious. I couldn’t help myself and added pumpkin seeds too.",
+            "datePublished": "2021-09-01T02:05:05.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "My Dah"
+            },
+            "reviewBody": "I love this salad in all of its myriad forms. I have NEVER used any sweetener in the dressing: only mayonnaise and sometimes a little balsamic vinegar. AND the veggies can be cooked slightly (very slightly parboiled) for those who cannot digest raw food well--be sure they are still crunchy. I like adding boiled eggs and the bacon is essential. You can also add chopped onion, celery, bell pepper for extra crunch/flavor. Season with salt and pepper to taste and add some cayenne if you like it spicy. Everyone loves it, even those who say they don't like broccoli or cauliflower.",
+            "datePublished": "2012-01-09T06:54:48.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MexicoKaren"
+            },
+            "reviewBody": "Thanks, Colleen, for this great recipe. I also made a few tweeks: I used less egg, subbed Splenda for the sugar, added some diced red pepper for color and some chopped red onion. And, I mixed it all together. We loved it, and I'm sure I will make it again and again.",
+            "datePublished": "2012-05-24T19:04:50.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "a84martin"
+            },
+            "reviewBody": "My mother used to make this when I was a kid and we loved it. I could not remember the recipe, so I found this, it is pretty close. Although after making this version, it is too sweet and has too much dressing. I did 1 1/2 cups of each broccoli and cauliflower 1 cup fat free mayo, 2 tbls water, 2 hard boiled eggs 1/2 cup shredded cheese, 1/4 cup sugar, 6 slices chopped bacon, and to add a little kick I also finely chop 1/4 cup red onion. I just mix everything together. \nThe red onion just adds something special! My 7 yr old twins HATE onion but LOVED this, in fact it turns out they wanted seconds and begged me to make it again!",
+            "datePublished": "2014-04-17T08:07:43.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "This was delicious! I made this as a one-bowl lunch for myself and just mixed everything together. I can see the layering, as the instructions state, if you're looking for a nice presentation to serve to a crowd. I scaled this down to 4 servings (1/2 cup each of the veggies). I cut the dressing back again, because I couldn't see using 1/2 cup mayo just for a bowl for myself. The dressing worked very well with all of the ingredients. I also just used one hard-boiled egg. Topped with salt and pepper for a delicious and healthy lunch! Nice recipe!",
+            "datePublished": "2016-11-06T17:14:54.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa"
+            },
+            "reviewBody": "I've made this twice. the first time I stuck to the recipe. the second time, I blanched the veggies for 1 minute then cooled. I reduced the sugar by 1/2 , used rice wine vinegar, and added diced red onion. The kids loved it but said, \"less sugar next time! \" Third time's a charm!",
+            "datePublished": "2016-03-22T16:44:48.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shanlee"
+            },
+            "reviewBody": "Best Broccoli Salad Ever!! The dressing is to die for! Firstly, I was so happy to find a Broccoli Salad recipe that doesn't have onions in it because I am not a fan. I always double the broccoli and cauliflower which makes the amount of dressing perfect. Do not skip the eggs if you can help it. Definitely add sunflower seeds as other reviewers suggest, it adds a great crunch. And lastly, make sure you wait to add the dressing, topped with bacon and sunflower seeds, right before serving. SO GOOD!",
+            "datePublished": "2020-03-04T21:36:43.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anna Vargo"
+            },
+            "reviewBody": "I made this only slightly different to recipe due to other people's recommendations. I used whole cauliflower head, 3 brocolli bunches-cut both into bite size pieces. Made for two functions so I halved each evenly and placed into 2 separate bowls. I omited egg. I used pre-cooked bacon (to save on time), using 6 slices for each bowl of broc/caul blend. Also added 1 cup shredded cheddar to each bowl, and 1/4 cup red onion to each bowl. (i placed cheese, bacon, and mayo blend in just before serving). Mayo blend--I used 1 cup mayo, 1 tbsp white vinegar, and 1 teaspoon lemon juice (didn't have white wine vinegar). I then divided the amount equally and added each half into each bowl. Just enough to coat and give flavor, but not enough to make it too mayonaisy, if that makes sense. 1st group left no leftovers and mentioned they didn't think they'd like but did. Other group not as many tried but those that did, liked it. I really liked it and that's why I'm giving 5 stars. Thanks for the recipe. I was looking for something different and will be making this in future when I have two functions to attend. One prep time, two functions--couldn't be any better!",
+            "datePublished": "2010-06-20T18:49:41.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beverly Berry Kerr"
+            },
+            "reviewBody": "Less sugar, added golden raisins and cranberries",
+            "datePublished": "2026-08-28T14:29:56.922Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lewarner"
+            },
+            "reviewBody": "This needed more tang and I cut the sugar in half. Way too much in the recipe. Added green onion tops and the eggs. Used all the vinegar but not wine vinegar. Added lemon juice to kick it up. A little salt helped. Added black pepper. As written it just seemed bland and too sweet.",
+            "datePublished": "2026-03-30T00:09:35.274Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaringPan3210"
+            },
+            "reviewBody": "I should have left the dressing on the side as advised above. Day 2 it still tastes great but I'm finding myself squeezing out the excess dressing. Overall though. Solid take on a classic. Good recipe.",
+            "datePublished": "2025-06-22T19:02:24.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DjinnLily"
+            },
+            "reviewBody": "Of course its good. Different spin on seven layer salad. Yes you can use Miracle Whip instead of mixing the dressing yourself.",
+            "datePublished": "2025-05-11T00:43:52.054Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "luv2cook"
+            },
+            "reviewBody": "Sugar on broccoli? Well, I tried it.",
+            "datePublished": "2024-07-13T17:17:37.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rcgiere"
+            },
+            "reviewBody": "I didn't add bacon or eggs and it turned out great! I'd make sure that you stuff that cup with veggies or you're going to have extra dressing",
+            "datePublished": "2021-11-29T01:26:21.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Firebrand"
+            },
+            "reviewBody": "I made this last night but I added green onions and tomato and only made about half of the dressing. It was delicious and this morning, after being in the fridge overnight, it was wonderful!",
+            "datePublished": "2021-06-15T15:04:00.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "debi"
+            },
+            "reviewBody": "I didn’t have wine vinegar so I used an old opened Bottle of white wine and it did just fine. I’ve been making this salad since it was discovered while vacationing in NC, when I was looking for something to make with the ingredients I had on hand. My husband and I loved it so much that it has become a staple in our home. What a great find!",
+            "datePublished": "2020-10-04T18:34:12.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ernestina Muniz"
+            },
+            "reviewBody": "Not what I was expecting needed so!etching else.",
+            "datePublished": "2020-07-06T19:56:52.400Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14307/broccoli-cauliflower-salad/",
+          "name": "Broccoli Cauliflower Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

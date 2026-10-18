@@ -1,0 +1,334 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17153/seafood-boil/",
+  "extracted_at": "2026-10-18T02:24:57.520242+00:00",
+  "recipes": [
+    {
+      "name": "Seafood Boil",
+      "ingredients_raw": [
+        "5 pounds new red potatoes",
+        "3 pounds kielbasa sausage, cut into 1 inch pieces",
+        "1 (8 fluid ounce) bottle liquid shrimp and crab boil seasoning",
+        "salt to taste",
+        "12 ears fresh corn",
+        "4 lemons, halved",
+        "1 tablespoon diced green chile pepper, or to taste",
+        "10 pounds medium shrimp - peeled and deveined",
+        "12 blue crabs, cleaned"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Fill a large, 40-quart pot half full with water; bring water to a full boil."
+        },
+        {
+          "id": 2,
+          "text": "Add potatoes, sausage, shellfish boil seasoning, and salt. Cook until potatoes are halfway cooked."
+        },
+        {
+          "id": 3,
+          "text": "Stir in corn, lemons, and chile pepper; continue boiling until vegetables are tender. Turn off heat."
+        },
+        {
+          "id": 4,
+          "text": "Mix in shrimp and crab. Cover the pot and let sit until shrimp are pink and crabmeat is opaque and flaky, 10 to 15 minutes. Remove vegetables and shellfish from the pot; drain well. Serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Seafood Boil",
+        "datePublished": "1999-07-27T22:43:58-04:00",
+        "dateModified": "2026-03-16T08:10:19-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gary W Brown"
+          }
+        ],
+        "description": "This seafood boil recipe is made with shrimp, crab, corn, potatoes, and sausage boiled in one pot with seasoned water, perfect for outdoor gatherings.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/--j0BicFanJ_o7svP5R2tKHHvMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17153-seafood-boil-ddmfs-4x3-38-1c1e79ca1f6d44c89f7b2390d860dd93.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Seafood Boil",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "16"
+        },
+        "cookTime": "PT30M",
+        "keywords": "publisher-tested",
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "5 pounds new red potatoes",
+          "3 pounds kielbasa sausage, cut into 1 inch pieces",
+          "1 (8 fluid ounce) bottle liquid shrimp and crab boil seasoning",
+          "salt to taste",
+          "12 ears fresh corn",
+          "4 lemons, halved",
+          "1 tablespoon diced green chile pepper, or to taste",
+          "10 pounds medium shrimp - peeled and deveined",
+          "12 blue crabs, cleaned"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Fill a large, 40-quart pot half full with water; bring water to a full boil."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/MfuGpg8H16NrtFADtaBg5VM7apI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17153-seafood-boil-ddmfs-step-3-27-8b9fa00c175c463183c139de05b15279.jpg"
+              }
+            ],
+            "text": "Add potatoes, sausage, shellfish boil seasoning, and salt. Cook until potatoes are halfway cooked."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6cHIQ4yMb5i3vMhOAdQgA5HSVTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17153-seafood-boil-ddmfs-step-4-28-e1acc20f776044ca9491b9e8fbcde080.jpg"
+              }
+            ],
+            "text": "Stir in corn, lemons, and chile pepper; continue boiling until vegetables are tender. Turn off heat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/POOyezci1dDk4_L4P9AfsSZCIiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17153-seafood-boil-ddmfs-step-5-29-7463569b4e104919bd6887edab552d3f.jpg"
+              }
+            ],
+            "text": "Mix in shrimp and crab. Cover the pot and let sit until shrimp are pink and crabmeat is opaque and flaky, 10 to 15 minutes. Remove vegetables and shellfish from the pot; drain well. Serve immediately."
+          }
+        ],
+        "recipeYield": "15",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mariellen Hallcox"
+            },
+            "reviewBody": "this recipe was great. I changed it around a little by adding some different kinds of seafood. My family really loved it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HotLamb9285"
+            },
+            "reviewBody": "Added more seafood",
+            "datePublished": "2022-04-26T19:50:34.205Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steelieratom"
+            },
+            "reviewBody": "Variations, potatoes, onions, cor on the cob,, garlic, shrimp, crabs, lobster, parsley, lemon, anduille sausage, and brat wurst. My 10 year old granddaughter wanted some badly, so no hot stuff in it. Excellent recipe. Love the spices. Even added a bottle of dark beer during cooking.",
+            "datePublished": "2021-06-14T04:49:31.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marian Thomas"
+            },
+            "reviewBody": "Added some chicken bc my daughter doesnt eat the sausage....delicious!!!",
+            "datePublished": "2020-10-15T19:16:23.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chris"
+            },
+            "reviewBody": "we winter in texas and have access to fresh shrimp. we brought some back to SD for christmas and made a boil. we added brussel sprouts (it's a texas thing), it was a tremendous hit.",
+            "datePublished": "2015-01-07T08:11:23.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chiefnut"
+            },
+            "reviewBody": "WOW, this turned out great. This was just as good as our local chain restaurant. The family loved it and really pretty easy to make.",
+            "datePublished": "2014-05-23T04:09:22.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pritty1npink"
+            },
+            "reviewBody": "Nothing spectacular.",
+            "datePublished": "2012-07-10T15:27:38.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "justpeej55"
+            },
+            "reviewBody": "Awesome and easy - directions were easy and turned out perfect. I used Zatarains instead of the liquid seasoning - otherwise followed as is. Note: when this says 15 servings - it means it - not one of those where you get less than expected. We scaled back to 10 and ended up with way too much!!",
+            "datePublished": "2012-02-17T06:35:01.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Keri123179"
+            },
+            "reviewBody": "Omitted the green chili pepper and used Cajun seasoning at the time I added the liquid boil. Also, when I cut down the recipe for 4, it said to get over two lbs of shrimp and 4 lbs of crab. We had SOOOOOO much left over. That is okay, recipe was great!!",
+            "datePublished": "2010-07-22T15:26:37.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "APearl"
+            },
+            "reviewBody": "Outstanding!",
+            "datePublished": "2009-09-21T13:17:45.830Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17153/seafood-boil/",
+          "name": "Seafood Boil",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13290/main-dish/seafood/",
+                  "name": "Seafood Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13302/main-dish/seafood/crab/",
+                  "name": "Crab"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

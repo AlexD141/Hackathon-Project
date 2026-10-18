@@ -1,0 +1,457 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/171999/chocolate-chex-caramel-crunch/",
+  "extracted_at": "2026-10-18T02:25:09.494623+00:00",
+  "recipes": [
+    {
+      "name": "Chocolate Chex Caramel Crunch",
+      "ingredients_raw": [
+        "8 cups Chocolate Chex® cereal",
+        "0.75 cup packed brown sugar",
+        "6 tablespoons butter or margarine",
+        "3 tablespoons light corn syrup",
+        "0.25 teaspoon baking soda",
+        "0.25 cup vanilla baking chips"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place cereal in a large microwave-safe bowl; set aside. Line a cookie sheet with waxed paper."
+        },
+        {
+          "id": 2,
+          "text": "In a 2-cup microwave-safe measuring cup, microwave brown sugar, butter, and corn syrup uncovered on High 1 to 2 minutes, stirring after 1 minute, until melted and smooth."
+        },
+        {
+          "id": 3,
+          "text": "Stir baking soda into sugar mixture, stirring until dissolved. Pour over cereal, stirring until evenly coated. Microwave coated cereal on High 3 minutes, stirring every minute."
+        },
+        {
+          "id": 4,
+          "text": "Spread cereal mixture over the prepared cookie sheet. Cool 10 minutes. Break into bite-sized pieces."
+        },
+        {
+          "id": 5,
+          "text": "In a small microwave-safe bowl, microwave vanilla baking chips uncovered on High about 1 minute 30 seconds or until chips can be stirred smooth (bowl will be hot)."
+        },
+        {
+          "id": 6,
+          "text": "Drizzle melted baking chips over snack. Refrigerate until set, 10 minutes or longer. Store in a tightly covered container."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chocolate Chex Caramel Crunch",
+        "datePublished": "2008-07-17T16:24:44-04:00",
+        "dateModified": "2026-08-13T12:51:12-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chex"
+          }
+        ],
+        "description": "This Chocolate Chex mix is easy and delicious. Brown sugar and butter turn into caramel goodness that surrounds chocolate cereal squares for a scrumptious, crunchy snack.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/wrP6r9KfHNLO01sGMjvASOo4W_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/993123-34576163f2c6454a9f4867dfe40344b9.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chocolate Chex Caramel Crunch",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "87"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "197 kcal",
+          "carbohydrateContent": "33 g",
+          "cholesterolContent": "11 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "218 mg",
+          "sugarContent": "16 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 cups Chocolate Chex® cereal",
+          "0.75 cup packed brown sugar",
+          "6 tablespoons butter or margarine",
+          "3 tablespoons light corn syrup",
+          "0.25 teaspoon baking soda",
+          "0.25 cup vanilla baking chips"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place cereal in a large microwave-safe bowl; set aside. Line a cookie sheet with waxed paper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a 2-cup microwave-safe measuring cup, microwave brown sugar, butter, and corn syrup uncovered on High 1 to 2 minutes, stirring after 1 minute, until melted and smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir baking soda into sugar mixture, stirring until dissolved. Pour over cereal, stirring until evenly coated. Microwave coated cereal on High 3 minutes, stirring every minute."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread cereal mixture over the prepared cookie sheet. Cool 10 minutes. Break into bite-sized pieces."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a small microwave-safe bowl, microwave vanilla baking chips uncovered on High about 1 minute 30 seconds or until chips can be stirred smooth (bowl will be hot)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drizzle melted baking chips over snack. Refrigerate until set, 10 minutes or longer. Store in a tightly covered container."
+          }
+        ],
+        "recipeYield": [
+          "16",
+          "8 cups"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelley"
+            },
+            "reviewBody": "This is a 5-star recipe all on it's own, but it's a 10-star in my book with the following additions and changes: I added 2 cups of pecan halves and 2 cups of pretzels. One 14.25 ounce box of Chocolate Chex mix is just over 9 cups so I put the whole box in. I increased the butter to one stick (or 8 TBS), increased brown sugar to 1 full cup packed plus 1 heaping TBS and increased corn syrup to 4 TBS and a 1/4 plus a little more tsp of the baking soda. It was a little work to mix it all up, but WELL worth it in the end! Left out the chocolate drizzle as this didn't add much to the treats and was quite messy if you pick up a handful to munch. You won't miss it, honest. This has turned into our favorite!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FOODWIZ"
+            },
+            "reviewBody": "Really good!I'm not big on microwaving, so I prepared it like I would do caramel. I put the butter, sugar, and cornsyrup in a pan over medium low heat until it was melted, then increased the heat to get it bubbling (about med-high). I let it simmer for about 3 minutes, then stirred in the baking soda, let it simmer for about 15-30 sec more (stirring constantly) and then poured over the cereal. You have to work fast before it hardens up, or put your mixing bowl with cereal over another bowl of hot water to keep it \"loose\". I then drizzled with melted peanut butter chips, and YUM!",
+            "datePublished": "2008-12-04T13:53:50.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Young"
+            },
+            "reviewBody": "This stuff is way better than I expected it to be. I actually improvised on this one somewhat. I didn't have chocolate Chex, so I used Corn and Honey Nut (4 c each). Many reviewers mentioned adding something salty, so I threw in some peanuts and broken pretzels. Then I thought about the 1/4 bag of white chocolate chips in the pantry and threw those in, too. And I remembered 2 Hershey bars left over from S'mores, so they were chopped and added to the cereal. Because I added more stuff to the bowl, I increased the caramel ingredients to compensate(1 c brown sugar, 8 Tbls butter, 4 Tbls corn syrup, 1/3 tsp soda). When I read the instructions again and realized it all had to go into the MW for 3 mins, I was concerned about the chocolate I'd added, but it all melted and blended in nicely. I didn't drizzle with anything because I was concerned about the messiness in eating. Finished product is delish and won't last long.",
+            "datePublished": "2017-12-22T22:03:50.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacey"
+            },
+            "reviewBody": "I love this mix. It's always a huge hit at parties and everyone asks for the recipe. The first time I made it the store was out of chocolate chex, so I bought regular. This worked great! It was actually better than when I made it with chocolate because that was too sweet. I also leave out the white chocolate and throw in a couple cups of pretzels and peanuts. One other trick - let the mix cool completely on wax paper, then when cool, gather the mix in the wax paper and crunch. It's much less messy and you get perfect bite-sized pieces.",
+            "datePublished": "2010-02-08T11:12:13.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky"
+            },
+            "reviewBody": "Well I read all of the changes people made which gave me courage to experiment. I had an old recipe somewhere for caramel corn where you place the popcorn in the brown paper bag, heated and shook to make. I used Chex Rice, Chex Corn and the left over chocolate Cheerios that I had. I used a mixture of 9 cups and left the rest of the recipe the same. Once the caramel was hot and I added the basing soda, stirred well then poured into the brown paper bag. Microwaved the mixture 1 min, shook the bag, 1 more min, shook the bag, then after the last minute, shook the bag and spread out on the cookie sheet. I skipped the white chocolate drizzle. Everyone loved it",
+            "datePublished": "2024-12-08T20:18:40.386Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SunshineMama"
+            },
+            "reviewBody": "Made this for a Christmas gift and could hardly keep out of it! It is really yummy! I couldn't find chocolate chex so I used 1/2 corn, 1/2 rice and then drizzled with 1/2 chocolate and 1/2 white chocolate chips. After I poured over the mixture on the cereal, I spread on a cookie sheet and I baked it for 20 minutes at 200 in the oven as opposed to microwaving the entire mix. Then I spread on parchment paper and drizzled the melted chocolates. Great and easy recipe!",
+            "datePublished": "2009-12-27T10:06:14.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bowhead"
+            },
+            "reviewBody": "Super easy! For those of you who don't like to drizzle, melt your chips/vanilla bark in a freezer ziplock bag at 30 second intervals. Squeeze the bag after each 30 seconds. Once it is melted (took about 1 minute), snip off a tiny corner and drizzle away. Soooo much easier!!",
+            "datePublished": "2014-12-06T15:10:01.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Goodchild"
+            },
+            "reviewBody": "Since my oven is not working I decided to try this recipe. I used mix of wheat,rice and corn chex, mini pretzels and popcorn trying to keep it to 8 cups combined. I also added slightly crushed peanuts and toffee bits to the mix. The \"carmel\" coating wasn't the gooey carmel but a nice light glazed coating almost like a crunchy toffee. I was afraid that cooking the whole mix in the microwave at the end was going to make the mix \"soggy\" but it held its crunch. Very easy to make. Tastes good too.",
+            "datePublished": "2008-12-22T08:28:06.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "indyscrapmom"
+            },
+            "reviewBody": "I used an entire 20 oz box and double the carmel topping. I melt about 1/2 cup to 3/4 cup dark chocolate chips and drizzle over top. Sometimes I use both chocolate and vanilla baking chips. You could also color the melted white chips for seasonal events.",
+            "datePublished": "2023-02-18T20:55:13.409Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan-from-Georgia"
+            },
+            "reviewBody": "I used the entire box of cereal. I added 1 cup of vanilla chips and 1 cup of pecans, and stirred them in before microwaving mixture.\nThis was an easy recipe to make, keep this in mind when you have to stir up something quick for a party or get-together.\n\nThis is addicting! \nSusan",
+            "datePublished": "2008-12-26T12:53:06.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "Great recipe for a quick sweet snack. Melt the white chips at 50% power - not high - or they will burn. Also, you can add pecans or peanuts for an even bigger \"bang.\" My daughter made this and said she also added minimarshmallows for a different twist.",
+            "datePublished": "2008-11-26T20:00:53.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cmach"
+            },
+            "reviewBody": "I put this yummy snack mix in cute Easter treat bags which I will put in my grandkids gift bags for Easter. I had to cut my mom and husband off so I would have enough! I did add nuts and pretzels but it was a great recipe on it’s own! I didn’t use the chocolate chips.",
+            "datePublished": "2023-04-07T21:35:42.619Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Haley Wolf"
+            },
+            "reviewBody": "Easy to make and always a hit with friends and family! Delicious and addictive!",
+            "datePublished": "2019-12-14T18:46:03.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lin"
+            },
+            "reviewBody": "Awesome! Just a few tweaks. I added 2 cups chopped pecans And I used 6 cups Chex mix 3 cups wheat Chex Chex 3 cups rice Chex. Next time I’ll use 3 cups choc Chex 3 cups rice Chex. Depending on how powerful your microwave you might want to cut back time to 2 minutes after all mixed together. Couple pieces got too brown.",
+            "datePublished": "2018-12-25T04:21:10.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vivian"
+            },
+            "reviewBody": "Making for the second time. . This is so quick and easy. I added dry roasted peanuts and toasted oats. Also used Crispix and left off the vanilla chip drizzle.",
+            "datePublished": "2017-01-09T17:12:01.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lani O"
+            },
+            "reviewBody": "Very yummy and easy! I didn't have chocolate chex so I used corn chex since that's what I had on hand. I did what other viewers said and omitted the white chocolate all together. I did add M&amp;M's at the end to have some chocolate and figured the hard candy coating would help so that it didn't melt and get gooey. It worked out good and was so simple. Next time I want to try this with the chocolate chex. I'm sure it tastes amazing!",
+            "datePublished": "2015-09-19T23:38:27.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HurdBird"
+            },
+            "reviewBody": "Family ate it like they hadn't seen food in 2 weeks. I'd say it's a 5-star recipe. :)",
+            "datePublished": "2015-07-05T18:50:02.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Turner"
+            },
+            "reviewBody": "I make this every year at Christmas, but at other times as well. I don't leave out the white chocolate chips! It tastes delicious with the white chocolate. It is a super easy recipe to make and doesn't require a ton of ingredients.",
+            "datePublished": "2012-01-25T15:15:30.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Tepen"
+            },
+            "reviewBody": "Interestingly, I've never actually used Chocolate Chex with this recipe, but using regular Chex has worked fantastically. Caramel-coated Chex mix. Mmmmm.",
+            "datePublished": "2010-09-30T19:07:02.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tired mom"
+            },
+            "reviewBody": "I made these without the chocolate, turned out good, but maybe a tad less baking soda, could taste it a little when done.",
+            "datePublished": "2010-01-14T19:37:48.147Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/171999/chocolate-chex-caramel-crunch/",
+          "name": "Chocolate Chex Caramel Crunch",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/82/trusted-brands-recipes-and-tips/",
+                  "name": "Trusted Brands: Recipes and Tips"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16140/trusted-brands-recipes-and-tips/chex-party-mix/",
+                  "name": "Chex&reg; Party Mix"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

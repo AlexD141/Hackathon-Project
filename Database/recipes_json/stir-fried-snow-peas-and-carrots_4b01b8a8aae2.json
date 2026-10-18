@@ -1,0 +1,423 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/146763/stir-fried-snow-peas-and-carrots/",
+  "extracted_at": "2026-10-18T02:01:23.570207+00:00",
+  "recipes": [
+    {
+      "name": "Stir-Fried Snow Peas and Carrots",
+      "ingredients_raw": [
+        "1 teaspoon soy sauce",
+        "1 teaspoon cornstarch",
+        "cooking spray",
+        "1 teaspoon sesame oil",
+        "0.5 pound snow peas",
+        "0.5 cup thinly sliced carrot",
+        "0.5 cup chicken broth"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk together the soy sauce and cornstarch in a bowl until cornstarch is completely dissolved; set aside."
+        },
+        {
+          "id": 2,
+          "text": "Prepare a skillet with cooking spray and place over medium heat; drizzle in the sesame oil. Place the snow peas and carrots in the skillet; stir-fry for 2 minutes. Pour the broth over the vegetables. Bring to a boil, cover, and reduce heat to low; simmer until vegetables are slightly softened, about 5 minutes. Stir in the soy sauce mixture; continue to stir-fry until the sauce has thickened."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Stir-Fried Snow Peas and Carrots",
+        "datePublished": "2020-03-26T18:07:15-04:00",
+        "dateModified": "2026-08-12T11:19:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "CKLEWIS"
+          }
+        ],
+        "description": "This is a quick and easy way to prepare snow peas and carrots with an Asian flavor--try them tonight!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/xxzIlwYoDU2Bs292nDq4jAcq8yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8918170-85280ef176c3414ca3fdd7dafc328453.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Stir-Fried Snow Peas and Carrots",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "46"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "94 kcal",
+          "carbohydrateContent": "13 g",
+          "cholesterolContent": "2 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "467 mg",
+          "sugarContent": "6 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Lunch",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired"
+        ],
+        "recipeIngredient": [
+          "1 teaspoon soy sauce",
+          "1 teaspoon cornstarch",
+          "cooking spray",
+          "1 teaspoon sesame oil",
+          "0.5 pound snow peas",
+          "0.5 cup thinly sliced carrot",
+          "0.5 cup chicken broth"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together the soy sauce and cornstarch in a bowl until cornstarch is completely dissolved; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Prepare a skillet with cooking spray and place over medium heat; drizzle in the sesame oil. Place the snow peas and carrots in the skillet; stir-fry for 2 minutes. Pour the broth over the vegetables. Bring to a boil, cover, and reduce heat to low; simmer until vegetables are slightly softened, about 5 minutes. Stir in the soy sauce mixture; continue to stir-fry until the sauce has thickened."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catlin"
+            },
+            "reviewBody": "An alright recipe, but I don't think it had much flavor. I definitely added some extra soy sauce."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan Mowbray"
+            },
+            "reviewBody": "This was pretty good. I prepared it as written but next time I'll add some ginger and garlic to the pan before adding the peas/carrots. As per Salser713, I'll also add sesame seeds when serving next time. I had no problem mixing the soy with cornstarch as did jen55. However, it would be easy, with no change to the taste, to combine the soy, cornstarch and broth and add it to the pan all at once. There's no need to make it 2 steps.\r\nI'll make this again according to my notes above. it's good to have simple recipes like this on hand",
+            "datePublished": "2011-01-31T05:14:23.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsFields"
+            },
+            "reviewBody": "I added broccoli, onion, garlic, green pepper and yellow squash. Then I multiplied the rest of the ingredients by 1/2 again and added about 1T sesame oil and about 1 tsp salt to the veggies while cooking. It was absolutely wonderful.",
+            "datePublished": "2012-12-30T20:36:48.517Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jen55"
+            },
+            "reviewBody": "Simple, tasty recipe that is now a family favourite. As other suggested I added some sesame seed prior to serving. I also added a 200 gram pack of udon noodles to soak up the sauce and served with a pork chop.",
+            "datePublished": "2010-08-26T15:08:33.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tisha Wilcutt"
+            },
+            "reviewBody": "As it is a good start to a flavorful dish. I added fresh ginger, garlic, and a little hot pepper oil. We like a little heat. Sometimes add mushrooms. For the protein, chicken or shrimp is a wonderful addition. After a little additions it is a 5 star dish.",
+            "datePublished": "2012-05-11T11:27:33.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Salsera713"
+            },
+            "reviewBody": "I don't know if I read something wrong, but 1 tsp of cornstarch does not dissolve in 1 tsp of soy sauce - it makes a paste. And once you have snow peas in your skillet, it's near impossible to then mix that paste with the broth in the skillet, so you just get small bits of soy sauce paste scattered in your skillet. Or at least that's what happened to me.",
+            "datePublished": "2009-06-29T19:21:54.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jcschultz1983"
+            },
+            "reviewBody": "I absolutely love this dish. I agree with some of the others &amp; I added ginger, minced garlic, &amp; a lil garlic powder to the dish while cooking. I also added some soy sauce to my bowl.",
+            "datePublished": "2012-03-13T15:48:00.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie Smith"
+            },
+            "reviewBody": "This turned out pretty good overall. Quite a simple dish. However one person commented on how hard it was to mix the corn starch and soy sauce in on top of the peas and I agree. I think next time I will mix that with the chicken broth and pour it in that way. Also, the recipe called for using sesame oil and I didn't see where to use it in the directions.",
+            "datePublished": "2018-07-08T20:55:06.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maggie Jackson"
+            },
+            "reviewBody": "I think this would be great with a little more flavoring - maybe a dash more soy sauce? I also think it would be nice to add some baby corn to the mix of veggies. I'll let you know how it goes next time. I also put toasted sesame seeds on it for just a little extra touch!",
+            "datePublished": "2009-03-11T17:28:17.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caroline C"
+            },
+            "reviewBody": "Nice easy recipe. I julienned the carrots as I was in a hurry. The only thing I did differently was to sprinkle some toasted sesame seeds over the veggies when they were done. Thanks!",
+            "datePublished": "2008-04-30T12:53:49.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nothy"
+            },
+            "reviewBody": "I added extra garlic and ginger as another reviewer advised, and I also added mushrooms because I had them on hand. This is a fast and simple and nutritious side dish. I will make it again.",
+            "datePublished": "2020-06-03T19:04:05.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ruthann Beeler"
+            },
+            "reviewBody": "Very tasty but not remotely Oriental",
+            "datePublished": "2016-11-14T17:05:38.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cher"
+            },
+            "reviewBody": "We liked this a lot. Plenty of flavor and made for a great side dish for our Egg Foo Yung. Added to my regular rotation so thanks for posting.",
+            "datePublished": "2015-12-19T00:05:13.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melanie"
+            },
+            "reviewBody": "Made it as written, and added a chicken breast. It's a good base, but I'll add ginger and garlic and pepper next time.",
+            "datePublished": "2015-10-06T09:26:49.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Czarne Oki"
+            },
+            "reviewBody": "This recipe is very good.I add only 2 gloves garlic and made step by step.Came exactly how recipe call.Very easy and taste veggies dish.",
+            "datePublished": "2015-01-15T14:02:54.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CupcakePolly"
+            },
+            "reviewBody": "we liked it. nice change of pace.",
+            "datePublished": "2013-02-10T13:05:18.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Urszula"
+            },
+            "reviewBody": "Quick and easy side dish, tastes just like I'd expect in a restaurant. Exactly what I was looking for, thanks!",
+            "datePublished": "2013-01-22T19:31:41.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele"
+            },
+            "reviewBody": "good, may need to double sauce",
+            "datePublished": "2012-08-28T19:32:40.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rex Hutcheson"
+            },
+            "reviewBody": "Comes out pretty bland as written; additional spices of some kind are needed.",
+            "datePublished": "2012-05-15T08:43:08.827Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/146763/stir-fried-snow-peas-and-carrots/",
+          "name": "Stir-Fried Snow Peas and Carrots",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/922/side-dish/vegetables/carrots/",
+                  "name": "Carrots"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

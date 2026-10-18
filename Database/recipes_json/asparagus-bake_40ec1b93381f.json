@@ -1,0 +1,295 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20023/asparagus-bake/",
+  "extracted_at": "2026-10-18T02:41:45.389621+00:00",
+  "recipes": [
+    {
+      "name": "Asparagus Bake",
+      "ingredients_raw": [
+        "4 cups asparagus, trimmed and cut into 1 inch pieces",
+        "12 dinner rolls",
+        "1.5 cups diced processed American cheese",
+        "2.5 cups cooked ham, coarsely chopped",
+        "6 eggs",
+        "3 cups milk",
+        "3 tablespoons minced onion",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "If using raw asparagus: place a steamer basket or insert and two cups of water into a small stock pot. Bring water to a boil and then add the asparagus. Cook until tender but still firm, about 5 minutes. Drain and let cool."
+        },
+        {
+          "id": 2,
+          "text": "Lightly grease a 9x13 inch baking dish. Split dinner rolls in half and set top half aside. Tear bottom half of rolls into pieces and spread evenly in pan. Layer asparagus, cheese and ham over bread pieces. Arrange remaining half of rolls on top of other ingredients."
+        },
+        {
+          "id": 3,
+          "text": "Beat together eggs, milk, onion, salt and pepper. Pour egg mixture into pan and refrigerate over night."
+        },
+        {
+          "id": 4,
+          "text": "Remove pan from refrigerator 30 minutes before baking and preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 5,
+          "text": "Bake uncovered until a knife inserted into center of pan comes out clean, about 55 minutes. Let stand about 10 minutes before cutting."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Asparagus Bake",
+        "datePublished": "2000-04-05T19:43:10-04:00",
+        "dateModified": "2022-08-08T11:35:26-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Bobbie Pearsall"
+          }
+        ],
+        "description": "I make this for breakfast/brunch the day after Easter. It&#39;s a great way to use up leftover dinner rolls and cooked vegetables. Everything bakes in one pan so assembling this dish is easy. You can substitute spinach for the asparagus and add mozzarella cheese if you wish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/dxkApAnA3QbLd9otQThfq49Tjio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/958683-c4a4d215e62e4ed492c54ba451d13a6e.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Asparagus Bake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.8",
+          "ratingCount": "12"
+        },
+        "cookTime": "PT55M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "239 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "132 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "15 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "825 mg",
+          "sugarContent": "5 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeIngredient": [
+          "4 cups asparagus, trimmed and cut into 1 inch pieces",
+          "12 dinner rolls",
+          "1.5 cups diced processed American cheese",
+          "2.5 cups cooked ham, coarsely chopped",
+          "6 eggs",
+          "3 cups milk",
+          "3 tablespoons minced onion",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "If using raw asparagus: place a steamer basket or insert and two cups of water into a small stock pot. Bring water to a boil and then add the asparagus. Cook until tender but still firm, about 5 minutes. Drain and let cool."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Lightly grease a 9x13 inch baking dish. Split dinner rolls in half and set top half aside. Tear bottom half of rolls into pieces and spread evenly in pan. Layer asparagus, cheese and ham over bread pieces. Arrange remaining half of rolls on top of other ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat together eggs, milk, onion, salt and pepper. Pour egg mixture into pan and refrigerate over night."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove pan from refrigerator 30 minutes before baking and preheat oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake uncovered until a knife inserted into center of pan comes out clean, about 55 minutes. Let stand about 10 minutes before cutting."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 -13x9 inch casserole"
+        ],
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ventress"
+            },
+            "reviewBody": "This one was good, the best part about it you can use this recipe as a base and improvise switching the veggies, meats or cheeses with whatever you have left over in your fridge. A very satisfying meal."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Swanson"
+            },
+            "reviewBody": "The family liked this dish, but we had some difficulty with the preparation. We used a glass baking dish and after the baking time was up, we had to bake an extra 20 minutes...and even then the center was still a little wet. The extra time resulted in burned rolls on the top. Perhaps a metal pan would have worked better. Other than that, it was a flavorful dish.",
+            "datePublished": "2018-03-10T22:11:03.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Traci BB"
+            },
+            "reviewBody": "This was an okay dish as written. Made it a second time using sharp cheddar cheese &amp; as suggested previously, a can of cream of celery soup in place of 1 cup of the milk. Will make again with other veggies &amp; meats. A great idea &amp; easy to adapt.",
+            "datePublished": "2015-12-17T11:53:30.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baking Nana"
+            },
+            "reviewBody": "I made this as written with the exception of the cheese - we don't care for processed cheese so I used a Cheddar / Jack Cheese blend. You don't have to pre-cook the asparagus - that saves a little time. This is a great recipe to use up left overs - perfect after Easter. I have made recipes like this in individual oven safe ramekins. Each can be customized to suit different tastes. It is a fun kitchen project when we do a sleep over with the kids.",
+            "datePublished": "2013-01-21T08:28:18.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PlaceOfYes"
+            },
+            "reviewBody": "I ran across this dish looking for a way to use up leftover dinner rolls. It was pretty good, but my hubby said it's not better than tuna casserole. Instead of the ham, I substituted prosciutto which added a richer flavor to the dish. I used a can of cream of celery soup and condensed milk in place of the milk as suggested above. I felt these changes made this a more appropriate dish for supper. I'll try it with the ham and leave out the asparagus another time for a brunch.",
+            "datePublished": "2010-08-31T19:02:34.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel"
+            },
+            "reviewBody": "I modified this considerably after a first attempt that was just too bland, with flavors that didn't compliment each other. To my second batch, I added sauteed onions, mushrooms and garlic. I also changed the cheese to a mixture of provolone, gruyere and swiss. I decreased the milk by 1 cup and added a can of cream of celery soup instead, along with 1/2 cup of evaporated milk. This turned out fantastic and got rave reviews at my weekly gal's poker game.",
+            "datePublished": "2005-12-28T13:22:32.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FRESHMONKEY"
+            },
+            "reviewBody": "This was excellent! I prepared it the night before! I wouldn't change a thing! Thanks for the recipe!",
+            "datePublished": "2003-12-06T13:44:37.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My family did not enjoy this at all and we love asparagus.",
+            "datePublished": "2002-02-22T09:20:09.200Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20023/asparagus-bake/",
+          "name": "Asparagus Bake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+                  "name": "Eggs"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

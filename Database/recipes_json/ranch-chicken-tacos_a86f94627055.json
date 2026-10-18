@@ -1,0 +1,506 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217890/ranch-chicken-tacos/",
+  "extracted_at": "2026-10-18T03:03:04.409805+00:00",
+  "recipes": [
+    {
+      "name": "Ranch Chicken Tacos",
+      "ingredients_raw": [
+        "0.5 cup ranch dressing",
+        "0.25 cup reduced-fat sour cream",
+        "1 (1 ounce) packet taco seasoning mix, divided",
+        "1 tablespoon mild chunky salsa",
+        "2 cups shredded rotisserie chicken",
+        "8 (6 inch) corn tortillas",
+        "shredded lettuce",
+        "1 tomato, chopped",
+        "4 green onions, sliced",
+        "1 (4 ounce) can sliced black olives",
+        "1 avocado - peeled, pitted and diced",
+        "1 cup shredded Colby-Monterey Jack cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine ranch dressing, sour cream, 1 teaspoon taco seasoning, and salsa in a small bowl. Cover and refrigerate until serving."
+        },
+        {
+          "id": 3,
+          "text": "Toss chicken with remaining taco seasoning. Cover bowl loosely with wax paper or plastic wrap. Microwave chicken until chicken is heated through, about 2 to 3 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Warm tortillas in a skillet for about a minute on each side to make them pliable."
+        },
+        {
+          "id": 5,
+          "text": "Place a scoop of chicken on the tortilla and top with lettuce, tomato, green onion, olives, avocado, cheese, and a spoonful of the ranch dressing mixture."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Ranch Chicken Tacos",
+        "datePublished": "2020-06-23T17:51:30-04:00",
+        "dateModified": "2026-08-24T19:00:04-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Joan Dredge"
+          }
+        ],
+        "description": "Turn leftover rotisserie chicken into kid-friendly ranch chicken tacos. Corn tortillas are filled with shredded chicken, your favorite taco fixings, and a creamy sour cream ranch dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/h-BWZzMM7use0c6jbP_5_aBDgyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217890-ranch-chicken-tacos-VAT-001-4x3-26519e4dc43242b0b5c4ae09178511c5.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Ranch Chicken Tacos",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "184"
+        },
+        "cookTime": "PT5M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "717 kcal",
+          "carbohydrateContent": "40 g",
+          "cholesterolContent": "101 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "31 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "1419 mg",
+          "sugarContent": "5 g",
+          "fatContent": "49 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired"
+        ],
+        "recipeIngredient": [
+          "0.5 cup ranch dressing",
+          "0.25 cup reduced-fat sour cream",
+          "1 (1 ounce) packet taco seasoning mix, divided",
+          "1 tablespoon mild chunky salsa",
+          "2 cups shredded rotisserie chicken",
+          "8 (6 inch) corn tortillas",
+          "shredded lettuce",
+          "1 tomato, chopped",
+          "4 green onions, sliced",
+          "1 (4 ounce) can sliced black olives",
+          "1 avocado - peeled, pitted and diced",
+          "1 cup shredded Colby-Monterey Jack cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/d1T16LLW-4frH6kfJD9K6FP5pWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217890-ranch-chicken-tacos-VAT-005-step-01-225a4cebe1264290b2e3182fe957c6e2.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/9gLeeHwdkwf4GVXMUygy58Oqqnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217890-ranch-chicken-tacos-VAT-006-step-02-0a93f9cd064c4df7978b3d1e8f464a23.jpg"
+              }
+            ],
+            "text": "Combine ranch dressing, sour cream, 1 teaspoon taco seasoning, and salsa in a small bowl. Cover and refrigerate until serving."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/xCkxbJzxad-hgfVN9nw1uARgeB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217890-ranch-chicken-tacos-VAT-007-step-03-25f16640c79c43f3987df573977f1450.jpg"
+              }
+            ],
+            "text": "Toss chicken with remaining taco seasoning. Cover bowl loosely with wax paper or plastic wrap. Microwave chicken until chicken is heated through, about 2 to 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/WXFx8cmJCJRVVDjH-iqs9N2Gx0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217890-ranch-chicken-tacos-VAT-008-step-04-0a66b60117084782a51ca6599813be3b.jpg"
+              }
+            ],
+            "text": "Warm tortillas in a skillet for about a minute on each side to make them pliable."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RV_BLH9KfL4223zzYLVpJKJSbQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217890-ranch-chicken-tacos-VAT-009-step-05-670c4c557dce462090aa77dd341fab53.jpg"
+              }
+            ],
+            "text": "Place a scoop of chicken on the tortilla and top with lettuce, tomato, green onion, olives, avocado, cheese, and a spoonful of the ranch dressing mixture."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "8 tacos"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "My husband loves anything with \"ranch\" so I decided to try this. However I had a different take on it. I didn't warm the chicken in the microwave and made these into wrap sandwiches with flour tortillas vs. making these into tacos. I used pico de gallo vs. salsa and \"Taco Seasoning II\" from this site vs. a packaged seasoning mix. I left out the olives and instead thought what works best with ranch, lettuce and tomato - Bacon of course! So I added a few slices of bacon to each wrap along with the avocado slices and shredded cheddar cheese - YUM!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jnrandles"
+            },
+            "reviewBody": "This was excellent. I did everything the same except the chicken different...I’m not a big fan of rotisserie. I used chicken breasts seasoned with salt, pepper, and garlic powder put it in the instant pot on slow cook for about 4 hours and the last few on low. I did dump in 1/2 cup of cola ...it seems to tenderize it as it cooks. They shredded nicely ...I drained the juice and put in the recommended amount of taco seasoning (I used taco seasoning for chicken). I shredded Monterey cheddar and served on Old El Paso crispy flour tortillas. Absolutely delicious!",
+            "datePublished": "2019-06-19T21:03:22.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cryscook"
+            },
+            "reviewBody": "Nice change for a taco Tuesday. Very tasty idea. I baked chicken breasts with a bit of taco seasoning on them because I didn't have any rotisserie chicken. Next time I will put the breasts in the crockpot to make them easier to pull apart.",
+            "datePublished": "2016-08-15T23:45:03.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lyndsay Kieselbach"
+            },
+            "reviewBody": "I have made this a couple times because it's so simple. I actually use chicken breasts and put them in the crock pot all day with the seasoning. When I get home from work they are completely tender and so easy to shred. Then it's just a matter of getting some toppings around and you're done! Great recipe for a working mom.",
+            "datePublished": "2016-03-13T15:41:58.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth"
+            },
+            "reviewBody": "10/14: 4 frozen breasts, jar salsa, some enchilada sauce and 3 tblsp. taco seas. mix in crock pot for 6 or so hours. shred after a few hours.\r\nhear corn tortillas in frying pan. shredded lettuce, tomato, mex cheese and the ranch sauce was very tasty. i halved the ranch sauce.",
+            "datePublished": "2014-10-21T15:51:03.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PPK"
+            },
+            "reviewBody": "Good concept, but will make changes like warming up chicken with taco seasoning with a little water in saucepan so the flavor comes out. Just putting in the microwave just didn't cut it, no flavor, blah. I figure if when making regular tacos the directions say to do that &amp; we can taste the seasoning it should work here, only won't need as much water. We only made half the sauce but hubby wants more so will probably do 3/4 of what would be needed for the # of tortillas we'd be using. This is very quick &amp; everything can be ready ahead of time. I think I'd put the cheese on right away so it can melt some before serving.",
+            "datePublished": "2016-01-12T14:28:30.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lonnie"
+            },
+            "reviewBody": "First time to make this. We really enjoyed it. The only changes I made to the sauce was to use hot (instead of mild) salsa, added some red pepper flakes (leftover from the previous pizza night) and the rest of a package of 'real' bacon pieces. I also added a couple spoonfuls of tomato puree (because I had some extra in the fridge) to the chicken mixture. Puree or not, mix the taco seasoning with the chicken to give the moisture from the chicken time to rehydrate the seasonings in the taco seasonings, otherwise you might get crunchy pieces at mealtime. Overall, it was a good recipe and I'd definitely make it again.",
+            "datePublished": "2023-07-15T10:12:45.761Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather Rhodes Walsh"
+            },
+            "reviewBody": "I added corn and black beans to the rotisserie chicken and a little water with the taco seasoning..simmered for a few mins while I got everything else ready. Put chicken mixture on tostadas and topped with mexican mixed cheese..popped in the oven for a few mins. Topped with lettuce, salsa fresco (from harmons), olives, cilantro, guacamole (also from harmons) and the sour cream ranch dressing...delicious!!! Even my five year old ate is and my husband made sure it would make the meal rotations!!",
+            "datePublished": "2015-01-30T17:01:22.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I didn't bother cutting my ranch with sour cream. I just used my own homemade dry ranch dressing mix and added it to reduced fat sour cream. I didn't use rotisserie chicken, either. I had two chicken breasts I boiled in chicken broth with mexican spices (cumin, coriander, onion, garlic, mexican oregano), then cooled and shredded. I also used flour tortillas. This was quite good--easy and a kid pleaser. I think that next time, I'd skip the tortillas and try this as a chunky chicken taco salad.",
+            "datePublished": "2011-09-26T16:24:41.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karon A Stephens"
+            },
+            "reviewBody": "I baked the tortillas in cute little metal taco salad bowls I ordered from an infomercial. Then I filled the bowls with the chicken as instructed, sprinkled cheese on top, and popped the bowls back in the oven until the cheese was melted. Everyone loved adding their own toppings to taste, i.e. black olives, green onions, the special taco sauce, salsa, avocado. I had everything on mine and thoroughly enjoyed it. I thought it would not be filling. But since I doubled the chicken portion, I was able to fill the bowls at least half way, leaving room for the toppings, and a satisfying meal.",
+            "datePublished": "2014-09-06T14:30:04.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "These were delicious. I liked the ranch salsa sauce on top. Prep time took the longest, the actual assembly went fast. I had leftover taco chicken meat left from another meal so I chopped the meat up into small bits so it's easier to handle and skipped the additional taco seasoning since it was already in there. . Flour tortillas worked fine for this. I added a bit of corn/pepper salsa too to this when I found it leftover in my refrigerator. I served this with the chicken still hot and the tortilla warm and the toppings cold so the contrast with the textures and temperatures played well in this. Of course, this would be equally good cold if you made a wrap and packed it for a lunch. I'll definitely make this again. It's a winner.",
+            "datePublished": "2025-12-12T17:40:59.762Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan"
+            },
+            "reviewBody": "Looks good. I plan to make it later this.",
+            "datePublished": "2026-03-29T13:34:08.388Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Billy"
+            },
+            "reviewBody": "Great",
+            "datePublished": "2026-02-15T21:51:09.504Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jaxson"
+            },
+            "reviewBody": "I loved it!!! It had great flavor that would just burst into your mouth. The flavors were so complex I could tell what every bite had. Small side note- my grandpa hated them, please count him in next time.",
+            "datePublished": "2026-01-09T16:23:03.415Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lazyme"
+            },
+            "reviewBody": "Loved this. It's quick, easy, and a family favorite. I also double the sauce and we dip our tacos in a little bowl on the side. Thanks for sharing this great keeper.",
+            "datePublished": "2025-12-08T19:41:16.956Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Duckworth"
+            },
+            "reviewBody": "These were OK but really pretty blah, I think my grandchildren make better tacos than these, I won't be making this version again. Why make it if it's not delicious?",
+            "datePublished": "2025-08-10T01:32:55.516Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Abbey"
+            },
+            "reviewBody": "Easy dinner recipe! The sauce recipe was delicious",
+            "datePublished": "2025-06-10T12:24:35.729Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debi Silvestri Masciarelli"
+            },
+            "reviewBody": "I’ve made this several times. Really easy and delicious!",
+            "datePublished": "2025-03-28T02:23:15.089Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "This recipe is really for the sauce as chicken tacos are not exactly hard or unique and the toppings you choose are based off the individual preferences. I chose to slow cook the chicken with the seasoning in the crockpot vs microwave. You can also boil or saute if that is preferred. Going back to the sauce; it’s really good and is the reason I chose to try this. Glad I did! Depending on the heat level of the salsa - the combo with the ranch + sour cream (and I like mine hot!) creates a cool burn. I will definitely make this sauce again! Thanks Joan!",
+            "datePublished": "2024-10-09T21:07:11.181Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sam"
+            },
+            "reviewBody": "Other than using homemade taco seasoning and cooked skinless chicken breasts instead of rotiserie chicken, I made this recipe as written. The directions were easy to follow and the results was a very tasty meal. I will definitely make this again.",
+            "datePublished": "2024-07-22T18:53:50.843Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217890/ranch-chicken-tacos/",
+          "name": "Ranch Chicken Tacos",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

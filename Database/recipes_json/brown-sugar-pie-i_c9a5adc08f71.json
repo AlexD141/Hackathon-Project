@@ -1,0 +1,450 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12649/brown-sugar-pie-i/",
+  "extracted_at": "2026-10-18T01:50:05.766574+00:00",
+  "recipes": [
+    {
+      "name": "Brown Sugar Pie",
+      "ingredients_raw": [
+        "6 tablespoons all-purpose flour",
+        "2 cups packed brown sugar",
+        "1.5 cups evaporated milk",
+        "4 tablespoons butter",
+        "0.5 teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon vanilla extract"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Combine flour and brown sugar in a saucepan. Stir in evaporated milk, butter, salt, and vanilla extract. Cook over medium heat, stirring constantly, until the mixture comes to a boil and is smooth. Pour the filling into the unbaked pie crust."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven for about 5 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C) and continue baking until the filling is set around the edges but still slightly jiggly in the center, about 25 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Let pie cool to room temperature. Refrigerate for at least 2 hours before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Brown Sugar Pie",
+        "datePublished": "1999-09-12T18:10:06-04:00",
+        "dateModified": "2026-10-15T10:59:10-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Suzanne"
+          }
+        ],
+        "description": "This traditional Quebec brown sugar pie has a rich, sweet filling with a caramel-like flavor and creamy texture. It’s a delicious dessert made with pantry staples.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/gc44VafhRToMxoIMcZSjJi9VAJw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4571409-a8704fed018848699efc43898d0877b3.jpg",
+          "height": 844,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Brown Sugar Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "109"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "346 kcal",
+          "carbohydrateContent": "63 g",
+          "cholesterolContent": "29 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "252 mg",
+          "sugarContent": "58 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "French Canadian"
+        ],
+        "recipeIngredient": [
+          "6 tablespoons all-purpose flour",
+          "2 cups packed brown sugar",
+          "1.5 cups evaporated milk",
+          "4 tablespoons butter",
+          "0.5 teaspoon salt",
+          "1 teaspoon vanilla extract",
+          "1 teaspoon vanilla extract"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine flour and brown sugar in a saucepan. Stir in evaporated milk, butter, salt, and vanilla extract. Cook over medium heat, stirring constantly, until the mixture comes to a boil and is smooth. Pour the filling into the unbaked pie crust."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for about 5 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C) and continue baking until the filling is set around the edges but still slightly jiggly in the center, about 25 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Let pie cool to room temperature. Refrigerate for at least 2 hours before serving."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 (9-inch) pie"
+        ],
+        "totalTime": "PT200M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pitxitxita"
+            },
+            "reviewBody": "After reading the other reviews, I paid close attention to what I did as I made this pie. I did not measure with great accuracy - just threw everything in a saucpan before I started to mix it all up. I let it cook for about a minute after it started to boil, and then baked it per the directions. If did not spill over, or burn. It came out of the oven hot and bubbling, and semi-firm. It set as it cooled...and was fantastic!!! Incredibly rich and sweet."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jacques"
+            },
+            "reviewBody": "I modified the recipe. Used 300ml eagle brand andsweetened condensed milk then a half cup 2% milk and added a teaspoon of maple extract along with the vanilla. I also used pre-made tart shells. Turned out fantastic, sweet, but fantastic",
+            "datePublished": "2014-08-17T17:40:56.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danielle Picard"
+            },
+            "reviewBody": "I've made this recipe 2 years in a row. It's always a huge hit. It's so sweet and creamy, my family always wants more. I use 2 pie shells and allow the mixture to boil for a min or two, to avoid spillage. Today I made it for our thanksgiving dinner tonight, this time I added 1/2 tsp of cinnamon and a sprinkle of pumpkin pie spice. It is so tasty! I highly recommend making this!",
+            "datePublished": "2014-08-11T13:27:45.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne Page"
+            },
+            "reviewBody": "Totally AWESOME!! used 1/2 &amp; 1/2 cream because I didn't have any evaporated milk. Didn't cook the filling, just mixed all ingredients (except butter) in a bowl, poured it into the pie shell, added a dash of nutmeg and then dotted with butter. Brushed the edge of the crust with egg wash, baked @ 450 degrees for 5 min. and lowered to 350 degrees for another 25 min. Best sugar pie EVER! \nthanks for sharing!",
+            "datePublished": "2016-05-29T13:28:16.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BrennaV"
+            },
+            "reviewBody": "Followed instructions, I did have my burner on high. Thoroughly shake the milk for a few minutes, bring to a rapid boil STIRRING and SCRAPING CONTINUOUSLY for a couple minutes, I baked at 400 for 5 minutes then 350 for 25. ‘‘Tis PERFECTION!!!!! So I made another immediately as my Dad is the one who requested this.",
+            "datePublished": "2020-01-24T15:29:09.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "msbluebonnett"
+            },
+            "reviewBody": "Perfect and is very easy to make. The only thing I did a bit different was that I added the salt to the mixture of flour and brown sugar and mixed that. Then I cut in the butter into the mixture until it resembled coarse meal, then added the vanilla to the evaporated milk when I then added to themixture before bringing it to a boil Next time I just might add raisins. If you like raisin butter tarts then just add raisins and you will have raisin butter tarts.",
+            "datePublished": "2018-08-28T19:04:44.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emily Kennedy"
+            },
+            "reviewBody": "I made a mistake in my pervious review for this recipe and this website won't let me edit my review, so I'm pasting it again, correction made: I made this vegan by substituting with evaporated coconut milk and vegan butter. I also don’t care for traditional pie crust, so I made vanilla wafer crust. It is a very good, very simple tasting pie. Most reviews note how sweet it is but I think a better word to describe it is rich. It’s sweet, yes, but also creamy and dense, a relative to caramel. It’s because of this that I probably won’t make it again…I just think my family wouldn’t appreciate it or eat more than a tiny wedge.",
+            "datePublished": "2021-09-06T19:34:05.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jody B"
+            },
+            "reviewBody": "This is fantastic! I substituted the milk with 10% cream and added 2 more tablespoons of flour. Very creamy! My guests loved it.",
+            "datePublished": "2019-11-17T21:48:45.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy D"
+            },
+            "reviewBody": "This is a great recipe. I would suggest that you mix the flour and the sugar together VERY well before adding it to the sauce pan (this helps it to set). Also, when I made it, I didn't stop stirring until about two minutes after it was boiling. This made for a very smooth texture. One last thing, I added 2 tsp of vanilla instead of just one. Beautiful pie. Thanks!",
+            "datePublished": "2009-07-28T09:00:44.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "schmorb"
+            },
+            "reviewBody": "Made this for a weekend getaway entertaining 10 of our friends at our cottage in Quebec - so popular it was requested again the second day! Made with my favourite from-scratch pie crust and served with BOURBON WHIPPED CREAM (substitute 1tbsp bourbon in place of vanilla) = TO DIE FOR!",
+            "datePublished": "2014-08-08T07:23:30.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherise Montie"
+            },
+            "reviewBody": "Excellent! If you are having problems with the pie setting, make sure you don't just \"bring to a boil\" as the recipe states - make sure it is a good boil (as in more than 1 or 2 bubbles!). Make sure you stir constantly and you will notice the mixture thickens to almost a pudding consistency and gets a little darker as it begins to boil. I baked it for 10 mins @ 400 on bottom rack, then moved to top rack at 350 for 20 mins. Other than that, followed recipe to a tee. I love the crispy top! =] Manifique!",
+            "datePublished": "2009-11-22T14:31:01.193Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Madison"
+            },
+            "reviewBody": "Had to sub half/half — Can’t wait to dig in! From the east coast and haven’t seen brown sugar pie in stores out west. :) Gunna be a thanksgiving surprise. :) I think people getting runny versions may not be using a liquid measuring cup for the milk? :)",
+            "datePublished": "2025-10-12T04:38:31.924Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AcePie1439"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-24T15:12:22.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tweary02"
+            },
+            "reviewBody": "Have used this recipe easily 30 times now. Super simple, easy to learn, and absolutely delicious! I love bringing this to potlucks and having what's basically a cheat-code to impress with!",
+            "datePublished": "2024-01-07T16:40:59.278Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ProChai2919"
+            },
+            "reviewBody": "I have done this recipe so many times. It’s that good. The person who made it runny obviously didn’t make it right.",
+            "datePublished": "2023-10-06T00:24:04.378Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda"
+            },
+            "reviewBody": "Horrible. Did Everything as directed and pie didn't set. Runny",
+            "datePublished": "2021-10-20T17:02:00.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sleepyD"
+            },
+            "reviewBody": "Easy and just like I remembered growing up in my grandmas kitchen. I coarsely chopped some pecans into filling.",
+            "datePublished": "2021-08-21T17:49:23.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joan Mac Donald"
+            },
+            "reviewBody": "It's in the over now, but taste test from spoon sys, \"terrific\"!\nSuper easy to make",
+            "datePublished": "2020-10-11T21:06:14.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "haruhi4"
+            },
+            "reviewBody": "The sweet taste of the brown sugar sweet is very very good! The pie is delicious. Despite that, it took a long time to bake. 25 min? Not even close! I guess it's because i used the unbaked pie crust Iv from here(https://www.allrecipes.com/recipe/12492/pie-crust-iv/). I put my oven according to the recommendations. Then, i kept the pie baking for more 25 minutes on the recommended degrees. Then, more 30 minutes... then I noticed the pie crust still wasn't brown, it was white. Just after baking for a long time, i put the oven on 220 C. After a while (more 20 minutes), the pie crust finally got brown. The final result was a hard crust, a bit flavorless, but at least it covered the whole pie",
+            "datePublished": "2020-08-23T21:46:22.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EmilyB"
+            },
+            "reviewBody": "Followed the directions exactly. It was so chewy and caramel like, it was unpleasant to eat.",
+            "datePublished": "2020-03-25T02:21:12.483Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12649/brown-sugar-pie-i/",
+          "name": "Brown Sugar Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/283/desserts/pies/vintage-pies/",
+                  "name": "Vintage Pie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/12957/desserts/pies/vintage-pies/chess-pie/",
+                  "name": "Chess Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

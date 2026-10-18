@@ -1,0 +1,432 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/145730/basic-beurre-blanc/",
+  "extracted_at": "2026-10-18T02:00:42.010981+00:00",
+  "recipes": [
+    {
+      "name": "Basic Beurre Blanc",
+      "ingredients_raw": [
+        "1.5 tablespoons chopped shallot",
+        "1 bay leaf",
+        "6 black peppercorns",
+        "0.25 cup white wine vinegar",
+        "2 tablespoons dry white wine",
+        "0.25 cup heavy cream",
+        "1.5 cups cold butter, cut into 1/2 inch pieces"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place shallot, bay leaf, peppercorns, vinegar, and wine in a saucepan. Bring to a boil, then reduce heat to medium and continue simmering until only 2 tablespoons of liquid remain."
+        },
+        {
+          "id": 2,
+          "text": "Pour in heavy cream and bring to a simmer; simmer until the cream has reduced by half. Increase heat to medium-high, and rapidly whisk in the butter, piece, by piece until it has melted into the cream and thickened it. Strain the sauce through a mesh strainer to remove the spices. Serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Basic Beurre Blanc",
+        "datePublished": "2011-12-15T15:34:13-05:00",
+        "dateModified": "2026-06-18T22:39:03-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jay"
+          }
+        ],
+        "description": "This classic French sauce of butter, wine, and cream is a luxurious accompaniment to fish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/_PzQHOFDkKpcP7dsS8MyX2WDCBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/145730_Basic-Beurre-Blanc_chibi-chef_4557537_original-4x3-1-ef6c743e87f7420eb5c4e9a0da87ed99.jpg",
+          "height": 960,
+          "width": 1280
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Basic Beurre Blanc",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "38"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "225 kcal",
+          "carbohydrateContent": "1 g",
+          "cholesterolContent": "68 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "0 g",
+          "saturatedFatContent": "16 g",
+          "sodiumContent": "166 mg",
+          "sugarContent": "0 g",
+          "fatContent": "25 g",
+          "servingSize": "1 3/4 cups",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Sauce"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "1.5 tablespoons chopped shallot",
+          "1 bay leaf",
+          "6 black peppercorns",
+          "0.25 cup white wine vinegar",
+          "2 tablespoons dry white wine",
+          "0.25 cup heavy cream",
+          "1.5 cups cold butter, cut into 1/2 inch pieces"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place shallot, bay leaf, peppercorns, vinegar, and wine in a saucepan. Bring to a boil, then reduce heat to medium and continue simmering until only 2 tablespoons of liquid remain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour in heavy cream and bring to a simmer; simmer until the cream has reduced by half. Increase heat to medium-high, and rapidly whisk in the butter, piece, by piece until it has melted into the cream and thickened it. Strain the sauce through a mesh strainer to remove the spices. Serve immediately."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chibi chef"
+            },
+            "reviewBody": "Great flavor. Served this with the Alaska Salmon Bake with Pecan Crunch Coating from this website. Used only 1/2 the butter though."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dominic Brunetti"
+            },
+            "reviewBody": "Awesome base Beurre Blanc recipe! Came out fantastic and made this close to the recipe (only 1 sick of butter and I probably used double the chopped shallot because I'm terrible at \"eyeing\" things). I've made it a few other ways, but honestly this was the easiest and the best and it didn't break (WIN!). I can see a little lemon zest in this next time or maybe even some dill? The trick to strain it was so simple, yet so what I had NOT been doing - why did I not think of this? Thanks for that! You do need to babysit this closely, like any cream/acid sauce, and once it's time to add the butter (have it very cold and very close) you must whisk non-stop or it will break for sure. I frequently pull it off the heat, add a chunk of butter, and whisk and if it isn't melting well return to the burner for 10-15 seconds to get up to melting temp - but don't let boil - repeat over and over until butter is all incorporated. Awesome over my crabmeat stuffed tilapia and prosciutto roasted asparagus! THANK YOU!",
+            "datePublished": "2013-03-16T16:49:15.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ali"
+            },
+            "reviewBody": "My family loves this. I serve it with bowtie or farfalle pasta and chicken. I modified it slightly: 3 bay leaves instead of 1, omit white wine vinegar. I have substituted the shallot with both garlic and regular onion as I have available. I probably use a bit more wine, a bit more cream, but less butter than this recipe calls for. I use about one stick of real butter. I cook the noodles until almost done and finish them in the sauce and then throw in cooked sliced chicken. The people at my table are always fighting for the last little bit.",
+            "datePublished": "2012-02-06T11:11:19.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kirk33"
+            },
+            "reviewBody": "Had this with tilapia and the family loved it. For those people who have trouble with this, try adding a little extra cream to the reduction and set it aside and allow it to cool before adding the butter. Then slowly add in the chilled butter a little bit at a time as you wisk it in while moving the pan back onto the heat and then off as needed.",
+            "datePublished": "2014-05-19T20:57:47.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PamCakes"
+            },
+            "reviewBody": "Excellent Sauce but is a little salty with salted butter being added. Next time I will use unsalted butter and add salt to taste. I used really cold butter and did not have an issue with my sauce separating.",
+            "datePublished": "2014-01-28T15:19:19.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bellwether Nesingwary"
+            },
+            "reviewBody": "I left out the cream and it did perfectly for the most delicious and succulent of fresh caught river salmon from our local fish market. Also, with some to spare, I drizzled it over my spinach shallot rice and quinoa and parmesan pilaf for an added depth.",
+            "datePublished": "2014-06-04T09:31:37.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dallas Richards"
+            },
+            "reviewBody": "Since I was serving just 2 smallish salmon filets, I decreased the ingredients to about half. Used green onions rather than shallots, and white wine, not vinegar. I used much less butter, and maybe should’ve used more since it came out a bit thick, but good. It seemed to lack something so I added some lemon juice, and was better. Will tr6 this again since I love sauces.",
+            "datePublished": "2019-11-07T00:16:10.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WEEBRIE"
+            },
+            "reviewBody": "Only used 3/4 cup butter - served over mushroom ravioli - it was WONDERFUL! Just make sure you whisk - A LOT! I'll be saving this one!",
+            "datePublished": "2010-02-12T15:56:48.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Btranquila"
+            },
+            "reviewBody": "Thank you Jay for helping me keep my rep as an incredible cook! I’m not really, but this simple Buerre Blanc with a sprinkle of goat cheese and sundried tomato over grilled salmon- i give off the impression I know what I’m doing!! So elegant.",
+            "datePublished": "2020-03-01T19:52:49.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "A Taylor"
+            },
+            "reviewBody": "I added about a tsp of garlic and only used 1/2 a cup of butter. As well I didn't have white wine vinegar so I used just some white vinegar and some chinese cooking wine to substitute. I used it as a sauce on crab cakes and with some mashed potatoes - simply divine! I would definitely recommend it with near any type of seafood, especially if you can't get super fresh fish.",
+            "datePublished": "2009-01-05T17:45:55.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sweetpea"
+            },
+            "reviewBody": "I also used one stick of botter only and added some capers. Came out great.",
+            "datePublished": "2014-04-05T18:56:14.353Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cleve_davis"
+            },
+            "reviewBody": "It was great! I added a bit of cayenne pepper and finished with fresh parsley.",
+            "datePublished": "2022-01-10T03:31:40.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lanell Mitchell"
+            },
+            "reviewBody": "This recipe is the bomb! I have made it for stuffed pork chops and fish, it's delicious!",
+            "datePublished": "2020-01-16T21:55:15.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James L McGrath"
+            },
+            "reviewBody": "This reduction is actually beurre nantais due to the addition of cream. Beurre blanc has no cream and is a classic emulsified butter popularized by Julia Child. I'm not splitting hairs but if you're going to prepare classical cuisine why not learn properly?",
+            "datePublished": "2017-07-10T21:32:42.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurel Mitchell"
+            },
+            "reviewBody": "I eliminated the peppercorns so my kids wouldn't complain about that. The sauce separated. It tastes great but I was so disappointed.",
+            "datePublished": "2017-07-09T22:54:03.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bill P"
+            },
+            "reviewBody": "No changes, but you have to be paying attention..consistency on the plate was perfect, made with Halibut, thanks!",
+            "datePublished": "2016-01-29T11:19:58.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tjroz"
+            },
+            "reviewBody": "Be sure to use unsalted butter.",
+            "datePublished": "2015-12-07T17:03:45.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ananya Sk"
+            },
+            "reviewBody": "Just my opinion... I actually thought the vinegar overpowered the sauce. I think in the future I'll try one that calls for less or no vinegar",
+            "datePublished": "2014-10-01T17:46:21.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thezakkt"
+            },
+            "reviewBody": "I didn't have any bay leaf, but it still tasted amazing over my grilled swordfish steaks and prawns. Will definitely be making this again! Used chardonnay for the white wine.",
+            "datePublished": "2012-12-24T18:47:05.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tryingtocook"
+            },
+            "reviewBody": "I did not have heavy cream so I used 2% milk and this turned out great. I used as a pasta sauce tossed with cubed chicken, spinach and sun dried tomatoes. Use salted butter for good flavor.",
+            "datePublished": "2011-03-07T03:40:04.993Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/145730/basic-beurre-blanc/",
+          "name": "Basic Beurre Blanc",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                  "name": "Sauces"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

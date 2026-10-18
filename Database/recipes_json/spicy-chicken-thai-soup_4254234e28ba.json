@@ -1,0 +1,514 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/219936/spicy-chicken-thai-soup/",
+  "extracted_at": "2026-10-18T03:08:54.573921+00:00",
+  "recipes": [
+    {
+      "name": "Spicy Chicken Thai Soup",
+      "ingredients_raw": [
+        "3 lemongrass stalks, bottom two-thirds of tender inner bulbs only, thinly sliced",
+        "4 cloves garlic, chopped",
+        "1 (4 inch) piece fresh ginger root, chopped",
+        "4 cups chicken broth",
+        "1 tablespoon vegetable oil",
+        "2.5 pounds skinless, boneless chicken thighs, cut into chunks",
+        "12 ounces fresh white mushrooms, quartered",
+        "3 tablespoons fish sauce",
+        "2 teaspoons red curry paste",
+        "1 lime, juiced",
+        "2 (14 ounce) cans coconut milk",
+        "1 red onion, sliced",
+        "0.5 bunch cilantro, roughly chopped",
+        "1 lime, cut into wedges, for serving",
+        "1 fresh jalapeno pepper, sliced into rings"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Stir together lemongrass, garlic, and ginger in a large stockpot over medium-high heat until fragrant. Pour in chicken broth and bring to a boil. Reduce heat to low and simmer for 30 minutes. Strain broth and set aside. Discard lemongrass, garlic, and ginger."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in a large soup pot over medium heat. Cook and stir chicken in hot oil for 5 minutes. Add mushrooms and cook for 5 more minutes. Stir in fish sauce, red curry paste, and lime juice until combined."
+        },
+        {
+          "id": 3,
+          "text": "Pour in broth and coconut milk; return to a simmer and cook on low heat for 15 to 20 minutes. Skim off any excess oil and fat that rises to the top and discard."
+        },
+        {
+          "id": 4,
+          "text": "Add red onion; cook until onion softens, about 5 minutes. Remove from heat and stir in about 1/2 of the cilantro. Portion soup into bowls and serve with plates of lime wedges, jalapeño rings, and remaining cilantro."
+        },
+        {
+          "id": 5,
+          "text": "Serve and enjoy."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Spicy Chicken Thai Soup",
+        "datePublished": "2012-01-27T14:16:14-05:00",
+        "dateModified": "2026-03-10T10:40:18-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "This Thai-inspired spiced soup with tender chicken chunks and mushrooms is rich and flavorful from coconut milk, red curry paste, ginger, and garlic.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/bQlMSjitmvgtjtEzlqVvmdd5QCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219936-spicy-chicken-thai-soup-PICS-beauty-4x3-dcb9b9f6f0b84d8ab148926781c85185.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/CKAbdMmb-7uK69qX5.mp4",
+          "description": "0385",
+          "duration": "PT7M9S",
+          "name": "Spicy Chicken Thai Soup",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/CKAbdMmb/thumbnails/psQKtu2C.jpg?width=1280",
+          "uploadDate": "2021-07-13T01:36:58-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spicy Chicken Thai Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "418"
+        },
+        "cookTime": "PT65M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "596 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "114 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "41 g",
+          "saturatedFatContent": "29 g",
+          "sodiumContent": "1207 mg",
+          "sugarContent": "3 g",
+          "fatContent": "45 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Lunch",
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired",
+          "Thai"
+        ],
+        "recipeIngredient": [
+          "3 lemongrass stalks, bottom two-thirds of tender inner bulbs only, thinly sliced",
+          "4 cloves garlic, chopped",
+          "1 (4 inch) piece fresh ginger root, chopped",
+          "4 cups chicken broth",
+          "1 tablespoon vegetable oil",
+          "2.5 pounds skinless, boneless chicken thighs, cut into chunks",
+          "12 ounces fresh white mushrooms, quartered",
+          "3 tablespoons fish sauce",
+          "2 teaspoons red curry paste",
+          "1 lime, juiced",
+          "2 (14 ounce) cans coconut milk",
+          "1 red onion, sliced",
+          "0.5 bunch cilantro, roughly chopped",
+          "1 lime, cut into wedges, for serving",
+          "1 fresh jalapeno pepper, sliced into rings"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/E2r2geHgcJhTmc28lfB0b51ZJX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219936-spicy-chicken-thai-soup-PICS-step-01-19d63ad5781640d38800990f2473b632.jpg"
+              }
+            ],
+            "text": "Stir together lemongrass, garlic, and ginger in a large stockpot over medium-high heat until fragrant. Pour in chicken broth and bring to a boil. Reduce heat to low and simmer for 30 minutes. Strain broth and set aside. Discard lemongrass, garlic, and ginger."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OlVmYTgNkLI7wyD9x_Gl2NJ2WOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219936-spicy-chicken-thai-soup-PICS-step-02-a01e1e1e63b94db580b740037e7602c7.jpg"
+              }
+            ],
+            "text": "Heat oil in a large soup pot over medium heat. Cook and stir chicken in hot oil for 5 minutes. Add mushrooms and cook for 5 more minutes. Stir in fish sauce, red curry paste, and lime juice until combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/d0chaO8Ji1frJO15aN-GtLw0wdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219936-spicy-chicken-thai-soup-PICS-step-03-d8ff4c314efc447883875f7923d21ef3.jpg"
+              }
+            ],
+            "text": "Pour in broth and coconut milk; return to a simmer and cook on low heat for 15 to 20 minutes. Skim off any excess oil and fat that rises to the top and discard."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/rNx0HHAVdGZSzVrFRWJFN96qEXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219936-spicy-chicken-thai-soup-PICS-step-04-ca1a123ffb784aefb9008be3492f029b.jpg"
+              }
+            ],
+            "text": "Add red onion; cook until onion softens, about 5 minutes. Remove from heat and stir in about 1/2 of the cilantro. Portion soup into bowls and serve with plates of lime wedges, jalapeño rings, and remaining cilantro."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bQlMSjitmvgtjtEzlqVvmdd5QCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219936-spicy-chicken-thai-soup-PICS-beauty-4x3-dcb9b9f6f0b84d8ab148926781c85185.jpg"
+              }
+            ],
+            "text": "Serve and enjoy."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT80M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maryam Dadabhoy"
+            },
+            "reviewBody": "This soup is amazing! I made it about 5 times in 4 weeks and everyone was raving about it. I tweaked the recipe each time and this is my recommendations:\n1. use 1 can of coconut milk, not 2. Using 2 totally dilutes the flavors. \n2. I add 2 kafir lime leaves, for an authentic Thai flavor. \n3. Instead of straining the broth, I use a large infuser ball and keep the garlic, ginger, lime leaves and lemon grass inside,and keep it in the finished soup product so the soup gets as much kick as possible. \n4. For a one pot cooking method, I sautee mushrooms in the oil, add fish sauce, and then add the broth/infuser ball (with garlic, ginger, lemon grass and lime leaves). After adding the broth, I added an entire boneless chicken leg/thigh and let it cook in the broth. After chicken is cooked, I removed it, shredded it and added it back to the pot. Then I added 1 can of coconut milk, curry paste, lime juice. Finish by garnishing with red onions, cilantro, jalapeno slices and lime wedge garnish."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carebear1971"
+            },
+            "reviewBody": "This soup was delicious. I followed it step by step except for three things. I added 5 teaspoons of the red curry paste instead of 2. I also continued to simmer the lemon grass, garlic, and ginger in a seasoning strainer to get more flavor. After removing the strainer, I squeezed the garlic cloves into the soup. This is a family favorite and two of my friends even said it was the best soup they have ever had.",
+            "datePublished": "2025-08-06T02:31:51.279Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heatnel"
+            },
+            "reviewBody": "We love this!! I use double the red curry paste, substitute 1 tsp salt for fish sauce due to a non-fish eater, and instead of straining the broth, I twist those items into a coffee filter and soak it in the boiling broth.",
+            "datePublished": "2020-05-08T23:33:19.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shellie Cole Womelsdorf"
+            },
+            "reviewBody": "Amazing! I can't wait to make it again... next week. Only changes I made was to use the lemon grass in a tube, I added Keefer limes leaves (which I had ground already), ran the onion, pepper, fresh ginger and garlic through the chopper and left them in the broth, no need to take them out. Also cooked the chicken in the soup. Served over an avocado with fresh lime juice and chopped cilantro. Great dish and a wonderful change to chili on a cold evening.",
+            "datePublished": "2017-12-08T18:38:47.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CEJONES"
+            },
+            "reviewBody": "Excellent! Made a some adjustments. Used 1 can coconut milk. Used More Red curry paste (to taste). Added fresh corn kernels, carrots and 1 red bell pepper. Used leeks instead of red onion. Didn't have a lime or lime juice, so squeezed a bit of fresh satsuma juice in it - to taste. Added a bit more mushroom. Added 1/4 basmati rice. Used 1 tbsp of fish sauce instead of 3. Use more ginger. Used lemon grass \"paste\" from tube. Brown chix first, then added garlic, ginger, lemongrass \"paste\", leeks. cooked a bit, then added rest of veggies cooked a bit then added rest of ingredients.",
+            "datePublished": "2016-12-05T19:47:15.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "A.I"
+            },
+            "reviewBody": "Great soup. I did make a few changes.\n 1. I put the jalepeno in the broth with the lemon grass, garlic and ginger. This made the broth nice and spicey.\n2. I used chicken breast instead of thigh and I also added pepper when cooking the chicken\n3. I used 3 tsp of curry paste \n4. I used 1.5 cans of coconut milk.\n5. I added vermicelli noodles to make it more hearty",
+            "datePublished": "2018-11-15T00:15:42.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Fisher"
+            },
+            "reviewBody": "Super duper! the only change I had was to add 2 cups of cooked wild rice, I also sautéed red pepper for some colour. We served Jalapeno bread with the soup and was great. We also sprinkled diced green onion on top. Flavours were very good and I'm looking forward to making it again!",
+            "datePublished": "2017-05-30T03:15:42.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Randy"
+            },
+            "reviewBody": "I have made this dish several times now. It is one of my husbands’ favorites. The changes I’ve made are that I use two heaping tablespoons of red curry paste (he likes it spicy) and I use 16 ounces of mushrooms. I have been canning lately and took a class. I asked the instructor if it would be possible to can this soup. She said it would be fine without the coconut milk and it would need to be pressure canned for the amount of time the chicken would take. I did so and it turned out pretty good. I think I would omit the chicken in the canning and add it with the coconut milk when reconstituting as it was a little dry.",
+            "datePublished": "2019-12-15T16:10:55.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mountain Gal"
+            },
+            "reviewBody": "Here's what I did: Heated the coarsely chopped garlic, ginger, lemon grass paste. Added the chicken broth with a Kefir lime leaf. Brought to a boil, reduced to simmer, added the raw chicken breasts to the broth to \"poach\" for the stated 30 minutes. Removed the chicken, strained the broth, \"forked\" the chicken into shredded pieces and put it back into the broth. Followed the rest of the recipe but only used 1/2 a red onion because a whole one seemed like too much. (next time add some thinly sliced red pepper?). As per other reviewers, I used more red curry paste. As per another recommendation, I added a Tbsp on Chili Garlic Paste for heat (I didn't have a jalapeño). Ladled the soup over some rice noodles, and served (note: the long noodles increase the \"slurp factor\", so maybe break the noodles into pieces).\n\nThe boyfriend really liked it, and didn't think it was too salty. I, too,",
+            "datePublished": "2016-12-05T20:48:53.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bcrave"
+            },
+            "reviewBody": "I didn't think the lemongrass, ginger root, and garlic added any flavor when added as suggested. After the first bowl sampled, I added powdered ginger and minced garlic. I will skip the lemongrass all together when I make it again, and not bother with cooking large pieces of ginger and garlic and removing. The most tedious part of this recipe is cutting up raw chicken. I will cook it in the broth, then shred next time. The red onion and cilantro added at the end make this recipe.",
+            "datePublished": "2020-03-08T21:47:25.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Corral"
+            },
+            "reviewBody": "So I used home made stock from a Costco rotisserie chicken; I added seasoning salt, kosher salt, garlic powder, black pepper, turmeric, and xtra lime juice, garbanzo bean pasta shells, diced red potato and sliced green onion. \n\nIt had a nice depth of flavor, potato and pasta added texture\n\nI tend to doctor every recipe the first time, especially soups.",
+            "datePublished": "2021-01-27T03:07:41.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joe K"
+            },
+            "reviewBody": "Loved it.",
+            "datePublished": "2026-08-05T16:44:20.288Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Todd Smith"
+            },
+            "reviewBody": "Ir's a good recipe, but I found the end result a little lacking in flavor. I added a chopped jalapeño and a little more garlic to the broth. After straining I took all of the garlic and a piece of ginger and chopped them finely and put into the soup. The red curry paste gets drowned out by the liquids. I would almost triple and go with a minimum of 6 tsp. Good, but definitely could be great with some tweaks.",
+            "datePublished": "2026-06-22T22:41:30.406Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tjburnn"
+            },
+            "reviewBody": "So good! I added Thai red peppers for some extra spice and warmth. I also couldn’t find lemongrass so I zested a couple lemons and put rinds of a whole lemon in with the broth. I also LOVE ginger so I finely chopped some and added more at the end of cooking. This was a nice soup for someone with a cold and it helped clear them up!",
+            "datePublished": "2026-02-21T00:15:09.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaptReverend"
+            },
+            "reviewBody": "I halved the recipe. Perfect for 4-6 bowls. Fun to make this one. Don't be shy with the curry paste! I may use the base stock but with the addition of orange slices and curry powder to try to duplicate a delicious orange curry chicken soup a local Vietnamese restaurant makes.",
+            "datePublished": "2026-02-07T18:34:29.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pduce"
+            },
+            "reviewBody": "Fresh lemongrass is often difficult to find so I use lemongrass paste. This is a great recipe that you can add more or less of anything on the ingredient list. I always make extra to put in the freezer!",
+            "datePublished": "2025-05-26T23:33:30.532Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CyanSalt9325"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-05-08T14:19:37.776Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jai Brown"
+            },
+            "reviewBody": "There's nothing better for a family of sick people than a great spicy comfort soup. This recipe hits it out of the park, kudos to Chef John! I couldn't find lemongrass and my tube of lemongrass paste didn't make the cut so I used extra lime zest and added some finely minced jalapeno with the red onion to kick up the spice Factor. This is a great soup for anyone with a sore throat or congestion and the warm fuzzies it gives you makes this a great keeper! It probably would have been better with some fresh cilantro which I will definitely be adding in the future. My family wants me to make it again tomorrow 😁👌ps: we garnish just about everything with fresh green onion.",
+            "datePublished": "2025-01-01T05:50:38.761Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GentleCocoa7252"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-20T21:49:00.254Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Josh Knechtel"
+            },
+            "reviewBody": "Made this for my Persian wife and mother in law last night. It was my first time making it, so I didn't stray too much. I did brown about half of the thigh chunks. It just felt needed to me, but probably wasn't. We really enjoyed it. I had only 2 Tbsp of Fish Sauce left, so light of the recipe. Easy to add salt at the end. I made my own Thai red curry paste, because it is so amazing in so many dishes. I then added another 1/2 tsp to my own bowl and felt just right. My MIL is a bit fair on spiciness. ",
+            "datePublished": "2024-12-01T18:32:29.425Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/219936/spicy-chicken-thai-soup/",
+          "name": "Spicy Chicken Thai Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1246/soups-stews-and-chili/soup/chicken-soup/",
+                  "name": "Chicken Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

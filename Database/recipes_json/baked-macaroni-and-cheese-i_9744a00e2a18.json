@@ -1,0 +1,542 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11937/baked-macaroni-and-cheese-i/",
+  "extracted_at": "2026-10-18T01:47:55.327525+00:00",
+  "recipes": [
+    {
+      "name": "Bacon Macaroni and Cheese",
+      "ingredients_raw": [
+        "2 slices bacon",
+        "8 ounces penne pasta",
+        "1 onion, chopped",
+        "1 clove garlic, minced",
+        "3 cups shredded Cheddar cheese",
+        "2 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "2 cups milk"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Cook pasta in a large pot with boiling salted water until al dente. Drain."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Remove bacon, drain on paper towels, then crumble and set aside."
+        },
+        {
+          "id": 4,
+          "text": "Add onion and garlic into the skillet; cook and stir in bacon grease until softened and fragrant. Remove from heat and add chopped cooked bacon; set aside."
+        },
+        {
+          "id": 5,
+          "text": "To make the sauce: Melt butter in a medium saucepan over low heat; add flour and stir constantly for 2 minutes. Gradually add milk and continue stirring until thickened. Stir in 2 cups of the grated Cheddar cheese until melted."
+        },
+        {
+          "id": 6,
+          "text": "Combine cooked pasta, bacon and onion mixture, and white sauce; pour into a 2-quart casserole dish. Sprinkle remaining 1 cup grated Cheddar cheese on top."
+        },
+        {
+          "id": 7,
+          "text": "Bake uncovered in preheated oven until cheese on top is melted and brown, 15 to 20 minutes."
+        },
+        {
+          "id": 8,
+          "text": "Serve warm."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Bacon Macaroni and Cheese",
+        "datePublished": "1999-07-03T10:24:09-04:00",
+        "dateModified": "2026-08-25T12:17:18-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Abbey Robb"
+          }
+        ],
+        "description": "This recipe makes a rich and creamy baked mac and cheese with penne pasta, bacon, onion, and garlic in a creamy white sauce loaded with Cheddar.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/0yDHqmzpse6AfED2sf7-xV2-RPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-Beauty-4x3-491e72e580a843fd909ff2b57e696808.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/QnPqb03W-ma1DlVvV.mp4",
+          "description": "AR0714",
+          "duration": "PT3M37S",
+          "name": "Baked Macaroni and Cheese I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/QnPqb03W/thumbnails/l4FgPnH0.jpg?width=1280",
+          "uploadDate": "2021-07-03T14:11:33-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bacon Macaroni and Cheese",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "407"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "570 kcal",
+          "carbohydrateContent": "44 g",
+          "cholesterolContent": "95 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "19 g",
+          "sodiumContent": "580 mg",
+          "sugarContent": "7 g",
+          "fatContent": "32 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 slices bacon",
+          "8 ounces penne pasta",
+          "1 onion, chopped",
+          "1 clove garlic, minced",
+          "3 cups shredded Cheddar cheese",
+          "2 tablespoons butter",
+          "3 tablespoons all-purpose flour",
+          "2 cups milk"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RkvJ3bzVLmQxlbjzH3D3fADuAQQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-01-c4283940e456418db2866e86b7af3e69.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mHsouVGDHCCAQjflb3-6UKM3ftc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-02-fedadd49fa7643ec9fc7b24f896ecea8.jpg"
+              }
+            ],
+            "text": "Cook pasta in a large pot with boiling salted water until al dente. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/i8jh6gypbEPQ4l9KU2hSERQ8v8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-03-5e52020374b04faeaa71ea28afc33472.jpg"
+              }
+            ],
+            "text": "Meanwhile, place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Remove bacon, drain on paper towels, then crumble and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/E0vmbsoZ_zpXdwt3yNsBDyZlqWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-04-d375447a5bdc43e0bac7271aea5529b1.jpg"
+              }
+            ],
+            "text": "Add onion and garlic into the skillet; cook and stir in bacon grease until softened and fragrant. Remove from heat and add chopped cooked bacon; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/VobRH_1fngauqkLHcKBuRMDW4YA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-05-3cb8c1af9d914d6681ed2d960a7cdce6.jpg"
+              }
+            ],
+            "text": "To make the sauce: Melt butter in a medium saucepan over low heat; add flour and stir constantly for 2 minutes. Gradually add milk and continue stirring until thickened. Stir in 2 cups of the grated Cheddar cheese until melted."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ZsUoLXe4FWJK9RZSWMj59u0_rpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-06-7a5e6882dd074f83b775fb47578dc08c.jpg"
+              }
+            ],
+            "text": "Combine cooked pasta, bacon and onion mixture, and white sauce; pour into a 2-quart casserole dish. Sprinkle remaining 1 cup grated Cheddar cheese on top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/K3p9s3s5-UEP1bhBEtsIZsBZ4bU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-step-07-e017f568f3b545d6bf9957180a2ff275.jpg"
+              }
+            ],
+            "text": "Bake uncovered in preheated oven until cheese on top is melted and brown, 15 to 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/0yDHqmzpse6AfED2sf7-xV2-RPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11937-baked-macaroni-and-cheese-i-VAT-Beauty-4x3-491e72e580a843fd909ff2b57e696808.jpg"
+              }
+            ],
+            "text": "Serve warm."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 (2-quart) casserole"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOMOFADDY"
+            },
+            "reviewBody": "Very good! One of the best mac &amp; cheese recipes I've used. My additions: 1/2 tsp. dry mustard, 1/4 tsp. pepper, and 1/2 tsp. salt. The mustard adds a bit more flavor. As for a floury taste if you cook the sauce until it is \"just boiling\" it will alleviate the problem (don't reduce the flour or it will never get thick). Remove from heat and let set for a couple minutes before adding the cheese, this prevents the cheese from melting too hot and getting \"grainy\". I'll make this over and over. An update of my review: Many reviewers are saying the sauce never ‘gets thick’. It’s *not supposed* to “get thick”. It will be a creamy-textured sauce when mixed with the macaroni. It thickens and absorbs as it bakes in the oven. When making the sauce, use the standard above: Bring it to “just boiling”, period. That is the consistency it is supposed to be! When you take the dish out of the oven it will be perfect! ****Another update**** This recipe just keeps getting “favorite-er and favorite-er”! I’ve had a lot of company this summer and so as to stay out of the kitchen and visit I’m now using the crock-pot. (I triple the recipe and use several kinds of cheese. Omit the bacon for vegetarian guest and it’s still great.) Make the sauce the night before, let cool some, add the cheese, stir &amp; refrigerate. In the morning, cook the noodles, al dente, and mix with the sauce in the crock-pot. Cover and cook on low, about 5 hours, just in time for a late lunch. Stir well before ser"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "thatbitchcancook"
+            },
+            "reviewBody": "I'm giving this great recipe 5 stars, but I made it slightly differently. No bacon. I made caramelized onions, which tasted excellent in the dish so I recommend it for sure. The cheese sauce which is made from a roux needs to be modified. Once you have melted the butter, added the flour and then milk, you need to simmer the mixture over low heat for about 8-10 minutes &amp; stir occasionally making sure it does not burn. This is to cook down the flour and make a nice paste. Then add the cheese, and some nutmeg always adds that extra perfect touch to cheese sauce. I also added some garlic powder and cayanne. I love this recipe and next time I will throw in some stewed tomatoes as well. Thank you for sharing!!",
+            "datePublished": "2007-05-27T15:14:55.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crabman63"
+            },
+            "reviewBody": "I was looking for a simple, basic, but tasty Mac n Cheese recipe. I would have to say this is the one! The recipe is excellent as it is, only made minor changes. One of the most critical, I think for taste was to use the same \"cast iron ' pan through the whole process. From frying the bacon to cooking the onion and garlic, to making the roux. Then finally in the end adding the cooked pasta to the pan and then putting the same pan in the oven. I didn't measure exactly how much cheese I used, but it was probably at least a cup more! Everyone loved it, even my non onion loving daughter had to take leftovers to school this morning! This will be added to my recipe box !!",
+            "datePublished": "2010-05-28T04:23:45.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barb M"
+            },
+            "reviewBody": "Good! The bacon (i used 3 slices) and onion added a nice flavor though it was still missing something....maybe salt or a seasoning to give it a flavor boost. My cheese sauce did turn out a little grainy but that was my fault. I should have removed the milk and roux mixture from the heat entirely before adding the shredded cheese. I used mild cheddar for the sauce (next time I'll use Extra Sharp), for the top I used a 3 cheddar blended mix (Wisconsin, Vermont and Sharp Ched). Yummy. I did sprinkle Creole seasoning to individual servings, so it helped with the flavor.",
+            "datePublished": "2020-04-20T02:24:42.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "erincooks"
+            },
+            "reviewBody": "I thought this recipe was great! I will preface my review with the fact that I have never made macaroni from scratch before and am still learning a lot about cooking. As always, lots of previous reviews helped me. Those along with my own suggestions: (1) use 3 cups cheese in the sauce, (2) mix up the cheeses - i did 2 cups sharp cheddar, 1 cup colby jack, and a little bit of both mixed with parmesan on top, (3) a light coating of bread crumbs under the top layer of cheese. For my version, I used a whole 13.5 oz box of whole grain macaroni noodles and it was perfect. I did not add the onions or bacon (working with limited time and a large group) but I did add cumin as suggested (and, as noted, couldn't taste it at all so I guess it was a good thing??). I had to google \"roux\" and was glad I did since mixing flour and water seemed a bit odd. The sauce took longer than I anticipated. I was unsure at what point the roux/milk mixture thickened but someone had noted that as soon as it thickens at all, it's done. So, I went with that. Will turn the stove up slightly above Low next time bc I think it was not hot enough (and therefore took longer). I baked it for about 15 minutes but then covered it with foil for a bit longer. I got A LOT of compliments (served it with slow cooker bbq pork and California Coleslaw which is from allrecipes too). Will definitely be making this macaroni again --- so sad there were no leftovers!!! Enjoy!",
+            "datePublished": "2010-02-20T13:11:13.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie Pulk"
+            },
+            "reviewBody": "this was excellent. my boyfriend went back for thirds and his friend had seconds. it makes the perfect amount, and the leftovers are great too! i made a few minor changes. im a vegetarian so i didnt use bacon at all. i sauteed onions and garlic in a little olive oil. for the cheese i added a little extra cheddar and also some mozzarella/provolone shredded cheese i had. i topped it with more cheese, then i crushed up some ritz crackers and multigrain club crackers and covered the top with those, and then put a layer of shredded parmesean over that. nice and crunchy! the roux is really easy. if you're having trouble, use a wisk and add the milk by half cups. just wait for it to thicken, it will. will make again and again! *EDIT* finally got the perfect cheese blend. It's sharp cheddar, colby, and provolone in the sauce, and shredded parm on top. mmmmm!",
+            "datePublished": "2007-06-05T06:59:08.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shernaila"
+            },
+            "reviewBody": "Delicious! I think the onions, bacon, and garlic contribute to the nice, flavorful touches. I added some habanero peppers and used unsweetened almond milk because that's what I do. I also used about 2 cups of freshly grated sharp cheddar cheese and about a cup of fontina cheese and added some cajun seasoning, sea salt and freshly ground pepper. I made a panko bread crumb and butter mixture and sprinkled it on top of dish before putting in the oven. I had to be patient for the thickening step. It took about 15-20 minutes on low/med heat. I just kept stirring and stirring like I was making risotto or something. Glad I had the patience because the dish was delicious. Next time, I might add more bacon and perhaps add a little mustard and a little nutmeg. Great base recipe, and I will be using this recipe on the regular.",
+            "datePublished": "2019-11-18T17:04:03.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ian Swinson"
+            },
+            "reviewBody": "Leave out the onions, use pancetta instead of bacon and use a mix of cheddar, gruyere and asiago for the cheese. To make it a real winner throw some panko breadcrumbs mixed with a little more cheese on top at the end and pop under the broiler, until browned, for a delicious crunchy texture and even more flavor. My 13 year old daughter and her friends will demolish a whole platter in minutes.\n\nIf you're getting a floury taste - work on your roux. This should be pure creamy, cheesy goodness.",
+            "datePublished": "2014-07-18T11:51:55.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cooking in the Kitchen"
+            },
+            "reviewBody": "We made this gluten free by using rice flour and rice pasta. We made individual portions by putting pasta into muffin tins - only baked for 10 minutes. We sprinkled hemp seeds on top for a bit of crunch.",
+            "datePublished": "2017-02-20T22:21:45.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mamajess"
+            },
+            "reviewBody": "After reading the reviews, I too added double the bacon and cooked the onion in a little of the bacon grease. I also substituted 1/2 cup of the milk for whipping cream. I did use cheddar, and I thought it was not bland, but was exactly like restaurant macaroni and cheese. I had been making the joy of cooking version for 10 years, but this is my new standard. I added the milk slowly and had no sauce problems and did not find it floury at all.",
+            "datePublished": "2009-03-11T07:23:29.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Islandgirl"
+            },
+            "reviewBody": "This recipe, in my opinion, is 5 stars. And yes, I did alter it slightly, as I have to admit, I tend to do that based on my families preferences. I increased the pasta to 12oz, fried 6 pieces of bacon and then caramelized my onions in the bacon pan. I used all three cups of cheeses in my sauce and even added a little extra to the top before baking. Now here is where I really deviated! I took the spices from Chef Jonh's Mac and Cheese (from this site) and added them to my sauce. I also used his Panko topping as I prefer my Mac and cheese to have a crunchy topping. The reason why I love this site is not only for the recipes but because of the reviews! Countless times in the past (from cookbooks) I have made recipes that never turned out....I have made dozens of recipes from this site and I can honestly say that there was only one that wasn't a hit, it was good, but not a 'wow I would make that again'. And the reason for my success (other than my stellar cooking/baking skills ;) is because I read the recipes over and then the reviews to see what has worked countless times for everyone. I see nothing wrong with altering a recipe as I believe that is what cooking/baking is all about! If it wasn't for the recipe submitter playing around with recipes, it wouldn't be here for us to enjoy. :)",
+            "datePublished": "2014-03-16T16:56:35.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Evelyn"
+            },
+            "reviewBody": "Looks good",
+            "datePublished": "2025-09-01T17:07:58.818Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyCow1858"
+            },
+            "reviewBody": "I loved the addition of the bacon and onion in this. Didn't miss the usual macaroni shape, but will probably try it with that next time just to compare and contrast.",
+            "datePublished": "2025-08-08T15:12:57.534Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mns78"
+            },
+            "reviewBody": "My family requested this as my regular Mac n Cheese recipe going forward! We’ve made it several times and every time it tastes better and better!",
+            "datePublished": "2025-05-25T20:13:08.738Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cookie52"
+            },
+            "reviewBody": "It was very tasty just as the recipe is listed!",
+            "datePublished": "2020-09-20T00:40:48.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Abby "
+            },
+            "reviewBody": "I used regular noodles",
+            "datePublished": "2020-05-02T20:49:37.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jay double u"
+            },
+            "reviewBody": "Simple and perfect.",
+            "datePublished": "2019-12-03T20:18:07.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vee28"
+            },
+            "reviewBody": "Very easy recipe to follow. I omitted the bacon because I don’t really eat pork. Made a few tweaks and overall tasted great! I added a mix of Parmesan cheese and Italian breadcrumbs on top.",
+            "datePublished": "2018-12-15T19:54:59.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sally Adkins"
+            },
+            "reviewBody": "I'm always asked if I will be making and bringing this to family gatherings and the pan is always empty. I make the 12 serving size, but use one pound of bacon (you can never use TOO MUCH bacon!). I use a mixture of ricotta, sharp cheddar, italian and mexican blend cheeses.",
+            "datePublished": "2018-12-12T16:11:41.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Penny Delahanty"
+            },
+            "reviewBody": "Awesome!! It was a family favorite.",
+            "datePublished": "2018-11-11T01:48:35.130Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11937/baked-macaroni-and-cheese-i/",
+          "name": "Bacon Macaroni and Cheese",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/509/main-dish/pasta/macaroni-and-cheese/",
+                  "name": "Macaroni and Cheese Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16830/main-dish/pasta/macaroni-and-cheese/baked-macaroni-and-cheese/",
+                  "name": "Baked Macaroni and Cheese Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

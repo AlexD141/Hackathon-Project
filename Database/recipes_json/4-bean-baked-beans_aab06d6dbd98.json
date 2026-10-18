@@ -1,0 +1,466 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222568/4-bean-baked-beans/",
+  "extracted_at": "2026-10-18T03:16:13.923764+00:00",
+  "recipes": [
+    {
+      "name": "4-Bean Baked Beans",
+      "ingredients_raw": [
+        "1 (16 ounce) can pork and beans, drained",
+        "1 (15 ounce) can kidney beans, drained",
+        "1 (15 ounce) can butter beans, drained",
+        "1 (15 ounce) can lima beans, drained",
+        "0.5 pound bacon, cut into small pieces",
+        "1 large onion, chopped",
+        "2 cloves garlic, chopped",
+        "0.75 cup brown sugar",
+        "0.5 cup ketchup",
+        "0.5 cup vinegar",
+        "0.25 cup molasses",
+        "1 teaspoon dry mustard"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Add pork and beans, kidney beans, butter beans, and lima beans to a 2-quart casserole dish."
+        },
+        {
+          "id": 3,
+          "text": "Heat a saucepan over medium heat. Add bacon, onion, and garlic; cook and stir until bacon browned, about 10 minutes. Drain excess grease."
+        },
+        {
+          "id": 4,
+          "text": "Whisk brown sugar, ketchup, vinegar, molasses, and mustard into bacon mixture; simmer until cooked through, about 20 minutes. Pour sauce over beans; stir to combine."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven until bubbling, 1 hour 15 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "4-Bean Baked Beans",
+        "datePublished": "2020-03-05T00:09:00-05:00",
+        "dateModified": "2026-04-19T11:46:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "scubaLQ"
+          }
+        ],
+        "description": "Four different varieties of beans are baked with bacon, molasses, and brown sugar for a sweet and savory picnic side dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QDNeA9JbOTbkAnitZbxrA7oN1j0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970144-e07d48373faa45bf804ba8e235fccbd5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "4-Bean Baked Beans",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "63"
+        },
+        "cookTime": "PT105M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "171 kcal",
+          "carbohydrateContent": "31 g",
+          "cholesterolContent": "7 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "526 mg",
+          "sugarContent": "14 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) can pork and beans, drained",
+          "1 (15 ounce) can kidney beans, drained",
+          "1 (15 ounce) can butter beans, drained",
+          "1 (15 ounce) can lima beans, drained",
+          "0.5 pound bacon, cut into small pieces",
+          "1 large onion, chopped",
+          "2 cloves garlic, chopped",
+          "0.75 cup brown sugar",
+          "0.5 cup ketchup",
+          "0.5 cup vinegar",
+          "0.25 cup molasses",
+          "1 teaspoon dry mustard"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add pork and beans, kidney beans, butter beans, and lima beans to a 2-quart casserole dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat a saucepan over medium heat. Add bacon, onion, and garlic; cook and stir until bacon browned, about 10 minutes. Drain excess grease."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk brown sugar, ketchup, vinegar, molasses, and mustard into bacon mixture; simmer until cooked through, about 20 minutes. Pour sauce over beans; stir to combine."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until bubbling, 1 hour 15 minutes."
+          }
+        ],
+        "recipeYield": "16",
+        "totalTime": "PT120M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "First, I have something to say, and this isn’t even my own recipe. One reviewer literally changed just about everything in this recipe but, PLEASE, do yourself a favor and tweak after you give this a try at least once, as written. IMO it’s that good, and I wouldn’t change anything. That particular reviewer gave it 5 stars, but seriously, she wasn’t reviewing this recipe, only her custom version. The selection of beans is interesting, eye appealing, and just tasty! I was a little concerned that the sauce might be too sweet for our taste, but it was the perfect blend. I love baked beans, have cooked them many different ways (including slow cooked), and I honestly can say that I don’t think I’ve had better!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RHKATZ3"
+            },
+            "reviewBody": "This was Great !! Everyone at the cookout liked it better then any of the store bought baked beans !!I had to change the kind of beans II used to 1 large can of kidney beans, 2 cans pinto beans and 1 can black beans but the rest of the ingredients are what makes it great. Thanks for sharing !!",
+            "datePublished": "2012-07-18T09:36:49.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DTUTTLE56"
+            },
+            "reviewBody": "This recipe is very similar to the recipe that my sister in law's sister gave me over 20 years ago. Mine/hers is called Crockpot All Day Beans. Uses 1 can Mexican Red sauce (if you can't find this just use red enchilada sauce) and 1/4 cup Worchester sauce instead of the Ketchup, vinegar and molasses. Cook in Crockpot on low for 6 to 8 hours. So much easier and it has a bit of a kick from the red sauce.",
+            "datePublished": "2013-05-21T06:01:37.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thisni Caza"
+            },
+            "reviewBody": "Very good. Reminds me of a recipe I used to make called Calico Beans. No, butter beans and lima beans are not the same thing. I don't know...maybe one is more 'ripe' than the other. But they don't look the same. I did not drain the pork and beans (because they are in sauce, not just beany liquid) but did drain and rinse well the other beans; used frozen for the limas; did not use bacon (only because I need to watch the cholesterol). Like others, I would cut back on the sugar next time but that is just personal preference.",
+            "datePublished": "2014-04-02T06:39:31.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jtrotts"
+            },
+            "reviewBody": "Delicious!\nI assembled a day ahead, and cooked the next day on high in the slow cooker for a large gathering. Made dinner a breeze, and was asked for the recipe by many people. great recipe!",
+            "datePublished": "2012-08-19T18:02:47.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam"
+            },
+            "reviewBody": "I browned everything and simmered the sauce with the bacon the day before. Stirring it into the beans the next day was quick and easy and no frying pan to clean the day I needed the completed dish.\n\nIt went to a pot luck. Not a bean left! Delicious!",
+            "datePublished": "2016-12-05T03:42:12.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trish Calhoun"
+            },
+            "reviewBody": "I changed kidney beans to pinto beans , used red wine vinegar and blueberry syrup instead of molasses cause that's what I had. Easy recipe and everybody loved it!",
+            "datePublished": "2017-10-16T14:40:04.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "doris"
+            },
+            "reviewBody": "I’ve made this bean recipe many times. The only change I’ve made is swapping out the lima beans for black beans. It’s always a winner. Highly recommend it.",
+            "datePublished": "2019-05-21T17:43:11.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "littleredhen"
+            },
+            "reviewBody": "Aren't butter beans and lima beans the same thing, just different names? \nI omitted the pork &amp; beans and added great northern beans with a little paprika and onion powder, added 1/2lb beef, used turbinado sugar instead of brown, no garlic (didn't have any), used bbq sauce instead of ketchup, and dijon mustard instead of dry. Turned out great! I will definitely make this again.",
+            "datePublished": "2012-09-16T08:53:00.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MANDA2BH"
+            },
+            "reviewBody": "Maybe I did something wrong, but the beans were still pretty hard. I used pinto, white, and navy beans. The flavor was great, but I'll have to simmer the beans a little longer to get the tenderness even close to that of a can of baked beans. Will make again, but try in a crockpot.",
+            "datePublished": "2013-09-24T17:22:03.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gretch"
+            },
+            "reviewBody": "Really liked the taste! I will definitely make these again. My only negative was that they were rather dry by the end of the cooking. Maybe I'll add some more ketchup? or maybe just some water? or maybe cook it less time, like 50 or 60 minutes? or all of the above? I will definitely be trying something because the flavor is definitely there!",
+            "datePublished": "2019-07-04T23:56:17.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "zookeeper32"
+            },
+            "reviewBody": "Won't make again. They were just ok. Followed the recipe without changes but they were nothing special and too dry. Nobody raved. So many other great bbq bean recipes from this site. I was just looking to try a new one. Disappointed.",
+            "datePublished": "2026-01-06T11:20:19.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol"
+            },
+            "reviewBody": "I made them just as written. I think taking the time to cook the seasonings together before adding the beans is an important step. It mellows the vinegar and reduces the juice. Love the recipe!",
+            "datePublished": "2025-07-09T21:00:47.454Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "YellowEel8509"
+            },
+            "reviewBody": "Great recipe! Changed the type of beans. Kept everything else the same. Multiplied recipe and served 125+ people.",
+            "datePublished": "2024-12-10T10:45:22.372Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Pridgen"
+            },
+            "reviewBody": "Thanks for the recipe! When I went looking for a recipe to dilute the baked bean flavor I gave this a try and it was simple and delicious, exactly what I was looking for!",
+            "datePublished": "2024-02-01T20:42:07.256Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "brian jones"
+            },
+            "reviewBody": "I thought it was superb-great flavours and thoroughly digestible My congratulations on a culinary masterpiece!",
+            "datePublished": "2024-01-21T04:43:14.931Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dan Campbell"
+            },
+            "reviewBody": "Wow! Easy to make and a great for a summer side to almost anything.",
+            "datePublished": "2023-07-15T16:40:26.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ruth DeKuiper Tuttle"
+            },
+            "reviewBody": "So easy to make and so delicious.",
+            "datePublished": "2022-09-11T21:19:29.868Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ronpyle"
+            },
+            "reviewBody": "Yes placed on the smoker to early to tell but can report later. Sure smells good maple on pellet smoker",
+            "datePublished": "2022-02-09T16:46:31.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Olson"
+            },
+            "reviewBody": "These were absolutely delicious. They’ve been requested for our 4th of July get together! A word to Leona. You gave five stars to your recipe, not the woman who originally posted this. You and others that do the same are doing a great disservice to the people who proudly post these recipes.",
+            "datePublished": "2021-07-02T19:08:19.370Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222568/4-bean-baked-beans/",
+          "name": "4-Bean Baked Beans",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/220/side-dish/beans-and-peas/",
+                  "name": "Beans and Peas"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1673/side-dish/beans-and-peas/baked-beans/",
+                  "name": "Baked Bean Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

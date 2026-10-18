@@ -1,0 +1,480 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16131/ranch-dressing-ii/",
+  "extracted_at": "2026-10-18T02:19:07.417385+00:00",
+  "recipes": [
+    {
+      "name": "Homemade Ranch Dressing",
+      "ingredients_raw": [
+        "1 cup mayonnaise",
+        "0.5 cup sour cream",
+        "0.5 teaspoon dried chives",
+        "0.5 teaspoon dried parsley",
+        "0.5 teaspoon dried dill weed",
+        "0.25 teaspoon garlic powder",
+        "0.25 teaspoon onion powder",
+        "0.125 teaspoon salt",
+        "0.125 teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Whisk mayonnaise, sour cream, chives, parsley, dill, garlic powder, onion powder, salt, and pepper together in a large bowl until well-combined."
+        },
+        {
+          "id": 3,
+          "text": "Cover and refrigerate for 30 minutes before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Homemade Ranch Dressing",
+        "datePublished": "2000-02-01T16:14:13-05:00",
+        "dateModified": "2026-04-15T10:53:56-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "GIDARMARK"
+          }
+        ],
+        "description": "This ranch dressing recipe is easy to make at home with sour cream, mayo, and herbs for a creamy salad dressing that tastes better than store-bought!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/hTkFJoQIcjGqnP353GHOGvLJAdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16131-ranch-dressing-ii-DDMFS-4x3-8dc33e59887045338002079287ea7559.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/tFuVNDpy-K3AjnAEN.mp4",
+          "description": "Skip the store-bought stuff and make a delicious dressing at home using this easy recipe. In this video, Nicole shows you how to make a flavorful ranch dressing. Preparing this dressing is simple and only requires stirring and incorporating the ingredients together. Using a combination of mayo, sour cream, fresh herbs, and seasoning, this rich and creamy ranch dressing is perfect for a game day snack or veggie platter.",
+          "duration": "PT1M1S",
+          "name": "How to Make Ranch Dressing",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/tFuVNDpy/poster.jpg?width=1280",
+          "uploadDate": "2023-08-09T14:39:09-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Homemade Ranch Dressing",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "1571"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "153 kcal",
+          "carbohydrateContent": "1 g",
+          "cholesterolContent": "11 mg",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "134 mg",
+          "sugarContent": "0 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Condiment"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup mayonnaise",
+          "0.5 cup sour cream",
+          "0.5 teaspoon dried chives",
+          "0.5 teaspoon dried parsley",
+          "0.5 teaspoon dried dill weed",
+          "0.25 teaspoon garlic powder",
+          "0.25 teaspoon onion powder",
+          "0.125 teaspoon salt",
+          "0.125 teaspoon ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/MDwah-GBEyH0v7qnzRzJeFYwvts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16131-ranch-dressing-ii-Step-1-00090-4158edb1741746f580a600d8d0995217.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mskJuVUDClz-_OZ54dXQP4QlrOU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16131-ranch-dressing-ii-Step3-00093-7d9bd2700cbe47aea1a412963695bdca.jpg"
+              }
+            ],
+            "text": "Whisk mayonnaise, sour cream, chives, parsley, dill, garlic powder, onion powder, salt, and pepper together in a large bowl until well-combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hTkFJoQIcjGqnP353GHOGvLJAdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16131-ranch-dressing-ii-DDMFS-4x3-8dc33e59887045338002079287ea7559.jpg"
+              }
+            ],
+            "text": "Cover and refrigerate for 30 minutes before serving."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 1/2 cups"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christy E"
+            },
+            "reviewBody": "I have been on a three-year quest to find the perfect ranch dressing recipe, and I finally found it! This is great! I did make modifications to suit our Texas taste buds (ranch dressing is a condiment here!), but this is a wonderful start. My modifications are to 1) Change the mayo/sour cream/buttermilk to 1/2 cup mayo, 1/2 cup sour cream, 1/2 cup buttermilk, 2)Increase the garlic to 1/2 tsp., and 3) Add 1/2 tsp. vegetable oil (for consistency). Thanks Dawnia!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kj427"
+            },
+            "reviewBody": "I quite like this recipe with a few changes of my own and from those of other reviewers. First I decreased the sour cream to only 1/4 c. as I thought the sour cream flavor was a little overpowering. I added 1/2 c. buttermilk to the mayo and used 1/8 tsp. seasoned salt in place of the regular salt, I also added 1/4 tsp. vinegar as had been suggested and upped the garlic powder to 1/2 tsp. With these changes I gave it 5 stars. Thanks for the recipe, it is wonderful!",
+            "datePublished": "2007-05-01T09:19:37.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HonestParm2676"
+            },
+            "reviewBody": "Was interested in a ranch recipe without buttermilk because I don’t typically keep that on hand. As written it’s missing the acidic tang, but I added maybe 1.5-2 teaspoons of apple cider vinegar which brightened it up perfectly. Just sharing in case anyone else feels like it’s missing something!",
+            "datePublished": "2024-03-28T23:06:45.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hapygrl"
+            },
+            "reviewBody": "Because I have a son who will only eat Hidden Valley dressing, I have been trying many recipes for homemade. I made this yesterday, with the changes posted by one reviewer, using 1/4C buttermilk, 1/2 mayo and 1/2c sour cream and increasing garlic to 1/2 tsp and my son said \"pretty good\" which means excellent! better when it sets! Try doubling the spices. It really needs to set overnight to merge the flavors. Try it! You won't be sorry! Edit: I have made this dressing more times than I can count! It never disappoints. It must set overnight or longer. I double or triple this so there's enough for a few days!",
+            "datePublished": "2025-04-12T13:53:28.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "msbecca13"
+            },
+            "reviewBody": "I hardly ever write reviews, but I read them obsessively. I also hate when people rate a recipe and include a multitude of changes made to the original recipe…. Having said that: I subbed Greek yogurt for the sour cream (simply because that’s what I had on hand) and cut the Mayo down to a little more than half a cup. I took over reviewers advice and made up the difference with half a cup of “faux” buttermilk (half cup milk and a tblsp of white vinegar). I tripled the parsley, garlic, and I onion powder because #spices and used fresh chives chopped very finely. Left out the dill this time as it didn’t fit the flavor profile I was using the ranch for (southwest egg rolls) \nSoooo good. Stupid good. Upsettingly good. Will for sure make again. And again. And again.",
+            "datePublished": "2021-11-07T01:12:55.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kris Kesel"
+            },
+            "reviewBody": "We have modified this to our preferences, but love the recipe even as written. We let the girls use a mortar and pestle to grind fine the parsley and chives, and then combine all dry ingredients in a lidded container so we can just measure out what is needed when it’s time for a new batch of dressing! (So we generally quadruple the recipe lol)",
+            "datePublished": "2019-01-10T17:50:35.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lksaxton5412"
+            },
+            "reviewBody": "As much as I adore mayo and sour cream I'm always looking for a lo-cal substitute even if I sacrifice some of the thickness: I use 2 c low fat buttermilk, 1/2 c reduced fat mayo, 1/2 c plain nonfat yogurt. I have been using commercial ranch powder but that's getting expensive! So this recipe is a great find. If anyone does try my \"formula\" make sure to up the quantities of seasonings.",
+            "datePublished": "2023-05-14T17:01:32.119Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Stout"
+            },
+            "reviewBody": "Wonderful. I’m tired of buying expensive dressings. The only things I changed were substitutions for chives and sour cream. Used basil and plain, non-fat Greek yogurt. My husband loved it!",
+            "datePublished": "2023-06-11T22:48:21.521Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JACK19"
+            },
+            "reviewBody": "As written it makes a very thick \"dip.\" I used the changes recommended by kj427, and reduced the buttermilk to 3/8 Cup...If you like it even thinner, use the 1/2 cup. I also did not use the seasoned salt. \"I quite like this recipe with a few changes of my own and from those of other reviewers. First I decreased the sour cream to only 1/4 c. as I thought the sour cream flavor was a little overpowering. I added 1/2c. buttermilk to the mayo and used 1/8 tsp. seasoned salt in place of the regular salt, I also added 1/4 tsp. vinegar as had been suggested and upped the garlic powder to 1/2 tsp. With these changes I gave it 5 stars. Thanks for the recipe, it is wonderful!\"",
+            "datePublished": "2023-06-04T23:07:04.912Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ethel Joslin"
+            },
+            "reviewBody": "I did add a little more buttermilk for the acidity and cut back a little on the mayo and it was still a good thick consistency. I also added fresh dill and chives from the garden. Side note: I believe using real buttermilk as opposed to buttermilk substitute yields a better tangy element some ranch dressing recipes lack.",
+            "datePublished": "2024-07-26T23:29:32.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Binay"
+            },
+            "reviewBody": "It was a little bland for my taste, as others have said, a little too mayonnaisey. I doubled up on all the herbs and added some buttermilk because I had some on hand.",
+            "datePublished": "2023-07-13T15:18:54.138Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "I have been trying to make more things from scratch so I can stay away from the preservatives. I don’t like things that can sit on a counter for long periods of time without going bad. The only thing I would change about your recipe is I added 1/4 cup of half-and-half to make it a little less thick.",
+            "datePublished": "2026-10-09T21:28:19.265Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gabrielle"
+            },
+            "reviewBody": "Super yummy and easy! I’ve made this several times and stopped buying from the store. Sometimes I add white vinegar and water to up the tangy flavor and lighten the consistency.",
+            "datePublished": "2026-09-05T20:59:23.906Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tolv Neuendorff"
+            },
+            "reviewBody": "Usually up the garlic and dill and add milk or half &amp; half if using as salad dressing. Love the flavours!",
+            "datePublished": "2026-08-03T20:34:39.809Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SandyNori1037"
+            },
+            "reviewBody": "This is the exact ranch dressing recipe I've been looking for. Easy to make and I had everything on hand. I did add about 4 tablespoons of half and half just to make it a little smoother to put on salads. It's a winner!",
+            "datePublished": "2026-07-20T23:49:25.042Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Frances Anne"
+            },
+            "reviewBody": "I've made this twice--once as written, and once with buttermilk instead of sour cream. Both were good, but I preferred the buttermilk. Next time I'll substitute Greek yogurt for sour cream.",
+            "datePublished": "2026-07-09T21:57:57.746Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JayD5626"
+            },
+            "reviewBody": "I dont use mayo, I use organic greek yogurt and keeps longer and tastes nice and fresh all the time. Thank you for the recipe",
+            "datePublished": "2026-05-06T09:52:12.369Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hunnybunny6801"
+            },
+            "reviewBody": "Made it as directed on the video on YouTube with a fourth a cup of buttermilk and it is amazing!!!",
+            "datePublished": "2026-04-27T23:05:21.571Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne Elabedi"
+            },
+            "reviewBody": "This ranch dressing is tasty and sets off the flavor of my Denver salad. I added mustard seed. It's only me to feed so I cut in half and still have a half pint.",
+            "datePublished": "2026-04-17T02:51:48.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diane"
+            },
+            "reviewBody": "I've been mixing up the seasonings in bulk to make dairy-free ranch dressing for years. Just good mayo, seasoning, a little water, and a squeeze or two of lemon juice for the tang. It allows me to have ranch, and everyone, even dairy eaters, love it.",
+            "datePublished": "2026-01-17T03:36:58.699Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16131/ranch-dressing-ii/",
+          "name": "Homemade Ranch Dressing",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/210/side-dish/sauces-and-condiments/salad-dressings/",
+                  "name": "Salad Dressing Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2596/side-dish/sauces-and-condiments/salad-dressings/ranch-dressing/",
+                  "name": "Ranch Dressing Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

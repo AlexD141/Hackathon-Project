@@ -1,0 +1,523 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13096/cream-of-mushroom-soup-i/",
+  "extracted_at": "2026-10-18T01:52:14.634872+00:00",
+  "recipes": [
+    {
+      "name": "Cream of Mushroom Soup",
+      "ingredients_raw": [
+        "5 cups sliced fresh mushrooms",
+        "1.5 cups chicken broth",
+        "0.5 cup chopped onion",
+        "0.125 teaspoon dried thyme",
+        "3 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "0.25 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "1 cup half-and-half",
+        "1 tablespoon sherry"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Simmer mushrooms, stock, onion, and thyme in a large heavy saucepan until vegetables are tender, 10 to 15 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Carefully transfer the hot mixture to a blender or food processor. Cover and hold lid down with a potholder; pulse until creamy but still with some chunks of vegetable."
+        },
+        {
+          "id": 4,
+          "text": "Melt butter in the same saucepan. Whisk in flour until smooth. Whisk in salt and pepper. Slowly whisk in half-and-half and mushroom mixture."
+        },
+        {
+          "id": 5,
+          "text": "Bring soup to a boil and cook, stirring constantly, until thickened."
+        },
+        {
+          "id": 6,
+          "text": "Stir in sherry. Taste and season with more salt and pepper if needed."
+        },
+        {
+          "id": 7,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Cream of Mushroom Soup",
+        "datePublished": "1999-02-27T23:55:15-05:00",
+        "dateModified": "2026-03-23T06:17:31-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Karena"
+          }
+        ],
+        "description": "Cream of mushroom soup made from scratch with freshly sliced mushrooms, onion, thyme, stock, cream, and a splash of sherry for a classic favorite.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PKh_MtthZMtG1flNmud0MNgRK7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-4x3-293-b505e37374d74e81807e8a93bcdd7bab.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/7cBZ8SlR-ma1DlVvV.mp4",
+          "description": "See how to make rich, creamy mushroom soup from scratch.",
+          "duration": "PT2M24S",
+          "name": "Cream of Mushroom Soup I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7cBZ8SlR/poster.jpg?width=1280",
+          "uploadDate": "2021-07-03T22:22:22-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cream of Mushroom Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "1402"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "165 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "31 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "408 mg",
+          "sugarContent": "6 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "5 cups sliced fresh mushrooms",
+          "1.5 cups chicken broth",
+          "0.5 cup chopped onion",
+          "0.125 teaspoon dried thyme",
+          "3 tablespoons butter",
+          "3 tablespoons all-purpose flour",
+          "0.25 teaspoon salt",
+          "0.25 teaspoon ground black pepper",
+          "1 cup half-and-half",
+          "1 tablespoon sherry"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/H211DLfq_qLhpcgqwxFU6RvJKB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-step-1-261-81f3a7aee6f04f898ef002d77d30e5cd.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/X6sGVP0QWGY0oB0Opz26smAD0fc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-step-2-266-42941c5ef8bb45dcbb56dadc506cdd63.jpg"
+              }
+            ],
+            "text": "Simmer mushrooms, stock, onion, and thyme in a large heavy saucepan until vegetables are tender, 10 to 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/tnrLG5TdkBDAAHHY9D2crOECf_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-step-3-2-269-61d065a485364a728a98058796101f88.jpg"
+              }
+            ],
+            "text": "Carefully transfer the hot mixture to a blender or food processor. Cover and hold lid down with a potholder; pulse until creamy but still with some chunks of vegetable."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/W76RxuXNXgUngJ14I6qCzph8uxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-step-5-282-f0dc4fa04b45426d8dc1d61441ccbd9e.jpg"
+              }
+            ],
+            "text": "Melt butter in the same saucepan. Whisk in flour until smooth. Whisk in salt and pepper. Slowly whisk in half-and-half and mushroom mixture."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring soup to a boil and cook, stirring constantly, until thickened."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ccvmDLTIBbIrb2zuK5vX9RSfsw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-step-6-283-ed632f8282e8438c8db21740e5344f66.jpg"
+              }
+            ],
+            "text": "Stir in sherry. Taste and season with more salt and pepper if needed."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PKh_MtthZMtG1flNmud0MNgRK7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13096-Cream-of-Mushroom-Soup-ddmfs-4x3-293-b505e37374d74e81807e8a93bcdd7bab.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RayPappy Bailey"
+            },
+            "reviewBody": "Some people need to get a grip....this is an excellent recipe as is.....If you want to make wholesale changes and completely re do it....make and submit your own recipe....some hints and brief adds/deletions fine...but come on. this person went to a lot of trouble for this recipe. and it is fabulous as is.\ncompletely change it? make your own recipe....not beleager us with wholesale changes.....\nThanks, this recipe is great as is.....we all make our own LITTLE/subtle changes for taste preferences....good job.."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DONNA1000"
+            },
+            "reviewBody": "Excellent! As good as any mushroom soup I've had in a restaurant. I did change it a little and made it a easier. I sauteed the onions in a little butter and oil until the onions were soft and clear. Then I added sliced baby portabella mushrooms with a little salt and cooked on low about 5 minutes. I think this step brings out the sweetness of the onions and flavor of the mushrooms. Then I added the chicken broth. When I don't have time to make the broth I use a good quality soup base that has chicken listed as the first ingredient on the label. This is as good as any broth you would make, not like bullion cubes. I skipped step two because I like whole mushrooms. I like it better this way and it also saves time and mess. To thicken the soup I just used my tupperware mixer and mixed the flour with a little water. I added this to the soup mixture then added the half and half and the sherry. I used the fat free half and half and no one had a clue. Everyone loved it! Next time I'll make a bigger batch.",
+            "datePublished": "2002-12-09T15:49:43.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alice"
+            },
+            "reviewBody": "I took others' advice and substituted heavy cream for half and half. Also, only pureed 1/2 of the mixture so that I would have large chunks of mushrooms in soup. Very yummy taste and easy to make! (5 cups was approx. (2) 8 oz. mushroom containers)",
+            "datePublished": "2004-01-04T12:08:33.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brooke Elizabeth"
+            },
+            "reviewBody": "FABULOUS!! I had a soup just like this in Kennet Square, PA and have been desperate to find a similar recipe. This ended up being even better than the restaurant soup, but exactly what I had been hoping for!! \n\nI used fat free half and half, vegetable broth, 20 ounces of pre-sliced mushrooms (half baby portabello, half traditional grocery mushrooms), only 1 TB of butter and 2 of flour (although next time I'd use less). I doubled the onion to 1 cup sweet onion, added a bit of extra black pepper, and finally, used about 1/3 cup white wine instead of 1 TB sherry. I also added 1 TB crushed garlic, which was a nice touch. I only blended about half of the mushrooms and onions and left the rest solid. \n\nThis was a fantastic soup, and I am so glad I used this recipe!! Thanks so much for sharing!!",
+            "datePublished": "2007-04-22T18:10:04.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CAYUGA2"
+            },
+            "reviewBody": "Absolutely delicious, delicate, creamy flavor! I had the very good luck of coming into some fresh organic shitake mushrooms. I chose to spend them on making this soup, and it was the best decision I could have made. I followed the recipe exactly but only used 2 T. of flour and butter to thicken, since I knew the shitakes would produce less moisture than other varieties of mushrooms. The consistency was thick but good. For sherry I bought a medium dry amontillado, which lent the soup a delicious subtle finish. Don't skimp on the sherry. I do wish the onions had melted into the soup better. Maybe I'll saute them first next time, as some reviewers have suggested.",
+            "datePublished": "2006-01-08T17:29:35.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CANSAN"
+            },
+            "reviewBody": "This is truly an excellent recipe. The soup was very tasty, and had great texture. I have used both fat free half and half as well as the real thing successfully. I found that two 8 oz. containers of sliced mushrooms broken up made about the five cups the recipe called for. Many friends have requested this recipe since I made it for them, so it is a keeper.",
+            "datePublished": "2005-10-21T22:30:54.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "The reviewer suggesting that the amount of mushrooms and onions be halved while the rest of the ingredients remain the same was the most helpful and right on target. So, for a mere three servings (with no leftovers!) I doubled the recipe to “12 servings” using 6 cups of mushrooms (2- 8 oz. pkgs. - one baby bella and one regular button mushrooms) and 1/2 cup of chopped onion. Cooking the mushrooms and onion in broth did not appeal to me – rather, I sweated them in the butter, then added the flour before adding the broth, sherry and cream. I removed some of the mushrooms, pureed the rest of the soup, then returned the mushrooms I reserved back to the pan. The end result was a flavorful and enjoyable soup but the necessary adjustments to get it there were fairly significant.",
+            "datePublished": "2012-12-20T19:42:11.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDA MCLEAN"
+            },
+            "reviewBody": "Excellent soup! I too used several types of mushrooms and added sour cream for a little more body. Thanks Karena!",
+            "datePublished": "2003-01-13T06:35:46.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VRCOOK"
+            },
+            "reviewBody": "I thought this was an excellent version of a soup I have made probably a thousand times. The only changes I made were to keep half the mushrooms sliced for texture and to add a few kicks of cayenne. Great recipe!",
+            "datePublished": "2011-01-04T16:18:02.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ICookItsWhatIDo"
+            },
+            "reviewBody": "This is delicious! I added 1 clove chopped garlic , 1 extra tbsp sherry, and an extra 1 1/2 tbsp butter to the ingredients. I started out by sauteing the onion and garlic in 1 1/2 tbsp butter until onions were almost clear. Then, I added 1/2 c. of the broth and the mushrooms, and sauteed them for 5 minutes, then added the rest of the broth and thyme and simmered for 3 minutes more before continuing with the rest of the recipe. Pureed 3 ladles worth in a food processor, although you do not need to. Also, I confirmed with other reviews that 2 8oz. containers of mushrooms = 5 cups. Thank you for this great recipe!",
+            "datePublished": "2011-01-18T09:35:15.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maplebird"
+            },
+            "reviewBody": "Just made this recipe. Very good. Added a little garlic, used half beef stock/half chicken stock..be cause that's what I had on hand. Only pureed 1/2 of it, because we like it chunky. Came out delish! Thanks for a great recipe.",
+            "datePublished": "2011-01-31T12:06:55.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestPop6623"
+            },
+            "reviewBody": "I followed the Chef's recipe and the results were excellent. The only modification was adding a splash of stock because the soup was thick. That may have been the result of the way that I cooked the roux. Personally in my opinion, this recipe needs no modification.",
+            "datePublished": "2026-10-07T03:56:33.495Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lolajgh"
+            },
+            "reviewBody": "I used 2 cups of fresh mushrooms and 3 cups of dried mushrooms and used the water from the reconstituted mushrooms as part of the stock. Used 6 different kinds of mushrooms and it came out so well. My niece who is a professional cook loved it. It's a keeper!",
+            "datePublished": "2026-09-03T17:00:51.418Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Missy"
+            },
+            "reviewBody": "Absolutely delicious 😋 great flavor. So good. I will make again. I actually doubled the recipe. So glad I did.",
+            "datePublished": "2026-07-04T01:29:53.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pamela Gale-Riley"
+            },
+            "reviewBody": "This recipe always turns out great! I grow gourmet mushrooms, so this is a great way to use them. I also grow microgreens, so I put some on top when serving. So delicious!!",
+            "datePublished": "2026-06-18T21:10:04.606Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lawrence"
+            },
+            "reviewBody": "Probably one of the best mushroom soups I have ever had the pleasure of eating. My only change was to use chicken bone broth!",
+            "datePublished": "2026-06-05T01:37:59.611Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debra Black"
+            },
+            "reviewBody": "We thought this was very bland. Might have been better with beef stock. I followed the recipe as written. Would not make again.",
+            "datePublished": "2026-06-02T17:53:16.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue"
+            },
+            "reviewBody": "I dod not blend the mushroom mixture, and added more 1/2 &amp; 1/2 and milk. Was very good.",
+            "datePublished": "2026-05-30T16:28:28.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoofyGrape4070"
+            },
+            "reviewBody": "I was out of Sherry so used Marsala instead and still 10 out of 10!",
+            "datePublished": "2026-05-18T03:24:30.142Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bernadette Dizzine"
+            },
+            "reviewBody": "Mine was very thick I’ll have to adjust maybe less flour, also needs to blend a longer time, I used a food processor, next time I’ll try the blender",
+            "datePublished": "2026-04-25T17:05:18.628Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13096/cream-of-mushroom-soup-i/",
+          "name": "Cream of Mushroom Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/172/soups-stews-and-chili/soup/cream-soups/",
+                  "name": "Cream Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14778/soups-stews-and-chili/soup/cream-soups/cream-of-mushroom-soup/",
+                  "name": "Cream of Mushroom Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

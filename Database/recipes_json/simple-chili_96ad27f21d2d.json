@@ -1,0 +1,434 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12880/simple-chili/",
+  "extracted_at": "2026-10-18T01:51:05.489724+00:00",
+  "recipes": [
+    {
+      "name": "Simple Chili",
+      "ingredients_raw": [
+        "2 tablespoons vegetable oil",
+        "1 pound lean ground beef",
+        "1 cup chopped onion",
+        "2 cloves garlic, chopped",
+        "2 (15 ounce) cans kidney beans",
+        "1 (28 ounce) can crushed tomatoes",
+        "2 tablespoons chili powder",
+        "1 tablespoon distilled white vinegar",
+        "salt and ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a 2-quart saucepan over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 7 to 10 minutes. Add onion and garlic; cook until onion is translucent, about 5 minutes. Drain any excess fat."
+        },
+        {
+          "id": 2,
+          "text": "Stir in beans, crushed tomatoes, chili powder, vinegar, salt, and pepper; bring to a boil. Reduce the heat, cover, and simmer for 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Simple Chili",
+        "datePublished": "1999-01-03T16:37:03-05:00",
+        "dateModified": "2026-01-04T11:44:26-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Teresa Jeffries"
+          }
+        ],
+        "description": "This easy chili recipe is ready in under an hour and features a simple ingredient list of ground beef, kidney beans, crushed tomatoes, and chili powder.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/jwvlcJpI3Prchqa3k-LfrKl02K4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6650515_simple-chili_Paula_4x3-de0b6aec4a264051bcfed9b5c9d8dc73.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Simple Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "212"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "316 kcal",
+          "carbohydrateContent": "27 g",
+          "cholesterolContent": "43 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "18 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "416 mg",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons vegetable oil",
+          "1 pound lean ground beef",
+          "1 cup chopped onion",
+          "2 cloves garlic, chopped",
+          "2 (15 ounce) cans kidney beans",
+          "1 (28 ounce) can crushed tomatoes",
+          "2 tablespoons chili powder",
+          "1 tablespoon distilled white vinegar",
+          "salt and ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a 2-quart saucepan over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 7 to 10 minutes. Add onion and garlic; cook until onion is translucent, about 5 minutes. Drain any excess fat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in beans, crushed tomatoes, chili powder, vinegar, salt, and pepper; bring to a boil. Reduce the heat, cover, and simmer for 30 minutes."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allyson Hester"
+            },
+            "reviewBody": "Awesome! This is the ONLY chili recipe I use! I've found that dry onion soup works just as well as a real onion, only you don't have to chop it! Makes life a bit easier. \r\nI cook this in the crock pot on low for 8 hours. Delicious!! Ally"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Terry Carter"
+            },
+            "reviewBody": "This chili is the perfect go to if you crave something hot and filling on a cold day. I replaced the crushed tomatoes with 2-14 oz cans of diced tomatoes. Everything else stays the same. Poured everything in my slow cooker. Turned it on low for 4 hours. Made my apartment smell so good. Chili cheese dogs or chili cheese fries can be made using the rest of the chili",
+            "datePublished": "2023-10-09T23:01:56.788Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NEEDGREATRECIPES"
+            },
+            "reviewBody": "The perfect chili for MY taste buds. I used 1 tbsp of veg oil, 1 can of kidney beans and GROUND TURKEY instead of beef. The chili is not thick, which makes it perfect over a slice of cornbread or with corn chips or my fave NACHOS. I don't call this a thick and chunky chili but just a perfect chili for people like me. I don't like a lot of stuff in chili, ex: chili meat, grease, beer or chunky stuff. Since I used turkey, I made sure to add more spices to the chili, like seasoning salt, onion powder and cayenne pepper. My kids like it and my husband and I loved it. You can thicken this chili by using a mixture of (1 tsp) flour and a little bit of water to make a paste and then add it to the chili. If you just add flour without water, you will probably have \"flour balls\" or streaks of flour that will be hard to get rid of. Keep in mind if you add a flour and water mixture, make sure to add more spices. Also use as much flour and water paste as needed for your desired thickness. I think the chili recipe the way it is written is PERFECT!! Enjoy!!",
+            "datePublished": "2009-12-01T16:23:20.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly Fockler"
+            },
+            "reviewBody": "I had to change to a 5 quart pot because it was overflowing in the 2 quart saucepan recipe calls for. I followed the recipe to a T other than adding 1 tbsp of private selection memphis inspired bbq sauce and 1 tbsp of private selection kansas city inspired bbq sauce and 1/2 tsp of colgin hickory liquid smoke. In process of boiling then simmering hoping its as good as it smells",
+            "datePublished": "2020-09-09T02:47:12.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "t0305"
+            },
+            "reviewBody": "This turned out great! This will be my go-to for now on. It turned out savory and really thick, just like how I like it. I made a few adjustments to get this result: -Traded a can of kidney beans for pinto beans -Drained &amp; rinsed the beans (if you don't like thick chili, I wouldn't drain, but I love really thick chili) -Instead of salt &amp; pepper, I used a couple of my fav all-purpose seasonings and Harlem garlic pepper in both the beef and base -Used McCormick's mild chili seasoning instead of typical chili powder -Added a couple of tablespoons of Zydeco Chop Chop This was so good! The flavor reminds me a bit of Wendy's chili; I think it's the vinegar.",
+            "datePublished": "2022-12-18T00:41:53.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dianatull"
+            },
+            "reviewBody": "We make this every week for Saturday lunch. We call the dish “haystacks.” We make the chili, then assemble the haystack. Fritos, raw onions, Mexican cheese, chili, salsa or tomatoes, sour cream, quacamole. You can put it together in any order and any combination. My husband and I don’t make them the same. Add more or fewer ingredients. This is just a guideline. Yummy.",
+            "datePublished": "2024-01-01T17:50:53.422Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vinni"
+            },
+            "reviewBody": "Very Good!\nI added a pack of McCormick Chili mix, can of tomato paste,\n diced tomatoes with green chilies, a small can 16oz. of tomato sauce,teaspoon garlic,and a splash of V8 and worcestshire sauce. Also went off another suggestion on this site and substituted onion soup mix for onion. Then when serving I topped with French's French fried onions.\nVery Tasty!! Serves 4",
+            "datePublished": "2015-11-30T12:47:15.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "Chili I Haiku: \"Surprisingly good! Not mind-blowing, but still great. Warm and pleasing bowl.\" Sure, this recipe won't win any chili cook-off ribbons, but for what it is, it's a nice, basic, humble bowl of chili that one can tweak and customize to his or her heart's content. Due to what I had on hand, I had to sub in a can of black beans, and I also threw in a handful of chopped bell pepper and a teaspoon of cumin. I let mine chirp in the crockpot while I was at work, and returned home to a tasty bowl of chili that my pre-schooler inhaled, while I dressed mine up w/ grated cheese, fritos, and green onions. Nummy nummy good.",
+            "datePublished": "2011-10-03T13:12:49.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lankaro"
+            },
+            "reviewBody": "Thank you for a great recipe . As some others I modified a bit. I like to cook the onion first in evoo until tender, then add garlic and beef ( ground turkey works excellent as well). Then I add 1 can red beans, 1 can black beans , 1 can crushed tomatoes and 1 can whole peeled tomatoes that I cut ( it gives a great chunky texture). I also use Lawry's salt to flavor the beef as soon as I put it in a pot. And instead of vinegar I use juice of half of lemon. I tried Jalopeno peppers works great if you want extra heat. I serve with sour cream. Delicious! Thanks again",
+            "datePublished": "2009-12-27T15:39:21.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chellebelle"
+            },
+            "reviewBody": "This is my basic chili recipe though I have modified it with ideas found in other chili recipes. I add 1/4 teaspoon of allspice, a teaspoon of cumin and 1/2 ounce of unsweetened baking chocolate to the seasonings and I add a small can of tomato sauce along with the diced tomatoes. And I cook it all day in the crock pot. Very good and filling. You can also use browned, cubed pork or beef instead of the ground beef.",
+            "datePublished": "2005-07-02T16:20:54.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I omitted the oil and used diced tomatoes instead of crushed. I also added 1 tsp cumin and several shakes of cayenne. A good basic chili using pantry staples.",
+            "datePublished": "2025-01-05T00:26:25.062Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HOME BAKER"
+            },
+            "reviewBody": "Love this recipe. But I use lemon juice in place of vinegar and McCormick chili seasoning instead of chili powered. :)",
+            "datePublished": "2026-10-14T14:21:35.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Terwilliger"
+            },
+            "reviewBody": "I used 1 1/2 lb lean ground beef and only one can of beans. I used 2 tbs of red wine vinegar and added some red pepper flakes for a bit more heat. Really tasty.",
+            "datePublished": "2026-09-15T22:48:15.888Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jerome"
+            },
+            "reviewBody": "I did find it a bit dry , I also added 2 stocks of celery chopped and a green pepper chopped that added a nice little touch was very good I think next time I will use a red pepper and some beef broth for moisture as mentioned in th recipe",
+            "datePublished": "2026-02-16T19:18:57.776Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CheekyBao1654"
+            },
+            "reviewBody": "I pretty much followed the recipe. It’ll be interesting to make some variations of this great recipe.",
+            "datePublished": "2025-03-21T15:54:42.715Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmberSauce9489"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-25T23:43:06.679Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BriefSyrup6141"
+            },
+            "reviewBody": "So easy to prepare and how delicious it comes out!!!!!🫠😉🫶",
+            "datePublished": "2024-10-22T22:30:35.926Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Carlson"
+            },
+            "reviewBody": "I am not sure why this seems so bland to me. Maybe my chili pepper is expired or something. I added a bell pepper, but other wise followed the recipe exactly. Oh well. I'll try to jazz it up.",
+            "datePublished": "2024-09-08T22:14:27.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IndigoPeel2912"
+            },
+            "reviewBody": "Easy as pie and delicious! I used fire roasted tomatoes and modified the spices a tiny bit but everybody loved it!",
+            "datePublished": "2023-11-20T01:46:19.895Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "36AD2Nv8Ti"
+            },
+            "reviewBody": "Uber easy, super tasty... plenty for leftovers @the end with a quadruple batch of it all",
+            "datePublished": "2023-11-18T22:13:10.016Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12880/simple-chili/",
+          "name": "Simple Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

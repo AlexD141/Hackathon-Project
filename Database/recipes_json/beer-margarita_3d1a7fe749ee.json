@@ -1,0 +1,364 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20407/beer-margarita/",
+  "extracted_at": "2026-10-18T02:44:48.332175+00:00",
+  "recipes": [
+    {
+      "name": "Beer Margarita",
+      "ingredients_raw": [
+        "3 (12 fluid ounce) cans or bottles beer",
+        "8 fluid ounces vodka",
+        "1 (6 ounce) can frozen lemonade concentrate"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Pour beer, vodka, and lemonade concentrate into a pitcher; stir to combine. Serve in ice-filled glasses."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Beer Margarita",
+        "datePublished": "2000-06-21T17:42:02-04:00",
+        "dateModified": "2025-07-15T12:19:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Michael Porter"
+          }
+        ],
+        "description": "This beer margarita recipe combines lemonade, vodka, and beer, and sounds strangely dangerous, but tastes great. A salted margarita glass is optional.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/W46YKVAXTCaUPmq5NaSMe8KOrJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060808-ce243964f21747acaf5c547dd7ca9a6f.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Beer Margarita",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "21"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "3 (12 fluid ounce) cans or bottles beer",
+          "8 fluid ounces vodka",
+          "1 (6 ounce) can frozen lemonade concentrate"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Pour beer, vodka, and lemonade concentrate into a pitcher; stir to combine. Serve in ice-filled glasses."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "APLUSTILL"
+            },
+            "reviewBody": "It does sound a little odd, but it's terrific!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alicia Knight"
+            },
+            "reviewBody": "Well -- we meant to make this recipe -- but accidently dumped a can of frozen orange juice instead of the lemonade. We were committed because the beer was already in the pitcher, so we added the vodka and hoped for the best. How bad could it be? Not bad at all -- actually really good! A happy mistake. We will make the regular recipe with the lemonade next -- which we've made before with tequila instead of vodka. We also did a little drizzle of grenadine to see what happened - and it made it look even prettier -- just a bit sweeter, but I like it without the grenadine just as much. Fun recipe.",
+            "datePublished": "2014-08-02T18:35:14.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rosie G"
+            },
+            "reviewBody": "I love this drink! Everyone at my Superbowl party loved it :) I used 1 can of frozen minute maid lemonade, 3 bottles of miller lite and 6oz of vodka! Very refreshing drink! :)",
+            "datePublished": "2012-02-05T18:33:13.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SuzyQTexas"
+            },
+            "reviewBody": "Our neighborhood knows this drink as \"Hop, Skip and Go Naked!\" One night of these drinks at Bunco and the husbands all renamed our fizzy margaritas. They now insist we serve them at Bunco because we all come home really happy! I only use 6 oz. of vodka instead of 8. Pour over ice and serve with lime wedges. Super drink for summer, but be careful! They will sneak up on you!",
+            "datePublished": "2010-04-03T19:02:37.237Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "While I prefer the lime version of this recipe - this WAS very good. It is DANGEROUS so drink with caution - especially if it’s hot out! 😂 Thanks to this recipe, now know I have a solid back up if I don’t have frozen limeade concentrate in the freezer! Thanks Michael!",
+            "datePublished": "2025-05-25T17:32:15.472Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lmh1632"
+            },
+            "reviewBody": "yummy:) we use citrus flavored vodka and mikes hard lemonade instead of the vodka and beer for a change but we like it either way",
+            "datePublished": "2011-04-22T12:47:31.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julia Haase Wolfe"
+            },
+            "reviewBody": "I love these but change slightly. One can 12 oz frozen pink lemonade (pulp kind the best), fill that can with vodka, then add just two beers. Mix, then fill pitcer with ice and serve. Very good not as strong as with three beers as stated in original recipe.",
+            "datePublished": "2009-04-30T06:38:08.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fourpiesmama"
+            },
+            "reviewBody": "we know this as beer punch. We cut down the booze to 6 oz for a batch and it's also good with limade concentrate. After the 1st pitcher or two, we cut WAY back on the vodka, to avoid a too wild party, because these sneak up on you, BIG TIME!!! They are also good with rum or a light tequila. Make sure you have a designated driver!!!",
+            "datePublished": "2008-06-09T14:58:02.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lucy Rice"
+            },
+            "reviewBody": "Loved it. Very refreshing.",
+            "datePublished": "2014-07-12T17:20:55.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "djbatty"
+            },
+            "reviewBody": "I got this recipe from a friend at Boy Scouts - called it \"Summer Brew\" - I wasn't too sure about it, but thought I'd give it a try - everyone LOVED it! 1 batch was NOT enough!!!",
+            "datePublished": "2011-06-29T18:51:50.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather123"
+            },
+            "reviewBody": "We made these for our superbowl party and everyone loved them! Yum!",
+            "datePublished": "2011-02-13T18:23:45.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mo-jo Bobo"
+            },
+            "reviewBody": "Mixed reviews.",
+            "datePublished": "2010-05-13T01:15:31.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brklynn225"
+            },
+            "reviewBody": "Made this for 4th of july and it was AWESOME!! What an unexpected surprise!",
+            "datePublished": "2009-08-28T16:22:06.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "karen g"
+            },
+            "reviewBody": "This realy did sound strang but I made this last night and it was great, we also had chips and salsa to go along with them. We didn't have salt for the glass but it was still yummy! I will be making this for the 4th of July!",
+            "datePublished": "2008-07-02T09:50:08.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nancy"
+            },
+            "reviewBody": "WAS ON HERE LOOKING FOR NEW COCKTAILS TO MAKE AT THE RACES, SO WE DECIDED TO TRY THIS. AWESOME DRINK! WHO WOULD OF EVER THOUGHT BEER WOULD GO WITH VODKA AND LEMONADE. WE ALL LOVED IT. THANKS NANCY",
+            "datePublished": "2008-06-18T19:08:43.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "meggie448"
+            },
+            "reviewBody": "A rather unusual recipe. Not bad, not great. It didnt strike me as an awesome recipe...but its a matter of opinion I guess.",
+            "datePublished": "2007-09-26T15:29:02.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CATWALK16"
+            },
+            "reviewBody": "I've tried this before, tastes okay, but if you don't drink it all right away it turns a gawd awful colour of greenish brown...",
+            "datePublished": "2005-09-28T19:32:07.170Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20407/beer-margarita/",
+          "name": "Beer Margarita",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1743/drinks/cocktails/vodka-drinks/",
+                  "name": "Vodka Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

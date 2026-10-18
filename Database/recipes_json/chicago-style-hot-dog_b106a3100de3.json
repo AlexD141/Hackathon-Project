@@ -1,0 +1,480 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/134483/chicago-style-hot-dog/",
+  "extracted_at": "2026-10-18T01:53:52.297588+00:00",
+  "recipes": [
+    {
+      "name": "Chicago-Style Hot Dog",
+      "ingredients_raw": [
+        "1 all-beef hot dog",
+        "1 poppy seed hot dog roll",
+        "1 tablespoon yellow mustard",
+        "1 tablespoon sweet green pickle relish",
+        "1 tablespoon chopped onion",
+        "4 tomato wedges",
+        "1 dill pickle spear",
+        "2 sport peppers",
+        "1 dash celery salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a medium pot of water to a boil over high heat. Reduce heat to low, place hot dog in water, and cook until warmed through, about 5 minutes. Remove hot dog from water and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Place a steamer basket into the pot and steam poppy seed bun until warm, about 2 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Place hot dog in steamed bun. Pile on toppings in this order: mustard, relish, onion, tomato, pickle, peppers, and celery salt. The tomato wedges should be nestled between hot dog and the top of bun on one side. Place pickle between hot dog and the bottom of bun on the other side. Don’t even think about ketchup!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Chicago-Style Hot Dog",
+        "datePublished": "2015-07-21T02:00:14-04:00",
+        "dateModified": "2026-09-22T09:45:59-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "elsaw"
+          }
+        ],
+        "description": "All-beef hot dog on a poppy seed bun with mustard, relish, onion, tomato, pickle, sport peppers, and celery salt, made Chicago-style with no ketchup.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/III5nwFFJgJUUNocTUAUcxY5tnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-DDMFS-4x3-046e7cb4c2c34b1899211bc78fcc1e31.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/LQlt2xmw-K3AjnAEN.mp4",
+          "description": "This hot dog is a Windy City classic and a big favorite with sports fans! The frank must be all-beef; the bun must be poppy seed; and the ingredients must be piled onto the bun in the order specified. And whatever you do, don't spoil the splendor of this Chicago dog with ketchup!",
+          "duration": "PT43S",
+          "name": "Chicago-Style Hot Dog Recipe",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LQlt2xmw/poster.jpg?width=1280",
+          "uploadDate": "2023-01-13T15:37:41-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicago-Style Hot Dog",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "312"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "682 kcal",
+          "carbohydrateContent": "73 g",
+          "cholesterolContent": "56 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "25 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "1925 mg",
+          "sugarContent": "20 g",
+          "fatContent": "33 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch",
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 all-beef hot dog",
+          "1 poppy seed hot dog roll",
+          "1 tablespoon yellow mustard",
+          "1 tablespoon sweet green pickle relish",
+          "1 tablespoon chopped onion",
+          "4 tomato wedges",
+          "1 dill pickle spear",
+          "2 sport peppers",
+          "1 dash celery salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/rKebmeKs2uJgxGHuuxNHoAgCnak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-ddmfs-step1-339-c915f374649d4d868a19731ff570546a.jpg"
+              }
+            ],
+            "text": "Bring a medium pot of water to a boil over high heat. Reduce heat to low, place hot dog in water, and cook until warmed through, about 5 minutes. Remove hot dog from water and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/WGgHH0OhhmDPJ3fqJjYTPx7vJHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-ddmfs-step2-341-9306894f113e499390435d35f8402535.jpg"
+              }
+            ],
+            "text": "Place a steamer basket into the pot and steam poppy seed bun until warm, about 2 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/III5nwFFJgJUUNocTUAUcxY5tnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-DDMFS-4x3-046e7cb4c2c34b1899211bc78fcc1e31.jpg"
+              }
+            ],
+            "text": "Place hot dog in steamed bun. Pile on toppings in this order: mustard, relish, onion, tomato, pickle, peppers, and celery salt. The tomato wedges should be nestled between hot dog and the top of bun on one side. Place pickle between hot dog and the bottom of bun on the other side. Don’t even think about ketchup!"
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GINGERLY88"
+            },
+            "reviewBody": "I live in Chicago &amp; eat Chicago dogs all the time. Don't worry about not finding the sport peppers if you are in a different area, I think most people pick them off anyways cause they are spicy.\nAlso, most hot dog stands here use Vienna hot dogs that should be in stores. They have a nice skin with a snap. They make for the best hot dogs."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin Sanders"
+            },
+            "reviewBody": "Chicago hot dogs (or as traditionalists like myself prefer to call them \"red hots\") are the bomb! I'm Chicago born, raised &amp; still here. So I'll tell you this \"recipe\" (not really a recipe but assembly instructions) is not bad coming from someone obviously not a native Chicagoan. This recipe leaves out a few tidbits of knowledge about the art of Chicago red Hots which I'll now try to share with you. 1. Yes it must be an all beef dog, but it must be of high quality (no Oscar Meyer or Bar S etc) with a good seasoning blend built into it. Typically here in Chicago Vienna Beef brand is the default. But they're not the only suitable brand. Usinger's, Hebrew National, Nathan's and others are decent enough. However, if you really want an authentic taste, get these brands'natural casing variety if you can find them. The casing holds their juicy flavor in the dog until you bite into it for that luscious satisfying \"snap\". Oh so worth the added cost. 2. Absolutely DO NOT boil your dogs unless you want to cook the flavor out of them. Hot dogs come fully cooked in the package. So to heat them bring a pot of water to a boil, turn off the heat and drop in the dogs and let them bathe in the hot water for 5 to 7 minutes and they're done. You can also steam them or grill them but sure to score them if char grilling. 3. Cut the number of tomato wedges down to 2 thin wedges and also slice the typical pickle spear in half length wise. The idea here is to limit the quantity of any particular condiment so that the flavors blend together and compliment each other and not dominate the others or overpower the dog's flavor. 4. If at all possible, use white onion that's been freshly chopped for the best taste. 5. Pickled Sport Peppers are not very common outside Chicago, but raw are grown across the American South and you can pickle them yourself. If you must substitute with another type, try pickled Serrano peppers that you can slice length wise. I hope the readers find this review helpful. Enjoy",
+            "datePublished": "2023-05-25T15:29:49.255Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "qomike"
+            },
+            "reviewBody": "I live in a Chicago suburb and get these fairly often. This is a great set of toppings (also works on a bologna sandwich). Messy to eat, but tastes great! I did modify this recipe slightly - sliced the pickle spear (used a Famous Dave's spicy spear) in half down the long axis to make it thinner, placed hot dog (Vienna beef, pressed in an electric grill after I boiled it in water / cheap beer) in the poppy-seed bun, 2 sport peppers, then pickle spear over the sport peppers, roma tomato (three thin wedges) on the other side, increased the amount of diced onion and relish (used Vienna hotdog relish) as most places around here really pile that on, squirted generously with mustard, then shook on the celery salt.",
+            "datePublished": "2022-06-20T23:58:26.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dawn Flower"
+            },
+            "reviewBody": "We used low carb Mission brand wraps instead of hot dog buns to make a yummy treat, that was relatively low cal, and low carb. It did not seem like diet food. We also grilled the hot dogs instead of boiling.",
+            "datePublished": "2016-07-14T02:09:01.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IndigoGlass7675"
+            },
+            "reviewBody": "I could not find poppy seed buns near me, so I substituded brat buns. The hot dogs were bun length and fit perfectly. I steamed the buns in a damp paper towel via the microwave instead of the directions provided. The recipe was spot on though and they were delicious.",
+            "datePublished": "2023-07-23T19:32:10.695Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baker Beverly"
+            },
+            "reviewBody": "My hubby and I now own a Chicago themed restaurant in Omaha - Papa Chris' Chicago Originals - and we know how to make a dog! He's a 26 year native of the city. You really need a Vienna Beef frank to make it taste authentic but in a pinch use the highest quality National brand you can find at the supermarket. I recommend using Roma tomatoes -less juice - and slicing your tomato into at least 8 wedges for easier eating. This is a big bite kind of food. Also, mince your onions, nicer to eat than big chunks. If you don't own a steamer basket, you can nuke your bun in a plastic bag for 15-20 seconds and it will be soft and steamy. Sport peppers are NOT pepperoncini as someone reviewed but if you can't find the real thing, any small pickled pepper will do. If your new to Chicago dogs, this is the best way you will ever eat a hot dog! Remember, ketchup is only for fries, NOT Chicago dogs! Happy eating!",
+            "datePublished": "2011-03-30T14:50:18.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TommyTomatos"
+            },
+            "reviewBody": "The \"real deal\" Chicago dog uses a Vienna Beef frank, STEAMED not boiled, a steamed poppy seed bun, neon green relish, and whole sport peppers. I gave four stars because of the advice to boil the franks. The Vienna Beef franks have a natural casing that has just the right amount of \"snap\" to it when you bite in! The buns need to be steamed so that they are just almost mushy and soft. Plenty of mustard on TOP of the frank, not on the bun, a spear of pickle, and plenty of onions and relish make this dog incredible. Finally, slices of tomatoes are a requirement. Don't mess around with perfection - the good people of Chicago figured out the perfect dog!",
+            "datePublished": "2012-07-14T18:24:45.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mewzishun"
+            },
+            "reviewBody": "I made the Chicago dogs tonight. I followed the recipe except I grilled the hotdogs and toasted the buns. I used Hebrew Nationals too. These came out better than expected. So good. Can’t wait to make them again. Best hot dogs I’ve ever had!",
+            "datePublished": "2021-12-18T05:35:53.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JessicaLeigh"
+            },
+            "reviewBody": "These are amazing! I used Nathan's hot dogs, which were perfect for these! Also, depending on the area you live in, poppy seed buns can be hard to find. I made my own: I just brushed some melted butter on plain hot dog buns, sprinkled poppy seeds on them, and toasted them in the oven for about 5 minutes. They turned out perfect! I also used mild sliced pepperoncinis, and they were wonderful on it. These dogs are the best when every ingredient is there, so don't be afraid to try it!",
+            "datePublished": "2011-04-01T06:53:08.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Suzie"
+            },
+            "reviewBody": "I have been raised in Chicago and on Chicago Dogs. But one thing that kicks it up another level is to either use a toaster oven to roast them, or your air fryer. Also Vienna makes the blue relish and is in most grocery stores. The relish makes a difference. Enjoy, and please HOLD THE KETCHUP LOL",
+            "datePublished": "2023-08-16T16:50:29.056Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BrightHen9605"
+            },
+            "reviewBody": "Here in Iowa, I do make trips back to Chicago to lay in a supply of Vienna Red Hots, and Vienna Sport Peppers and Relish. On my last trip I could not find any Rosens poppy seeded buns. Sad. Those buns are very difficult to locate. Pepperidge Farms top sliced buns are the best for us. On North Milwaukee Ave, of course is Super Dawg (close to the old homestead) - many years ago there was Tasty Pup nearby - they added thinly sliced cucumbers as well - I do that occasionally. And some folks prefer celery seed over celery salt. Once fully loaded, I put them back into the steamer for a minute. On my last trip I visited Gene and Judes too - near my old HS in River Grove. And Bob-O's on Irving Park near Cumberland is good too. Ive attached a photo of a Gene and Judes dog...yes, fries are piled on top",
+            "datePublished": "2023-07-04T12:59:00.984Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nan"
+            },
+            "reviewBody": "I only lived in Chicago for two years but I love a Chicago Dog! Can't always find the sport peppers but I like a little heat so I use roasted jalapeno. This recipe is authentic!",
+            "datePublished": "2026-08-17T20:09:36.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Оксана"
+            },
+            "reviewBody": "Very tasty!",
+            "datePublished": "2026-02-27T15:55:11.756Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bruce"
+            },
+            "reviewBody": "I lived in the city of Chicago for 7 years, worked in the Loop, and went to school in Evanston. I frequented many hot dog joints and was always open to trying new ones, especially holes in the wall. One thing missing from this recipe is a quintessential Chicago condiment that will give your hot dogs a more authentic, with it, local neighborhood vibe is Chicago style giardiniera. You can often buy it it gourmet food shops or online, but some Chicago hot dog places make their own and recipes can vary. It usually comes in mild or hot versions. Chicago-style is different than Italian-style, as it is a savory, oil-based, finely-chopped \"pickled\" vegetable and olive relish. Just writing about it makes my mouth water. There are some good recipes for it online and it can even be made overnight. Little, local neighborhood pizza/sandwich places also sell sides of it, to go with your meal. One important additional note: Ketchup on Chicago hot dogs is taboo - I've heard people ask, and employees refuse to do it! The reason, not as well known, is that in the big factory days before food safety laws (and before environmental laws, labor laws, and tenant protection laws) \"meat\" that workers could buy was frequently not even close to fresh and usually adulterated with other things, including rat meat! A common practice to make it more palatable was to smother it in ketchup - hence the stigma attached to the use of ketchup.",
+            "datePublished": "2025-12-13T14:54:32.892Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NobleMiso4993"
+            },
+            "reviewBody": "My favorite dog",
+            "datePublished": "2025-10-26T20:34:16.072Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "youvegotnail719"
+            },
+            "reviewBody": "Great but Skip the poppy seed buns if anyone you're feeding wears dentures!!! Big ouch...",
+            "datePublished": "2025-07-03T04:02:13.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David J"
+            },
+            "reviewBody": "I pass on the poppy seed buns. Believe it or not, it creates a failed UA test if your subject to take those. Brown mustard or Dejon always and a sliced jalapeño seeded.",
+            "datePublished": "2025-06-24T17:06:27.579Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tim T Janson"
+            },
+            "reviewBody": "If there is one thing I can do without it is the poppyseed bun. I don't care for poppyseeds on anything. Just don't like the texture. I use a more robust sausage bun than a hot dog bun as normal hot dogs get too mushy from the pickes, peppers, and tomatoes in my opinion.",
+            "datePublished": "2025-06-11T17:58:49.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkyWater1590"
+            },
+            "reviewBody": "I added ketchup not a big fan of hot dogs. About the only way I eat them is in bread and cut them lengthways and put mustard and cheese in it then heat them up",
+            "datePublished": "2025-03-07T22:01:38.968Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Azure"
+            },
+            "reviewBody": "Looks like an invitation to indigestion but it's awesome. Good luck finding poppy seed buns outside of Chicago. Maybe baste plain bun with egg white, top with poppy seeds, bake a few minutes to set the egg. Cowboy it up with sliced jalapenos.",
+            "datePublished": "2024-11-02T06:06:24.750Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/134483/chicago-style-hot-dog/",
+          "name": "Chicago-Style Hot Dog",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                  "name": "Sandwich Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13376/main-dish/sandwiches/hot-dogs-and-corn-dogs/",
+                  "name": "Hot Dogs and Corn Dogs Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

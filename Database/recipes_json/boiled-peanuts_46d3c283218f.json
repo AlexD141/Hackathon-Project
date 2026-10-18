@@ -1,0 +1,433 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17551/boiled-peanuts/",
+  "extracted_at": "2026-10-18T02:26:47.099817+00:00",
+  "recipes": [
+    {
+      "name": "Boiled Peanuts",
+      "ingredients_raw": [
+        "5 pounds raw peanuts, in shells",
+        "1 cup salt, or to taste",
+        "water to cover"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Wash peanuts and place them in a pot. Add salt, then water to cover. Bring water to a boil."
+        },
+        {
+          "id": 2,
+          "text": "Let peanuts boil in water for at least 3 hours."
+        },
+        {
+          "id": 3,
+          "text": "After three hours, take out a peanut and try it – if it’s not soft enough, keep boiling until the desired softness is reached."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Boiled Peanuts",
+        "datePublished": "2000-04-11T15:18:58-04:00",
+        "dateModified": "2026-08-03T16:01:53-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Thelma"
+          }
+        ],
+        "description": "Boiled peanuts, cooked in salt water until soft and juicy, are a Southern staple and make a tasty, savory snack that will be an instant favorite.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/kj_k3opY3gNDM8Fej_iun8KaWkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17551-boiled-peanuts-VAT-Beauty-4x3-4fd4568fa95b4829aff82ef580657666.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/r83PPovv-K3AjnAEN.mp4",
+          "description": "In this video, Nicole shows you how to make boiled peanuts over the stove! This recipe only requires raw peanuts, salt, and boiling water. After washing the peanuts, add them to the pot with the salt and water. Boil them for three hours until they’ve softened. Turn the heat off, cover the pot with a lid, and let them soak for a couple of hours at least. They’re rich, soft, and only get better with time!",
+          "duration": "PT3M11S",
+          "name": "How to Make Boiled Peanuts",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/r83PPovv/poster.jpg?width=1280",
+          "uploadDate": "2023-06-16T16:14:27-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Boiled Peanuts",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "96"
+        },
+        "cookTime": "PT180M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "322 kcal",
+          "carbohydrateContent": "9 g",
+          "fiberContent": "5 g",
+          "proteinContent": "15 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "2345 mg",
+          "sugarContent": "2 g",
+          "fatContent": "28 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "Southern"
+        ],
+        "recipeIngredient": [
+          "5 pounds raw peanuts, in shells",
+          "1 cup salt, or to taste",
+          "water to cover"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Wash peanuts and place them in a pot. Add salt, then water to cover. Bring water to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Let peanuts boil in water for at least 3 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/kj_k3opY3gNDM8Fej_iun8KaWkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17551-boiled-peanuts-VAT-Beauty-4x3-4fd4568fa95b4829aff82ef580657666.jpg"
+              }
+            ],
+            "text": "After three hours, take out a peanut and try it – if it’s not soft enough, keep boiling until the desired softness is reached."
+          }
+        ],
+        "recipeYield": [
+          "40",
+          "5 pounds"
+        ],
+        "totalTime": "PT185M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel"
+            },
+            "reviewBody": "I like mine salty: the trick (to get the right flavor), is to boil them to the right consistancy, usually about 2 hours. Then, if you want them saltier, DO NOT add more salt and boil some more. Rather, let them sit in their brine as it cools. Every 20 minutes or so, taste one. When they are salty enough for you, drain them. (This means you don't have to taste hot peanuts, and they don't get too soggy. It also gets them saltier quicker.)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "add 5 tablespoons of cayenne,5 whole cloves of garlic and 6 whole dried red chiles ,then you have a real boiled peanut recipe",
+            "datePublished": "2005-08-21T10:16:18.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shollia"
+            },
+            "reviewBody": "I like my boiled peanuts soft and these took forever to finish. Only had 2.5lbs of peanuts, so used a half cup of salt. Honestly, I think that was too much. I wasn't expecting it to be salty at all. Not with only half a cup, but it was. It probably helped that I cooked them for so long and then let them sit in the brine to cool though. I brought it to a boil, and turned it down to a simmer. I had to refill the pot about 6 times in the 7 hours it took for the peanuts to get to the texture that I desired. Next time, I'll reduce the salt just a bit more, and will probably add in other spices.",
+            "datePublished": "2010-08-25T21:51:22.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brian Kim"
+            },
+            "reviewBody": "3 hours is probably too long, and 1 cup of salt might be too much, depending on the amount of peanuts and water being used. For 5 lbs, I honestly would recommend HALF a cup of salt, honestly, depending on the amount of water you're using. More water needs more salt, and less water needs less salt. I've experimented with boiling raw peanuts with various amounts of salt, water, and time, and find that it's better to start with less time and add more later rather than to overdo it and end up with overly soft, mushy peanuts that are also too salty. You can always boil longer if the peanuts are too hard, but you can't unboil too soft peanuts. Same with overly salty peanuts, you can't unsalt them. Also, it's best not to boil them on too high a heat either, as that may lead to them cooking too quickly and not getting salty enough. Personally, I like making boiled peanuts in small batches, and generally make 1 pound at a time with anywhere from 2 tablespoons to a 1/4 cup of salt per 1 lb of peanuts. This is with just enough water to cover the peanuts, with a little bit extra just to be safe. If you want crunchier / less salty peanuts, it's best to boil for 1.5 to 2 hours, and then taste test a peanut or two, then see if you need to go longer or add more salt. If adding salt, it's better to add less than more, as longer boiling even with the same amount of salt gives the peanuts more time to absorb more salt and get saltier. If you want to keep boiling, it's good to check every 15-20 minutes or so to see if the peanuts are soft / salty enough. Once you see where the peanuts are at, then you can adjust whatever you need according to your own personal preference. Note that the #1 voted comment is usually correct. Turning the heat off at 2 hours, not adding salt, and then checking every 20 minutes or so to see if the peanuts are the right mix of firm/soft (depending on your personal tastes) is generally the best way to do things. Residual heat is usually enough to keep the peanuts cooking, and leaving them in longer will make them saltier.",
+            "datePublished": "2023-01-30T16:52:52.005Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Troy Jordan"
+            },
+            "reviewBody": "Made a few changes. 2lbs of peanuts presoaked for 30 minutes in water. Tossed out soak water. utilizing 2 1/2 cups kosher salt and 2 tbsp Old Bay seasoning. Using an instant pot cooked for 1 hour 20 minutes with natural release. Incredibly tasty! Used your recipe as a starting base.",
+            "datePublished": "2026-06-28T20:09:25.151Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sanacore"
+            },
+            "reviewBody": "3 lb green peanuts. 1/2 cup salt. 1/4 cup cajun seasoning. 1 heaping tablespoon of cayenne. water. 8 quart pot. Rinse green peanuts in water several times. Cover green peanuts with water in the pot and turn up heat to high. Add salt, cajun seasoning, cayenne. Boil for three hours, check on them frequently, and stir. Add boiling water as needed. Allow to cool off in brine before draining. Don't drain them right away because they could dry out if you drain them when they're still piping. Let sit in pot until cool before you drain them..the longer they sit in the brine, the saltier/spicier they get. Can freeze uncooked green peanuts for up to three months before use. Thaw before boiling! Can freeze cooked boiled peanuts and throw them in a pot of boiling water when ready to eat!",
+            "datePublished": "2010-06-23T19:44:11.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZanyBowl4661"
+            },
+            "reviewBody": "Will make this again. A great starter recipe. I did it two ways, one as the recipe called for and one in a crockpot. I just had to tweak the crockpot from salt to coarse kosher sea salt and added some water towards the last hour. The crockpot was done low and slow for about 6.5 hours. (after they started to boil some)",
+            "datePublished": "2024-01-13T20:31:16.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shenadoah"
+            },
+            "reviewBody": "We loved this! Added some liquid crab boil for a kick and only cooked 2 lbs of the peanuts. Once they came to a good boil, I then transferred them to the crockpot and cooked on low overnight and all next day. They were perfect! Made hubby quite happy :)",
+            "datePublished": "2005-12-08T09:03:38.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anne Kline"
+            },
+            "reviewBody": "I have never made boiled peanuts before and had only tried them once-hated them. My husband spent summers in SC as a kid and loved them. When I saw raw peanuts on sale figured I would give them a try. I put them in a crock pot on low and cooked overnight-thanks for that tip! My husband loves them and I don't mind them either because they are not all mushy like the ones I tried before. Will definitely make again!",
+            "datePublished": "2011-08-14T06:38:27.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "miked3660"
+            },
+            "reviewBody": "Been eating em since I was a kid, most everyone loves em in Hawaii, although lots of different preferences.Some salty/or not,soft/firm,juicy/dry, hot/cold, or with differents spices.I like mine salty,firm,juicy,cold with no additional spices.I typically use 2# raw peanuts, wash in cold H2O then fill to cover peanuts and bring to boil on high, when boiling reduce to med/high for 1 more hour(make sure there is always enough H2O to cover nuts and stir occasionally to even out cooking). At 1 hour add 6 oz. sea/rock salt and boil for another 30 min. After 30 min. turn off heat and let sit for 4-5 hours or until cool(this makes em more juicy, you can even put a plate over them to weigh them down, just make sure there is enough H2O to cover them). If you drain nuts while they are hot the steam evaporating will make them drier.",
+            "datePublished": "2007-11-16T12:51:29.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "karlaschaerer"
+            },
+            "reviewBody": "I don't add so much salt. I use non-MSG chicken boullion, hamburger dill chips (20 ounces), a large white onion sliced thin and several crushed cloves of garlic and about a 6 ounce jar of Jalapeno ! Zippy!!!",
+            "datePublished": "2022-12-19T04:15:29.408Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Murray"
+            },
+            "reviewBody": "Thank you for the recipe it's easy to follow.",
+            "datePublished": "2025-07-19T11:30:55.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbi Cobern"
+            },
+            "reviewBody": "I love boiled peanuts and now I'm making my own! I'm in Alabama, peanut country, and just made about ten pounds...all it takes is water, salt and time!",
+            "datePublished": "2024-11-29T00:19:38.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyBoba1352"
+            },
+            "reviewBody": "I am originally from Southern GA, but live I. Va. I seldom find them at the farmers market, but I did today. I've eaten boiled peanuts all my life but never cooked them myself. So thank you for the easy instructions. Enjoy!",
+            "datePublished": "2024-04-19T22:00:32.174Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tay"
+            },
+            "reviewBody": "Easy to make and simply southern. I used Ole Bay for the seasoning and added some salt and then some minced garlic for an extra taste. But overall easy to make.",
+            "datePublished": "2022-12-05T17:20:08.191Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WorthyRind7466"
+            },
+            "reviewBody": "Best one yet, after looking for the right one I should have come here first. Easy simple and informative!",
+            "datePublished": "2022-11-04T14:21:57.235Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyKelp8848"
+            },
+            "reviewBody": "Yummy",
+            "datePublished": "2022-07-29T14:22:59.254Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AcePulp9230"
+            },
+            "reviewBody": "Big difference between raw peanuts and green peanuts. Be sure to use green peanuts for the most juicy and tender peanuts. When I have to use raw ones, I let them soak in the saltwater for a few to several hours.",
+            "datePublished": "2022-07-23T18:56:49.106Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuirkyFish3548"
+            },
+            "reviewBody": "Add some cajun or creole seasoning and some Old Bay",
+            "datePublished": "2022-07-11T15:43:35.845Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tm6889"
+            },
+            "reviewBody": "Love boiled peanuts. Me and my dad can eat these for hours.",
+            "datePublished": "2021-11-17T17:35:23.730Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17551/boiled-peanuts/",
+          "name": "Boiled Peanuts",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

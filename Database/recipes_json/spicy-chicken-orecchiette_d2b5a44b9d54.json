@@ -1,0 +1,218 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221099/spicy-chicken-orecchiette/",
+  "extracted_at": "2026-10-18T03:12:29.147279+00:00",
+  "recipes": [
+    {
+      "name": "Spicy Chicken Orecchiette",
+      "ingredients_raw": [
+        "2 skinless, boneless chicken breast halves",
+        "1 cup uncooked orecchiette pasta",
+        "1 cup tomato pasta sauce",
+        "0.5 cup broccolini, cut into 1 inch pieces",
+        "0.5 (14.5 ounce) can stewed tomatoes, drained",
+        "0.33333334326744 cup sliced portobello mushrooms",
+        "2 tablespoons minced garlic",
+        "2 teaspoons crushed red pepper flakes"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat grill for medium heat and lightly oil the grate."
+        },
+        {
+          "id": 2,
+          "text": "Grill chicken breast halves until they show dark grill marks and are no longer pink inside, about 5 minutes per side. Let the chicken breasts cool, then place into a bowl and coarsely shred with 2 forks."
+        },
+        {
+          "id": 3,
+          "text": "Bring a large pot of lightly salted water to a boil. Cook orecchiette pasta in the boiling water, stirring occasionally until cooked through but firm to the bite, 5 to 8 minutes. Drain and return pasta to pot."
+        },
+        {
+          "id": 4,
+          "text": "Stir chicken breast meat, pasta sauce, broccolini, stewed tomatoes, portobello mushrooms, garlic, and red pepper flakes into the cooked pasta. Place over medium heat and cook, stirring frequently, until the mushrooms and broccolini are cooked through and tender, 5 to 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spicy Chicken Orecchiette",
+        "datePublished": "2019-04-02T02:56:57-04:00",
+        "dateModified": "2019-04-02T02:56:57-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Raelee's recipes"
+          }
+        ],
+        "description": "Little cupped pasta shapes (orecchiette is Italian for &#39;little ears&#39;) combine with grilled chicken breast meat, portobello mushrooms, broccolini, and a simple red pasta sauce for a flavorful Italian-inspired dinner.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/EV4GJkSWdV0TV4_mVWEAGZP0Mk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/886143-abcfc056835e46bab58f1d87606779e8.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spicy Chicken Orecchiette",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3",
+          "ratingCount": "2"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "223 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "35 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "17 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "402 mg",
+          "sugarContent": "8 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired"
+        ],
+        "recipeIngredient": [
+          "2 skinless, boneless chicken breast halves",
+          "1 cup uncooked orecchiette pasta",
+          "1 cup tomato pasta sauce",
+          "0.5 cup broccolini, cut into 1 inch pieces",
+          "0.5 (14.5 ounce) can stewed tomatoes, drained",
+          "0.33333334326744 cup sliced portobello mushrooms",
+          "2 tablespoons minced garlic",
+          "2 teaspoons crushed red pepper flakes"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat grill for medium heat and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grill chicken breast halves until they show dark grill marks and are no longer pink inside, about 5 minutes per side. Let the chicken breasts cool, then place into a bowl and coarsely shred with 2 forks."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook orecchiette pasta in the boiling water, stirring occasionally until cooked through but firm to the bite, 5 to 8 minutes. Drain and return pasta to pot."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir chicken breast meat, pasta sauce, broccolini, stewed tomatoes, portobello mushrooms, garlic, and red pepper flakes into the cooked pasta. Place over medium heat and cook, stirring frequently, until the mushrooms and broccolini are cooked through and tender, 5 to 10 minutes."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "crystaldurairaj"
+            },
+            "reviewBody": "If you want to get a nice well-rounded meal in a little over an hour, then this recipe is great! My family and I loved it. I added salt, black pepper, and Cajun seasoning to the chicken before cooking it, and added some cayenne to my pasta sauce for an extra kick. Otherwise, I liked that minimal spices let the flavor of the chicken and vegetables really stand out. I'll make it again, for sure. Thanks for a great recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SunnyDaysNora"
+            },
+            "reviewBody": "As written, I did not care for this recipe. I went back and doctored it the next day. Keep in mind that most of the flavor in this dish comes from the pasta sauce as the only seasonings added are garlic and red pepper flakes, so definitely use a quality, flavorful sauce. Also, the time listed in the recipe to cook the veggies is really not enough to combine flavors and cook down the veggies enough to work with the pasta. Reheating the leftovers and adding salt, pepper, oregano, rosemary, basil, and fresh parsley and cooking it down a little really helped.",
+            "datePublished": "2012-09-09T16:48:23.350Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221099/spicy-chicken-orecchiette/",
+          "name": "Spicy Chicken Orecchiette",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1796/world-cuisine/european/italian/main-dishes/chicken/",
+                  "name": "Chicken"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

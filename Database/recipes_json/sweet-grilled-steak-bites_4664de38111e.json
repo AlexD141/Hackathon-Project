@@ -1,0 +1,333 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/109875/sweet-grilled-steak-bites/",
+  "extracted_at": "2026-10-18T01:44:52.658413+00:00",
+  "recipes": [
+    {
+      "name": "Sweet Grilled Steak Bites",
+      "ingredients_raw": [
+        "2 pounds cubed beef stew meat",
+        "0.5 teaspoon Greek seasoning, or to taste",
+        "0.33333334326744 cup dark corn syrup",
+        "0.25 cup soy sauce",
+        "1 teaspoon minced garlic",
+        "0.5 teaspoon seasoned salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Season meat with Greek seasoning. Combine corn syrup, soy sauce, garlic, and seasoned salt in a large resealable bag or nonreactive bowl. Massage the bag to blend, then add beef. Press out most of the air and seal. Marinate for up to 24 hours, flipping over occasionally to evenly marinate."
+        },
+        {
+          "id": 2,
+          "text": "Preheat a grill for medium heat. When hot, lightly oil the grate. Thread the beef cubes onto skewers."
+        },
+        {
+          "id": 3,
+          "text": "Grill meat on the preheated grill, turning occasionally, until they have reached your desired degree of doneness."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sweet Grilled Steak Bites",
+        "datePublished": "2020-07-01T22:01:11-04:00",
+        "dateModified": "2024-07-14T19:55:37-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Michelle Bomgaars"
+          }
+        ],
+        "description": "This recipe for grilled steak bites has a sweet flavor that is not overpowering. It&#39;s just enough for people to know it&#39;s not an ordinary steak!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/F8n0dig_8Q1gDC1CKi7IwDxx5bk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8272727-791132bb91f844a3b5d6c4e741d12cef.jpg",
+          "height": 1920,
+          "width": 1280
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sweet Grilled Steak Bites",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "16"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "349 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "84 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "25 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "804 mg",
+          "sugarContent": "5 g",
+          "fatContent": "21 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds cubed beef stew meat",
+          "0.5 teaspoon Greek seasoning, or to taste",
+          "0.33333334326744 cup dark corn syrup",
+          "0.25 cup soy sauce",
+          "1 teaspoon minced garlic",
+          "0.5 teaspoon seasoned salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Season meat with Greek seasoning. Combine corn syrup, soy sauce, garlic, and seasoned salt in a large resealable bag or nonreactive bowl. Massage the bag to blend, then add beef. Press out most of the air and seal. Marinate for up to 24 hours, flipping over occasionally to evenly marinate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat a grill for medium heat. When hot, lightly oil the grate. Thread the beef cubes onto skewers."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grill meat on the preheated grill, turning occasionally, until they have reached your desired degree of doneness."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "2 pounds"
+        ],
+        "totalTime": "PT1470M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DrGaellon"
+            },
+            "reviewBody": "The marinade is delicious, but stew beef needs long slow cooking to make it tender. I used a thick ribeye steak, which I cut into 1 1/2\" cubes at home before marinating."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patricia Barber"
+            },
+            "reviewBody": "We loved this recipe. I used cube steak and it worked great. I made my own Greek Seasoning since that wasn’t easy to find in the store but I had all the ingredients in my spice cabinet.",
+            "datePublished": "2020-04-09T17:56:07.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "snowday"
+            },
+            "reviewBody": "This was a good recipe as is. I felt it was better with a couple of changes. 1) It is tough, and either needs a more tender cut of meat, or a few hours in the slow cooker. 2) I wanted to accentuate the sweetness a little, so instead of dark corn syrup I used half light corn syrup and half molasses. It was just right for my family.",
+            "datePublished": "2012-07-02T17:38:08.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Inwards"
+            },
+            "reviewBody": "I made this with cubed venison and did it kabob style with peppers, cherry tomatoes, potatoes, and onions!",
+            "datePublished": "2010-09-11T10:43:20.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MMMICHELLE"
+            },
+            "reviewBody": "Very lovely. Easy and delicious! We cooked on the grill with indirect heat with great results. A winner!",
+            "datePublished": "2011-04-14T12:54:59.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maryse Ownie-Crilly Kloss"
+            },
+            "reviewBody": "Everyone loved this recipe (4 year old too). Sweet, tangy and smoky. I only marinated it for 3 hours and everyone raved. So you don't even need to marinate over night. Easy to make. I used Chuck Shoulder which is not the best cut of meat and it was gobbled.",
+            "datePublished": "2010-11-18T16:39:54.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Bomgaars"
+            },
+            "reviewBody": "I use a product that I get in a local grocery store called \"Cavender's Greek Seasoning.\" Reading the label, it contains salt, pepper, corn starch, garlic, oregano, onion, parsley, and \"other spices\". It kind of tastes like Mrs Dash, but with a little more pepper. You could probably use that if you want.",
+            "datePublished": "2009-09-17T12:54:30.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aBROCKalypse"
+            },
+            "reviewBody": "Loved the marinade, but stew meat wasn’t a great cut (though it was easy). I’d try the marinade with boneless beef ribs next time.",
+            "datePublished": "2021-05-06T02:47:34.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fabeveryday"
+            },
+            "reviewBody": "The marinade on this is delicious!",
+            "datePublished": "2020-06-25T23:29:35.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Peters"
+            },
+            "reviewBody": "This recipe is so freaking awesome! Simple and great tasting. I might even try this with chicken sometime.",
+            "datePublished": "2015-07-18T15:17:34.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HuskerGirl"
+            },
+            "reviewBody": "We were a bit disappointed with this. It was fine, but it didn't have much flavor and we didn't think the sweetness came through. Used petite tender chuck steaks instead of stew meat. It was fun to give it a try. Thanks for sharing!",
+            "datePublished": "2011-08-21T07:17:13.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky B"
+            },
+            "reviewBody": "this recipe was really salty to me.. I didn't like it.",
+            "datePublished": "2010-11-26T16:54:23.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LyKi"
+            },
+            "reviewBody": "This looks yummy and we definitely want to try it out. Wondering though, what comprises \"Greek Spice\" ... We're going for a 4-star rating just on spec.",
+            "datePublished": "2008-06-02T15:33:32.003Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/109875/sweet-grilled-steak-bites/",
+          "name": "Sweet Grilled Steak Bites",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

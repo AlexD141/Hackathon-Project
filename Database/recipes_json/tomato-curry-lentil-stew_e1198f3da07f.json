@@ -1,0 +1,444 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12991/tomato-curry-lentil-stew/",
+  "extracted_at": "2026-10-18T01:51:37.346412+00:00",
+  "recipes": [
+    {
+      "name": "Tomato-Curry Lentil Stew",
+      "ingredients_raw": [
+        "0.5 cup dry lentils",
+        "1 cup water",
+        "5 ounces stewed tomatoes",
+        "0.125 cup chopped onion",
+        "2 stalks celery, chopped, with leaves",
+        "0.25 teaspoon curry powder",
+        "3 cloves garlic, minced",
+        "salt to taste",
+        "ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine lentils and water, bring to a boil."
+        },
+        {
+          "id": 2,
+          "text": "Lower heat to simmer, add tomatoes, onion, and celery. Cover and let simmer 45 minutes. Check every 15 minutes to stir, and add water if necessary. Add spices last 15 minutes to taste. Taste and re-spice if necessary before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tomato-Curry Lentil Stew",
+        "datePublished": "1999-01-29T12:01:35-05:00",
+        "dateModified": "2024-12-06T02:42:43-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Robin Oswald"
+          }
+        ],
+        "description": "In this recipe serving two, dried lentils are cooked with garlic and stewed tomatoes in curry seasoned broth with onions and celery.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/nOC6Y6WKsxP3hkZU9e9DJCS6aWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-83-601c2b3aa0f543ce9dadc12f0197a008.jpg",
+          "height": 720,
+          "width": 1280
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/tZqTyQ4l-ma1DlVvV.mp4",
+          "description": "AR0850",
+          "duration": "PT2M26S",
+          "name": "Tomato Curry Lentil Stew",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/tZqTyQ4l/poster.jpg?width=1280",
+          "uploadDate": "2020-11-18T15:48:49-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tomato-Curry Lentil Stew",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "277"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "206 kcal",
+          "carbohydrateContent": "37 g",
+          "fiberContent": "16 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "194 mg",
+          "sugarContent": "5 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup dry lentils",
+          "1 cup water",
+          "5 ounces stewed tomatoes",
+          "0.125 cup chopped onion",
+          "2 stalks celery, chopped, with leaves",
+          "0.25 teaspoon curry powder",
+          "3 cloves garlic, minced",
+          "salt to taste",
+          "ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine lentils and water, bring to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/nOC6Y6WKsxP3hkZU9e9DJCS6aWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-83-601c2b3aa0f543ce9dadc12f0197a008.jpg"
+              }
+            ],
+            "text": "Lower heat to simmer, add tomatoes, onion, and celery. Cover and let simmer 45 minutes. Check every 15 minutes to stir, and add water if necessary. Add spices last 15 minutes to taste. Taste and re-spice if necessary before serving."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "surlysunshine"
+            },
+            "reviewBody": "Okay, I have varied this recipe several times, and all of them came out super. First, I always omit celery and substitute bell pepper. I use veg or chicken stock instead of water, and use fresh tomatoes. My favorite variation is to add a little half and half at the very last minute(do not let it fully cook), just enough to make a thick, creamy soup. I have made this for friends and family, and is a hit every time. Thanks."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "digitalsignalx"
+            },
+            "reviewBody": "First time using lentils in a recipe, and I basically re-wrote the recipe using many of the tips from the comments. I used 3 quarts of homemade unsalted chicken stock, 2 cups green lentils, diced onion, green pepper, minced garlic, diced potatoes, diced roma tomatoes, and leftover peas and green beans. For flavors I added white wine, rice vinegar, a tablespoon of curry, 2 tsp coriander, basil, ground pepper, and a pinch of red pepper flakes. For salt I used 1/4 cup coconut aminos soy substitute. Simmered it all day and it was utterly delicious.",
+            "datePublished": "2020-02-26T02:39:18.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paul Lee"
+            },
+            "reviewBody": "As it is, it lacks depth, but it is a nutritional powerhouse so I am going to make it again using vegetable broth and saute my onions and celery before adding them. What I love though is that its vegan, its FAST, and with the variety of lentils I always have, this will never get boring.",
+            "datePublished": "2020-04-06T23:24:20.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "S Shannon"
+            },
+            "reviewBody": "A very healthful dish that's so quick, easy and delicious. Definitely going to become part of my regular menu rotation. I prepared it in my pressure cooker (15 minutes at pressure followed by quick release). I also took the advice of previous posters and used chicken broth. The diced sweet potato is a splendid touch! And I'm using (for a 4 serving batch) 3/4 tsp. curry powder and 1/2 tsp. salt. Delicioso!",
+            "datePublished": "2008-01-18T17:14:43.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Kalfahs Brill"
+            },
+            "reviewBody": "I increased lentils to 1 1/2 cups, used a full can of stewed tomatoes, used 3 T green curry paste instead of powdered curry, and added a can of coconut milk. To stretch it (we had unplanned guests for dinner), I served it over rice. Everyone loved it!\n\nOh - very important - I just dumped everything (except rice) into a crockpot and cooked for 4-5 hours. SO EASY!!",
+            "datePublished": "2017-06-02T13:52:54.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rosemarylove"
+            },
+            "reviewBody": "Absolutely DELICIOUS starting recipe. I doubled the recipe and added half a cup of water, a potato, two carrots, red pepper, a cube of chicken bouillon, and half a granny smith apple. \nI let mine simmer for an hour which made it creamy in texture. \nDon't be shy with the seasonings either. \nThis is a versatile recipe that I will make again and again!",
+            "datePublished": "2011-01-27T18:56:00.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim Hayes"
+            },
+            "reviewBody": "Ok, so I used this as a base recipe but with a lot of changes. I used a 28oz can of diced tomatoes so quintupled everything else. I used a mix of green and red lentils, no celery, carrots and potatoes instead. I used curry, garam masala, cumin, turmeric and cayenne. Quite a lot since we like those flavors. Vegetable stock to keep it vegan. I will try it again with a can of coconut milk added, too. Served with naan and everyone loved it.\nRecipe on it's own would have been very bland for us so 3 stars as it is, but with changes like many reviews mention it could be a 5 star.",
+            "datePublished": "2019-10-27T21:53:57.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim Hayes"
+            },
+            "reviewBody": "Ok, so I used this as a base recipe but with a lot of changes. I used a 28oz can of diced tomatoes so quintupled everything else. I used a mix of green and red lentils, no celery, carrots and potatoes instead. I used curry, garam masala, cumin, turmeric and cayenne. Quite a lot since we like those flavors. Vegetable stock to keep it vegan. I will try it again with a can of coconut milk added, too. Served with naan and everyone loved it.\nRecipe on it's own would have been very bland for us so 3 stars as it is, but with changes like many reviews mention it could be a 5 star.",
+            "datePublished": "2019-10-27T21:53:57.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "acg0809"
+            },
+            "reviewBody": "Lovely! I added canadian bacon since it was in the fridge.... just perfect! I tripled the curry amount and sauteed the garlic (removed it after it browned).",
+            "datePublished": "2021-03-09T04:43:06.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AliceD"
+            },
+            "reviewBody": "It is very bland. I tripled up the curry powder and added more black pepper. I agree with someone else who said it would have better to saute the onions, garlic and celery first. Carrots would be a nice touch. I also used vegetable broth instead of water for more flavor. I also would add the tomatoes toward the end as most recipes do.",
+            "datePublished": "2012-10-16T07:27:13.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sara Gmitter"
+            },
+            "reviewBody": "We really enjoyed this! I made it in the Instant Pot- 20 minutes at high pressure. After I released the pressure, I added some chopped up kale. I didn't add the celery, but only because I forgot to buy it.",
+            "datePublished": "2019-05-31T03:06:07.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nige"
+            },
+            "reviewBody": "I made this, it's simple to make and is delicious. The only change I made the second time around was to add a quarter teaspoon of Tumeric.",
+            "datePublished": "2021-07-24T17:03:14.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "karataronno"
+            },
+            "reviewBody": "It was ok but bland, and I doubled the spice.",
+            "datePublished": "2021-04-04T01:47:42.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlene Froemming"
+            },
+            "reviewBody": "Delicious!",
+            "datePublished": "2021-02-24T00:06:59.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tina E"
+            },
+            "reviewBody": "It was delicious and hearty. It was even better after I stirred in a little salsa. This recipe is a keeper.",
+            "datePublished": "2020-10-30T22:53:07.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wendylynae"
+            },
+            "reviewBody": "this was incredibly bland. I had to sift through all the \"helpful\" reviews to find ways to give it ANY flavor and STILL had to make a lot of alterations. When \"curry\" is in the title, one would at least expect some flavor. \nThis recipe took far more work than it was worth",
+            "datePublished": "2020-10-27T01:08:10.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb C"
+            },
+            "reviewBody": "I followed other reviewers' suggestion of using chicken broth instead of water. It was good and healthy, but it was still missing that something.",
+            "datePublished": "2020-10-23T16:31:28.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marissa"
+            },
+            "reviewBody": "I used yellow split peas in place of lentils cause it's what I had out already. Will make it again and use lentils.",
+            "datePublished": "2020-07-10T12:18:41.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katiedash"
+            },
+            "reviewBody": "When get the seasonings right it tastes pretty good.",
+            "datePublished": "2020-06-19T02:41:32.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda M"
+            },
+            "reviewBody": "I tripled the recipe and added proportional amount of curry and 4 cloves garlic. I’ll use less of both next time as it was a little too spicy for me.",
+            "datePublished": "2020-04-01T01:55:16.160Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12991/tomato-curry-lentil-stew/",
+          "name": "Tomato-Curry Lentil Stew",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+                  "name": "Stews"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

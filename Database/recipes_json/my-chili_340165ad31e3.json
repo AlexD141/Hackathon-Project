@@ -1,0 +1,459 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13423/my-chili/",
+  "extracted_at": "2026-10-18T01:53:45.639683+00:00",
+  "recipes": [
+    {
+      "name": "My Chili",
+      "ingredients_raw": [
+        "2 pounds ground beef",
+        "2 onions, chopped",
+        "4 cloves garlic, minced",
+        "4 (14.5 ounce) cans stewed tomatoes",
+        "1 (15 ounce) can tomato sauce",
+        "2 tablespoons chili powder",
+        "2 teaspoons salt",
+        "2 teaspoons dried oregano",
+        "1 (15 ounce) can kidney beans with liquid"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine ground beef, onion, and garlic in a large stockpot over medium heat. Cook and stir until beef is browned and crumbly, about 10 minutes. Drain and discard excess grease."
+        },
+        {
+          "id": 2,
+          "text": "Stir tomatoes, tomato sauce, chili powder, salt, and oregano into beef mixture. Break up tomatoes while stirring and bring to a boil, then reduce heat to simmer. Cover and cook, stirring occasionally, for 1 hour."
+        },
+        {
+          "id": 3,
+          "text": "Stir in beans with liquid from the can. Simmer uncovered, stirring occasionally, for 20 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "My Chili",
+        "datePublished": "1999-09-18T23:20:32-04:00",
+        "dateModified": "2025-12-30T09:30:17-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Michelle"
+          }
+        ],
+        "description": "This chili recipe makes a delicious basic meat chili with simple ingredients like ground beef, stewed tomatoes, red kidney beans, and chili powder.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/UgGGetBv9WAgedWCa34Z3I2hxUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1726661-cc8093542906484f992f231419e0d5d5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/xCuJbw9Q-K3AjnAEN.mp4",
+          "description": "In this video, learn how to make a straightforward, no bells or whistles chili recipe that blends together beef, spices, tomatoes, and beans in a perfect cowboy harmony.",
+          "duration": "PT1M55S",
+          "name": "My Chili",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xCuJbw9Q/poster.jpg?width=1280",
+          "uploadDate": "2021-06-30T17:46:17-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "My Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "1379"
+        },
+        "cookTime": "PT90M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "482 kcal",
+          "carbohydrateContent": "28 g",
+          "cholesterolContent": "97 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "25 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "1517 mg",
+          "sugarContent": "11 g",
+          "fatContent": "31 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds ground beef",
+          "2 onions, chopped",
+          "4 cloves garlic, minced",
+          "4 (14.5 ounce) cans stewed tomatoes",
+          "1 (15 ounce) can tomato sauce",
+          "2 tablespoons chili powder",
+          "2 teaspoons salt",
+          "2 teaspoons dried oregano",
+          "1 (15 ounce) can kidney beans with liquid"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine ground beef, onion, and garlic in a large stockpot over medium heat. Cook and stir until beef is browned and crumbly, about 10 minutes. Drain and discard excess grease."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir tomatoes, tomato sauce, chili powder, salt, and oregano into beef mixture. Break up tomatoes while stirring and bring to a boil, then reduce heat to simmer. Cover and cook, stirring occasionally, for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/UgGGetBv9WAgedWCa34Z3I2hxUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1726661-cc8093542906484f992f231419e0d5d5.jpg"
+              }
+            ],
+            "text": "Stir in beans with liquid from the can. Simmer uncovered, stirring occasionally, for 20 minutes."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT100M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TDLANE"
+            },
+            "reviewBody": "This is the only chili recipe I will make now. I do make some changes which I think makes it even better. Instead of using 4 cans of stewed tomatoes, I use 2 cans of stewed tomatoes and 2 cans of diced tomatoes w/ green chilis. This makes the chili spicy. If you don't like much spice, but want some spice, try 3 cans of stewed tomatoes and 1 can of the diced tomatoes w/green chilis. I think it's Del Monte that makes the diced tomatoes w/green chilis. I also add more beans and more chili powder. I keep twirking the recipe until I get what I like. I'm going to be making this for a chili cook-off really soon, so I'm hoping everyone likes it as much as my family does!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "finleyfive"
+            },
+            "reviewBody": "Our family loved this recipe...even the kids. Rather than plain chili powder, I used The Spice Hunter brand's \"Chili Powder Blend\" which has cocoa powder, cumin, cinnamon and cloves, among other things. I really think that added a great flavor. I also used S&amp;W brand Mexican seasoned stewed tomatoes. Delicious! One more thing,...I added my kidney beans in with the tomatoes rather than waiting an hour and it turned out fine.",
+            "datePublished": "2005-11-05T10:47:23.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lacey S"
+            },
+            "reviewBody": "Super easy to make and turned out great! I used a crock pot on low for about 4 hours.",
+            "datePublished": "2007-01-19T14:22:07.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Metcalf"
+            },
+            "reviewBody": "*I've made this Chili again tonight and I have to say it's a favorite because it makes for easy, tasty, creative changes.\nHot Green Chili Powder (Hatch Chili's) as a substitute for Chili Powder. Additonal toss in options, corn meal to thicken, cocoa for flavor and richness, black beans, white beans, chili beans in place of or in addition to red kidney beans adds more color and flavor.\nI've used fresh onion, dried onion and no onion. Oh, and instead of using ground beef I've opted to use a steak which I chopped into tiny cubes. \n\nI haven't found one to top this and I'm not going to start looking any time soon.",
+            "datePublished": "2002-12-09T17:08:13.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "great recipe..i added more beans..some cumin powder...tomato paste to thicken ..a little brown sugar .. thanks alot made it a few times i will continue..",
+            "datePublished": "2006-03-16T08:58:27.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ryan Brown"
+            },
+            "reviewBody": "I gave it 3 stars because I do like it as a base, but if you follow the recipe as is it's rather bland. I use 2 cans stewed and 2 cans diced instead of 4 stewed. I dont make this on the stove, i use a crockpot on high for 3-4 hrs or low for 4-6 hours. I also put in 1/2 tsp pepper, 1/2 tsp ground cumin, 1/2-1 tsp ground cayenne pepper, depending on how spicy you want it, 1 tbsp paprika, 1-2 chopped bell peppers to be cooked with the beef, onions and garlic cloves (I use 6 cloves instead of 4). I also add 1 tbsp of chilli powder to beef as I cook it for a little extra flavor. And finally I do not add the kidney bean liquid to the chilli. If you want it a little more watery add more tomato sauce. But I do like this recipe as a starting point, it just needs a little extra to complete it IMO",
+            "datePublished": "2016-12-14T16:18:37.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Keith Gaw"
+            },
+            "reviewBody": "Great base recipe. It was well enjoyed when I made it exactly as posted, but I've modified it to give it more \"kick\" and chili flavor. I prefer a slow cooker. In goes Basil, Garlic and Oregano flavored tomatoes instead of plain diced tomatoes. Puree 1 can of chipotle pepper and add that to the party. I add a can of black kidney beans as well as the other ingredients above. Lastly, I brown the beef in a pan, drain the meat into a crock pot, then saute the onions in the beef drippings until they start to soften, drain them then add to the crock with all of the other ingredients. It sits in the slow cooker here for 2-4 hours depending on how long I can wait! The chipotle adds a good amount of smoke flavor and heat, so many might want to start with 1/2 the can, they're small but they bring it!",
+            "datePublished": "2016-05-06T19:02:41.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ziv"
+            },
+            "reviewBody": "A very nice, simple recipe that delivers very tasty chili! My family really liked it! I half fried about 6 ounces of bacon in the dutch oven, then removed it and let it cool before I added the onions, garlic and hamburger. The bacon went back in before I added the tomato sauce. \nI also increased the amount of chili powder to 2.5 tablespoons and used 2 cans of red kidney beans instead of one. It was not hot but it had a nice chili flavor.",
+            "datePublished": "2021-07-31T00:23:20.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sushi"
+            },
+            "reviewBody": "Technically a 4-star recipe, but its an excellent base before customizing to tasting preferences. I kept the base recipe the same, except I subbed 1 can diced tomatoes w/ green chili [mild] for 1 can stewed tomatoes (will likely do 3 for 2 next time), and also added a little more garlic, 1 can drained pinto beans, 3 tbsp brown sugar, 1 tbsp ground cumin, 1 tsp paprika, and 1 tsp freshly ground pepper. Cooked meat in a large, deep pan on med. heat until lightly brown, added chopped onion &amp; spices, cooked another 5-7 min, then added pressed garlic to sauté for 1 min. I then added stewed tomatoes to break up large chunks, then transferred all to crock pot with remaining ingredients (beans, sauce, oregano, and brown sugar), mixed well, cooked on high 1 hr, then on low 3 hrs, then rested 2 hrs. Throughout the cook I stirred gently every 30 min. Once the chili is 1-2 hrs into simmering, the gentle stirring makes a big difference. I love making chili, and I'm very happy with this recipe and the mods I made. Absolutely delicious!",
+            "datePublished": "2026-01-25T21:43:08.066Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TimidCress4807"
+            },
+            "reviewBody": "I've made it twice now. 1st time originally with one green pepper. 2nd time I twisted it up a little bit with with an additional 1 teaspoon of chili powder and 1 teaspoon of pepper, also with 1 green pepper and now 1 yellow pepper. Very happy with the outcome.",
+            "datePublished": "2023-02-22T20:15:04.138Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katireen"
+            },
+            "reviewBody": "Like others said this was a great foundation for chili but it was soupy. So I added a can of tomato paste, did 3 cans of stewed tomotos and one can of diced tomatoes and did one can of red kidney beans and one can of white kidney beans sans liquid. Then I used 3 tablespoons of chili powder like another reviewer stated from the chili powder recipe on this site and only changed that recipe by doing the cayenne pepper to taste . https://www.allrecipes.com/recipe/237172/chili-powder/",
+            "datePublished": "2020-01-28T19:35:19.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mhallgath"
+            },
+            "reviewBody": "My favorite easy, quick and delicious chili recipe.",
+            "datePublished": "2026-09-13T18:05:49.732Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WorthyPasta4567"
+            },
+            "reviewBody": "very good! plan on keeping this on the rotation",
+            "datePublished": "2026-07-05T01:31:20.318Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "megg"
+            },
+            "reviewBody": "Good. Would use less oregano and sub diced tomatoes for one of the stewed.",
+            "datePublished": "2026-02-26T02:28:53.178Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DapperGrill7248"
+            },
+            "reviewBody": "This is the first time I've made this chili. I liked it as versatile and you can add to it or take away. Personally, I'd like it a little bit spicier, but you can always add that to the end",
+            "datePublished": "2025-12-14T02:58:39.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LilacChai1586"
+            },
+            "reviewBody": "Great recipe and easy to adjust to your taste. Thanks!",
+            "datePublished": "2025-11-09T16:18:22.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alicia Paulk"
+            },
+            "reviewBody": "This chili is delicious! It's easy enough to make. I did take the suggestion of adding another can of beans. I also used 3 cans of stewed tomatoes instead of 4, and then used 2 11 Oz cans of diced tomatoes with green chilies. I also added a bit more garlic, chili powder, salt and oregano to balance it all out. I will make this again!",
+            "datePublished": "2025-11-03T19:54:41.775Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "steelerfan"
+            },
+            "reviewBody": "I dint change a thing ...This chilli recipe is easy and delicious. My family LOVES it.",
+            "datePublished": "2025-10-30T21:31:57.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim"
+            },
+            "reviewBody": "I made this for my husband's birthday party and everyone loved it! Instead of stewed tomatoes, used diced tomatoes. We love spices so used plenty of cumin, chili powder and garlic. Will definitely make again!",
+            "datePublished": "2025-10-14T02:05:44.456Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah"
+            },
+            "reviewBody": "Very good chili. I used 3 cans of diced tomatoes instead and added cumin, a teaspoon sugar, smoked paprika and jalapeños. I also used a can of Bush chili beans.",
+            "datePublished": "2025-01-21T00:40:28.268Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13423/my-chili/",
+          "name": "My Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

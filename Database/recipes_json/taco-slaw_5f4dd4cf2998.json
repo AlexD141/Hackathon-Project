@@ -1,0 +1,445 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/215030/taco-slaw/",
+  "extracted_at": "2026-10-18T02:54:58.277756+00:00",
+  "recipes": [
+    {
+      "name": "Taco Slaw",
+      "ingredients_raw": [
+        "0.5 small head cabbage, chopped",
+        "1 carrot, chopped",
+        "0.5 red onion, minced",
+        "1 jalapeno pepper, seeded and minced",
+        "1 tablespoon chopped fresh cilantro",
+        "1 lime, juiced"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Finely chop the cabbage, carrot, and cilantro. Mince the red onion. Seed and mince the jalapeño."
+        },
+        {
+          "id": 3,
+          "text": "Combine chopped vegetables and lime juice in a bowl; toss to coat."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Taco Slaw",
+        "datePublished": "2017-06-22T09:02:18-04:00",
+        "dateModified": "2025-11-28T09:04:49-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "mixingmedias"
+          }
+        ],
+        "description": "This tangy cabbage slaw for tacos is made with sliced green cabbage, red onion, carrot, jalapeño, cilantro, and lime for the perfect topping or side.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/M-51O1R-Fs_j_GtgK-f1eeY5xuY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215030-TacoSlaw-DDMFS-120-4x3-51194aa1604c40929deb64d455b9ea92.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Taco Slaw",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "81"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "27 kcal",
+          "carbohydrateContent": "7 g",
+          "fiberContent": "2 g",
+          "proteinContent": "1 g",
+          "sodiumContent": "19 mg",
+          "sugarContent": "3 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "0.5 small head cabbage, chopped",
+          "1 carrot, chopped",
+          "0.5 red onion, minced",
+          "1 jalapeno pepper, seeded and minced",
+          "1 tablespoon chopped fresh cilantro",
+          "1 lime, juiced"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/l_QjnKaAB_D5AEJz4MWYFftn-yk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215030-TacoSlaw-DDMFS-114-step1-fedc20e3ef45458c96d7d70e73b83e83.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RkjDUZN-u7Ga-ieIwoqbp61-A7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215030-TacoSlaw-DDMFS-115-step2-830681b075474176aaebdac7faa535aa.jpg"
+              }
+            ],
+            "text": "Finely chop the cabbage, carrot, and cilantro. Mince the red onion. Seed and mince the jalapeño."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/QuH1Cx2iapBpe6yLL1xySKHsYGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215030-TacoSlaw-DDMFS-116-step3-f363a69b4b2a49bf94a440487d1bbd71.jpg"
+              }
+            ],
+            "text": "Combine chopped vegetables and lime juice in a bowl; toss to coat."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PMtz19"
+            },
+            "reviewBody": "Let me just start off by saying that it drives me crazy when people rate a recipe but completely change it. If you're rating a recipe, rate it as it was written. With that being said, I give this recipe 5 stars as written. I'm on a diet and so tired of eating plain veggies, so I was looking for something different to do with cabbage and found this recipe. I ate it more like a salad than a topping, but it was so very tasty. Finally, something I can eat guilt free. Thank you for sharing mixingmedias."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amb520"
+            },
+            "reviewBody": "Fast, easy and tasty. I made it to go with fish tacos and was quite pleased how it turned out.\n\n I sliced everything (except the pepper) thin in the food processor and used a Serrano pepper because I prefer the flavour.",
+            "datePublished": "2012-05-25T22:20:40.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolyn"
+            },
+            "reviewBody": "This was a great slaw, which I served along with grilled fish and homemade fries. Switching from mayo based salads is a big deal, and this salad is fresh, crunchy, flavorful. I did not have a jalapeño, so used chopped pickled jalapeños instead. It was also great on day 2.",
+            "datePublished": "2022-06-06T10:24:18.512Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Keating"
+            },
+            "reviewBody": "Makes everything better and is so simple. I buy the already chopped slaw with carrots in the produce section, and the whole thing comes together in 5 minutes!\nGreat on tacos or bbq chicken sandwiches or just straight up!",
+            "datePublished": "2020-01-11T18:23:43.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lela"
+            },
+            "reviewBody": "My family liked this recipe. It gave crunch to a chicken taco. I added some garlic powder and more lime juice.",
+            "datePublished": "2023-08-13T16:24:39.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipesfan"
+            },
+            "reviewBody": "So good, give it some time to marinade in the lime juice, enhances it...YUM!",
+            "datePublished": "2020-04-28T00:36:50.693Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ron Holliday"
+            },
+            "reviewBody": "Mix lime juice with mayo and some cumin, then mix",
+            "datePublished": "2024-04-04T22:58:29.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jerseywine"
+            },
+            "reviewBody": "Fresh and light! Made this for our fish tacos. YUM! Only change I did was I bought the cole slaw mix at the store which had cabbage, red cabbage and carrot already shredded. Gave the tacos a nice light and crunchy texture. Jalapeno gave it a nice kick which we loved.",
+            "datePublished": "2019-09-24T01:26:57.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cmach"
+            },
+            "reviewBody": "I had half a bag of cole slaw mix which I added red onion , half a jalapeño, lime juice a little extra cilantro- great with turkey tacos!",
+            "datePublished": "2024-06-30T00:53:43.044Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David"
+            },
+            "reviewBody": "Have made alternative slaws like this for years. My favorite version is to add as many veg(bell pep, celery....)as you care to. Add a little more flavor with fresh garlic,sugar, and Siracha instead of the jalapeno. I like to add a small amount of mayo to give it a little creaminess. Good job guys!!!",
+            "datePublished": "2015-06-26T18:43:39.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sushi"
+            },
+            "reviewBody": "Loved it exactly as written. I sauted the last serving and it made an excellent hot side dish too",
+            "datePublished": "2020-02-16T23:26:45.237Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gwenn"
+            },
+            "reviewBody": "Best slaw for tacos!",
+            "datePublished": "2026-07-16T00:32:05.569Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmberCod4783"
+            },
+            "reviewBody": "I love Mexican food so was disappointed that it lacked in flavor. I tried to adjust it with more lime. I will try it again and tweak it a bit more. Maybe more cumin and jalapenos.",
+            "datePublished": "2025-11-03T17:10:16.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JumpyCurd7375"
+            },
+            "reviewBody": "Missing fresh garlic, fresh scallion, 1 serrano pepper (for extra zing if you dare!) and thin slices of radish (for color and for crunch). Daikon works too! Don't forget to zest the lime before you squeeze out the juice and then add this zest to the slaw. UR welcome!",
+            "datePublished": "2025-10-26T12:31:50.984Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sgt Reuster"
+            },
+            "reviewBody": "Needs Sazon salad &amp; Vegetable to truly make it perfect. One packet of that and it’ll be perfect.",
+            "datePublished": "2025-08-23T17:36:42.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anne In NC"
+            },
+            "reviewBody": "This was a mild success with my dinner guests. I served it with tacos, to be added as a taco ingredient or eaten on the side. They didn't devour the entire dish, however, didn't go back for seconds. I used two limes, but they were terrible limes, barely got one tablespoon of juice from the two. I wish I had known and bought 4. I added some salt, as it seemed odd to have none. I used a teaspoon, and that was fine after sitting overnight. I won't be making it again, despite compliments because I can't stand cilantro. I thought I might tolerate it, but no. And it didn't seem like it would be good without the cilantro, so I won't try it without. I gave it 4 stars as my guests didn't go back for more as they usually do with the veggie/salad type foods I usually make.",
+            "datePublished": "2024-05-06T18:55:32.678Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John H"
+            },
+            "reviewBody": "Excellent slaw for fish tacos 🌮",
+            "datePublished": "2023-12-16T21:29:06.479Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Crunchy good. Healthful good. Taste all cabbage. I think it is good as a garnish. This was too much volume for 6 people as a garnish on +/- 12 tacos though. We mixed the crema with it.",
+            "datePublished": "2023-12-03T10:59:16.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheila LaLonde"
+            },
+            "reviewBody": "This slaw was a great accompaniment to our carnitas tacos. Very fresh and just the right zing for our palates! Thanks for sharing your recipe!",
+            "datePublished": "2023-08-11T15:10:14.496Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef Mo"
+            },
+            "reviewBody": "So simple and yet so good! Light and refreshing. It took my fish tacos to another level. Thanks",
+            "datePublished": "2023-08-05T23:16:34.726Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/215030/taco-slaw/",
+          "name": "Taco Slaw",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

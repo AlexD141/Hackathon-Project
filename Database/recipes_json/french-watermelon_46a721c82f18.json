@@ -1,0 +1,340 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/215583/french-watermelon/",
+  "extracted_at": "2026-10-18T02:56:27.880115+00:00",
+  "recipes": [
+    {
+      "name": "French Watermelon",
+      "ingredients_raw": [
+        "1 large watermelon, cubed",
+        "1 cup vodka",
+        "0.5 cup white sugar",
+        "15 fresh mint leaves, chopped"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Toss the watermelon, vodka, sugar, and mint together in a large bowl. Cover the bowl with plastic wrap and refrigerate 1 to 2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "French Watermelon",
+        "datePublished": "2020-06-19T21:50:38-04:00",
+        "dateModified": "2024-04-17T12:00:42-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "PAUL"
+          }
+        ],
+        "description": "Watermelon, vodka, sugar, and fresh mint are all you need to make this fun summertime recipe.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/96upq4aB10dCCc2pp8zoIoyO8_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215583french-watermelonlutzflcat4x3-2690ae1455d54226a4ffaa91d4202e33.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "French Watermelon",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "27"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "182 kcal",
+          "carbohydrateContent": "39 g",
+          "fiberContent": "2 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "5 mg",
+          "sugarContent": "33 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "1 large watermelon, cubed",
+          "1 cup vodka",
+          "0.5 cup white sugar",
+          "15 fresh mint leaves, chopped"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Toss the watermelon, vodka, sugar, and mint together in a large bowl. Cover the bowl with plastic wrap and refrigerate 1 to 2 hours."
+          }
+        ],
+        "recipeYield": [
+          "20",
+          "20 servings"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SJCOLS"
+            },
+            "reviewBody": "Had half a watermelon in the fridge and wanted to try something new, this was delicious! Served it with bbq chicken and mexican rice. I recommend dissolving the sugar in the vodka first."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "utamyb"
+            },
+            "reviewBody": "I made this watermelon for a party with a bunch of my girlfriends and it was a HIT! I only had Passion Fruit flavored vodka but it worked out perfectly. I also divvied up the watermelon chunks into ziploc bags while they were chilling so all the pieces were equally soaked and it was so yummy! The mint leaves were perfect!",
+            "datePublished": "2011-10-21T14:00:43.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "After I’d cut up the melon, I found out that I had no vodka, so used Tequila, and that worked out just fine. I even used Splenda, and it still was good. So very simple and fresh, I’d never get tired of this.",
+            "datePublished": "2024-04-16T17:13:58.051Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Pettibone"
+            },
+            "reviewBody": "My mint has gone to seed, but I have several varieties of sweet basil - purple, huge leaf, regular - so I chopped up a bunch of tender basil leaves and used them instead. Fabulous!",
+            "datePublished": "2015-08-11T11:20:26.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amycee"
+            },
+            "reviewBody": "I also took this recipe to several parties last summer...and everyone is still talking about how good this is! I actually used watermelon vodka, though and left out the sugar. So refreshing!!",
+            "datePublished": "2012-05-27T07:23:03.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CleverNaan4862"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-29T21:36:20.476Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie Delgado"
+            },
+            "reviewBody": "Five stars aren’t enough. Every single person came back for seconds and there were pouts when it was gone. Make it exactly as is, no mods, and use a decent vodka",
+            "datePublished": "2020-07-22T03:49:57.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Colin Reilly"
+            },
+            "reviewBody": "I mixed it into a bowl the night before and turned it into a slushie",
+            "datePublished": "2020-02-02T08:09:09.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christi Williams"
+            },
+            "reviewBody": "This was fresh and fun!!",
+            "datePublished": "2019-07-31T21:15:59.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheri"
+            },
+            "reviewBody": "This was very good. No changes or substitutions made. You could not taste the vodka, but I believe it did catch up with me! I would make it again and maybe see how a rum might taste as well.",
+            "datePublished": "2019-07-10T23:54:55.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steve Gordon"
+            },
+            "reviewBody": "Very refreshing during a hot day or any occasion",
+            "datePublished": "2019-06-22T17:10:48.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Daniel Manseau"
+            },
+            "reviewBody": "Simple and delicious!",
+            "datePublished": "2018-07-19T13:13:58.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DONIJO"
+            },
+            "reviewBody": "Easy and great fresh taste.",
+            "datePublished": "2017-06-15T13:48:14.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crystal S"
+            },
+            "reviewBody": "Once a month we have a gathering of friends to watch movies under the stars with. As we were showing \"Jaws\", I decided to offer this as a beachside treat and boy did it work magic. The vodka lulled the most unsuspecting movie goer into a relaxed state right up until the shark appeared! Thanks Paul for the treat!",
+            "datePublished": "2015-07-14T14:23:10.747Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/215583/french-watermelon/",
+          "name": "French Watermelon",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17203/desserts/specialty-desserts/",
+                  "name": "Specialty Dessert Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15014/desserts/specialty-desserts/liqueur-desserts/",
+                  "name": "Liqueur Dessert Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

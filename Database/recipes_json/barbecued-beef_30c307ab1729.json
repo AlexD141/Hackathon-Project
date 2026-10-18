@@ -1,0 +1,513 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14646/barbecued-beef/",
+  "extracted_at": "2026-10-18T02:01:13.054682+00:00",
+  "recipes": [
+    {
+      "name": "Barbecued Beef",
+      "ingredients_raw": [
+        "1.5 cups ketchup",
+        "0.25 cup packed brown sugar",
+        "0.25 cup red wine vinegar",
+        "2 tablespoons prepared Dijon-style mustard",
+        "2 tablespoons Worcestershire sauce",
+        "1 teaspoon liquid smoke flavoring",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "0.25 teaspoon garlic powder",
+        "1 (4 pound) boneless chuck roast"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine ketchup, brown sugar, red wine vinegar, Dijon-style mustard, Worcestershire sauce, and liquid smoke."
+        },
+        {
+          "id": 3,
+          "text": "Stir in salt, pepper, and garlic powder."
+        },
+        {
+          "id": 4,
+          "text": "Place chuck roast in a slow cooker. Pour ketchup mixture over chuck roast. Cover and cook on Low for 8 to 10 hours."
+        },
+        {
+          "id": 5,
+          "text": "Remove chuck roast from slow cooker, shred with a fork, and return to the slow cooker."
+        },
+        {
+          "id": 6,
+          "text": "Stir meat to evenly coat with sauce. Continue cooking for approximately 1 hour more."
+        },
+        {
+          "id": 7,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Barbecued Beef",
+        "datePublished": "1999-10-04T21:41:29-04:00",
+        "dateModified": "2025-12-22T14:14:53-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "CORWYNN DARKHOLME"
+          }
+        ],
+        "description": "This zesty BBQ beef recipe is made with chuck roast that&#39;s slow-cooked with homemade barbeque sauce ingredients. Shredded for sandwiches, it will feed a crowd.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/-XQ4AMTXrhmWD3ktZiqsLdAFVwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-beauty-4x3-0b60ffd60d1c48429748e3f150bc954e.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/g06UTgtl-ma1DlVvV.mp4",
+          "description": "AR1160",
+          "duration": "PT2M58S",
+          "name": "Barbecued Beef",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/g06UTgtl/thumbnails/832VI6tR.jpg?width=1280",
+          "uploadDate": "2021-07-23T08:06:19-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Barbecued Beef",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "1472"
+        },
+        "cookTime": "PT540M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "276 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "65 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "19 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "562 mg",
+          "sugarContent": "12 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.5 cups ketchup",
+          "0.25 cup packed brown sugar",
+          "0.25 cup red wine vinegar",
+          "2 tablespoons prepared Dijon-style mustard",
+          "2 tablespoons Worcestershire sauce",
+          "1 teaspoon liquid smoke flavoring",
+          "0.5 teaspoon salt",
+          "0.25 teaspoon ground black pepper",
+          "0.25 teaspoon garlic powder",
+          "1 (4 pound) boneless chuck roast"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/GbnBZIxHebfSIKjMZyBlvRgw1-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-4x3-step-01-4eb7bf4753df4771b443c4ac3874cecc.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PwS758QNGTX7xn6l_GGZJ2duez4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-4x3-step-02-31893efa8ff74f2bbb6797288dc4dd0d.jpg"
+              }
+            ],
+            "text": "Combine ketchup, brown sugar, red wine vinegar, Dijon-style mustard, Worcestershire sauce, and liquid smoke."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/1QVkDh_ZM6zgclM4RjgaLTqcIgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-4x3-step-03-1-b264a2acb2744421a43b12c773ba5e7a.jpg"
+              }
+            ],
+            "text": "Stir in salt, pepper, and garlic powder."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/xVL9VJoH9ME1Lugrf0Ss1eigpyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-4x3-step-03-381bc31e435043eaaf2e5c4cc4507005.jpg"
+              }
+            ],
+            "text": "Place chuck roast in a slow cooker. Pour ketchup mixture over chuck roast. Cover and cook on Low for 8 to 10 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/nor99PbYk5q6Cn_tCcQTGcfL-t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-4x3-step-04-ac061448219142cf88023fa17fe22d7a.jpg"
+              }
+            ],
+            "text": "Remove chuck roast from slow cooker, shred with a fork, and return to the slow cooker."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/__Dm6r9-RP7KtzmPMO-UvanY874=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-4x3-step-05-b0bb8f2eefb448138328b3c3f509eaed.jpg"
+              }
+            ],
+            "text": "Stir meat to evenly coat with sauce. Continue cooking for approximately 1 hour more."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-XQ4AMTXrhmWD3ktZiqsLdAFVwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14646-Barbecued-Beef-gw-ddmfs-beauty-4x3-0b60ffd60d1c48429748e3f150bc954e.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT560M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My boyfriend LOVES this recipe. If the sauce is too greasy, I put the sauce in a container in the freezer while I'm shredding the beef. The grease hardens on top, and you can skim it off. Then you can return it to the slow cooker with the shredded beef. Excellent!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "A few tips for this great recipe. I've been making it for a few years. I actually sear my roast along with green peppers and onions. I always prepare this a day ahead to let it refrigerate so I can remove the grease. Another tip and this is for all crockpot recipes, unless you want thin gravy or sauce you need to allow additional time and cook for the last few hours on high without the lid. I usually using the cooking time for low on all recipes with sauce. I start out on high and as soon as the sauce is really hot I take the lid off the crock. My family does not like a thin sauce. This recipe freezes very well so I always triple the recipe.",
+            "datePublished": "2003-08-06T06:00:02.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele"
+            },
+            "reviewBody": "What a tasty, quick, and easy recipe. I’ve made this twice with rave reviews both times. The first time I followed the recipe exactly and it was great. The second time I just felt like playing with it and added a chopped onion and chopped green/yellow/red peppers, and upped the brown sugar to one heaping 1/3 cup. I was also short on ketchup so did 1/2 ketchup and 1/2 BBQ sauce. Both times were great. As to the problems with greasiness, I simply trimmed the fat before putting it in the crock pot and had no problems with it. I then cooked it on low 5 hours, pulled it apart, then cooked it another hour with the lid off and/or on -eyed so it wasn’t sealed tightly. The consistency and taste was great both times. Thanks for the great recipe!",
+            "datePublished": "2020-07-28T23:16:33.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mim"
+            },
+            "reviewBody": "Really good. Not too spicy. 1.45 lb. roast needs only be cooked about 4 hrs.",
+            "datePublished": "2020-10-05T21:38:33.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vicki936"
+            },
+            "reviewBody": "We all loved this! I put a thickly sliced onion in the bottom of the crock pot - I think this helps keep the meat from possibly burning. Cut the roast into big chunks and removed whatever fat I could. Used no-sugar-added ketchup and Swerve brown sugar substitute in the sauce. Cooked it all day then skimmed grease off the top, then shredded the beef. Removed it to a skillet and cooked it down on the stove. Added just a little cornstarch mixed with water to thicken it. Served it on toasted hamburger buns - everyone loved!! Would definitely make again.",
+            "datePublished": "2020-05-18T19:51:33.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CanarySong"
+            },
+            "reviewBody": "This recipe is a keeper as it’s written!! If you make no changes you will be happy with the end result. I made a couple tiny changes that I don’t necessarily suggest everyone would enjoy. \nI added 4 minced cloves of garlic, one large diced onion, and about 10 tiny baby potatoes which I placed under the meat. \nI also seared the meat in 2 tablespoons of butter in a frying pan before adding it to the crockpot.\nI followed the suggestion of others. I pulled the meat when done and while I shredded it I placed the sauce in the freezer for 10mins so I could easily scrape the excess fat layer off before adding it back into the warm crock pot with the shredded meat. I highly suggest doing this extra step as there is way to much fat in the sauce.\nWill make this one over and over again! Thanks for the recipe!!",
+            "datePublished": "2020-03-29T02:27:50.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbara Rosenberg"
+            },
+            "reviewBody": "I made a few changes based on reviews and added a touch of my own. I put the slow cooker on high and added a large thinly sliced onion while I prepared the rest. Instead of the suggested seasonings I used 1 teaspoons Nature's Seasoning (a favorite, instead of all the different ones.) I cut the meat into chunks to get rid of fat first, Added them to onions and poured sauce on top and stirred. When sauce was simmering, I turned to low and cooked for 6 hours. Then I took meat out and shredded it, replaced it, added 3 teaspoons honey, stirred well and then cooked 1-2 more hours to blend flavors and thicken sauce. The honey took away the \"ketchupy\" taste, and the sauce thickened nicely with very little fat. Don't have buns in the house but may run out for them (this tastes that good!) or will serve over rice or noodles. Will try to freeze some, if my husband doesn't insist on eating it tomorrow as well:-). Its a 5 star with my changes!",
+            "datePublished": "2019-05-08T20:31:56.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betty Moore Parker"
+            },
+            "reviewBody": "Had leftover Roast Beef and Gravy, minced it up added minced onion and Baby Rays, cooked one hour in slow cooker on High, Excellent, put on buns with coleslaw. Add French Fries and you have a great meal! With very little work.",
+            "datePublished": "2024-01-08T17:11:08.956Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy N"
+            },
+            "reviewBody": "I doubled the recipe to serve a big group, and my crockpot wasn't big enough. So I cut the roasts into smaller chunks, trimmed off most of the fat, and browned all the pieces in a skillet (as others suggested). Then I put the chunks in a large Dutch oven (a fancy name for a big, old, brown and round, heavy, glass Pyrex dish with a lid my Mom handed down to me) with the sauce ingredients, covered with lid, and baked at 200 degrees for 10 hours overnight. We all survived the night, and the house didn't burn down. So, in the morning, I shredded the beef, placed it back in the Dutch oven with the sauce, and put it back in the oven at 200 degrees until I was ready to serve it for lunch. I cut down some on the vinegar too. This is not your typical, sweet, thick \"BBQ Beef\" - it's more like \"Sassy Beef\" - thin and saucy with a kick .",
+            "datePublished": "2019-03-29T23:54:14.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NeNe"
+            },
+            "reviewBody": "I made sloppy Joes using this recipe and it was so good. I used 1 pd of ground beef and cut the recipe in half to make it saucier. I only put in 1/8 cup of light brown sugar. Ketchup has plenty of sugar in it. I also added 1/4 cup of mixed diced red, yellow, and green peppers and used 2 large cloves of fresh garlic. WINNER!! Thanks for the recipe. I'm saving this one.",
+            "datePublished": "2014-06-24T05:41:53.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZAKKIE"
+            },
+            "reviewBody": "1/16/2020: I only use 2 lbs beef tips for the amount of sauce, no liquid smoke. I also liberally sprinkle meat with garlic powder, penzeys black pepper and penzeys BBQ 3000. Topped with Velveeta Rotel dip. 1/2017: I was very surprised how delicious this is. I left out the liquid smoke and used beef tips. I served it over Beer Rolls with sesame seeds and vinaigrette Cole slaw.",
+            "datePublished": "2017-01-16T16:15:23.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jackie"
+            },
+            "reviewBody": "All the above choices. It was so easy to make and it was delicious. It’s my go to one now.",
+            "datePublished": "2026-03-19T01:33:40.122Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SandySake7496"
+            },
+            "reviewBody": "This is the best tasting homemade BBQ sauce I've found yet! Love this recipe!",
+            "datePublished": "2025-04-17T19:34:31.514Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Lefebvre"
+            },
+            "reviewBody": "Made exactly as written. Refrigerated overnight, skimmed the hardened fat from the top and reheated. Everyone loved it. Served with a vinegar and oil slaw on toasted buns. Yummy.",
+            "datePublished": "2025-01-11T22:52:26.044Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyPear4553"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-10-31T14:44:45.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Helcat"
+            },
+            "reviewBody": "Made with homemade ketchup. Great! I halved the recipe. If you want you can make a quick ketchup with tomato paste. I never have liquid smoke, tastes great still!!",
+            "datePublished": "2024-06-04T16:29:35.628Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bob E"
+            },
+            "reviewBody": "I recommend making this recipe with beef brisket instead of chuck roast. Beef brisket shreds nicely and a far better flavor than chuck roast and is a little less fatty.",
+            "datePublished": "2023-06-11T22:50:23.102Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BravePrune5473"
+            },
+            "reviewBody": "From the positive reviews I’ve read, I’m making this tomorrow. Can’t wait!!",
+            "datePublished": "2023-06-11T21:29:35.715Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OddGrape5073"
+            },
+            "reviewBody": "I love this recipe! I’ve been making it for years. It’s even tastier for pulled pork. (Just use the same size pork shoulder.) And I use a couple tablespoons of Claude’s marinade instead of the liquid smoke. Mmmm! *adding ingredients to grocery list*",
+            "datePublished": "2023-06-11T21:26:53.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carrie Cremia"
+            },
+            "reviewBody": "This was really good. But, I followed the advise of others who cooked it separate then shredded and added the sauce later. I drained A LOT of fat. I also pan seared it first and cooked it with large onion slices that I later discarded with the fat.",
+            "datePublished": "2022-04-18T01:11:10.769Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14646/barbecued-beef/",
+          "name": "Barbecued Beef",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

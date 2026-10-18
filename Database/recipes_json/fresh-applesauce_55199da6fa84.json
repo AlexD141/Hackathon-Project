@@ -1,0 +1,445 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15733/fresh-applesauce/",
+  "extracted_at": "2026-10-18T02:16:51.382206+00:00",
+  "recipes": [
+    {
+      "name": "Fresh Applesauce",
+      "ingredients_raw": [
+        "3 pounds apples - peeled, cored and chopped",
+        "3 cups water",
+        "1 cup white sugar",
+        "1 tablespoon lemon juice"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Place apples in a large saucepan barely covered with water over medium-low heat; simmer until apples are tender, 15 to 20 minutes. Drain."
+        },
+        {
+          "id": 3,
+          "text": "Run apples through a food mill (or purée in a blender); return to the saucepan. Stir in sugar and lemon juice; cook over medium heat until sugar is dissolved and sauce is thickened, 3 to 5 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Fresh Applesauce",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2026-01-06T13:22:22-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rachel"
+          }
+        ],
+        "description": "Fill your kitchen with the tempting aroma of homemade fresh applesauce as you whip up this simple recipe using apples, water, sugar, and lemon juice.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/2Or7umY0SME9OYWBzQ0CacgZ3Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15733-fresh-applesauce-DDMFS-Beauty-4x3-99ef12ae51d34ffd9faa1ea49ebd3b78.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fresh Applesauce",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "151"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "186 kcal",
+          "carbohydrateContent": "49 g",
+          "fiberContent": "4 g",
+          "proteinContent": "1 g",
+          "sodiumContent": "5 mg",
+          "sugarContent": "43 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Snack",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "3 pounds apples - peeled, cored and chopped",
+          "3 cups water",
+          "1 cup white sugar",
+          "1 tablespoon lemon juice"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bKUMsp19-MniP3rZ7Cvx01oTUws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15733-fresh-applesauce-DDMFS-step-01-2d4c38e2661947e4b8a209c299860cc6.jpg"
+              }
+            ],
+            "text": "Gather all the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gvWR0fEnhtUkIyLIEwBTIKEDMpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15733-fresh-applesauce-DDMFS-step-02-639c153b16ad463daf9e36eec6eead4e.jpg"
+              }
+            ],
+            "text": "Place apples in a large saucepan barely covered with water over medium-low heat; simmer until apples are tender, 15 to 20 minutes. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CYBhSYp2XHovmTdbimhTGi6E6c0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15733-fresh-applesauce-DDMFS-step-03-63aa70d47c5c4f9591c1e00a823cd0eb.jpg"
+              }
+            ],
+            "text": "Run apples through a food mill (or purée in a blender); return to the saucepan. Stir in sugar and lemon juice; cook over medium heat until sugar is dissolved and sauce is thickened, 3 to 5 minutes."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "4 + cups"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jessica Beek"
+            },
+            "reviewBody": "I used my crock pot and fresh apples from my farm. I used 3 pounds apples, cored, peeled and cut into chunks, 1/2 cup of sugar, 1/2 cup water, 1/2 teaspoon vanilla and a few sprinkles of cinnimon. Cook on high for 4 -5 hours, just perfect!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wantabunch"
+            },
+            "reviewBody": "I never knew applesauce was so delicious until I made it myself! I used Jonathan apples (NOT peeled or cored), filled a 12 quart stockpot, added just a bit of water (half cup?) and just a bit of sugar (half cup?) and sprinkled on the cinnamon. Let it simmer for an hour or two, stirring it down occasionally, then put it through my kitchenaid fruit &amp; veggie strainer, and canned it in a waterbath canner. It's so much better than anything you can buy at the store. YUM.",
+            "datePublished": "2011-01-07T15:45:34.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Talita K"
+            },
+            "reviewBody": "Also cut the sugar, added cinnamon, and used an apple corer. Did not chop apples further to boil. strained cooked apples of excess water. Then I mixed in the sugar and lemon juice. Used a pastry blender to cut the pieces.\n\nTurned out well. Will make again.",
+            "datePublished": "2017-12-15T22:32:27.693Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MistressOfTheTao"
+            },
+            "reviewBody": "No need for sugar. We cooked the apples with a cinnamon stick and three or four pieces of candied ginger. Then we added ~1/4 C of canned crushed pineapple and 2 Tbsp of lemon juice while blending with a stick blender. Delicious!",
+            "datePublished": "2019-01-27T23:03:27.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "crawwilk"
+            },
+            "reviewBody": "I'd never made applesauce before. This became my \"go to\" recipe this fall. We use freshly picked apples of a sweet and tart variety - 8 lbs total. I used my smoothie maker to puree and the consistency was wonderful. I added no sugar, 1/2 tsp each nutmeg &amp; cinnamon and juice of 1/2 a lemon. I also drained the apples and thank those who added that helpful hint. I kept back some of the water, refrigerated it and replaced normal tap water with it to make morning oatmeal and cream of wheat. My kids can't get enough of this applesauce! Thanks for sharing. This was really easy to make.",
+            "datePublished": "2011-11-06T09:30:46.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "peebsy weebsy"
+            },
+            "reviewBody": "You can't get any simpler than this recipe. It was so fast and easy to make. I used a combo of Granny Smith and Pink Lady apples. I used a hand blender to puree my cooked apples, leaving it a little chunky. I added just 1/4 cup of sugar and that was plenty of sweetness for my taste. I think the one cup the recipe called for would make a sickeningly sweet sauce (hence the 4 stars instead of 5). When you make your applesauce, start with a small amount, taste and add a bit at a time until your desired sweetness level. I served these with latkes.",
+            "datePublished": "2011-05-10T09:19:03.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicky Wirtz"
+            },
+            "reviewBody": "Too much work. Save all the work of coring and peeling. I simply quarter apples WITH peel and core, fill crock pot to the top with apples, add 1/2 cup water, let it cook till apples soft. Pour all into apple mill and press through.....best and sweetest applesauce ever and only a tablespoon of seed and skin will be left in the mill. Amazing use of all the apple without any peeling. If you want to add sugar or cinnamon, return to crock pot and season. I cook it down from here to make applebutter also. I also can the applesauce straight from the crock pot when I bring back to a boil. I have apple trees and never peel or core when canning applesauce. Everyone is amazed at how sweet it is without any sugar.",
+            "datePublished": "2010-08-20T17:56:01.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "StarrMama"
+            },
+            "reviewBody": "This was amazing!! i have never made applesauce before &amp; this was easy, was a short process &amp; yummy!! the apples were soft enough within 5 minutes &amp; started to mash on its own. i mashed the rest of it myself while it cooked.",
+            "datePublished": "2020-10-22T02:08:06.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BLyn"
+            },
+            "reviewBody": "I don't know if it was my apples, or if the lemon juice just really comes through in this, but I found it a bit tart. I guess I could have added more sugar, but the taste was a little off. The second time I make this I'm going to do it in the slow cooker without the lemon. UPDATE: I made this a second time in the slow cooker and barely had to add any sugar. I mashed it with a potato masher for a chunky applesauce and added a heavy sprinkling of cinnamon. This is how I'm going to make it from now on!",
+            "datePublished": "2010-11-18T12:12:37.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joydee Mccorkle"
+            },
+            "reviewBody": "Excellent &amp; easy recipe to eat right away, freeze or can. For 20 years I've peeled &amp; cored my apples &amp; placed them in microwave w/1/4 Cup of water for 11-12 minutes on HI. Simply remove bowl from oven, mash &amp; add sugar &amp; spices as preferred. We like our sauce on the chunky side. I often toss in a handfull of Red Hots candy in place of sugar &amp; cinnamon. It adds a rosy color. This year I used Honey Crisp apples....yummy!",
+            "datePublished": "2010-11-13T13:07:16.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RWC4520"
+            },
+            "reviewBody": "SKIP the sugar altogether, especially if you're using a sweeter apple. There's no need for any sugar at all. I also use apple cider instead of the water (and cut back on the liquid - 1 cup maximum). It's incredibly easy if you core and peel the apples and put them in a crockpot overnight on low. No stirring, just let it cook.",
+            "datePublished": "2010-10-23T08:49:02.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "#1cookers"
+            },
+            "reviewBody": "It tasted sooooooo good!",
+            "datePublished": "2026-03-26T00:51:47.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robyn"
+            },
+            "reviewBody": "The applesauce had virtually no flavor, like it was watered down even though I let it cook on the stove for a while. Sugar helped. I tried the vanilla that someone mentioned, it practically ruined it--not a good flavor with applesauce. I left the cinnamon out in case I need the applesauce for cooking, figure I can add it later if I want it. Will make the slow cooker applesauce next time, I liked it before but thought I'd try something different--mistake.",
+            "datePublished": "2023-11-30T01:18:39.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LankyCorn1284"
+            },
+            "reviewBody": "gggggggooooooooooooooooddddddd",
+            "datePublished": "2022-12-18T02:13:19.364Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gymrat"
+            },
+            "reviewBody": "Ths is a fantastici recipe and just like my Mom made. I cut and cored the apples and added enough water to cover which they needed. I am not sure what they were as they came from a friends tree. When they had cooked down I ran everyting through the food mill. Put back in the pot and then added 1/3 cup sugar and 2 Tbsp. fresh squeezed lemon juice. I could have gone with 1/4 cup this time. Oh so good!!!",
+            "datePublished": "2021-10-23T21:00:14.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shy Upshaw"
+            },
+            "reviewBody": "Very easy and tasty recipe. I didn't add any sugar and I drained before blending the apples. The sweetness and texture was perfect for the birthday pupcakes I was making for my fur baby, Bear.",
+            "datePublished": "2019-12-07T00:45:33.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cookiemonster28"
+            },
+            "reviewBody": "Delicious! I love homemade applesauce. My mom made it one Christmas and I've loved it ever since.\n.",
+            "datePublished": "2019-10-22T21:30:57.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Isaac Dawit"
+            },
+            "reviewBody": "Thx so good plz make more",
+            "datePublished": "2019-01-13T00:12:19.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KramerGirls"
+            },
+            "reviewBody": "It was delicious! We added a little ground cinnamon to taste.",
+            "datePublished": "2018-10-22T21:54:13.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jo Ann Lawrence Miller"
+            },
+            "reviewBody": "As others suggested, I reduced the Sugar. I used 3/4 Cup (next time I will use 1/2 Cup as it was still pretty sweet), I used Macintosh apples. I added 3 Tbsp Brown Sugar and approx. 1/2 tsp of cinnamon. This was soooo good, I served with breaded pork chops and everyone raved about the applesauce!",
+            "datePublished": "2017-10-19T14:28:13.157Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15733/fresh-applesauce/",
+          "name": "Fresh Applesauce",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1333/side-dish/applesauce/",
+                  "name": "Applesauce Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,457 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12133/basic-flaky-pie-crust/",
+  "extracted_at": "2026-10-18T01:48:28.985630+00:00",
+  "recipes": [
+    {
+      "name": "Basic Flaky Pie Crust",
+      "ingredients_raw": [
+        "1.25 cups all-purpose flour",
+        "0.25 teaspoon salt",
+        "0.5 cup shortening, chilled",
+        "3 tablespoons ice water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk the flour and salt together in a medium size bowl. With a pastry blender, cut in the cold shortening until the mixture resembles coarse crumbs. Drizzle 2 to 3 tablespoons ice water over flour. Toss mixture with a fork to moisten, adding more water a few drops at a time until the dough comes together."
+        },
+        {
+          "id": 2,
+          "text": "Gently gather dough particles together into a ball. Wrap in plastic wrap, and chill for at least 30 minutes before rolling."
+        },
+        {
+          "id": 3,
+          "text": "Roll out dough, and put in a pie plate. Fill with desired filling and bake."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Basic Flaky Pie Crust",
+        "datePublished": "1998-04-25T16:32:34-04:00",
+        "dateModified": "2026-08-25T16:06:34-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Stephanie"
+          }
+        ],
+        "description": "Flaky, flaky, flaky. Cold vegetable shortening and ice water do the trick to make this classic crust true to its name.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/vIS0FKuZ4_lVFkqlARpB8z9V1oo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1856550-28c95aa8542744369aa5df195efe5388.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/Qt4YutaS-ma1DlVvV.mp4",
+          "description": "AR0302",
+          "duration": "PT2M",
+          "name": "Basic Flaky Pie Crust",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Qt4YutaS/poster.jpg?width=1280",
+          "uploadDate": "2021-07-02T01:48:22-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Basic Flaky Pie Crust",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "1852"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "184 kcal",
+          "carbohydrateContent": "15 g",
+          "fiberContent": "1 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "73 mg",
+          "sugarContent": "0 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Pie"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.25 cups all-purpose flour",
+          "0.25 teaspoon salt",
+          "0.5 cup shortening, chilled",
+          "3 tablespoons ice water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk the flour and salt together in a medium size bowl. With a pastry blender, cut in the cold shortening until the mixture resembles coarse crumbs. Drizzle 2 to 3 tablespoons ice water over flour. Toss mixture with a fork to moisten, adding more water a few drops at a time until the dough comes together."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Gently gather dough particles together into a ball. Wrap in plastic wrap, and chill for at least 30 minutes before rolling."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/vIS0FKuZ4_lVFkqlARpB8z9V1oo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1856550-28c95aa8542744369aa5df195efe5388.jpg"
+              }
+            ],
+            "text": "Roll out dough, and put in a pie plate. Fill with desired filling and bake."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 pie crust"
+        ],
+        "totalTime": "PT0M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mollycurls77"
+            },
+            "reviewBody": "I gave the dry ingredients and the shortning a whiz in my food processor until it formed a small crumb, then poured this into a bowl and added the water. This dough was so easy to work with. I'm so impressed with myself...the dough was delightfully flaky. I've always stayed away from making pie crust...but no more!! Peach season is just starting here and i can't wait to try my hand at a pie with this dough! Thank you Stephanie!! UPDATE: Since writing my review six months ago, I've gained a reputation for my flaky pie crust. I've been asked numerous times to make pies for gatherings. For people who have problems with this recipe, here are a few suggestions: Add an extra tbsp of water to the mixture, roll the dough between 2 pieces of waxed paper to prevent sticking and for easy transfer, and even though the recipe says to chill the dough, you don't have to. I've been working with this dough without chilling it, and I find it turns out even flakier, and is so easy to work with. Hope this helps!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "After 50 years of baking pies and after trying countless new pie crust recipes, I think I may have found another favorite! Sure, I used half butter/half shortening, and sure, there are other fine recipes (as well as some real dogs!), but this one is the first that worked this well for me using the food processor. Easy to roll out too. I just might find myself making more pies now! And just as the submitter claimed, this really IS a flaky crust, but she forgot to mention how tender it is! This one's a winner.",
+            "datePublished": "2013-04-29T19:44:09.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katie"
+            },
+            "reviewBody": "First, I made it exactly as directed. It was really good as far as texture went, but the flavor left something to be desired. Definitely better suited to savory pies. \n\nI now either make it with butter, or a butter-shortening blend. Flavor and texture are fantastic.\n\nForgive me if this tip has already been mentioned, I can't see the reviews on my phone: put your ice water in a spray bottle. The moisture will be perfectly dispersed, no concentrated spots where you would otherwise drizzle water, and no overworking the dough trying to get the drizzled water to make one cohesively moistened ball.",
+            "datePublished": "2015-05-17T19:19:48.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel Quintero"
+            },
+            "reviewBody": "I used butter. I gradually pulsed the flour, salt and cut up cold butter in my processor. Then gradually added ice water. To not over work, I dumped it on the counter when it looked kind of like cornmeal in the processor. Pulled it together and it was perfect. Rolled out beautiful. \n\n*For those that have issues rolling the dough out - whether you use the crisco or butter, it needs to be cold and so does the water.",
+            "datePublished": "2017-07-17T01:20:33.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wyth Lovy"
+            },
+            "reviewBody": "Wonderfull recipe. I use Blue Bonnet put the stick in the freezer,and use I cold milk (place milk in freezer)and then follow direction of 1 member to make the pie size of the shorten and flour in the food processor. After the food processor in a stainless steel cold bowl, put the pea size mixture in bowl, and add ice cold milk slowly until mixture was mix. Place dough in side a olive oil greased ziplock bag. Place bag in freezer for 40 minutes.I could see the frozen margarine bits. Roll out dough. Pie crust came out very flakey.",
+            "datePublished": "2012-10-07T20:39:10.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Blanche Duff Treece"
+            },
+            "reviewBody": "Have used this several times and it always comes out great! I do use unsalted butter in my crust though. I always freeze my butter and then shred it with a grater. Got that tip from a pastry baker and it makes blending the butter in so much easier! The only draw back is my husband now only wants home made pie crust!",
+            "datePublished": "2018-10-14T22:19:13.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aaron A"
+            },
+            "reviewBody": "Its a decent pie crust nothing too special. Had to use butter after over working the first attempt with shortening. Word to the wise, when using a food processor make sure you only use the pulse button to have the best chance at not making the crust sticky and overworked. It should look crumbly and dry but stick and clump when squeezed or pressed with hand. If its holding together already without touching it try again. Im not a crust making expert, this is just a summary of my researching online. I did brush milk on this crust and give a sugar sprinkle all over because I find most pie crust boring. The sugar helped a tiny bit but maybe needed more than a sprinkle. Used for sweet potato pie and was a good combo.",
+            "datePublished": "2017-10-30T01:03:13.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nightskyyes"
+            },
+            "reviewBody": "I am a novice in the kitchen and following this recipe yielded amazing pie. I doubled the recipe, subbed in butter, used the food processor to blend the butter and flour, made sure my ingredients stayed as cold as possible, used probably 5 tablespoons of iced water (very gently mixed in), and baked it in a glass dish at 375 for around 50 minutes. The resulting crust was savory and flaky and a great balance to my sweet pie filling. I got a ton of compliments and a new found sense of baking confidence.",
+            "datePublished": "2012-06-18T11:45:45.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidi Lee"
+            },
+            "reviewBody": "Very easy pie crust. Used the food processor and it's ready to refrigerate (the longer the better) in minutes. I used butter instead of shortening.",
+            "datePublished": "2020-04-03T23:00:12.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Korpak Bechtel"
+            },
+            "reviewBody": "Best pie crust recipe I’ve ever made! It makes a single crust, so double it if for a top crust if needed. I make it in my food processor and it takes only 2 to 3 minutes. Chilling it it essential, and I lightly flour the silicone mat and rolling pin before rolling it out. It is a generous amount of dough allowing for a 10” pie and a lovely crimped crust. Before adding filling I bake 15 min. at 350F to ensure a flaky crust across the bottom. Flaky, buttery, and delicious!",
+            "datePublished": "2019-02-17T23:59:58.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vick Chick"
+            },
+            "reviewBody": "WOW! Simple &amp; tasty!!! I've never made pie before but we recently went apple picking &amp; my family wanted homemade apple pie. I couldn't believe how simple this crust was! I used butter instead of shortening (I never use shortening 'cuz it looks gross, like something that came out of a clogged artery [and probably would some day]!). DOUBLE FOR 1 PIE IF YOU WANT TOP LAYER! To double add: 2 1/2 cups flour, 1/2 teas salt, 1 cup chilled butter and 1/4 cup AND 2 tbs ice water (based on GingerB's 9/03 rating). This one is a keeper for me! I'm not much of a sweet eater so I'd love to try it with a homemade pot pie too. :o]",
+            "datePublished": "2013-10-17T08:13:22.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CleverChop9254"
+            },
+            "reviewBody": "I swapped out the regular Crisco for Butter flavored Crisco. The pie crust was so buttery and flaky. I wish I could rate this recipe with twenty stars. This crust recipe is that good.",
+            "datePublished": "2025-06-02T16:29:26.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedAhi7465"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-05-01T22:10:02.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Liz Lambrakos Bastian"
+            },
+            "reviewBody": "Super easy and crust turned out great. Exactly what I was looking for. Nothing extra and everything I needed. I used real lard instead of shortening and it worked great. Enough crust for one pie.",
+            "datePublished": "2024-12-01T15:28:39.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natasha"
+            },
+            "reviewBody": "350 for 30min if baking by itself bottom crust only",
+            "datePublished": "2024-03-31T01:05:25.951Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mame"
+            },
+            "reviewBody": "I liked it, but I used butter, which I feel made it a 5 star crust",
+            "datePublished": "2023-11-23T20:11:45.219Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pandcmom"
+            },
+            "reviewBody": "I have made this crust before and it is easy, flaky and perfect. Don't be afraid to make this crust ! NOTE: if you use crisco sticks, they are NOT the same measure as a stick of butter. I am a dork and details matter (cue a big, floury face palm - LOL)",
+            "datePublished": "2023-09-24T23:08:17.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "maryk"
+            },
+            "reviewBody": "Turned out amazing! The first time I ever made a pie crust was with this recipe and it impressed the family.",
+            "datePublished": "2023-04-29T23:07:52.112Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HotKelp2842"
+            },
+            "reviewBody": "Super easy, very nice crust.",
+            "datePublished": "2022-08-02T01:45:56.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NimbleLime6372"
+            },
+            "reviewBody": "This is the same pie crust recipe my mom and grandma used and they both made the best pie crusts ever! My mom always had very cold hands and she said that was her secret to a flaky crust. I recommend keeping the shortening in the freezer and make sure the water is ice cold. It doesn't hurt to dip your hands in ice water before handling the dough and handle the dough as little as possible. After my mom died, I made a pecan pie for my dad using this recipe and he cried because he said it was as good as my mom's. That was best compliment ever!",
+            "datePublished": "2022-06-12T06:18:22.506Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12133/basic-flaky-pie-crust/",
+          "name": "Basic Flaky Pie Crust",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/818/desserts/pies/pie-crusts/",
+                  "name": "Pie Crusts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17716/desserts/pies/pie-crusts/pastry-crusts/",
+                  "name": "Pastry Crusts"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

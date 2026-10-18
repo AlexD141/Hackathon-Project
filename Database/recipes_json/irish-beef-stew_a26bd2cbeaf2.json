@@ -1,0 +1,481 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/100839/irish-beef-stew/",
+  "extracted_at": "2026-10-18T01:40:27.927880+00:00",
+  "recipes": [
+    {
+      "name": "Irish Beef Stew",
+      "ingredients_raw": [
+        "2 tablespoons olive oil",
+        "3 tablespoons all-purpose flour",
+        "2 pounds beef chuck, cut into 1 1/2-inch cubes",
+        "1 pound carrots, peeled and cut into 1-inch chunks",
+        "6 large potatoes, peeled and cut into large chunks",
+        "1 white onion, cut into large chunks",
+        "2 cloves garlic, minced",
+        "2 cups beef broth",
+        "1 (6 ounce) can tomato paste",
+        "1 (12 fluid ounce) can or bottle Irish stout beer (e.g. Guinness(r))",
+        "1 tablespoon cold water",
+        "1 tablespoon cornstarch"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in a large skillet over medium heat. Toss beef cubes with flour to coat, then fry in the hot oil until browned."
+        },
+        {
+          "id": 3,
+          "text": "Place carrots, potatoes, onion, and garlic into a large slow cooker; place browned beef on top of vegetables. Mix beef broth and tomato paste together until combined; pour into the slow cooker along with beer."
+        },
+        {
+          "id": 4,
+          "text": "Cover and cook on High for 6 hours or Low for 8 hours. During the last hour before serving, dissolve cornstarch in cold water and stir into broth. Simmer on the High setting for a few minutes to thicken. Serve hot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Irish Beef Stew",
+        "datePublished": "2020-02-01T02:50:43-05:00",
+        "dateModified": "2026-04-22T14:14:26-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "ONEHOTMAMA9"
+          }
+        ],
+        "description": "This hearty Irish beef stew has tender chunks of beef and vegetables slow-cooked in a rich and flavorful Guinness sauce for an incredibly delicious meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/GE1RyY9-ujSK9h1sshFbt5jqPIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-063-4x3-4fd29bf668ab490e8132e446d69277af.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Irish Beef Stew",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "143"
+        },
+        "cookTime": "PT360M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "597 kcal",
+          "carbohydrateContent": "63 g",
+          "cholesterolContent": "82 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "498 mg",
+          "sugarContent": "8 g",
+          "fatContent": "27 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Irish"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons olive oil",
+          "3 tablespoons all-purpose flour",
+          "2 pounds beef chuck, cut into 1 1/2-inch cubes",
+          "1 pound carrots, peeled and cut into 1-inch chunks",
+          "6 large potatoes, peeled and cut into large chunks",
+          "1 white onion, cut into large chunks",
+          "2 cloves garlic, minced",
+          "2 cups beef broth",
+          "1 (6 ounce) can tomato paste",
+          "1 (12 fluid ounce) can or bottle Irish stout beer (e.g. Guinness(r))",
+          "1 tablespoon cold water",
+          "1 tablespoon cornstarch"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/jE46lEEaRAEGrT_iQFbc0Bo4wfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-006-step-01-3fe3745288d243d98fc5bebd6a0e6786.jpg"
+              }
+            ],
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YfRgm3h1nu6wQS224xmS2qMIVFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-010-step-02-edcbd4f02e98430ea16532620840f0ba.jpg"
+              }
+            ],
+            "text": "Heat oil in a large skillet over medium heat. Toss beef cubes with flour to coat, then fry in the hot oil until browned."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hr6mWIbvxB3A5hSXGtMuCL4Spa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-012-step-03-de54351e08484c89ba37d6c88c27f89a.jpg"
+              }
+            ],
+            "text": "Place carrots, potatoes, onion, and garlic into a large slow cooker; place browned beef on top of vegetables. Mix beef broth and tomato paste together until combined; pour into the slow cooker along with beer."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/DUzWfKw_gSxjj1Og-ZlyHHaYQBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-048-step-04-e2709275b6504c4ab29102eb9788b862.jpg"
+              }
+            ],
+            "text": "Cover and cook on High for 6 hours or Low for 8 hours. During the last hour before serving, dissolve cornstarch in cold water and stir into broth. Simmer on the High setting for a few minutes to thicken. Serve hot."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT390M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mayelle"
+            },
+            "reviewBody": "We have just finished this stew, I was going to take a picture but it didn't last long enough for that! I took other reviewers advice and added spices. I added about two tablespoons of rosemary, a tsp of garlic, tsp of parsley, salt and pepper, a teeeny sprinkle of thyme and a half teaspoon of italian seasoning.Thank you for the recipe :)\n\nOh also...I kinda started it wrong. I cooked the meat as said, and then I put it in water with four oxo cubes...then let it all soak for about an hr on low heat since I was cooking it on the stove. then I added my potatoes I used baby new potatoes so I didn't have to peel (ha!) then I mixed the tomato paste with some water and another oxo cube, then added it to the stew then finally added the can of beer.\n\nWill defo...DEFO be making this again. Thank you again!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Roberson"
+            },
+            "reviewBody": "I made some changes though.\n\n1) I didn't have any stout (apparently I got drunk last night.) but I did have a bottle of Red Hook Audible. (Slightly hoppy lighter ale.)\n\n2) I don't peel potatoes. I like the peels, and it seems pointless/wasteful. I cut them into thick slices.\n\n3) I doubled the broth.(On accident. Slightly hung over.)\n\n4) I made a dark roux instead of using cornstarch. This gave it a slight roasted nutty flavor. I added this about an hour prior to finish.\n\n5) I put a dash of liquid smoke in there. \n\nThe stew came out awesome. I cooked it for 6 hours on high in the crock pot. The changes I made, like all changes, were due to preference and necessity. Many times when I am looking for a recipe, I don't want to run to the store and so I make substitutions. I think the spirit of the recipe remained intact, and this stew has a strong spirit indeed.",
+            "datePublished": "2013-07-14T11:59:39.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JWollenman"
+            },
+            "reviewBody": "Good recipe, but could use some changes. Half as many potatoes, more liquid, and some spices. I added a sprig each of fresh chopped rosemary and thyme.\nAlso, make sure you mix the beef broth and tomato paste in the same pan you browned the beef in. Make sure to scrape off all the remnants of the browning and mix in with the broth, adds a lot of flavor to the stew.",
+            "datePublished": "2013-03-17T11:55:40.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wisweetp"
+            },
+            "reviewBody": "I finely chopped a bit of bacon, browned it, and removed to brown the beef in the bacon drippings. And I used about 3 TBS tomato paste. I brought to a simmer on the stovetop and then cooked in 350-degree oven for about 2 hours. My stew was very thick without the cornstarch, and I don't care for that texture in my soupts and stews, so I omitted. It was so thick that I actually needed to add a splash more beef broth, and I also added a splash of Guinness (just to reinforce the flavor a bit) and some frozen peas when I removed from the heat. Oh, and to make sure the stew wasn't bitter from the Guinness, I added about a TBS of minced raisins before putting in the oven. It may not be traditional, but it's perfect for us and very good on a cold rainy day.",
+            "datePublished": "2011-03-22T14:46:16.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jann Geyer"
+            },
+            "reviewBody": "My sweetie said no beer, and the kids said no tomato paste, so I am not sure this even counts as Irish Stew. I also used chicken broth as the liquid, halved the recipe, doubled the onions, and quadrupled the garlic. After browning the meat, a boneless chuck recommended by the butcher, and sauteeing all the veggies in butter, I boiled the stew on high for two hours and simmered on low for four more. I will likely make it again, though I would like to try the beer/tomato paste broth.",
+            "datePublished": "2016-09-02T22:48:55.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RJrecipes77"
+            },
+            "reviewBody": "This was great. It is worth the extra few steps to brown the meat prior to crock potting. Only changes I made was to saute the onion and garlic before searing the beef and used 4 potatoes instead of 6 as my crockpot was getting full. Lastly. I didn't have cornstarch so I substituted flour instead. Definitely going to keep this one!",
+            "datePublished": "2019-09-18T02:24:55.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nicole May Bath Brannon"
+            },
+            "reviewBody": "Totally authentic! Tastes just like the Irish Stew we ate at the Bleeding Horse in Dublin, Ireland. Added 1tsp of rosemary, 2tsp of Worcestershire Sauce and seasoned the beef with salt and pepper when coating it with the flour. I also added an additional 1 cup of Beef Broth because it was too thick, as well as a Knorr Beef Stock tub.",
+            "datePublished": "2013-09-08T18:05:25.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Denise"
+            },
+            "reviewBody": "instead of putting in slow cooker for 6-8 hrs I put in my pressure cooker for 6 minutes (everything else the same). It was delicious!",
+            "datePublished": "2019-03-14T12:41:02.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Pope"
+            },
+            "reviewBody": "The recipe was really easy. Didn’t use too much stout. I used russet potatoes, but that was my mistake because it left a really earthy aftertaste. Also wouldn’t do HIGH for 6hrs (instead, maybe 5.5hrs) due to potato getting too soggy. Besides that, it was really great!",
+            "datePublished": "2024-09-03T03:22:43.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathal"
+            },
+            "reviewBody": "This was excellent. I marinated the beef overnight in guinness and soy sauce. Otherwise, I followed the recipe, only adding more broth, and it worked out great. Highly recommended recipe!",
+            "datePublished": "2016-08-28T15:34:11.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachael"
+            },
+            "reviewBody": "Really great stew, however transformed it more into a french stew by replacing the beer with red wine, and adding parsley. Also I took out veggies and meat at the end, placed it in a serving dish and then boiled down/thickened the remaining liquid to pour over the stew. Delicious.",
+            "datePublished": "2010-10-04T14:07:36.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pauldaidone"
+            },
+            "reviewBody": "Excellent. Not much effort. Family loved it. Served with egg noodles.",
+            "datePublished": "2026-02-05T21:10:15.466Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Riva Krow"
+            },
+            "reviewBody": "If you are a lover of Irish cuisine this is dish is definitely worth it. This was a fantastic tasteful dish and worth all the time preping for it. Plan to add this to my list of top favorites to make again. The recipe called for beef broth but I went with Bone-In Beef Broth instead and it gave the dish more of a richer flavor and if you are not a big stout drinker I HIGHLY recommend using root beer as a substitute. I used A&amp;W and it tasted delicious.",
+            "datePublished": "2025-03-17T12:15:09.249Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "brianpeck3"
+            },
+            "reviewBody": "I added some whole cloves, whole peppercorns and 2 bay leafs. I also added 2 stalks of sliced celery. Try adding a bit of brown sugar to add a little sweet flavor for the gravy. I used baby carrots with red and white baby potatoes to make it easier too. Important to note: do not use Guinness extra stout, use the draught stout. The extra stout is bittersweet.",
+            "datePublished": "2025-01-26T14:22:33.969Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike K"
+            },
+            "reviewBody": "I needed to tweak this recipe at the end with numerous seasonings because the tomato paste was overpowering all other flavors. Next time I will use very little or no tomato paste. I also left out the potatoes from the stew and poured the finished stew over mashed potatoes since that’s how it was served to me when visiting Ireland.",
+            "datePublished": "2024-10-30T00:44:22.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Peters Hamby"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-03T16:28:03.972Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "babsiren"
+            },
+            "reviewBody": "This is a great stew, very flavorful and easy to make.",
+            "datePublished": "2024-02-10T01:51:14.964Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "razoo424"
+            },
+            "reviewBody": "made some small changes...salt and peppered the meat....instead of guinness used half a tall boy can of Dales Pale Ale IPA....added a 1/2 of a cup water half way through...cooked in a dutch oven over 2.5 hrs....served over Egg noodles...delish",
+            "datePublished": "2019-10-27T23:31:34.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Channan"
+            },
+            "reviewBody": "Yummy! Big hit at an International themed potluck. I added parsnips for fun. Husband loved the flavor added by the Guinness!",
+            "datePublished": "2019-08-12T09:21:38.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "J2207"
+            },
+            "reviewBody": "Great recipe.\nUsed pre-minced garlic. Cut back a little on the other garlics, slightly less amount of Worcheshire and added finally diced 1/4 cup celery and a few more ounces of Guiness.\nOur guests (10 people) consumed the whole pot.",
+            "datePublished": "2019-03-22T22:22:36.807Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/100839/irish-beef-stew/",
+          "name": "Irish Beef Stew",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+                  "name": "Stews"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1785/soups-stews-and-chili/stews/irish-stew/",
+                  "name": "Irish Stew Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

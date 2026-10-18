@@ -1,0 +1,469 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216805/pan-fried-brussels-sprouts/",
+  "extracted_at": "2026-10-18T03:00:52.442695+00:00",
+  "recipes": [
+    {
+      "name": "Pan Fried Brussels Sprouts",
+      "ingredients_raw": [
+        "1 tablespoon olive oil",
+        "2 teaspoons crushed garlic",
+        "0.25 white onion, chopped",
+        "1 pound trimmed Brussels sprouts",
+        "salt and ground black pepper to taste",
+        "1 pinch garlic powder, or to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Heat olive oil in a cast-iron skillet over medium-low heat. Add garlic and stir until golden brown and fragrant, about 2 to 3 minutes. Add onion and cook until soft, stirring often, about 5 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Add Brussels sprouts and cook until one side of the sprouts turns golden brown, 5 to 7 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir to turn sprouts over and cook until evenly golden brown, another 5 to 7 minutes. Season with salt, black pepper, and garlic powder."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pan Fried Brussels Sprouts",
+        "datePublished": "2019-04-02T02:54:38-04:00",
+        "dateModified": "2025-11-30T15:59:54-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Connie Fabian Byrnes"
+          }
+        ],
+        "description": "These fried Brussels sprouts are cooked in hot olive oil with onion and garlic until they turn golden brown with a sweet, nutty flavor and crispy edges.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/qKZRKo4nzBBXOG6VGX9Nvamaj8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216805-pan-fried-brussels-sprouts-ddmfs-hero-4x3-2794-e90017a598cf4324b00655092bdc2249.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pan Fried Brussels Sprouts",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "95"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "87 kcal",
+          "carbohydrateContent": "12 g",
+          "fiberContent": "5 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "29 mg",
+          "sugarContent": "3 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon olive oil",
+          "2 teaspoons crushed garlic",
+          "0.25 white onion, chopped",
+          "1 pound trimmed Brussels sprouts",
+          "salt and ground black pepper to taste",
+          "1 pinch garlic powder, or to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bVgEAhT6QJY7f6sHWs2R0PscfwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216805-pan-fried-brussels-sprouts-ddmfs-4x3-01-2769-60851a4fa3fd4743b50f81e115dc5fbd.jpg"
+              }
+            ],
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/VqciD2hdD4hLw3RpqbXSJw_q-z0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216805-pan-fried-brussels-sprouts-ddmfs-4x3-03-2772-bc6c8be356b848a3bfa64be78a9e26c3.jpg"
+              }
+            ],
+            "text": "Heat olive oil in a cast-iron skillet over medium-low heat. Add garlic and stir until golden brown and fragrant, about 2 to 3 minutes. Add onion and cook until soft, stirring often, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/5BCBAI17s7iKnA1rw-5mN_F2rJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216805-pan-fried-brussels-sprouts-ddmfs-4x3-05-2774-5c3215da07aa4dbf99b9ce62f3253be8.jpg"
+              }
+            ],
+            "text": "Add Brussels sprouts and cook until one side of the sprouts turns golden brown, 5 to 7 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gprxpQz4HiK1njIftKlyeF8qEtQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216805-pan-fried-brussels-sprouts-ddmfs-4x3-06-2775-20fc001064a64cd6a72beffd4c518e50.jpg"
+              }
+            ],
+            "text": "Stir to turn sprouts over and cook until evenly golden brown, another 5 to 7 minutes. Season with salt, black pepper, and garlic powder."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leslie"
+            },
+            "reviewBody": "I have not tried adding onions, but another variation is to thinly slice fresh brussels sprouts (I use a food processor) and then stir fry rather than saute with the olive oil and garlic. You can also drizzle in some teriyaki for a more oriental flavor."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOLLE888"
+            },
+            "reviewBody": "These were good sprouts! I cut them in half to shorten cooking time, and I threw everything into the pan at once (I don't like my garlic to darken that much). At the end I sprinked the sprouts with Parmesan cheese.",
+            "datePublished": "2011-05-18T09:48:59.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Zobava"
+            },
+            "reviewBody": "No. This recipe is backwards. By the time the Brussel sprouts are done the onion is burned to a crisp. Brussel sprouts should be cooked first until almost done then add onion for about 5 minutes and then garlic for last 2 minutes.",
+            "datePublished": "2018-11-03T00:53:45.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betty Larrison"
+            },
+            "reviewBody": "I did olive oil generous amount, I then cut the brussels sprouts the stem came off if were to big I cut in half fried in pan, maybe 20 mins added onions garlic and TBS of bacon grease then I put a lid on it cooked till my desire salt and pepper , they were delicious and will be making again hope this helps",
+            "datePublished": "2025-01-10T22:01:22.578Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janmauss"
+            },
+            "reviewBody": "Super simple, fast, and delicious. Comments include some good ideas, but this one is perfect for me. I prefer it to recipes that included shredded sprouts as we enjoy the mouth feel of a more identifiable sprout. I did use a lid as suggested by another commentor to steam the sprouts to be more tender and the 2nd time, used some shredded Parm as a garnish.",
+            "datePublished": "2025-12-16T16:09:58.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ben"
+            },
+            "reviewBody": "Start with the onions, then add the garlic or the garlic will burn.",
+            "datePublished": "2026-01-21T17:45:12.156Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angel Lotus Song"
+            },
+            "reviewBody": "Very tasty! I added the garlic and onion at the same time as my Brussel sprouts and my onions still ended up a bit burnt but I still liked it. Also added some white cooking wine to the mix and steamed them a bit. I also cut them into quarters so they would cook faster.",
+            "datePublished": "2018-01-05T06:13:52.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andrew Fuller"
+            },
+            "reviewBody": "I omit the onion, use a large paella pan so I can get every cut side touching the surface for maximum roastiness, and add crushed red pepper and a drizzle of truffle oil at the finish. Not at all undelicious.",
+            "datePublished": "2016-01-20T19:12:12.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jenonymous"
+            },
+            "reviewBody": "Really good! I liked doing these on the cooktop, because my oven was busy with Chicken Parmesan Bake (Chef John!), and I needed to use the Brussels Sprouts before I had to throw them away. I did them in cast iron, and I put the garlic in at the same time as the sprouts so I didn't burn it. I used the trick with the water and the lid because the onions were burning and the sprouts weren't cooking very fast, and that evened things out nicely! My daughter's boyfriend had never had them before, and said they were delicious. I thought so too!",
+            "datePublished": "2014-01-15T16:22:30.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LoyalBroth4594"
+            },
+            "reviewBody": "As others have mentioned the sprouts aren't tender if you follow this recipe exactly. I had an instinct, and it was confirmed when I compared another recipe which advised after pan-frying a bit--cover/with a low flame for approx. 15 minutes",
+            "datePublished": "2023-04-05T02:03:49.037Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Godsgood"
+            },
+            "reviewBody": "The garlic cooks much faster than 3 minutes, and I'd add the Brussels sprouts earlier. Also, covering the pan with a lid helps them cook through faster. I left out the garlic powder - it was delicious enough as it is (fresh garlic - so much better).",
+            "datePublished": "2016-03-22T20:09:20.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chrisl"
+            },
+            "reviewBody": "My family loved this recipe!",
+            "datePublished": "2026-01-21T14:51:08.941Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "davidsf"
+            },
+            "reviewBody": "I add a bit of balsamic vinegar.",
+            "datePublished": "2025-12-16T19:02:57.405Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Liesa"
+            },
+            "reviewBody": "I ADDED A CLOVE OF GARLIC",
+            "datePublished": "2025-12-16T16:04:54.564Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestBean8612"
+            },
+            "reviewBody": "Brussels sprouts FIRST must be boiled with some sugar - to soften them and to cover its bitterness; no way you can eat them after ~10 minutes of frying.",
+            "datePublished": "2025-02-18T20:04:16.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gloria Guerra"
+            },
+            "reviewBody": "Love it simple side dish easy for teens to do ....",
+            "datePublished": "2025-01-23T17:31:25.529Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fran Crew"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-27T20:05:03.702Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LushTaco9879"
+            },
+            "reviewBody": "Very simple &amp; easy to follow",
+            "datePublished": "2024-11-23T01:05:32.044Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Wood"
+            },
+            "reviewBody": "2-3 T Balsamic vinegar Let it cook off.",
+            "datePublished": "2024-04-26T22:00:41.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkyYam2605"
+            },
+            "reviewBody": "this a amazing recipe and I will recommend this to anyone",
+            "datePublished": "2023-10-06T13:32:54.269Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216805/pan-fried-brussels-sprouts/",
+          "name": "Pan Fried Brussels Sprouts",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/920/side-dish/vegetables/brussels-sprouts/",
+                  "name": "Brussels Sprouts"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

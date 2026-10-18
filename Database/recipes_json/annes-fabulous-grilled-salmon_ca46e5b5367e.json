@@ -1,0 +1,476 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/116006/annes-fabulous-grilled-salmon/",
+  "extracted_at": "2026-10-18T01:47:00.253780+00:00",
+  "recipes": [
+    {
+      "name": "Anne&#39;s Fabulous Grilled Salmon",
+      "ingredients_raw": [
+        "0.33333334326744 cup chopped fresh basil leaves",
+        "2 tablespoons honey",
+        "1 lemon, juiced",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon soy sauce",
+        "1 tablespoon finely chopped shallots",
+        "1 teaspoon Worcestershire sauce",
+        "0.5 teaspoon grated fresh ginger root",
+        "1 (3 pound) salmon fillet, with skin"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Double up layers of aluminum foil to make a &#34;pan&#34; large enough to hold salmon fillet; place onto a baking sheet. Arrange fillet, skin-side down, in foil &#34;pan.&#34;"
+        },
+        {
+          "id": 3,
+          "text": "Whisk basil, honey, lemon juice, oil, soy sauce, shallots, Worcestershire sauce, and ginger together in a small bowl until combined; pour over salmon fillet and marinate for about 20 minutes. Meanwhile, preheat an outdoor grill for medium-low heat."
+        },
+        {
+          "id": 4,
+          "text": "Slide the foil pan holding salmon fillet off the baking sheet onto the preheated grill. Grill, covered, until salmon flakes easily with a fork, but not too dry, 10 minutes per inch of thickness, about 20 minutes. Slice fillet, using a spatula to scoop fillet off the skin. The skin will stick to the foil and your grill will remain clean."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Anne&#39;s Fabulous Grilled Salmon",
+        "datePublished": "2019-04-02T02:48:32-04:00",
+        "dateModified": "2026-06-17T12:47:08-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Esmee Williams"
+          }
+        ],
+        "description": "This king salmon recipe includes a deliciously savory lemon and herb marinade and grills the fish in foil until deliciously moist, tender, and flaky.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/TDPawVs5pJCckJObU8tn60-mHh8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/116006-Annes-Fabulous-Grilled-Salmon-DDMFS-4x3-97403a87fdaa461d9295642349d50100.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Anne&#39;s Fabulous Grilled Salmon",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "128"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "432 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "154 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "49 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "278 mg",
+          "sugarContent": "6 g",
+          "fatContent": "22 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "U.S.",
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.33333334326744 cup chopped fresh basil leaves",
+          "2 tablespoons honey",
+          "1 lemon, juiced",
+          "1 tablespoon vegetable oil",
+          "1 tablespoon soy sauce",
+          "1 tablespoon finely chopped shallots",
+          "1 teaspoon Worcestershire sauce",
+          "0.5 teaspoon grated fresh ginger root",
+          "1 (3 pound) salmon fillet, with skin"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/U1nXyhA6DK1f_gzUznX9xRZ0Mqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/116006-Annes-Fabulous-Grilled-Salmon-DDMFS-Step-01-d3902e3bdf0a4ac396a3072781dde5d8.jpg"
+              }
+            ],
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3q5sYrVP767A7S58pCGHkLxbpMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/116006-Annes-Fabulous-Grilled-Salmon-DDMFS-Step-02-2bd95c8958a94283af7a13e8f04225e9.jpg"
+              }
+            ],
+            "text": "Double up layers of aluminum foil to make a &#34;pan&#34; large enough to hold salmon fillet; place onto a baking sheet. Arrange fillet, skin-side down, in foil &#34;pan.&#34;"
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/uL5FWqa2s3ndHeauPdeC9cCRiX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/116006-Annes-Fabulous-Grilled-Salmon-DDMFS-Step-03-cb24873cc71b4830adf9fb1c17f15215.jpg"
+              }
+            ],
+            "text": "Whisk basil, honey, lemon juice, oil, soy sauce, shallots, Worcestershire sauce, and ginger together in a small bowl until combined; pour over salmon fillet and marinate for about 20 minutes. Meanwhile, preheat an outdoor grill for medium-low heat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/r_kseiqIbPxVednEQSnqy67vqXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/116006-Annes-Fabulous-Grilled-Salmon-DDMFS-Step-05-3cfaf79099c04767b29325a8e8394067.jpg"
+              }
+            ],
+            "text": "Slide the foil pan holding salmon fillet off the baking sheet onto the preheated grill. Grill, covered, until salmon flakes easily with a fork, but not too dry, 10 minutes per inch of thickness, about 20 minutes. Slice fillet, using a spatula to scoop fillet off the skin. The skin will stick to the foil and your grill will remain clean."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "trsturself"
+            },
+            "reviewBody": "This was excellent. I'm not a big fish eater but it came out great. Changes: more honey, marinate longer than 20 min!, reserved the marinade boiled it and served it as a sauce.\nWould definitely make again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mifflin"
+            },
+            "reviewBody": "Just made this tonight with salmon caught and frozen in Alaska by a guy who comes to our farmers market. Marinated about 40 min. which gave it nice flavor. Didn't have fresh basil, so used 1 Tbsp of dried basil, and no shallots, so used 1/2 Tbsp of dried minced onion. \nUsed a Thermapen to take it off the grill at just over 120 F, which was perfect. Sockeye can get tough if cooked too long.\n\nUsed 2 layers of heavy foil for the \"pan\" and that meant it was cooking in the marinade. Thus, the skin did not stick to the foil, but was easy to slip off on the plate (tho less appetizing, of course). \n\nAdded to my favorites to make again.",
+            "datePublished": "2014-06-15T19:43:23.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Samsangel"
+            },
+            "reviewBody": "I made some substantial changes for this dish. Namely I did not grill the salmon or put the sauce on the salmon. I actually used the sauce on the vegetables I sauteed and thickened it with a roux. \n\n1. Pre-Heat oven to 425° F.\n\n2. Follow the above recipe for the sauce.\n\n3. Placing Salmon on wire racks over a baking sheet, season to taste with salt, pepper and dill weed. Then place in oven. Depending on the size of the salmon you may need 10-15 min per side.\n\n4. Cook rice as instructed on the package you use.\n\n6. In the sauté pan, heat up 2 tbsp oil then add the firmer veggies (I used shredded carrots, celery, onion, zucchini, mushroom and bell pepper - season with a little salt, pepper and ground ginger) cook about 5 minutes or until the onions are translucent. Add the zucchini (watery veggies like squash, zucchini, etc. tend to get too soft when sauteed for too long). Add in the 2 tbsp butter and let it melt. Then add 2 tbsp corn starch to create the roux before adding in the sauce from step two. Mix until sauce has thickened and coated vegetables.",
+            "datePublished": "2021-02-19T03:49:05.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Akleolee"
+            },
+            "reviewBody": "Made with salmon steaks. Deboned steaks. Marinaded following recipe but for 1.5-2 hrs. Cooked at 400 degrees for 15 minutes in glass baking dish. Topping each steak with 1 tbls of butter. Super moist salmon.",
+            "datePublished": "2016-07-27T05:50:18.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelley W"
+            },
+            "reviewBody": "Ok, so I hit send too fast after thanking Anne for the inspirational recipe...Here's how I used her wonderful recipe as a base with modifications. I added a tablespoon of brown sugar, a teaspoon of red pepper flakes. I used minced Vidalia onions and ginger paste because that's what I had. I marinated for one hour and grilled on cedar planks. We were in heaven, so yum! Thanks, Anne!!",
+            "datePublished": "2017-09-24T18:27:41.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dolly"
+            },
+            "reviewBody": "Amazing taste. Used this recipe on the BBQ with cedar plank. Did not use basil but added Tarimd Sauce. Had Steelhead trout instead of salmon. Cooked one side only 15 mins. The most moist fish. Everyone at the party loved it.",
+            "datePublished": "2019-07-12T01:23:24.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rip57"
+            },
+            "reviewBody": "Have made this several times; I'm the Salmon King now; its saved on my phone so it's always with me in case I'm somewhere and it's needed fast to help in an emergency. I increase the liquid ingredients a bit to make more marinade and keep it moist while cooking. Once the meat thermometer hits 140 I take it off the grill and it ends up perfect and moist.",
+            "datePublished": "2016-11-23T20:16:40.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "maggie"
+            },
+            "reviewBody": "This was AMAZING! I made a pound of fish, but left the marinade measurements the same. I did marinate longer, as others recommended, probably about an hour or so. I used dried basil, rather than fresh (forgot to pick it up when I did the shopping), maybe two tablespoons. I also juiced only half the lemon, and sliced the rest and laid the slices over the fish as it grilled. Use thick foil to make the little boat, or double up the foil under the fish - my foil tore as I was putting it on the grill, and leaked some of the marinade out over the coals. We had this with grilled asparagus, and arborio rice pilaf - my husband was in rapture. Great recipe!",
+            "datePublished": "2013-06-14T10:19:22.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KatNip"
+            },
+            "reviewBody": "Great! I made extra marinade and added some corn starch, boiled and served over the fish... the family LOVED it!!!",
+            "datePublished": "2009-09-07T13:54:14.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rob Keyser"
+            },
+            "reviewBody": "Fixed this tonight, and though it took me a little while to prepare (I wasn't properly prepared), it turned out very well! Very tasty! I will definitely prepare this again. I had planned on grilling the salmon, but my grill ran out of gas during the pre-heat, so I broiled instead in the foil that the fillets were already in. The skin side seemed a little soggy, so next time I would flip them, peel the skin off and then broil for a few more minutes. I didn't use any shallots in the marinade, and I used about 1/2 of the basil. I also used olive oil instead of vegetable oil, teriyaki sauce since I didn't have any soy sauce, less worstershire sauce and more honey. I marinated for probably 25 minutes (my wife was hungry), but would probably do more. Rob",
+            "datePublished": "2014-03-29T19:48:55.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "penguin"
+            },
+            "reviewBody": "Loved this! Did not use honey (had none) and used a generic teriyaki sauce in place of soy sauce. Put the salmon filet in foil pouch and grilled it for approx. 5 minutes each side. Added a touch of butter after fish was plated and the taste was incredible. Served it with asparagas and corn on the cob. My husband, definitely NOT a fan of fish, asked for it again! Will positively share this with friends.\nThanks!",
+            "datePublished": "2007-05-25T17:27:19.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paul de Boer"
+            },
+            "reviewBody": "This method is basically steaming the fish. Not much color, sugars not caramelized. In general not enough flavor either.",
+            "datePublished": "2026-07-19T12:51:48.606Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TameZest8738"
+            },
+            "reviewBody": "I had great success using a homemade marinade with this grilled salmon recipe! The flavors blended perfectly, and the salmon turned out delicious. Definitely a keeper!",
+            "datePublished": "2025-06-18T02:27:44.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LisaAnn Eichenblatt"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-09-23T17:13:22.678Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NJtoAL"
+            },
+            "reviewBody": "I didn't have enough honey so I also added 2 Tbl. brown sugar. I also added a bit more ginger and a Tbl sweet onion. After marinating, I heated the extra sauce. Grade A",
+            "datePublished": "2024-08-22T00:46:59.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Adam"
+            },
+            "reviewBody": "Family liked it. So I guess it was good!",
+            "datePublished": "2023-12-21T00:50:28.012Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry Dobbs"
+            },
+            "reviewBody": "Only Grilled Salmon Recipe we ever use!!! Love love Love!",
+            "datePublished": "2023-07-08T20:11:00.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lalonnie Flanary"
+            },
+            "reviewBody": "Made Anne's wonderful salmon, that was purchased in the Pike Street Market. Delicious, moist and loved the taste of the BBQ grill. I added wood chips on the grill for smoke. Asparagus as side",
+            "datePublished": "2022-06-02T18:47:37.482Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Oscar Kelley"
+            },
+            "reviewBody": "Love the marinade, added cilantro",
+            "datePublished": "2021-07-20T02:22:39.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fruitdog"
+            },
+            "reviewBody": "This was tasty. I took suggestions and let the salmon marinate for a few hours and also left the skin on out of preference.",
+            "datePublished": "2020-10-02T19:06:18.573Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/116006/annes-fabulous-grilled-salmon/",
+          "name": "Anne&#39;s Fabulous Grilled Salmon",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13290/main-dish/seafood/",
+                  "name": "Seafood Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13293/main-dish/seafood/salmon/",
+                  "name": "Salmon"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15850/main-dish/seafood/salmon/salmon-fillets/",
+                  "name": "Salmon Fillet Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

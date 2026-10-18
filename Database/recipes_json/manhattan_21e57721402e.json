@@ -1,0 +1,380 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14891/manhattan/",
+  "extracted_at": "2026-10-18T02:02:36.888973+00:00",
+  "recipes": [
+    {
+      "name": "Manhattan",
+      "ingredients_raw": [
+        "2 fluid ounces bourbon",
+        "0.5 fluid ounce sweet vermouth",
+        "1 maraschino cherry",
+        "0.5 cup ice"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place ice into a shaker."
+        },
+        {
+          "id": 2,
+          "text": "Pour bourbon and vermouth over ice; shake well."
+        },
+        {
+          "id": 3,
+          "text": "Pour into a cocktail glass and garnish with a cherry."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Manhattan",
+        "datePublished": "1999-11-18T15:33:30-05:00",
+        "dateModified": "2022-06-15T18:09:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Brad"
+          }
+        ],
+        "description": "A Manhattan is a classic East Coast cocktail that&#39;s slightly, but not overpoweringly, sweet served shaken, not stirred.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/UpFYH2wH1HEilwa97DUPljAHqfc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9391545-3522224efbaa430f80bfb8047f281e0b.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Manhattan",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "17"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "2 fluid ounces bourbon",
+          "0.5 fluid ounce sweet vermouth",
+          "1 maraschino cherry",
+          "0.5 cup ice"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place ice into a shaker."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour bourbon and vermouth over ice; shake well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour into a cocktail glass and garnish with a cherry."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DARIANA"
+            },
+            "reviewBody": "Actually I like the fact that this is a bit different. You can go anywhere and get the usual Manhatten, but this \"shakes it up a bit.\""
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Atticus"
+            },
+            "reviewBody": "Manhattans are great, however, I would recommend 3/4 of an ounce of sweet vermouth, and a dash of angostura bitters. Because all the ingredients in a manhattan are clear you should stir rather than shake this cocktail. Use a mixing glass, add the ingredients (except the cherry), fill glass with ice, stir for about 15 seconds, and strain into a chilled cocktail glass, add the cherry. Enjoy.",
+            "datePublished": "2010-01-13T14:32:24.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "New Leaf"
+            },
+            "reviewBody": "Nope. A Manhattan is not a martini. You don't skimp on the vermouth. The correct ratio for a Manhattan is 2 parts bourbon, 1 part sweet vermouth, a dash of bitters and a cherry. Do it this way for the rest of your life.",
+            "datePublished": "2021-06-27T16:37:14.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carla Skidmore"
+            },
+            "reviewBody": "My husband makes an A+ Manhattan and he not only uses the ingredients that you listed, but adds a dash of bitters and some of the cherry juice to make that Manhattan even smoother, and of course that cherry.",
+            "datePublished": "2021-05-01T20:02:35.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bobgardner483"
+            },
+            "reviewBody": "It's NOT a Manhattan without bitters, it is an integral part of the cocktail.",
+            "datePublished": "2023-01-12T19:24:51.861Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TastyPeach2433"
+            },
+            "reviewBody": "Really nice. I took advice from a couple of the comments, upping the amount of Vermouth and added a tsp of cherry juice. Made a version using Jameson's Whiskey, which might be my preference now!",
+            "datePublished": "2025-07-15T11:48:35.226Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marianne"
+            },
+            "reviewBody": "Our family always uses Seagrams VO - called a \"VO Manhattan\"...much tastier. My grandfather always added a dash of bitters and an orange slice (of course cherry is a must). The orange slice adds a nice surprise. We were all from Manhattan:)",
+            "datePublished": "2011-08-20T10:25:37.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "M A"
+            },
+            "reviewBody": "A good Manhattan is one of my two favorite drinks.\n(The other is a dry Martini. ) I prefer a sour mash whiskey and mixed 2 to 1. But any favorite whiskey or bourbon will be just fine. But the most important step that no one has mentioned, is to chill the glasses in the freezer.",
+            "datePublished": "2011-08-19T23:22:24.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gregory"
+            },
+            "reviewBody": "One of my most favorite drinks",
+            "datePublished": "2022-06-02T12:05:28.194Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bill Hamilton"
+            },
+            "reviewBody": "Use good but not excellent whiskey. It turns out very well. I still use bitters to add a bit of depth to the drink",
+            "datePublished": "2022-03-05T08:15:06.306Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DziaDzia"
+            },
+            "reviewBody": "been making it this way for years",
+            "datePublished": "2021-12-23T23:42:30.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda Bruening Berger"
+            },
+            "reviewBody": "Needs a drop or two of bitters. I prefer mine made with a good Brandy rather than bourbon.",
+            "datePublished": "2021-03-10T00:25:32.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rene Lafayette"
+            },
+            "reviewBody": "Perfect! Cheers!!",
+            "datePublished": "2018-09-22T16:52:02.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nick"
+            },
+            "reviewBody": "perfect!!!!!!!!!!!!!!!!!",
+            "datePublished": "2017-10-06T15:07:55.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marianne"
+            },
+            "reviewBody": "How can you not like a Manhattan any way it comes? At least if you use a good sweet vermouth and Jack Daniel's. We usually reserve this drink for winter (don't really know why---just a preference), but when I saw that it needed a photo, I pulled out the ingredients (they keep forever). I know the purists are naysayers for this formula as stated, but, hey, it's all good! I must admit I wasn't sure whether the ice was supposed to stay in the drink or not. AND the marschino cherry is NOT optional!",
+            "datePublished": "2011-08-16T17:29:16.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "klevena"
+            },
+            "reviewBody": "I may be a Minnesota girl, but I love a good Manhattan ~ I actually had my first one in Seatle, WA. This is an excellent recipe - burbon whisky is the way to go. Oh - and add a little splash of cherry juice!",
+            "datePublished": "2008-12-09T19:52:08.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "not very authentic as far as Manhattans go, but I'm biased because I live there.",
+            "datePublished": "2002-12-04T07:40:53.810Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14891/manhattan/",
+          "name": "Manhattan",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1744/drinks/cocktails/whiskey-drinks/",
+                  "name": "Whiskey Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,506 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15401/easy-chili-i/",
+  "extracted_at": "2026-10-18T02:15:12.113241+00:00",
+  "recipes": [
+    {
+      "name": "Easy Chili",
+      "ingredients_raw": [
+        "1 pound ground beef",
+        "1 cup chopped onion",
+        "0.5 cup chopped green bell pepper",
+        "2.5 tablespoons chili powder",
+        "1 clove garlic, minced",
+        "0.5 teaspoon ground cumin",
+        "1 bay leaf",
+        "1 (29 ounce) can diced tomatoes",
+        "1 (15 ounce) can tomato sauce",
+        "4 teaspoons finely chopped jalapeno chile peppers",
+        "1 (16 ounce) can chili beans, undrained",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine ground beef, onion, and bell pepper in a large saucepan over medium-high heat. Cook and stir until beef is browned, about 5 minutes. Drain excess fat."
+        },
+        {
+          "id": 3,
+          "text": "Season with chili powder, garlic, cumin, and bay leaf."
+        },
+        {
+          "id": 4,
+          "text": "Stir in tomatoes, tomato sauce, and jalapeños. Bring to a boil and reduce heat to low. Cover and simmer, stirring occasionally, for 1 1/2 hours. Stir in beans and allow to heat through."
+        },
+        {
+          "id": 5,
+          "text": "Season with salt and pepper to taste."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Easy Chili",
+        "datePublished": "1999-11-23T09:51:36-05:00",
+        "dateModified": "2026-01-02T09:56:39-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Danielle Spivey"
+          }
+        ],
+        "description": "This easy chili is a snap to make with beef, bell peppers, tomatoes, spices, and beans in a large pot. Kick things up a notch with fresh jalapeños.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/F0KvnZ3q8y0EMwFGwBIkRsbTxWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15401-Easy-Chili-ddmfs-4x3-01c7378d2a8e4daca6f799068eb7025c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/VYNUXwvX-K3AjnAEN.mp4",
+          "description": "In this video you'll see how easy it is to make hearty chili at home. Adjusting the spice level to your tastes is easy to do when you're making it yourself! Using canned tomatoes and beans, your chili will be ready to go in about 2 hours.",
+          "duration": "PT2M10S",
+          "name": "Easy Chili I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/VYNUXwvX/thumbnails/3d8nd2oC.jpg?width=1280",
+          "uploadDate": "2021-07-10T12:30:40-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "419"
+        },
+        "cookTime": "PT100M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "368 kcal",
+          "carbohydrateContent": "27 g",
+          "cholesterolContent": "65 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "20 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "1106 mg",
+          "sugarContent": "10 g",
+          "fatContent": "21 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner",
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound ground beef",
+          "1 cup chopped onion",
+          "0.5 cup chopped green bell pepper",
+          "2.5 tablespoons chili powder",
+          "1 clove garlic, minced",
+          "0.5 teaspoon ground cumin",
+          "1 bay leaf",
+          "1 (29 ounce) can diced tomatoes",
+          "1 (15 ounce) can tomato sauce",
+          "4 teaspoons finely chopped jalapeno chile peppers",
+          "1 (16 ounce) can chili beans, undrained",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/2w04EnxVpPJ_siit3N9RFw4Gg8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15401-Easy-Chili-ddmfs-step-1-ff0120e42f46444393dae38904d30fa9.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sjf-hCG6uJ1jI_nNqERNK2DKIdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15401-Easy-Chili-ddmfs-step-2-bf6967cf4c9547d18d6300a0ffbafe88.jpg"
+              }
+            ],
+            "text": "Combine ground beef, onion, and bell pepper in a large saucepan over medium-high heat. Cook and stir until beef is browned, about 5 minutes. Drain excess fat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/dOegBX9GUvdzrFo70eoX9Y3rVFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15401-Easy-Chili-ddmfs-step-4-92bc27c8f6164e198448e023ebe21564.jpg"
+              }
+            ],
+            "text": "Season with chili powder, garlic, cumin, and bay leaf."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hfrTnE155J-bd02O3NmsROM62dY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15401-Easy-Chili-ddmfs-step-5-461003e29b4d4d23bffce4539d498d99.jpg"
+              }
+            ],
+            "text": "Stir in tomatoes, tomato sauce, and jalapeños. Bring to a boil and reduce heat to low. Cover and simmer, stirring occasionally, for 1 1/2 hours. Stir in beans and allow to heat through."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/F0KvnZ3q8y0EMwFGwBIkRsbTxWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15401-Easy-Chili-ddmfs-4x3-01c7378d2a8e4daca6f799068eb7025c.jpg"
+              }
+            ],
+            "text": "Season with salt and pepper to taste."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT120M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I did not add the jalapeno's ( HOT hot is not for me). This is a great recipe if you like a not-too-spicy chili. If you are looking for a three alarm chili or one that drains your sinuses, this is not it.\r\nWithout jalapenos, it's got just enough spice and \"kick\" without having to drink 10 glasses of water to cool off.\r\nGood flavor, good consistency. I've now made it three times and everyone has loved it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tealdawg"
+            },
+            "reviewBody": "Didn't mean to upstage my husband's tried and true chili recipe with \"Easy Chili\" but boy did I! Made a few changes based on ingredients I had and didn't have: used 1 lb. carne picada instead of ground beef, 1 Tblsp. diced canned chipotle chiles and two cans of chili beans. Browned the meat and then threw everything in the crockpot and cooked on low for 8 hours. HEAVEN! Thanks for an awesome recipe!",
+            "datePublished": "2018-10-04T02:07:50.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jerry"
+            },
+            "reviewBody": "Great simple recipe. I made a few changes. I used 1lb of ground wild boar (bought at Raleys) instead of the beef. I added some chopped oregano leaves (over a Tbs) and a 1/2 tsp of paprika. I chopped up and used an entire Jalapeno but cut out most of the seeds and core, leaving some in, and chopped it in a food processor. I also increased the garlic to about 3 cloves. Then I substituted some Mexican spices I got on a trip to Santa Fe for 1 TBS of the chili powder. The final dish is spicy (nice bite on the tongue) but very tolerable! Added some salt and pepper. Awesome flavor! Cant stop eating it!!",
+            "datePublished": "2017-12-14T00:44:14.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Lonergan"
+            },
+            "reviewBody": "I'm a decent cook, but I've always sucked at making chili. My wife was in the mood for chili, so she challenged me to give it another shot. I'm glad that I did, because I hit it out of the ballpark with this easy chili recipe. \n\nMy ingredients mods: 50% more chopped onion, green pepper, jalapeno pepper, and garlic, and two tablespoons of sugar to cut the bitterness of the tomatoes and tomato sauce.\n\nMy cooking mods: Wait until the last 7-10 minutes of the 90-minute simmer to add the (undrained) beans.\n\nI shared this with a neighbor who used to be a chef in NYC -- she told me that it was better than hers, and she begged for more.",
+            "datePublished": "2018-08-19T07:26:38.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Brianne"
+            },
+            "reviewBody": "In reading the other reviews, i skipped the jalapenos (which I don't like), but the resulting flavour was overall bland. I added in 1/2 tsp of cayenne pepper and a heaping tsp of dry red chilli peppers. I also used seasoned diced tomatos with italian seasoning. With some tweaks, it was really yummy! \nAlso - it can take a while to get the meat browned with the green pepper and onion - definitely longer than 5 minutes. It might be worth doing the meat and veggies separate.",
+            "datePublished": "2018-03-25T20:10:50.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Searles"
+            },
+            "reviewBody": "I don't like spicy food so I cut the chili to 1 tbsp and left out the jalapenos. That was perfect.\n\nAlso, I didn't have 2 hours for prep and cooking so instead of simmering for 1.5 hrs, I covered and cooked in the microwave at 60% power for 12 minutes. It was much faster and a huge hit with the family.",
+            "datePublished": "2016-10-23T21:31:04.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mnagnew"
+            },
+            "reviewBody": "I browned the ground beef, onions, green pepper and seasonings in a frying pan, then transferred the mixer to a crockpot along with the sauce, tomatoes and beans. I also added an extra can of black beans and half a tablespoon of paprika, and cooked it on low. Delicious!",
+            "datePublished": "2017-10-31T21:01:37.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ConHartnett"
+            },
+            "reviewBody": "My whole family loved it! I skipped the jalapeños to accommodate my wife’s taste, and added just a bit of cinnamon and cocoa powder. I made it a day ahead to bring out the flavor. Wow! \n\nI’ll be making some again this week for the Super Bowl.",
+            "datePublished": "2018-01-30T05:31:09.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paul Bishop"
+            },
+            "reviewBody": "Enjoyed this just last night. We used ground turkey and added zucchini and more peppers. I omitted the jalapenos since most of my family doesn't like it too spicy, but added them later to mine. I actually think you could double this recipe, add more veggies and meat. In addition, I used chipotle chili powder and hot chili powder to kick up a notch. I like that this recipe is simple yet flavorful and allows you to really adjust the heat and flavoring. It was perfect dish for a family on the go. Got it ready and just let simmer for an hour and half while running kids and errands - came home to a great meal. Served with a cinnamon roll and kids were in heaven.",
+            "datePublished": "2017-03-03T17:11:27.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa"
+            },
+            "reviewBody": "DELICIOUS!! Followed most of the recipe but went with half a red onion, 1 brown onion, used ground pork, added celery, cilantro, and pinto beans. Could use more jalapenos if u want more spice. Will be making this again!!",
+            "datePublished": "2017-05-28T23:56:41.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allyfrome"
+            },
+            "reviewBody": "This is a great easy recipe but I did alter a little to spice it up and make it chunkier. Here are the changes I made: used cayenne pepper instead of chili, used fire roasted diced tomatoes (more flavorful), mixed red and green bell peppers and added kidney beans. I also left out tomato sauce, I prefer my chili less soupy. Sprinkle a little shredded cheese on top and it's delicious!",
+            "datePublished": "2017-12-11T00:55:45.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "darren"
+            },
+            "reviewBody": "easy to make and tastes great!",
+            "datePublished": "2025-09-29T21:50:57.699Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Williams"
+            },
+            "reviewBody": "Added a couple of different seasonings",
+            "datePublished": "2025-02-17T21:00:14.408Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brianna Shaw"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-14T00:53:46.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Courtney Mccowan"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-05T22:12:22.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I personally think this recipe was way too acidic. I even tried adding some sugar to cut some of the tomatoes acidity but it was overpowering. This is a good base recipe to give you an idea on how to make chilli but I definitely think it needs improvement.",
+            "datePublished": "2024-11-22T03:57:19.968Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tammymac"
+            },
+            "reviewBody": "This chili, a double batch, is being donated to a chili supper on Saturday night. It's just right for everyone.....I left out the jalapenos.",
+            "datePublished": "2024-07-25T16:06:08.551Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HandySnap9713"
+            },
+            "reviewBody": "Great chili that everyone can appreciate! Adding a hint of sweet note with brown sugar can really bring out the flavor profile, but the recipe is great on its own!",
+            "datePublished": "2024-01-07T19:04:14.672Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MBuffington"
+            },
+            "reviewBody": "This is a very easy chili to make and it is delicious. I’ve made it several times and played with the recipe to my liking.",
+            "datePublished": "2023-09-16T15:54:44.342Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mark"
+            },
+            "reviewBody": "I followed recipe, but was a little disapointed. it is not as tasty as many other chili recipes. I added some worshester sausce, which helped, some",
+            "datePublished": "2023-08-06T17:19:47.125Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15401/easy-chili-i/",
+          "name": "Easy Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

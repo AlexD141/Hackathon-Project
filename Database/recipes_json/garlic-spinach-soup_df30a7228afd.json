@@ -1,0 +1,443 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/169074/garlic-spinach-soup/",
+  "extracted_at": "2026-10-18T02:23:39.625297+00:00",
+  "recipes": [
+    {
+      "name": "Garlic Spinach Soup",
+      "ingredients_raw": [
+        "4 cups chicken broth",
+        "3 tablespoons grated fresh ginger root",
+        "2 cloves garlic, minced",
+        "1 cup chopped zucchini",
+        "2 cups cubed cooked chicken",
+        "1 (2 ounce) package cellophane noodles",
+        "4 cups fresh spinach"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring chicken broth, ginger, and garlic to a boil in a large saucepan. Reduce the heat to medium and cook for 10 minutes. Add zucchini and cook until tender, about 10 minutes more."
+        },
+        {
+          "id": 2,
+          "text": "Stir in cooked chicken and cellophane noodles. Cook until chicken is hot and noodles are soft and transparent, about 3 minutes. Add spinach and stir until wilted."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Garlic Spinach Soup",
+        "datePublished": "2016-06-04T09:54:07-04:00",
+        "dateModified": "2025-12-11T13:57:41-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "miskyn"
+          }
+        ],
+        "description": "This spinach soup with ginger, garlic, zucchini, and cellophane noodles is a nice change from regular chicken noodle soup.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/s98YTwNP6QeKmKWgkgK2sxocxms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/169074-garlic-spinach-soup-PICS-Beauty-4x3-a4df034d6d3341a99a66fb17a342e98b.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Garlic Spinach Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "41"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "106 kcal",
+          "carbohydrateContent": "8 g",
+          "cholesterolContent": "29 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "516 mg",
+          "sugarContent": "1 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired"
+        ],
+        "recipeIngredient": [
+          "4 cups chicken broth",
+          "3 tablespoons grated fresh ginger root",
+          "2 cloves garlic, minced",
+          "1 cup chopped zucchini",
+          "2 cups cubed cooked chicken",
+          "1 (2 ounce) package cellophane noodles",
+          "4 cups fresh spinach"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/kaXHU6Dgk1hPmubQE7Mk2PRCrZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/169074-garlic-spinach-soup-PICS-Step-01-cf59cdc73bdb4dfbbc77cbd597338266.jpg"
+              }
+            ],
+            "text": "Bring chicken broth, ginger, and garlic to a boil in a large saucepan. Reduce the heat to medium and cook for 10 minutes. Add zucchini and cook until tender, about 10 minutes more."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lPQWMqbV_YbaH-WMmSxdoQoJc0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/169074-garlic-spinach-soup-PICS-Step-02-5327dc857c104c4596fba5a725e80845.jpg"
+              }
+            ],
+            "text": "Stir in cooked chicken and cellophane noodles. Cook until chicken is hot and noodles are soft and transparent, about 3 minutes. Add spinach and stir until wilted."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "miskyn"
+            },
+            "reviewBody": "Cellophane noodles (also known as Chinese vermicelli, bean threads, bean thread noodles, or glass noodles) are a type of transparent Asian noodle made from starch (such as mung bean starch, sweet potato, potato, cassava or canna starch), and water."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WriteHeart"
+            },
+            "reviewBody": "Love this soup!!! I did change it up a little. Made it twice so far, first time I added carrots instead of zucchini and used gluten free noodles instead of cellophane noodles. I had to add 4 more cups of broth because of the noodles I used, but it was great.\n\nSecond time, I poached my chicken breasts first then used the water from that (4 cups worth) and added 4 cups of boxed chicken broth. I doubled the garlic and ginger root because of the extra liquid. I used 1 cup of frozen peas instead of zucchini. I used 2 cups of shredded chicken and 4 cups of spinach and a box of gluten free shell pasta. I love this stuff!! better the second time with the increased garlic and ginger.\n\nThank you for a great recipe that is also very flexible!",
+            "datePublished": "2011-04-01T20:23:07.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "Excellent! I admit I was a little scared of 3 tbsp of ginger, but it really does mellow out so go for the full amount. This fits perfectly into my diet - low calorie and low carb with a good amount of protein. I ended up adding an extra 2 cups of broth because the soup was really thick. Even then, this definitely is not 8 servings (unless you're planning on tiny bowls). I'd say this is 4 servings if you want a decent-sized portion - so 210cals. Still very healthy! The flavor was good as written, but i then added some sliced green onion for garnish and a couple dashes of fish sauce. This would also be excellent with a squirt of lime juice, or some thinly sliced jalapeno. Yum!",
+            "datePublished": "2015-04-27T18:59:41.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mom24boys"
+            },
+            "reviewBody": "(3rd time changes at end) Second time I have made this. I give only 4 stars because as written, it falls a little short on flavor but my family loves it as a framework for a wonderful Asian style soup. Increased to feed 8 people for dinner. As always, there were changes and additions so I could use what I had on hand and because we like lots of veggies &gt;&gt; 12 cups broth, 2# b/s-less chicken breast, poach then shred, reserve. To broth add 2 heaping Tbsp minced garlic, 4 tsp ground ginger, 2 1/2 c sliced carrots - cook until crisp-tender, bring to boil, add noodles, return to boil, add 4 c frozen chopped broccoli, cook 5 minutes. Add 1/4 c soy sauce, 2 Tbsp oyster sauce, 1 Tbsp sri racha sauce, 8 cups chopped raw spinach &amp; 1 can mushrooms with liquid. When hot, return shredded chicken to pot and heat a minute then serve. This only takes about 1 relaxed hour to have on the table; even less time if you have helpers to peel and chop.",
+            "datePublished": "2020-12-25T04:51:07.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robin Stevens-Beaver"
+            },
+            "reviewBody": "What a great healthy soup, and it was a big surprise in taste. My whole family loved it. I always have homemade chicken broth in the freezer for soup -- it's much, much better than canned (see my review for chicken broth). To this soup, I added half of a chopped onion, cracked pepper, sea salt, fresh basil, and a combination of chopped zucchini and yellow squash. I had all the ingredients onhand, except for cellophane noodles (so this was omitted) and fresh ginger (so I used small amount of ground ginger), which didn't seem to compromise the flavor. We'll make this often. Note: Especially good for dieters!",
+            "datePublished": "2010-07-25T07:36:37.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patti"
+            },
+            "reviewBody": "I sauteed onion with garlic, two jalapeno peppers and the zucchini in olive oil, first. I still added more garlic (because I love it!) to the broth with the ginger but increased the broth to six cups so I could add more zucchini (because I love it!) and I used shrimp instead of chicken (because I love it!) I also garnished it with avocado slices (because I love them!)",
+            "datePublished": "2019-09-09T22:14:41.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Digital_Nebula"
+            },
+            "reviewBody": "I'll be trying this again with some adjustments. I liked everything in the soup except the broth was terrible it tastes like a mouth full of ginger. You might as well just take a bite out of a raw piece of ginger. Next time I'll try just 1 or 1/2 Tbsp of ginger instead of three",
+            "datePublished": "2019-01-18T01:41:39.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I enjoyed this soup but gave it an Asian flair and flavor by adding a little soy sauce and sesame oil. I did not have chicken on hand, but would add it another time, or even shrimp as a reviewer suggested. I had some mushrooms that needed to be used, so I chopped and added those. I probably tripled the garlic because I have a lot on hand. Also, for the noodles, I had Chinese Lo Mein noodles on hand, so I broke those in half and added towards the end as they needed 6 minutes to cook. Nice comforting soup that you can change up with different veggies. Thanks for the recipe!",
+            "datePublished": "2024-03-17T22:13:24.702Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Finley"
+            },
+            "reviewBody": "So good! Made this for my sick mom, and let’s just say we will be trying it again. I switched out a few things for cost, replacing 2 garlic cloves with 2 tsp of pre-minced garlic, 3 tsp of minced ginger for 1 and 1/2 tsp of powdered ginger, and the cellophane noodles for angel hair, but it was still BEYOND delicious! I do recommend if you’re going to use normal pasta to increase the amount of chicken broth though as it soaks it up much more. I also cooked my chicken myself and holy cow with all the flavors and broth mixed in after, it was so juicy and tender. 1000% recommend, especially if you’re sick!",
+            "datePublished": "2026-03-07T23:17:14.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alex"
+            },
+            "reviewBody": "We Loved the soup! I made a double batch added 10 cloves of garlic(yummmmm) and also some kale. I didn't have any noodles so left that out,but the soup was thick enough without. This soup is a winner!!!",
+            "datePublished": "2019-06-25T15:41:56.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "courtneyp860"
+            },
+            "reviewBody": "Very tasty, I am home sick and needed a quick soup recipe. This is very good, I do recommend upping the broth amount if you are craving more liquid and less of a thick soup. I also cheated and used the meat from a rotisserie chicken so I could get back to the couch ASAP which worked out great. Looking forward to this for the remainder of the weekend.",
+            "datePublished": "2017-01-13T19:44:01.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cardijn"
+            },
+            "reviewBody": "Easy and oh soooooo goood, thank you!",
+            "datePublished": "2025-10-10T13:59:44.125Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BrewCrew"
+            },
+            "reviewBody": "I used shredded rotisserie chicken",
+            "datePublished": "2024-09-11T18:30:07.022Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CynKor"
+            },
+            "reviewBody": "My whole family loves this dish and they rarely all love the same thing. It can be a complete meal by itself (although we often add a cold side-vegetable for the complete dinner), is easy to make, and is inexpensive (especially when we get a Costco roasted chicken for $4.99.) This is a regular dish in our house. Thank you AllRecipes!",
+            "datePublished": "2020-01-04T14:17:20.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miri BNeram"
+            },
+            "reviewBody": "This was really good. Sharp, savoury, and satisfying. I'm calling it Asian Minestrone!",
+            "datePublished": "2019-12-15T16:28:49.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natalie Burqan"
+            },
+            "reviewBody": "I followed the recipe exactly, I liked it. It is light and easy to make, also tastes good.\nI would add more garlic, and it is missing something maybe potatoes and mushrooms would give it a more elevating taste.",
+            "datePublished": "2019-03-17T11:50:07.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MikaBee"
+            },
+            "reviewBody": "What a great spin on chicken noodle soup. I thought the ginger would over power since it has such a distant taste amongst lighter flavors but it blended great. I did use powered ginger instead of fresh grated though, not sure if that made a difference. I added more garlic just because I’m a fan, a little mushroom power and adobe. Also subbed carrots for the zucchini. Quick, easy to prepare and light. Loved it :-)",
+            "datePublished": "2019-01-30T14:05:44.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bobbie"
+            },
+            "reviewBody": "Not as much flavor as advertised.",
+            "datePublished": "2019-01-14T01:52:42.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Dahl"
+            },
+            "reviewBody": "I found this soup easy and fast to prepare/make. I liked the mild flavor and once in a bowl on the table I added to it, a splash of fish sauce, tamari and lemon juice. Doesn't need much to add a bit of flavor, so don't over do the splashes.",
+            "datePublished": "2019-01-12T23:24:09.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "melanie"
+            },
+            "reviewBody": "Looks Very Delicious",
+            "datePublished": "2019-01-06T18:40:11.643Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/169074/garlic-spinach-soup/",
+          "name": "Garlic Spinach Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14736/soups-stews-and-chili/soup/vegetable-soup/spinach-soup/",
+                  "name": "Spinach Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

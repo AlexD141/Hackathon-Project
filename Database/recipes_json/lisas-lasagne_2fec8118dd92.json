@@ -1,0 +1,414 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16513/lisas-lasagne/",
+  "extracted_at": "2026-10-18T02:21:24.424998+00:00",
+  "recipes": [
+    {
+      "name": "Lisa&#39;s Lasagne",
+      "ingredients_raw": [
+        "2 tablespoons olive oil",
+        "3 onions, chopped",
+        "1 green bell pepper, chopped",
+        "1 red bell pepper, chopped",
+        "1 yellow bell pepper, chopped",
+        "2 sliced zucchini",
+        "8 chopped tomatoes",
+        "3 tablespoons tomato paste",
+        "4 cloves garlic, minced",
+        "2 tablespoons dried oregano",
+        "2 tablespoons dried basil",
+        "1 tablespoon dried thyme",
+        "salt and pepper to taste",
+        "2 tablespoons butter",
+        "1.5 tablespoons all-purpose flour",
+        "3 cups milk",
+        "1 cup shredded Cheddar cheese",
+        "0.125 teaspoon freshly ground nutmeg",
+        "salt and pepper to taste",
+        "12 spinach lasagna noodles"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat the oil in a large saucepan. Add the onions and saute for 3 minutes. Add the peppers and saute for 2 minutes. Add the zucchini and saute 3 minutes before adding the tomatoes, tomato paste, garlic and oregano, basil, thyme, salt and pepper. Cover the saucepan and simmer for 20 to 30 minutes (the longer the better as long as the sauce is not sticky.)"
+        },
+        {
+          "id": 2,
+          "text": "Preheat the oven to 200 degrees F (95 degrees C). Grease a 9x13 inch baking dish."
+        },
+        {
+          "id": 3,
+          "text": "While the sauce cooks, melt 2 tablespoons butter in a saucepan. Add the flour into the butter, stir vigorously for 2 minutes. Gradually add the milk, stirring until the sauce thickens. Stir in the cheese, reserving as much as you will want to sprinkle on top of the lasagna. Stir the cheese into the flour and butter mixture until it has melted completely. Season with nutmeg, salt, and pepper."
+        },
+        {
+          "id": 4,
+          "text": "Soak the lasagna noodles in water for 30 seconds."
+        },
+        {
+          "id": 5,
+          "text": "Cover the bottom of the prepared dish with some of the tomato sauce, followed by a layer of the lasagna sheet, and the cheese sauce. Continue layering these ingredients ending with a layer of cheese sauce. Sprinkle the final layer of cheese sauce with nutmeg, salt, pepper, and the reserved cheese."
+        },
+        {
+          "id": 6,
+          "text": "Bake the lasagna 40 to 50 minutes, until the top of the lasagna is golden brown."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Lisa&#39;s Lasagne",
+        "datePublished": "1999-09-12T12:42:56-04:00",
+        "dateModified": "2025-04-05T10:37:35-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "LISAMICH"
+          }
+        ],
+        "description": "A colorful, tasty dish, this vegetarian lasagna is filled with zucchini, bell peppers, and homemade tomato and cheese sauces.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/1K4UHaWE6L08dGIdFUHZ3Mw5hKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/637458-3b2b4907dcbc4e8f8173011aee87a42c.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Lisa&#39;s Lasagne",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.9",
+          "ratingCount": "18"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "765 kcal",
+          "carbohydrateContent": "104 g",
+          "cholesterolContent": "60 mg",
+          "fiberContent": "14 g",
+          "proteinContent": "30 g",
+          "saturatedFatContent": "14 g",
+          "sodiumContent": "334 mg",
+          "sugarContent": "31 g",
+          "fatContent": "29 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT40M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons olive oil",
+          "3 onions, chopped",
+          "1 green bell pepper, chopped",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "2 sliced zucchini",
+          "8 chopped tomatoes",
+          "3 tablespoons tomato paste",
+          "4 cloves garlic, minced",
+          "2 tablespoons dried oregano",
+          "2 tablespoons dried basil",
+          "1 tablespoon dried thyme",
+          "salt and pepper to taste",
+          "2 tablespoons butter",
+          "1.5 tablespoons all-purpose flour",
+          "3 cups milk",
+          "1 cup shredded Cheddar cheese",
+          "0.125 teaspoon freshly ground nutmeg",
+          "salt and pepper to taste",
+          "12 spinach lasagna noodles"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a large saucepan. Add the onions and saute for 3 minutes. Add the peppers and saute for 2 minutes. Add the zucchini and saute 3 minutes before adding the tomatoes, tomato paste, garlic and oregano, basil, thyme, salt and pepper. Cover the saucepan and simmer for 20 to 30 minutes (the longer the better as long as the sauce is not sticky.)"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 200 degrees F (95 degrees C). Grease a 9x13 inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "While the sauce cooks, melt 2 tablespoons butter in a saucepan. Add the flour into the butter, stir vigorously for 2 minutes. Gradually add the milk, stirring until the sauce thickens. Stir in the cheese, reserving as much as you will want to sprinkle on top of the lasagna. Stir the cheese into the flour and butter mixture until it has melted completely. Season with nutmeg, salt, and pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Soak the lasagna noodles in water for 30 seconds."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cover the bottom of the prepared dish with some of the tomato sauce, followed by a layer of the lasagna sheet, and the cheese sauce. Continue layering these ingredients ending with a layer of cheese sauce. Sprinkle the final layer of cheese sauce with nutmeg, salt, pepper, and the reserved cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake the lasagna 40 to 50 minutes, until the top of the lasagna is golden brown."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT90M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This is the best vegetarian lasagna recipe I've tried. It takes a while to prepare but it's worth the trouble. I added carrots and mushrooms. I also recommend using fresh herbs and a little more cheese."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AVSAVSAVS"
+            },
+            "reviewBody": "great tasting lasagne...instead of 8 chopped tomatoes, i added a 28oz and 14oz can of diced tomatoes...it worked out nicely, thanks lisa!",
+            "datePublished": "2005-12-18T07:24:36.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHEF1"
+            },
+            "reviewBody": "Instead of putting it in the oven that day, I recommend putting it in the fridge and cooking it the next day. The result: my family of picky vegetarians said this was the tastiest lasagne they have ever eaten! The work definitely paid off.",
+            "datePublished": "2004-03-08T12:15:10.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisaonthepiano"
+            },
+            "reviewBody": "Um, this is actually my recipe. (I've sinced married, hence the name change.) I just wanted to help the people who get a runny sauce. (I hate to think of people going to all this work and then not being able to enjoy the result!) Maybe you had very juicy tomatoes. I would, in that case, add even more tomato paste and simmer the sauce until it is a little on the thick side, but still has some liquid. Hope that helps. Oh, sorry for giving myself 5 stars, but in truth, I really love this recipe and make it often for company.",
+            "datePublished": "2006-04-19T04:37:11.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debutante"
+            },
+            "reviewBody": "Great recipe! I've made it twice and it was good both times. Initially, I was confused about whether to use 'fresh' lasagne sheets, 'regular old-fashioned' dried lasagne, or 'no cook' dried lasagne. By adjusting the moisture content, both the fresh and the no-cook were successful. However, I'd be curious to know which type Lisa normally uses.",
+            "datePublished": "2006-06-19T17:10:27.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tim Bromeyer"
+            },
+            "reviewBody": "I was wondering how the cheese would get golden brown in only a 200 degree oven.....",
+            "datePublished": "2020-12-20T16:13:51.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shebab"
+            },
+            "reviewBody": "This turned out to be a bland tasting, watery mess. The worst lasagna I have ever made....What a waste of all those ingredients!",
+            "datePublished": "2013-04-19T02:51:58.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NotaBene"
+            },
+            "reviewBody": "Superb recipe with excellent taste and no yucky after effects. I am not a vegetarian but this is a wonderful dish.",
+            "datePublished": "2011-12-08T22:38:36.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Lunberg"
+            },
+            "reviewBody": "Yummy, yummy! This was my first attempt at lasagne and it turned out perfect. I'd add a bit more cheese to the cheese sauce but nothing more. Loved it.",
+            "datePublished": "2007-08-17T08:37:54.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CYNDI"
+            },
+            "reviewBody": "I had been searching for quite some time for a recipe like the one I used to use in the 70s. I was in high school and actually threw dinner parties for my friends and my specialty was lasagna - made from a fab recipe I got, I think, off the box of lasagna noodles. After trying several different recipes from this site, this is the WINNER. If it is not the exact same recipe I used 'back then,' it is very close. Very flavorful, cheesy and gets rave reviews every time. None of the other lasagna recipes I tried (and I tried several in advance of a big dinner party I was having) came even close -they were either bland or runny or both. This is the most like a lasagna you would get if you went to a good Italian restaurant.",
+            "datePublished": "2007-04-06T06:15:20.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rogue Hawkins"
+            },
+            "reviewBody": "Extremly nice, but the vegetable fillign was a little runny, probably a mistake on my part though!!",
+            "datePublished": "2006-03-09T14:37:22.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I was extremely disappointed and don't understand the good reviews--or how these people made it. I prepared it exactly to the recipe--which took two and half hours, and it was not an edible meal. The sauce was way too thin. I'm heartbroken and still hungry!",
+            "datePublished": "2005-11-30T18:35:04.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made your lasagne last night and my family found it delicious. It was also incredibly easy to make. Thank you!",
+            "datePublished": "2005-10-26T16:47:21.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sola"
+            },
+            "reviewBody": "I was rather disappointed by this. I thought that if I loved all the vegetables that went in it, that it would be ok... However, I had trouble with the cheese sauce. I think if I were to do it again, I'd just use straight mozzerella and not bother with trying to make a sauce. I didn't have any tomato paste, and I used canned diced tomatoes, thinking it would even out. It ended up being very liquidy instead, and it made the noodles soggy. I ended up throwing away my portion and my husband thought it was so-so. I give it three stars only because it could have been better were it not for some error on my part. Would have been less disappointing if it didn't take so long to make, but that's the nature of lasgne!",
+            "datePublished": "2004-10-29T22:32:10.160Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16513/lisas-lasagne/",
+          "name": "Lisa&#39;s Lasagne",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/502/main-dish/pasta/lasagna/",
+                  "name": "Lasagna Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16804/main-dish/pasta/lasagna/zucchini-lasagna/",
+                  "name": "Zucchini Lasagna Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

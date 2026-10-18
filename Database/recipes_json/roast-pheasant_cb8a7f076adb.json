@@ -1,0 +1,336 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216197/roast-pheasant/",
+  "extracted_at": "2026-10-18T02:59:27.174004+00:00",
+  "recipes": [
+    {
+      "name": "Roast Pheasant",
+      "ingredients_raw": [
+        "2 sprigs rosemary, leaves stripped and chopped",
+        "1 tablespoon chopped fresh thyme",
+        "1 cup olive oil",
+        "1 whole pheasant, cleaned",
+        "salt and ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients. Preheat the oven to 250 degrees F (120 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Stir rosemary and thyme into olive oil in a liquid measure; set aside. Rub pheasant inside and out with salt and pepper."
+        },
+        {
+          "id": 3,
+          "text": "Place into a close-fitting roasting pan. Pour herb oil over pheasant."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven for 1 hour, then cover with aluminum foil and continue baking until an instant-read thermometer inserted into the thickest part of the thigh, near the bone, reads 180 degrees F (82 degrees C), about 1 hour more. Baste pheasant with pan juices every 30 minutes during baking. Remove from the oven, cover with a doubled sheet of aluminum foil, and allow to rest in a warm area for 10 minutes before slicing."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Roast Pheasant",
+        "datePublished": "2018-06-08T09:57:32-04:00",
+        "dateModified": "2025-12-02T11:20:17-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "kelly13jane"
+          }
+        ],
+        "description": "This simple roast pheasant recipe features fresh rosemary and thyme for an easy, elegant dinner that showcases the lean, delicate flavor of pheasant.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/VxU5ivMy5ana6jA1YveiYFkMEg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216197-roast-pheasant-dmfs-4x3-66e2d9c80b84465f9abca53f152bb98b.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Roast Pheasant",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "18"
+        },
+        "cookTime": "PT120M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "840 kcal",
+          "carbohydrateContent": "0 g",
+          "cholesterolContent": "142 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "45 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "81 mg",
+          "fatContent": "73 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 sprigs rosemary, leaves stripped and chopped",
+          "1 tablespoon chopped fresh thyme",
+          "1 cup olive oil",
+          "1 whole pheasant, cleaned",
+          "salt and ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/m1Tz38O0Df0vgNEXbESZslQarlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216197-roast-pheasant-dmfs-step-01-23ff78acc96340ea9f86d8a0a33d8ee1.jpg"
+              }
+            ],
+            "text": "Gather the ingredients. Preheat the oven to 250 degrees F (120 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/57dNaqWizpyWNs3Swleneo4-NYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216197-roast-pheasant-dmfs-step-02-684cd923b95847c8af84e3c7fb0a48b8.jpg"
+              }
+            ],
+            "text": "Stir rosemary and thyme into olive oil in a liquid measure; set aside. Rub pheasant inside and out with salt and pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mygAxctxbxh9Ya9NxDhFQ4SQobA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216197-roast-pheasant-dmfs-step-03-3745dc9dfc894ec7a4e6fc001cab68e6.jpg"
+              }
+            ],
+            "text": "Place into a close-fitting roasting pan. Pour herb oil over pheasant."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/LTNRGElrtXdICZTHgV8FJH9iLrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216197-roast-pheasant-dmfs-step-04-023c6f32a7554dc28ef8cef2e76dd7b7.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven for 1 hour, then cover with aluminum foil and continue baking until an instant-read thermometer inserted into the thickest part of the thigh, near the bone, reads 180 degrees F (82 degrees C), about 1 hour more. Baste pheasant with pan juices every 30 minutes during baking. Remove from the oven, cover with a doubled sheet of aluminum foil, and allow to rest in a warm area for 10 minutes before slicing."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT145M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mdolezal"
+            },
+            "reviewBody": "really gives it a great flavor, not dry at all with the basting! so impressed after my first time trying pheasant!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jbone80"
+            },
+            "reviewBody": "I have always liked using Rosemary for my turkey, so that is why I was drawn to this recipe. I think the problem is the meat and not the recipe. This was a wild pheasant that a friend brought to me. It smelled delicious and a friend of mine that I shared it with really liked it.",
+            "datePublished": "2024-11-04T14:23:51.595Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IndigoYuzu3740"
+            },
+            "reviewBody": "I did the recipe exactly as the recipe posted. The pheasant was tender &amp; tasty. Sides were small potatoes &amp; brussel sprouts roasted in the pan with the bird.",
+            "datePublished": "2023-03-18T22:38:10.581Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tempest"
+            },
+            "reviewBody": "The only change I made was to brine my birds over night. Moist and delicious!",
+            "datePublished": "2020-11-20T16:02:09.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BrewCrew"
+            },
+            "reviewBody": "First time cooking pheasant, it came out wonderful. I did have to cook over 1 hour longer, because we had a larger than usual bird. Came out tender and not dry.",
+            "datePublished": "2015-05-18T18:41:59.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie S"
+            },
+            "reviewBody": "I was very nervous about cooking our first pheasant as the bird is quite expensive. This recipe was easy to follow, and we ended up with a flavorful, tender meal.\nhttp://www.oureatinghabits.com/2015/01/26/roast-pheasant/",
+            "datePublished": "2015-01-26T08:30:03.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam Ziegler Lutz"
+            },
+            "reviewBody": "I cooked the pheasant in my electric roaster. Fortunately, I checked the temperature at 90 minutes because it was done at that point. The flavor was delicious. Thanks for sharing the recipe!",
+            "datePublished": "2014-11-02T18:10:22.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDA LASHLEY"
+            },
+            "reviewBody": "The best pheasant I have ever eaten. The only change I made was to roast it in my small Nesco, but I used the same temperature setting as in the recipe. It came out tender and flavorful. Six stars!",
+            "datePublished": "2013-12-25T06:55:36.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sansan"
+            },
+            "reviewBody": "only things that I changed were that I cooked in a glass baking dish and threw in a bit of orange juice. lovely",
+            "datePublished": "2013-03-04T02:10:16.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MELJENN"
+            },
+            "reviewBody": "this was a really good recipe. it was it first time cooking pheasant, so we followed the recipe except we added some butter. everyone raved about the flavor!",
+            "datePublished": "2013-01-22T15:24:11.540Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216197/roast-pheasant/",
+          "name": "Roast Pheasant",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/202/meat-and-poultry/game-meats/",
+                  "name": "Game Meats"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,184 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/145140/limegasm/",
+  "extracted_at": "2026-10-18T02:00:14.788195+00:00",
+  "recipes": [
+    {
+      "name": "Limegasm",
+      "ingredients_raw": [
+        "1 (6 ounce) can frozen limeade",
+        "3 fluid ounces tequila",
+        "3 fluid ounces triple sec (orange-flavored liqueur)",
+        "2 cups crushed ice",
+        "kosher salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine the limeade, tequila, and triple sec in a blender; fill with ice; blend until smooth."
+        },
+        {
+          "id": 2,
+          "text": "Wet the rims of six glasses and dip in kosher salt. Pour mixture into glasses to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Limegasm",
+        "datePublished": "2020-06-18T23:31:54-04:00",
+        "dateModified": "2025-05-04T20:56:32-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Julianna"
+          }
+        ],
+        "description": "These are close enough to margaritas for a working-through-college budget.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/YGm9KKKuz34aYE_1HSGmVumoJLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970326-088d7568d2a94c999a24ac3af0b728e8.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Limegasm",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "ratingCount": "2"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (6 ounce) can frozen limeade",
+          "3 fluid ounces tequila",
+          "3 fluid ounces triple sec (orange-flavored liqueur)",
+          "2 cups crushed ice",
+          "kosher salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine the limeade, tequila, and triple sec in a blender; fill with ice; blend until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Wet the rims of six glasses and dip in kosher salt. Pour mixture into glasses to serve."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle"
+            },
+            "reviewBody": "I've been making these for a while now and they definately live up to there name. Good luck only having one."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arizona Desert Flower"
+            },
+            "reviewBody": "Absolute bliss. I don't like super sweet margaritas so I shy away from anything with a ton of triple sec or sweet &amp; sour. This is the new go to drink for me!",
+            "datePublished": "2013-02-23T10:57:36.423Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/145140/limegasm/",
+          "name": "Limegasm",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

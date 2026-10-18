@@ -1,0 +1,494 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17897/hungarian-mushroom-soup/",
+  "extracted_at": "2026-10-18T02:28:21.757655+00:00",
+  "recipes": [
+    {
+      "name": "Hungarian Mushroom Soup",
+      "ingredients_raw": [
+        "4 tablespoons unsalted butter",
+        "2 cups chopped onions",
+        "1 pound fresh mushrooms, sliced",
+        "2 cups chicken broth",
+        "1 tablespoon soy sauce",
+        "1 tablespoon paprika",
+        "2 teaspoons dried dill weed",
+        "1 cup milk",
+        "3 tablespoons all-purpose flour",
+        "0.5 cup sour cream",
+        "0.25 cup chopped fresh parsley",
+        "2 teaspoons lemon juice",
+        "1 teaspoon salt",
+        "ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Melt butter in a large pot over medium heat. Add onions; cook and stir until softened, about 5 minutes. Add mushrooms and sauté for 5 more minutes. Stir in broth, soy sauce, paprika, and dill; reduce heat to low, cover, and simmer for 15 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Whisk milk and flour together in a separate bowl; stir into soup until blended. Cover and simmer for 15 more minutes, stirring occasionally."
+        },
+        {
+          "id": 4,
+          "text": "Add sour cream, parsley, lemon juice, salt, and ground black pepper; stir over low heat until warmed through, about 3 to 5 minutes. Serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Hungarian Mushroom Soup",
+        "datePublished": "2000-04-10T16:53:56-04:00",
+        "dateModified": "2025-10-23T11:50:52-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "stormycook"
+          }
+        ],
+        "description": "This hearty Hungarian mushroom soup is seasoned generously with paprika, fresh parsley, and lemon juice. Sour cream makes it rich and creamy.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/l8LfL_MtRrCVg4UH1Rvj7a3SuC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17897-hungarian-mushroom-soup-ddmfs-3x4-185-be041a31c4ca4a5aa8c684774929b53c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Hungarian Mushroom Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "2616"
+        },
+        "cookTime": "PT35M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "201 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "32 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "829 mg",
+          "sugarContent": "6 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Hungarian",
+          "Eastern European"
+        ],
+        "recipeIngredient": [
+          "4 tablespoons unsalted butter",
+          "2 cups chopped onions",
+          "1 pound fresh mushrooms, sliced",
+          "2 cups chicken broth",
+          "1 tablespoon soy sauce",
+          "1 tablespoon paprika",
+          "2 teaspoons dried dill weed",
+          "1 cup milk",
+          "3 tablespoons all-purpose flour",
+          "0.5 cup sour cream",
+          "0.25 cup chopped fresh parsley",
+          "2 teaspoons lemon juice",
+          "1 teaspoon salt",
+          "ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ONdaDh_TvZ6yTUex6xNtvEVjGjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17897-hungarian-mushroom-soup-ddmfs-step-1-124-73f4e1f98b404fb0b517dd67fc2acdf6.jpg"
+              }
+            ],
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/__sQw-okn7Ul1-IafupYJ0tzZMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17897-hungarian-mushroom-soup-ddmfs-step-2-129-bf39561d44b84199a03028d9035bace7.jpg"
+              }
+            ],
+            "text": "Melt butter in a large pot over medium heat. Add onions; cook and stir until softened, about 5 minutes. Add mushrooms and sauté for 5 more minutes. Stir in broth, soy sauce, paprika, and dill; reduce heat to low, cover, and simmer for 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/nIFFpaW0JFj4x4vM96XCuKBWkp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17897-hungarian-mushroom-soup-ddmfs-step-3-131-25cce193f3204eaa90a5baec2becf025.jpg"
+              }
+            ],
+            "text": "Whisk milk and flour together in a separate bowl; stir into soup until blended. Cover and simmer for 15 more minutes, stirring occasionally."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/5TQHvAU0DIMmWhCglQA_tvRO9Xg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17897-hungarian-mushroom-soup-ddmfs-step-4-135-24510e695f7f4c45812ebbf825b864c1.jpg"
+              }
+            ],
+            "text": "Add sour cream, parsley, lemon juice, salt, and ground black pepper; stir over low heat until warmed through, about 3 to 5 minutes. Serve immediately."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I give this soup a round of applause!!! Okay, I may sound like a total idiot, but I just loved this! I was expecting it to be similar to Cream of Mushroom Soup, but it was more of a flavorful soup than a creamy, rich one. True, it was rich even though we used Skim Milk and Light Sour Cream. But it was fabulous nonethless! I can understand why some previous reviewers opted to lessen the lemon juice and dill. However, I think they all added to the flavor in a wonderful, round-about way. The only change I made is to use fresh basil instead of parsley because our parsley plant is, um, dead, but it was still excellent! With some bread and a salad, this soup is a complete meal. This might sound weird, but next time, I would consider adding some bacon. I think that would kick up the flavor another notch! (Quoting Emeril now :o) Some potatoes or chicken added might be good as well. Then it would be almost like chicken stroganoff soup? Yummy. This is one of my favorite soups!!! Oh, by the way, it was so easy to make! I am 15 years old and have only been cooking for about a year or so and found it SO easy! In fact, I did it while doing my homework. HIGHLY RECOMMENDED!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "Hubs and I found this soup excellent, exquisite and extravagant, but unfortunately we also both agree it falls short of perfection just for the fact that it calls for about twice the parsley it should. I used an \"exotic mushroom medley,\" (package description, not mine) which gave this great texture, different shapes, and bold flavor. The dill and lemon both play their parts and have important contributions. I used a good, sweet Hungarian paprika which really makes a difference in the final result. Just delicious, but you kind of have to wade through the parsley!",
+            "datePublished": "2009-12-19T20:47:49.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RBCONLEY"
+            },
+            "reviewBody": "I love this soup. I read the other reviews, and I didn't think there was too much dill or lemon, it could have used a little more. If you enjoy eastern european food (german, austrian, hungarian) you'll love this soup. I did modify by adding 2 cups of diced potatoes at the stage that I added the broth. I thought there would be plenty for leftovers, but that wasn't the case. Three people ate the entire batch. I will make double next time.",
+            "datePublished": "2002-07-24T16:26:56.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidi Stoltz"
+            },
+            "reviewBody": "I used reduced-sodium broth and soy sauce...that helped not make it too salty. Also used fat free milk and non fat sour cream..the soup was still nice and rich. However, next time I'd use half the dill, half the paprika, and half the parsley..then add the rest to taste. Can be a bit overpowering.",
+            "datePublished": "2011-11-19T22:24:09.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UniquePork4035"
+            },
+            "reviewBody": "I did not use parsley..didn't have. Added lemon zest, 1 cup dry white wine and used Lemon Thyme salt. Immersion blender at the end but left some chunks of mushrooms. A float of dry sherry at the table. Incredible flavors...an impressive soup.",
+            "datePublished": "2024-10-16T20:50:07.956Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunkyWhey8639"
+            },
+            "reviewBody": "Im sure you've heard it a million times, but I never write reviews! This soup is SO good! I used the exact measurements and am glad I did. I only have hot and smoked paprika, so used half of both. I used 1% milk and low sodium chicken broth. I didn't have fresh parsley so used 1 teaspoon plus 1 tablespoon of dried, also used half low sodium soy sauce and half Worcester sauce. Oh, and about 4 cloves of crushed diced garlic. The mushrooms I had were large enough to use for hearty stuffed mushrooms and didn't want large pieces like that in my soup. So I used an immersion blender before stirring in fat free Fage yogurt. Maybe blending it helped marry the herbs? But I thought the measurements of all the spices and herbs worked perfectly! Delicious!",
+            "datePublished": "2023-04-29T19:53:29.485Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuickHam4595"
+            },
+            "reviewBody": "Delicious soup recipe. I used 8 oz each of white mushrooms &amp; Baby Bellas, low-sodium organic chicken stock &amp; low-sodium Kikkoman soy sauce. I added 2 chopped garlic cloves to the onions a minute before I put in the mushrooms. Also added a few drops of Cholula hot sauce when I added the sour cream &amp; lemon. Only thing I'll do differently next time I make it (&amp; I will make it again) is cut the mushroom slices in half so the pieces are smaller. (Possibly the mushrooms I got were on the large size.) I could see making this when the farmer's market has good deals on mushrooms. I'm sure some shiitakes in place of the other mushrooms would be execellent.",
+            "datePublished": "2022-10-10T18:57:51.576Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carriec"
+            },
+            "reviewBody": "This was a delicious soup! I followed recommendations to use more chicken broth, smoked paprika, half of the dill, and some white wine. You definitely want to double the broth (I used 3 1/2 cups chicken broth and 1/2 cup white wine). I also used a variety of mushrooms. Upon serving, I sprinkled smoked paprika on the top and a scoop of sour cream. It was delicious and I am adding this to the soup rotation.",
+            "datePublished": "2024-07-14T19:30:02.772Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JovialChip7948"
+            },
+            "reviewBody": "Awesome recipe! Next time, I would blend the sour cream with the flour and milk(I used 1/2 and 1/2, to keep the mixture well blended without Chunks of sour cream. Wonderful taste!",
+            "datePublished": "2023-10-20T14:14:38.478Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doug"
+            },
+            "reviewBody": "That's a lotta onion. I used half, also 2 C milk, 1 chix stock. Always have leftovers, so leave lemon juice and sour cream out. I serve with a li'l puddle of lemon j. and a big TB of sour cream on top. That way, the reheats still taste fresh.",
+            "datePublished": "2026-07-10T21:32:08.814Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheryl Simon"
+            },
+            "reviewBody": "I kind of combined this great recipe with Chef John's Creamy Mushroom soup and it was delicious. (I'm sure both of these recipes would be perfect just as they are.) I used a combination of portabella and white sliced mushrooms and increased the amount to 24 oz. I cooked the mushrooms for about 20-30 minutes and added onion after about 15 minutes. I did not add soy sauce or paprika, but did add a couple of sprigs of fresh thyme and seasoned with salt and pepper. I used heavy whipping cream instead of milk and 4 cups of broth plus 1 C of water. The lemon was such a good addition! Thank you for sharing",
+            "datePublished": "2024-07-12T16:55:00.132Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LushEgg1161"
+            },
+            "reviewBody": "Used salted butter and didn’t add any additional salt as I am on a low salt diet. No additional salt was needed. Very tasty and my husband loved it. I served it with fresh home made bread.",
+            "datePublished": "2026-10-12T13:19:26.954Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LazyCook"
+            },
+            "reviewBody": "Hungarian Rhapsody good! Didn't have sour cream on hand so used plain yogurt. Delicious.",
+            "datePublished": "2026-10-07T23:12:17.161Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "abby"
+            },
+            "reviewBody": "This soup is excellent! The first time I made it, a friend and I ate the entire pot within a couple of hours. The first time I made it for my husband, he said that it was fine but not his thing. The second time, it was*jamming* and he ate three bowls. Lol I typically double the amount of mushrooms (and therefore, butter), but I've also tripled the amount. I think you could say that I really like mushrooms.",
+            "datePublished": "2026-10-01T21:25:53.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth40"
+            },
+            "reviewBody": "Very good flavor and it was easy to make.",
+            "datePublished": "2026-09-23T23:29:11.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Camelia"
+            },
+            "reviewBody": "We really enjoy this soup. My husband says it is fantastic!",
+            "datePublished": "2026-09-23T01:49:02.221Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Bergstad"
+            },
+            "reviewBody": "Had this at work a few times and decided to try making it. Far better homemade.",
+            "datePublished": "2026-08-11T01:46:03.614Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jen"
+            },
+            "reviewBody": "my favorite mushroom soup recipe by far....very different from my normal mushroom soup recipes but wow, it was a WINNER...we had found a lot of chanterelles and shitakes and man oh man....WE LOVED THIS COMBO full of mushrooms and great ingredients!!!!!! yummmmbolina",
+            "datePublished": "2026-07-04T18:53:09.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "George"
+            },
+            "reviewBody": "Its a great base, but I think im going to experiment a bit adding things to make the flavor a bit more interesting.",
+            "datePublished": "2026-07-04T06:00:52.725Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EdgyNori5025"
+            },
+            "reviewBody": "My husband and I love it and will make it many more times. We love strong flavors but not necessarily hot. Your flavors are spot on.",
+            "datePublished": "2026-06-30T00:28:58.740Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17897/hungarian-mushroom-soup/",
+          "name": "Hungarian Mushroom Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

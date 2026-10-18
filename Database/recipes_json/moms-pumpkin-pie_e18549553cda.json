@@ -1,0 +1,471 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12141/moms-pumpkin-pie/",
+  "extracted_at": "2026-10-18T01:48:30.244411+00:00",
+  "recipes": [
+    {
+      "name": "Mom&#39;s Pumpkin Pie",
+      "ingredients_raw": [
+        "1 recipe pastry for a 9 inch single crust pie",
+        "3 eggs",
+        "1 egg yolk",
+        "0.5 cup white sugar",
+        "0.5 cup packed brown sugar",
+        "1 teaspoon salt",
+        "0.5 teaspoon ground cinnamon",
+        "0.5 teaspoon ground nutmeg",
+        "0.5 teaspoon ground ginger",
+        "0.25 teaspoon ground cloves",
+        "1.5 cups milk",
+        "0.5 cup heavy whipping cream",
+        "2 cups pumpkin puree"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 425 degrees F (220 degrees C.)"
+        },
+        {
+          "id": 2,
+          "text": "In a large bowl, combine eggs, egg yolk, white sugar and brown sugar. Add salt, cinnamon, nutmeg, ginger and cloves. Gradually stir in milk and cream. Stir in pumpkin. Pour filling into pie shell."
+        },
+        {
+          "id": 3,
+          "text": "Bake for ten minutes in preheated oven. Reduce heat to 350 degrees F (175 degrees C), and bake for an additional 40 to 45 minutes, or until filling is set."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Mom&#39;s Pumpkin Pie",
+        "datePublished": "1998-04-28T13:54:39-04:00",
+        "dateModified": "2025-11-07T20:04:55-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jim Wright"
+          }
+        ],
+        "description": "Pumpkin puree is blended with white and brown sugars, milk, cream, and pinches of cinnamon, nutmeg, ginger, and cloves. Altogether, they make a rich and sensational pumpkin pie filling that bakes up perfectly for the holidays.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/r4YlwlV6b9va3_a0dSWYdP6FGyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1054478-1e6b568086ba44bfa03e2cf41d49822a.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/i14YsXGz-K3AjnAEN.mp4",
+          "description": "This rich, 5-star pumpkin pie is simply the perfect Thanksgiving dessert.",
+          "duration": "PT2M12S",
+          "name": "Mom’s Pumpkin Pie",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/i14YsXGz/poster.jpg?width=1280",
+          "uploadDate": "2021-08-04T18:00:48-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mom&#39;s Pumpkin Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "344"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "345 kcal",
+          "carbohydrateContent": "44 g",
+          "cholesterolContent": "119 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "7 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "611 mg",
+          "sugarContent": "30 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dessert",
+          "Pie"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 recipe pastry for a 9 inch single crust pie",
+          "3 eggs",
+          "1 egg yolk",
+          "0.5 cup white sugar",
+          "0.5 cup packed brown sugar",
+          "1 teaspoon salt",
+          "0.5 teaspoon ground cinnamon",
+          "0.5 teaspoon ground nutmeg",
+          "0.5 teaspoon ground ginger",
+          "0.25 teaspoon ground cloves",
+          "1.5 cups milk",
+          "0.5 cup heavy whipping cream",
+          "2 cups pumpkin puree"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 425 degrees F (220 degrees C.)"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine eggs, egg yolk, white sugar and brown sugar. Add salt, cinnamon, nutmeg, ginger and cloves. Gradually stir in milk and cream. Stir in pumpkin. Pour filling into pie shell."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/r4YlwlV6b9va3_a0dSWYdP6FGyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1054478-1e6b568086ba44bfa03e2cf41d49822a.jpg"
+              }
+            ],
+            "text": "Bake for ten minutes in preheated oven. Reduce heat to 350 degrees F (175 degrees C), and bake for an additional 40 to 45 minutes, or until filling is set."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 9-inch pie"
+        ],
+        "totalTime": "PT90M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "luv2cook"
+            },
+            "reviewBody": "I rated this 5 stars because my husband said it was the best pumpkin pie he's ever had. I reduced the milk to 1 cup, and also made my own pumpkin puree - not hard, ladies! Get a pie pumpkin, remove the seeds, cut it up into 6 or 8 chunks, place it in a pan with 1/2\" of water, cover with foil and bake at 375 degress for about an hour, or until a knife slides easily into the flesh. Let cool, and scrape the pumpkin away from the rind. Mash it up as best you can, then take other's advice and put the puree into a colander and let it drip into a bowl (cover the whole thing with plastic wrap and set it in the frig overnight). This should help avoid having such a watery pie like many have encountered. Also, once I combined the pie filling ingredients, I ran it all through my blender to smooth it out. The end result was an incredibly silky texture... This is not a dense, orange pie like you get from a can. Much lighter in color and more delicate. (A little more spice probably wouldn't hurt.) Consider decreasing your oven temp by 15 degrees &amp; baking a little longer till the center sets up. Your crust will thank you."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EagerPop9210"
+            },
+            "reviewBody": "Since I first used this recipe years ago, I am always asked to make the pumpkin pie for Thanksgiving. There are a few things I learned along the way that may help. 1. The recipe always makes two 9\" pies for me and I always use a homemade flaky butter pie crust. 2. You MUST let the pie cook until the filling is set or it will be runny. I usually cook mine for about 1 hour to achieve this (use the fork test). The result gives you a perfectly creamy pie texture that you won't get if you reduce the liquids (which will also make the spices overpowering). 3. Although it is still good with canned, every time I made my own fresh puree (it's easy), everyone ranted and raved about how good it was. It is worth the effort. 4. Lastly (based on the comments), do not expect a pie with that orange coloration that you get from cheap store-bought pies. This is an old-fashioned recipe and the flavor from the spices makes it much richer making one piece very satisfying and filling. I always have plenty for the whole family. I hope that all helps anyone making it for the first time. This has become a family favorite and we will keep making it for years to come.",
+            "datePublished": "2022-11-23T15:37:29.886Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stevie"
+            },
+            "reviewBody": "It's great and easy. I use my Cuisinart, any food processor will do. 1) make sure fresh puree has sufficiently drained 2)combine and blend ALL ingredients and mix WELL before adding pumpkin. 3) I use pumpkin spice plus cinnamon. Its easier than a tsp of this and that. Don't forget to increase the pumpkin spice for each separate spice you replace. Or spice or sweeten to taste. It's easy to alter. Firms well. Pretty much fool proof.",
+            "datePublished": "2014-11-26T08:44:12.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PurpleCarp8084"
+            },
+            "reviewBody": "I have baked this pie every year for the last 10 years. I roast my own pie pumpkins and that really adds some umph to the flavors. I will say, that this pie always takes longer than it says to cook. It may be the extra water content in the fresh puree, but I often do the higher temp for an extra 5-10 minutes and then still need additional baking time at the lower temp. It literally always turns out amazing though.",
+            "datePublished": "2024-11-28T02:42:58.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wintertxks"
+            },
+            "reviewBody": "This is a great receipe, I used sweet potatoes instead of pumpkin, which we like just as well. I have also have used butternut squash which makes a better pie than anything else. I have my oven at 350 instead of 425. Bake for an hour &amp; I use a 10 inch pie pan.",
+            "datePublished": "2010-10-11T14:57:31.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "XSarenkaX"
+            },
+            "reviewBody": "I like this recipe. This was my first attempt at baking pie! Since we had received several pie pumpkins from our local farm CSA, I wanted to try a pumpkin pie using fresh pumpkin puree. I've since made my third pumpkin pie, learning a few tips and making a couple slight modifications. 1. I use four whole eggs (why waste an egg white?). 2. I replaced the spices with 1.5 teaspoons of pumpkin pie spice I got on the cheap (I don't like cloves anyway). 3. It helps to cook off some of the pumpkin puree water first, to keep the mixture from being too diluted and taking too long to bake. 4. Put an extra cookie sheet under the pie's rack in the oven and carefully pour the mixture into the pie crust in the oven, as it will be very full. The first time, I managed to carry it to the oven full without spilling, but it can be challenging. 5. Use your leftover heavy cream to make whipped cream (add powdered sugar and beat until fluffy). 6. Pie will be jiggly when finished, but the skin will show you it's not liquid. Be careful removing it from the oven, cool it at room temp, and be sure to plan on refrigerating it overnight (cover with plastic wrap) for best results. Add your homemade whipped cream and enjoy breakfast!",
+            "datePublished": "2012-01-04T13:43:48.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pamjlee"
+            },
+            "reviewBody": "I made a few changes. Doubled the spices. It would have been way to bland otherwise. I also cut the milk to 1 cup. I use a quiche pan and it just fit! I cooked it the 45 min then added an extra 9 minutes of cooking time. It could gave used a couple of more minutes still.",
+            "datePublished": "2014-10-19T10:24:19.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emily Lange"
+            },
+            "reviewBody": "Incredibly delicious pumpkin pie recipe! I made the following changes:\n1. Increase all spices by at least 50% (I am doubling mine next time)\n2. Decrease oven temp by 25 degrees--your crust will love you for it!\n3. USE A PIE CRUST SHIELD!!! I absolutely swear by them! I bought mine at Bed Bath &amp; Beyond but I know I've seen them elsewhere. Your crust will come out golden and perfect EVERY TIME--not the least bit burnt! Under $5.00 apiece!",
+            "datePublished": "2008-10-27T12:26:13.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen Denham"
+            },
+            "reviewBody": "This pie was AMAZING. So glad I used this recipe. I did alter a few things. I used 1 cup of whipping cream and 1/2 cup milk (not 2 full cups of liquid). I also used 1 slightly heaping teaspoon of cinnamon, 1/4 tsp of nutmeg and ginger, and 1/8 tsp of cloves. I may go a PINCH heavier on the nutmeg and ginger next time. I also made my own pumpkin puree. This pie is now absolutely my go-to pumpkin pie recipe. Thank you for sharing it!",
+            "datePublished": "2017-12-01T15:52:32.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth Bosma"
+            },
+            "reviewBody": "Delicious! I exchanged the milk and cream for 2 cups of half and half. And I ended up cooking it for about 1 hour and 15 minutes. Also, this makes enough for 2 pies, not just 1.",
+            "datePublished": "2022-11-24T02:40:21.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "COOKING66"
+            },
+            "reviewBody": "I doubled this recipe to make two deep dish Thanksgiving pies. One was sold for charity and the buyer came back later and gave them double the price saying it was THE best pumpkin pie he'd ever had. I did have to cook it 2 hours, putting aluminum foil over it for 30 min. at a time so the crust wouldn't scorch. I have also made it with only 1 c. milk at 375 for only 30 min--much faster. This recipe is a winner!",
+            "datePublished": "2004-11-30T07:06:20.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JovialMilk6393"
+            },
+            "reviewBody": "it is good",
+            "datePublished": "2026-02-12T23:56:24.674Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie Breen"
+            },
+            "reviewBody": "Replaced the white sugar with one part bourbon, one part vanilla, one part molasses. Pre-baked my Pillsbury crust for five minutes. Topped with poor man's snikerdoodles made from leftover pie crust.",
+            "datePublished": "2024-11-27T22:24:58.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jana Lynn"
+            },
+            "reviewBody": "I pureed pumpkins grown in my bac yard and made a dozen different pies over the past several months. This recipe was the best.",
+            "datePublished": "2021-12-25T17:04:14.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "4vp6gjgw79"
+            },
+            "reviewBody": "Great recipe! Although I didn’t add as much milk as the recipe called for. I only used 3/4 cup milk, instead. It came out more like a pie filling and less like a soufflé. Either way, it turns out delicious. ??",
+            "datePublished": "2021-11-26T00:34:28.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dmartini"
+            },
+            "reviewBody": "I make this every year for Thanksgiving, following the recipe to a T with one exception. I use a full teaspoon of cinnamon, and the other spices I use a heaping measure instead of a flat measure. Using a 15 oz can of pumpkin puree, this makes two deep dish pies.\n\nYummy!!",
+            "datePublished": "2020-11-26T16:33:08.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandra Crowell"
+            },
+            "reviewBody": "I under cooked!!",
+            "datePublished": "2019-12-02T01:01:07.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pawpawcook"
+            },
+            "reviewBody": "I used 1/2 cup less milk and a little over on pumpkin puree’.\nMeasured heavy w spices.\nUsed one pie crust and filled full. Had 1 ramekin of filling left over to bake and taste test. It was good!",
+            "datePublished": "2019-11-28T16:09:15.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LOSTAZURE"
+            },
+            "reviewBody": "I stayed true to the recipe and the pie is fantastic. This recipe easily makes 2 deep dish pies. If I try to use regular pie crusts I end up with leftover filling. Even with the regular pie crust size this has always taken much longer to bake than 45 minutes. I usually start there and recheck every 10-15 minutes until it sets. I love thebalance of spices and this recipe is so easy it has ruined store bought pumpkin pie for my family. This is the tried and true recipe I return to year after year.",
+            "datePublished": "2019-11-28T03:55:03.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Megan Abbott"
+            },
+            "reviewBody": "Came out runny. Way too much milk! Might try it again with less.",
+            "datePublished": "2019-11-24T07:21:15.337Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12141/moms-pumpkin-pie/",
+          "name": "Mom&#39;s Pumpkin Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/819/desserts/pies/pumpkin-pie/",
+                  "name": "Pumpkin Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

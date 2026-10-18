@@ -1,0 +1,457 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11899/basic-pasta/",
+  "extracted_at": "2026-10-18T01:47:49.983207+00:00",
+  "recipes": [
+    {
+      "name": "Basic Homemade Pasta",
+      "ingredients_raw": [
+        "1 cup all-purpose flour",
+        "0.5 teaspoon salt",
+        "1 egg, beaten",
+        "2 tablespoons water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine flour and salt in a medium bowl. Make a well in the center and add beaten egg. Mix well until a stiff dough forms, adding up to 2 tablespoons water if needed."
+        },
+        {
+          "id": 3,
+          "text": "Knead dough on a lightly floured surface until smooth, 3 to 4 minutes. Wrap dough and let rest at room temperature for 30 to 60 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Roll dough by hand or with a pasta machine to desired thickness, then cut into strips of desired width and length."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Basic Homemade Pasta",
+        "datePublished": "1999-04-08T16:41:24-04:00",
+        "dateModified": "2026-10-12T13:13:11-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Pat"
+          }
+        ],
+        "description": "Making deliciously tender homemade pasta is easy with this three-ingredient recipe. Simply double or triple the amounts if you need more.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/6pENC13Ep6dvQKaUagFevca7r9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-hero-89f27506618044bd8dad72a436aff32d.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Basic Homemade Pasta",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "635"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "176 kcal",
+          "carbohydrateContent": "32 g",
+          "cholesterolContent": "62 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "412 mg",
+          "sugarContent": "0 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 cup all-purpose flour",
+          "0.5 teaspoon salt",
+          "1 egg, beaten",
+          "2 tablespoons water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/KVV9cjQdkApACEpBcqAWrVxF5pI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-01--9eab2a9a60404627ae298732f9ef10f8.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/P0AS-f5r-csCPJt13egvF6VXXWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-02-1f9827a322ba4d39b6ab7e4c21ff7a9c.jpg"
+              }
+            ],
+            "text": "Combine flour and salt in a medium bowl. Make a well in the center and add beaten egg. Mix well until a stiff dough forms, adding up to 2 tablespoons water if needed."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/St99qMaxNwYAKPa4yMLEFnUbW8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-03-7d3c45ca5e424a0e8fc46b6f02903022.jpg"
+              }
+            ],
+            "text": "Knead dough on a lightly floured surface until smooth, 3 to 4 minutes. Wrap dough and let rest at room temperature for 30 to 60 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/2NSWOwRwl26n2RvJIneIueEsNVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-04-bd2bc909b43148a2a46abe88c786eccb.jpg"
+              }
+            ],
+            "text": "Roll dough by hand or with a pasta machine to desired thickness, then cut into strips of desired width and length."
+          }
+        ],
+        "recipeYield": "3",
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy C."
+            },
+            "reviewBody": "I just made this recipe for the first time. I am an experienced pasta maker, using various machines, rollers etc. This is by far the easiest to handle and has an excellent flavor. I used a kitchen-aid to mix the dough, but did the final kneading by hand. I doubled it the first time I used it. I added 1 tablespoon of olive oil in place of some of the water as well. After kneading, I covered it in plastic wrap and let it rest for about 15 minutes. Awesome performance in the rollers, and cutters and a better recipe than the Kitchen-Aid manual which I have always found to be too dry no matter what I do. This is awesome and now my go to recipe."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DianeF"
+            },
+            "reviewBody": "I tried this today decreasing the salt to 1/4 tsp. and adding 1 tsp. of olive oil. Most doughs need to rest after being worked so that they will roll out easier and this dough definitely benefitted from resting (to let the gluten relax). \n\nI doubled the recipe to \"play around\" and cut fettucine sized strips as well as 1\" wide strips. I also cut some wider and tried my hand at a few herb-seasoned ricotta-filled ravioli and then cut some wider still and used that same filling to make some free-form lasagnes. Everything boiled up wonderfully... tender and delicate! Yum! Can't wait to try some of the noodles/pasta in some homemade turkey soup after Thanksgiving!\n\nAll I can say, after my first attempt at homemade pasta is you gotta try it! And you DON'T need a pasta machine either! Keep your rolling pin and work surface well-floured, keep a pastry brush handy to brush excess flour off the rolled dough, and keep a stainless steel dough scraper handy just in case you do get a bit of adhering to the work surface.",
+            "datePublished": "2002-11-20T14:44:38.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I have been making homemade pasta for years. If I am going to be serving it the same day, I use cake flour. If I am going to dry it and store it, I add a ½ cup of semolina flour. I also add one or two tablespoons of extra virgin olive oil. \r\nThis basic recipe is perfect for beginners to the world of fresh pasta making. For those who have had a difficult time, keep trying. You will improve with practice. The addition of additional ingredients such as different seasons and herbs lends itself very redily to this recipe. The secret to pasta making is simple. LET IT REST!",
+            "datePublished": "2005-04-06T14:28:52.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "YellowFrog8444"
+            },
+            "reviewBody": "Loved it! So easy, simple, doesn’t require much time to make, and is delicious. Highly recommend it. Made it as a last minute dinner, and turned out perfect. It is just as easy to roll it out, as well as to use a pasta machine to flatten it and cut it. Recommend cutting it with a pizza cutter, or a sharp blade. The more you knead it, the better it turns out, and it could do with a teaspoon of olive oil. It is mess free, and it is a fun activity to do with kids. It only takes around 3 - 5 minutes to boil it. Added cheese to it, delicious. So many different shapes that you can make. If you dip a cookie cutter in flour, you can make so many different shapes. Experiment with it. The serving size was perfect, a filling meal for three people. Definitely worth it, and I’m going to make it again for my large family. To make more pasta, just multiply all of the ingredients. It was a little bit tough, but the more it was mixed, the better it became. You can even use a mixer to knead it. Make sure there are no air bubbles in the pasta. It doesn’t need the egg whites, even just an egg yolk works, but with an egg yolk, you might need 2 per cup of flour. Overall, the result was delicious, and it wasn’t chewy at all. So tender, so worth it, and so simple.",
+            "datePublished": "2024-09-14T02:53:27.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HandyDill4347"
+            },
+            "reviewBody": "I had seen another recipe where a commenter mentioned a 1:1:1 ratio of 1 cup flour to 1 large egg to 1 tbsp water and searched to find any similar recipe and came across this. As it was quite similar to this recipe, I used that measurement. I think it's important that the flour is spooned into the cup and leveled so you don't use too much, also that well and gently mixing in the egg and flour with a fork if hand mixing before kneading helps heaps and makes it easier. The dough was perfect! I unintentionally let it rest for almost 2 hours. Then after cutting I let it hang to dry for about 30/45 minutes before I cooked it. I have been informed by la familia that they will no longer be eating storebought dried pasta. Best pasta I've had and so so simple!",
+            "datePublished": "2025-06-25T08:48:40.701Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunChai3135"
+            },
+            "reviewBody": "Fantastic.. I used a stand mixer though and it works well . Just make sure all the flour is blended in .. if I may also add . Wrap the dough in Saran Wrap tightly and rest it in fridge for 30 minutes",
+            "datePublished": "2024-01-29T22:01:56.616Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ron"
+            },
+            "reviewBody": "I took this basic recipe d used it to make gluten free pasta for my family. (My wife and two boys are gluten intolerant) I substituted Pillsbury GF flour and added 4 eggs instead of one. I also added a good tablespoon of olive oil to the mix. It was great. It tastes exceptional. It did take some practice to roll it out thin enough to make lasagna noodles, but I got it after two attempts. My family loves it and says the pasta tastes and eats like the real thing. I just needed a good basic starting point, and this recipe was IT!",
+            "datePublished": "2017-01-13T22:12:09.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ucirlos"
+            },
+            "reviewBody": "I have made this recipe Andre times and I loved it. I did follow what others said about replacing a tablespoon of water with a tablespoon of olive oil. I let the dough ready for about 15 min and it was a lot easier to work with. I have also made this pasta using half cup of flour and half cup of semolina. I prefer the addition of semolina. When using semolina I have added half a tablespoon of olive oil in addition to the water.",
+            "datePublished": "2017-08-12T06:09:35.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KitKat"
+            },
+            "reviewBody": "Delicious! I followed the advice of some other reviewers and doubled the recipe and added a tiny bit of olive oil to the flour, egg, salt &amp; water mixture during kneading. I also let the dough rest for 45 minutes before rolling out by hand and it truly made it easy to work with. Awesome recipe! ??",
+            "datePublished": "2018-11-27T05:38:25.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bbhomebody"
+            },
+            "reviewBody": "Great simple recipe. I mixed it all in the kitchenaid with the dough hook then let it sit for 30 minutes before rolling it out very thin.I used half semolina flour and half white flour which makes an excellent noodle. Also added a tablespoon of avacado oil,(I was out of olive oil). I cut the very thin pasta to the size of spaghetti and linguine, cooked in hot, but not quite boiling water for about 2 minutes. It held up beautifully in carbonara.",
+            "datePublished": "2014-05-29T20:19:20.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sunshlne"
+            },
+            "reviewBody": "I doubled the recipe, added the olive oil as suggested - 1 tbls, and reduced flour by about 1/2 cup. Started in food processor and then kneaded for about 3 minutes. Wrapped in plastic wrap and let rest for 30 min, then used pasta roller. Turned out perfectly!",
+            "datePublished": "2014-09-21T15:08:58.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie"
+            },
+            "reviewBody": "I made a rainbow with all sorts of noddles!! and it is the family favorite and worth the 4 hrs of struggling to make the rainbow lol",
+            "datePublished": "2026-10-05T18:40:08.558Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tanaisha"
+            },
+            "reviewBody": "I made spaghetti and let me tell you, it was absolutely delicious and this recipe is forever going to be with me",
+            "datePublished": "2026-09-28T04:10:51.091Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caitlin"
+            },
+            "reviewBody": "I definitely had to add more eggs than recommended. It wasn’t doing anything. I was also disappointed to find the 2x recipe wasn’t enough to feed a full family. I would have had to make way more. I wish it included how many estimated people it feed. Luckily after all I did I had some extra box pasta I was able to make separate as I wasn’t sitting to roll and cut all over again at this point. Hopefully it taste well and feeds enough of us.",
+            "datePublished": "2026-02-13T23:58:48.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mikeelec77"
+            },
+            "reviewBody": "Added an extra egg and about a tablespoon of olive oil. Worked out great after that. With the double recipe feeding 5 adults.",
+            "datePublished": "2026-01-16T23:13:27.802Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gigi"
+            },
+            "reviewBody": "I did every step and it was not coming together at all. Not sure how this received great ratings",
+            "datePublished": "2026-01-14T02:01:16.292Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maxwell W"
+            },
+            "reviewBody": "I had never made homemade pasta before, and this recipe was a great introduction to it. Tasted 10x better than the stuff you get in the store, even if I was terrible at cutting even sized noodles. Definitely a keeper!",
+            "datePublished": "2026-01-02T14:09:02.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anna Maria Beks"
+            },
+            "reviewBody": "Its easy to make. Just follow the directions and it turns out perfect everytime.",
+            "datePublished": "2025-12-06T17:21:52.214Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Theresa Lane"
+            },
+            "reviewBody": "Definitely needs more egg and/or water in proportion to flour called for. Definitely add a tbsp of EVOO. Will use again keeping this in mind.",
+            "datePublished": "2025-11-30T20:40:11.724Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kaylee"
+            },
+            "reviewBody": "I haven't tried it yet but there are so many other pasta dishes that are so much more complicated but this one is the keeper!!",
+            "datePublished": "2025-09-27T13:51:44.986Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11899/basic-pasta/",
+          "name": "Basic Homemade Pasta",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/95/pasta-and-noodles/",
+                  "name": "Pasta and Noodles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/494/pasta-and-noodles/homemade-pasta/",
+                  "name": "Homemade Pasta Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,232 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220464/italian-style-chicken-salad/",
+  "extracted_at": "2026-10-18T03:10:20.635053+00:00",
+  "recipes": [
+    {
+      "name": "Italian Style Chicken Salad",
+      "ingredients_raw": [
+        "0.5 cup extra-virgin olive oil",
+        "3 cloves garlic, minced",
+        "2 lemons, juiced",
+        "1 (2 pound) roasted chicken, meat removed from bones and cut into bite-size pieces",
+        "1 bulb fennel, cored and cut into thin slices",
+        "3 stalks celery, thinly sliced",
+        "1 red onion, thinly sliced",
+        "0.5 cup chopped fresh parsley",
+        "0.5 cup mayonnaise",
+        "1 lemon, zested",
+        "salt and ground black pepper to taste",
+        "1 bunch arugula"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat olive oil in a skillet over medium heat. Cook and stir garlic until softened and golden brown, 3 to 5 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Stir in lemon juice; set aside to cool."
+        },
+        {
+          "id": 3,
+          "text": "Toss chicken, fennel, celery, red onion, and parsley together in a large bowl."
+        },
+        {
+          "id": 4,
+          "text": "Stir in the cooled garlic and olive oil, mayonnaise, lemon zest, salt, and black pepper."
+        },
+        {
+          "id": 5,
+          "text": "Arrange arugula on a serving platter; serve chicken salad on arugula."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Italian Style Chicken Salad",
+        "datePublished": "2019-07-10T03:03:06-04:00",
+        "dateModified": "2025-03-16T00:51:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "KrissyHipp30"
+          }
+        ],
+        "description": "A great way to use up leftover chicken, this salad of peppery arugula and fennel has a delicious lemony garlic dressing with a bit of mayonnaise.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/eXQ6cMRHsqq-5XBKZcH9HPxbdZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5326986-cde6ec8fe302499a9d0b4d4e969f1435.jpg",
+          "height": 844,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Italian Style Chicken Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "3"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "540 kcal",
+          "carbohydrateContent": "8 g",
+          "cholesterolContent": "82 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "225 mg",
+          "sugarContent": "2 g",
+          "fatContent": "45 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "0.5 cup extra-virgin olive oil",
+          "3 cloves garlic, minced",
+          "2 lemons, juiced",
+          "1 (2 pound) roasted chicken, meat removed from bones and cut into bite-size pieces",
+          "1 bulb fennel, cored and cut into thin slices",
+          "3 stalks celery, thinly sliced",
+          "1 red onion, thinly sliced",
+          "0.5 cup chopped fresh parsley",
+          "0.5 cup mayonnaise",
+          "1 lemon, zested",
+          "salt and ground black pepper to taste",
+          "1 bunch arugula"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a skillet over medium heat. Cook and stir garlic until softened and golden brown, 3 to 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in lemon juice; set aside to cool."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Toss chicken, fennel, celery, red onion, and parsley together in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in the cooled garlic and olive oil, mayonnaise, lemon zest, salt, and black pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Arrange arugula on a serving platter; serve chicken salad on arugula."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JOYCE LITOFF"
+            },
+            "reviewBody": "I decided to make this recipe for a post-covid in-person meeting of my monthly book group dinner.\n\nWe share a potluck meal consisting of dishes inspired by the books we read. This month we read “The Last Days of Night” about the rivalry between Thomas Edison and George Westinghouse over their newly patented technology: the light bulb. I loved that this recipe has two different kinds of bulbs: fennel and garlic!\n\nI used about one pound (approx. 4 cups) of the meat from a rotisserie chicken…so easy. I used only 1/4c of olive oil, which was plenty, and I added a few slivers of carrot for some color. I think red pepper would be good for color, too. I served this chilled. Five stars for this delicious BRIGHT dish!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Kovacs"
+            },
+            "reviewBody": "I made as recipe said, it was very tasty. I did not have it on arugala, it was good as is. I don't understand why the picture does not \"show\" any mayonaise. Mine was \"white\" dressing. Everything blended very well together, very refreshing. Loved the fennel.",
+            "datePublished": "2021-02-10T00:44:47.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "4.18.18 Had just enough of a boneless/skinless chicken breast in the fridge for lunch today. Since I didn’t have any fennel, I Googled it, and found that bok choy is a good sub, so that’s what I used. Just really enjoyed this very different version of chicken salad which is very delicate in flavor. The garlic flavor certainly is there but does not dominate. I did cut back on the mayo (would do so again) and served on spinach leaves (what I had on hand), although I think arugula would be even better. Thanks for sharing your recipe.",
+            "datePublished": "2018-04-18T15:27:28.820Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220464/italian-style-chicken-salad/",
+          "name": "Italian Style Chicken Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

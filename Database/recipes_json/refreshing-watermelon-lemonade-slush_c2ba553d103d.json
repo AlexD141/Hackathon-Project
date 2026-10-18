@@ -1,0 +1,376 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/218887/refreshing-watermelon-lemonade-slush/",
+  "extracted_at": "2026-10-18T03:06:41.405414+00:00",
+  "recipes": [
+    {
+      "name": "Refreshing Watermelon Lemonade Slush",
+      "ingredients_raw": [
+        "1 cup cubed seeded watermelon",
+        "1.25 cups water",
+        "3 tablespoons sweetened strawberry lemonade drink mix"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place the watermelon pieces onto a plastic-wrapped baking sheet, and freeze until solid, about 45 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Place the frozen watermelon, water, and strawberry lemonade drink mix in a blender; blend until slushy."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Refreshing Watermelon Lemonade Slush",
+        "datePublished": "2020-06-30T17:36:46-04:00",
+        "dateModified": "2022-01-14T01:27:40-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Terri Myers"
+          }
+        ],
+        "description": "This simple and refreshing watermelon slushy drink is so easy, a kid can make it. Just blend frozen watermelon, water, and lemonade drink mix, and serve.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/iaht_JY3YR9y3db_V1smgLHl8WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1027018-2e66f193a0034dfbbfbc04a1ac4996ba.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/QGrjrx8o-K3AjnAEN.mp4",
+          "description": "One of summer's sweetest treats is watermelon, and this watermelon slushy is the perfect refreshing drink! Watermelon is cut into cubes, frozen, and blended up with strawberry lemonade drink mix! ",
+          "duration": "PT1M",
+          "name": "How to Make Watermelon Slushy ",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/QGrjrx8o/poster.jpg?width=1280",
+          "uploadDate": "2023-05-04T09:29:39-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Refreshing Watermelon Lemonade Slush",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "20"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "71 kcal",
+          "carbohydrateContent": "19 g",
+          "fiberContent": "0 g",
+          "proteinContent": "1 g",
+          "sodiumContent": "15 mg",
+          "sugarContent": "16 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "1 cup cubed seeded watermelon",
+          "1.25 cups water",
+          "3 tablespoons sweetened strawberry lemonade drink mix"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place the watermelon pieces onto a plastic-wrapped baking sheet, and freeze until solid, about 45 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/iaht_JY3YR9y3db_V1smgLHl8WM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1027018-2e66f193a0034dfbbfbc04a1ac4996ba.jpg"
+              }
+            ],
+            "text": "Place the frozen watermelon, water, and strawberry lemonade drink mix in a blender; blend until slushy."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Virgcart"
+            },
+            "reviewBody": "Great after school snack for kiddos....and so much better than a Sonic slushy! I used regular lemonade mix, and they loved it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kaitlyn m"
+            },
+            "reviewBody": "This drink was great I made it for a group of my friends and they loved it. It was a last minute idea though so since I didn't have time to freeze the watermelon I decided to sub the water for ice and it turned it great",
+            "datePublished": "2016-07-10T20:59:32.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Big Mac"
+            },
+            "reviewBody": "I only rated this three stars because it was too bland/simple. I had to add some frozen lime juice, crushed ice and Tequila! Awesome!",
+            "datePublished": "2016-06-24T00:09:34.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef Boy R Drew"
+            },
+            "reviewBody": "Pretty tasty I would recommend freezing the watermelon for over 45 mins and adding ice as there wasn't much slush to it.",
+            "datePublished": "2016-09-17T01:51:26.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MK_101girl"
+            },
+            "reviewBody": "I did not have the strawberry and lemonade mix so i used just the plain lemonade mix it was really good",
+            "datePublished": "2020-05-11T23:04:09.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jennyg"
+            },
+            "reviewBody": "I made this, but I added a 1/4 cup vodka and only used 1 cup of water. I think if I make this again, I will use 1 cup ice instead of water. It's a little watery.",
+            "datePublished": "2016-08-30T23:27:33.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa Goff"
+            },
+            "reviewBody": "OMGosh!!! this was the best summertime drink this season ;-) I had soo much leftover watermelon from the 4th of July, that I didn't want not one piece to go to waste!! Froze up a cup to a cup &amp; a 1/4th in individual baggies and waited ;-) Had to make my own drink mix with unsweetened drink mix and sugar and followed the recipe like stated. I ended up adding a TBSP more because I believe the pre-made stuff is more concentrated then mine...but however, it took all of a couple of minutes to pull things to one stop and whip in a matter of seconds...TY TY TY this was the best, now I can make it with a moments notice on the fly! YUM!!!!!",
+            "datePublished": "2013-07-07T16:52:13.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amber Prince"
+            },
+            "reviewBody": "Delicious fun summer treat!",
+            "datePublished": "2021-07-14T06:26:17.877Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bushra"
+            },
+            "reviewBody": "I made this according to the recipe but I just made a jug for. My guests just loved it and I put in a little umbrella and made it fun. Such an easy recipe and delicious.",
+            "datePublished": "2021-06-13T06:14:56.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ghsjdjebfkw38458"
+            },
+            "reviewBody": "this was an amazing recipe of I make it again I would use less water and ice for thickness depending on your preference but over all this was amazing",
+            "datePublished": "2021-05-20T16:46:51.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JAIS CHARLESTON"
+            },
+            "reviewBody": "I would put a lime in it and yes, I would make it again! :)",
+            "datePublished": "2019-11-22T02:32:47.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "susanhai"
+            },
+            "reviewBody": "Made this today for my son who loves watermelon and strawberry lemonade. So simple but so incredibly easy and very good. Thanks for sharing!",
+            "datePublished": "2017-06-20T21:52:28.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CLM"
+            },
+            "reviewBody": "Delish",
+            "datePublished": "2014-11-21T11:54:14.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mixit"
+            },
+            "reviewBody": "Mixed up my own sweetened drink mix as mis7up suggested, then followed the recipe as stated. Another great cooler for the hot summer weather. Awwww hits the spot!",
+            "datePublished": "2013-07-25T17:58:27.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holiday Baker"
+            },
+            "reviewBody": "I decided to try this when I saw it posted recently. I was surprised at how much water was in the drink. I just knew it would be completely thin even with the frozen fruit. The flavor isn't bad, just a bit lemony. I make a similar drink with real watermelon, strawberries, and fresh lemon juice. It is as thick as a slurpy. I will have to post it some time. The flavor of this was decent, though, and I liked the calorie count. Just a bit too much water texture wise for my taste.",
+            "datePublished": "2013-07-07T19:01:14.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda Walker"
+            },
+            "reviewBody": "Love it. I use lemon aid mix or sometimes a squeezed lemon and my frozen \nwatermelon. I serve it to company and they are amazed with the taste and the idea of using frozen watermelon. Big hit!!",
+            "datePublished": "2013-06-12T11:50:46.690Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/218887/refreshing-watermelon-lemonade-slush/",
+          "name": "Refreshing Watermelon Lemonade Slush",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16348/drinks/slushies/",
+                  "name": "Slushie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

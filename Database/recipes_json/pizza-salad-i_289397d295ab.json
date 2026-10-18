@@ -1,0 +1,396 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16432/pizza-salad-i/",
+  "extracted_at": "2026-10-18T02:20:59.435737+00:00",
+  "recipes": [
+    {
+      "name": "Pizza Salad",
+      "ingredients_raw": [
+        "1 head iceberg lettuce, torn into bite-sized pieces",
+        "0.5 pound salami, cut into strips",
+        "1 cup shredded mozzarella cheese",
+        "1 cup shredded Cheddar cheese",
+        "1 tomato, chopped",
+        "0.5 cup pitted black olives, halved",
+        "1 tablespoon chopped fresh chives",
+        "1 (8 ounce) can tomato sauce",
+        "0.5 cup vegetable oil",
+        "0.25 cup white wine vinegar",
+        "1 teaspoon white sugar",
+        "1 teaspoon dried oregano",
+        "1 teaspoon salt",
+        "0.25 teaspoon garlic powder",
+        "0.125 teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine lettuce, salami, mozzarella cheese, Cheddar cheese, tomato, olives, and chives in a large bowl. Mix well to combine."
+        },
+        {
+          "id": 2,
+          "text": "Make dressing: Whisk together tomato sauce, oil, vinegar, sugar, oregano, salt, garlic powder, and pepper in a medium bowl."
+        },
+        {
+          "id": 3,
+          "text": "Pour enough dressing over lettuce mixture to coat; toss and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pizza Salad",
+        "datePublished": "2000-03-12T14:38:03-05:00",
+        "dateModified": "2022-10-13T16:14:35-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Patrick"
+          }
+        ],
+        "description": "Except for the crust, it&#39;s pizza! It&#39;s got tomato sauce, lots of cheese, salami, olives, herbs, and a great dressing drizzled over everything before serving.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/y19dL9Ht6GPQmEDAHnea1ig9aAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/694594-681774411cba41c69a7202499d0791a4.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pizza Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "ratingCount": "42"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "475 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "70 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "20 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "1692 mg",
+          "sugarContent": "5 g",
+          "fatContent": "41 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "1 head iceberg lettuce, torn into bite-sized pieces",
+          "0.5 pound salami, cut into strips",
+          "1 cup shredded mozzarella cheese",
+          "1 cup shredded Cheddar cheese",
+          "1 tomato, chopped",
+          "0.5 cup pitted black olives, halved",
+          "1 tablespoon chopped fresh chives",
+          "1 (8 ounce) can tomato sauce",
+          "0.5 cup vegetable oil",
+          "0.25 cup white wine vinegar",
+          "1 teaspoon white sugar",
+          "1 teaspoon dried oregano",
+          "1 teaspoon salt",
+          "0.25 teaspoon garlic powder",
+          "0.125 teaspoon ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine lettuce, salami, mozzarella cheese, Cheddar cheese, tomato, olives, and chives in a large bowl. Mix well to combine."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Make dressing: Whisk together tomato sauce, oil, vinegar, sugar, oregano, salt, garlic powder, and pepper in a medium bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour enough dressing over lettuce mixture to coat; toss and serve."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle H"
+            },
+            "reviewBody": "this is quick and easy to put together. i added in some green peppers and sliced pepperoni to the mix. you could also add some sliced onion too! the dressing was tasty, not tomato-y at all. in addition, i took some boboli pizza crust, heated it according to package directions and then sliced it to serve alongside the salad."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Baxter-Blubaugh"
+            },
+            "reviewBody": "This is a terrific salad to take to a picnic or BBQ. However, I think it would be better with 1/4 lb. of salami and a 1/2 cup of each cheese. Also, I followed another reviewers suggestion of adding less oil. ( I put in about 1/4 cup.) This was a huge hit at our 4th of July party!!",
+            "datePublished": "2003-07-06T06:32:00.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "I used mini pepperoni instead of the salami and added some mushrooms as well. This was good but I think some fresh herbs in the dressing would improve it and make it stand out more. I added parsley to the leftover dressing on day 2 before I went to snap the photo and that was really good so I'm thinking basil would be a great addition too.",
+            "datePublished": "2011-08-30T15:37:39.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DECAR48"
+            },
+            "reviewBody": "Loved it! Used Romaine and omitted cheddar the 2nd time and it was still wonderful. Added pepperoni slices with shredded pizza cheese (instead of the mozzarella and cheddar cubes)another time. I think it's the dressing that's so good!",
+            "datePublished": "2003-07-18T05:17:40.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Really quick and easy. I especially loved the dressing!! It was very similar to a dressing served in an Italian restaurant that I used to love. I added green and red bell peppers, red onions, mushrooms. Thanks for a great salad!!",
+            "datePublished": "2003-07-11T03:07:12.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen Lilly Freitas"
+            },
+            "reviewBody": "This salad was so delicious! My husband and daughter really liked it, too! He had two bowls! My husband doesn't like black olives, so I omitted those, but otherwise didn't change a thing. I really loved the dressing the best. I was thinking it would somehow taste tomato-ey and not very good, but I was very pleasantly surprised! It had a wonderful flavor without even a hint of the tomato sauce flavor. I could see making this salad with romaine lettuce or spinach leaves to add to the vitamin content :) I also plan on using the dressing recipe for other salads I make.",
+            "datePublished": "2003-07-15T18:27:43.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nicole73"
+            },
+            "reviewBody": "This definately tasted just like pizza without the crust. Evenso, it didn't do much for me...I think if I make it again I will try romaine lettuce instead of iceberg. I couldn't just eat this for a meal again. Would be good to take to a potluck.",
+            "datePublished": "2003-09-05T04:06:19.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "DON'T PUT THE DRESSING ON TOO SOON. SALAD GETS WEEPY TOO QUICKLY. GOOD FLAVOR",
+            "datePublished": "2003-07-10T13:39:16.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Myra Becker"
+            },
+            "reviewBody": "We loved this salad! Smelled like pizza and had all the flavors of pizza we love! Will definitely be making this again! Thanks so much for sharing!",
+            "datePublished": "2018-03-31T22:40:06.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy Bensley"
+            },
+            "reviewBody": "We added mushrooms, green peppers, and fresh basil.",
+            "datePublished": "2016-09-02T23:10:27.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bctawn"
+            },
+            "reviewBody": "My whole family loved this. I did cook up some seasoned ground beef instead of the salami, and added mushrooms...but other than that it was wonderful. My kids put what toppings they wanted on their salad and everyone loved the tomatoe vinegrette...I will make this again:)",
+            "datePublished": "2011-11-30T07:51:48.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "recipejunkie5"
+            },
+            "reviewBody": "Pizza with no crust so you can have fewer calories? Who are they kidding? Each serving has 40.5 grams of fat! With all that it wouldn't matter if you ate the crust!",
+            "datePublished": "2011-09-01T06:49:05.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alice"
+            },
+            "reviewBody": "I belong to a cooking club and our first theme this season was Pizza Party and I had to bring a salad. This was just the right recipe. It was easy to make &amp; was a great hit with everyone in the club. Plus my daughter liked it so much - she took it for lunch the next day. I will definitely be making this recipe again.",
+            "datePublished": "2007-10-12T13:39:43.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly"
+            },
+            "reviewBody": "We really enjoy this recipe! It is very tasty. I did not change a thing!",
+            "datePublished": "2006-02-16T15:11:21.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QUASINAUGHT"
+            },
+            "reviewBody": "The dressing did not mix well.",
+            "datePublished": "2006-02-12T13:55:02.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debilyn"
+            },
+            "reviewBody": "We did not care for this. Thanks for posting though!",
+            "datePublished": "2004-03-22T09:51:22.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This is a great salad, especially for the Fourth of July crowd. My guests just love it. I will definitely make it again!",
+            "datePublished": "2003-11-24T13:13:00.480Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16432/pizza-salad-i/",
+          "name": "Pizza Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

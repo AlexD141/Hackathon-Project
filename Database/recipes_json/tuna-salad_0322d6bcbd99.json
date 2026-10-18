@@ -1,0 +1,360 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21406/tuna-salad/",
+  "extracted_at": "2026-10-18T02:52:11.083144+00:00",
+  "recipes": [
+    {
+      "name": "Tuna Salad",
+      "ingredients_raw": [
+        "1 (5 ounce) can tuna, drained",
+        "1 (15 ounce) can chickpeas (garbanzo beans), drained",
+        "2 hard-boiled eggs, chopped",
+        "1 cucumber, peeled and diced",
+        "1 head iceberg lettuce, torn into bite-sized pieces",
+        "0.5 cup French dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large mixing bowl, combine tuna, chickpeas (garbanzo beans), chopped hard-boiled eggs, diced cucumber, and iceberg lettuce."
+        },
+        {
+          "id": 2,
+          "text": "Toss well and add French dressing to taste."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tuna Salad",
+        "datePublished": "2000-09-24T18:28:56-04:00",
+        "dateModified": "2022-07-14T17:38:54-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Bill Pfeiler"
+          }
+        ],
+        "description": "Tuna and lettuce salad with garbanzo beans, chopped egg, and cucumber. Great with French dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8ocBgtQkESAhTdjiCwsf8O85K6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9158068-3be7d6a5f7be4421b27abc8e94cbb997.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tuna Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "20"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "350 kcal",
+          "carbohydrateContent": "27 g",
+          "cholesterolContent": "115 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "16 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "548 mg",
+          "sugarContent": "9 g",
+          "fatContent": "19 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "1 (5 ounce) can tuna, drained",
+          "1 (15 ounce) can chickpeas (garbanzo beans), drained",
+          "2 hard-boiled eggs, chopped",
+          "1 cucumber, peeled and diced",
+          "1 head iceberg lettuce, torn into bite-sized pieces",
+          "0.5 cup French dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large mixing bowl, combine tuna, chickpeas (garbanzo beans), chopped hard-boiled eggs, diced cucumber, and iceberg lettuce."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Toss well and add French dressing to taste."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MELONDECA"
+            },
+            "reviewBody": "This is a really good salad recipe. I used mayo instead of the french dressing and I added some garlic and onion powders just out of personal preference. Nice cool summer supper."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I used a homemade low-calorie ranch dressing instead of french dressing and the garbanzo beans I used were organic. I chose to make lettuce wraps out of this salad. What I did was add some finely shredded lettuce to the salad, not as much that was called for, and I wrapped the salad in leaves of lettuce. This was tasty and quite filling. I think that this was made much better by using a homemade dressing. There's more than enough for two more lunches.",
+            "datePublished": "2012-04-19T08:14:07.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emersonrenee"
+            },
+            "reviewBody": "I made as stated except I used fresh baby spinach instead of iceberg lettuce and mayo instead of french dressing. It was delicious! I will definitely make this again!",
+            "datePublished": "2020-05-30T18:31:38.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "This turned out wonderfully. I cut up an apple and added about half of it. Some Italian seasoning was added, too. Instead of French dressing, I tried olive oil and red wine vinegar. This was served on toast with lettuce. I will make this again!",
+            "datePublished": "2013-04-20T13:27:45.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Logan Watson"
+            },
+            "reviewBody": "Added celery and white onion, instead of lettuce, because I had them. Added salt &amp; garlic powder. It's quite good! You can put almost any normal veggie in it, &amp; it would still be good. Hopefully the taste will get better in the frig tonight.",
+            "datePublished": "2015-07-21T18:22:38.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy Lynn"
+            },
+            "reviewBody": "This is a nice lunch salad. I doubled the tuna and used a bagged salad mix with carrots. I tried with Catalina dressing, and it's okay. I'd like to try with a vinaigrette when I eat the leftovers.",
+            "datePublished": "2021-04-17T17:11:56.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol"
+            },
+            "reviewBody": "I used ginger/sesame flavored tuna, and ginger dressing instead of French, topped with toasted sesame seeds. Very good.",
+            "datePublished": "2025-01-26T23:45:18.501Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ilkaisha"
+            },
+            "reviewBody": "This is a good salad! I skipped the cucumbers, as I didn't have any, but added some red onion. I actually ate it rolled up in the lettuce rather than tossed in it. Little salad burrito. Mmm.",
+            "datePublished": "2012-01-30T15:11:37.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bryana French"
+            },
+            "reviewBody": "Very good and easy dish! I didn't have cucumbers so I used pickles and miracle whip instead of French dressing. I also topped it on spinach. Delicious.",
+            "datePublished": "2014-02-09T18:13:44.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrs Hinman"
+            },
+            "reviewBody": "Very yummy! I did not use cucumbers (don't like them) and added extra beans. I used red wine vinaigrette dressing and LOVED the taste combination! Thanks for the idea!",
+            "datePublished": "2008-11-20T17:02:52.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LadyHawk2006"
+            },
+            "reviewBody": "I substituted chicken salad for tuna, mayo for french dressing, left out the cucumber (I don't like \"crunchy things\" in my chicken/tuna salads) and added a bit of cilantro. My husband and I liked this a lot, and he doesn't usually like chicken salad. The eggs seemed to make it creamy. Very tasty, will make again.",
+            "datePublished": "2010-10-20T18:26:24.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cortney Beth Gomez"
+            },
+            "reviewBody": "This is a great combination of different easy to find foods. I used lemon, salt, and pepper to avoid the extra fat and sugar. It came out delicious!",
+            "datePublished": "2019-08-12T20:19:37.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carm Moscarello"
+            },
+            "reviewBody": "Fantastic loved it. Makes more without adding more tuna. Chickpeas add a pleasant flavour.",
+            "datePublished": "2018-09-08T22:05:15.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Adam David Jones"
+            },
+            "reviewBody": "Do you licious. I play with it like all the other comments, but I feel that the most important things are the garbanzo beans, tuna, and cilantro.",
+            "datePublished": "2018-07-18T16:40:45.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "horsephoto"
+            },
+            "reviewBody": "Much better than I expected. I used tomatoes instead of cucumbers and 1000 island instead of French",
+            "datePublished": "2011-08-02T15:41:27.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne Kopecky Feeman"
+            },
+            "reviewBody": "This is good! I used a homemade french dressing that has lemon juice in the recipe and it really brightened up the flavor.",
+            "datePublished": "2009-04-03T07:49:11.893Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21406/tuna-salad/",
+          "name": "Tuna Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

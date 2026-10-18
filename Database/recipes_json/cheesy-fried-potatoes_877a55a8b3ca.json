@@ -1,0 +1,431 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20511/cheesy-fried-potatoes/",
+  "extracted_at": "2026-10-18T02:45:29.281482+00:00",
+  "recipes": [
+    {
+      "name": "Cheesy Fried Potatoes",
+      "ingredients_raw": [
+        "2 slices bacon",
+        "2 tablespoons butter",
+        "1 tablespoon diced onion",
+        "4 potatoes, peeled and sliced",
+        "salt and pepper to taste",
+        "2 eggs",
+        "0.5 cup shredded Cheddar cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned. Transfer to a paper towel-lined plate and crumble; leave grease in the pan."
+        },
+        {
+          "id": 2,
+          "text": "Heat bacon grease over medium heat, then stir in butter. Add onion and potatoes. Cover the pan and cook, stirring occasionally, until potatoes are golden brown."
+        },
+        {
+          "id": 3,
+          "text": "Crack eggs on top of potatoes and stir gently to combine. Sprinkle with salt, pepper, Cheddar, and bacon. Continue cooking until eggs are firm and cheese is melted."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Cheesy Fried Potatoes",
+        "datePublished": "2000-06-08T00:47:06-04:00",
+        "dateModified": "2026-08-12T11:41:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Marcia"
+          }
+        ],
+        "description": "These simple cheesy pan-fried potatoes with bacon, onion, Cheddar cheese, and eggs always cook up to perfection for a crowd-pleasing side dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/JmxJYsmEsgjmot1c2_FQTLkFmzc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4479223-7451aee876964ebb955e50fcad1964aa.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cheesy Fried Potatoes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "133"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "338 kcal",
+          "carbohydrateContent": "31 g",
+          "cholesterolContent": "133 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "287 mg",
+          "sugarContent": "3 g",
+          "fatContent": "19 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 slices bacon",
+          "2 tablespoons butter",
+          "1 tablespoon diced onion",
+          "4 potatoes, peeled and sliced",
+          "salt and pepper to taste",
+          "2 eggs",
+          "0.5 cup shredded Cheddar cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned. Transfer to a paper towel-lined plate and crumble; leave grease in the pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat bacon grease over medium heat, then stir in butter. Add onion and potatoes. Cover the pan and cook, stirring occasionally, until potatoes are golden brown."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Crack eggs on top of potatoes and stir gently to combine. Sprinkle with salt, pepper, Cheddar, and bacon. Continue cooking until eggs are firm and cheese is melted."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chellebelle"
+            },
+            "reviewBody": "An awesome comfort meal for a special treat! The only thing I do differently is to pre-cook the potatoes (just microwave while they are whole till barely soft, then peel and slice). The pan splatters less and they brown faster when you start with the potatoes already cooked."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robyn"
+            },
+            "reviewBody": "This was pretty good; after coming home to basically no clean dishes, I really needed a one pan dish, and it was exactly what I wanted (bacon, eggs and potatoes).. I used chicken bacon so there was no grease for the potatoes but that was fine, I also beat the eggs first but I found the final taste to be too eggy so I will add milk the next time. Upon suggestion I also used 3potatoes, 4 eggs (next time will use 4 potatoes) and I used 4 pieces of bacon; since it's chicken kind, I was easily able to slice it into big chunks before cooking. Microwaving the potatoes really helped too. Thanks!!",
+            "datePublished": "2010-08-19T18:36:02.193Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mistyskys"
+            },
+            "reviewBody": "Our family really liked this. I tweeked to our taste- added 2 tsp each of onion salt and garlic salt(+pepper) to egg and no reg. salt. i used cojack cheese and 1/4 yellow onion. i also used 5 med. potatoes with 6 eggs(could've used 8) and 4 slc. bacon. oh, i also microwaved the taters(peeled and cut in half) for 3 minutes first. No leftovers of this one!",
+            "datePublished": "2009-05-24T10:17:04.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "missivy"
+            },
+            "reviewBody": "A wonderful comfort food for cold winter nights and Sunday mornings!I have made something similar my whole life. I also use a lot more bacon, about 1 slice per potato, and I saute in some onion. The eggs don't get scrambled in, I push the potatoes to the side and fry them. The bacon stays in the pan while the potatoes are frying, and the cheese just gets melted over it.",
+            "datePublished": "2008-02-29T12:13:05.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rawrritsalexxis"
+            },
+            "reviewBody": "the recipie was ok.. it definatly needs to be more specific.. the potatoes took nearly forever to cook.. the ratios were off... there needed to be more cheese, eggs and more veggies. adding half an onion, shallots, chives, lemon juice, garlic, and various spices really added some depth to this dish. i reccomend adding in extra cheese and butter. if youre using a lot of potatoes.. put them in the microwave at about 3 minute intervals.. pop them in the microwave for the first 3 mins, let them sit for a while, 3 mins again then start cooking your bacon... the potatoes take FOREVER to cook.. it got annoying i like them better with the skins on. but if you like them off i suggest peeling them BEFORE popping them in the microwave. but with all the add ins all in all it was a pretty good dish.",
+            "datePublished": "2009-02-26T19:34:41.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GatorGuff"
+            },
+            "reviewBody": "My husband picked this recipe out and he loves it! I only made some minor changes. I usually cook the bacon in the microwave and use just a little bit of oil with the butter in the pan to cook the potatoes. I add some paprika to the potatoes as they cook. Once they're browned I take them out and drain the excess oil, I'm sure this modification keeps it healthier! However, I use three slices of bacon instead of two and I double the amount of cheese! The dish comes out really good and my husband says that this will always be his first choice for breakfast!",
+            "datePublished": "2008-07-04T20:22:10.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deana Petrey"
+            },
+            "reviewBody": "Made this for dinner tonight- a huge hit! Called it \"country breakfast in a bowl\" and the kids gave it 5 stars and went back for more. I did use turkey bacon (which I removed after frying, diced up and threw back in with the cheese), added garlic and paprika and a mix of cheddar and jack cheeses ( way more than called for, lol). Since turkey bacon doesnt add grease, I used a bit of olive oil and it was not too greasy at all. Wonderful idea! Thanks so much",
+            "datePublished": "2010-12-29T19:59:36.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "random5811"
+            },
+            "reviewBody": "This is a great meal base, but I think it would have been bland if I hadn't added garlic salt and Italian seasoning to the potatoes. I also used taco cheese to mix it up a bit. Although so far I sound negative, I think this is a solid recipe for those nights when you didn't plan ahead for dinner. I used a small can of corned beef hash instead of bacon (yummy!) and kept adding a little butter here and there instead of using bacon grease. All in all, this is like an easy, open-faced omelet. Be prepared for it to look kind of messy, but for it to disappear quickly.",
+            "datePublished": "2008-01-13T17:37:11.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krista Vezeau"
+            },
+            "reviewBody": "I loved this recipe! I actually peeled then sliced the potatoes then boiled them the second time I made this recipe. The first time I made it the eggs got to overcooked by the time the potatoes were cooked through. I topped it with sour cream and salsa and green onions. Awesome!",
+            "datePublished": "2009-01-16T09:57:05.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "Excellent all in one breakfast skillet. It didn't look very appetizing, but the flavor was so delicious. I used 3 strips of bacon instead of 2 and used frozen o'brien hash brown potatoes. I doubled the eggs and poured it over all and then let it set like a fritatta. My husband and I loved this dish! We both ate more than our share because it was so good. Great breakfast. Thanks.",
+            "datePublished": "2009-06-07T09:45:32.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Very good! I used a 2 more slices of bacon and ofcourse, added a dash of onion/garlic powders to the potatoes. Also, when the potatoes were just about done, I added 1 head chopped broccoli and a few fresh/sliced mushrooms. Per another reviewer, I upped the eggs to 4 = beaten first before pouring over the potatoes to cook. Finally, I topped with a combo of sharp cheddar &amp; mozzerella cheese. Not too greasy and VERY good. Went well with our cinnamon rolls. Thanks Marcia.",
+            "datePublished": "2003-05-29T10:37:50.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April Ayers"
+            },
+            "reviewBody": "very good!",
+            "datePublished": "2020-01-20T23:38:56.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlene"
+            },
+            "reviewBody": "I loved it the 1st time and making it AGAIN today ?",
+            "datePublished": "2018-10-17T18:44:25.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa Port"
+            },
+            "reviewBody": "Yummmy!",
+            "datePublished": "2017-10-22T21:58:07.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bradley K Collins"
+            },
+            "reviewBody": "I've just started cooking and this was easy and delicious!",
+            "datePublished": "2016-09-17T20:21:32.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jasmoran66"
+            },
+            "reviewBody": "No wonder there are no leftovers, this is a recipe for one! No, but seriously, it was really good.",
+            "datePublished": "2015-07-31T22:50:54.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rose Ladd"
+            },
+            "reviewBody": "Yes! Liked it lots. I didn't have fresh bacon on hand so I substituted baco's and added olive oil to the skillet to brown the potatoes. Very tasty!",
+            "datePublished": "2014-07-11T15:11:07.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason Renfrow"
+            },
+            "reviewBody": "Fairly simple recipe to make but outstanding. Was a little hesitant on putting eggs over my potato but it's really good. They won't win any awards for presentation but still amazing. The only change I made is using olive oil instead of bacon grease as it doesn't seem to burn off like the bacon grease does, but perfect either way.",
+            "datePublished": "2014-01-11T11:28:34.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy Brock"
+            },
+            "reviewBody": "I loved it just the way it was!!!!",
+            "datePublished": "2013-11-22T18:37:00.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "angie in uk"
+            },
+            "reviewBody": "Let's be honest, this recipe is never going to look beautiful, but it tastes really good. I think it's comfort food at its best. I think everyone will adapt it to suit their own tastes. We love bacon and eggs, so I added more. I will be making this again.",
+            "datePublished": "2013-09-29T11:33:30.390Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20511/cheesy-fried-potatoes/",
+          "name": "Cheesy Fried Potatoes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/152/breakfast-and-brunch/potatoes/",
+                  "name": "Potatoes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

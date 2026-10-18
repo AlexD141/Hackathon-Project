@@ -1,0 +1,431 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12742/clam-fritters/",
+  "extracted_at": "2026-10-18T01:50:31.042864+00:00",
+  "recipes": [
+    {
+      "name": "Clam Fritters",
+      "ingredients_raw": [
+        "1 egg",
+        "0.5 cup all-purpose flour",
+        "0.5 cup milk",
+        "1 cup minced clams",
+        "0.25 teaspoon salt",
+        "0.125 teaspoon ground black pepper",
+        "2 tablespoons minced onion",
+        "2 tablespoons minced green bell pepper",
+        "0.5 cup vegetable oil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Beat the egg and gradually beat in the flour. Slowly stir in the milk, clams, salt, pepper and onion. If desired, stir in the green pepper. With hands shape mixture into 2 inch diameter patties."
+        },
+        {
+          "id": 2,
+          "text": "In a medium skillet heat the oil over medium-high heat until hot. Fry the patties in the hot oil until golden brown. Place cooked fritters on paper towels to soak up any excess oil."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Clam Fritters",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2022-11-15T23:02:24-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Christine Johnson"
+          }
+        ],
+        "description": "My stepmother got this recipe from an 80-year-old woman back in the 1940&#39;s.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/w8_3jF_gzN0BHOx5KZuqbaU8USE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1043881-clam-fritters-Lori-4x3-1-f3439fbcd7f346a0a538ddea8d52f301.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Clam Fritters",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.2",
+          "ratingCount": "41"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "346 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "53 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "184 mg",
+          "sugarContent": "2 g",
+          "fatContent": "30 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "New England"
+        ],
+        "recipeIngredient": [
+          "1 egg",
+          "0.5 cup all-purpose flour",
+          "0.5 cup milk",
+          "1 cup minced clams",
+          "0.25 teaspoon salt",
+          "0.125 teaspoon ground black pepper",
+          "2 tablespoons minced onion",
+          "2 tablespoons minced green bell pepper",
+          "0.5 cup vegetable oil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Beat the egg and gradually beat in the flour. Slowly stir in the milk, clams, salt, pepper and onion. If desired, stir in the green pepper. With hands shape mixture into 2 inch diameter patties."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a medium skillet heat the oil over medium-high heat until hot. Fry the patties in the hot oil until golden brown. Place cooked fritters on paper towels to soak up any excess oil."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I think this is one of the best darn clam fritter dishes i've ever tried!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Clare"
+            },
+            "reviewBody": "After reading the reviews I changed the following: Used green onions instead of white, added 1 teaspoon Old Bay and 3 squirts Texas Pete. They were delicious.",
+            "datePublished": "2008-07-14T10:58:57.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori"
+            },
+            "reviewBody": "These fritters disappeared so fast. After reading the reviews I decided to add a tsp of baking powder to the batter. The fritters did puff up nice with a golden outside and a puffy pillow inside. I did forgo the green peppers. Using two spoons to drop the batter into the grease worked well for me. Salted them generously with Kosher salt as soon as they came out of the fryer. YUM!",
+            "datePublished": "2015-07-12T03:20:06.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Ericksen"
+            },
+            "reviewBody": "Are the clams in their own juice? If they are, that negates the milk - adding milk makes it a soup. I tried this with some clam juice, a tad more flour, and a half hour in the fridge to absorb.",
+            "datePublished": "2011-08-09T21:07:56.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yvette"
+            },
+            "reviewBody": "I agree about them being bland but that shouldn't be an obstacle…season them up as you see fit. I do not recommend frying them in the pan. I deep fried them and they puffed up into nice balls…I added about half a teaspoon of baking powder and doubled the recipe. I will make these again…fun way to serve clams.",
+            "datePublished": "2013-12-24T14:50:42.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bat Ma'am"
+            },
+            "reviewBody": "I just tried these, I did not add the onion or bell pepper, I believe that would have made them even better. The liquid made the batter super runny, I added dry bread crumbs, parmesan cheese and panko, still couldn't really make a patty, i just dropped the batter by the spoonful into the oil and flattened them with the spoon. They'd be great with cocktail sauce or tartar sauce. I did not expect my young sons to like them but they are gobbling them up!",
+            "datePublished": "2011-10-13T16:47:12.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Colleen Baker"
+            },
+            "reviewBody": "I made these, but they were too loose to make into patties. I added 1/2 baking powder and dropped into hot oil. When they floated, I flipped them until golden.. Loved them!",
+            "datePublished": "2020-04-11T19:47:02.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "reviewBody": "These were good! I needed a bit more flour and they def needed more seasoning and salt, IMO, but that's up to your own personal tastes. I also added a tsp, of baking powder, as others suggested, and deep fried them, using my scoop to portion them out into balls. I did not use the green pepper. I would like to play around with this a bit more...Thanks for sharing. :)",
+            "datePublished": "2016-03-13T03:33:41.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Seraphar"
+            },
+            "reviewBody": "Following other suggestions, I doubled the recipe, added 1 tsp baking powder, 1 tsp old bay, 1/4 tsp cayenne, and an additional cup of flour. I was looking for more of a crispy fritter. Mine were more like fritter muffins. Next time I would skip the extra flour but keep the additional seasoning.",
+            "datePublished": "2016-11-20T23:17:15.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William O'Neil"
+            },
+            "reviewBody": "Needs more flour spices and baking powder with some melted butter",
+            "datePublished": "2025-11-08T17:03:45.116Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "These were OK. It was very soupy with 1/2 cup of flour, no way you could make a patty with that, so I added more flour but in hind sight think 1/2 corm meal might have been good in it. I added more spices after reading the reviews and spoon dropped in hot oil to fry (even with added flour it was too soupy to form into patties). The were ok after tasting first few i added 1 -2 tsp of sugar. I thought the ones with sugar tasted better than the ones without.",
+            "datePublished": "2011-05-29T11:09:34.377Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John"
+            },
+            "reviewBody": "Following this recipe was a mistake. The batter was too soupy, so I had to add more flour, which made them dense and flavorless. You also skipped the baking soda, which is pretty important. You shouldnt post a recipe if you dont know what you are doing. Disgusting failure",
+            "datePublished": "2026-07-27T21:48:39.125Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkyCorn8052"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-11-25T00:28:09.118Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "edmrichards1"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-11-12T06:13:18.672Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pawprints"
+            },
+            "reviewBody": "There is something wrong with this recipe. Following the recipe, the batter is thin like water and completely unable to be formed into any kind of shape. I added more flour but after frying they were heavy and dense. We were disappointed.",
+            "datePublished": "2024-07-10T23:19:08.711Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OddChai3722"
+            },
+            "reviewBody": "No good Way too loose",
+            "datePublished": "2023-08-03T21:20:20.721Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jkffaster"
+            },
+            "reviewBody": "I wanted to stay true to this recipe, so. I followed it as written. 1 egg, 1/2 cup milk, 1/2 cup flour, then added all ingredients. This resulted in a thin pancake type of batter. Directions tell us to form patties by hand to fry. With the mention of patties I knew the result would not look like the picture of round clam fritters shown,which is what I was actually looking for. Forming patties is now impossible. I added another 1/2 cup of flour. Now it's a thicker pancake batter. I used a ladle to place in the fry pan. I ended up with a beautiful golden pancake that was a little dense and nearly flavorless. It is not close to what I hoped for. Is it possible an ingredient is missing? Should it have bread crumbs in it? It definitely needs some added flavor. Has anyone else tried this recipe? I apologize to the recipe maker, I'm sorry, it just doesn't work.",
+            "datePublished": "2022-07-04T20:49:36.218Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Custer"
+            },
+            "reviewBody": "This recipes needs a lot of help. can not shape batter is like water.",
+            "datePublished": "2020-06-20T22:58:50.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bobby Sanford"
+            },
+            "reviewBody": "I added extra onion some garlic and bread crumbs.",
+            "datePublished": "2019-05-15T01:51:02.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bud Crosgrey"
+            },
+            "reviewBody": "This didn’t come out anything like I expected. It was hard as a rock not a fritter. Maybe it can’t be portioned to one",
+            "datePublished": "2019-02-08T21:43:52.810Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12742/clam-fritters/",
+          "name": "Clam Fritters",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+                  "name": "Seafood"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

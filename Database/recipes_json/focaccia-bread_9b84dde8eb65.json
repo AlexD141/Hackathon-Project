@@ -1,0 +1,533 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17918/focaccia-bread/",
+  "extracted_at": "2026-10-18T02:28:25.669062+00:00",
+  "recipes": [
+    {
+      "name": "Focaccia Bread",
+      "ingredients_raw": [
+        "2.75 cups all-purpose flour",
+        "1 tablespoon active dry yeast",
+        "1 teaspoon salt",
+        "1 teaspoon white sugar",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried thyme",
+        "0.5 teaspoon dried basil",
+        "1 pinch ground black pepper",
+        "1 cup water",
+        "1 tablespoon vegetable oil",
+        "2 tablespoons olive oil",
+        "1 cup mozzarella",
+        "1 tablespoon grated Parmesan cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine flour, yeast, salt, sugar, garlic powder, oregano, thyme, basil, and black pepper in a large bowl. Add water and vegetable oil, then mix until dough comes together."
+        },
+        {
+          "id": 2,
+          "text": "Turn dough out onto a lightly floured surface and knead until smooth and elastic."
+        },
+        {
+          "id": 3,
+          "text": "Lightly oil a large bowl; place the dough in the bowl and turn to coat with oil. Cover with a clean, damp cloth and let rise in a warm place for 20 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking sheet."
+        },
+        {
+          "id": 5,
+          "text": "Punch dough down and place on prepared baking sheet. Pat into a 1/2 inch thick rectangle. Brush top with olive oil and sprinkle with mozzarella and Parmesan cheese."
+        },
+        {
+          "id": 6,
+          "text": "Bake in the preheated until golden brown, about 15 minutes."
+        },
+        {
+          "id": 7,
+          "text": "Cut into 12 pieces and serve warm."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Focaccia Bread",
+        "datePublished": "1999-10-04T13:21:52-04:00",
+        "dateModified": "2026-04-17T10:14:08-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Terri McCarrell"
+          }
+        ],
+        "description": "Make focaccia from scratch with this easy recipe that flavors the dough with herbs, then bakes the bread until fluffy and chewy with deliciously crispy edges.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PbZXnIA5pH0nPbJQvlO4XN4TyJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-DDMFS-4x3-6fd208e7c12b493fbfde9c643df714be.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/9RHbrrjy-ma1DlVvV.mp4",
+          "description": "This video shows you how to make homemade focaccia. This simple, Italian-inspired flatbread is flavored with herbs and garlic powder, and topped with freshly grated Parmesan cheese. It kicks garlic bread up a few notches. You’ll love it alongside minestrone soup, pastas, and pretty much any saucy dish that offers yummy dipping opportunities!",
+          "duration": "PT3M39S",
+          "name": "Focaccia Bread",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9RHbrrjy/poster.jpg?width=1280",
+          "uploadDate": "2021-07-09T00:15:13-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Focaccia Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "1428"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "171 kcal",
+          "carbohydrateContent": "23 g",
+          "cholesterolContent": "5 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "253 mg",
+          "sugarContent": "1 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Bread"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "2.75 cups all-purpose flour",
+          "1 tablespoon active dry yeast",
+          "1 teaspoon salt",
+          "1 teaspoon white sugar",
+          "1 teaspoon garlic powder",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried thyme",
+          "0.5 teaspoon dried basil",
+          "1 pinch ground black pepper",
+          "1 cup water",
+          "1 tablespoon vegetable oil",
+          "2 tablespoons olive oil",
+          "1 cup mozzarella",
+          "1 tablespoon grated Parmesan cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/UOBocVqle2PEyMXSYh07dpIKJfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-ddmfs-step-2-41-951a475306cf4a3792573b9371351252.jpg"
+              }
+            ],
+            "text": "Combine flour, yeast, salt, sugar, garlic powder, oregano, thyme, basil, and black pepper in a large bowl. Add water and vegetable oil, then mix until dough comes together."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/kq4bKHPmxKYGJwRrS5a3JCqZpVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-ddmfs-step-3-43-dfb606143212433f8aa9ca50fd320eb7.jpg"
+              }
+            ],
+            "text": "Turn dough out onto a lightly floured surface and knead until smooth and elastic."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/wAJprhTdYjsImrsPqZHItMfasUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-ddmfs-step-5-03-6621e0bb8470477fa579416d9f9c238a.jpg"
+              }
+            ],
+            "text": "Lightly oil a large bowl; place the dough in the bowl and turn to coat with oil. Cover with a clean, damp cloth and let rise in a warm place for 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (230 degrees C). Lightly grease a baking sheet."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/0nm0J6oHTrRYrJJpYkrkwZg8L4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-ddmfs-step-7-85-14469ab76f5144699f435bd39e7e9f67.jpg"
+              }
+            ],
+            "text": "Punch dough down and place on prepared baking sheet. Pat into a 1/2 inch thick rectangle. Brush top with olive oil and sprinkle with mozzarella and Parmesan cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated until golden brown, about 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PbZXnIA5pH0nPbJQvlO4XN4TyJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17918-focaccia-bread-DDMFS-4x3-6fd208e7c12b493fbfde9c643df714be.jpg"
+              }
+            ],
+            "text": "Cut into 12 pieces and serve warm."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baricat"
+            },
+            "reviewBody": "Quite simply put...wow! Left out garlic powder, because 1) it's not an authentic Italian ingredient (only fresh garlic is used in Italy) and 2) it would give an ersatz flavor. Doubled the basil and used milk for the liquid, to give a moister crumb. The result was a soft, perfectly chewy bread. Dimpled the dough deeply with my thumb after rolling out. Then, sprinkled the top liberally with chopped fresh rosemary leaves from the garden and lightly with coarse kosher salt, after painting with extra virgin olive oil. Then applied a mix of mozzarella, Parmigiano, and genuine imported Italian Asiago halfway through baking time so the cheese would not become overly brown. The result was ambrosia, a golden feast for the eyes and a delectable treat for the mouth. This is the real deal. Outstandingly simple and simply outstanding! To those who had trouble with the texture of the dough, either it's your yeast or your rising technique. Make sure to use only yeast that's new or that has been stored in the fridge/freezer. Also, do not dissolve in hot water, only lightly warm to the inside of your wrist. If the yeast has been stored in the freezer or is new, proofing is an unnecessary step. Proofing yeast does nothing magical like people think - it just \"proves\" that it's still good by bubbling. Do not allow the dough to overrise, (in other words, to rise so high that it sinks back down on itself) and ferment. Set a timer so that you don't forget to check on it. Light dough rises quickly."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HerouxFamily"
+            },
+            "reviewBody": "Warmed the water and yeast. Added a bit of my sourdough starter into the water and let sit for 10 mins (until creamy). Mixed with the flour/herb mix, as directed. As others have suggested, allowed for a short, second rise (about 10 mins) after dough was in the pan. Dotted with pesto after baking. Served with pasta sauce for dipping. The family loved it!",
+            "datePublished": "2025-09-02T09:18:23.568Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LolaMama"
+            },
+            "reviewBody": "Love this! It’s so quick &amp; easy and DELICIOUS! My family loves it. I’ve made it 3 times in 2 weeks. I let it rise again after it has finished the first proof. I just spread it into my round stoneware pan and let it rise again for about 15 min before baking. Usually, I cut the cheese into little chunks and sink them and I like it with olives too! So good! You should try it!",
+            "datePublished": "2020-06-04T20:56:29.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tiffany apaliski"
+            },
+            "reviewBody": "This was absolutely delicious! I make many different types of bread and I have to say this will be a new go to bread. A few things I did differently was I used garlic salt instead of garlic powder, I mixed the yeast,sugar and hot water in a small bowl covered with plastic wrap for 10 minutes. I accidentally forgot to put the oil in. The bread turned out great and moist anyway.",
+            "datePublished": "2020-04-14T14:38:33.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "veggiediva"
+            },
+            "reviewBody": "I'm not a baker, but this recipe was SO EASY! And delicious! The reason I'm giving it 4 stars instead of 5 is that it omitted using warm water with the yeast and letting the yeast prepare. I read another review that suggested doing this, as well as letting the dough rise twice. I think this was the ultimate secret to success. Next time I will press it a little thicker for the final product.",
+            "datePublished": "2020-04-16T21:46:16.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GeeQTmom"
+            },
+            "reviewBody": "I used my dough cycle on my bread machine to bring this together and allowed the first rise. I added just a touch more water and will try fresh garlic next time instead of the garlic power. I topped with kalamata olives, mozzarella and parm. So tender and delicious. The house smells ah-mazing!! DH is gonna love this! Thank you for the recipe!",
+            "datePublished": "2020-01-22T23:36:31.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bethgs"
+            },
+            "reviewBody": "Turned out delicious! I followed other reviewers' advice by cutting the garlic powder by half and allowing for a second rise. Rolled into a circle and baked on my pizza stone.",
+            "datePublished": "2020-08-31T18:43:19.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mamab808"
+            },
+            "reviewBody": "so easy and delicious! i followed the tip to let isn’t rise another 20 minutes before putting in the oven. i also did that baker hack and put in an empty baking sheet while pre-heating the oven, then placed a few ice cubes on the heated sheet to add steam in the oven the while bread is baking. combination of those two tips gave me a lovely crispy light crust with airy bread. definitely making this again! next time i will play with some fresh herbs.",
+            "datePublished": "2020-05-03T00:29:16.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MichelleO"
+            },
+            "reviewBody": "Excellent &amp; simple recipe as long as you proof your yeast with sugar &amp; warm water (110-115 degrees). Dough needs a tiny bit more salt. Will add 1/4 t. next time.\nOnce dough was pressed onto baking sheet, I used all my fingers to 'dimple' the top. Then I added more rosemary, but any herb could be used. So glad I made it...a new family favorite.",
+            "datePublished": "2020-11-09T23:55:13.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mama Mia"
+            },
+            "reviewBody": "Have made this several times. It is adaptable with respect to toppings, sun dried tomatoes, olives, parm, mozzarella, pepperoni, ham, onions, pizza sauce, etc. I usually divide the dough and freeze one and serve one, because it is more than enough for two people. Easy peasy. Also tried Tuscan Sun spice mix from Penzey’s in-the bread, and that was a nice flavor.",
+            "datePublished": "2020-09-04T00:13:22.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "beckym"
+            },
+            "reviewBody": "This was so easy and came out perfectly. I proofed my yeast with the water and sugar before mixing in the other ingredients. It was perfect as a side to the tomato based soup we had for dinner. I’ll definitely make it again and try some new flavor combinations!",
+            "datePublished": "2021-01-04T04:58:37.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CalmSieve8390"
+            },
+            "reviewBody": "Excellent, made with or without the cheese on top.",
+            "datePublished": "2026-09-14T16:41:40.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CAPECHEF"
+            },
+            "reviewBody": "Easy to make, just remember that the dough is moister than a bread dough and try not to add additional flour",
+            "datePublished": "2026-08-27T19:23:28.759Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mia"
+            },
+            "reviewBody": "I did my own seasoning, NJ Joe Leone's oil blend and some sea salt with garlic and minced olive salad from Costco on top with Locatelli Pecorino",
+            "datePublished": "2026-07-29T23:31:42.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danielle"
+            },
+            "reviewBody": "You will need to let it proof again once you put it on the baking sheet. If not, it will be thin, almost like a pizza dough. The bread needs a lot of seasoning if you're adding it to the dough. I found it better to season just the top before baking. I tried sauteed red onions and garlic with cut-up prosciutto, and it was SOOOO good!",
+            "datePublished": "2026-06-17T21:06:31.766Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Lovely airy texture. Wonderful flavour. I’m looking forward to making it again.",
+            "datePublished": "2026-04-25T21:18:45.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andre"
+            },
+            "reviewBody": "I followed this recipe, after baking and cooling my family like a flock of pigeons, bread was gone in no time. I'll bake again, its a keeper",
+            "datePublished": "2026-02-10T11:42:11.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fitzy"
+            },
+            "reviewBody": "This was my first time making this and it was awesome. I made it exactly to the ingredient list and then I made another one the next day and added extra garlic, rosemary and sliced tomatoes and olives. I loved it! Great recipe.",
+            "datePublished": "2025-11-26T13:17:17.172Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "afaygenholtz"
+            },
+            "reviewBody": "I've made this twice and followed the recipe exactly both time. It comes out more dense the I prefer for focaccia , ill try a second rise next time. It tastes great though!",
+            "datePublished": "2025-02-09T14:56:32.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Sale"
+            },
+            "reviewBody": "Came out very dense. When I added the water and oil to the flour mixture it did not come out wet like in the video even though I used the scoop and level method for the flour.",
+            "datePublished": "2024-12-21T04:12:59.142Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17918/focaccia-bread/",
+          "name": "Focaccia Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1798/world-cuisine/european/italian/bread/",
+                  "name": "Bread"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

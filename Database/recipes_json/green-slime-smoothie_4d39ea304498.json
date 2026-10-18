@@ -1,0 +1,424 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/178133/green-slime-smoothie/",
+  "extracted_at": "2026-10-18T02:27:59.069770+00:00",
+  "recipes": [
+    {
+      "name": "Green Slime Smoothie",
+      "ingredients_raw": [
+        "2 cups spinach",
+        "2 cups frozen strawberries",
+        "1 banana",
+        "2 tablespoons honey",
+        "0.5 cup ice"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place the spinach in the freezer until frozen, at least 1 hour."
+        },
+        {
+          "id": 2,
+          "text": "Combine the spinach, strawberries, banana, honey, and ice in a blender. Blend until smooth. Serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Green Slime Smoothie",
+        "datePublished": "2020-06-18T23:37:51-04:00",
+        "dateModified": "2020-06-18T23:37:51-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "janetk"
+          }
+        ],
+        "description": "This is yummy. With a name like this, your kids will love it.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/egR3RSLqF_fE8S6LCz2pAkkLktU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/618067-7f028f7a63484c698c0e55b4312c73e1.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Green Slime Smoothie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "127"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "100 kcal",
+          "carbohydrateContent": "26 g",
+          "fiberContent": "3 g",
+          "proteinContent": "1 g",
+          "sodiumContent": "15 mg",
+          "sugarContent": "17 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "2 cups spinach",
+          "2 cups frozen strawberries",
+          "1 banana",
+          "2 tablespoons honey",
+          "0.5 cup ice"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place the spinach in the freezer until frozen, at least 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine the spinach, strawberries, banana, honey, and ice in a blender. Blend until smooth. Serve immediately."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 cups"
+        ],
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jessica Sherman"
+            },
+            "reviewBody": "Delish!!! I followed this recipe to the T, the first few times I made it and the smoothies tasted great! I definitely don't taste the spinach. My only problem was I had to fight w/ my blender just to to get it to blend everything together. I could eventually get it done, but it just took forever. My sister finally told me that my problem was that I didn't have any liquid to help the blender process the ingredients. So I've started adding 3/4 cups of pineapple juice to the recipe and voila! No more fighting with my blender and the pineapple juice makes the smoothie even tastier! Thanks for a great recipe, Janet."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janetk"
+            },
+            "reviewBody": "I wrote this recipe. I got the idea from all the raw food blogswhen trying to cure my asthma. Spinach blends easier when frozen that is why I reccommended that. I have a vitamix so I don't have to add liquid. I do love this smoothie with pineapple juice as a few people have figured out. I wouldn't say you need to measure anything just try variations and find what you love. These are so healthy it feels good to drink them. I never thought of adding yogurt or milk, but I'm glad people like it that way too. For me the greener the better. Plus my husband and son were both forced at first to try them and now they love them. Thanks everyone.",
+            "datePublished": "2009-04-26T07:39:54.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I froze my spinach for an hour as the recipe said, but because I don't own a Vitamix, I knew I needed a little liquid for this to even blend. I began with 1/2 cup pineapple juice and added the banana. Then I added 1 cup of the spinach and blended and then added the other cup and blended. I added 1 cup of frozen strawberries and knew that there was no way I would be able to add more frozen berries, so I just added another cup of cold strawberries from my frig. This was plenty thick, so I didn't need the ice. Since I am not fond of honey, I didn't add it either and was satisfied with the sweetness. My only complaint is the ugly almost pale chocolate color. Not green at all.",
+            "datePublished": "2012-03-07T10:28:34.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sam Nemati"
+            },
+            "reviewBody": "Awesome idea/recipe!\nSolution to weak blenders: add ~1cup dairy (milk/yogurt) or juice\n\nAlso, throw in 1/2 cup oats for a great run-out-the-door breakfast drink (you will hardly taste it).\nMwahaha, those kids will never know they drank some mighty healthy stuff :)",
+            "datePublished": "2011-06-06T14:19:27.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "monica8984"
+            },
+            "reviewBody": "YUM!!!! I just bought a blendtec blender and the order in which you put the ingredients in matters! Putting the banana and spinach in first helps it blend... I also used water instead of ice and added the strawberries last. The first time I made this, I used honey, the second time, I used agave and it tasted the same both times. Thanks for this great recipe!",
+            "datePublished": "2011-01-25T13:14:23.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicki"
+            },
+            "reviewBody": "Really liked the flavor. I had to add about 1/2 cup of water because the consistency was similar to a very thick salsa. After the water was added it was like a milkshake that had to be eaten with a spoon. The color was brown, not green. Next time I won't freeze the spinach to see if it is less thick. I used the Ninja 1500 watt blender. Easy to make. I would definitely make it again. Thanks for the recipe.",
+            "datePublished": "2015-12-30T15:34:15.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trisha"
+            },
+            "reviewBody": "Ok...May sound crazy but here goes...I first blended dry uncooked rolled oats (about 1/2 cup) in blender until fine. then added the spinach, one carrot, kewi, peach and pineapple. I also added a few frozen cherries with the ice (i like it cold). To avoid having the fix-ins just \"sit\" in the blender and not move while on, I added a bit of orange juice. REALLY GOOD!",
+            "datePublished": "2012-02-29T14:24:54.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TrishDHM"
+            },
+            "reviewBody": "Made this exactly as written....it was way too thick. I had to add a cup of OJ to get it to smoothie consistency. Also, the color of the smoothie was less than appealing (it came out a weird brown with green specks), but otherwise, loved it and was truly surprised that it had 2 cups of spinach...which I didn't taste at all. Can't wait to make it again and have my 3 year old try it. Have my fingers crossed that he will like it! Nothing better than sneaking veggies in when your child hates almost every veggie there is.",
+            "datePublished": "2017-05-31T00:51:22.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "waterspryte"
+            },
+            "reviewBody": "I would have given this 5 stars except that I too needed to add orange juice otherwise it wouldn't mix (although that could have been bc of my blender as well, it's just a basic one). Tastes FABULOUS!! I will be adding more spinach next time but this was the perfect amt for my first time trying a smoothie!",
+            "datePublished": "2014-02-24T10:33:36.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lymymi"
+            },
+            "reviewBody": "This smoothie is FABULOUS! I make it for me and my almost 3 year old daughter for breakfast - we both love it! NO ALTERATIONS. FOLLOWED EXACTLY. I have a Vitamix which blends it fantastically. I also made one with kale. It's good too, but the spinach one is better.",
+            "datePublished": "2012-07-10T20:26:48.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lauren"
+            },
+            "reviewBody": "Really great basic smoothie recipe! I omitted the water and added 1/4 cup of plain greek yogurt and then about 1/2 cup of non-fat milk. You can add more depending on the consistency you want. I add the yogurt and milk to make it more filling and to hold me over til lunch. I love this recipe because Im always so hungry in the morning and I usually gravitate towards heavy foods like pancakes or eggs and bacon. If you drink this you immediately feel better about yourself,its filling so your not hungry two hours later, and it makes you more cautious about the food you continue to eat throughout the day. And btw, the honey kills the spinach taste so dont be nervous or put off!",
+            "datePublished": "2011-06-14T09:15:18.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Idara"
+            },
+            "reviewBody": "Better with pineapple juice. Without it, it is far too chunky",
+            "datePublished": "2019-05-20T20:02:34.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erika Bruce"
+            },
+            "reviewBody": "I added a cup of milk to the mixture. It would not mix without some form of liquid. It was so good. Nice and sweet.",
+            "datePublished": "2018-06-24T19:08:44.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "swiftgirl12"
+            },
+            "reviewBody": "Very good! I didn’t add the banana cause I didn’t have them and it was very good! I also added milk and a little sugar",
+            "datePublished": "2017-12-21T18:40:53.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I ended up with a brown sorbet. I added some orange juice. It needed some type of liquid. Tasted great but unfortunately the color and texture scared off my kids from trying it. I will try it again and hopefully end up with that recipe picture.",
+            "datePublished": "2016-03-06T11:17:03.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BebeAuri"
+            },
+            "reviewBody": "I tried this out last night. Instead of honey, I used one tablespoon of agave. I also added orange juice. Great recipe, never knew spinach would taste that good!",
+            "datePublished": "2015-04-22T02:32:21.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "God's girl"
+            },
+            "reviewBody": "It was pretty good. I added some peanut butter to it because I love peanut butter. I didn't use honey because I don't really like it. I will use this shake again!",
+            "datePublished": "2014-10-23T07:15:25.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CA"
+            },
+            "reviewBody": "I used fresh strawberries and added a peach aswell. \nAnother time we added some Malibu and made it a cocktail.\n...both times delicious.",
+            "datePublished": "2014-08-25T12:38:02.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChewMunchSlurp"
+            },
+            "reviewBody": "Yum! First try with this smoothie, and it was so delicious! But instead of honey, I used agave. I had no problem blending, but that might just be because I was using a vitamix. You can't taste the spinach at all, and the banana makes the smoothie nice and creamy. Again, especially nice using a vitamix because it liquified the seeds. Great idea for the kids, my daughter loved it!",
+            "datePublished": "2014-05-11T17:58:12.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Josephine Roeper"
+            },
+            "reviewBody": "Subbed ice with cold water and almond milk with some sugar since I didn't have honey. Will need to make again but my results were pretty tasty. Even the kids liked it.",
+            "datePublished": "2014-04-24T04:27:51.773Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/178133/green-slime-smoothie/",
+          "name": "Green Slime Smoothie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/138/drinks/smoothies/",
+                  "name": "Smoothie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17578/drinks/smoothies/veggie/",
+                  "name": "Veggie"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

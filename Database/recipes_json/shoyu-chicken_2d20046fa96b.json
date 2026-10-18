@@ -1,0 +1,473 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/202463/shoyu-chicken/",
+  "extracted_at": "2026-10-18T02:43:32.588600+00:00",
+  "recipes": [
+    {
+      "name": "Shoyu Chicken",
+      "ingredients_raw": [
+        "1 cup soy sauce",
+        "1 cup brown sugar",
+        "1 cup water",
+        "1 onion, chopped",
+        "4 cloves garlic, minced",
+        "1 tablespoon grated fresh ginger root",
+        "1 tablespoon ground black pepper",
+        "1 tablespoon dried oregano",
+        "1 teaspoon crushed red pepper flakes",
+        "1 teaspoon ground cayenne pepper",
+        "1 teaspoon ground paprika",
+        "5 pounds skinless chicken thighs"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk soy sauce, brown sugar, water, onion, garlic, ginger, black pepper, oregano, red pepper flakes, cayenne pepper, and paprika together in a large glass or ceramic bowl. Add chicken thighs and toss to coat evenly. Cover the bowl with plastic wrap; marinate chicken in the refrigerator for at least 1 hour."
+        },
+        {
+          "id": 2,
+          "text": "Preheat an outdoor grill to medium heat. Lightly oil the grate."
+        },
+        {
+          "id": 3,
+          "text": "Remove chicken thighs from marinade; discard remaining marinade."
+        },
+        {
+          "id": 4,
+          "text": "Grill chicken thighs on the preheated grill until no longer pink in the center and the juices run clear, about 15 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Shoyu Chicken",
+        "datePublished": "2009-07-06T19:17:59-04:00",
+        "dateModified": "2026-06-09T10:48:26-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "The Big E"
+          }
+        ],
+        "description": "Shoyu chicken is Hawaii&#39;s take on teriyaki chicken made with skinless thighs marinated in a sweet, spicy soy sauce, then grilled and served with rice.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/WH0U9QDfcitYc59mmwMQJuG7mGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/202463-shoyu-chicken-VAT-Beauty-4x3-2a1b74e34d7d4c3287081b133f6c2bbb.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/SVUGNLhY-K3AjnAEN.mp4",
+          "description": "A wonderfully delicious blend of spicy and sweet. Allow the chicken to soak in the marinade for a while, the longer the tastier! Save the extra marinade for topping and serve with seasoned rice and vibrant vegetables! ",
+          "duration": "PT55S",
+          "name": "Shoyu Chicken",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SVUGNLhY/thumbnails/MT22GudZ.jpg?width=1280",
+          "uploadDate": "2021-07-21T15:47:07-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Shoyu Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "1200"
+        },
+        "cookTime": "PT30M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "338 kcal",
+          "carbohydrateContent": "22 g",
+          "cholesterolContent": "114 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "33 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "1304 mg",
+          "sugarContent": "19 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Hawaiian"
+        ],
+        "recipeIngredient": [
+          "1 cup soy sauce",
+          "1 cup brown sugar",
+          "1 cup water",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "1 tablespoon grated fresh ginger root",
+          "1 tablespoon ground black pepper",
+          "1 tablespoon dried oregano",
+          "1 teaspoon crushed red pepper flakes",
+          "1 teaspoon ground cayenne pepper",
+          "1 teaspoon ground paprika",
+          "5 pounds skinless chicken thighs"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk soy sauce, brown sugar, water, onion, garlic, ginger, black pepper, oregano, red pepper flakes, cayenne pepper, and paprika together in a large glass or ceramic bowl. Add chicken thighs and toss to coat evenly. Cover the bowl with plastic wrap; marinate chicken in the refrigerator for at least 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill to medium heat. Lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken thighs from marinade; discard remaining marinade."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/WH0U9QDfcitYc59mmwMQJuG7mGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/202463-shoyu-chicken-VAT-Beauty-4x3-2a1b74e34d7d4c3287081b133f6c2bbb.jpg"
+              }
+            ],
+            "text": "Grill chicken thighs on the preheated grill until no longer pink in the center and the juices run clear, about 15 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT100M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisa thelen"
+            },
+            "reviewBody": "This is a favorite for the kids from Hawaii. However, we don't bar-b-que it. We do basically everything you say but we put a bag of frozen chicken thighs in a big pot, bring it to a boil and let it simmer for an hour or so (the longer the better. We then serve it over rice. It's one of those meals you can make when you forget to defrost something... dinner in an hour!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen Breeden Holmes"
+            },
+            "reviewBody": "OMG. Wow. I made the Shoyu Chicken using chicken legs and served it as one of the main dishes for a family/friends cookout. I personally don't care for chicken legs, but they seemed like the perfect food for a cookout for a large crowd. I was so sorry that they were eaten up so quickly! I marinated the chicken legs overnight in a ziplock bag, then grilled them slowly over a gas grill. Meanwhile, I boiled the marinade for about 10 minutes and added just a touch of corn starch. When the legs were about done, I brushed them with the marinade and heated through. I can't believe how great they were.",
+            "datePublished": "2010-07-05T12:42:13.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "islandkine"
+            },
+            "reviewBody": "This not Shoyu Chicken. It is what people in Hawaii make as Teriyaki Chicken. I should know I am from Kaimuki on Oahu. Shoyu Chicken is chicken braised in a sauce like teriyaki but milder because of the chicken broth you add to it. It is cooked on the stove and simmered until done. You can add green onions also. Real shoyu Chicken is onolisious!",
+            "datePublished": "2011-08-24T19:19:28.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsLucas10"
+            },
+            "reviewBody": "This is super good. I actually make this about every other week. We like spicy and so for us adding the optional spices give it the perfect hint of heat. I make the sauce as described, except I never add the oregano and I use ground ginger (instead of fresh) and green onion (instead of a normal onion), and will marinate 4 large chicken breast in the sauce for 12-24hrs. I put the chicken breasts on the grill and then boil down the left over sauce on the stove with 1 tbsp cornstarch to thicken it up. Then when its time to flip the chicken over, I will brush the top with the nice thick sauce. Cook a little longer and then flip one more time and brush that side with the thick sauce. Then I add a pinapple ring on top. and cook until done. Super yummy! We serve with white rice.",
+            "datePublished": "2011-07-29T13:26:50.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IceBlueAccent"
+            },
+            "reviewBody": "I followed someone's suggestion to put everything in a pot and simmer. I cannot tell you how absolutely DELICIOUS this was. I reduced the recipe to 4 servings, used 1 tsp ginger and 1/4 tsp of both cayenne pepper and paprika along with other ingredients - then added 1.5 tsp of cornstarch a few minutes before serving to thicken. I would give this recipe 10 stars if I could!",
+            "datePublished": "2020-06-03T00:52:30.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maraluisa David"
+            },
+            "reviewBody": "I’ve eaten lots of shoyu chicken and I have the recipe in my head. But today when I wanted to teach my son to make it, I found this recipe that almost exactly matches my own mental recipe. After over 25 years in Hawai’i, it seems like the one closest to the one that the obachans taught me at the temples when I was a teen. One thing though, we don’t usually barbecue it but cook it in the oven.",
+            "datePublished": "2024-05-16T18:07:36.024Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeSage3333"
+            },
+            "reviewBody": "Good recipe but this is not Shoyu Chicken but Teriyaki Chicken. In Hawaii we BBQ or Fry our chicken after its been marinated than taken out of the sauce to cook (no water is used in the marinade but a little Rice Wine is added instead). Shoyu Chicken is simmered/braised in the sauce after marinating. To be honest, most of the time my family makes this when we forgot to defrost something for dinner so we boil chicken wings in lightly salted water for 25min, strain, and than simmer the boiled chicken in the sauce for another 20min.",
+            "datePublished": "2023-12-15T00:35:40.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dav3d"
+            },
+            "reviewBody": "I used boneless chicken thighs. These grilled up really nicely and cook faster than bone-in thighs. There's a lot of sugar in this marinade so controlling the heat on the grill is very important to avoid scorching the chicken. I have used both \"grill grates\" heat deflectors and a combination of direct and indirect grilling with good results. A couple of tweaks can take this up another notch: 1) Substitute cooking sherry for water 2) Save the Marinade and make a sauce with it: -Heat 1 Tbs of cooking oil in a medium-large frying pay to medium-high -Using a slotted spoon, remove the onions from the reserved marinade and cook them until the are soft and caramelized -Poor the remaining marinade into the pan and increase the heat to high. Bring to a full boil. -Reduce the heat to medium and reduce the sauce by about half. -Spoon sauce over the chicken thighs for even more deliciousness!",
+            "datePublished": "2024-02-25T19:46:55.816Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patricia Anne Peel"
+            },
+            "reviewBody": "Been using your recipe for several years, but never grilled; either oven baked or simmered on stovetop in large Dutch oven. After trying, I adjusted to family's tastes: Added 20 oz. can pineapple chunks, drained &amp; reserved 1/2 cup of juice. Replace water w/ this juice &amp; 1/2 c. apple cider vinegar. (Recipe needs this tang!) No oregano. Adjust cayenne pepper amount to how HOT yours it! The sauce is good on rice also. Options: peanuts &amp;/or a little peanut butter stirred into sauce after dish is cooked.",
+            "datePublished": "2022-02-09T01:50:12.895Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Reebs"
+            },
+            "reviewBody": "I have been making this recipe for several years now, with a few small changes according to our likes. I omit the cayenne pepper and red pepper flakes because I do not like the taste. I add in chili powder to the marinade, and use dried ginger powder instead of fresh. I do not measure the minced garlic, I just know I use a lot of it. I double everything in the marinade so I can use a cup or so and thicken it on the stove top for over rice and broccoli when serving the meal. I usually try to let the chicken soak around 18-24 hours. This time we cooked the chicken on our smoker but at a high temp (425°) for about ten minutes on each side. The flavors were phenomenal. My family enjoys this with jasmine rice and broccoli.",
+            "datePublished": "2024-12-13T01:23:04.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ReneePaj"
+            },
+            "reviewBody": "This recipe produced tasty chicken thighs, but I prefer shoyu chicken cooked in the sauce on the stove top. I do think this method would benefit from a longer marinade time (overnight). Make sure you watch them closely on the grill, as the sugar in the marinade will make them burn quickly.",
+            "datePublished": "2024-03-29T11:31:11.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Frank"
+            },
+            "reviewBody": "Simply easy and tasty",
+            "datePublished": "2026-06-10T00:01:54.667Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer McGlynn"
+            },
+            "reviewBody": "Followed the recipe as written (I used all of the optional spices and I eyeballed the amounts), marinated it in the fridge for about 5 hours, then served it with pineapple rice and grilled zucchini. OMG IT SO VERY VERY GOOD!!! Definitely added to the summer rotation!",
+            "datePublished": "2026-06-03T03:18:28.412Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natalya"
+            },
+            "reviewBody": "This chicken was deee-licious! Soaked an extra day. One hour is not long enough. Will be added to our rotation of favorites.",
+            "datePublished": "2026-06-01T01:33:58.944Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roy"
+            },
+            "reviewBody": "Excellent recipe. Quick and easy. Great with pineapple rice. Marinated over night Will definitely add to my rotation of chicken recipes.",
+            "datePublished": "2026-05-23T15:40:04.205Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Văn"
+            },
+            "reviewBody": "so good",
+            "datePublished": "2026-05-20T08:09:43.019Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Blessing"
+            },
+            "reviewBody": "The chicken so so moist and delicious! Perfect marinate...",
+            "datePublished": "2026-05-12T19:14:04.391Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Khalid"
+            },
+            "reviewBody": "Love it!",
+            "datePublished": "2026-05-06T00:21:46.186Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ashabernathy5"
+            },
+            "reviewBody": "Was very good, served with white rice and pineapple. The only thing that I would have changed was the amount of time that it spent marinating, the longer you can do this the better.",
+            "datePublished": "2026-04-27T16:02:17.031Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat-Perry"
+            },
+            "reviewBody": "I marinated this overnight and baked it in the oven for about 35 minutes. We have had it with rice once and another time with mashed potatoes. Would like to try this same recipe using chicken breasts next time.",
+            "datePublished": "2026-01-31T02:50:12.655Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/202463/shoyu-chicken/",
+          "name": "Shoyu Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

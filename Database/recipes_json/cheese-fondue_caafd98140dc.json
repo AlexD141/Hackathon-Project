@@ -1,0 +1,503 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13714/cheese-fondue/",
+  "extracted_at": "2026-10-18T01:54:42.481444+00:00",
+  "recipes": [
+    {
+      "name": "Cheese Fondue",
+      "ingredients_raw": [
+        "1 cup dry white wine",
+        "2 tablespoons all-purpose flour",
+        "0.25 teaspoon ground nutmeg",
+        "0.5 pound shredded Swiss cheese",
+        "0.5 pound shredded Gruyere cheese",
+        "0.25 teaspoon salt",
+        "1 (1 pound) loaf French bread, cut into 1 inch cubes"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring wine to a simmer in a fondue pot over medium-low."
+        },
+        {
+          "id": 2,
+          "text": "Stir in flour and nutmeg until well combined."
+        },
+        {
+          "id": 3,
+          "text": "Add Swiss and Gruyère cheeses, 1/4 pound at a time, mixing after each addition until cheese is melted. Season with salt."
+        },
+        {
+          "id": 4,
+          "text": "Serve with cut-up French bread."
+        },
+        {
+          "id": 5,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Cheese Fondue",
+        "datePublished": "1999-01-01T15:29:35-05:00",
+        "dateModified": "2026-03-12T06:47:53-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sheila"
+          }
+        ],
+        "description": "A classic cheese fondue made with Swiss cheese, Gruyère, and white wine. Delicious served with cubes of bread, baby potatoes, or veggies for dipping.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Jzk_0L4bhMpLiHp_Gt_nteRIyIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13714-Cheese-Fondu-PICS-Beauty-4x3-cc0408c5de594d6cbb1e9bd7a84e63f1.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/cwLMVcaW-K3AjnAEN.mp4",
+          "description": "There’s no party like a fondue party! In this video, Annie tries her hand at one of the ultimate comfort foods, cheese fondue. For this recipe, bring a cup of dry white wine to a simmer in a fondue pot or slow-cooker before adding in the corn starch tossed cheese. After that, stir the ingredients until it gorgeously melts together. Then mix in a quarter teaspoon of salt and nutmeg. Finally, after dipping a piece of bread into a generous amount of brandy, dip and enjoy the melted pot of cheese fondue.",
+          "duration": "PT1M50S",
+          "name": "We Tried Making Cheese Fondue",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/cwLMVcaW/thumbnails/V0KjxrA0.jpg?width=1280",
+          "uploadDate": "2023-02-17T15:11:49-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cheese Fondue",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "557"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "670 kcal",
+          "carbohydrateContent": "57 g",
+          "cholesterolContent": "91 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "37 g",
+          "saturatedFatContent": "17 g",
+          "sodiumContent": "940 mg",
+          "sugarContent": "4 g",
+          "fatContent": "29 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Appetizer"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "1 cup dry white wine",
+          "2 tablespoons all-purpose flour",
+          "0.25 teaspoon ground nutmeg",
+          "0.5 pound shredded Swiss cheese",
+          "0.5 pound shredded Gruyere cheese",
+          "0.25 teaspoon salt",
+          "1 (1 pound) loaf French bread, cut into 1 inch cubes"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/kIwlIqyewFHJ7vTUMlcMMrp2T90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13714-Cheese-Fondu-PICS-step-01-840ca6aaa9024303894fb9c7e19c5834.jpg"
+              }
+            ],
+            "text": "Bring wine to a simmer in a fondue pot over medium-low."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/fxZYtPxTarB1nj7h8zTawYAhjWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13714-Cheese-Fondu-PICS-step-02-809fb0177c7844d29c0a68190019bfb1.jpg"
+              }
+            ],
+            "text": "Stir in flour and nutmeg until well combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CUrAxTuQjQyT4vuK8RrF6RU-jRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13714-Cheese-Fondu-PICS-step-03-3431d1403f0d4ff483228a90cc9d9e94.jpg"
+              }
+            ],
+            "text": "Add Swiss and Gruyère cheeses, 1/4 pound at a time, mixing after each addition until cheese is melted. Season with salt."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OYrxi0JtUkEMVhQEEbYjIDDRe_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13714-Cheese-Fondu-PICS-step-04-ad5c5e633eed498eb77ae37c512cc990.jpg"
+              }
+            ],
+            "text": "Serve with cut-up French bread."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Jzk_0L4bhMpLiHp_Gt_nteRIyIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13714-Cheese-Fondu-PICS-Beauty-4x3-cc0408c5de594d6cbb1e9bd7a84e63f1.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "5",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OZAHIRU"
+            },
+            "reviewBody": "i've been reading all review &amp; find out that some said this recipe is lumpy or not smooth like they expectation. Here is the solution. Just add a little bit of lemom. just a few drops dont put much. Chef in our fav. fondue rest. said the acid will help the cheese soft &amp; smooth also bring some extra favor. I hope this help. :-)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dany Tancou"
+            },
+            "reviewBody": "Patience is absolute key when making Fondue, perhaps a little more than with other dishes, but it's worth it. Rush through it, and you'll end up adding a negative review here, likely complaining that you spent a lot of money on expensive cheese and had nothing to show for it. Or eat. :) Read the rest of this for tips on how to ensure this doesn't happen.\n\nRegarding the cheese quantities: there should be about 1/3 more Gruyere than whatever other Swiss cheese! In other words, for every 1 cup of Gruyere, there should be 2/3 cup of Swiss (regardless of the variety you choose). (This, btw, should be all that's needed for a meal for two people.) \n\nBefore grating the cheese, keep it in the freezer for 30 minutes. This will harden it (but not freze it ) making the grating easier. GRATE ON THE SIDE WITH THE LARGE HOLES! (Grating on the grater's small holes may seem like a good idea because the cheese will melt faster, but the necessary flour will not be able to stick to the tiny slivers of cheese.)\n\nThe just-grated cheese MUST BE TOSSED WITH THE FLOUR. Do this in a large ziplock bag. It helps if the flour is added through a strainer, in order to minimize clumps; for larger quantities, add the flour in batches, tossing in between. Shake the bag and work it loosely between your hands (without setting it down) for at least a couple of minutes in order to ensure proper coating; the more cheese, the longer it should be tossed. This goes without saying, but do not squeeze the cheese in you",
+            "datePublished": "2018-06-11T00:10:29.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolyn Caraloopy"
+            },
+            "reviewBody": "Very good. I added a tablespoon of lemon juice to the wine and combined the flour with the shredded cheese before adding it to the pot. I also rubbed the pot with garlic before I did anything. Mine didn't clump up at all until it cooled off too much. The people who are said it was a giant clump may not realize you are supposed keep a low heat or flame under the fondue the entire time you are eating to keep it warm and loose and dippable. I served this with bread cubes, grilled sausage bites, apple and pear slices, and some crudites and dip. Huge hit. I had some left over so I froze it to incorporate into a chicken and broccoli casserole soon.",
+            "datePublished": "2022-10-28T23:32:40.848Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpeedyPoke9976"
+            },
+            "reviewBody": "Put the shredded cheese in a bag and sprinkle the flour on that cheese and shake it up....no lumps ever.",
+            "datePublished": "2024-12-19T21:16:27.568Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HearthkeeperEV"
+            },
+            "reviewBody": "I needed a recipe for a LARP event a few summers ago. I made the base ahead of time and put it in a mason jar to travel (I was making it 48 hrs ahead of when I would need it). It travelled well and went over fabulously! I substituted Moniack Mead for the white wine (Honey based \"wine\" vs grapes) I found it lent a fuller flavour than other fondues I've made and used 1/3 lb each of Emmental, Gruyere and Smoked Gouda. I served it with a variety of breads, crackers, meats and veg and it was a smash hit! Even people not normally fond of things like this sang it's praises!",
+            "datePublished": "2018-12-31T22:27:18.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karyn Kay"
+            },
+            "reviewBody": "I have been making this for years and it is excellent with a few different things: I use all swiss cheese, and I toss the shredded cheese with the flour first instead of adding the flour later. I used a clove or two of garlic using a garlic press to infuse the fondue with the flavor. It is absolutely delicious! Note: to those who found it lumpy. I add the cheese a few handfuls at a time and stir with a fork until completely melted, then add more. Mostly it comes out smooth and creamy. I usually use french or italian bread for dippers, toasted in the oven first for firmness, but you can also use fresh pineapple, strawberries or whatever you prefer.",
+            "datePublished": "2016-02-12T11:25:04.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HeartyWheat3798"
+            },
+            "reviewBody": "So if you're going to make this, toss your cheese in the flour coating it evenly. It helps prevent lumps and creates a smooth texture. I recommend adding a tiny bit of lemon juice, salt, and cracked black pepper. I served it with apple slices, fresh bread and pretzel bites.",
+            "datePublished": "2025-03-09T21:10:47.806Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "The Thompson's"
+            },
+            "reviewBody": "I add the cheeses (sometimes Mozzarella or Cheddar if I need more, but prefer emmental, gruyere &amp; Swiss) to the fondue put with the flour, salt, pepper, tiny bit of nutmeg, &amp; garlic &amp; onion powders first. Mix it up, turn on the heat and add the white wine (whatever I have) or beer as it starts to melt. If it's lumpy, I'll add more wine /beer or lemon juice. Serve it with bite-sized pieces of chicken, beef, apple slices, grape or cherry tomatoes, sweet peas, carrots, broccoli (not cooked- or if so, not too much so it's still firm,) and bread! Bon Appétit!! My son (who claims to hate cheese!) &amp; husband love this!!",
+            "datePublished": "2020-06-29T00:33:22.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "katym0m"
+            },
+            "reviewBody": "The best cheese fondue we've ever had! Made it for Valentine's Day and it was a big hit. We started with a broth based fondue where we cooked beef tenderloin, chicken, lobster, broccoli, and mushrooms. We let the cheese fondue cook on low heat (2) for over 30 minutes while we enjoyed the broth fondue. With two teenage football players in the family, I cooked a total of 1 1/2 lb of cheese; 1/2 lb swiss, 1/2 lb gruyere, 1/2 lb emmentaler. With all these nutty cheeses I was afraid that the nutmeg would be too much, but at the very end it was the right decision to add it. We had cut the cheese in 1/2 inch squares instead of grating it, and the cheese was lumpy during the melting process, but I think the low heat and long cooking time helped as it turned out very nice and smooth at the end. I used sauvignon blanc as the wine. Best cheese fondue ever!",
+            "datePublished": "2014-02-15T08:37:37.193Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Rintamaki"
+            },
+            "reviewBody": "I don't use store bought shredded cheese, shredded my own. second, I melted about a 1/4 cup of butter, and blended flour into it, cooked it on the stovetop until I got a nutty odor from it, as it blended smoother and prevented graininess.",
+            "datePublished": "2014-11-17T05:51:48.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christian Clermont"
+            },
+            "reviewBody": "The reason why this fondue is clumpy is because the flour is added by itself to the liquid. To ensure a smooth fondue, you have two choices: 1. Create a roux first in the pot, then add the (warm) liquid or 2. put the grated cheese in a paper bag along with 2 Table Spoons of flour. shake it well and add it SLOWLY to the heated liquid while mixing constantly. I prefer the second approach but either way, you'll end up with a silky smooth fondue. Enjoy!",
+            "datePublished": "2019-02-13T14:53:55.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SColson782"
+            },
+            "reviewBody": "Wonderful recipe! I don't own a fondue pot, so I made it in a saucepan (with Bisquick, since I didn't go have any flour). Delicious!",
+            "datePublished": "2026-04-11T11:46:48.094Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan"
+            },
+            "reviewBody": "As a child my mum made cheese fondue often but in my adult life I always bought the packaged mix but this time I decided to make it from scratch and as a fan of AllRecipes this was my go to recipe. It was easy and delicious and was perfect to sit and enjoy on a cold winter night!",
+            "datePublished": "2026-02-07T17:03:19.621Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krista"
+            },
+            "reviewBody": "I used this recipe tonight. I made a couple alterations, and it was amazing! It was my first time not using pre-made fondue. I added a little smoked Gouda, rubbed the pot with garlic, and coated the shredded cheese with corn starch prior to adding. Super easy, family approved!",
+            "datePublished": "2026-01-01T05:43:34.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hegemom"
+            },
+            "reviewBody": "Baguette cubes (untoasted, crusty), potatoes, grapes, apples, sausage, broccoli- great accompaniments. Used more nutmeg and wine than recipe suggests. Had to hand-blend the 2T of flour, though.",
+            "datePublished": "2025-12-26T01:38:12.259Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joann"
+            },
+            "reviewBody": "I like using a combination of Beaufort, Racelette, Challihocker. These cheeses are available at specialty cheese shops. I'm fortunate to work at one. These are fantastic swiss cheese options that are bold.",
+            "datePublished": "2025-11-28T19:13:57.689Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa"
+            },
+            "reviewBody": "Not crazy about the cheese combination flavor. The cheese mixture was not smooth enough even with lemon juice. Will try a different cheese next time.",
+            "datePublished": "2025-11-15T03:15:53.536Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NobleRoll6937"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-16T02:42:57.031Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LoftyPrawn2931"
+            },
+            "reviewBody": "Pretty much what I remember eating growing up!😋",
+            "datePublished": "2023-12-28T11:01:12.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sport1girl"
+            },
+            "reviewBody": "I made this for a small Christmas dinner of me and my daughter. Delicious! Thank you!",
+            "datePublished": "2023-12-26T20:20:17.094Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13714/cheese-fondue/",
+          "name": "Cheese Fondue",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+                  "name": "Cheese"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/433/appetizers-and-snacks/cheese/cheese-fondue/",
+                  "name": "Cheese Fondue Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

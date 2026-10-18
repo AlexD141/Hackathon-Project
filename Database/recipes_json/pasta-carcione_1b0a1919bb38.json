@@ -1,0 +1,440 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17191/pasta-carcione/",
+  "extracted_at": "2026-10-18T02:25:07.658927+00:00",
+  "recipes": [
+    {
+      "name": "Pasta Carcione",
+      "ingredients_raw": [
+        "10 ounces spinach, rinsed",
+        "1 (16 ounce) package bow tie pasta",
+        "0.25 cup olive oil",
+        "salt and pepper to taste",
+        "2.5 cups cherry tomatoes, quartered",
+        "8 ounces crumbled goat cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Remove stems from spinach and stack leaves together; chop thin longer strips instead of square chops and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and place in a large bowl."
+        },
+        {
+          "id": 3,
+          "text": "Drizzle olive oil over pasta and add salt and pepper to taste, spinach and tomatoes; gently toss."
+        },
+        {
+          "id": 4,
+          "text": "Add goat cheese and serve warm or room temperature."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pasta Carcione",
+        "datePublished": "2000-03-06T11:05:27-05:00",
+        "dateModified": "2025-01-31T16:57:02-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "KYMANNE"
+          }
+        ],
+        "description": "This easy pasta dish is very colorful and features the creamy tart flavor of goat cheese. Juicy red tomatoes and thin strips of garden-fresh spinach are tossed with hot farfalle and olive oil. Crumble goat cheese over the top and serve warm.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Phb58jBgQElC7WmMl5kb0vlb50A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17191pasta-carcionelutzflcat4x3cropped-295902bc650c422989718b36123d3abb.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pasta Carcione",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "69"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "610 kcal",
+          "carbohydrateContent": "72 g",
+          "cholesterolContent": "36 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "24 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "289 mg",
+          "sugarContent": "4 g",
+          "fatContent": "27 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "10 ounces spinach, rinsed",
+          "1 (16 ounce) package bow tie pasta",
+          "0.25 cup olive oil",
+          "salt and pepper to taste",
+          "2.5 cups cherry tomatoes, quartered",
+          "8 ounces crumbled goat cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Remove stems from spinach and stack leaves together; chop thin longer strips instead of square chops and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and place in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drizzle olive oil over pasta and add salt and pepper to taste, spinach and tomatoes; gently toss."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add goat cheese and serve warm or room temperature."
+          }
+        ],
+        "recipeYield": [
+          "5",
+          "6 servings"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Esmee Williams"
+            },
+            "reviewBody": "Great recipe. I tossed in a bit of crushed garlic for additional flavor. I was not sure what type of goat cheese to use so I picked chevre -- which was awesome. It made a creamy sauce to complement the spinach and tomatoes."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "The goat cheese was getting soft, so I put it back in the fridge to chill while I completed the meal, then took the photo without it...aaargh! Fortunately, I remembered it, and I can only say, don’t omit it because it really brings a lot of flavor to this. I had honey goat cheese on hand, and it worked out well. I used baby spinach, didn’t bother to cut off the stems, there weren’t that many long ones anyway. Thanks for sharing your recipe, we enjoyed it.",
+            "datePublished": "2023-03-29T22:55:46.376Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JennG"
+            },
+            "reviewBody": "I like it but did it a little different. I sautéed garlic in the olive oil and then lightly sautéed sun dried tomatoes. Rinsed my pasta in cold water to cool it off. I also used my home made Chevre with Herbs de Providence. Served the cold salad with baked salmon on top! Yummy",
+            "datePublished": "2013-04-03T18:39:24.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathryn Ann Pemper Walley"
+            },
+            "reviewBody": "A MUST to add double the basil leaves you think you might need, and also used a goat cheese with a mix of sun dried tomatoes, and medderterrian spices, only 1- 4 oz container, because everyone was saving its too much. Honestly it NEEDS THE 8 OZ OF goat cheese ! I also added 2 sauté garlic cloves, and a half of can of corn. Although the amount of tomatoes seems like a lot, I didn't add that much and it was a mistake. It tasted better the next day after it sat in the refrigerator over night. THINK ABOUT THIS FOR A MAKE AHEAD SALAD FOR YOUR BRUNCH THE NEXT DAY! Lots of salt and pepper needed to.",
+            "datePublished": "2014-03-31T10:35:09.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy Gregory"
+            },
+            "reviewBody": "Very good, will definitely make this again. I infused the olive oil with a clove of garlic and a few chopped sun-dried tomatoes. Also added toasted pine nuts (about 2 Tbsp). Delish!",
+            "datePublished": "2007-10-02T19:56:42.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katy"
+            },
+            "reviewBody": "Wow, my husband could NOT stop talking about this one! Thanks for the great recipe, I'll try others tips next time. I used whole wheat pasta (al dente!) and instead of mixing it together, served it over an Italian blend salad mix. Will definitely make again!\r\n\r\n*Update* Still a favorite! Have added more seasonings and tried black olives with it, too. Great for a light evening meal, or a beautiful side (compliments fish nicely)",
+            "datePublished": "2008-01-09T20:21:00.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This pasta is quick, easy, and delicious. I used wheat pasta and added a little parmesan for some extra flavor. I loved how the goat cheese melted and made a creamy sauce for the pasta. I made a smaller portion for just one, and I really just eyeballed everything as far as how much spinach, tomato, and goat cheese to use. I also cooked my tomato and spinach for just a few minutes in some olive oil and garlic.",
+            "datePublished": "2010-04-04T16:31:46.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkySalt4822"
+            },
+            "reviewBody": "This pasta is quick, easy, and delicious. I used wheat pasta and added a little parmesan for some extra flavor. I loved how the goat cheese melted and made a creamy sauce for the pasta. I made a smaller portion for just one, and I really just eyeballed everything as far as how much spinach, tomato, and goat cheese to use. I also cooked my tomato and spinach for just a few minutes in some olive oil and garlic.",
+            "datePublished": "2010-04-04T16:31:46.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "darcie"
+            },
+            "reviewBody": "This was so yummy! I sauteed mushrooms and garlic along with basil and the spinach for 2 - 3 minutes before adding the chopped tomatoes. I also cut the amount of cheese in half as some other reviewers suggested.",
+            "datePublished": "2008-08-24T09:40:11.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bblee"
+            },
+            "reviewBody": "As my family is not goat cheese lovers, I replaced it with feta cheese and added a bit of basil and some black olives. It gave it a Greek / Meditarranean feel to it. I received thumbs up from my husband and all three kids!",
+            "datePublished": "2015-05-07T13:12:16.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lin Pracht"
+            },
+            "reviewBody": "Excellent! I infused the olive oil with minced garlic and basil, substituted plain feta for the goat cheese, and added some shredded basil with the fresh spinach. This is one of our favorite recipes.",
+            "datePublished": "2011-04-29T10:19:03.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shelley"
+            },
+            "reviewBody": "Made it exactly how the recipe said—very easy, plus beautiful presentation. I served it for company &amp; it was delicious. I will definately make it again",
+            "datePublished": "2020-01-05T23:13:34.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danell Linnebur Underwood"
+            },
+            "reviewBody": "Good",
+            "datePublished": "2019-01-19T17:50:42.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pixie1"
+            },
+            "reviewBody": "Nobody liked this recipe. Bland, goat cheese was odd taste.",
+            "datePublished": "2015-12-10T07:47:54.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kelsay morgan"
+            },
+            "reviewBody": "I made this for the family the first time the other night and everyone loved it! I gave it a 4 because I think it is just fine with a little less goat cheese (I used about 6 oz instead of 8) as others have recommended. Also, I added a little minced garlic that I sautéed with the spinach.",
+            "datePublished": "2015-01-09T15:55:28.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie"
+            },
+            "reviewBody": "Great in the summer!",
+            "datePublished": "2012-01-28T18:30:13.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kstew"
+            },
+            "reviewBody": "This was delicious! I added black olive and a bit of garlic. Fantastic! I served it with a slow cooked pork tenderloin.",
+            "datePublished": "2012-01-13T15:20:10.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gia"
+            },
+            "reviewBody": "I replaced the goat cheese with crumbled garlic tofu. This was great..... very fresh tasting!",
+            "datePublished": "2011-06-10T15:11:07.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joel Lauren"
+            },
+            "reviewBody": "This was quite tasty. I added a sauteed clove of garlic and some chopped basil leaves based on the reviews.",
+            "datePublished": "2010-10-27T17:21:11.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shannonparmentier"
+            },
+            "reviewBody": "My family including our dog love this dish! I do add fresh sliced garlic to the olive oil and then grill chicken breast to go on top of it. The first night I had made it I had cleaned up dinner and then got a phone call that my daughter had broken her ankle and needed to go to the ER. We rushed out and when when we got back I stepped on something squishy,it was a piece of pasta on the floor. In our rush out of the house, I had left the leftovers on the counter and my dog had decided that was her dinner. She ate all of it with the exception of a tomato or 2. Now whenever I make it she comes into the kitchen and wags her tail and expects to eat with us.",
+            "datePublished": "2010-09-19T09:50:10.013Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17191/pasta-carcione/",
+          "name": "Pasta Carcione",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

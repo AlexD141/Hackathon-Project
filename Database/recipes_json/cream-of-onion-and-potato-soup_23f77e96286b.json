@@ -1,0 +1,431 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16397/cream-of-onion-and-potato-soup/",
+  "extracted_at": "2026-10-18T02:20:48.390195+00:00",
+  "recipes": [
+    {
+      "name": "Cream of Onion and Potato Soup",
+      "ingredients_raw": [
+        "12 potatoes, peeled and cubed",
+        "12 onions, chopped",
+        "6 tablespoons all-purpose flour",
+        "6 tablespoons butter",
+        "9 cups milk",
+        "3 tablespoons chopped fresh parsley",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large pot over high heat, combine potatoes, onions, and water to cover and boil for 30 to 45 minutes, or until tender. Drain the mixture, reserving 3 cups of the cooking liquid. Transfer this in small batches to a blender and puree until smooth."
+        },
+        {
+          "id": 2,
+          "text": "In the same pot over medium heat, combine flour and butter, stirring together well, to form a roux. Slowly add milk, stirring constantly, until well blended. Reduce heat to low and add the puréed potato mixture. Let simmer, stirring occasionally for 5 to 10 minutes. Add parsley and season with salt and pepper to taste."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Cream of Onion and Potato Soup",
+        "datePublished": "2000-02-06T11:37:04-05:00",
+        "dateModified": "2026-07-20T10:40:22-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Charlie Swann"
+          }
+        ],
+        "description": "This is a creamy, rich pureed potato and onion soup that is the best comfort food. Try it with some fresh Italian or French bread, or garnish with croutons.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QeQ2wzs-ObOy-y5if6ED5hi8VhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7889555-44dc7c472de8423c8263bf6ddbe11360.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cream of Onion and Potato Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "42"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "183 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "15 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "67 mg",
+          "sugarContent": "8 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "12 potatoes, peeled and cubed",
+          "12 onions, chopped",
+          "6 tablespoons all-purpose flour",
+          "6 tablespoons butter",
+          "9 cups milk",
+          "3 tablespoons chopped fresh parsley",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large pot over high heat, combine potatoes, onions, and water to cover and boil for 30 to 45 minutes, or until tender. Drain the mixture, reserving 3 cups of the cooking liquid. Transfer this in small batches to a blender and puree until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In the same pot over medium heat, combine flour and butter, stirring together well, to form a roux. Slowly add milk, stirring constantly, until well blended. Reduce heat to low and add the puréed potato mixture. Let simmer, stirring occasionally for 5 to 10 minutes. Add parsley and season with salt and pepper to taste."
+          }
+        ],
+        "recipeYield": "24",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Lovely soup but beware - it doesn't scale down the 3 cups of juice so if you make less, reduce the amount of liquid you use as it was a little thin."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Harold"
+            },
+            "reviewBody": "Good Lord is this a good recipe. Of course I always have to adjust a little to add my own personality to anything I make, but this soup recipe really allows for it. I had leftover carrots which I added, some hot pepper spice (I have a reputation for hot dishes to upkeep), some sour cream and then used my immersion blender. I'm having friends over tomorrow evening and I know these dishes get even better resting in the fridge overnight. I'll bake some bacon and crumble it into the soup. If I'm feeling really energetic I'll bake a loaf of bread to go with it, maybe? : ) I looked at a lot of recipes and decided on this one, glad I did! Wonderful.",
+            "datePublished": "2021-06-22T00:09:41.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janet Kennedy"
+            },
+            "reviewBody": "I made it with sweet potatoes and it was one of the best sweet potato soups I have made! All those onions were sweet and delicious. I added about 1 T red curry powder and 1 t cumin and a dash of cayenne. Based on the other reviews, I added a lot more salt than I normally would: 2 T and I only added 1 C of reserved water. I think I will halve it next time. V. simple after all the chopping was done!",
+            "datePublished": "2017-04-15T00:49:04.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lilyorchid"
+            },
+            "reviewBody": "Simple and delicious! Tastes very creamy. For 4 servings: used 4 medium potatoes, 1 and 1/2 onions, and blended with 1 C. water. Added 1 and 1/2 cups lowfat (but not skim) milk, sprinkle of pepper, and a few pinches of sea salt. This will make a very thick soup. I recommend blending the parsley in the blender with the potatoes and onions. Leave 1/4 to 1/2 of the potatoes unblended, if you want chunks.",
+            "datePublished": "2011-02-21T09:18:00.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "unexpectedtriumphs"
+            },
+            "reviewBody": "nice and simple pleasures are what makes cooking supper the best weekend activity. this great base could take many variations dependent on the cook's tastes. my version was with tobasco sauce &amp; marjoram added to the base and broth while simmering. also i topped the soup with fresh red peppers, hot quality pepperoni and grated marble cheese. since i aim for a basic attempt at a recipe, i also used a potato masher to puree the mixture, preserving a great texture.",
+            "datePublished": "2008-01-26T22:54:46.517Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris I"
+            },
+            "reviewBody": "This is a wonderful, creamy soup, but like another reviewer noted, there is too much liquid when making a smaller recipe. I decided to keep the extra liquid and made the white sauce thicker, using three tablespoons each of butter and flour to two cups of milk. I also cooked the onions and potatoes in vegetable stock instead of water and stirred in about 1 teaspoon of ground sage (It brought out the onion flavor.) with the salt and pepper.",
+            "datePublished": "2006-07-24T17:54:51.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrs Cook"
+            },
+            "reviewBody": "Perfect consistency for cream of potato. I tweaked it to make a cream of potato and broccoli. If that was your plan, too, keep in mind creaming and adding broccoli makes it bland, but Worcestershire sauce , mustard powder, and a LOT of salt (4 tbsp. in a 6 serving recipe) relieves that. Great recipe, very easy! I'll use it again.",
+            "datePublished": "2008-05-31T08:08:31.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHEQUILA29"
+            },
+            "reviewBody": "While this was pretty easy to make, I too found it to be very bland. I ended up adding worcestershire sauce, lots of black pepper and salt, shredded cheddar cheese and bacon. I think next time I will make the roux with bacon drippings and cook the veggies in chicken stock. I also only added 8 cups of milk rather than 9 cups and didn't use any of the reserve water from the potatoes and onions. Will definitely make this again!",
+            "datePublished": "2010-02-08T05:30:07.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amberries"
+            },
+            "reviewBody": "I boiled the potatoes and onions in vegetable broth, added a bit of celery salt and added sauteed red bell peppers and swiss cheese at the end. Yum!",
+            "datePublished": "2008-02-04T03:04:38.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elena's cooking recipes"
+            },
+            "reviewBody": "This soup is okay I didn't use all the potatoes that the recipe asks for I used six instead. With the salt and pepper I thought the soup was bland so I added garlic powder as well. It's definitely a base soup and i'd add some other spices if you have a strong taste. Other wise it's a great soup.",
+            "datePublished": "2015-08-15T13:47:07.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mallory Beckham"
+            },
+            "reviewBody": "This was sooooo good, I made it exactly as posted, except for seasoning. I like spicy food so I added more spice like I normally do. This soup became very creamy, next time I will leave a part of the potato/onion mix out and add it later for a little texture. Very good and VERY easy!!! Oh, instead of parsley I used chives.",
+            "datePublished": "2010-03-08T18:25:04.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann Marie Bow"
+            },
+            "reviewBody": "Good basic potato soup, I used onions I grew myself! I can see having it plain or adding toppings to taste or as the mood changes",
+            "datePublished": "2026-08-26T03:53:24.058Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachelle Oyler"
+            },
+            "reviewBody": "I have been making this soup since 2011 and it's now 2026. It was a staple during my college years and now it's a nostalgic recipe that I enjoy returning to. I like to add cheddar cheese or additional spices depending on the occasion.",
+            "datePublished": "2026-06-10T03:34:45.198Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cstspko"
+            },
+            "reviewBody": "Was very good but just a little plain but I injoyed erey bit",
+            "datePublished": "2023-11-09T21:20:00.355Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian Alvas"
+            },
+            "reviewBody": "Easy and delicious! A family favorite.",
+            "datePublished": "2015-01-27T08:30:53.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Corrie"
+            },
+            "reviewBody": "This was great. I added 1T of ground mustard and 1T Worsteshire sauce. I also added carrot chunks and cooked cubbed chicken. I like chuncky potatoes in my soup so I used a potato masher and just mashed half of the potatoes.",
+            "datePublished": "2010-01-12T21:32:28.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cj"
+            },
+            "reviewBody": "I scaled this recipe down to 6 servings. I used 1/4 cup of the reserve potato water in the soup. I also added 1/4 tsp dried cilatro. We do not use salt in our cooking due to sodium reduced diets. This is a perfect recipe for potato soup. You can add whatever you want to garnish. It is a healthier way of eating potato soup. Thumbs up on healthy cooking.",
+            "datePublished": "2009-11-26T10:16:37.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tricia"
+            },
+            "reviewBody": "I really enjoyed this soup, but didn't understand what to do with the reserved water, so I didn't use it. I cooked bacon and used the bacon grease instead of butter for the roux, and then topped the soup with the chopped up bacon and some shredded cheddar. It was fantastic. I do have enough soup for the next week, though. My kids don't seem to be interested in eating it.",
+            "datePublished": "2009-02-15T03:26:21.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zambianlady"
+            },
+            "reviewBody": "This was a really easy and tasty recipe. Loved it! Scaled it down to 4 servings and served it with shredded cheese, fresh diced cilantro and sour cream as topping options. Fantastic for a cold rainy day.",
+            "datePublished": "2008-11-15T13:03:38.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alska Du"
+            },
+            "reviewBody": "I wanted to try a new recipe for cream of potato soup so I picked this one, since there was a ton of onions. I must say I was very disapponited with it. It has no flavor whatsoever. I tried to doctor it up, but nothing worked. And like someone meantioned... WAY TOO much liquid :( If you are thinking of trying this recipe - don't!",
+            "datePublished": "2008-10-16T15:28:14.677Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16397/cream-of-onion-and-potato-soup/",
+          "name": "Cream of Onion and Potato Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1552/soups-stews-and-chili/soup/vegetable-soup/potato-soup/",
+                  "name": "Potato Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,438 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14290/raw-vegetable-salad/",
+  "extracted_at": "2026-10-18T01:58:37.285704+00:00",
+  "recipes": [
+    {
+      "name": "Raw Vegetable Salad",
+      "ingredients_raw": [
+        "6 slices bacon",
+        "3 cups chopped broccoli",
+        "3 cups chopped cauliflower",
+        "3 cups chopped celery",
+        "1 (10 ounce) package frozen green peas, thawed",
+        "1 cup sweetened dried cranberries (such as Craisins®)",
+        "1.5 cups mayonnaise",
+        "0.25 cup Parmesan cheese",
+        "0.25 cup white sugar",
+        "2 tablespoons grated onion",
+        "1 tablespoon white wine vinegar",
+        "1 teaspoon salt",
+        "1 cup Spanish peanuts"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place bacon in a large deep skillet. Cook over medium-high heat until evenly brown, 10 to 15 minutes. Drain bacon on a paper towel-lined plate; crumble."
+        },
+        {
+          "id": 2,
+          "text": "Mix broccoli, cauliflower, celery, peas, and cranberries in a large bowl."
+        },
+        {
+          "id": 3,
+          "text": "Whisk mayonnaise, Parmesan cheese, sugar, onion, vinegar, and salt together in a bowl. Pour dressing over the salad; add nuts and bacon and toss well."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Raw Vegetable Salad",
+        "datePublished": "1999-08-01T15:59:11-04:00",
+        "dateModified": "2026-04-05T06:20:01-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Pamela Brown"
+          }
+        ],
+        "description": "Lots of variety and crunch in this tasty salad. Spanish peanuts, crumbled bacon, and dried cranberries mingle with fresh broccoli, cauliflower, and celery. The whole shebang is tossed with a mayonnaise, vinegar and oil dressing with a hint of sugar and grated onion.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/MbN-eq06pBcYhz8vPUPrRH3eOoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/708050-f408563e303e430fa8928207b66be67a.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Raw Vegetable Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "116"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "283 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "14 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "374 mg",
+          "sugarContent": "10 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 slices bacon",
+          "3 cups chopped broccoli",
+          "3 cups chopped cauliflower",
+          "3 cups chopped celery",
+          "1 (10 ounce) package frozen green peas, thawed",
+          "1 cup sweetened dried cranberries (such as Craisins®)",
+          "1.5 cups mayonnaise",
+          "0.25 cup Parmesan cheese",
+          "0.25 cup white sugar",
+          "2 tablespoons grated onion",
+          "1 tablespoon white wine vinegar",
+          "1 teaspoon salt",
+          "1 cup Spanish peanuts"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place bacon in a large deep skillet. Cook over medium-high heat until evenly brown, 10 to 15 minutes. Drain bacon on a paper towel-lined plate; crumble."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix broccoli, cauliflower, celery, peas, and cranberries in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk mayonnaise, Parmesan cheese, sugar, onion, vinegar, and salt together in a bowl. Pour dressing over the salad; add nuts and bacon and toss well."
+          }
+        ],
+        "recipeYield": [
+          "18",
+          "18 servings"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cookin'mama"
+            },
+            "reviewBody": "This was such a hit at a recent party that not only did I have to give out the recipe to people who had tasted it at the party, but got a call for the recipe from someone who wasn't there but heard about it the next day. I used sliced almonds instead of peanuts and cut the sugar in the dressing in half. If you make it ahead, add the cranberries when you dress the salad and add the bacon and nuts, or they will stain the other veggies. Fabulous recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ronna"
+            },
+            "reviewBody": "Really good. I steamed the cauliflower and broccoli for 4 minutes to soften it, but have it still be crunchy. Dressing was really good. I used cashews instead of peanuts (my preference). I added chopped red bell pepper for extra crunch, colour, and vitamin C. After it all chilled for 4 hours, it was SUCH a good salad!",
+            "datePublished": "2014-07-25T23:03:06.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jocale"
+            },
+            "reviewBody": "Made this for a group of friends and it was a hit. One friend who is not a real vegetable lover, was surprised how good it was, so that was a real compliment. I substituted sliced almonds for the peanuts and since I made it the day before the luncheon I added the almonds, bacon and cranberries right before serving.",
+            "datePublished": "2020-02-03T04:57:24.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maddy"
+            },
+            "reviewBody": "Did not have Spanish peanuts, subbed 1/4 C sunflower seeds. Used lite mayo. Did not have any bacon on hand, so just left out the meat factor and served with summer sausage on the side. I used 8 little green onioins instead. The mayo mixture seemed like an awful lot when I mixed it, so I only used 2/3 of it. So glad I Left out some of mayo mixture, it would have been too \"soupy\" for my family. GREAT recipre will definately add it to the \"Family Fav\" list.",
+            "datePublished": "2016-03-18T15:45:55.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janet Clue"
+            },
+            "reviewBody": "I have made this recipe for family events and it is always a hit! Any leftovers will keep in a fridge for a few days. I like to slightly steam the broccoli just until it's bright green but still crunchy. I think it makes it a little easier to chew in a salad. I also like to add cut grapes. I will continue to make this recipe",
+            "datePublished": "2018-01-09T20:21:06.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Riley"
+            },
+            "reviewBody": "This is a good recipe, I had to reduce the mayo to 1 cup so it wasn't swimming in it and sugar down to 1 Tbs because I couldn't imagine it being any sweeter with the other flavors. Also, if I make it again, I'll chop the broccoli and cauliflower much smaller--almost to crumbles--because the leftover peas, peanuts and cranberries at the bottom of my bowl were the best part without having to navigate good size, crunchy pieces of veggies. Or maybe I'll even try it without as a pea salad!",
+            "datePublished": "2012-03-28T11:21:24.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mamadodi"
+            },
+            "reviewBody": "It is a great salad with or without substitutions. My favorite is with red pepper and shredded carrots instead of celery and either sunflower seeds or toasted sliced almonds instead of peanuts.",
+            "datePublished": "2021-07-07T22:44:52.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angie"
+            },
+            "reviewBody": "Great recipe. I used half the sugar and added carrots otherwise it's too sweet in my opinion. I chopped up everything really fine so the vegetables will absorb the flavors better.",
+            "datePublished": "2015-10-12T16:38:19.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RRHOOP5469"
+            },
+            "reviewBody": "Even though I made some changes to the type of veggies used, I feel I can give this a 5 star regardless. The dressing was made as is and you can really use any type of veggies to this and it's great. I don't like bacon in anything except BLT's or by itself so I omitted the bacon. I used reg unsalted peanuts instead of spanish nuts (don't like them) and I left out the celery and added 1 red bell pepper and a whole head of broccoli &amp; cauliflower. Everything else was the same. Everyone loved it at our family Christmas dinner and my husband is a veggie nut so I knew he would love it. The cranberries &amp; nuts give this an awesome wow effect.",
+            "datePublished": "2012-12-29T08:45:05.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tall Timbers Kook"
+            },
+            "reviewBody": "This is excellent as many have already shared. I have made this twice, both times I changed the dressing a bit to reduce the mayo and sugar, plus use what I had on hand. I use 3/4 c Mayo, 1/2 t salt, 1 T honey",
+            "datePublished": "2018-08-22T19:48:02.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Brunmeier"
+            },
+            "reviewBody": "I've made other versions of cold broccoli salad but like the addition here of cauliflower and celery. I altered the dressing just a bit since I thought this would make far too much for the amount of vegetables called for. I also subbed in some light sour cream to lighten it up a bit. I did 1/4 cup light sour cream, 1/4 cup light mayo, 1 tablespoon sugar, 1 teaspoon white wine vinegar, 1/8 cup parmesan, and just a touch of salt. Very pretty and pretty tasty!",
+            "datePublished": "2011-09-25T18:49:26.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marilyn Casey"
+            },
+            "reviewBody": "This was delish. I also added red and yellow peppers for color. Everyone loved it.",
+            "datePublished": "2026-08-14T17:16:30.086Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ssbaker03"
+            },
+            "reviewBody": "This is a staple during family holiday meals. It's requested by so many",
+            "datePublished": "2024-11-08T01:10:02.762Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SwiftSoda1100"
+            },
+            "reviewBody": "This is a favorite of the whole family. Neighbors have asked me for the recipe. I would never change a thing except maybe add cashews instead of peanuts because I have a family member who is allergic to peanuts.",
+            "datePublished": "2024-06-14T16:18:31.256Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dina"
+            },
+            "reviewBody": "I Love this easy and delicious veggie salad! I substitute peanuts for sunflower seeds and added chunky pineapple in the sauce which made it sweet!",
+            "datePublished": "2022-03-21T00:26:08.632Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "martinafsc"
+            },
+            "reviewBody": "Big hit at the family picnic! I used roasted almond slivers because I had them. I like that it’s a little different and a great recipe for potluck.",
+            "datePublished": "2021-08-01T12:49:06.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenine Henrie Snarr"
+            },
+            "reviewBody": "My husband and I loved it! Will definitely make again. The peanuts were surprisingly fine in this. I would probably prefer almonds though. I made it without the bacon because my son is a vegetarian and it was still good. I felt like it was a little soupy, so next time I'll put less mayo in it .",
+            "datePublished": "2021-05-10T05:15:28.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lnb0014"
+            },
+            "reviewBody": "Labor intensive but worth the effort. It’s a holiday staple in our house!",
+            "datePublished": "2020-10-10T14:09:36.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aut54"
+            },
+            "reviewBody": "I couldn’t envision in my mind if a veggie salad would be a good or acceptable side dish at my family gathering of carnivores. But I wanted something different and chose this recipe as my side dish. EVERYBODY raved about it! It was absolutely delicious! Now it’s a requested dish at all our events! Thank you!!",
+            "datePublished": "2020-10-07T04:56:27.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Morgan Parker"
+            },
+            "reviewBody": "I think I’ve rated this before. It’s excellent, and I wouldn’t change a thing, but I noticed this - and several other recipes - seem to have some weird phrases or ingredients added which were not there before, for example, “1½ cups Salad dressing, mayonnaise, soybean oil, with salt,” is listed as one ingredient. Previously, that just read, “1 1/2 cups mayonnaise,” I believe. I hope this doesn’t prevent someone from making this recipe.",
+            "datePublished": "2020-08-02T20:00:15.147Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14290/raw-vegetable-salad/",
+          "name": "Raw Vegetable Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

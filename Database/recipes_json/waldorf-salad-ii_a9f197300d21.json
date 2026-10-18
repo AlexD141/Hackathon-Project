@@ -1,0 +1,483 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16800/waldorf-salad-ii/",
+  "extracted_at": "2026-10-18T02:23:07.342264+00:00",
+  "recipes": [
+    {
+      "name": "Waldorf Salad",
+      "ingredients_raw": [
+        "0.5 cup mayonnaise",
+        "1 tablespoon white sugar",
+        "1 teaspoon lemon juice",
+        "0.125 teaspoon salt",
+        "3 apples -- peeled, cored, and chopped",
+        "1 cup thinly sliced celery",
+        "0.5 cup chopped walnuts",
+        "0.5 cup raisins"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Whisk mayonnaise, sugar, lemon juice, and salt together in a serving bowl."
+        },
+        {
+          "id": 3,
+          "text": "Stir in apples, celery, walnuts, and raisins. Cover and chill in the refrigerator until ready to serve."
+        },
+        {
+          "id": 4,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Waldorf Salad",
+        "datePublished": "2000-02-18T10:51:57-05:00",
+        "dateModified": "2026-01-22T17:47:13-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Penny",
+            "url": "https://www.allrecipes.com/cook/114896"
+          }
+        ],
+        "description": "Waldorf salad is super simple to make with chunks of crisp apple, chopped celery, walnuts, and raisins in a creamy lemon and mayonnaise dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/LfN9FzdZGK_VBkCG6a8AGXx5ES0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16800-waldorf-salad-ii-ddmfs-3X4-0053-75f2d7845b2d45e3841fa06f15a27829.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/oOUaSOFH-K3AjnAEN.mp4",
+          "description": "In this video, you'll learn how to make a classic Waldorf salad recipe that's perfect for any occasion. The dish features a refreshing combination of crisp apples, celery, and walnuts, mixed with a tangy and sweet mayonnaise dressing. The recipe is simple and easy to follow, and you can customize the ingredients to your liking. For an extra protein boost, you can even add diced, roasted chicken to make it a complete meal. Whether you're looking for a healthy lunch option or a delicious side dish for your next gathering, this Waldorf salad is sure to be a hit!",
+          "duration": "PT19S",
+          "name": "How to Make Waldorf Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/oOUaSOFH/thumbnails/qCFHSTUH.jpg?width=1280",
+          "uploadDate": "2023-04-28T11:34:53-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Waldorf Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "400"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "248 kcal",
+          "carbohydrateContent": "17 g",
+          "cholesterolContent": "8 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "174 mg",
+          "sugarContent": "12 g",
+          "fatContent": "20 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup mayonnaise",
+          "1 tablespoon white sugar",
+          "1 teaspoon lemon juice",
+          "0.125 teaspoon salt",
+          "3 apples -- peeled, cored, and chopped",
+          "1 cup thinly sliced celery",
+          "0.5 cup chopped walnuts",
+          "0.5 cup raisins"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/iUlWZPb388QqUZ3dSIofR6l3gRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16800-waldorf-salad-ii-ddmfs-Step1-0040-49aae27c923b4576837e6a1703dbe1e5.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/4fwjPQVPQYGmVOdu89WPtDsK5Go=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16800-waldorf-salad-ii-ddmfs-Step2-0042-62672de0be654c4b8c4b0cd2ab1094fe.jpg"
+              }
+            ],
+            "text": "Whisk mayonnaise, sugar, lemon juice, and salt together in a serving bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/rpA3JRtmY3sTAkJvsQClocImlmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16800-waldorf-salad-ii-ddmfs-Step3-0046-30f4746a70e54f53b52e6e46280dd57f.jpg"
+              }
+            ],
+            "text": "Stir in apples, celery, walnuts, and raisins. Cover and chill in the refrigerator until ready to serve."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/LfN9FzdZGK_VBkCG6a8AGXx5ES0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16800-waldorf-salad-ii-ddmfs-3X4-0053-75f2d7845b2d45e3841fa06f15a27829.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MISSYKENDER"
+            },
+            "reviewBody": "I looked at several Waldorf salad recipes before I settled on this one, based on other reviews. I wanted to find a recipe I could throw all that leftover Thanksgiving turkey into! \r\n\r\nIt's very good, I added a little more lemon juice to counter the sugar sweetness (a good idea is to chop the apples first and then drench them in the lemon juice to keep them from browning!), and where folks had either grapes or raisins, I used Craisins (sweetened dried cranberries) to complete the whole leftover turkey-with-cranberries, apples and celery experience!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hokiechef"
+            },
+            "reviewBody": "I took the advice of other reviewers and tossed the diced apples in the lemon juice first in the bowl and I needed to add more to coat them. I used Miracle Whip Light instead of Mayo and it was delicious, though I needed more than called for of this too, basically just put in enough to coat everything. Sunmaid makes a bag of raisens called \"mixed raisens\", they are huge and extremely plump and moist and were simply perfect for this salad. I also added diced chicken to make this a dinner salad and I served it on sandwhich croissants. It was a huge hit with my guests, everyone just loved it!",
+            "datePublished": "2006-03-06T14:54:16.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hugh Silcox"
+            },
+            "reviewBody": "I made this for Thanksgiving this year. Classic Waldorf Salad ... perfect! Tripling the recipe, I used three Granny Smith apples, three Galas, and three red-skinned heirloom apples (wish I could remember the variety) from the farmers market. Don't peel the apples (and resist the temptation to use barbarisms like cool-whip. yogurt, salad dressing or *gasp* marshmallows!). I thought the proportions were perfect -- not too dry and not too goopy/runny, by the way Thanks!",
+            "datePublished": "2010-11-26T17:58:47.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I love Waldorf salad, and this recipe is easily adapted to personal tastes. The changes I made: cut recipe in half (just husband and me), used 1/2 mayo and 1/2 fat free Greek yogurt (to cut calories and add a little protein), subbed in pecans (always in my freezer), and subbed in a stevia blend instead of sugar.",
+            "datePublished": "2023-12-05T00:41:47.642Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry"
+            },
+            "reviewBody": "6-2-22 used pecans instead of walnuts, added 1 cup of green grapes. Yummy. 6-14-22 made without the grapes, still delish but better with the grapes.",
+            "datePublished": "2022-06-15T00:06:29.248Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chefkaren71"
+            },
+            "reviewBody": "Added 2 small cans of chicken (would have been better with cubed). Didn't have celery, wished I did. Seemed a bit bland so added about a tablespoon of horseradish dijon also (though was straight horseradish, I wouldn't have used as much). BE SURE to roast the walnuts as brings out flavor. Will definately make again.",
+            "datePublished": "2019-07-06T18:53:05.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadKelp6237"
+            },
+            "reviewBody": "This is a great recipe, I fry my walnuts in butter before adding to the salad and it MAKES this salad sooo yummy. It's so much better than plain walnuts!",
+            "datePublished": "2024-12-07T01:01:28.132Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carlos Lucero"
+            },
+            "reviewBody": "I think that it is a very good base recipe. I added 1/4 cup sour cream for some tang. As well as 1/2 cup of marshmallows for additional sweetness. Definitely will make again.",
+            "datePublished": "2024-06-09T03:10:13.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SassyMead8882"
+            },
+            "reviewBody": "Great recipe! I swapped lime juice for lemon juice, added chicken, and put it on a bed of romaine lettuce. It made a great cold dinner after a very hot day!",
+            "datePublished": "2023-07-02T03:51:07.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stina"
+            },
+            "reviewBody": "I did half greek yogurt and half mayo and used a lime instead of lemon. Absolutely delicious. Recipes that are flexible are really the best.",
+            "datePublished": "2024-03-04T14:06:40.365Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wildbirdies"
+            },
+            "reviewBody": "Worked well for family and friends. Made in a snap! Delish! I subbed dried cranberries for the raisins. I sliced the apples really thin and then diced them.",
+            "datePublished": "2024-12-08T17:36:25.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shirley Huston"
+            },
+            "reviewBody": "This is very good. I added grapes and used only two apples, they they were big ones.",
+            "datePublished": "2026-09-21T16:05:39.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ross ferderer"
+            },
+            "reviewBody": "I’m a Waldorf salad fan already. I like to add cinnamon which gives it that late season flavor imo.",
+            "datePublished": "2026-08-23T21:03:48.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janet B"
+            },
+            "reviewBody": "I grew up eating this but had never made it myself. I used 1/2 Greek yogurt, 1/2 mayo and honeycrisp apples. Added in 1 cup red grapes cut in half in addition to the raisins, celery and walnuts. It was delicious!",
+            "datePublished": "2026-04-11T14:02:30.106Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shirl"
+            },
+            "reviewBody": "I added Craisens and tossed the apple pieces in the lemon juice as suggested. Easy to make and sooo good.",
+            "datePublished": "2026-01-04T19:54:42.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barb Farrand"
+            },
+            "reviewBody": "I added dried cranberries pineapple tidbits and grapes , much tastier.",
+            "datePublished": "2025-11-17T14:08:55.875Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cherry Baumgartner"
+            },
+            "reviewBody": "Brought back memories of my Moother making this when I was yuong. Made it as accompaniment to Beef Strogonooff dinner to take to friends.",
+            "datePublished": "2025-10-21T17:33:03.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JumpyOat7903"
+            },
+            "reviewBody": "I added green and red grapes family loves it and doubled the mayo mixture",
+            "datePublished": "2025-03-10T17:51:18.779Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robin Nobles"
+            },
+            "reviewBody": "Fabulous! I could eat the whole bowl by myself😋",
+            "datePublished": "2025-02-20T23:14:43.742Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubyDip3717"
+            },
+            "reviewBody": "Grew up eating this and just as good 50 years later. I only eat Granny Smith apples so that’s what I used. Absolutely delicious. Next time I’ll make when I’m having company or going somewhere as now I have two weeks worth for one person lol. Super easy to make. Thanks for allowing me to relive my childhood. I forgot about it",
+            "datePublished": "2025-01-20T08:59:33.673Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16800/waldorf-salad-ii/",
+          "name": "Waldorf Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16932/salad/waldorf-salad/",
+                  "name": "Waldorf Salad Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

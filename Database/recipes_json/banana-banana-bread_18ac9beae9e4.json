@@ -1,0 +1,521 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20144/banana-banana-bread/",
+  "extracted_at": "2026-10-18T02:42:38.496282+00:00",
+  "recipes": [
+    {
+      "name": "Banana Banana Bread",
+      "ingredients_raw": [
+        "2 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "0.25 teaspoon salt",
+        "0.75 cup brown sugar",
+        "0.5 cup butter",
+        "2 eggs, beaten",
+        "2.3333332538605 cups mashed overripe bananas"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan."
+        },
+        {
+          "id": 2,
+          "text": "Combine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined."
+        },
+        {
+          "id": 3,
+          "text": "Pour batter into the prepared loaf pan."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely."
+        },
+        {
+          "id": 6,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Banana Banana Bread",
+        "datePublished": "2000-07-11T13:40:38-04:00",
+        "dateModified": "2026-02-13T07:10:16-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Shelley Albeluhn"
+          }
+        ],
+        "description": "This banana bread recipe makes an incredibly moist, delicious loaf with very ripe bananas for loads of banana flavor. It tastes even better toasted!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/fAkQn-FhjF89oTJ5JXpgwvwNf34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-009-4x3-B-78f1cfc64bfa451e8a0fead814719b9f.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/sKQCCYGD-K3AjnAEN.mp4",
+          "description": "This banana bread recipe is AllRecipes's most popular recipe ever! In this video, Nicole makes a moist and delicious banana banana bread. After mixing the flour, salt, and sugar, combine the mixture with mashed bananas, brown sugar, butter, and two eggs. Transfer the mixture to a loaf pan and bake it in the oven for around an hour. The banana flavor is so sweet and intense that you have to put banana in the name twice!",
+          "duration": "PT2M18S",
+          "name": "How to Make Banana Banana Bread",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/sKQCCYGD/thumbnails/AOH9lScy.jpg?width=1280",
+          "uploadDate": "2023-04-21T14:48:16-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Banana Banana Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "17421"
+        },
+        "cookTime": "PT60M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "231 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "51 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "226 mg",
+          "sugarContent": "16 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast",
+          "Brunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "0.25 teaspoon salt",
+          "0.75 cup brown sugar",
+          "0.5 cup butter",
+          "2 eggs, beaten",
+          "2.3333332538605 cups mashed overripe bananas"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Ob3CnHnJ4dGfr16X2TiMYclokMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-016-step-01-264370503a9c4031bb4515c3e79ffb89.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/tRWMaL5y8Ttzso7mV48oIlsm6hQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-017-step-02-97801d682d8b455f975aae6dec856837.jpg"
+              }
+            ],
+            "text": "Combine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/KA7Snkx0dEd9tKo8sKlWZBRpMvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-018-step-03-c14df521f62848dbabccb19d8c232a2e.jpg"
+              }
+            ],
+            "text": "Pour batter into the prepared loaf pan."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Dk3RKD2UZ1q4BmYeMxqFFinbnAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-019-step-04-971aa588a15644d0a836a267ba205216.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hzmgq7xuWSOJgVyTHVo-50AI2Js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-020-step-05-25918e9fd077418ab2eb854c67ec8ac2.jpg"
+              }
+            ],
+            "text": "Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/fAkQn-FhjF89oTJ5JXpgwvwNf34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20144-banana-banana-bread-VAT-009-4x3-B-78f1cfc64bfa451e8a0fead814719b9f.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 (9x5-inch) loaf"
+        ],
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SOULWOLF"
+            },
+            "reviewBody": "I've made several banana bread recipes here and I always come back to this one, it is a wonderful standard recipe that you can build upon and customize to your liking. A few pointers... This is a DENSE bread, the last one I made I actually weighed on my kitchen scale and it came to just under 2 1/2 lbs! This probably due to the 2 1/3 cups mashed bananas; I generally use about 5 medium size bananas but have used a little as three and it still came out good. If you like a lighter cake or muffin type bread, look elsewhere. Mix the ingredients carefully; I use my mixer to cream the butter and sugar and incorporate the eggs, but for the bananas and flour mixture I use a wooden spoon and mix gently until everything has just come together. I also add about 3/4 to 1 cup of chopped walnuts. 350 degrees for 1 hour, 15 minutes works for me but it is extremely important that I watch where my oven racks are positioned, too high in the oven and the bottom will not bake correctly, too low and it burns before the middle it cooked through. I position my rack one notch lower than direct middle of my oven and it comes out perfectly. Test with a toothpick in several places for doneness so you don't mistakenly hit a banana piece and think it is underdone. I think that's it!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Excellent recipe!! I added 1/2 cup of chopped walnuts and brushed the top with a mixture of 1tbs water and 3 tbs brown sugar for a sweet crunch on top.",
+            "datePublished": "2002-11-01T09:03:07.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "A decent, but not outstanding, banana bread. Its best feature, in my view, is that it takes care of an abundance of over-ripe bananas in one fell swoop. (Plan on five good sized bananas) It certainly was moist and dense, but maybe too much so. I'm wondering if the addition of a little more leavening might improve the tight texture and give it more of a crumb. Also, with this large amount of banana, which in itself is sweet, the amount of sugar could easily be reduced by about 1/4 cup or so. I added a teaspoon of vanilla, a half cup of chopped pecans, and baked in a Bundt pan for about 50 minutes. I'm glad to have used all my over-ripe bananas with just one recipe, but this still won't take the place of my favorite banana bread recipe.",
+            "datePublished": "2009-11-17T11:05:06.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Brenner"
+            },
+            "reviewBody": "Excellent recipe, I did add a dash of cinnamon and a teaspoon of vanilla. I also made it a 2nd time and put it in an 8 x 8 glass baking dish and topped with a crumb topping( 1 cup flour 6 tbs butter, 1 cup brown sugar and a tsp cinnamon.) Next will be crumb topped muffins.",
+            "datePublished": "2024-10-28T21:51:26.252Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WorthyCrisp9577"
+            },
+            "reviewBody": "This is by far the best banana bread I've ever made. As per a user suggestion, I added in 1 teaspoon vanilla, 1/2 teaspoon nutmeg, 1/2 teaspoon cinnamon to give it a more fall-flavor, but I'm sure it could be left out and still taste amazing. I baked it in a mini multi-loaf pan (with 6 loaves) for 20 minutes and it came out perfect. My husband and 8 year old cannot get enough! A definite keeper.",
+            "datePublished": "2024-10-08T15:13:33.876Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wilramos"
+            },
+            "reviewBody": "Very easy &amp; tasty, I add a tsp of Nutmeg and Vanilla, the walnuts were a great added flavor. I also brushed the top with a 1 tsp. water and 2 tsp. Brown sugar that put a perfect sweet crunch on the top.",
+            "datePublished": "2024-12-14T05:54:01.879Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen"
+            },
+            "reviewBody": "My favorite thing to do to Banana Nut Bread is to add chopped pecans, lightly sprinkled with Sanding Sugar (King Arthur Baking) to the top AND bottom of the bread. I do so by adding both ingredients first to the bottom of a loaf pan that has been lightly sprayed with Pam, then to the top of the batter just before going in the oven. It offers a lightly sweet and crunchy texture to the already delicious bread. So good!",
+            "datePublished": "2024-11-05T15:13:32.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arleen Tempesco McCoy"
+            },
+            "reviewBody": "Great recipe for ripe bananas, I added a banana extra for extra moist bread! Also added a teaspoon of vanilla and 3/4 cup of walnuts! For the top, crumpled a tablespoon of butter into 1/2 cup of brown sugar and a teaspoon of cinnamon, crumpled on top! So yummy",
+            "datePublished": "2025-01-12T15:24:04.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Raymond Two Bears"
+            },
+            "reviewBody": "Good stuff. I used dried dates 1:1 instead of bananas. I added 1/4 tsp A/C vinegar. I made cake flour by substituting 1tbsp A/C flour with 1 tbsp corn starch (per cup). I added 1/2 tsp cinnamon. I cut the sugar in half due to the dates being so naturally sweet. I baked it in mini loaf pans at 350 degrees for 25 minutes.",
+            "datePublished": "2026-07-22T19:27:25.886Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Slacker"
+            },
+            "reviewBody": "Made this gluten free with Bob's 1 to 1 GF baking flour and 1/2 cup of chopped walnuts. Also added 1 Tsp of baking powder, 3/4 Tsp of nutmeg and 1 TSP of cinnamon. It took 65 minutes at 350 to fully cook. Came out really good and better than other recipes that use 1/2 cup or more of vegetable oil.",
+            "datePublished": "2025-02-08T21:44:21.514Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Hoffman"
+            },
+            "reviewBody": "I love this recipe and wanted to make it at our place off the grid (no mixer). So I melted the butter and brown sugar in a saucepan and stirred till incorporated, like caramel. I let it cool just a bit before I added the eggs and bananas. I followed the rest of the recipe as written. Sometimes I add vanilla just because so many baked goods recipes call for vanilla. It came out perfect. I now make it the same way at home without a mixer. It's such a great tasting, easy recipe with minimal ingredients. Very moist.",
+            "datePublished": "2026-04-11T22:10:20.634Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Regina"
+            },
+            "reviewBody": "Great recipe. I like that there aren’t many ingredients. I used a glass pan at 350, and it only needed about 30 minutes. I added a dollop of plain lowfat Greek yogurt and some applesauce and vanilla flavoring. I’ll keep this recipe for sure!",
+            "datePublished": "2026-10-16T22:32:32.689Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadCarp3771"
+            },
+            "reviewBody": "Very amazing",
+            "datePublished": "2026-10-14T20:45:19.008Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trilby"
+            },
+            "reviewBody": "This recipe comes out extremely dry. I cooked it for an hour, and should have only cooled it for 40 minutes at the most. I also think adding more banana would make it more moist.",
+            "datePublished": "2026-10-12T12:11:35.011Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Evangelina"
+            },
+            "reviewBody": "👍",
+            "datePublished": "2026-10-11T21:42:14.439Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ricky"
+            },
+            "reviewBody": "It's very easy to make if you follow the directions. I found that if I left it in for the full hour it got too hard so I leave it in for 30 to 40 minutes, but I washed it like a hawk. As long as you're watching it and you don't let it get too stiff it's wonderfully moist.",
+            "datePublished": "2026-10-09T04:45:27.871Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chantel LePage"
+            },
+            "reviewBody": "Everyone loves this recipe. The extra banana keeps it moist and full of flavout",
+            "datePublished": "2026-10-07T20:50:52.894Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stilljackjack"
+            },
+            "reviewBody": "I followed this recipe to a T and it has to be the best banana bread I ever ate. I seriously would make a fortune marketing this recipe if I sold it in stores. So glad I didn’t throw out the nearly black bananas on my counter! I didn’t have a mixer so I used an immersion blender to blend the wet ingredients but it turned out very well, nonetheless. (OK i didn’t use a mixer, so not followed exactly to a T) I didn’t overmix the dry ingredients into the wet ingredients, simply folded it together until just mixed. The bread was moist and just sweet enough without being overly cloying. I do not regret the 5lbs I must have gained keeping this whole loaf to myself. Will make again!",
+            "datePublished": "2026-10-05T19:50:56.708Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DaringGhee7088"
+            },
+            "reviewBody": "This is my go to recipe when I want to whip up a delicious banana bread without following a thousand ingredient driven directions haha. This recipe is straight to the point and I love it! I always add a little bit of sour cream to the recipe to accentuate flavors, some cinnamon and chopped walnuts or pecans or whatever nut I have on hand because I live in a chaos lifestyle and I'm all for it lol. This is always so wonderful thank you!",
+            "datePublished": "2026-10-04T04:31:12.724Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I use over ripe bananas I freeze to use specifically in this recipe when I accumulate 3 or 4 bananas and my sweet tooth is yearning for this easy recipe. I only add a bit of vanilla extract, cinnamon and nutmeg. Soooo good!",
+            "datePublished": "2026-10-04T00:30:42.119Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20144/banana-banana-bread/",
+          "name": "Banana Banana Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/156/bread/",
+                  "name": "Bread"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+                  "name": "Quick Bread Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/359/bread/quick-bread/fruit-bread/",
+                  "name": "Fruit Bread Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/343/bread/quick-bread/fruit-bread/banana-bread/",
+                  "name": "Banana Bread"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,476 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21066/spaghetti-sauce/",
+  "extracted_at": "2026-10-18T02:47:52.105111+00:00",
+  "recipes": [
+    {
+      "name": "Spaghetti Sauce",
+      "ingredients_raw": [
+        "2 teaspoons olive oil",
+        "0.5 small onion, chopped",
+        "2 green onions, chopped",
+        "2 teaspoons crushed garlic",
+        "1 (28 ounce) can peeled and diced tomatoes",
+        "4 teaspoons dried basil",
+        "4 teaspoons dried oregano",
+        "1 teaspoon white sugar"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large saucepan over medium heat. Add onion, green onion, and garlic; cook until onions are translucent, 3 to 4 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Stir in tomatoes, basil, oregano, and sugar. Bring to a boil, reduce heat to low, and simmer for 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Serve over pasta."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Spaghetti Sauce",
+        "datePublished": "2000-08-29T14:47:56-04:00",
+        "dateModified": "2026-04-28T08:29:03-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Courtney Linda"
+          }
+        ],
+        "description": "This easy spaghetti sauce is made from scratch with tomatoes, onions, garlic, basil, and oregano. Add your favorite vegetables and use fresh herbs.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/a9emXMp3V7pFc0Mf7kfG_H_K2vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-DDMFS-4x3-6253b3f1436b4860b3dc33a4fbe8e68b.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/dEjybVvt-ma1DlVvV.mp4",
+          "description": "This video shows you how to make a basic tomato sauce for spaghetti. It’s a simple recipe that simmers canned diced tomatoes, basil, and oregano with sautéed garlic and onions. If you like, use it as a starting point for tasty experimentation, adding your favorite vegetables, mushrooms, and fresh herbs.",
+          "duration": "PT2M8S",
+          "name": "Spaghetti Sauce",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dEjybVvt/poster.jpg?width=1280",
+          "uploadDate": "2021-07-09T19:55:36-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spaghetti Sauce",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "300"
+        },
+        "cookTime": "PT25M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "82 kcal",
+          "carbohydrateContent": "11 g",
+          "fiberContent": "3 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "310 mg",
+          "sugarContent": "7 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Ingredient"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "2 teaspoons olive oil",
+          "0.5 small onion, chopped",
+          "2 green onions, chopped",
+          "2 teaspoons crushed garlic",
+          "1 (28 ounce) can peeled and diced tomatoes",
+          "4 teaspoons dried basil",
+          "4 teaspoons dried oregano",
+          "1 teaspoon white sugar"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lX8UGS7Xk2Veu9eNtnA90e9-NtY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-step-1-0688-1-2b8130f17ef947c691bffe0100169c53.jpg"
+              }
+            ],
+            "text": "Heat oil in a large saucepan over medium heat. Add onion, green onion, and garlic; cook until onions are translucent, 3 to 4 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YZKab97Ko-fDnY3N8mVlv5NDYMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-step-3-0719-1-5e3d6fa28ecc4027b5822a7702cb0479.jpg"
+              }
+            ],
+            "text": "Stir in tomatoes, basil, oregano, and sugar. Bring to a boil, reduce heat to low, and simmer for 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/a9emXMp3V7pFc0Mf7kfG_H_K2vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-DDMFS-4x3-6253b3f1436b4860b3dc33a4fbe8e68b.jpg"
+              }
+            ],
+            "text": "Serve over pasta."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ANGELARICHELE33"
+            },
+            "reviewBody": "So simple and tastes great! You can really do a lot with this. I added a can of tomato paste and thickened it a little quicker (probably totally illegal!) and added a bit more sugar and some salt and pepper. Very good and fast - loved it!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pete Flanagan"
+            },
+            "reviewBody": "Sautéed 1/2 green pepper along with the onions and garlic.\n\nAdded 1/8 cup of dry sherry to sautéed vegetables and reduced until almost dry before adding tomato.\n\nAdded 1 teaspoon red pepper flakes and 1 teaspoon salt.\n\nUsed 8 teaspoons of Italian Seasoning instead of the 4 teaspoons basil and 4 teaspoons oregano.",
+            "datePublished": "2016-12-24T11:01:04.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steve Jones"
+            },
+            "reviewBody": "Really easy and also a breeze to adjust to your taste. I did 14oz. Tomatoes and 14oz. Tomato sauce. I also didn’t have green onion so omitted those. I added 1lb. Seasoned beef to the sauce and it was really thick so I added 1/2 cup water to thin it out and added some salt and pepper. Tasted great!",
+            "datePublished": "2019-01-13T00:49:13.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dwight"
+            },
+            "reviewBody": "Diced tomatoes are too watery, so I use one 14oz can of diced, one 14 oz. can of tomato sauce, and one of tomato paste. Comes out nice and thick and doesn't run. I skip the sugar. Tomatoes are naturally sweet. I also add a pinch of red pepper flakes for a little zing.",
+            "datePublished": "2020-03-05T21:07:04.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BillyandChristy"
+            },
+            "reviewBody": "Good, basic recipe for a beginner like myself. I added yellow, sweet peppers during the saute stage. I used tomato paste as suggested by another reviewer, and, due to a lack of dry or fresh basil, I used an Italian Seasoning blend instead. To smooth it out for my family members sensitive to texture, I used an immersion blender. I added mushrooms in after blending for the mushroom lovers. I found the result to need a little more sugar and some salt. I also added grated Parmesan cheese. The result was a sauce everyone enjoyed!!!",
+            "datePublished": "2016-03-09T18:58:37.987Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gab"
+            },
+            "reviewBody": "I used this recipe to go along with homemade chicken parm. I added about a tablespoon of garlic salt and sprinkled Parmesan over the top of it and mixed it in then simmered it for an hour instead of 20 mins and came out great! For my own pleasure I would chop up the onions very finely next time just chopped was too thick for me.",
+            "datePublished": "2017-02-24T01:09:06.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dale Meech"
+            },
+            "reviewBody": "I think it's great! I recommend it. I made Chef John's meatballs to go along with this sauce. Taste test is fabulous. In oven @ 250° 3 hours.",
+            "datePublished": "2022-03-10T18:21:01.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bradley"
+            },
+            "reviewBody": "This is a great base for your homemade spaghetti sauce. I changed it up a bit, but it was still great. Instead of a big can of diced tomatoes I used a 14.5 oz can and added two 8 oz cans of tomato sauce. I also added a pinch of red pepper flakes for a little heat. I went a little heavier on the garlic and added salt and a ton of pepper (I like pepper). Great recipe! Definitely recommend it. Especially when you're in a pinch and need to whip up a sauce (my wife forgot to get the Ragu at the store).",
+            "datePublished": "2017-03-24T00:03:37.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Blue"
+            },
+            "reviewBody": "I used this recipe as a jumping off place. Made the following delicious modifications because I either felt like it or I didn't have an ingredient: I used a 16 ounce jar of home grown and canned diced tomatoes, added diced carrots to the sautéed onions and garlic portion, added a squirt of ketchup because I didn't have tomato paste. Added a little vodka, just because. Added home made hot sauce just because. Used brown sugar because that is all I had. Added 1/2 cup fresh basil, replaced the oregano with cilantro because I didn't have the oregano. Added sausage because sausage is delicious! My family loves the sauce. Happy cooking all!",
+            "datePublished": "2016-10-02T11:35:13.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NRRSS"
+            },
+            "reviewBody": "My take: I didn't have canned diced tomatoes so I blanched one and diced it myself. Followed steps and when added tomatoes I also added a can of tomato sauce, and a teaspoon garlic power ( I LOVE garlic). Added a packet of Sazon with coriander, a pinch of salt and let it simmer. I added some italian sausage and meatballs and it turned out terrific - YUMMY!",
+            "datePublished": "2015-05-31T18:36:00.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Britt English"
+            },
+            "reviewBody": "I liked the basic recipe, though I will always and forevermore skip the green onions and blend my sauce after cooking for a bit to give it a smoother texture. In addition, I will sometimes add pizza seasoning and use it for homemade pizza sauce. Love it for that!",
+            "datePublished": "2017-02-06T20:52:36.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Earl_Nightingale"
+            },
+            "reviewBody": "Quick and easy! very tasty for a non-meat sauce.",
+            "datePublished": "2026-01-17T00:14:41.445Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Channing"
+            },
+            "reviewBody": "I finally found my sauce! No more store bought for me. I've been looking for a quick, easy red sauce and this will be my new go-to. Quick and simple with room for customization. Very flavorful and rewarding. I added a good bit of Sauvignon Blanc to mine",
+            "datePublished": "2025-08-08T08:04:42.605Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Crystal Marie"
+            },
+            "reviewBody": "Great basic sauce",
+            "datePublished": "2025-05-08T21:49:30.276Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rev"
+            },
+            "reviewBody": "Very easy and quick to make--and good! I did add peppers and mushrooms. Other than that I followed the recipe to a 'T.' I've made it twice and will do so again. It's already favorite. Thanks for the recipe.",
+            "datePublished": "2024-09-05T20:39:00.661Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PlushOrzo6998"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-04T01:41:04.612Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tim Ulman"
+            },
+            "reviewBody": "A great easy spaghetti sauce. Improvise in any direction you like. Not really hard to memorize.......even for me.",
+            "datePublished": "2023-10-23T03:54:55.406Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "novice cook"
+            },
+            "reviewBody": "I wanted to find a really simple, quick spaghetti sauce so I settled on this one. I made it exactly to recipe except for the white wine, my bottle of which had mysteriously disappeared when I went to get it! So that got left out, but it didn't matter. This sauce was delicious and given how easy it is to make will definitely replace the commercial ones.",
+            "datePublished": "2023-03-31T03:14:16.712Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dds"
+            },
+            "reviewBody": "Have made a time or two now. It's great! This time I added some ground moose meat. Yum!",
+            "datePublished": "2023-02-05T10:54:21.662Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SassyIce6072"
+            },
+            "reviewBody": "The other ratings convinced me to try it, and I made it to the letter except for the green onions (omitted). Plenty of seasoning, but it cried out for simple salt and pepper. So bland without it-- was this an oversight in the editing?",
+            "datePublished": "2023-01-30T00:09:32.219Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21066/spaghetti-sauce/",
+          "name": "Spaghetti Sauce",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                  "name": "Sauces"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/",
+                  "name": "Pasta Sauces"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

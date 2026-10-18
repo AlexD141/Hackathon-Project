@@ -1,0 +1,451 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21309/butternut-soup/",
+  "extracted_at": "2026-10-18T02:50:04.472265+00:00",
+  "recipes": [
+    {
+      "name": "Butternut Soup",
+      "ingredients_raw": [
+        "2 pounds butternut squash, cubed",
+        "2 onions, chopped",
+        "1 tablespoon butter",
+        "4 cups vegetable broth",
+        "0.5 cup heavy cream",
+        "salt and pepper to taste",
+        "1 dash ground nutmeg",
+        "1 dash ground cloves",
+        "1 dash ground cinnamon"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine squash, onions, and butter in a large microwave-safe bowl. Cover and microwave on high for 4 minutes; peel squash."
+        },
+        {
+          "id": 2,
+          "text": "Stir in broth and cook on high until squash is tender, about 20 to 25 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Transfer squash mixture into a blender; cover and hold the lid down with a potholder and pulse a few times before leaving on to blend. Transfer pureed mixture back into the microwave-safe bowl."
+        },
+        {
+          "id": 4,
+          "text": "Add cream, salt, and pepper; microwave on high until heated through, about 3 to 4 minutes. Season with nutmeg, cloves and cinnamon to taste."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Butternut Soup",
+        "datePublished": "2000-08-19T21:09:36-04:00",
+        "dateModified": "2025-01-22T10:42:40-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Stackhawkley"
+          }
+        ],
+        "description": "This butternut squash soup is made in the microwave and seasoned with nutmeg, cloves, and cinnamon for a super easy satisfying winter soup.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/-vYUyAQS6zF0Wg2zgl4r0jsBfkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/576282-butternut-soup-footballgrl16-4x3-1-db478666dd7941e79934921a0c14705c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Butternut Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "73"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "212 kcal",
+          "carbohydrateContent": "31 g",
+          "cholesterolContent": "32 mg",
+          "fiberContent": "8 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "339 mg",
+          "sugarContent": "9 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds butternut squash, cubed",
+          "2 onions, chopped",
+          "1 tablespoon butter",
+          "4 cups vegetable broth",
+          "0.5 cup heavy cream",
+          "salt and pepper to taste",
+          "1 dash ground nutmeg",
+          "1 dash ground cloves",
+          "1 dash ground cinnamon"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine squash, onions, and butter in a large microwave-safe bowl. Cover and microwave on high for 4 minutes; peel squash."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in broth and cook on high until squash is tender, about 20 to 25 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer squash mixture into a blender; cover and hold the lid down with a potholder and pulse a few times before leaving on to blend. Transfer pureed mixture back into the microwave-safe bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add cream, salt, and pepper; microwave on high until heated through, about 3 to 4 minutes. Season with nutmeg, cloves and cinnamon to taste."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue S"
+            },
+            "reviewBody": "This soup has been a staple in our house for at least 30 years but I make it slightly different than this recipe. I lived in Australia for many years and it is a common soup there. They call it Pumpkin Soup and you can get it at most restaurants and diners. Here;s the recipe I use: 1 large butternut squash peeled and cubed 1 large sweet onion peeled and diced 1 can chicken broth 1 can eveporated milk additional milk to thin it out nutmeg Put the squash, onion and chicken broth in a soup pot and bring to a boil. Simmer until the squash id well done...about 15 minutes. Add evaporated milk and mash with a potato masher or whiz with a hand held stick blender. If it's too thick add some regular milk until it's the consistency you want. Add a dash of nutmeg. Serve with a crusty bread. I just made some 2 nights ago and used a new chicken broth that made it even better than before. It was College Inn Culinary Broth Thai Coconut Curry. I have to get more so I always have some in the cupboard."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberly H"
+            },
+            "reviewBody": "Very good soup. Although I cooked mine on the stove opposed to microwaving. There were a few things I did different only because I did not have the item called for. I added 2 tablespoons of butter, and I used half a cup of condensed milk instead of half and half. Substituted chicken broth for vegetable broth. I also felt I needed to add extra spices for a little more flavor. All around a good soup.",
+            "datePublished": "2011-11-08T16:58:32.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Raivetz Newman"
+            },
+            "reviewBody": "I think that peeling the squash after cooking it for 4 minutes must be a typographical error. I peel the squash first. I lighten this by using 2% evaporated milk instead of heavy cream.",
+            "datePublished": "2013-12-14T12:33:21.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chrishorak"
+            },
+            "reviewBody": "Very yummy. I don't know what the difference is between stock and broth but I used chicken stock. I only used 3 cups of stock instead of 4 and the consistency was perfect. I took advice of others and used only one onion and peeled the butternut first. Added thyme instead of cloves as I don't like them.",
+            "datePublished": "2010-12-26T12:06:46.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly Hirschberg Strelzik"
+            },
+            "reviewBody": "I love the soup. The recipe was easy using fresh cubed butternut squash. Only used one chopped onion and evaporated milk, chicken and veggie broth(what I had on hand). Didn’t use any butter. Used Sue S suggestions. Added salt pepper cinnamon and nutmeg!!",
+            "datePublished": "2020-12-06T22:21:25.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jill Douglas"
+            },
+            "reviewBody": "I made this and I got rave reviews from my family! I had had this soup on a cruise 2 summers ago to the Bahamas and fell in love with it! I don’t normally care for squash but this was so yummy! I substituted chicken stock for the vegetable stock! When I served it I also sprinkled a dash of cinnamon &amp; nutmeg on top of it! It is so delicious and smooth! Try it even if you hate squash because you will never think of this as squash!",
+            "datePublished": "2017-11-16T17:48:03.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Suesim"
+            },
+            "reviewBody": "Very good fall soup, but I had to add some brown sugar. I like it a little sweeter and more like a tablespoon of each of the spices! Yum!",
+            "datePublished": "2019-10-27T21:14:13.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary"
+            },
+            "reviewBody": "I roasted the squash and sauteed the onions before pureeing. The soup turned out great - was literally licking the bowl clean. It was quick, easy, and I appreciated that it was healthy and used simple ingredients I had on hand.",
+            "datePublished": "2006-11-24T15:33:22.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krisi"
+            },
+            "reviewBody": "The soup was very good the first day but was to rich to eat it more than that. I did freeze a container of the soup and will see how it freezes in a few weeks. I put the squash and other vegetable items into the oven while I was cooking other items to help get that roasted taste and that was excellent.",
+            "datePublished": "2007-01-17T13:18:46.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Edbrooke"
+            },
+            "reviewBody": "Followed the recipe as written, except my \"dash\" of spices was actually 1/4 tsp of each, and I used half-and-half to slim down the fat just a bit. O.M.G. What a great tasting soup this is! I loved the combination of spices. I had planned to freeze individual serving sizes for eating throughout the winter, but I'm not sure any of it's going to actually make it into the freezer! :-) Thanks \"stackhawkley\" for a great recipe.",
+            "datePublished": "2014-12-30T13:11:27.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was delicious; however I used chicken broth instead of the vegetable broth. Also I added 1/8 teaspoon each of the nutmeg, cloves &amp; cinnamon &amp; black pepper plus 1/4 teaspoon of salt. Can't wait 'till lunchtime to have more.",
+            "datePublished": "2003-01-25T11:58:29.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlyne Gallaway"
+            },
+            "reviewBody": "I thought microwaving the cubed squash would make it easy to peel. IT DID NOT! \nI microwaved the covered cubed squash a couple of more minutes. Still very difficult and tedious to peel. The prep time for this recipe is misleading. Takes MUCH longer.",
+            "datePublished": "2021-12-15T17:45:10.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sue"
+            },
+            "reviewBody": "It came out great. although I added some cornstarch to thicken it a bit.",
+            "datePublished": "2020-10-11T21:49:06.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lilypadsue"
+            },
+            "reviewBody": "It was soooo good I would recommend it",
+            "datePublished": "2016-11-26T23:17:00.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynn"
+            },
+            "reviewBody": "We just love this recipe. It is awesome!",
+            "datePublished": "2016-06-23T19:44:26.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon R Lopez"
+            },
+            "reviewBody": "We loved this soup!",
+            "datePublished": "2015-11-29T10:00:03.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eddy"
+            },
+            "reviewBody": "I have to agree with Sue S. this is an absolutely fantastic soup, family love's it keep them recipes coming.\n\nThanks Sue",
+            "datePublished": "2014-10-14T15:12:06.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Sidoti Carpentz"
+            },
+            "reviewBody": "Used chicken low salt/no fat broth. Turned out great. Served with croutons of my choice.",
+            "datePublished": "2014-10-12T10:06:13.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "zernike"
+            },
+            "reviewBody": "I use chicken broth and coconut milk. My favorite soup!",
+            "datePublished": "2014-01-06T15:56:26.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "need2eat2"
+            },
+            "reviewBody": "This was very good. Loved it.",
+            "datePublished": "2013-05-25T08:19:23.273Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21309/butternut-soup/",
+          "name": "Butternut Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14734/soups-stews-and-chili/soup/vegetable-soup/squash-soup/",
+                  "name": "Squash Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16370/soups-stews-and-chili/soup/vegetable-soup/squash-soup/butternut-squash-soup/",
+                  "name": "Butternut Squash Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

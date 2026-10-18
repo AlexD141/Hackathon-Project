@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13768/roasted-pumpkin-seeds/",
+  "extracted_at": "2026-10-18T01:54:55.908175+00:00",
+  "recipes": [
+    {
+      "name": "Roasted Pumpkin Seeds",
+      "ingredients_raw": [
+        "1.5 cups raw whole pumpkin seeds",
+        "2 teaspoons butter, melted",
+        "1 pinch salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Toss seeds in a large bowl with the butter and salt. Spread in a single layer on a baking sheet; bake until golden, stirring occasionally, about 45 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Roasted Pumpkin Seeds",
+        "datePublished": "1999-10-27T10:07:53-04:00",
+        "dateModified": "2026-06-29T14:13:08-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rosemary"
+          }
+        ],
+        "description": "This roasted pumpkin seeds recipe turns a handful of seeds into a crispy, delicious snack with just butter and salt, which you likely already have.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/k_9AsKbLHwkFpTzvjKkYHItpLFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13768-Roasted-Pumpkin-Seeds-mfs-Step4_004-99f37031a1fe4b78afd184bcbeb94a73.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/8JwJZh1a-K3AjnAEN.mp4",
+          "description": "Here is a super easy recipe for roasting fresh pumpkin seeds that come out perfectly every time.",
+          "duration": "PT37S",
+          "name": "Roasted Pumpkin Seeds Recipe",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8JwJZh1a/thumbnails/uvfVN8z4.jpg?width=1280",
+          "uploadDate": "2023-01-13T15:37:38-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Roasted Pumpkin Seeds",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "821"
+        },
+        "cookTime": "PT45M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "83 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "4 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "13 mg",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.5 cups raw whole pumpkin seeds",
+          "2 teaspoons butter, melted",
+          "1 pinch salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hCM5tSTcdiKl-mw2tnk6lfmXYOc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13768-Roasted-Pumpkin_seeds-DDMFS-Step1-7ca9fe2c072540e5880cb65871ecf095.jpg"
+              }
+            ],
+            "text": "Preheat the oven to 300 degrees F (150 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/k_9AsKbLHwkFpTzvjKkYHItpLFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13768-Roasted-Pumpkin-Seeds-mfs-Step4_004-99f37031a1fe4b78afd184bcbeb94a73.jpg"
+              }
+            ],
+            "text": "Toss seeds in a large bowl with the butter and salt. Spread in a single layer on a baking sheet; bake until golden, stirring occasionally, about 45 minutes."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 1/2 cups"
+        ],
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Brunmeier"
+            },
+            "reviewBody": "If you've never roasted pumpkin seeds before here are my tips. When you carve your pumpkins scoop the seeds into a colander and the guts onto newspaper. Inevitably some of the guts will be mixed in with the seeds but when you run water over them it's separated out pretty easily. After you drain the rinsed seeds, pour them onto a large, dry cookie sheet and let them sit for 24 hours or so to dry out. Now you can pick out the remaining pieces of pumpkin stuff that didn't get pulled out earlier and they will roast better if they are not wet when they go in the oven. My family prefers them seasoned with garlic salt in place of regular salt but you can use whatever suits your taste. So good!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JBANDK9S"
+            },
+            "reviewBody": "We are enjoying these hot out of the oven, and I want to post a quick review because it is always so helpful to read the comments of others - thanks everyone! We had two cups of seeds so I upped the butter a bit and upped the salt even more - used garlic salt instead of Mortons. I learned from others that it is VERY important to keep your single layer single in order to get the nice toasty seeds - and even then, ours took a longer than 45 minutes on two cookie sheets. We just watched until they were toasty brown - and they are SO DELICIOUS! Thanks and happy Halloween!",
+            "datePublished": "2005-10-30T15:54:04.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sarahaa1"
+            },
+            "reviewBody": "I did mine in vegetable oil and seasoned salt and also pepper. I cooked them for 10 minutes at 350. The butter burns the seeds especially after 45 minutes!!!!!",
+            "datePublished": "2024-10-15T16:01:41.074Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MirthCream8755"
+            },
+            "reviewBody": "Boil and then simmer seeds in salt water until grey, then toss in olive oil and bake. Watch closely so they don't burn",
+            "datePublished": "2023-01-27T02:22:58.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "emily"
+            },
+            "reviewBody": "Boiling is a must! I boiled the seeds in salt water . And then roasted them with cinnamon and a little oil (just to grease the pan). My kids said they tasted like popcorn. I've roasted pumpkin seeds before without boiling them-they were not bad but no one went back for seconds, boiling was the missing step that made these fantastic!!",
+            "datePublished": "2020-01-19T22:14:36.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susi Matthews"
+            },
+            "reviewBody": "I did this in my toaster oven so having them all spread out in one layer isn't possible. I reached in with a fork and stirred them every once in a while.\n\nOne change, I didn't use butter but sprayed the seeds with Pam and then sprinkled with sea salt for one variety and cinnamon/sugar for the other.\n\n200 degrees for about 25 minutes made them perfect. Simple and wonderful.",
+            "datePublished": "2011-12-23T14:01:01.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee Grow"
+            },
+            "reviewBody": "This is, by far, the best way to roast pumpkin seeds. My pumpkin was big, so doubled ingredients listed. Simmer in lightly salted water with a TBS of butter until all water has evaporated. This concentrates the salt. Stir in a couple TBS more butter and spread out on 2 pans. It does take longer than times listed, but the results are crisp, and delicious. I went with simple seasoning. Yum! Thanks!!",
+            "datePublished": "2022-11-18T15:05:17.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly Rusk"
+            },
+            "reviewBody": "Excellent recipe. I read other reviews and many suggested boiling in salt water to get a better seasoning flavour. I’m way too lazy and impatient to do that but I have another tip that worked out very well. I took my kosher salt and blitzed it in my nutribullet to make it a fine powder and the result was excellent. Definitely blend up more than you need as it’s tough to collect the powder then toss it in a bowl with the butter or oil to ensure it’s equally distributed and the result was excellent and well seasoned. An old restaurant trick someone taught me.",
+            "datePublished": "2020-10-25T02:59:47.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ron Jenson"
+            },
+            "reviewBody": "My Mom used to make these at Halloween with our jack-o-lantern pumpkin seeds. I make them now when I have pie pumpkins, as the seeds are smaller and more tender. Of note; if using seeds from a fresh pumpkin DO NOT rinse them!! Simply separate the seeds from the pulp with your hands. Yes it's a bit slimy, but if you rinse them you lose A LOT of flavor. I use seasoned salt instead of plain salt but you can season them however you like. For example Cajun seasoning such as Zatarain's, Tony Cachere's, or Slap Ya Mama would be good too!\n\nA batch of these typically lasts about 30 minutes at my house!",
+            "datePublished": "2018-10-20T18:14:47.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IcyPrawn6549"
+            },
+            "reviewBody": "Love the idea of simmering in salt water first! Couldn't figure out where I went wrong last year and that step was definitely it! Seasoned with butter, seasoning salt (hy's), spicy Montreal steak spice (la grille), smouldering smoked Applewood (la grille), and curry powder... Added all the seasonings into the melted butter first then tossed them into the pumpkin seeds and cooked on the top rack. Absolutely addictive, taste like candy!!",
+            "datePublished": "2022-11-05T19:44:38.386Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maggie Ryhajlo"
+            },
+            "reviewBody": "Good base recipe. I don’t like using butter so I switch out olive oil and sea salt. Timing is off for me I only needed 30 minutes as others mention. Also I recommend drying the seeds overnight before cooking. I haven’t tried the saltwater bath but next year I will.",
+            "datePublished": "2018-10-31T06:15:21.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anthony"
+            },
+            "reviewBody": "A low slow roast, butter and salt is perfect for roasting seeds. I also made Cajun and brown sugar and cinnamon seeds as well you can take the recipe in any direction let your imagination run wild.",
+            "datePublished": "2026-10-17T18:23:51.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fran Koerber"
+            },
+            "reviewBody": "We are vegan, so I used olive oil. If all the.flavorings I’ve done tamari is everyone’s favorite! I happen to have a delicious aged tamari, but a top of the line soy sauce would work as well!",
+            "datePublished": "2026-06-12T21:53:09.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "robkat"
+            },
+            "reviewBody": "When you rinse the seeds you’re losing all the flavor. Just take out the big chunks. Melted butter and washyoursister sauce.",
+            "datePublished": "2025-12-09T20:14:07.971Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lilac0cean22"
+            },
+            "reviewBody": "They are very good, though they taste like popcorn. I might try them again, but with honey or maple syrup next time.",
+            "datePublished": "2025-11-01T14:56:58.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Skeez"
+            },
+            "reviewBody": "I used a bit more than a pinch of salt yes I know it’s not good for me. Other than that I didn’t change a thing.",
+            "datePublished": "2025-10-24T09:08:52.936Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gail p"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-17T20:34:25.684Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadRoll1370"
+            },
+            "reviewBody": "Didn't change anything. Really good 👍. Thank you",
+            "datePublished": "2024-12-01T16:29:14.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UniqueRice3022"
+            },
+            "reviewBody": "Recipe is great, BUT! Mine were done after 15 min, at 20 min they were almost burnt.",
+            "datePublished": "2024-11-22T19:21:53.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PurpleTea7632"
+            },
+            "reviewBody": "how much water do you boil them in and how much salt do you add to the water and FYI I am writing this be for I make the recipe",
+            "datePublished": "2024-11-20T00:35:46.951Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13768/roasted-pumpkin-seeds/",
+          "name": "Roasted Pumpkin Seeds",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/114/appetizers-and-snacks/nuts-and-seeds/",
+                  "name": "Nuts and Seeds"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/969/appetizers-and-snacks/nuts-and-seeds/pumpkin-seeds/",
+                  "name": "Pumpkin Seed Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

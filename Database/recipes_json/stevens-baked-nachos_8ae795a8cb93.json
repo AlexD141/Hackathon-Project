@@ -1,0 +1,512 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/143048/stevens-baked-nachos/",
+  "extracted_at": "2026-10-18T01:58:48.851667+00:00",
+  "recipes": [
+    {
+      "name": "Steven&#39;s Baked Nachos",
+      "ingredients_raw": [
+        "1 (8 ounce) skinless, boneless chicken breast half",
+        "1 (14.25 ounce) can refried beans",
+        "8 ounces corn tortilla chips",
+        "1.5 cups grated pepper Jack cheese",
+        "0.25 cup chopped green onions",
+        "0.5 cup sour cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x9-inch baking dish."
+        },
+        {
+          "id": 2,
+          "text": "Place chicken on a microwave-safe plate; cover with a paper towel. Cook on high power until cooked through and no longer pink, about 10 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Cool, then shred using a knife; set aside."
+        },
+        {
+          "id": 4,
+          "text": "Cook and stir refried beans in a saucepan over medium until thoroughly heated."
+        },
+        {
+          "id": 5,
+          "text": "Layer ½ the chips, ½ cup cheese, and green onions on bottom of the prepared baking dish. Spoon beans over top."
+        },
+        {
+          "id": 6,
+          "text": "Layer ½ cup cheese and sour cream over beans. Arrange shredded chicken over top, then top with remaining ½ chips and ½ cup cheese."
+        },
+        {
+          "id": 7,
+          "text": "Bake in the preheated oven until cheese melts throughout, 15 to 18 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Steven&#39;s Baked Nachos",
+        "datePublished": "2015-07-25T02:02:58-04:00",
+        "dateModified": "2026-05-01T18:06:25-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "LMarcia"
+          }
+        ],
+        "description": "Steven&#39;s oven-baked nachos recipe has layers of tortilla chips, grated Jack cheese, shredded chicken, refried beans, and sour cream, baked to perfection.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mEwuvROy3bDtNNsVGJFFp8x6tyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-4x3-efa28305cab84ce6bb0e571df72df285.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Steven&#39;s Baked Nachos",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "44"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "431 kcal",
+          "carbohydrateContent": "37 g",
+          "cholesterolContent": "56 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "21 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "602 mg",
+          "sugarContent": "2 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Appetizer"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "Tex-Mex"
+        ],
+        "recipeIngredient": [
+          "1 (8 ounce) skinless, boneless chicken breast half",
+          "1 (14.25 ounce) can refried beans",
+          "8 ounces corn tortilla chips",
+          "1.5 cups grated pepper Jack cheese",
+          "0.25 cup chopped green onions",
+          "0.5 cup sour cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/d2RWi1NyzzK3_X3_BrIghGb2cEY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-01-2a68fe765d074dd59f8eb9480f62b9b1.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x9-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YEhe6SBwEgZAxKEvcVz0dgqwQk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-02-b4ffaaa9eda34773828b6e452474f4c0.jpg"
+              }
+            ],
+            "text": "Place chicken on a microwave-safe plate; cover with a paper towel. Cook on high power until cooked through and no longer pink, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/m2kSzJ2d3vH-2jtavV03-lJUCQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-03-9d7897ceb81444fa9de3b712197c47d3.jpg"
+              }
+            ],
+            "text": "Cool, then shred using a knife; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Ww-5vML2aRcNNTyyb_7amXhqvQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-04-3f2e32a994c5427fac69b66c67318a1d.jpg"
+              }
+            ],
+            "text": "Cook and stir refried beans in a saucepan over medium until thoroughly heated."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3Xq1iRfmuTHmxSeapcahzpVIaXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-05-4a330bd05ad54351b91edae06affff32.jpg"
+              }
+            ],
+            "text": "Layer ½ the chips, ½ cup cheese, and green onions on bottom of the prepared baking dish. Spoon beans over top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/IDaC_1n4MH19LB1rUgbpDMG-htc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-06-2-5b4fb449ce88488bacb4b790dfe615ee.jpg"
+              }
+            ],
+            "text": "Layer ½ cup cheese and sour cream over beans. Arrange shredded chicken over top, then top with remaining ½ chips and ½ cup cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/JQko-80xSL73c0v412OS7_sLUAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-143048-stevens-baked-nachos-VAT-step-07-1cf43abe318e4211ad2550c4312f4b78.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until cheese melts throughout, 15 to 18 minutes."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Luke-Cardona"
+            },
+            "reviewBody": "Loved the idea of baking the chips, which created the best nachos. Instead of chicken I used ground beef with a fajita seasoning and it had amazing flavor. Great for an appetizer. The unfortunate part is that it is not good for left overs. My husband and I had to throw half of it out because we could not eat it all."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JUMAHA"
+            },
+            "reviewBody": "I couldn't find a recipe quite like what I was looking for, so I modified this one. I cooked 1 lb of ground beef with taco seasoning, then layered it in a 9x13 pan with tortilla chips, cheese, pinto beans, tomato, green onion, and sliced jalapenos and baked it all as directed. I skipped the sour cream and served salsa and guac on the side. Perfection! I will hang on to this for gatherings and the occasional tv night dinner.",
+            "datePublished": "2011-03-06T18:24:41.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "whattherockiscookin"
+            },
+            "reviewBody": "I use this recipe as a template for vegetarian nachos. I cut out the chicken, and I re-fry my own beans (pinto). I use two bags of large tortilla chips. I use the chopped onions, the green peppers, and the sour cream, but I like to add sliced black olives, and sometimes chopped tomatoes (Roma), or whatever I feel like really (chopped sauteed garlic/onions, etc). I use a LOT of cheese (any kind I have really), and I layer like the recipe says, just without the meat. I also make a bowl of yummy guacamole to go with it, and its perfect. Love it for the Superbowl!",
+            "datePublished": "2014-03-08T14:33:11.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joy"
+            },
+            "reviewBody": "I make this very similarly, but I don't like to cook the sour cream. what I add that I haven't seen in the reviews is crispy bacon rather than chicken. Bacon is a beautiful flavor mixer with the beans, the cheese (a mixture of jack and pepper jack). I put it on a big platter, bake it then broil it for a couple of minutes to get the cheese a browned finish. When it's out of the oven I add lettuce, onions and tomatoes, sour cream, homemade guacamole and salsa. Yum. Absolutely lovely.",
+            "datePublished": "2011-06-10T18:53:40.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "smllover"
+            },
+            "reviewBody": "I made quite bit of changes to this to suit our tastes. I seasoned the chicken with fajita mix prior to cooking it. I also added black beans to the recipe. I used cheddar instead of pepper jack. I served this with fresh shredded lettuce. I also served the sour cream on the side. I had a lot more \"stuff\" than chips, so it needed to be eaten more like a taco salad. It probably would have done better in a bigger cooking dish too. But all in all, a decent recipe! I like how the chips taste with everything when you bake them in the oven, which I've never done before. Be aware that this is a first day ONLY recipe, the chips will not survive as leftovers.",
+            "datePublished": "2007-07-31T12:26:23.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen Beckman"
+            },
+            "reviewBody": "This is a basic nacho recipe that I have made many times before. However I have never tried the sour cream as a layer on the chips before baking. That is why I am adding a review. I really liked it with the sour cream. I used chicken that I marinated in Lawrys Tequilla Lime sauce. My chips of choice are Tostitos Gold. They're firm and don't get soggy. I served with homemade pico de gallo and guacamole. Yum yum.",
+            "datePublished": "2008-07-23T21:22:01.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sunshine"
+            },
+            "reviewBody": "I used shredded pork and regular black beans. When they came out of the oven, I topped them with fresh parsley and diced tomatoes. Served with sliced avocado.",
+            "datePublished": "2017-03-21T14:30:33.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cinged"
+            },
+            "reviewBody": "I swapped the refried for black beans and added diced tomatoes, and seasoned the chicken before adding it. It was actually pretty good with the sour cream baked into it. This may be my new go-to way to make nachos now.",
+            "datePublished": "2015-05-31T16:52:19.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "merschor"
+            },
+            "reviewBody": "The only thing I changed was adding black olive slices. This is such a fun group plate.",
+            "datePublished": "2025-02-10T22:52:39.186Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "M Stoffel"
+            },
+            "reviewBody": "I changed the recipe up only because I make nachos to use up leftovers - I was interested in the cooking method (usually I nuke them) and the sour cream not being served on the side. I was impressed with both - the time allowed all the meat to get hot and cheese to become good and melty, and the sour cream was wonderful cooked with everything else - this is how I'll do it from now on. Thanks for the recipe :)",
+            "datePublished": "2009-02-20T19:15:55.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JADERN"
+            },
+            "reviewBody": "I was looking for something to make for a quick lunch and came across this recipe. I had to make some changes based on ingredients at hand. We used sharp cheddar instead of pepper jack, white onions instead of green and canned chicken breast instead of fresh. I would totally make this again, but would leave out the layer of sour cream. I found it to curdle (and wasn't very appealing to the eye) and made the chips soggy. Other than that we loved it!",
+            "datePublished": "2008-07-26T15:01:53.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sonia"
+            },
+            "reviewBody": "I loved how easy these are to make. They make the perfect appetizer, definitely a family favorite",
+            "datePublished": "2025-02-06T09:41:25.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GiftedFrog3150"
+            },
+            "reviewBody": "It was simple, but since I never make nachos it was great to have a recipe to guide me through the steps.",
+            "datePublished": "2024-12-01T19:51:24.075Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kevin"
+            },
+            "reviewBody": "Pretty good! I would add tomatoes, onions, and lettuce as there wasnt really enough stuff. However, this was a LOT of food and filled up 2 tupperwares.",
+            "datePublished": "2018-02-05T03:41:22.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "T B"
+            },
+            "reviewBody": "I thought it was good. I will make it again. I need to find a way to have the chips come out less soggy. It became more of a dip that my friends and I needed more chips for.",
+            "datePublished": "2017-04-26T22:00:31.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry Hollingsworth"
+            },
+            "reviewBody": "The recipe was so good. My husband and family really liked it. We also had pizza, and they actually liked the nachos better. The only reason that I did not give it a five star rating is because it is not so good as leftovers.",
+            "datePublished": "2014-02-02T17:38:15.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bibsney"
+            },
+            "reviewBody": "These were amazing! Can't believe how crisp the chips stayed. Will use this time and time again",
+            "datePublished": "2013-11-03T19:25:21.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cass McManus"
+            },
+            "reviewBody": "Buttttttttt......you must season, especially the chicken! Don't forget! I also use Nacho Cheese Chips, excellent change and flavor boost!",
+            "datePublished": "2013-06-15T14:49:24.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KWINT01"
+            },
+            "reviewBody": "Good recipe. The extra chips and cheese at the end aren't needed.",
+            "datePublished": "2012-01-15T15:26:47.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "1artsygal"
+            },
+            "reviewBody": "It doesn't get better than this! Insanely easy to make - we omitted the olives - but SO yummy! It's hard to find a good nacho recipe, but this one's a keeper!",
+            "datePublished": "2011-07-13T13:11:27.580Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/143048/stevens-baked-nachos/",
+          "name": "Steven&#39;s Baked Nachos",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+                  "name": "Cheese"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1228/appetizers-and-snacks/cheese/nachos/",
+                  "name": "Nachos Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,483 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/10521/apple-butter-bars/",
+  "extracted_at": "2026-10-18T01:42:50.482100+00:00",
+  "recipes": [
+    {
+      "name": "Apple Butter Bars",
+      "ingredients_raw": [
+        "0.5 cup butter",
+        "1.5 cups all-purpose flour",
+        "0.5 cup packed brown sugar",
+        "0.25 cup white sugar",
+        "1 egg",
+        "0.75 cup apple butter",
+        "0.5 teaspoon baking soda",
+        "0.5 teaspoon apple pie spice",
+        "1 cup raisins",
+        "1 cup confectioners' sugar",
+        "0.25 teaspoon vanilla extract",
+        "2 tablespoons milk"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 13x9x2-inch baking pan."
+        },
+        {
+          "id": 2,
+          "text": "Beat butter until creamy. Add 1/2 of the flour, brown sugar, white sugar, egg, apple butter, baking soda, and apple pie spice. Beat together until well blended. Beat in remaining flour and stir in raisins. Spread in the prepared baking pan."
+        },
+        {
+          "id": 3,
+          "text": "Bake for 20 to 25 minutes or until a toothpick in center comes out clean. Cool in pan on wire rack."
+        },
+        {
+          "id": 4,
+          "text": "While the apple mixture is cooling, mix confectioners&#39; sugar, vanilla, and 1 to 2 tablespoons milk in a bowl to a drizzling consistency."
+        },
+        {
+          "id": 5,
+          "text": "Drizzle icing over cooled apple mixture. Cut into 36 bars."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Apple Butter Bars",
+        "datePublished": "1998-02-13T03:15:23-05:00",
+        "dateModified": "2026-05-11T11:34:02-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rosina"
+          }
+        ],
+        "description": "These apple butter bar cookies are made moist and tasty by using apple butter and feature a simple drizzled icing for a delicious dessert.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/COVVjGKf1-TrRbMssB0TQ6BCsTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/482203-apple-butter-bars-Alberta-Rose-1x1-1-2fd1c385bfb543faa65d50a5fa985d02.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/spvZGyk9-K3AjnAEN.mp4",
+          "description": "The flavor of apple pie joins the soft comfort of your favorite snacking loaf bread in this delicious and easy recipe. Butter, brown sugar, eggs and flour are the base for apple butter, apple pie spice and plump raisins. After these moist bars cool, drizzle them generously with an icing of confectioners’ sugar, vanilla and milk. Grab a tall glass of milk or a cup of coffee and a friend and start snacking because they’re too good to eat just one!",
+          "duration": "PT1M4S",
+          "name": "Apple Butter Bars",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/spvZGyk9/poster.jpg?width=1280",
+          "uploadDate": "2021-07-17T20:06:40-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Apple Butter Bars",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "107"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "94 kcal",
+          "carbohydrateContent": "17 g",
+          "cholesterolContent": "7 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "38 mg",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Southern"
+        ],
+        "recipeIngredient": [
+          "0.5 cup butter",
+          "1.5 cups all-purpose flour",
+          "0.5 cup packed brown sugar",
+          "0.25 cup white sugar",
+          "1 egg",
+          "0.75 cup apple butter",
+          "0.5 teaspoon baking soda",
+          "0.5 teaspoon apple pie spice",
+          "1 cup raisins",
+          "1 cup confectioners' sugar",
+          "0.25 teaspoon vanilla extract",
+          "2 tablespoons milk"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 13x9x2-inch baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat butter until creamy. Add 1/2 of the flour, brown sugar, white sugar, egg, apple butter, baking soda, and apple pie spice. Beat together until well blended. Beat in remaining flour and stir in raisins. Spread in the prepared baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake for 20 to 25 minutes or until a toothpick in center comes out clean. Cool in pan on wire rack."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "While the apple mixture is cooling, mix confectioners&#39; sugar, vanilla, and 1 to 2 tablespoons milk in a bowl to a drizzling consistency."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/COVVjGKf1-TrRbMssB0TQ6BCsTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/482203-apple-butter-bars-Alberta-Rose-1x1-1-2fd1c385bfb543faa65d50a5fa985d02.jpg"
+              }
+            ],
+            "text": "Drizzle icing over cooled apple mixture. Cut into 36 bars."
+          }
+        ],
+        "recipeYield": [
+          "36",
+          "36 bars"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "These are great! I used a chopped granny smith apple instead of raisins and made the glaze with apple juice instead of the milk and vanilla. Very moist and apple-y. I also used muffin pans and reduced the baking time."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VioletSieve5200"
+            },
+            "reviewBody": "I followed the recipe to a TEE with just 1 exception, my raisins were GOLDEN. I didn't like the amount of batter with the suggested pan size (I could tell that bars would be too thin) so I quickly made another 1/2 batch and it filled the pan nicely. I agree with some of the other commenters that the recipe could be improved by upping the quantity of Apple Butter used as well as doubling the amount of spice from 1/2 TSP to a whole TSP. These bars were not very moist and dense and they should be.... I like my bars to be gooey-er!",
+            "datePublished": "2022-12-23T04:26:25.595Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel Brautigam"
+            },
+            "reviewBody": "Baking these in a 9x13 pan made them come out quite thin. Next time I would try baking them in a square 9x9 pan to make them thicker. I also thought they needed much more spice, as I couldn’t taste the apple pie spices at all. Will try again, adding more cinnamon, nutmeg, ginger and ground cloves. But nice base for a recipe and lots of ways it could be modified to suit your tastes.",
+            "datePublished": "2022-12-10T01:54:37.126Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lauraellen"
+            },
+            "reviewBody": "I took some of the reviewers advice and added some things of my own. Used baking powder instead of baking soda as one reviewer suggested to make it less cake like and more of a bar. I didn't have apple butter so I used apple sauce and added more spice. Used chopped dried tart cherries, chopped apples and pecans instead of raisins. Made the drizzle with 2oz of cream cheese, confectioners sugar, cream, and vanilla. Next time I might add maple syrup as the flavoring for the drizzle instead of vanilla. This is a great recipe!",
+            "datePublished": "2016-08-31T02:06:35.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "heinzymom"
+            },
+            "reviewBody": "Excellent recipe! I made it with small apple slices instead of raisins, as I'd much rather have the fresh fruit; I also used a generous 1 cup of apple butter, as my family loves the apple butter flavor, and I wanted to make sure it was very moist (a few other reviewers complained that it crumbled). WOW! Great apple butter flavor, very moist, and no crumbles here! These won't last 24 hours! ...I will also say that the apple butter and apple pie spice give it a very distinctive flavor, and it absolutely does not need any glaze; it would become overwhelmingly sweet.",
+            "datePublished": "2020-01-19T05:36:31.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sage78"
+            },
+            "reviewBody": "I didn't have apple butter, but had pumpkin butter - so, used the entire small jar of the pumpkin butter instead and changed the \"apple pie spice\" to pumpkin spice (1/4 tsp nutmeg, 1/4 tsp cloves, 1/4 tsp ginger, and 1/2 tsp cinnamon). I also took the advice of another reviewer and placed in muffin pan (makes 12 medium muffins). It was awesome...I have the pickiest kids ever...and they couldn't get enough of it. It was like \"Fall in your mouth\" :)",
+            "datePublished": "2013-09-12T17:04:21.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolann"
+            },
+            "reviewBody": "I did as others suggested and added more apple butter (1 1/2 cups), 1 tsp of apple pie spice, I also added 1 tsp of vanilla extract, little bit of salt and substituted chopped apples for the raisins. It did take longer to cook as more moisture was added (about 30 minutes). I put them in the fridge to cool and then let them stay in there for a few hours before cutting and eating. They are good but the tweaks are necessary. I’d even add a little more spice and salt next time. It’s def more cake like but I like that and they’re moist",
+            "datePublished": "2025-09-22T02:16:19.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelly P"
+            },
+            "reviewBody": "This is my favorite recipe from Allrecipes so far. Super easy. I made cream cheese frosting for my first batch as I had the ingredients available. I am making the second batch with the frosting using rum instead of milk. It adds a zest to the frosting that we like better than a sweet milk taste.",
+            "datePublished": "2021-02-01T15:37:30.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Dupler Mills"
+            },
+            "reviewBody": "Couldn't wait to try this recipe. I tweaked it a bit, adding more apple butter, substituted pumpkin pie spice for the apple spice, added a tsp of cinnamon, and some craisins . Baked it in an 8X12 glass casserole dish, which I use for all my bar recipes for about 30 minutes at 335 degrees. Had to try one as soon as they had cooled somewhat. Yum. Packed some with no topping in the freezer to share with family, then made an icing of 1/2 cup heavy cream, whipped, to which I added sifted powdered sugar until it was the correct consistency. I had a partial package of butterscotch pudding on hand, so I whisked it with some skimmed milk, took about a tbsp of it and added to the whipped cream/conf. sugar mixture for flavor and reserved the remaining pudding for hubby's ice cream treat later on. The bars were great. Think next time, I might sprinkle some coconut on top the bars. A great Fall Treat with memories of apple butter, and jam always on the table at Grandma and Grandpa's house.",
+            "datePublished": "2010-10-06T11:55:19.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amywcisel"
+            },
+            "reviewBody": "Incredibly easy and so delicious! I used the maple apple butter available at William Sonoma and the maple added the nicest touch of flavor. These were a huge hit over the holidays and I definitely plan on making these again and again!",
+            "datePublished": "2017-03-26T17:20:30.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bigred8618"
+            },
+            "reviewBody": "Absolutely delicious! I used a full cup of homemade caramel apple butter. I didn't have a chance to make the glaze but even without it, the recipe is a keeper!",
+            "datePublished": "2018-09-22T18:19:05.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlashyFarro8743"
+            },
+            "reviewBody": "This cake was soft and full of flavor! I'm going to try it with pumpkin butter next.",
+            "datePublished": "2026-01-16T22:49:45.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janie"
+            },
+            "reviewBody": "The bars taste great, but they are a little crumbly. Do you have any suggestions? Also, I substituted pecans for the raisins.",
+            "datePublished": "2023-09-17T19:53:18.151Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Baker-Dykes"
+            },
+            "reviewBody": "I loved this recipe. I did make one adjustment--I used 1 cup of cinnamon chips instead of raisins. My family loved it!",
+            "datePublished": "2022-10-29T22:28:15.475Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judy Keith"
+            },
+            "reviewBody": "It was crumbly and didn't have much flavor, I was really disappointed",
+            "datePublished": "2021-03-22T17:27:55.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracia Hayes"
+            },
+            "reviewBody": "A yummy start to fall themed baking. I added some sliced almonds on top and Carmel with my icing. Mine came out more like cake, but still delicious.",
+            "datePublished": "2020-09-27T22:06:55.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jessi Marie"
+            },
+            "reviewBody": "The icing didn't work out for me, so I left it out. I also substituted apples for the raisins and I had to increase cooking time quite a bit. I'll be making these differently next time, but the flavors were great",
+            "datePublished": "2020-06-27T18:53:42.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marci C"
+            },
+            "reviewBody": "So yummy! I'm not much of a cook or baker, but these were so easy. I baked them for the full recommended time and they turned out perfect.",
+            "datePublished": "2019-12-01T20:07:44.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kyoko1"
+            },
+            "reviewBody": "This is a good dessert for people who don't want anything too sweet. I added some pie spice to the icing, which turned out great!",
+            "datePublished": "2019-10-20T21:33:57.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alexandra Lawrence"
+            },
+            "reviewBody": "I did not add the raisins and I will make it again.",
+            "datePublished": "2019-02-01T18:57:37.727Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/10521/apple-butter-bars/",
+          "name": "Apple Butter Bars",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/",
+                  "name": "Fruit Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1254/desserts/fruit-desserts/apple-desserts/",
+                  "name": "Apple Dessert Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,379 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12945/borscht-with-meat/",
+  "extracted_at": "2026-10-18T01:51:25.620054+00:00",
+  "recipes": [
+    {
+      "name": "Borscht with Meat",
+      "ingredients_raw": [
+        "1.5 pounds beets, boiled and grated",
+        "2 tablespoons red wine vinegar",
+        "1 teaspoon white sugar",
+        "1 pound lean beef chuck",
+        "2 quarts water",
+        "0.5 pound bacon",
+        "1 tablespoon salt",
+        "8 whole black peppercorns",
+        "6 sprigs fresh parsley",
+        "2 teaspoons dried marjoram",
+        "2 teaspoons dill seed",
+        "1 pound shredded cabbage",
+        "2 leeks, sliced",
+        "1 cup chopped onion",
+        "1 carrot, grated",
+        "2 pounds Polish sausage",
+        "2 tablespoons chopped fresh dill weed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine 1/2 cup of the beets, the vinegar, and sugar in a small bowl; refrigerate, covered, overnight. Refrigerate remaining beets."
+        },
+        {
+          "id": 2,
+          "text": "Place beef, water, bacon, salt, peppercorns, parsley sprigs, marjoram, and dill seeds (or basil leaves) in Dutch oven. Heat to boiling. Reduce heat, simmer, partially covered, over medium heat until beef is tender (about 2 hours)."
+        },
+        {
+          "id": 3,
+          "text": "Discard parsley sprigs. Add 3 cups beets, the cabbage, leeks, onions, carrot, and sausage; simmer, covered, over low heat 30 minutes."
+        },
+        {
+          "id": 4,
+          "text": "To serve, remove beef, bacon, and sausage; cut into 2-inch pieces. Return meats and reserved beet mixture to Dutch oven. Sprinkle with snipped dill. Pass sour cream."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Borscht with Meat",
+        "datePublished": "1999-01-11T13:19:38-05:00",
+        "dateModified": "2022-09-12T17:42:36-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Robert Bodensteiner"
+          }
+        ],
+        "description": "Grated beets, bacon, polish sausage and lean beef chuck are cooked in a piquant broth in this red soup loaded with vegetables.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/rRm1KJ4gPBV7RTrNeE20tQ_z2oc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/893585-bf2ee01a5bbc435f810dfb178ae986f7.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Borscht with Meat",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "17"
+        },
+        "cookTime": "PT130M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "482 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "93 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "14 g",
+          "sodiumContent": "1499 mg",
+          "sugarContent": "7 g",
+          "fatContent": "37 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Russian"
+        ],
+        "recipeIngredient": [
+          "1.5 pounds beets, boiled and grated",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon white sugar",
+          "1 pound lean beef chuck",
+          "2 quarts water",
+          "0.5 pound bacon",
+          "1 tablespoon salt",
+          "8 whole black peppercorns",
+          "6 sprigs fresh parsley",
+          "2 teaspoons dried marjoram",
+          "2 teaspoons dill seed",
+          "1 pound shredded cabbage",
+          "2 leeks, sliced",
+          "1 cup chopped onion",
+          "1 carrot, grated",
+          "2 pounds Polish sausage",
+          "2 tablespoons chopped fresh dill weed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine 1/2 cup of the beets, the vinegar, and sugar in a small bowl; refrigerate, covered, overnight. Refrigerate remaining beets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place beef, water, bacon, salt, peppercorns, parsley sprigs, marjoram, and dill seeds (or basil leaves) in Dutch oven. Heat to boiling. Reduce heat, simmer, partially covered, over medium heat until beef is tender (about 2 hours)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Discard parsley sprigs. Add 3 cups beets, the cabbage, leeks, onions, carrot, and sausage; simmer, covered, over low heat 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "To serve, remove beef, bacon, and sausage; cut into 2-inch pieces. Return meats and reserved beet mixture to Dutch oven. Sprinkle with snipped dill. Pass sour cream."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "12 servings"
+        ],
+        "totalTime": "PT640M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "No need to precook the beets. Shred them and cook directly in the meat stock. Also, leave out the bacon to make it lower in fat. I aaded somne vegetable stock to make the stock richer in flavor."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebcamuse"
+            },
+            "reviewBody": "This was an excellent recipe...I was looking for a way to use beets (I don't like them) that my husband grew in our garden, and this was a great choice. I used pieces of stew meat instead of a pound of beef chuck (cut cooking time in half), smoked bacon, and kielbasa.The beet flavor isn't overpowering and the herbs are all well-balanced. It is extremely hearty and flavorful.",
+            "datePublished": "2012-09-27T13:41:40.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Goslee"
+            },
+            "reviewBody": "I tried this because I have a borscht recipe that I love, but my SO doesn't like, so I hoped that a \"with meat\" option might appeal to him more. As a soup the flavor was ok, but it was not actually very borschty. It looks red but lacks the deep earthy back of the beet flavor that my favorite recipe has. The sheer quantity of meat in this version overwhelms the vegetables (3.5 lbs meat versus 1 carrot!). I would give this recipe 4 stars on flavor but the actual writing of the recipe is confusing and the ingredient list misleading. The list doesn't mention that you can substitute dried basil (easy to find) for the dill seed (impossible to find), nor does the recipe mention that you should serve it with sour cream until the final step. If it isn't in the ingredient list it doesn't end up in my grocery cart! The only thing I'm taking from this is the idea to add leeks and a small amount of sausage to my old borscht recipe. Maybe 1 lb of meat. 3.5 lbs of meat in something that isn't a chili is just way too much.",
+            "datePublished": "2013-08-02T06:16:33.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Isabelle"
+            },
+            "reviewBody": "I tried this against a Borscht recipe from a Russian friend of my mother's; a family classic from eons ago. I changed a few things to my liking (more broth, less bacon and sausage). Even mom likes this one better. Thanks Robert!",
+            "datePublished": "2010-01-09T13:36:47.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "snelson"
+            },
+            "reviewBody": "Very good!",
+            "datePublished": "2020-07-01T12:56:51.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wansanam"
+            },
+            "reviewBody": "good!!!!!!!",
+            "datePublished": "2016-05-04T05:59:46.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JennAK"
+            },
+            "reviewBody": "I changed it a bit, so it isn't fair that I am rating it a 4. Without the huge amount of meat, this is easily a 5 star!",
+            "datePublished": "2014-01-30T00:22:00.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "awalser"
+            },
+            "reviewBody": "THE best borscht I've ever had! Probably better than Grandma made. Friends and family enthusiastically \"beet\" a path to my house to join in for my annual Borscht Feast. I round up the quantities in the recipe for the meat and veggies. Everyone raves this dish. Great Job, Robert.",
+            "datePublished": "2010-10-16T08:44:10.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Terrific!",
+            "datePublished": "2005-07-18T06:23:34.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My husand loved this recipe, kids didn't really like it.",
+            "datePublished": "2002-01-06T17:28:06.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was really good and tasty eventhough I also left the bacon out. Even my husband who thinks he hates beets loved it.",
+            "datePublished": "2001-12-29T22:20:50.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Finally, I've found the perfect receipe for old fashion \"Borscht\"!!!",
+            "datePublished": "2001-12-19T10:28:37.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "this recipe is easy to make and really great tasting! I would also be great to add deer sausage or pepperoni.",
+            "datePublished": "2001-02-07T12:09:51.623Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12945/borscht-with-meat/",
+          "name": "Borscht with Meat",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14768/soups-stews-and-chili/soup/vegetable-soup/borscht/",
+                  "name": "Borscht"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

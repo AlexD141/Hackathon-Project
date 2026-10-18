@@ -1,0 +1,178 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217008/citrus-ice-pops/",
+  "extracted_at": "2026-10-18T03:01:33.487022+00:00",
+  "recipes": [
+    {
+      "name": "Citrus Ice Pops",
+      "ingredients_raw": [
+        "1 cup orange juice",
+        "0.5 cup grapefruit juice",
+        "0.25 cup water",
+        "2 tablespoons lemon juice",
+        "2 tablespoons white sugar",
+        "1 (8 ounce) container vanilla yogurt",
+        "0.5 cup chopped strawberries"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place orange juice, grapefruit juice, water, lemon juice, and sugar in a saucepan over medium heat; bring to a boil. Cook, stirring occasionally, until sugar dissolves, about 5 minutes. Cool juice mixture, then freeze until very cold, about 10 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, combine yogurt with strawberries in a bowl; chill in the refrigerator, about 10 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Spoon about 1 ½ tablespoons juice mixture into 6 pop molds; freeze until frozen, 30 to 60 minutes. Spoon about 1 tablespoon strawberry yogurt mixture into each pop mold; top with remaining juice. Freeze until hard, 1 to 1 ½ hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Citrus Ice Pops",
+        "datePublished": "2020-06-18T23:44:15-04:00",
+        "dateModified": "2025-07-22T19:12:46-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "MewTew"
+          }
+        ],
+        "description": "This citrus ice pop recipe blends creamy strawberry yogurt with a mix of orange, grapefruit, and lemon juice for a tangy, refreshing summertime treat.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8RdCyvwVDpIs_9Hy2XJzVJAgNpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/654622-5d193ad08d124c5d8010cde13b490d47.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Citrus Ice Pops",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "2"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "80 kcal",
+          "carbohydrateContent": "17 g",
+          "cholesterolContent": "2 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "26 mg",
+          "sugarContent": "14 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup orange juice",
+          "0.5 cup grapefruit juice",
+          "0.25 cup water",
+          "2 tablespoons lemon juice",
+          "2 tablespoons white sugar",
+          "1 (8 ounce) container vanilla yogurt",
+          "0.5 cup chopped strawberries"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place orange juice, grapefruit juice, water, lemon juice, and sugar in a saucepan over medium heat; bring to a boil. Cook, stirring occasionally, until sugar dissolves, about 5 minutes. Cool juice mixture, then freeze until very cold, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine yogurt with strawberries in a bowl; chill in the refrigerator, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spoon about 1 ½ tablespoons juice mixture into 6 pop molds; freeze until frozen, 30 to 60 minutes. Spoon about 1 tablespoon strawberry yogurt mixture into each pop mold; top with remaining juice. Freeze until hard, 1 to 1 ½ hours."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT130M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217008/citrus-ice-pops/",
+          "name": "Citrus Ice Pops",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/364/desserts/frozen-desserts/",
+                  "name": "Frozen Dessert Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16178/desserts/frozen-desserts/popsicles/",
+                  "name": "Popsicle Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

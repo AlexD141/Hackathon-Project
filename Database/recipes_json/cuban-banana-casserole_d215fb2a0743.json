@@ -1,0 +1,375 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/146082/cuban-banana-casserole/",
+  "extracted_at": "2026-10-18T02:00:58.771791+00:00",
+  "recipes": [
+    {
+      "name": "Cuban Banana Casserole",
+      "ingredients_raw": [
+        "6 bananas, sliced lengthwise",
+        "0.5 cup light brown sugar",
+        "0.5 cup unsalted butter, cut into small pieces",
+        "0.5 cup chopped pecans",
+        "0.5 cup raisins",
+        "1 tablespoon brandy"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly butter a 9x13 inch casserole dish."
+        },
+        {
+          "id": 2,
+          "text": "Cover the bottom of the prepared casserole dish with half of the banana slices. Sprinkle the bananas with half the brown sugar, butter pieces, pecans, and raisins. Form another layer with the remaining banana slices and repeat layering with remaining brown sugar, butter, pecans, and raisins."
+        },
+        {
+          "id": 3,
+          "text": "Bake in preheated oven for 30 minutes; remove from oven and cool for 5 minutes. Sprinkle brandy over top of dish to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Cuban Banana Casserole",
+        "datePublished": "2020-03-05T00:05:02-05:00",
+        "dateModified": "2020-03-05T00:05:02-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kristy Pierce Bishop"
+          }
+        ],
+        "description": "Add a taste of Cuba to your dessert repertoire with this delightfully simple but unique dish. All you need are some bananas, brown sugar, butter, raisins, and pecans and you&#39;ll be on your way to a wonderful &#39;postre Cubano!&#39;",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/J8202pcHmkOkZ5r7TaExc49PIWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5318173-6f96ec0fce1245dfa63b693a33807fd7.jpg",
+          "height": 844,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cuban Banana Casserole",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "24"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "312 kcal",
+          "carbohydrateContent": "42 g",
+          "cholesterolContent": "31 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "7 mg",
+          "sugarContent": "30 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Cuban"
+        ],
+        "recipeIngredient": [
+          "6 bananas, sliced lengthwise",
+          "0.5 cup light brown sugar",
+          "0.5 cup unsalted butter, cut into small pieces",
+          "0.5 cup chopped pecans",
+          "0.5 cup raisins",
+          "1 tablespoon brandy"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly butter a 9x13 inch casserole dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cover the bottom of the prepared casserole dish with half of the banana slices. Sprinkle the bananas with half the brown sugar, butter pieces, pecans, and raisins. Form another layer with the remaining banana slices and repeat layering with remaining brown sugar, butter, pecans, and raisins."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven for 30 minutes; remove from oven and cool for 5 minutes. Sprinkle brandy over top of dish to serve."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BOPBOP5"
+            },
+            "reviewBody": "i suggest using the plantine bananas. they are firmer and hold up better. just right. not mushy then."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cindymom"
+            },
+            "reviewBody": "Yes, SERVE WARM, over vanilla ice cream, as another viewer suggested. It does turn brown and ugly the longer it sets. This dish got complements from guests on our Cuban food night, and I would be happy to make it again. Its very easy to do and I put in the oven as we sat down to dinner so it would be warm at dessert time. Changes I made: I used Cuban rum (didn't have any brandy) and plumped the raisins as suggested by another site, in 2 T melted butter and the rum prior to putting together. I sprayed the pan with butter flavor spray, used splenda blend brown sugar, and reduced butter by 2 T. It made a single layer in a 9x13 baking dish, and only needed about 20+ min baking. I may possibly increase the pecans and reduce the raisins slightly next time if I remember. This is a great recipe for an easy dessert that everybody liked.",
+            "datePublished": "2018-02-25T23:54:18.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "4.15.18 We had a total Cuban meal today, and these bananas served over a scoop of vanilla ice cream were a stellar finish! I really didn’t measure anything, just sort of eyeballed it, used Truvia® Brown Sugar Blend and I Can’t Believe It’s Not Butter® Organic Spread in place of butter to lighten it, and baked for 30 minutes. Also, I drizzled the rum over the bananas before they went into the oven, giving the alcohol a chance to cook off and just leave you with that rich rum flavor. Thanks for sharing your nice recipe, we all enjoyed it.",
+            "datePublished": "2018-04-15T19:46:12.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darcy LMz"
+            },
+            "reviewBody": "I didn’t have brandy on on hand and I added 1 cup of previously frozen blueberries around the edges before baking. And, it turned out fantastic! It was a little runny at first but gelled up a tad while it rested through our picadillo dinner. I will definitely make this again.",
+            "datePublished": "2018-11-30T11:50:00.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marcia"
+            },
+            "reviewBody": "Very easy to make, used a dairy free butter substitute and it worked just fine. Made just a small amount to test the recipe.. This will be perfect on French toast for a special brunch I'm planning. I did add a touch of vanilla before baking.\n\nExcellent flavor, although quite sweet (but that will work for the french toast)",
+            "datePublished": "2011-08-01T11:10:29.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie"
+            },
+            "reviewBody": "It was delicious. The only change I made was that I used cooking bananas( which I got at Publix). The recipe is very easy and quick and tastes delicious",
+            "datePublished": "2016-12-28T15:57:03.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jo Gonzalez"
+            },
+            "reviewBody": "Very easy recipe to follow...\nWe're having a Cuban themed Potluck and this was perfect!",
+            "datePublished": "2014-12-29T11:16:14.863Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "plrand"
+            },
+            "reviewBody": "Tried making with with plantains. Cooked it for 30 minutes as suggested. I think u need to cook the plantains longer, they were not soft, not cooked through.",
+            "datePublished": "2014-05-11T16:29:07.517Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baking Fool"
+            },
+            "reviewBody": "Served this to guests and it was not liked by many. We ate it, but no one asked for seconds.",
+            "datePublished": "2013-03-15T19:41:19.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chuck"
+            },
+            "reviewBody": "Nothing Cuban about this dish! This is not a Cuban recipe; not traditional or inspired. No respectable Cuban would eat this mess.",
+            "datePublished": "2012-11-04T07:43:41.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela Webb Aderholt"
+            },
+            "reviewBody": "Made for a dinner with my Sunday School class, was a hit....",
+            "datePublished": "2011-07-19T16:48:51.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChrisandTracie Tucker"
+            },
+            "reviewBody": "I would give this a 3 but my hubby would give a 5 so compromised with 4. If you are looking for something that is appealing to look at and to eat I wouldn't recommend this. When serving this I recommend serving immediatly. The longer it sits the more unappealing it looks! As far as taste it was a little too sweet for my tastes, but as I said my husband couldn't get enough! (Had 3 servings!) I only had it over icecream and it was still really sweet, couldn't imagine eating it alone.",
+            "datePublished": "2011-05-10T17:42:31.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shartlage"
+            },
+            "reviewBody": "I brought this to a Cuban dinner my friends were having. My Cuban friend was unfamiliar with this desert, but everyone enjoyed it when served with vanilla ice cream",
+            "datePublished": "2011-01-27T11:53:52.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SetTheRays"
+            },
+            "reviewBody": "This turned out SO great! I didn't use a whole stick of butter like others suggested and no brandy, but everyone kept asking if I had put some kind of liqueur because of the way the bananas carmelized. My husband doesn't even like banana desserts and said I would have to make this again!",
+            "datePublished": "2010-05-15T18:27:18.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "witchywoman"
+            },
+            "reviewBody": "Oh, I wish I had some 'nilla ice cream when I made this! It's super easy and super good and if you don't make it and put it over vanilla ice cream, you're missing out on a big treat and I don't care for bananas!",
+            "datePublished": "2010-02-02T17:35:25.783Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/146082/cuban-banana-casserole/",
+          "name": "Cuban Banana Casserole",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/230/world-cuisine/latin-american/caribbean/",
+                  "name": "Caribbean"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

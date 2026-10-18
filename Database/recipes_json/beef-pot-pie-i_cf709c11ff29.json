@@ -1,0 +1,469 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14669/beef-pot-pie-i/",
+  "extracted_at": "2026-10-18T02:01:20.187637+00:00",
+  "recipes": [
+    {
+      "name": "Beef Pot Pie I",
+      "ingredients_raw": [
+        "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "4 tablespoons olive oil",
+        "1 cup chopped onion",
+        "1 teaspoon minced garlic",
+        "1 cup raw porcini mushrooms",
+        "1 cup chopped carrots",
+        "0.5 cup chopped celery",
+        "1 potato, diced",
+        "1 pound beef tenderloin, cubed",
+        "1 bay leaf",
+        "1 teaspoon dried oregano",
+        "1 cup dry Marsala wine",
+        "2 tablespoons chopped fresh parsley",
+        "1 egg white"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "In a large skillet, cook bay leaf, oregano, onions and mushrooms in olive oil until soft. Stir in garlic, carrots, celery, potatoes, and meat."
+        },
+        {
+          "id": 3,
+          "text": "Cook and stir for 10 minutes, or until meat starts to brown. Pour in wine. Bring to a boil, and reduce heat to simmer. Simmer for 35 to 45 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Place in pie dish, sprinkle with parsley, and cover with pastry. Brush with egg whites."
+        },
+        {
+          "id": 5,
+          "text": "Bake at 350 degrees F (175 degrees C) for 45 minutes to 1 hour."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Beef Pot Pie I",
+        "datePublished": "1999-10-14T21:10:32-04:00",
+        "dateModified": "2022-07-14T18:04:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Maryellen"
+          }
+        ],
+        "description": "This version of a traditional family favorite calls for beef tenderloin, and includes porcini mushrooms, carrots, celery, and potatoes. Packaged puff pastry makes the topping.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/eCVbS0m19N2gi95Cgbh6N965Bd4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/908342-b8c2d89aae914383b9ad282ee5fc4082.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Beef Pot Pie I",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "37"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "861 kcal",
+          "carbohydrateContent": "53 g",
+          "cholesterolContent": "54 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "16 g",
+          "sodiumContent": "280 mg",
+          "sugarContent": "7 g",
+          "fatContent": "58 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT60M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 (17.5 ounce) package frozen puff pastry, thawed",
+          "4 tablespoons olive oil",
+          "1 cup chopped onion",
+          "1 teaspoon minced garlic",
+          "1 cup raw porcini mushrooms",
+          "1 cup chopped carrots",
+          "0.5 cup chopped celery",
+          "1 potato, diced",
+          "1 pound beef tenderloin, cubed",
+          "1 bay leaf",
+          "1 teaspoon dried oregano",
+          "1 cup dry Marsala wine",
+          "2 tablespoons chopped fresh parsley",
+          "1 egg white"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large skillet, cook bay leaf, oregano, onions and mushrooms in olive oil until soft. Stir in garlic, carrots, celery, potatoes, and meat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook and stir for 10 minutes, or until meat starts to brown. Pour in wine. Bring to a boil, and reduce heat to simmer. Simmer for 35 to 45 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place in pie dish, sprinkle with parsley, and cover with pastry. Brush with egg whites."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake at 350 degrees F (175 degrees C) for 45 minutes to 1 hour."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 9-inch deep dish pie"
+        ],
+        "totalTime": "PT120M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "It is a little time consuming but it was worth it. I believe the previous person used phyllo dough instead of puff pastry. I used the puff pastry and I also added 1/2 cup beef broth. Then I added 2 tbls butter along with 1/4 cup cream. Gave it a richer flavor. Thanks"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gail"
+            },
+            "reviewBody": "I made this yesterday, and it was delicious! The only changes I made were to add an extra cup of beef stock and scooped out some of the liquid and mixed it with corn starch to thicken it. Love the puff pastry use and next time I think I'll make it a 2-crust pie to have more of it!",
+            "datePublished": "2017-02-16T18:56:57.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KAI"
+            },
+            "reviewBody": "I used this recipe as a model for the ingredients I had -- lamb instead of beef; baby bella mushrooms instead of porcini, and bouillon instead of the Madeira. I also relied on my slow cooker, which allows me to sautee in it before going to slow cooker mode. It seems, therefore, a bit unfair to try to rate the original recipe, but I can tell you my version of it received rave reviews from my family and I enjoyed it very much myself. One important point that I deliberately changed: I added Wondra flour -- about 3 T -- to the browned lamb and sauteed vegetables before adding the liquid. It thickened beautifully while it slow cooked.",
+            "datePublished": "2015-11-17T19:35:11.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LATHAMDM"
+            },
+            "reviewBody": "I was looking for a recipe to use up some left over roast, and found this one. I only made minor modifications. I added an extra 1/2 Cup of beef broth with corn starch added in to make more gravy. I also used a double pie crust rather than the puff pastry....just personal preference. I only simmered the vegetables for 20 minutes...they were done by then, and then I added my left over roast which didn't need to be cooked. I started it out on 375 degrees and cooked it for 20 minutes, and then cut the heat down to 350 for about 20 minutes (didn't really keep track). It made a BEAUTIFUL pie (should have taken a picture!!). My husband ate seconds, and said he really enjoyed it. I thought the wine gave it a good flavor. Will definitely use this recipe again. Thanks!!!",
+            "datePublished": "2011-02-19T16:08:38.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cookiebookie"
+            },
+            "reviewBody": "I made this for dinner tonight, and it's all gone. I put in mushrooms, carrots, celery, dandelion greens, asparagus, and double onions and garlic. Hopefully next time I'll have some potatoes on hand. I used beef round steak since I wasn't willing to go with anything more expensive for a potpie. I had to substitute burgundy as I was out of merlot. I also added salt and pepper to taste and approx 1 tsp basil and made my own crust. All in all, it was very tasty! The meat was cooked at such a low temp for so long that it was excellent- flavorful and tender. I did thicken the sauce with corn starch, I wish I hadn't as I didn't have much gravy inside the pie. Hubby said he'd rate it lower as written, but it's a perfect starting point.",
+            "datePublished": "2010-06-08T18:32:36.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April Anne"
+            },
+            "reviewBody": "Absolutely fabulous! Best pot pie I've ever made. I didn't have any red potatoes on hand, so I substituted a small sweet potato and substitued red cooking wine for the Marsala wine, as I did not have that on hand. Also sub'd canned mushrooms for fresh and made a Bisquick topping, again, not having fresh mushrooms or puff pastry on hand. Based on other reviews, I added 2 tbsp of butter, 1/2 c water with a beef bouillon cube and added cornstarch at the end to thicken the liquid. We didn't have any leftovers last night! My husband went back for 3rds!!! A DEFINATE KEEPER!!!!!",
+            "datePublished": "2009-11-02T13:08:32.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pamcooks"
+            },
+            "reviewBody": "I added 3 Tb. corn starch to thicken the sauce and also used leftovers in place of the veggies and tenderloin. With the thickening agent and already cooked leftovers, it doesn't need to simmer more than 10-15 minutes. It was GREAT! My husband, who doesn't like casseroles of any type, really enjoyed this!",
+            "datePublished": "2010-02-23T11:48:25.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "faithirene"
+            },
+            "reviewBody": "This was a huge hit with me and my husband! I followed a few others advice and added beef broth and corn starch. I omitted celery for personal preference. I used left over beef roast which I was worried would come out over cooked but it was perfect! The puff pastry was a great addition, I had never had a pot pie with this and I will be making it again! Thanks for a great recipe!",
+            "datePublished": "2012-10-22T19:19:06.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Delicious! The only thing I changed was adding 8oz of beef broth instead of wine.",
+            "datePublished": "2016-04-02T05:19:48.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shipgirl"
+            },
+            "reviewBody": "This is really very good - with a flavor that's suprisingly complex for a pot pie. I was looking for a way to use up some leftover steak and this definitely fit the bill. I took the advice of the previous reviewers and added about half a can of beef broth with the wine, then thickened the liquid with cornstarch right before baking. Will definitely make this one again!",
+            "datePublished": "2005-09-20T05:37:47.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "krolik232"
+            },
+            "reviewBody": "Great recipe! I did not have porcini mushrooms, so used portabella. Also did 2 potatoes, as one seemed too little. Oh, and the recipe does not call for salt or pepper, but I seasoned while in the pan while sauteeing, because it definitely needed some s&amp;p!!! Overall - loved it, will make again!",
+            "datePublished": "2011-03-17T07:38:51.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacye"
+            },
+            "reviewBody": "I used rosemary and thyme and deleted the bay leaf. Baked in cast iron pie plate makes it better.",
+            "datePublished": "2022-02-02T01:23:13.382Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carrissa Mowers"
+            },
+            "reviewBody": "too dry...",
+            "datePublished": "2020-05-15T15:22:27.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emily Schreiber Moe"
+            },
+            "reviewBody": "This was really good. I did add a few cubes of beef flavor and will likely use beef stock next time. The kids were not crazy about the hint of wine, but I liked it a lot.",
+            "datePublished": "2015-01-01T13:09:42.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BGDOLER"
+            },
+            "reviewBody": "This is so delicious! Even my husband ate leftovers, two days in a row! That is unprecidented! There is just the two of us so it took a couple of days to eat it but is was great as leftovers. Unfortunately I had to use regular homemade pie crust(which worked great) instead of the puff pastry. I'm definitely going to try this again but with the puff pastry. I'm sure it will be \"over the top\"!\nBg",
+            "datePublished": "2013-04-13T08:50:56.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lars Sahlen"
+            },
+            "reviewBody": "Verygood. I added wine and beef broth and let the meat brown in a pan on its own. Other then that I followed the recipe as stated. Everybody loved it.",
+            "datePublished": "2011-10-08T07:59:04.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen Woller"
+            },
+            "reviewBody": "My friend make this a few days ago and I liked it so much making it this weekend for hgubbie. I also will add broth, butter and cornstarch and using pie crusts. Good meal for a cold fall day...",
+            "datePublished": "2010-11-19T06:31:51.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rua"
+            },
+            "reviewBody": "this was nice, but i've had better. i found i had to season it well before i put it in the oven, and even the end result was missing 'something'. we enjoyed it, but i won't be in a rush to make it again.",
+            "datePublished": "2010-04-11T15:02:39.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BLANGE"
+            },
+            "reviewBody": "Turned out wonderful..I used cresent rolls from dairy section for top...easy and as we were having dinner..my husband kept saying how good it was..thanks for the recipe!!",
+            "datePublished": "2010-01-22T21:24:49.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHANNON"
+            },
+            "reviewBody": "I thought it was great though I did change a few things. I added beef broth and a can of cream of mushroom soup. I also thickened it with a little corn starch. I love the flavor the wine added though I used just plain old cooking wine because I had it on hand. I also added green beans. I will make this again.",
+            "datePublished": "2010-01-05T12:01:50.450Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14669/beef-pot-pie-i/",
+          "name": "Beef Pot Pie I",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/252/main-dish/savory-pies/",
+                  "name": "Savory Pie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2268/main-dish/savory-pies/pot-pie/",
+                  "name": "Pot Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

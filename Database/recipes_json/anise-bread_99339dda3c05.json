@@ -1,0 +1,280 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/168168/anise-bread/",
+  "extracted_at": "2026-10-18T02:23:12.140221+00:00",
+  "recipes": [
+    {
+      "name": "Anise Bread",
+      "ingredients_raw": [
+        "4 cups rye flour",
+        "2 teaspoons baking soda",
+        "0.5 teaspoon salt",
+        "1.25 cups buttermilk",
+        "1.25 cups packed brown sugar",
+        "1 cup white sugar",
+        "0.5 cup light corn syrup",
+        "0.5 cup molasses",
+        "2 eggs",
+        "1 tablespoon anise seed",
+        "1 tablespoon melted butter"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an oven to 350 degrees F (175 degrees C). Grease 3 small loaf pans."
+        },
+        {
+          "id": 2,
+          "text": "Combine rye flour, baking soda, salt, buttermilk, brown sugar, white sugar, corn syrup, molasses, eggs, anise seed, and melted butter in a large bowl, and mix well."
+        },
+        {
+          "id": 3,
+          "text": "Scrape the batter into the prepared loaf pans, and bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes. Remove pans from the oven, and cool on their sides for about 15 minutes before loosening the sides of the loaves from the pans. Remove the loaves, and finish cooling on a wire rack."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Anise Bread",
+        "datePublished": "2020-06-18T23:36:16-04:00",
+        "dateModified": "2020-06-18T23:36:16-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sonoran Sweetheart"
+          }
+        ],
+        "description": "An easy, old-fashioned sweet rye bread gets a punch of anise flavor.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Vx9w4DoRGmLAYGp5SNTuGiVxr08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1090707-e9c48feb6f1646e5b170ad16620733ae.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Anise Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "9"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "258 kcal",
+          "carbohydrateContent": "59 g",
+          "cholesterolContent": "23 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "248 mg",
+          "sugarContent": "35 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeIngredient": [
+          "4 cups rye flour",
+          "2 teaspoons baking soda",
+          "0.5 teaspoon salt",
+          "1.25 cups buttermilk",
+          "1.25 cups packed brown sugar",
+          "1 cup white sugar",
+          "0.5 cup light corn syrup",
+          "0.5 cup molasses",
+          "2 eggs",
+          "1 tablespoon anise seed",
+          "1 tablespoon melted butter"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 350 degrees F (175 degrees C). Grease 3 small loaf pans."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine rye flour, baking soda, salt, buttermilk, brown sugar, white sugar, corn syrup, molasses, eggs, anise seed, and melted butter in a large bowl, and mix well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Scrape the batter into the prepared loaf pans, and bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes. Remove pans from the oven, and cool on their sides for about 15 minutes before loosening the sides of the loaves from the pans. Remove the loaves, and finish cooling on a wire rack."
+          }
+        ],
+        "recipeYield": [
+          "18",
+          "3 small loaves"
+        ],
+        "totalTime": "PT120M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeanie Mueller"
+            },
+            "reviewBody": "Wonderful fullbodied taste, if you like rye bread, anise flavor &amp; molasses you will love this bread, will for sure make again. Recipe made 4 mini Pampered Chef loaves and 1 reg. bread pan size loaf. Baked 35 min.....checked and they were done. Just be sure to do toothpick test."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "debra"
+            },
+            "reviewBody": "Our family really enjoys this recipe— even my three year old grandson!",
+            "datePublished": "2022-01-25T01:24:15.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jane Braun"
+            },
+            "reviewBody": "Looks good; spent the day baking for a church bazaar and wanted one last item with a different flavor profile. Was starting to run out of one ingredients. So used all purpose flour for the rye, honey and maple syrup for the corn syrup. Also halved the recipe as another reviewer suggested. Plan to make again.",
+            "datePublished": "2019-05-18T21:04:52.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MUTTSY"
+            },
+            "reviewBody": "We have a bakery in our town that makes a bread like this that they sell only at Christmas and Easter. Everyone we know loves it and buys it at that time. This recipe is spot on. So glad I came upon this recipe. We love it warm with butter or even toasted.",
+            "datePublished": "2019-01-05T19:04:38.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jess Nemcov"
+            },
+            "reviewBody": "This bread is fantastic! I did use a few substitutions simply because I didn't have the ingredients on hand--I used all-purpose flour and maple syrup rather than rye flour and molasses--but really, I went with this recipe for the anise flavor. It was still delicious! Next time, though, I'll make a trip to the store. Thanks for a great recipe!",
+            "datePublished": "2014-01-19T16:37:01.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidi Yalowitz Lasser"
+            },
+            "reviewBody": "I replaced the buttermilk with low fat yogurt, the corn syrup with honey, replaced anise with orange peel. It was a hit at a gathering I went to. I served it with whipped butter. It is a little sticky but that's fine. and it sunk in the middle so the aesthetics aren't perfect",
+            "datePublished": "2012-09-09T04:15:24.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sueb"
+            },
+            "reviewBody": "This is like gingerbread, a dessert, rather than a quick bread. I replaced the corn syrup with honey. I cut the recipe in half, and spread it in a pie pan instead of baking in a loaf pan. It baked for 40 minutes. Oh! I will be making more of this real soon! Thanks for the recipe!",
+            "datePublished": "2009-01-16T10:25:56.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SEWVERYTALL"
+            },
+            "reviewBody": "It would sure help to know the size of these \"three small loaf pans\". I have regular size and individual size [mini] loaf pans, but I don't know what small really means.",
+            "datePublished": "2009-01-16T06:41:07.537Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/168168/anise-bread/",
+          "name": "Anise Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1304/breakfast-and-brunch/breakfast-bread/",
+                  "name": "Breakfast Bread Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

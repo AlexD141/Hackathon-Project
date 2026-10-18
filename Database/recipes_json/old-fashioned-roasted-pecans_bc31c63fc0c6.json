@@ -1,0 +1,477 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/146707/old-fashioned-roasted-pecans/",
+  "extracted_at": "2026-10-18T02:01:20.904071+00:00",
+  "recipes": [
+    {
+      "name": "Roasted Pecans",
+      "ingredients_raw": [
+        "1 large egg white",
+        "1 tablespoon water",
+        "2.25 cups pecan halves",
+        "0.5 cup white sugar",
+        "1.5 teaspoons ground cinnamon",
+        "0.25 teaspoon salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 225 degrees F (110 degrees C). Lightly grease a rimmed baking sheet."
+        },
+        {
+          "id": 2,
+          "text": "Whisk egg white and water in a bowl until frothy. Fold in pecans to coat evenly."
+        },
+        {
+          "id": 3,
+          "text": "Combine sugar, cinnamon, and salt in a shaker or cup with a lid. Dust pecans evenly with sugar mixture, then spread onto the prepared pan."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven, stirring every 15 minutes, until toasted and fragrant, about 1 hour. Cool pecans on the pan, then store in an airtight container."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Roasted Pecans",
+        "datePublished": "2020-06-18T23:32:06-04:00",
+        "dateModified": "2025-11-24T14:38:15-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Patricia K"
+          }
+        ],
+        "description": "These roasted pecans are a toasted old-fashioned nutty treat with a sweet and fragrant cinnamon-sugar coating—perfect for snacking or gifting.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/sM453j9Z0wj-Vo3eGUvc_klUzOA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/146707-old-fashion-roasted-pecans-ddmfs-3X4-0287-1-6b1a67a5ddc04f5098819f2f9ea8411c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Roasted Pecans",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "ratingCount": "147"
+        },
+        "cookTime": "PT60M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "283 kcal",
+          "carbohydrateContent": "18 g",
+          "fiberContent": "3 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "80 mg",
+          "sugarContent": "14 g",
+          "fatContent": "24 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "Southern"
+        ],
+        "recipeIngredient": [
+          "1 large egg white",
+          "1 tablespoon water",
+          "2.25 cups pecan halves",
+          "0.5 cup white sugar",
+          "1.5 teaspoons ground cinnamon",
+          "0.25 teaspoon salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gzw2S4AUmi4tkPVebpNOVxeXkT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/146707-old-fashion-roasted-pecans-ddmfs-Step1-0231-099510c1c830491db289998f9459d400.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 225 degrees F (110 degrees C). Lightly grease a rimmed baking sheet."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PgaXTfF9xpnhrDqB9a_kgsrIxtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/146707-old-fashion-roasted-pecans-ddmfs-Step3-0237-399518243898467fada7db65f1994762.jpg"
+              }
+            ],
+            "text": "Whisk egg white and water in a bowl until frothy. Fold in pecans to coat evenly."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/QLV1ouVBhQ7qQuEWI0SvvZOeGK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/146707-old-fashion-roasted-pecans-ddmfs-Step6-0246-d2299f785fff462caee2b17edc60ee19.jpg"
+              }
+            ],
+            "text": "Combine sugar, cinnamon, and salt in a shaker or cup with a lid. Dust pecans evenly with sugar mixture, then spread onto the prepared pan."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sM453j9Z0wj-Vo3eGUvc_klUzOA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/146707-old-fashion-roasted-pecans-ddmfs-3X4-0287-1-6b1a67a5ddc04f5098819f2f9ea8411c.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven, stirring every 15 minutes, until toasted and fragrant, about 1 hour. Cool pecans on the pan, then store in an airtight container."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CariSue"
+            },
+            "reviewBody": "Thank you, thank you, thank you for this recipe! I made a couple of changes after reading the reviews; vanilla instead of water, 2 egg whites and 1/2 white sugar and 1/2 brown sugar. My father loves pecans and I served this at his 60th birthday party. So many people asked me for this recipe I lost count after a while. Absolutely delicious and addiciting!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "anglwngs99"
+            },
+            "reviewBody": "These are absolutely delicious. I've made them by the recipe and they are great. Having made them a few times I've made a few adjustments to suit my tastes. I use 1/2 white sugar and 1/2 brown sugar. After mixing the pecans with the sugar mixture in a plastic bag and spreading them out on my sheet pan, I sprinkle them with a little additional coarse salt. Can't beat the salty sweet combination!!!",
+            "datePublished": "2012-07-23T12:11:26.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori"
+            },
+            "reviewBody": "These were soooo good. After reading the other reviews I used 2 egg whites, vanilla instead of water, brown sugar instead of white and added a pinch of cayenne. I also used a mix of pecans, almonds and cashews. I did use more nuts than called for and upped coating amts some to accommodate that and as such did follow one reviewers advice and baked them a little longer, 1 hr 20min as at 1 hour the coating just seemed to need a little more time yet. My husband went crazy over them.",
+            "datePublished": "2012-12-17T17:07:52.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KendraDarigan"
+            },
+            "reviewBody": "This was a HUGE hit! I took some liberties and added bacon though. I cooked thick cut bacon on the stove, chopped it up and tossed it with the pecans once they were done. I used an equal amount of bacon and pecans, but I'm sure it is easily adjusted. This will be served at all of my future parties!",
+            "datePublished": "2012-05-06T08:58:33.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Strawberry Banana"
+            },
+            "reviewBody": "This recipe is absolutely delicious. My dad loves these. My family isn't too big of a fan on cinnamon, so using only 1 teaspoon of cinnamon works too. Also, if you like honey toasted pecans, then use this recipe, but substitute the egg and water for 1/3 cup of honey. They are delicious.",
+            "datePublished": "2018-01-19T23:20:28.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie"
+            },
+            "reviewBody": "I used this recipe to make pecans for a fruit salad (lettuce, craisins, apples, grapes, pecans, and a raspberry dressing) with the following changes: replaced the water with vanilla extract, omitted the cinnamon, and halved the sugar. They worked great with my salad without being too sweet!",
+            "datePublished": "2010-06-28T16:16:18.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee Schultz"
+            },
+            "reviewBody": "I have now made it 4 times to perfect it in my opinion and these are my recommendations from the original recipe:\nDefinitely replace the water with Vanilla\nDefinitely use 1/2 sugar and 1/2 brown sugar \nDo Not over heat the oven. If you want crispier nuts, use a 250 degree oven, for less crispy use 225.\nStir for sure every 15 minutes.\nEverything else was fine and these are addictive! Enjoy!",
+            "datePublished": "2018-12-05T02:01:03.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crash"
+            },
+            "reviewBody": "Instead of sugar, I like to use two tablespoons of natural honey. I also added 2 tbsp of melted butter in with the egg white after beating. I barely sprinked it with sea salt and Saigon cinnamon before cooking.",
+            "datePublished": "2016-07-10T21:12:01.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kate Teasenfitz"
+            },
+            "reviewBody": "I changed water to vanilla extract, just a bit bland for me with water.",
+            "datePublished": "2023-12-14T17:17:37.634Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ashley"
+            },
+            "reviewBody": "These are so good! I followed the many other reviews and substituted the water for vanilla extract. I also did 1/4 c brown sugar and 1/4 c white sugar instead of 1/2 c white sugar. They turned out exactly how I imagined. They remind me of the ones I would buy at a carnival.",
+            "datePublished": "2017-11-26T18:32:44.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne Hoschette"
+            },
+            "reviewBody": "I made this recipe 9 times one Christmas. The reviews are spot on. I too made the changes many other reviewers made. I used 1/4 C. Dark brown sugar &amp; 1/4 C. Sugar in the Raw.( my grown daughters tweek) I too use vanilla insteàd of water. I also use 1 1/4 C. Walnuts &amp; 1 1/4 C. Pecans. All pecans are GREAT in this recipe. However I use half walnuts B/C they are far less expensive AND healthier .. I also do a diabetic version, as another reviewer did I(we) use splenda and splenda brown sugar. Actually that version is my favorite.\nWonderful as a gift.,on salads and healthy snacking...one after another and another....WOW.",
+            "datePublished": "2015-12-17T18:18:07.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mark Lennox"
+            },
+            "reviewBody": "Absolutely wonderful",
+            "datePublished": "2025-12-12T20:42:50.478Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RosyRum4728"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-05-12T08:53:56.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "YellowGrill7182"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-09T01:19:33.069Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaringGlass1053"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-12T02:15:16.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Teresa Baxter"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-02-27T16:08:22.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LadyLeo68"
+            },
+            "reviewBody": "Was very easy to do. My family really loved them, we're going to make this a new addition to our holiday party snacks.",
+            "datePublished": "2023-12-12T07:58:50.541Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Penny"
+            },
+            "reviewBody": "I love the recipes for ALL Old-Fashioned Recipes thank ypu. This is a YUMMY FOR SURE!",
+            "datePublished": "2023-02-01T22:54:54.517Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubyScoop9402"
+            },
+            "reviewBody": "I have used this recipe for at least 10 years. I have a holiday list of people waiting for these roasted pecans when I make them. I do split the sugar, 1/4 cup white &amp; 1/4 cup brown and add a little more Kosher salt. Great recipe, not easy, not hard.",
+            "datePublished": "2022-12-11T16:46:35.312Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "patsky02140"
+            },
+            "reviewBody": "Delicious and a favorite of my families. Sometimes I will add a little cardamom also.",
+            "datePublished": "2022-11-23T18:04:16.238Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/146707/old-fashioned-roasted-pecans/",
+          "name": "Roasted Pecans",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17567/ingredients/",
+                  "name": "Ingredients"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17568/ingredients/nuts-and-seeds/",
+                  "name": "Nuts and Seed Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17573/ingredients/nuts-and-seeds/pecans/",
+                  "name": "Pecan Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

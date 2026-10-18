@@ -1,0 +1,501 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17205/eggs-benedict/",
+  "extracted_at": "2026-10-18T02:25:11.359500+00:00",
+  "recipes": [
+    {
+      "name": "Eggs Benedict",
+      "ingredients_raw": [
+        "4 egg yolks",
+        "3.5 tablespoons lemon juice",
+        "1 tablespoon water",
+        "0.125 teaspoon Worcestershire sauce",
+        "1 pinch ground white pepper",
+        "1 cup butter, melted",
+        "1 teaspoon hot water, or more as needed",
+        "1/4 teaspoon salt",
+        "1 teaspoon distilled white vinegar",
+        "8 eggs",
+        "8 strips Canadian-style bacon",
+        "4 English muffins, split",
+        "2 tablespoons butter, softened"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "To make the Hollandaise: Whisk egg yolks, lemon juice, 1 tablespoon of water, Worcestershire sauce, and white pepper in the top of a double boiler over simmering water. Add melted butter, 1 or 2 tablespoons at a time, while whisking yolks constantly. If Hollandaise begins to get too thick, add a teaspoon or two of hot water. Continue whisking until all of the butter is incorporated. Whisk in salt, then remove from heat. Place a lid on the pan to keep sauce warm."
+        },
+        {
+          "id": 2,
+          "text": "To poach the eggs: Fill a large saucepan with 2 to 3 inches of water and bring to a boil. Reduce heat to medium-low, pour in vinegar, and keep water at a gentle simmer. Crack an egg into a small bowl then gently slip egg into simmering water, holding the bowl just above the surface of water. Repeat with the remaining eggs. Cook eggs until whites are firm and yolks have thickened but are not hard, 2 ½ to 3 minutes. Remove eggs from water with a slotted spoon, dab on a kitchen towel to remove excess water, and place onto a warm plate."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler. Brown bacon in a medium skillet over medium-high heat."
+        },
+        {
+          "id": 4,
+          "text": "Toast English muffins on a baking sheet under the preheated broiler."
+        },
+        {
+          "id": 5,
+          "text": "To serve eggs Benedict: Spread toasted muffins with softened butter and top each one with a slice of bacon, followed by one poached egg. Place 2 muffins on each plate and drizzle with Hollandaise sauce. Sprinkle with chopped chives and serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Eggs Benedict",
+        "datePublished": "2000-04-07T15:01:51-04:00",
+        "dateModified": "2026-02-06T07:41:31-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "jenn"
+          }
+        ],
+        "description": "Make eggs Benedict for a classic brunch dish featuring perfectly poached eggs on English muffins with Canadian bacon and rich homemade Hollandaise sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QVMaPhXnj1HQ70C7Ka9WYtuipHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17205-eggs-benedict-DDMFS-4x3-a0042d5ae1da485fac3f468654187db0.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/3KpFfmqV-ma1DlVvV.mp4",
+          "description": "AR0471",
+          "duration": "PT6M25S",
+          "name": "Eggs Benedict",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/3KpFfmqV/poster.jpg?width=1280",
+          "uploadDate": "2021-06-24T19:00:05-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Eggs Benedict",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "473"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "879 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "742 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "39 g",
+          "sodiumContent": "1719 mg",
+          "sugarContent": "1 g",
+          "fatContent": "71 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 egg yolks",
+          "3.5 tablespoons lemon juice",
+          "1 tablespoon water",
+          "0.125 teaspoon Worcestershire sauce",
+          "1 pinch ground white pepper",
+          "1 cup butter, melted",
+          "1 teaspoon hot water, or more as needed",
+          "1/4 teaspoon salt",
+          "1 teaspoon distilled white vinegar",
+          "8 eggs",
+          "8 strips Canadian-style bacon",
+          "4 English muffins, split",
+          "2 tablespoons butter, softened"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6BSG2R6X4HBokWa1fIJLOIpBbHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17205-eggs-benedict-step-2-BP-2755-dbfbde804588420389862dc1abe851b6.jpg"
+              }
+            ],
+            "text": "To make the Hollandaise: Whisk egg yolks, lemon juice, 1 tablespoon of water, Worcestershire sauce, and white pepper in the top of a double boiler over simmering water. Add melted butter, 1 or 2 tablespoons at a time, while whisking yolks constantly. If Hollandaise begins to get too thick, add a teaspoon or two of hot water. Continue whisking until all of the butter is incorporated. Whisk in salt, then remove from heat. Place a lid on the pan to keep sauce warm."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6GQjeDcsOmRGyCEBBy81rgywBQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17205-eggs-benedict-step-3-BP-2780-5649b6a4762a4dc8b1b77b7dee01acb3.jpg"
+              }
+            ],
+            "text": "To poach the eggs: Fill a large saucepan with 2 to 3 inches of water and bring to a boil. Reduce heat to medium-low, pour in vinegar, and keep water at a gentle simmer. Crack an egg into a small bowl then gently slip egg into simmering water, holding the bowl just above the surface of water. Repeat with the remaining eggs. Cook eggs until whites are firm and yolks have thickened but are not hard, 2 ½ to 3 minutes. Remove eggs from water with a slotted spoon, dab on a kitchen towel to remove excess water, and place onto a warm plate."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ROdqcpuxUR-dnNe5sm-YF2wzVLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17205-eggs-benedict-step-4-BP-2787-79c361b06a184e0dacaa750142321c49.jpg"
+              }
+            ],
+            "text": "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler. Brown bacon in a medium skillet over medium-high heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Toast English muffins on a baking sheet under the preheated broiler."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/QVMaPhXnj1HQ70C7Ka9WYtuipHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17205-eggs-benedict-DDMFS-4x3-a0042d5ae1da485fac3f468654187db0.jpg"
+              }
+            ],
+            "text": "To serve eggs Benedict: Spread toasted muffins with softened butter and top each one with a slice of bacon, followed by one poached egg. Place 2 muffins on each plate and drizzle with Hollandaise sauce. Sprinkle with chopped chives and serve immediately."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I wanted to share a time saving hint that I saw on a cooking show. You can poach your eggs in advance then remove them from the boiling water and place them in a large bowl of ice water, make sure you have plenty of ice in your bowl of water. You can let the eggs stay in the water while you prepare your other ingredients. \r\n\r\nWhen you are ready to assemble your eggs benedict simply remove the egg from the ice water and put it back into your boiling water for just a few seconds until it gets warm enough to serve. You will be able to have a number of eggs ready on a moments notice using this method."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I use a much easier recipe for hollandaisse at our restaurant. We add the egg yolks, pepper (cayenne) and lemon juice in the blender. Heat the butter in the microwave until bubbly, then add slowly to the yolk mix. Very easy. you can also use wine to stabilize your egg whites.",
+            "datePublished": "2003-01-25T17:48:05.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andrea McEvoy"
+            },
+            "reviewBody": "Perfect recipe. Although I've made Eggs Benedict before, I'd never used a recipe for the Hollandaise sauce- I just used an old method my mom used. This had just the perfect amount of lemon (we like it very lemony). Poaching the eggs was a little tricky- I just broke each one into a small bowl before sliding it into the water... was a little easier that way. Thank you!",
+            "datePublished": "2001-11-11T13:48:49.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trystian Hilton"
+            },
+            "reviewBody": "Good recipe. I always use about 1 tbsp lemon juice to start and then season with more at the end if it needs it. Instead of Worcestershire, I like it better with a few drops of sriracha/hot sauce. And I make my own double boiler by using a steel mixing bowl set on top of a pan of water. The rounded bottom on the bowl is much better for whisking touchy sauces like this (no corners where the sauce can hide from your whisk).",
+            "datePublished": "2011-06-04T03:47:37.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Life Tastes Good"
+            },
+            "reviewBody": "This wasn't to our liking. Too much lemon. I added some sugar to counteract the lemon - it definitely helped, but I would recommend you significantly reduce the lemon in this recipe. You can always add more if needed. I would start with 1 tablespoon. You don't need to do this in a double broiler either - just do it on low and stir constantly.",
+            "datePublished": "2012-05-05T08:51:21.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "geekmom"
+            },
+            "reviewBody": "Agreed with others that cutting back the lemon juice quite drastically is necessary for the sauce to turn out well. I also had trouble with the sauce separating when I left it to sit while I poached the eggs and toasted the English muffins. The sauce can be rescued by whisking another egg yolk into it but you have to serve immediately or it will separate again! I've since read online that putting your saucepan or double boiler bowl into cold water or putting an ice cube into the sauce can also rescue the emulsification so I might try that next time. The key to getting this recipe right is to have everything prepped and ready ahead of time so that you can pull it all together at the last minute.",
+            "datePublished": "2009-07-16T09:04:16.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nicole Besancon"
+            },
+            "reviewBody": "Really tasty, I love poached eggs &amp; have never attempted to make benedict before. I followed the advice of previous reviewers &amp; cut way back on the lemon juice (used 1/2 tsp for a single serving). Here's the trick, measure out all the ingredients for the sauce &amp; set them aside, start the water for the double boiler to warm it up. Cook the muffin, canadian bacon &amp; poached eggs first. Have them ready to serve, then start the sauce at the very end - it only takes a minute or two if you have everything ready. Serve immediately!",
+            "datePublished": "2009-11-07T06:51:26.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mistie"
+            },
+            "reviewBody": "I really think that the 3 1/2 Tablespoons of lemon juice is a typo. That is way too much. But I read the reviews first and I only added 1 1/2 teaspoons to mine and it was perfect for me. Other than that this is amazing. I made it for breakfast on Saturday and the fixed it two more times that weekend! It is very easy to make. I just used a pot and a bowl for my double broiler and it worked perfect. No need to buy one.",
+            "datePublished": "2009-02-23T09:53:25.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat Dollar"
+            },
+            "reviewBody": "I drastically reduced the lemon to 1 tablespoon, also the hint about egg prep is wonderful: \"You can poach your eggs in advance then remove them from the boiling water and place them in a large bowl of ice water, make sure you have plenty of ice in your bowl of water. You can let the eggs stay in the water while you prepare your other ingredients. When you are ready to assemble your eggs benedict simply remove the egg from the ice water and put it back into your boiling water for just a few seconds until it gets warm enough to serve.\" from Anonymous",
+            "datePublished": "2023-05-13T22:56:05.351Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LLamor"
+            },
+            "reviewBody": "Good easy to follow recipe. This sause was much too lemoney for me. This was the first time we ever tried to prepare this dish. It is a favorite of my wifes. The first time I try something, I always follow the recipe and ingreadients list. When I make this next, I plan to use much less lemon juice and over double the Worchestershire sauce.",
+            "datePublished": "2011-03-05T07:45:14.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PoliteMiso9586"
+            },
+            "reviewBody": "I love hollandaise sauce and eggs Benedict of any kind. I would opt, though , for the faster hollandaise using a stick blender as it is tasty and much much faster with little chance of ‘breaking’ .",
+            "datePublished": "2025-07-17T13:26:31.636Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GiftedPasta9712"
+            },
+            "reviewBody": "cut back on lemon toasted muffins in toaster oven",
+            "datePublished": "2026-09-09T00:48:14.652Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John"
+            },
+            "reviewBody": "My first time making Eggs Benedict. Brought back memories of my favorite Aunt Vee making these for me. The flavor was good but I need practice on thickening my Hollandaise sauce. Outside of that, it made a tasty filling easy supper. I will make this again.",
+            "datePublished": "2026-07-11T03:22:42.475Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy B"
+            },
+            "reviewBody": "Loved it, made this this morning as hubby always makes Eggs Benedict on Sunday morning but today I made them for the first time. I pretty much went by the recipe but I used only one tablespoon of lemon juice and 1/3 cup butter, it thickened quickly and I served it with ham, poached eggs, and and my homemade biscuits instead of English muffins. Will make again.",
+            "datePublished": "2026-06-28T17:53:46.762Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "daintyviking"
+            },
+            "reviewBody": "I wish I had read the reviews before making this. The hollandaise sauce was inedible. Way too much lemon juice. I would cut the lemon juice by at least half, if not more.",
+            "datePublished": "2026-06-05T01:48:59.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuirkyScale4891"
+            },
+            "reviewBody": "I used to go order eggs benedict at the restaurant before and it was tasty! but when I have time I am making my own! for the Hollandaise sauce i love how everything is put together in a bowl in the bottom of a bowl of simmering water, it takes several minute and it turns out amazing I substitute brioche bread for an English muffin and a regular bacon for forest ham, it a certainly five star of this homemade recipe!",
+            "datePublished": "2025-12-31T17:33:22.176Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kevin"
+            },
+            "reviewBody": "Much simpler and easier to make than you would think. Just time consuming and high effort to make.",
+            "datePublished": "2025-09-22T19:13:24.806Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MELISSA"
+            },
+            "reviewBody": "This was the first time making hollandaise sauce and poaching an egg. These directions were great and the end result was amazing. Hubby said it was top 5 all time Benedict he’s eaten.",
+            "datePublished": "2025-07-06T16:51:32.919Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EagerRye3344"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-28T17:19:28.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I went to make the recipe as intended this past weekend then realised I didn’t have enough eggs to make the hollandaise sauce! I ended up making the recipe but used a store bought hollandaise I had, which I know wouldn’t have been the same. The result was tasty, but I will have another go at this once I have more eggs so I can test the sauce too.",
+            "datePublished": "2025-01-15T00:27:25.134Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17205/eggs-benedict/",
+          "name": "Eggs Benedict",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+                  "name": "Eggs"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

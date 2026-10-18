@@ -1,0 +1,473 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/143890/mashed-maple-sweet-potatoes/",
+  "extracted_at": "2026-10-18T01:59:45.912846+00:00",
+  "recipes": [
+    {
+      "name": "Mashed Maple Sweet Potatoes",
+      "ingredients_raw": [
+        "4 large sweet potatoes",
+        "0.5 cup softened butter",
+        "1 cup heavy cream",
+        "2 tablespoons vanilla extract",
+        "0.5 cup packed light brown sugar",
+        "1 teaspoon salt",
+        "1 cup chopped pecans",
+        "0.5 cup maple syrup",
+        "2 eggs, beaten",
+        "2 tablespoons maple syrup"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with aluminum foil."
+        },
+        {
+          "id": 2,
+          "text": "Place sweet potatoes onto the prepared baking sheet."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until soft, 45 minutes to 1 hour. Remove from the oven and cool slightly before peeling and placing into a large bowl."
+        },
+        {
+          "id": 4,
+          "text": "Reduce the oven temperature to 350 degrees F (175 degrees C). Butter a 2-quart casserole dish."
+        },
+        {
+          "id": 5,
+          "text": "Mash warm potatoes with butter, cream, vanilla, brown sugar, salt, 1 cup pecans, 1/2 cup maple syrup, and beaten eggs. Spread potato mixture into the prepared casserole dish; sprinkle with remaining 1/4 cup pecans and 2 tablespoons maple syrup."
+        },
+        {
+          "id": 6,
+          "text": "Bake in the preheated oven until thoroughly hot, 30 to 35 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mashed Maple Sweet Potatoes",
+        "datePublished": "2020-03-05T00:04:54-05:00",
+        "dateModified": "2023-07-14T11:43:36-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "JENNYWRITES"
+          }
+        ],
+        "description": "This sweet potato casserole with maple syrup, butter, cream, and brown sugar features crunchy pecans for a family-favorite Thanksgiving side dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/qpz9toOsgi7xodRTYtoSKWRtIfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57173-eeedc194b71849ff8e0a81c48c1490c0.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mashed Maple Sweet Potatoes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "63"
+        },
+        "cookTime": "PT75M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "358 kcal",
+          "carbohydrateContent": "34 g",
+          "cholesterolContent": "74 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "280 mg",
+          "sugarContent": "23 g",
+          "fatContent": "24 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 large sweet potatoes",
+          "0.5 cup softened butter",
+          "1 cup heavy cream",
+          "2 tablespoons vanilla extract",
+          "0.5 cup packed light brown sugar",
+          "1 teaspoon salt",
+          "1 cup chopped pecans",
+          "0.5 cup maple syrup",
+          "2 eggs, beaten",
+          "2 tablespoons maple syrup"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with aluminum foil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place sweet potatoes onto the prepared baking sheet."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until soft, 45 minutes to 1 hour. Remove from the oven and cool slightly before peeling and placing into a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Reduce the oven temperature to 350 degrees F (175 degrees C). Butter a 2-quart casserole dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mash warm potatoes with butter, cream, vanilla, brown sugar, salt, 1 cup pecans, 1/2 cup maple syrup, and beaten eggs. Spread potato mixture into the prepared casserole dish; sprinkle with remaining 1/4 cup pecans and 2 tablespoons maple syrup."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until thoroughly hot, 30 to 35 minutes."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 (2-quart) casserole"
+        ],
+        "totalTime": "PT135M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "COOKIN4MYFAMILY"
+            },
+            "reviewBody": "This is really outstanding. I have made it multiple times and have modified it to be slightly less rich. I add an extra sweet potato (5 total), cut the butter to 5 T., use just 1 T. of vanilla, add an extra egg, and omit the 1 c. of pecans from the dish (I still use the 1/4 c. pecans on top). It is great as written, but it is still really rich &amp; flavorful with the cutbacks."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mommymeggy"
+            },
+            "reviewBody": "If you leave out the eggs there's no reason to put this back in the oven. Beat the potatoes while they're hot with the other ingredients and take the dish straight to the table. I used milk rather than cream, as it was what I had on hand. The maple flavor really comes through!",
+            "datePublished": "2011-11-15T15:45:43.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anai"
+            },
+            "reviewBody": "Had to change this a bit because of lack of ingredients on hand, instead of one cup of heavy cream used 5oz of evaporated milk. Used macadamia nuts instead of pecans. Didn’t use salt because nuts were salted. And this turned out amazing. My guests loved the way thus turned out. It was worth the time &amp; effort.",
+            "datePublished": "2019-11-25T01:25:18.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wintersunshine"
+            },
+            "reviewBody": "Let me just add to the many great reviews this recipe has received! It's beyond delicious. Tastes to me like pumpkin pie filling, only better. I'm thinking of having it for dessert. It doesn't even need a dollop of whipped cream, since the cream is inside!\r\nI used yams, which are the red-skinned variety. Sweet potatoes are light tan on the outside, and are not as sweet as yams. Following the advice of previous reviewers, I made a few changes to lighten it up a bit. It is still not healthy by any stretch of the imagination. Used 5T butter, increased sweet potatoes to 5 and eggs to 3, cut brown sugar to 1/4 cup, used only 1T vanilla, omitted the pecans in the dish (still used the ones on top) and omitted the maple syrup drizzle on top. Also used light maple-flavored syrup. My husband has demanded we not lose this recipe! Thanks JENNYWRITES!",
+            "datePublished": "2014-11-28T13:21:41.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betsy"
+            },
+            "reviewBody": "Followed tweaks, added 1 more yam, cut brown sugar to 1/4 c, butter to 5 T and vanilla to 1T.",
+            "datePublished": "2026-03-08T12:33:20.826Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Larissa"
+            },
+            "reviewBody": "Absolutely fabulous. A tad bit too sweet, Leave out the brown sugar. Can be made the day before, baked the morning of (for an early dinner), put a lid on it and a few towels to keep it warm. Less food to juggle. Permanently added to the Christmas &amp; Thanksgiving menus!",
+            "datePublished": "2012-12-27T08:15:50.303Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KandaceK"
+            },
+            "reviewBody": "I have one that doesn’t like pecans, so I didn’t use the pecans inside, and only sprinkled on them on half of the top. I will definitely be making this again. Oh, and instead of brown sugar, I used Brown Swerve.",
+            "datePublished": "2019-12-27T17:16:36.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "karenb135"
+            },
+            "reviewBody": "Didn't have any nuts, so did without. Took longer in oven , I just baked until no longer 'jiggly'.\nWe ended up having seconds ( and thirds!), AND his mother asked for recipe!",
+            "datePublished": "2019-10-16T23:24:01.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "masithma"
+            },
+            "reviewBody": "The pecans and maple syrup really add a nice touch to basic mashed sweet potatoes. I thought that adding the brown sugar would be too sweet being that the maple syrup &amp; sweet potatoes are sweet enough, so I made it without. Then realized it needed that extra touch of sweetness, added the brown sugar and it was just right! This recipe was such a hit at thanksgiving! Everybody went back for seconds and ate all the left overs. thumbs up!!",
+            "datePublished": "2013-12-24T13:40:39.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SarahMc"
+            },
+            "reviewBody": "This was a hit. For people who rated it low because it does not \"harden\" - it won't because there is too much liquid in it, but it is delicious. Did a few things a tiny bit different: used an extra sweet potato, did not pack the brown sugar, only used about 1/3 c of syrup, and didn't add nuts and syrup on top. Was a great addition to the Christmas buffet - my dad's favorite dish!",
+            "datePublished": "2019-12-31T01:02:17.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheresse Butler"
+            },
+            "reviewBody": "This is such a wonderful recipe. I made a few minor additions. I added 2 teaspoons of maple flavor extract and I melted marshmallows on top. They did not last long at dinner. They have been requested for Christmas already. This one is a keeper!!!",
+            "datePublished": "2011-11-28T18:23:27.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie Davis"
+            },
+            "reviewBody": "Very good. Will make again.",
+            "datePublished": "2020-11-26T15:52:38.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "laurasmom"
+            },
+            "reviewBody": "OMG! This was sooooo good! No complaints or suggestions at all.",
+            "datePublished": "2018-08-16T21:37:24.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Hirist Spilios"
+            },
+            "reviewBody": "I didn't put marshmallows on top like in the picture. I think that would be too sweet.",
+            "datePublished": "2016-02-07T06:56:12.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "j1nxt3r"
+            },
+            "reviewBody": "Was wayyyy too sweet and it wouldn't harden. It tasted like maple sweet potato syrup. It tastes even MORE sweet after it cools down. Tried it twice. Not doing it again.",
+            "datePublished": "2015-12-26T17:57:38.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KatieJoy"
+            },
+            "reviewBody": "Just made this tonight for thanksgiving- I happen not to like sweet potatoes really, but wow this recipe made even me like them!!!!",
+            "datePublished": "2015-11-26T15:03:12.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jo Steinberg"
+            },
+            "reviewBody": "Wonderful! I never added the butter (by accident) and it was fabulous! The combination of the maple syrup and vanilla made it so delicious that I never even missed it!",
+            "datePublished": "2013-12-29T16:01:28.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Camarra"
+            },
+            "reviewBody": "These were excellent and easy to make!! One of my guests said they were the best sweet potatoes he'd ever tasted. I will definitely make these again!!",
+            "datePublished": "2013-11-30T07:51:33.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Camarra"
+            },
+            "reviewBody": "These were excellent and easy to make!! One of my guests said they were the best sweet potatoes he'd ever tasted. I will definitely make these again!!",
+            "datePublished": "2013-11-30T07:51:33.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "smgalipeau"
+            },
+            "reviewBody": "Yum!",
+            "datePublished": "2013-11-23T11:55:51.730Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/143890/mashed-maple-sweet-potatoes/",
+          "name": "Mashed Maple Sweet Potatoes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/927/side-dish/vegetables/sweet-potatoes/",
+                  "name": "Sweet Potatoes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

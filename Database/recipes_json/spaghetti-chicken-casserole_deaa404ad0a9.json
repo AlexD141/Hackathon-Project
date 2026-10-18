@@ -1,0 +1,453 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15502/spaghetti-chicken-casserole/",
+  "extracted_at": "2026-10-18T02:15:45.707582+00:00",
+  "recipes": [
+    {
+      "name": "Spaghetti Chicken Casserole",
+      "ingredients_raw": [
+        "8 ounces spaghetti, broken into pieces",
+        "3 cups cooked, cubed chicken meat",
+        "2 cups shredded Cheddar cheese, divided",
+        "1 (10.5 ounce) can condensed cream of mushroom soup",
+        "0.5 cup chopped onion",
+        "0.25 cup chopped pimento peppers",
+        "0.25 cup chopped green bell pepper",
+        "0.25 cup white wine",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Drain spaghetti and transfer to a large bowl. Add chicken, 1 1/2 cups Cheddar cheese, condensed soup, onion, pimentos, bell pepper, wine, salt, and pepper. Mix until well combined, then spread mixture into a 9x13-inch baking dish."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven for 30 minutes. Sprinkle remaining 1/2 cup Cheddar over casserole and bake until melted, about 15 minutes longer."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spaghetti Chicken Casserole",
+        "datePublished": "1999-04-26T14:53:44-04:00",
+        "dateModified": "2026-03-10T14:30:06-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Marty"
+          }
+        ],
+        "description": "Try this chicken and spaghetti casserole recipe with colorful veggies, a creamy sauce, and lots of cheese for a meal that will appeal to everyone at the table.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Lw6Ojq-L1LZOsPL6Sum31sDIRcQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2278518-spaghetti-chicken-casserole-Cara-Hobbs-4x3-1-841266b937dd41539f9d20597d17a0cc.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spaghetti Chicken Casserole",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "148"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "350 kcal",
+          "carbohydrateContent": "26 g",
+          "cholesterolContent": "74 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "464 mg",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 ounces spaghetti, broken into pieces",
+          "3 cups cooked, cubed chicken meat",
+          "2 cups shredded Cheddar cheese, divided",
+          "1 (10.5 ounce) can condensed cream of mushroom soup",
+          "0.5 cup chopped onion",
+          "0.25 cup chopped pimento peppers",
+          "0.25 cup chopped green bell pepper",
+          "0.25 cup white wine",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drain spaghetti and transfer to a large bowl. Add chicken, 1 1/2 cups Cheddar cheese, condensed soup, onion, pimentos, bell pepper, wine, salt, and pepper. Mix until well combined, then spread mixture into a 9x13-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 30 minutes. Sprinkle remaining 1/2 cup Cheddar over casserole and bake until melted, about 15 minutes longer."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 9x13-inch casserole"
+        ],
+        "totalTime": "PT80M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I really enjoyed this casserole. I made some changes. I used chopped tomatoes instead of the pimentos and I added 1/2 cup sliced mushrooms. I mixed the soup with 1/2 cup whipping cream and the wine. I also added 1/2 tsp minced garlic to the sauce. Instead of the 2 cups of shredded cheese I used 1 and 1/2 cups of shredded cheese and 1/2 cup of real parmesan cheese. I turned out wonderful. Even the kids gobbled it up."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elyse Hawthorn"
+            },
+            "reviewBody": "Excellent! I did only used 2 cups of chicken and I made my own cream of mushroom soup: 1 cup mushrooms sauteed in 3 T butter, add 3 T flour, stir for 1 minute. Add 1 cup chicken stock, 1 cup milk. Cook until a bit thickened. I added the cheese to this. I also added thyme, sage and a bit of basil.",
+            "datePublished": "2011-03-17T14:18:04.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patty Campbell"
+            },
+            "reviewBody": "This is a great recipe as is, or it can be tweaked to suit your taste. Do remember to cover it with foil for the first 30 minutes to keep it moist.",
+            "datePublished": "2020-06-13T14:21:23.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Claire Parr"
+            },
+            "reviewBody": "I took some liberties.... did 2 cups of rotisserie chicken cut up, left out the pimentos and used red bell pepper and fresh mushrooms. I sautéed the onions and peppers and added the mushrooms and 3 cloves of minced fresh garlic, in some white wine and a bit of olive oil and then added cream of mushroom soup, cheese ( 1 cup cheddar and rest Parmesan, and added some left over peas and corn and about 1/3 cup of sour cream. Baked covered with foil for 30 and then removed the foil and topped with cheese, crushed corn flakes and some fried onions and drizzled a bit of butter. Wow. Let’s just say it’s an elevated groovy casserole and people were fighting over the leftovers. I also added some thyme and a bit of worchestershire sauce before I baked it. As my mom said, I threw the kitchen sink at it, and it worked! Super yummy and fun!!!",
+            "datePublished": "2019-11-14T23:30:40.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "felicityallmighty"
+            },
+            "reviewBody": "I sautéed the onion and yellow/orange bell pepper before incorporating. Instead of pimento peppers, I used rotel and omitted white wine. I also subbed out the mushroom soup for chicken because my daughter doesn’t like mushrooms. Finally, we love to use rotisserie chicken to really elevate the flavors in this casserole. I always make this dish when I’m making comfort food for other families. Paired with side salad and garlic bread and its crowd pleaser!",
+            "datePublished": "2024-06-13T02:56:17.666Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WILKBROWN"
+            },
+            "reviewBody": "This tasted like a good tetrazzini to us. I used two big chicken breasts that I coated with garlic powder, salt and pepper and drizzled with olive oil and then baked in the oven. I used a whole red bell pepper instead of green, half a medium onion and about 2/3 cup of chopped fresh mushrooms. With all that extra veg, I needed to double the mushroom soup and wine. I used parmesan cheese instead of cheddar. It turned out great! I came out with enough for our family of four plus plenty of leftovers for lunch tomorrow.",
+            "datePublished": "2014-02-26T18:38:34.237Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "robgraphics"
+            },
+            "reviewBody": "This is a very good base recipe that made it easy to build upon. One of the add-ons was a tablespoon of poultry seasoning since many reviews mentioned that it was bland. You could easily use Cajun, Creole, or Italian seasoning too. I did add sour cream, wine, milk, and chicken broth to make sure this did not come out too dry. I also added a Panko and Parmesan cheese topping. I know this has become a new recipe, but I do want to give due credit to the original recipe. Make it your own. If AllRecipes would make my recipes searchable on their site, I would post it. But they claim they only allow 'original' recipes.",
+            "datePublished": "2025-07-08T19:00:04.245Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donald May"
+            },
+            "reviewBody": "I made the recipe for 12 people. Everyone loved it. Instead of using cubed chicken I used shredded chicken from a mesquite rotisserie chicken.",
+            "datePublished": "2020-12-30T15:09:55.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KarenG"
+            },
+            "reviewBody": "I really enjoyed this dish! I did make a few changes, though, based on others' suggestions, and what I had on hand. I added a small can of sliced mushrooms - no pimentos, because I didn't have any. I sauteed the onion and bell pepper before adding. I didn't have any wine, so used 1/2 cup of cream instead. I also used the suggestion to sprinkle the top with Parmesan cheese and crushed corn flakes during the last 15 minutes (I mixed all of the cheddar into the casserole). It was a little too dry for my taste, so next time I will add the wine in addition to the cream, or use more cream or milk. A great basic recipe that can be fiddled with to suit your own personal taste!",
+            "datePublished": "2007-04-30T17:50:03.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim C"
+            },
+            "reviewBody": "Very good. Family enjoyed and asked to have it again. Changed by leaving out pimentos and adding can of Rotel and small can of sliced mushrooms. Also, just a tad bit more wine.",
+            "datePublished": "2018-08-05T16:25:00.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lindsay Berry"
+            },
+            "reviewBody": "I made this and we looooved it. I did make some changes. I cooked my chicken with the green pepper, a red pepper (subbed for the pimento), and onion together in a skillet. I also dropped the wine and used a 1/2 cup of milk. My husband devoured this. Very GOOD and versatile recipe:)",
+            "datePublished": "2015-11-14T16:19:50.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth Knight"
+            },
+            "reviewBody": "We really liked this one! I did use a rotisserie chicken instead of preparing chicken breasts. Quite a time saver for us!",
+            "datePublished": "2026-08-12T18:19:04.871Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Davene Cain"
+            },
+            "reviewBody": "Pretty good recipe starter for everyone’s very own dish. A keeper. However, I never saw a review where someone made the dish according to the recipe. If everyone has so many changes to the original, why don’t they just publish their own recipe? It seems rather insulting to the recipe originator otherwise.",
+            "datePublished": "2026-03-20T01:47:25.525Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zetta Redtop"
+            },
+            "reviewBody": "Very good.. Gonna be made often.",
+            "datePublished": "2025-07-24T17:50:22.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bringtheheat"
+            },
+            "reviewBody": "I love this recipe, just as it's written, but tonight I had to pivot on ingredients. No cream soup so I mixed sour cream and chicken broth. I sautéed onion, celery and some mushrooms and threw that in. No wine or pimento. I know it's irritating when people completely change the recipe according to their own taste, but I just LOVE a recipe that can be adjusted as needed. Thanks for a delicious jumping off point!",
+            "datePublished": "2025-06-06T23:02:11.971Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rtaper"
+            },
+            "reviewBody": "IT WAS GREAT. I also added a can of cream of mushroom to it and some red bell peppers.",
+            "datePublished": "2025-03-02T21:26:37.667Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sis Ann Broyles"
+            },
+            "reviewBody": "I use two cans of mushroom soup ( or add 1/2 cup or more sour cream to the one can of soup), sherry instead of white wine. Red peppers (instead of pimentos) and green peppers make it look like Christmas. Add mushrooms if you want. It is everyone's favorite!",
+            "datePublished": "2025-02-12T21:02:50.028Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peggy Cahill Hunter"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-08T22:27:02.896Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeDove8106"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-09-28T02:45:33.104Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "blackhighheels"
+            },
+            "reviewBody": "I made this very closely to how it was written. Rather than white wine, I used a tablespoon of white vinegar. Otherwise, I followed the recipe. It was very good. I can imagine making it again.",
+            "datePublished": "2024-06-24T00:06:45.540Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15502/spaghetti-chicken-casserole/",
+          "name": "Spaghetti Chicken Casserole",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                  "name": "Chicken Breast"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,401 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/166948/honey-balsamic-vinaigrette/",
+  "extracted_at": "2026-10-18T02:22:37.041120+00:00",
+  "recipes": [
+    {
+      "name": "Honey-Balsamic Vinaigrette",
+      "ingredients_raw": [
+        "0.5 cup balsamic vinegar",
+        "0.25 cup honey",
+        "0.25 cup olive oil",
+        "1 teaspoon soy sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk together the vinegar, honey, olive oil, and soy sauce until the honey has dissolved, and the dressing is smooth."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Honey-Balsamic Vinaigrette",
+        "datePublished": "2016-06-04T09:53:59-04:00",
+        "dateModified": "2026-04-22T23:36:48-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Madenish"
+          }
+        ],
+        "description": "This is a salad dressing that I really enjoy on a green salad with walnuts, cranberries, avocado and goat cheese crumbles. This dressing is strong, so a little goes a long way.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/sAsVnPuxVrGpcVNtZju8mvGgBaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8695547-139bd2a54aaa438d9a111382203a2689.jpg",
+          "height": 2000,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Honey-Balsamic Vinaigrette",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "144"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "102 kcal",
+          "carbohydrateContent": "11 g",
+          "proteinContent": "0 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "42 mg",
+          "sugarContent": "11 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup balsamic vinegar",
+          "0.25 cup honey",
+          "0.25 cup olive oil",
+          "1 teaspoon soy sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together the vinegar, honey, olive oil, and soy sauce until the honey has dissolved, and the dressing is smooth."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 cup"
+        ],
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Tea"
+            },
+            "reviewBody": "This is now my new favorite dressing. I absolutely love it. The only change I made was it needed a little mustard. But other than that it was brilliant."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "coriander"
+            },
+            "reviewBody": "I've been skeptical in the past about putting soy sauce and balsamic vinegar together, but I was pleasantly suprised. My balsamic isn't the greatest quality, so I reduced it on the stove then added the honey while it was warm, this helped the honey melt in. Served this while the dressing was still warm on a salad of baby greens, caramelized red onions, fresh blueberries, goat cheese and toasted walnuts and it tasted amazing!",
+            "datePublished": "2009-08-23T17:57:08.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth Gajewski"
+            },
+            "reviewBody": "Delicious!! I am not a big fan of soy sauce so I used a teaspoon of Dijon mustard instead. I put all the ingredients in a jar with a screw on lid and shook until blended. Easy to store in the fridge and a quick shake before using reblends the ingredients. I like how this dressing clings to the greens better than a typical vinaigrette.",
+            "datePublished": "2016-09-26T10:27:53.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dkwok81"
+            },
+            "reviewBody": "Excellent dressing! I have made the original recipe in the past and loved it but today I felt adventurous and I added 1/8 teaspoon of garlic powder, 1/8 teaspoon of onion powder, the juice of a 1/4 lemon and a pinch of dried parsley. With this, who needs store bought dressing! Thank you for sharing your recipe!",
+            "datePublished": "2011-02-15T09:11:36.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cassie W"
+            },
+            "reviewBody": "There's a proper way to dress a salad. Rightly so, a little DOES go a long way! The only change I made was to omit the soy sauce and replace it with 2 teaspoons of Dijon mustard. It emulsified nicely and tasted great on a spinach salad with roma tomatoes, english cucumber, walnuts and goat cheese! (I store my leftover dressing in a glass jar at room temperature for a few days until I use it all up.)",
+            "datePublished": "2018-04-04T22:48:18.093Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dre"
+            },
+            "reviewBody": "This dressing is very good. I added about a teaspoon or so of Dijon mustard based on some of the other comments. I also used a little more EVO.",
+            "datePublished": "2016-04-02T08:11:35.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ScotSc1010"
+            },
+            "reviewBody": "Quick and easy. Just how I like it!!! I took the advice of another reviewer (which is why I love this site so much, everyone is so helpful) and added a bit (1 t.) dijon mustard and it turned out fabulous. I also substituted Agave for the honey as the honey had crystalized and I didn't have time to address via boiling water, etc.",
+            "datePublished": "2026-02-24T23:29:49.919Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZAKKIE"
+            },
+            "reviewBody": "This was a touch too sweet for me. I omitted the soy sauce and added 1 T. Dijon mustard, 1/4 t. garlic powder and 1/8 t. black pepper. It is perfect served with bitter greens and feta cheese.",
+            "datePublished": "2009-10-10T08:36:36.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mana77"
+            },
+            "reviewBody": "Balsamic vinaigrette is my favourite and I always buy them from the store. I got tired of it and start looking for a home made recipes but none of them seems to stand out..... until I came across this recipe! I've made it time and time again over the last year and is always a hit when I have visitors. People keep asking me for the recipe, its thay good! Thank you for sharing it with us. I don't buy dressing anymore. \nI made a couple changes and this is personal preference : I use 1:3 ratio of vinegar to oil and I left out the sugar. I find that honey alone is sweet enough for my family.",
+            "datePublished": "2018-03-30T01:35:44.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jalford5"
+            },
+            "reviewBody": "My family really enjoyed the recipe. I added Dijon mustard and substituted the soy sauce with coconut liquid aminos. We definitely plan on making this recipe again!",
+            "datePublished": "2019-07-21T11:09:28.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Excellink"
+            },
+            "reviewBody": "I 'invented' this recipe back in 1994, although I'm sure it was just a case of serendipity. 1/2 cup balsamic vinegar, 1/4 cup olive oil, 1/4 cup honey, and 1 tsp. soy sauce. I also added 1/2 tsp. of Dijon mustard. Wonderfully savory on all kinds of salads. The key to this is that less is more. If I overdo it, I strain and reuse the surplus.",
+            "datePublished": "2013-02-23T23:18:07.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "joseph hardy"
+            },
+            "reviewBody": "I added cloves of garlic",
+            "datePublished": "2026-05-23T19:53:32.638Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZanyPop5304"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-21T13:44:14.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "terersa s"
+            },
+            "reviewBody": "I was looking for a quick dressing using what I had in hand and this was it. Simple and delicious. I did add a little Dijon",
+            "datePublished": "2022-08-16T17:11:34.061Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandy Higgins Lauzon"
+            },
+            "reviewBody": "Beyond delish. I made a salad with strawberries, blue berries and goat cheese. Had nothing to dress with except for staples in the cupboard. I am addicted. I made exactly as written. Thank you for this recipe.",
+            "datePublished": "2021-11-01T22:29:33.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LauraF"
+            },
+            "reviewBody": "Tasty and super easy. Homemade dressing is the best!",
+            "datePublished": "2020-11-03T06:26:31.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aunt B"
+            },
+            "reviewBody": "YUMMMMMM!!! I used raspberry vinaigrette &amp; equal honey. I did add mustard, but it was delicious with or without.",
+            "datePublished": "2019-06-12T21:12:33.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "zlmclare"
+            },
+            "reviewBody": "My new favorite dressing; it goes well with a all green salad with veggies or fruit (strawberries). I keep tightly sealed bottle on the counter for use at any time.",
+            "datePublished": "2019-01-11T23:10:30.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Daniela Pichierri"
+            },
+            "reviewBody": "I love how simple and fast this is. It’s one of my favorites and I’m very picky with dressings!",
+            "datePublished": "2017-12-14T00:53:39.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lara Benton"
+            },
+            "reviewBody": "this is the perfect balance of ingredients in a salad dressing. I love this in my spinach leaf based salads.",
+            "datePublished": "2017-11-04T21:18:09.253Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/166948/honey-balsamic-vinaigrette/",
+          "name": "Honey-Balsamic Vinaigrette",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

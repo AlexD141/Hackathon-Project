@@ -1,0 +1,165 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222534/tropical-island-fruit-salad/",
+  "extracted_at": "2026-10-18T03:16:03.065054+00:00",
+  "recipes": [
+    {
+      "name": "Tropical Island Fruit Salad",
+      "ingredients_raw": [
+        "1 pineapple - peeled, cored, and cut into 1/2-inch cubes",
+        "2 mangos - peeled, pitted, and cut into small cubes",
+        "2 papayas - halved lengthwise, seeded, peeled, and cut into 1/2-inch cubes",
+        "3 bananas, sliced"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Toss pineapple, mangos, papayas, and bananas together in a large bowl."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tropical Island Fruit Salad",
+        "datePublished": "2014-03-18T02:00:25-04:00",
+        "dateModified": "2022-01-28T14:13:52-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Devin"
+          }
+        ],
+        "description": "Simply tossing together cut pineapple, mango, papaya, and bananas can deliver a tropical taste to your table.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/efpd6zZLT51vTszSVnN8I21Szik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/876301-773d297aaf5443fd92884b79886b67a7.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tropical Island Fruit Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "ratingCount": "2"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "94 kcal",
+          "carbohydrateContent": "24 g",
+          "fiberContent": "3 g",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "2 mg",
+          "sugarContent": "17 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "1 pineapple - peeled, cored, and cut into 1/2-inch cubes",
+          "2 mangos - peeled, pitted, and cut into small cubes",
+          "2 papayas - halved lengthwise, seeded, peeled, and cut into 1/2-inch cubes",
+          "3 bananas, sliced"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Toss pineapple, mangos, papayas, and bananas together in a large bowl."
+          }
+        ],
+        "recipeYield": [
+          "14",
+          "14 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "Simple and delicious! I like the addition of the banana. They balance out the tartness from the pineapple and mango. I'm not normally a huge fan of papaya, but it's very good mixed with the other fruits. I think next time I might sprinkle some coconut over the top. Great recipe!\nEdited to add: I would recommend eating this the same day. It tends to get mushy when stored for more than a day."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "michellew"
+            },
+            "reviewBody": "Delicious! I added strawberries and some shredded coconut for texture. A squeeze of lime and it was good!!",
+            "datePublished": "2018-06-17T18:56:00.027Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222534/tropical-island-fruit-salad/",
+          "name": "Tropical Island Fruit Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

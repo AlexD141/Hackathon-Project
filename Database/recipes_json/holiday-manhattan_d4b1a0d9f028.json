@@ -1,0 +1,178 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/130748/holiday-manhattan/",
+  "extracted_at": "2026-10-18T01:52:05.690967+00:00",
+  "recipes": [
+    {
+      "name": "Holiday Manhattan",
+      "ingredients_raw": [
+        "0.75 cup white sugar",
+        "0.25 cup hot water",
+        "1 (750 milliliter) bottle bourbon whiskey",
+        "1.25 cups sweet vermouth",
+        "0.25 cup cherry juice",
+        "2 teaspoons aromatic bitters",
+        "12 maraschino cherries"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Dissolve the sugar in hot water in a large pitcher. Stir in the whiskey, vermouth, cherry juice and bitters. Serve in glasses over ice and garnish with a maraschino cherry."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Holiday Manhattan",
+        "datePublished": "2020-06-18T23:26:51-04:00",
+        "dateModified": "2022-05-02T13:39:22-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "yummyinthetummy"
+          }
+        ],
+        "description": "This recipe is definitely not traditional - except in my family. It is sweet, and meant to be! You will have to do the math for single servings, this is the way I got it from my Grandfather, who always made a batch (or two) for the Holidays.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QpclNrur46iK3vzW2QaO_7zpxc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1897138-19119ecb7202486a8b3f6d7c331a90e6.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Holiday Manhattan",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "2"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "0.75 cup white sugar",
+          "0.25 cup hot water",
+          "1 (750 milliliter) bottle bourbon whiskey",
+          "1.25 cups sweet vermouth",
+          "0.25 cup cherry juice",
+          "2 teaspoons aromatic bitters",
+          "12 maraschino cherries"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Dissolve the sugar in hot water in a large pitcher. Stir in the whiskey, vermouth, cherry juice and bitters. Serve in glasses over ice and garnish with a maraschino cherry."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "3 pints"
+        ],
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rosie Myres"
+            },
+            "reviewBody": "This recipe reads like that for a very sweet Manhattan. I scaled it down to one drink and as promisedit WAS very sweet, so not fair of me to judge. (The hot water is there to melt the sugar, I imagine). If you omit the sugar and sub grenadine (maraschino cherry \"juice\") that actually might lesson the toothache factor. I'm a sucker for a Bourbon Manhattan so this is a fun recipe to toy with!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arizona Desert Flower"
+            },
+            "reviewBody": "The hubs....aka the Manhattan King....loved it. The bitters do help with the extra sugar. Added extra cherry juice, just for his personal preference.",
+            "datePublished": "2015-01-01T15:52:55.620Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/130748/holiday-manhattan/",
+          "name": "Holiday Manhattan",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1744/drinks/cocktails/whiskey-drinks/",
+                  "name": "Whiskey Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

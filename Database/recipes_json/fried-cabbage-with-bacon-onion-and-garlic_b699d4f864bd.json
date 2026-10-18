@@ -1,0 +1,521 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/196732/fried-cabbage-with-bacon-onion-and-garlic/",
+  "extracted_at": "2026-10-18T02:35:22.314739+00:00",
+  "recipes": [
+    {
+      "name": "Fried Cabbage with Bacon, Onion, and Garlic",
+      "ingredients_raw": [
+        "6 slices bacon, chopped",
+        "1 large onion, diced",
+        "2 cloves garlic, minced",
+        "1 large head cabbage, cored and sliced",
+        "1 tablespoon salt, or to taste",
+        "1 teaspoon ground black pepper",
+        "0.5 teaspoon onion powder",
+        "0.5 teaspoon garlic powder",
+        "0.125 teaspoon paprika"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Place bacon in a large stockpot. Cook, stirring occasionally, over medium-high heat until crispy, about 10 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Add onion and garlic; cook and stir until onion caramelizes, about 10 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in cabbage and continue to cook and stir for 10 more minutes."
+        },
+        {
+          "id": 5,
+          "text": "Season with salt, pepper, onion powder, garlic powder, and paprika. Reduce heat to low, cover, and simmer, stirring occasionally, for about 30 minutes more."
+        },
+        {
+          "id": 6,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Fried Cabbage with Bacon, Onion, and Garlic",
+        "datePublished": "2019-04-02T02:51:53-04:00",
+        "dateModified": "2026-10-05T13:07:10-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kathi Richards Smith"
+          }
+        ],
+        "description": "Fried cabbage with bacon creates a delicious combo of flavors for a hearty side. Cooking it low and slow makes it melt-in-your-mouth irresistible.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/egqU0F8fqiTpPpdeer-otc2Swxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-4x3-15611-web-c933e63ec9d049ff86576059a7782159.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/rn4JX3YZ-K3AjnAEN.mp4",
+          "description": "This is a family favorite that is put into every cookbook for my kids when they move out and get married. It is a beautiful dish with many colors and full of flavor. Warning, it is addictive.",
+          "duration": "PT56S",
+          "name": "How to Make Fried Cabbage with Bacon, Onion, and Garlic",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/rn4JX3YZ/poster.jpg?width=1280",
+          "uploadDate": "2022-03-28T07:53:10-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fried Cabbage with Bacon, Onion, and Garlic",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "1354"
+        },
+        "cookTime": "PT60M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "194 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "19 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "1435 mg",
+          "sugarContent": "8 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 slices bacon, chopped",
+          "1 large onion, diced",
+          "2 cloves garlic, minced",
+          "1 large head cabbage, cored and sliced",
+          "1 tablespoon salt, or to taste",
+          "1 teaspoon ground black pepper",
+          "0.5 teaspoon onion powder",
+          "0.5 teaspoon garlic powder",
+          "0.125 teaspoon paprika"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6PQ6ihmLBhU4Olz66qo4qmQZpMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-step-01-1511--f22bc8acfb534abeacddad9b5d8e2b0c.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/BUAD_lK3tCmi8WuvynSBcyJOi14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-step-02-1514-057adf1b2bac498a973112e1e8c46ca9.jpg"
+              }
+            ],
+            "text": "Place bacon in a large stockpot. Cook, stirring occasionally, over medium-high heat until crispy, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zywwdK_itbMdX7VEqghRN8ytqeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-step-03-1515-88af5fc66f1347d4bbd1da5db3d10f18.jpg"
+              }
+            ],
+            "text": "Add onion and garlic; cook and stir until onion caramelizes, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OSzMK1HSeYDHDtsvQCCRfZa85Ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-step-04-1516-7ce4cb9e99da4551b2026829cc64220e.jpg"
+              }
+            ],
+            "text": "Stir in cabbage and continue to cook and stir for 10 more minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hGtCadSYUFDQwTWzSpjrwUCBqq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-step-06-1520-c5b726fd4bbe4c1fa13f0c3ced0cdc0d.jpg"
+              }
+            ],
+            "text": "Season with salt, pepper, onion powder, garlic powder, and paprika. Reduce heat to low, cover, and simmer, stirring occasionally, for about 30 minutes more."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/egqU0F8fqiTpPpdeer-otc2Swxo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/196732-fried-cabbage-with-bacon-onion-and-garlic-DDMFS-4x3-15611-web-c933e63ec9d049ff86576059a7782159.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathi Richards Smith"
+            },
+            "reviewBody": "I would like to thank everyone who took the time to write a review. Thanks for the wonderful feedback. Kathi Smith"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle"
+            },
+            "reviewBody": "(6/15/09) This was excellent. I did use less salt than specified but this recipe is definitely one I'll make again and again. Thanks for sharing it MrsMDSmith (and calling my attention to it on the exchange; it was perfect timing as I was looking for a side to go with dinner!) *(6/18/09 Update)* I wanted to stop by again to thank you MrsMDSmith. You not only gave me a delicious side dish but I used the leftovers to make a main dish that I will probably also do again and again. I chopped the leftovers and mixed in 1/2 lb. of seasoned browned ground pork, rolled in egg roll wrappers and fried to golden perfection. I love a recipe that can give me two distinct meals!",
+            "datePublished": "2009-06-12T21:30:21.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mitchy48"
+            },
+            "reviewBody": "This one blasts the meat off the bone! Pork fat, onion, garlic (preferably fresh), and cabbage is a Tennessee staple overlooked by the rest of the country (too bad). Thanks for sharing this recipe with the community. My 1/4 Cherokee friend/co-worker raved about this recipe for years. It always sounded too greasy, until I tried it......OMG! It's sooooooo comforting. He used 'fatback' (smoked pork fat)===less salty than bacon and no nitrites. Anyway, a great southern recipe, and I'm glad you shared it. P.S. Try some red Savoy cabbage with the green kind. It doesn't wilt so much and has a sweeter flavor. I'd like to see a good recipe for baked beans, Southern Style! Mitchy48",
+            "datePublished": "2009-06-19T10:52:33.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cookies"
+            },
+            "reviewBody": "We loved this. I put in one shredded carrot for colour. THX",
+            "datePublished": "2011-02-01T11:08:14.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carrye"
+            },
+            "reviewBody": "Wonderful! We enjoyed this. I only put in 2 tsp of sea salt &amp; that was just rite. Everything else I followed turn out very good. Next I will set cooked bacon aside &amp; put in at end, mine became a lil soggy &amp; chewy. But WILL make this again thanks!",
+            "datePublished": "2012-01-08T13:19:06.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DEEVA1"
+            },
+            "reviewBody": "Yummy, yummy, yummy. I replaced the 3 tablespoons of salt with seasoned salt added to taste and I cooked the cabbage on medium until just tender. Definately a keeper.",
+            "datePublished": "2009-06-12T14:35:49.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Let'strysomethingnew"
+            },
+            "reviewBody": "Just made this with a Napa cabbage and a Walla Walla sweet onion. Wow! Sweet, salty and so good even my husband who hates cabbage and my daughter who won't eat anything green liked it. I used 1 tsp salt because my cabbage was small and a little less garlic.",
+            "datePublished": "2011-08-07T19:17:44.943Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nemeneme"
+            },
+            "reviewBody": "I've been making this for many years. It's also great using sliced polish sausage in place of the bacon and I also always add diced bell peppers as well whether using polish sausage or bacon, or if you prefer both meats. It also makes a tasty meal boiled in a little water or you can use a little chicken or beef broth in place of the water if you prefer and you don't have to keep nearly as close a watch on it when your gently boiling it in a stew pot with a lid on it instead of frying. Both ways are scrumptious. I use a whole head of cabbage (quartered), a couple of med. to large size onions and a good sized diced green bell pepper as well as a whole polish sausage in mine. Salt and pepper to taste. Just throw it all in a pot and gently boil until your cabbage is tender. Oh yeah, potato diced in 1 to 1/2 inch chunks are also very good in it. Makes a great quick, healthy, delicious one pot meal which goes over any time of the year. Best thing too is it doesn't break the bank to make a large stew pot of it and it reheats very well in your microwave.",
+            "datePublished": "2016-02-16T00:11:56.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BLIZLADY"
+            },
+            "reviewBody": "This was so good! Reminded me of the fried cabbage that my Hungarian grandma would make, although she cooked it down quite a bit more and then mixed it with cooked noodles - yum. For those that rated it low because of saltiness, the recipe did say \"or to taste\". When I make a recipe I rarely use as much salt as the recipe states. I waited until the cabbage was almost cooked through before even adding any salt. Or another way is to salt the raw cabbage and let sit for awhile, rinse and squeeze until almost dry.",
+            "datePublished": "2013-08-10T11:12:42.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dmduly"
+            },
+            "reviewBody": "This is an age-old recipe originating I believe either in Slovakia or Germany. It is delicious! It is called Halushka or Kalushka depending on what country it was from. I've made this for years and years but have never used garlic, however will try that. Agree with others as to draining some of the bacon fat, otherwise it's too greasy as well as (if your adding garlic) hold off on adding it in the beginning ~ nothing worse than burnt, bitter garlic to ruin any dish! We always serve this mixed with a small amount of curly egg noodles.",
+            "datePublished": "2014-02-18T14:28:44.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ClassyBoba7725"
+            },
+            "reviewBody": "This is a great recipe. Before putting the lid on for the last 30 minutes I deglazed the cabbage with 1/4 cup chicken broth. Also I am certain there is a typo in the recipe. There is no way this needs a tablespoon of salt. I halved the recipe and was was using 1/2 a teaspoon. This was enough. It makes a great side dish to baked ham and scalloped potatoes.",
+            "datePublished": "2024-11-12T19:59:21.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Della Ella Ola"
+            },
+            "reviewBody": "Very good. When I added the cabbage I also needed to add a little water to deglaze the pot.",
+            "datePublished": "2026-09-25T13:45:23.716Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nitin Manerikar"
+            },
+            "reviewBody": "Not a bad way to use the half cabbage I had after making coleslaw, but I wouldn't go out of my way for this one. A few notes: -For a full cabbage, note the \"large\" stockpot. My pot was full with the half I had. -As another reviewer commented, I used polish sausage instead of bacon. I had 8 oz of sausage, which brought the ratio up to a more acceptable level. I think 6 strips of bacon for a whole cabbage would not be enough -I added a bit of olive oil to make up for the reduced liquid fat - I added about a cup of water after adding the cabbage. This created more of a steamed than a fried effect. Not sure I would do that again. -I added 1 tsp of minced ginger -I used 1 tsp paprika. I can't imagine that 1/8 tsp with a whole cabbage would even be noticeable? But spice taste is personal. I'm willing to try it again. I think it would be better with a pile of bacon!",
+            "datePublished": "2026-09-14T18:24:31.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa McNeill"
+            },
+            "reviewBody": "I have made this for years. The only difference is after I mix the bacon and the cabbage in a pain and let it simmer for a few minutes,( I like my cabbage a little crunchy) I add some cooked spaghetti noodles and toss it to coat the noodles with the bacon fat. My favorite",
+            "datePublished": "2026-09-04T23:54:17.128Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "karens"
+            },
+            "reviewBody": "Easy and tasty",
+            "datePublished": "2026-08-15T23:18:19.239Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roseann"
+            },
+            "reviewBody": "This is absolutely delicious and I would make it all the time. My daughter’s a vegan and used beyond sausage in place of the bacon and it came out fantastic. Great as a side dish or as a meal.",
+            "datePublished": "2026-07-18T17:07:44.955Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Buzz Killington"
+            },
+            "reviewBody": "Followed the recipe exactly plus added apples per a reviewer’s suggestion. Fantastic!",
+            "datePublished": "2026-05-31T03:08:44.054Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dave Hopkins"
+            },
+            "reviewBody": "This was easy, and very good.",
+            "datePublished": "2026-05-16T21:49:57.239Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kitchencap"
+            },
+            "reviewBody": "It’s absolutely delicious",
+            "datePublished": "2026-05-04T23:08:24.619Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Todd Smith"
+            },
+            "reviewBody": "Great base recipe. Like most recipes I took some liberties which I think only enhanced the end product, to the point my wife and I ate it last on our plate - it was just that good! We cooked a half-portion of the recipe. It called for 3 slices of bacon, but I think it needed six so we crumbled a few slices we cooked in the oven and added it at the end. Also once the bacon was cooked we pulled it out and set it aside. And we added about double the garlic with the onions. As it simmered, it did not go the full 30 minutes. It took close to 25 minutes. And in the last 5 minutes we incorporated about 1-1.5 cups of shredded smoked gouda which took it over the top! I just felt this recipe was screaming for cheese and it was one of the best sides I've ever made.",
+            "datePublished": "2026-04-26T23:35:26.773Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/196732/fried-cabbage-with-bacon-onion-and-garlic/",
+          "name": "Fried Cabbage with Bacon, Onion, and Garlic",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/921/side-dish/vegetables/cabbage/",
+                  "name": "Cabbage"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,450 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/207271/mexican-chocolate-chili/",
+  "extracted_at": "2026-10-18T02:46:30.820414+00:00",
+  "recipes": [
+    {
+      "name": "Mexican Chocolate Chili",
+      "ingredients_raw": [
+        "1 pound ground round",
+        "1 cup chopped onion",
+        "2 (14.5 ounce) cans diced tomatoes with garlic, undrained",
+        "1 (15 ounce) can kidney beans, rinsed and drained",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 (14.5 ounce) can whole kernel corn, drained",
+        "1 cup hot water",
+        "0.33300000429153 cup semisweet chocolate chips",
+        "1 tablespoon ground cumin",
+        "2 teaspoons chili powder",
+        "1 teaspoon salt",
+        "0.5 teaspoon dried oregano"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook and stir ground beef and onion in a large saucepan over medium-high heat until beef is browned and crumbly, about 5 minutes. Transfer beef and onion to a slow cooker."
+        },
+        {
+          "id": 2,
+          "text": "Stir tomatoes, kidney beans, black beans, corn, hot water, chocolate chips, cumin, chili powder, salt, and oregano into beef and onion mixture. Cover the slow cooker."
+        },
+        {
+          "id": 3,
+          "text": "Cook on High until chili begins to bubble, about 20 minutes. Reduce heat to Low; cook until thick, about 2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mexican Chocolate Chili",
+        "datePublished": "2019-04-03T23:47:52-04:00",
+        "dateModified": "2025-12-22T16:15:25-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "saraeudy"
+          }
+        ],
+        "description": "This Mexican-inspired beef chili recipe, simmered in the slow cooker with beans and corn, gets an added flavor boost when semisweet chocolate is added.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/IU6j-ZR2lk29mZUu0WIhrI9h1fw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/296677-63da00de29014a6fa301e0addf8ea2e3.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mexican Chocolate Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "55"
+        },
+        "cookTime": "PT145M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "276 kcal",
+          "carbohydrateContent": "37 g",
+          "cholesterolContent": "25 mg",
+          "fiberContent": "8 g",
+          "proteinContent": "16 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "978 mg",
+          "sugarContent": "12 g",
+          "fatContent": "8 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound ground round",
+          "1 cup chopped onion",
+          "2 (14.5 ounce) cans diced tomatoes with garlic, undrained",
+          "1 (15 ounce) can kidney beans, rinsed and drained",
+          "1 (15 ounce) can black beans, rinsed and drained",
+          "1 (14.5 ounce) can whole kernel corn, drained",
+          "1 cup hot water",
+          "0.33300000429153 cup semisweet chocolate chips",
+          "1 tablespoon ground cumin",
+          "2 teaspoons chili powder",
+          "1 teaspoon salt",
+          "0.5 teaspoon dried oregano"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook and stir ground beef and onion in a large saucepan over medium-high heat until beef is browned and crumbly, about 5 minutes. Transfer beef and onion to a slow cooker."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir tomatoes, kidney beans, black beans, corn, hot water, chocolate chips, cumin, chili powder, salt, and oregano into beef and onion mixture. Cover the slow cooker."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook on High until chili begins to bubble, about 20 minutes. Reduce heat to Low; cook until thick, about 2 hours."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT160M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "artist"
+            },
+            "reviewBody": "I have already made this dish twice and everyone loves it! The second time I made it I added a little more chili powder and a little more cumin. Other than that...it's perfect!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "irishblue82"
+            },
+            "reviewBody": "I hate to give any recipe such an awful rating but this chili was just not for me. It was much too sweet and really lacked any flavor. In the end I put about 5 total TSB of Chili powder and 1 1/2 TBS of Cumin. Sorry for the bad review.",
+            "datePublished": "2010-10-23T15:36:21.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Blake Piercy"
+            },
+            "reviewBody": "I'm making this for the second time today with a few modifications I made to fit our tastes. First, NO CORN! 2nd, twice as much chili powder and cumin. 3rd add 1 tsp of my homegrown dried and ground habanero peppers. 4th, use diced tomatoes with basil, oregano and garlic. 5th, use liquid in the cans of beans and reduce added water by half. I made all those changes the first time around and it came out great! I'm going to increase the amount of chocolate to half a cup this time and see how it comes out. I'm constantly on the lookout for something new to cook for my wife and I, this is a welcome addition to our normal fare. I dropped one star because it's a bit bland for us without the above mods, for us it's not chili if it doesn't burn a bit. Thank You for a great recipe that we both enjoy! Edit: I've made this 5 or 6 times now, and I'm making it again now. I've settled on 1/2 cup semi-sweet chocolate chunks, 4 tsp chili powder, and 2 tbs of cumin. For those who like less sweet things I suggest dark chocolate instead of semi-sweet. For those who want more heat I suggest 1/2 to 1 tsp of cayenne pepper since you don't have my homegrown peppers. We like it served with rice and cornbread.",
+            "datePublished": "2023-12-04T20:37:11.366Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael PEARCE"
+            },
+            "reviewBody": "I have now made and modified this recipe four times, twice for friends once for family, and once for my lover and myself. We all prefer my Bison Molé Chile over the recipe, where I use fresh herbs in profusion and I dry pan roast the whole spices too. Using self-made chili powder, mix is better than old store bought. I also used organic , fair traded a shade grown chocolate 70% dark cacao, for extra popping molé !",
+            "datePublished": "2017-07-25T13:10:19.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dandylicious"
+            },
+            "reviewBody": "I hit it out of the ball park with this recipe! Followed it for the most part, but did make a few tweaks due to living in Austria. I used tomatoes w/chilies (added some roasted garlic), left out the onion (preference used 1 TBLS of onion powder instead), 2 cans kidney beans (couldn't find black beans) - didn't rinse because we like a little of the juice the beans are in, used Mexican chocolate(has a hint of cinnamon) and seasoned the meat w/a homemade hot taco seasoning. I heated the tomatoes &amp; chilies, chocolate and spices together before putting them in the pot (to ensure they were blended well) just to boiling then poured the mix over the meat and vegetables. I added a little extra chili powder, cumin and some chopped jalapenos for extra flavor. The end result was amazing! Served with warm tortillas and a choice of sour cream or a jalapeno cheese sauce as a topping (my husband had both). This is most definitely a great recipe and well worth fixing again!",
+            "datePublished": "2013-12-03T07:34:51.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol"
+            },
+            "reviewBody": "This was easy and tasty. I do NOT like really spicy food and this was perfect for me and my family. You can't taste the chocolate, but it gives the dish some depth. I added 2 gloves of chopped fresh garlic to the meat and onions and then 1 more in the slow cooker. I also added 1/2 tsp of cloves. Don't care for corn in my chili, so I left it out. Added an extra tsp of chili powder for a total of 1 TBS. Leftovers were really good. Will definetly make this again.",
+            "datePublished": "2009-09-24T18:37:06.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shimatsu"
+            },
+            "reviewBody": "I'd definitely make this one again, for sure. I made some small changes after reading the reviews, and added a good amount of extra chili powder, more cumin, and a diced poblano for some extra flavor; instead of water, I also used 1 cup of beef stock to avoid diluting it. We used dark chocolate instead of semi-sweet, and it really helped round out the flavor quite a bit. For the beef, we used some olive oil in our skillet, and added in fresh ground salt and pepper onto the beef itself as it browned, which helped make things tasty. I had an entire crock pot of the stuff, and it was a big hit (plus we had some leftovers after our party!), so I'm certainly happy.\n\nAs sides, we had an assortment: we had flour and corn tortillas, but we also fried some of the tortillas up and made a crispy version for people who wanted some. Kept some sour cream and cheese on hand for anyone who wanted to cut the heat, though even with the extra chili powder and poblano, this didn't really come out very spicy - a lot of our friends don't like too much heat, so we kept some extra hot sauce to the side in case people wanted more kick.\n\nAll in all, a good meal, although I didn't follow the exact recipe. I definitely would not use semisweet chocolate chips for this though...go dark chocolate, it will give a much richer flavor.",
+            "datePublished": "2018-01-07T16:13:04.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jon Brown"
+            },
+            "reviewBody": "This is actually a really good chili, we add a few more items and it provides a little more savor for people that don't like the sweetness of the chocolate and the corn, and spice to people looking for a kick. \n\nKeeping with the same ingredients as above, I recommend adding a pound of ground spicy sausage (to you and for families spice tolerance), 1 tablespoon of Chipotle hot sauce (any brand really will do, it's pretty much blended chilies in adobo sauce). \n\nThe sausage adds more of the savory flavor (and potentially spice), the chipotle sauce does the same thing. It gives it more flavor and a different character.",
+            "datePublished": "2014-09-13T23:53:33.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MMMICHELLE"
+            },
+            "reviewBody": "I substituted chorizo for the ground round, which is a MUST in my mind, for Mexican chili. Also, did not add any water...it was mild, which was good for my kids, but if you like it spicier I would recommend kicking up the chili powder called for. Also, serve with Cotija cheese, crumbled. Very, very tasty. Will def make again. Thanks!",
+            "datePublished": "2014-10-15T16:33:40.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LULU"
+            },
+            "reviewBody": "This was good. Added a little more spice, no water. But added frozen corn and frozen roasted poblano chili's. I think I might add 1/2 chili, deseeded next time, needs a little heat, or cayenne.",
+            "datePublished": "2019-04-12T01:01:34.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Boesie"
+            },
+            "reviewBody": "Very tasty. Added a couple tablespoons of tomato paste and used 2 tablespoons of chili powder. Also some zucchini and acorn squash. Delicious.",
+            "datePublished": "2017-11-10T23:23:18.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Flachsbart"
+            },
+            "reviewBody": "excellent whole family loves it. will definitely be making this again.",
+            "datePublished": "2020-04-10T22:58:54.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gjkbear"
+            },
+            "reviewBody": "We really liked this chili recipe, but it was a little too bland for us so I added more chili powder—about 2 tablespoons total.",
+            "datePublished": "2019-04-01T15:37:24.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gene Van Lingen"
+            },
+            "reviewBody": "So it was okay. I saw the recipe and went to the store to try it. Sorry to give a poor review. Just didn't have the flavor of chocolate and spice I was expecting. I later added more pepper and chocolate. I still couldn't get a good Mole type flavor. Nobody ate much of it and I could tell my family didn't like it but was being nice to me.",
+            "datePublished": "2019-01-23T23:12:20.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charlotte Gouvier"
+            },
+            "reviewBody": "I followed the recipe exactly and I must say that it does have potential. The chocolate definitely gave is a sweet, smooth flavor which I really liked, but over all it just didn't have enough seasoning or spice. If I were to make this again, I would follow some of the reviewers suggestions about adding extra seasoning and peppers or chilis.",
+            "datePublished": "2018-06-11T15:25:00.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Theodore Ripsnitch"
+            },
+            "reviewBody": "It was pretty well received at a family gathering, however, your promise failed; My 8 year old nephew did not ask for the recipe.",
+            "datePublished": "2017-11-13T13:29:00.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tanjajohanna"
+            },
+            "reviewBody": "Delicious mild chili for someone like me, who can't eat spicy food. Hint of chocolate is a nice surprise.",
+            "datePublished": "2017-08-27T16:02:43.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Iceman68"
+            },
+            "reviewBody": "Excellent with two minor changes. It wasn't thick enough, so I added a can of tomato paste. I'm not a big garlic fan, so I substituted a can of regular tomatoes for one of the garlic ones. Seasoning was perfect.",
+            "datePublished": "2016-12-04T21:10:51.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry Quast"
+            },
+            "reviewBody": "A bit bland and too watery.",
+            "datePublished": "2016-10-02T22:15:09.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EMiller"
+            },
+            "reviewBody": "This is a pretty mild chili. I enjoyed it but it isn't my favorite. I followed the recipe except I used dark chocolate morsels instead of semi-sweet. The sweet was still just barely noticeable, not the first flavor you tasted.",
+            "datePublished": "2016-01-05T14:51:12.330Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/207271/mexican-chocolate-chili/",
+          "name": "Mexican Chocolate Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

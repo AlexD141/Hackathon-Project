@@ -1,0 +1,468 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16129/honey-mustard-dressing-ii/",
+  "extracted_at": "2026-10-18T02:19:06.807336+00:00",
+  "recipes": [
+    {
+      "name": "Honey Mustard Dressing",
+      "ingredients_raw": [
+        "0.25 cup mayonnaise",
+        "1 tablespoon prepared mustard",
+        "1 tablespoon honey",
+        "0.5 tablespoon lemon juice"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Whisk mayonnaise, mustard, honey, and lemon juice together in a small bowl until blended."
+        },
+        {
+          "id": 3,
+          "text": "Store covered in the refrigerator until ready to use."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Honey Mustard Dressing",
+        "datePublished": "1999-11-14T22:58:51-05:00",
+        "dateModified": "2026-10-03T13:59:17-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mary Ann Benzon"
+          }
+        ],
+        "description": "This honey mustard dressing recipe is easy to make with mayonnaise, honey, lemon juice, and mustard for a deliciously creamy homemade salad dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/XQYrRNGt0RwEhbgFHYHfBU63VgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16129-honey-mustard-dressing-DDMFS-beauty-4x3-BG-1437-cf20861791ad45f19b874b079e4cd3cb.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/aJkK3fg8-ma1DlVvV.mp4",
+          "description": "AR0713",
+          "duration": "PT1M10S",
+          "name": "Honey Mustard Dressing II",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/aJkK3fg8/poster.jpg?width=1280",
+          "uploadDate": "2021-07-17T03:16:38-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Honey Mustard Dressing",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "1448"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "157 kcal",
+          "carbohydrateContent": "7 g",
+          "cholesterolContent": "7 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "0 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "163 mg",
+          "sugarContent": "6 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Condiment"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.25 cup mayonnaise",
+          "1 tablespoon prepared mustard",
+          "1 tablespoon honey",
+          "0.5 tablespoon lemon juice"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ijXo35vloGTbeVllnylUIgPizaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16129-honey-mustard-dressing-DDMFS-step-1-BG-1556-e52e17acad7d401d9ce66eaa92d2ba17.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sQNuXRBMjnNJCaSH6X1fzjKOkeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16129-honey-mustard-dressing-DDMFS-step-3-BG-1562-2514d38fcbf24977af9d342c15544951.jpg"
+              }
+            ],
+            "text": "Whisk mayonnaise, mustard, honey, and lemon juice together in a small bowl until blended."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/XQYrRNGt0RwEhbgFHYHfBU63VgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16129-honey-mustard-dressing-DDMFS-beauty-4x3-BG-1437-cf20861791ad45f19b874b079e4cd3cb.jpg"
+              }
+            ],
+            "text": "Store covered in the refrigerator until ready to use."
+          }
+        ],
+        "recipeYield": "3",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BPRWATSON"
+            },
+            "reviewBody": "i love honey mustard dressing but wanted a healthier version so i used plain fat free yogurt instead of mayo. Also it was a little sweet for me so i just added more mustard to taste and added a dash of pepper for some kick. It was great, Couldn't tell it wasn't made with mayo even DH liked it and he hates anything low-fat."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WhirledPeas"
+            },
+            "reviewBody": "This was very a very good (and simple!) dressing to make. The only thing I did differently was to use honey dijon stone ground mustard. I have also previously tried the dressing with the regualar mustard, but my family and I prefer the dijon. Thanks!",
+            "datePublished": "2002-09-05T01:53:04.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpryBacon6829"
+            },
+            "reviewBody": "I added 1/2 - 1 tbs balsamic vinegar for a little punch. It's now a family favorite.",
+            "datePublished": "2024-03-01T07:09:03.905Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChelleTackett"
+            },
+            "reviewBody": "Like other reviewers, I changed the ratio of Mayo to honey, and mustard. I used 1/4 cup mayo, 4 tbs honey, 4 tbs horseradish mustard (like a grainy mustard), and 2 tbs lemon. Holy Moses! Turns out just like a restaurant version! Yummo!",
+            "datePublished": "2017-10-09T18:47:06.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lemonsnax"
+            },
+            "reviewBody": "I quadrupled the recipe; added 2 tbsp of vinegar, 1 tbsp chopped dill, and 1/4 tsp of pepper and it made a wonderful pasta salad dressing!",
+            "datePublished": "2017-04-05T23:59:11.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jane"
+            },
+            "reviewBody": "Honey Mustard and Vidalia Onion are my two favorite dressings. For this Honey Mustard recipe, I tweaked it to suit my own tastes. 8 oz. Mustard to 16 oz. Lite Mayo, 3 Tbl Apple Cider Vinegar, 4 packs of no-calorie sweetener. Fewer calories than I would normally buy in the store, and the mustard flavor is more prominent.",
+            "datePublished": "2017-08-10T16:06:07.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nadia"
+            },
+            "reviewBody": "I thought it was good. I also added a sprinkling of salt, pepper and garlic powder based on a previous review. The garlic did it for me. Next time, I may use a tad less mayo because I could distinctly taste it. (I used Dukes, which is milder than Hellmans and not as sweet as Miracle Whip.) I probably could also decrease the honey a little, but the recipe as is was delicious. Make it, then tweek to your preference. 😁",
+            "datePublished": "2023-07-12T13:48:21.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "stephanie"
+            },
+            "reviewBody": "I've tried to find the right recipe for honey mustard dressing for years, but none were ever anything worth making, and it always seemed like something was missing but I couldn't put my finger on it--turns out it was lemon juice missing. I made two batches of this version today, one using spicy brown and the other dijon. They are both delicious!",
+            "datePublished": "2020-01-31T00:19:11.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa Anderson"
+            },
+            "reviewBody": "Perfect as written! For an Indian-style twist, add 1.5 tbsp cumin and 1 tbsp curry powder per cup of dressing.",
+            "datePublished": "2016-09-12T19:36:52.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "juicedharp"
+            },
+            "reviewBody": "This dressing is so delicious that during dinner I got up and made more. In fact, I ended up tripling the recipe and there were no leftovers. I recommend doubling the recipe if you're cooking for two. My friend was amazed. She say's she payed more than four dollars for a small bottle of honey mustard mayo and it wasn't nearly as good as this. \nI made it again to serve with fillet of sole. This time I added a tsp of curry powder. OMG!! It was sooooo good!",
+            "datePublished": "2018-08-31T02:25:54.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "Excellent! I followed the recommendation of others and used Dijon mustard. I only added a little black pepper. Had it over a salad, and it was delicious. I doubled the recipe so I'd have some for a few more salads, or even chicken nuggets. Homemade dressings are so much better and healthier than the store-bought one! Thanks for this easy and delicious recipe!",
+            "datePublished": "2017-04-24T21:51:39.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SweetBun5596"
+            },
+            "reviewBody": "I doubled this recipe and added 1/4 tsp garlic powder. It was delicious!",
+            "datePublished": "2026-06-19T16:32:22.051Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GentleTea1811"
+            },
+            "reviewBody": "It was a hit at dinner!",
+            "datePublished": "2026-05-16T13:14:57.036Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyFlan8644"
+            },
+            "reviewBody": "This is such a good dressing. And I love that I know exactly what’s in it. Too many gmos in our store bought foods now.",
+            "datePublished": "2026-04-11T13:00:21.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyFig9824"
+            },
+            "reviewBody": "Perfect honey mustard dressing as is. I added a little Dijon for some zest!",
+            "datePublished": "2026-01-04T23:39:04.325Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly"
+            },
+            "reviewBody": "Easy and delicious",
+            "datePublished": "2025-11-24T00:27:09.531Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kathy"
+            },
+            "reviewBody": "Liked it… tweaked it for Keto diet.",
+            "datePublished": "2025-05-24T18:46:09.331Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "martini"
+            },
+            "reviewBody": "Way too sweet. Had to modify the recipe considerably.",
+            "datePublished": "2025-05-03T21:22:58.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maggie"
+            },
+            "reviewBody": "It was so easy. Would be nice a little thicker. But it tasted great!",
+            "datePublished": "2025-04-03T21:06:46.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Conniegas"
+            },
+            "reviewBody": "This was really good! I did not have lemon juice so used vinegar! I cannot wait to make it again! I used it in a salad with some chicken nuggets!",
+            "datePublished": "2025-03-17T13:51:06.667Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16129/honey-mustard-dressing-ii/",
+          "name": "Honey Mustard Dressing",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/210/side-dish/sauces-and-condiments/salad-dressings/",
+                  "name": "Salad Dressing Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

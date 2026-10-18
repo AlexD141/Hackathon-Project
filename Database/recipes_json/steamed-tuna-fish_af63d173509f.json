@@ -1,0 +1,443 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21201/steamed-tuna-fish/",
+  "extracted_at": "2026-10-18T02:48:28.059783+00:00",
+  "recipes": [
+    {
+      "name": "Steamed Tuna Fish",
+      "ingredients_raw": [
+        "2 pounds fresh tuna steaks",
+        "0.5 cup soy sauce",
+        "0.5 cup sherry",
+        "0.5 cup vegetable oil",
+        "1 bunch green onions, finely chopped",
+        "0.5 cup minced fresh ginger root",
+        "3 cloves garlic, minced",
+        "1 teaspoon salt",
+        "1 teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place tuna steaks in a steamer over 1 inch of boiling water, and cover. Cook 6 to 8 minutes, or until fish flakes easily with a fork."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, in a medium saucepan, combine soy sauce, sherry, vegetable oil, green onions, ginger, garlic, salt, and black pepper. Bring to a boil."
+        },
+        {
+          "id": 3,
+          "text": "Remove tuna steaks from steamer, and place in a serving dish. Pour sauce over tuna steaks, and serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Steamed Tuna Fish",
+        "datePublished": "2000-05-22T14:48:27-04:00",
+        "dateModified": "2022-08-08T11:39:55-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Janice Laughton"
+          }
+        ],
+        "description": "Tender steamed tuna with a ginger, sherry, garlic and soy sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Jna8pjUWm3ILmvhQU-QHSe38rpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2077665-1f108907ce9245ff8ec15dc04cb1760c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Steamed Tuna Fish",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "57"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "282 kcal",
+          "carbohydrateContent": "7 g",
+          "cholesterolContent": "51 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "1330 mg",
+          "sugarContent": "1 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "2 pounds fresh tuna steaks",
+          "0.5 cup soy sauce",
+          "0.5 cup sherry",
+          "0.5 cup vegetable oil",
+          "1 bunch green onions, finely chopped",
+          "0.5 cup minced fresh ginger root",
+          "3 cloves garlic, minced",
+          "1 teaspoon salt",
+          "1 teaspoon ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place tuna steaks in a steamer over 1 inch of boiling water, and cover. Cook 6 to 8 minutes, or until fish flakes easily with a fork."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, in a medium saucepan, combine soy sauce, sherry, vegetable oil, green onions, ginger, garlic, salt, and black pepper. Bring to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove tuna steaks from steamer, and place in a serving dish. Pour sauce over tuna steaks, and serve immediately."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I served it with Sushi Rice (Japanese Rice) and it was very good.\r\nI found that 1 tsp salt is too much because there is a lot of salt in Soy sauce already.\r\nI think it is better not to add salt at all."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marsu"
+            },
+            "reviewBody": "I added a bit of lime juice. We cooked it parchment paper. In the oven at 400 degrees F. It was delicious and moist",
+            "datePublished": "2021-07-06T22:13:14.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yummy Cookie"
+            },
+            "reviewBody": "I only used a pinch of salt, but it was still way too salty. I cut back on the ginger to 2T, but doubled it. I love ginger. I also used dry sherry, and I am thinking maybe that is why some love it and others don't. There is creme sherry, dry, and cooking (that has lots of added salt). I fixed the way too saltiness by adding another 1/2 cup of sherry, and cooking for a few minutes, then added a bit of sugar. Much better.",
+            "datePublished": "2019-10-22T21:50:29.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOMSHAP"
+            },
+            "reviewBody": "I had some frozen tuna steaks given to us by a local fisherman. I took them out today, and had NO idea how to cook them. I found this recipe, but couldn't go to the store to get the missing ingredients so.... I \"made do\". No sherry. No problem; I added a tablespoon of brown sugar to merlot. No green onion, so I substituted a yellow onion, finely chopped. I used powdered ginger. I did not add additional salt, per other reviews. Another reviewer mentioned wrapping everything in foil and baking for 30 minutes. BINGO - just what I was looking for. I put the very thick steaks into my large stainless steel frying pan, poured the sauce over, and baked at 350 for about 40 minutes. OH MY GOSH. It was some of the best fish any of us have ever had. I'm keeping the weirdly altered recipe because hubby says \"Don't change a THING.\"",
+            "datePublished": "2008-12-23T19:30:09.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janice"
+            },
+            "reviewBody": "I have only seen tuna steaks once, so I use this recipe on seared salmon (filets on medium high heat for 4-6 minutes on each side in canola oil). It is perfect. I use 3 tbsp. of ginger and any old red wine that happens to be open, but otherwise follow it perfectly. My family loves it! So easy and so quick.",
+            "datePublished": "2014-07-07T22:00:18.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "4beauties"
+            },
+            "reviewBody": "Very good. I didn't have ginger root so I substituted 1 tsp ginger powder. I also omitted the salt per the other reviews. To steam it I lined a 13x9 glass pan with foil. I laid the fish down and poured the marinade on top. I folded all the loose edges in and baked it at 350 for 30 minutes. Thanks for a great recipe!",
+            "datePublished": "2008-08-10T17:28:29.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eddie Francisco"
+            },
+            "reviewBody": "Way too salty. But it has potential. Used it on Blue Marlin. I will try again. Will eliminate the added salt and thin the soy. Then will return to edit this review.",
+            "datePublished": "2023-05-13T01:18:22.656Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason Chilton"
+            },
+            "reviewBody": "I am a seafood lover to the fullest and let me say that this recipe was AWESOME! Only thing is that I wasn't able to find any fresh ginger root, so I used the equivalent in ground ginger; I only had enough for 2 servings, so it came out to 1-1/2 tbsp. for the 2 tbsp. of fresh ginger. Even then, I may tone down the ginger a little bit to see how it tastes as I could definitely sense the zest that it, along with the soy sauce provided, which was really good and really easy to put together. I think it would make a great marinade as well and I might make the full amount and put my next batch of tuna steaks in there.\n\nI served my tuna steak with a side of salad and steamed spinach, and it was easily the best meal that I have made in a long time. Could've left the tuna in the steamer for a little longer, but it still came off light and delicate on my fork...and that sauce! If I could give just the sauce five stars, I'd definitely do it! I really hope that I can get the chance to do this again as it was simply AMAZING!!!",
+            "datePublished": "2015-02-19T02:58:44.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diana"
+            },
+            "reviewBody": "Instead of steaming, I pan-seared the tuna, and also omitted the salt for the sauce. I think I used less ginger than the recipe called for, but I didn't measure so I can't be sure. It looked more like a topping than a sauce, but was surprisingly delicious! My husband loved it and called it \"num-ilicious\"! The liquid part of the sauce was also great with steamed asparagus.",
+            "datePublished": "2007-03-10T19:29:32.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tacorhythm"
+            },
+            "reviewBody": "This recipe is good, and very easy, and I love that it's so good for ou too! However, I suggest that you don't use all the ginger that is recomended. I used a little Merlot instead of Sherry, and it still wasn't very sweet at all. Next time I might try adding some honey, or maybe peaches.",
+            "datePublished": "2009-09-11T06:07:42.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FERNIF"
+            },
+            "reviewBody": "I knew I would love this recipe, but my husband has never been a big fan of fish. He really enjoyed it! I prepared the sauce exactly as the recipe stated and for the tuna, I just marinated it for a half hour with lime juice, soy and ginger before steaming it. This recipe is a keeper. Thank you!",
+            "datePublished": "2006-10-10T19:46:42.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bert"
+            },
+            "reviewBody": "Added Stella Rosa in lieu of sherry",
+            "datePublished": "2019-10-20T21:50:15.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BARNKITTY"
+            },
+            "reviewBody": "Our first time making tuna steaks and tasted great (left out the 1t salt).",
+            "datePublished": "2016-12-28T00:02:45.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amaher"
+            },
+            "reviewBody": "Agree with other people about not using too much ginger. Followed the rest of the recipe the exact way and it was absolutely delicious.",
+            "datePublished": "2009-09-19T08:06:07.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "luvndamommiliife"
+            },
+            "reviewBody": "I've just come across this recipe and will definitely be trying it for dinner 2nite,, mainly because as a fellow Micronesian from the island of Pohnpei,, it is such a pleasant surprise to come across a Kosraean cook on here...Kudos Janice and Happy Cooking:D:D",
+            "datePublished": "2009-09-09T20:55:34.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "droach3"
+            },
+            "reviewBody": "Absolutely Amazing!! Ended up having to use ginger powder instead of fresh ginger but it was still wonderful. Will make again and again.",
+            "datePublished": "2009-08-20T19:37:08.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "iamacat7"
+            },
+            "reviewBody": "I used tilapia instead of tuna and it turned out great. Based on other reviewers, I did not add any salt on top of the soy sauce. I also put mushrooms with the fish.",
+            "datePublished": "2008-04-15T16:22:24.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Metcalf"
+            },
+            "reviewBody": "The sauce for this tuna is delicious. I also cut the ginger in half and left out the extra salt. With these modifications, the sauce turned out very well. My husband and neighbors loved it!",
+            "datePublished": "2007-09-09T19:32:50.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kcanretsap"
+            },
+            "reviewBody": "easy and great",
+            "datePublished": "2007-08-09T16:42:13.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dyj"
+            },
+            "reviewBody": "Excellent. Would work with most fish...sea bass, salmon, flounder.",
+            "datePublished": "2006-12-27T13:55:30.810Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21201/steamed-tuna-fish/",
+          "name": "Steamed Tuna Fish",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/93/seafood/",
+                  "name": "Seafood"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+                  "name": "Fish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/415/seafood/fish/tuna/",
+                  "name": "Tuna"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,437 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/140831/savory-green-beans/",
+  "extracted_at": "2026-10-18T01:56:51.398377+00:00",
+  "recipes": [
+    {
+      "name": "Savory Green Beans",
+      "ingredients_raw": [
+        "1.5 pounds fresh green beans, rinsed and trimmed",
+        "3 ounces coarsely chopped pancetta",
+        "1 shallot, thinly sliced",
+        "salt and black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Add the green beans and boil 3 to 4 minutes until just tender. Drain beans and immediately plunge into ice water. Allow to sit in ice water until cold, then drain well, and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Cook pancetta in a large skillet over medium-high heat until crispy, then set aside. Reduce heat to medium, stir shallots into the pancetta fat, and cook gently until the shallots have turned dark golden brown, about 10 minutes. Place pancetta and green beans in skillet; toss and cook until warmed through, about 2 minutes. Season to taste with salt and pepper before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Savory Green Beans",
+        "datePublished": "2007-04-22T13:01:52-04:00",
+        "dateModified": "2025-01-02T13:15:56-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Eve"
+          }
+        ],
+        "description": "Fresh green beans with sweet caramelized shallots and savory Italian pancetta take vegetables to a whole new level.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/C5gB6GtJsi7gE4_JodQRHg7n23M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805933-455dcee3b492426eb537db0cfabc250c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Savory Green Beans",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "56"
+        },
+        "cookTime": "PT20M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "105 kcal",
+          "carbohydrateContent": "10 g",
+          "cholesterolContent": "10 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "124 mg",
+          "sugarContent": "2 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired"
+        ],
+        "recipeIngredient": [
+          "1.5 pounds fresh green beans, rinsed and trimmed",
+          "3 ounces coarsely chopped pancetta",
+          "1 shallot, thinly sliced",
+          "salt and black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add the green beans and boil 3 to 4 minutes until just tender. Drain beans and immediately plunge into ice water. Allow to sit in ice water until cold, then drain well, and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook pancetta in a large skillet over medium-high heat until crispy, then set aside. Reduce heat to medium, stir shallots into the pancetta fat, and cook gently until the shallots have turned dark golden brown, about 10 minutes. Place pancetta and green beans in skillet; toss and cook until warmed through, about 2 minutes. Season to taste with salt and pepper before serving."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "As an Italian quite familiar with pancetta, I have to say I much prefer bacon! So it was bacon I used in this recipe rather than pancetta. Low and slow heat caramelizes the shallots and that mixture onto the beans (I used the more delicate haricots verts) made for a richly flavored, beautifully elegant side dish. That's saying a lot for the humble green bean! The caramelized shallots and the bacon stood on their own and needed no garlic or other seasonings beyond the salt and pepper. Nice."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "Yum! I rarely boil veggies anymore. Since having kids, I have found that using a saute pan or roasting them results in more vegetables consumed. Here is how I prepared these, using all of the ingredients ... Cooked 3-4 oz. bacon in a saute pan, set aside; sauteed shallots in bacon fat until fragrant and brown; added fresh green beans, salt and pepper, sauteed for roughly 10 minutes; my family likes them a little on the brown side. Delicious! Thank you!",
+            "datePublished": "2022-12-27T02:06:18.935Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mom4life"
+            },
+            "reviewBody": "Used microwave-in-the-bag beans, followed cooling directions in this recipe. Used bacon instead of pancetta and used a regular onion and a minced clove of garlic (substitute for shallot). Once browned, I added beans, 1/2 tsp kosher salt, and fresh cracked black pepper. They were delicious and the perfect side to roasted tenderloin.",
+            "datePublished": "2016-01-03T10:50:04.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Reilly Eaby"
+            },
+            "reviewBody": "I used bacon instead of pancetta. I cooked the 4 slices, removed them and then chopped them. Then I added an 8 oz. container of sliced mushrooms and cooked them the rendered bacon fat for about 10 min until the juices were released. At the end, I added a teaspoon of minced garlic and sauteed for another minute or two. I added the beans back in (used haricot verts), stirred in the salt and pepper. Best green beans ever! Next time I will add a dash of soy sauce, as that's how I traditionally make this dish, but it was delicious without it!",
+            "datePublished": "2014-10-30T16:19:41.303Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "deddmen"
+            },
+            "reviewBody": "Very similar to my green bean recipe; I don't go to the trouble of boiling fresh beans, but I use canned whole green beans (drained). I cut up 3 or 4 slices of bacon, dice 1/2 of a sweet onion (Vidalea if available). Sauté them together with a little minced garlic and when the onion is transparent, stir in the beans. Then, I add 2 or 3 tbsp of dark brown sugar and just enough Worcestershire sauce to make a syrup. Stir this in and heat on low until warm. My daughter always asks me to make extra so she can take some home.",
+            "datePublished": "2016-02-29T04:48:24.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Storemski"
+            },
+            "reviewBody": "I made this recipe using bacon instead of pancetta. I usually stick the package of bacon in the freezer for about 20 min, then it's most easier to chop into thin pieces. I sautéed the bacon, then removed from the pan. I added the shallots and sautéed, then added some fresh garlic. I added all the green beans to the pan and sautéed until cooked but slightly crisp. Added the bacon back to the pan, along with some salt and fresh pepper. Delish!",
+            "datePublished": "2018-09-03T22:40:18.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nan"
+            },
+            "reviewBody": "This is delicious. I also make this with brussels sprouts. The only changes I make is I add a touch of olive oil when sauteeing the pancetta and at the end I put in a 1/2 cup of low-salt chicken broth and let it reduce until it just coats the vegetables. Makes a nice sauce.",
+            "datePublished": "2011-12-30T04:36:26.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy"
+            },
+            "reviewBody": "I made this recipe via the magazine, in which AR had \"pre-prep\" tips, which I followed, and it made serving the thanksgiving dinner go together in a breeze.. The tips from the magazine said you could pre-cook the green beans, according to directions, put in fridge, same for pre-cooking the pancetta &amp; shallots. Made putting Thanksgiving dinner a total breeze. Everyone raved about the beans... Shared the recipe with my sister, and she's going to serve it with her Prime Rib Dinner for Christmas.. Ditto for me.. Thanks AR!!!",
+            "datePublished": "2015-12-09T17:44:48.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy Norby Edison"
+            },
+            "reviewBody": "I decided to try this recipe because the addition of pancetta. I usually use bacon. I caramelized the shallots with 2 cloves of minced fresh garlic, which added sweetness and rich flavor. I did not have fresh green beans and used frozen whole green beans instead and skipped plunging in cold water. Turned out just fine. I added a few extra seasonings that made a positive addition; a dash of Herbs de Provence small amount of salt and extra pepper.",
+            "datePublished": "2017-01-10T00:04:54.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PattyQ"
+            },
+            "reviewBody": "Great recipe! I found italian green beans (the flat ones) and I did not have pancetta so I used bacon (microwavable type - no fat residue). I fried the shallot in 2 teaspoons of olive oil and added at the end one garlic clove sliced. One think you must remember when using bacon- you need to serve the beens right away or else the bacon will not taste crispy. Great change for my veggie side dish! thank you",
+            "datePublished": "2008-10-23T16:47:10.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy S"
+            },
+            "reviewBody": "This was a simple, delicious dish. I couldn't find pancetta or shallots in my tiny town, so I used a nice peppered bacon and sweet onion. Another recipe had sliced almonds, so I threw some in just for fun. I added them to the onions for about the last minute of cooking and then used a slotted spoon to put them all in with the crumbled bacon and green beans. Yummy! It was a classic but elegant addition to a birthday dinner party.",
+            "datePublished": "2015-10-18T05:42:06.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robin Gallese Shannon"
+            },
+            "reviewBody": "Love this! The pancetta is perfect and doesn't overpower the flavor of the beans. I used 2 shallots and 4-5 oz pancetta. I'll take pancetta over bacon any day!",
+            "datePublished": "2021-05-29T19:29:24.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Revger"
+            },
+            "reviewBody": "The shallot got a little lost...maybe two of them next time.",
+            "datePublished": "2020-01-17T03:46:53.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dallas Richards"
+            },
+            "reviewBody": "A very savory side dish. I had to add some chicken broth and cover the skillet for the final stage, cooking longer to finish the beans. My wife doesn't like crunchy beans. Flavor was very good.",
+            "datePublished": "2019-08-06T14:29:42.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angelica Cano"
+            },
+            "reviewBody": "Delicious! Was a hit &amp; I will make it again!",
+            "datePublished": "2019-07-15T03:50:44.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lucinda Guppy"
+            },
+            "reviewBody": "This was delicious as a side with Fettuccini Alfredo! The flavors and textures of the two dishes were very complimentary to one another!",
+            "datePublished": "2018-02-22T02:53:15.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ROVINROSIE"
+            },
+            "reviewBody": "I loved the pancetta, but because it is quite salty I eliminated all the extra salt. I also added a garlic clove to the shallots.",
+            "datePublished": "2017-12-07T17:48:13.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gladys"
+            },
+            "reviewBody": "I made this dish with beans picked fresh from my garden. I brought it to a potluck where it got many thumbs up.\nI did use bacon instead of ham and it was perfect.\nThis is my new favorite green bean recipe!",
+            "datePublished": "2017-08-25T18:57:58.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beverly Yates"
+            },
+            "reviewBody": "Made it by the recipe. I was very pleased with the results. Will make again soon.",
+            "datePublished": "2017-02-16T03:35:24.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kris"
+            },
+            "reviewBody": "I absolutely love this recipe so much so I'm growing beans and shallots in my garden this year. I make it every few weeks.",
+            "datePublished": "2016-05-08T23:38:36.380Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/140831/savory-green-beans/",
+          "name": "Savory Green Beans",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/925/side-dish/vegetables/green-beans/",
+                  "name": "Green Beans"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

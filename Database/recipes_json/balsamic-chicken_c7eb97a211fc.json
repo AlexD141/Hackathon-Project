@@ -1,0 +1,448 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/103144/balsamic-chicken/",
+  "extracted_at": "2026-10-18T01:41:49.765679+00:00",
+  "recipes": [
+    {
+      "name": "Balsamic Chicken",
+      "ingredients_raw": [
+        "0.5 cup chicken broth",
+        "0.33333334326744 cup balsamic vinegar",
+        "2 tablespoons white sugar",
+        "1 teaspoon dried Italian herb seasoning",
+        "1 clove garlic, minced",
+        "4 skinless, boneless chicken breast halves",
+        "1 tablespoon olive oil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Whisk chicken broth, balsamic vinegar, sugar, Italian seasoning, and garlic together in a bowl. Place chicken breasts in marinade; let marinate for 10 minutes on each side."
+        },
+        {
+          "id": 3,
+          "text": "Heat olive oil in a large skillet over medium-high heat. Remove chicken from marinade; reserve marinade. Place chicken in the hot skillet and cook until browned and no longer pink inside, about 7 minutes per side."
+        },
+        {
+          "id": 4,
+          "text": "Pour marinade into the skillet. Cook until sauce thickens slightly, turning chicken breasts over once or twice, about 5 minutes. An instant-read thermometer inserted into the center of a chicken breast should read at least 165 degrees F (74 degrees C)."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Balsamic Chicken",
+        "datePublished": "2020-06-18T23:13:27-04:00",
+        "dateModified": "2025-12-15T04:55:14-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "SHERRYLYNN2"
+          }
+        ],
+        "description": "This balsamic chicken recipe uses a sweet, tangy balsamic vinegar marinade that doubles as sauce to give pan-fried chicken breasts flavor and color.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/kvrZS0JW0OjbPEHaVDB8tmuokDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103144balsamic-chickenlutzflcat4x3-cdadd7e7c5ea4bd4ab29b3116263c141.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Balsamic Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "620"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "194 kcal",
+          "carbohydrateContent": "10 g",
+          "cholesterolContent": "66 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "79 mg",
+          "sugarContent": "9 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup chicken broth",
+          "0.33333334326744 cup balsamic vinegar",
+          "2 tablespoons white sugar",
+          "1 teaspoon dried Italian herb seasoning",
+          "1 clove garlic, minced",
+          "4 skinless, boneless chicken breast halves",
+          "1 tablespoon olive oil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk chicken broth, balsamic vinegar, sugar, Italian seasoning, and garlic together in a bowl. Place chicken breasts in marinade; let marinate for 10 minutes on each side."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large skillet over medium-high heat. Remove chicken from marinade; reserve marinade. Place chicken in the hot skillet and cook until browned and no longer pink inside, about 7 minutes per side."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour marinade into the skillet. Cook until sauce thickens slightly, turning chicken breasts over once or twice, about 5 minutes. An instant-read thermometer inserted into the center of a chicken breast should read at least 165 degrees F (74 degrees C)."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peachy76"
+            },
+            "reviewBody": "This is simply divine !!! No worries about the marinade, it's fine as long as it's boiled. There is marinade left on the meat and we eat it because it has been heated up enough to kill germs. Anyhow, love this gourmet recipe ! Thank you so much !!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "thatpoliscinerd"
+            },
+            "reviewBody": "If you're considering this recipe, the answer is YES!!! Although I'm big on changing up recipes, this one is perfect -- only thing I did different was marinating the chicken breasts for around 3 hours prior to cooking. There were some reviewers talking about how the marinade/sauce was too bitter and vinegary. If you think this, you are using the WRONG vinegar! Good balsamic is not overly vinegary. Yes, it's more expensive than the alternative, but it's completely worth it for recipes like this. I doubled the sauce/marinade and reduced it more after the chicken was done cooking and spooned some of it over the chicken. My friends loved the sauce so much that they spooned some of the extra over their vegetables! Everyone raved about this dish and one friend even begged me to give her cooking lessons! Delicious, impressive, and simple. Who could ask for more??",
+            "datePublished": "2011-06-30T20:19:41.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda Dean"
+            },
+            "reviewBody": "Love this! I added a pinch of salt, cooked chicken in a cast iron skillet, and reduced marinate separately, then poured over the chicken. Also, I cut sugar to 1 tablespoon because I don't use sugar when cooking - I think I might try honey next time. This recipe was delicious!",
+            "datePublished": "2023-08-18T19:49:32.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patty Boyd"
+            },
+            "reviewBody": "I liked this recipe but found the sauce to be too runny so I mixed a tablespoon of flour with a tablespoon of butter and then added it to the sauce and it thickened it up nicely. Yummy!",
+            "datePublished": "2011-10-17T11:36:28.987Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CookingInTheGump"
+            },
+            "reviewBody": "Made for the first time tonight and we loved it (teens included). Like many others, I doubled the marinade. I cut boneless chicken breasts in half to help the marinade along and marinated for 3 hours. Only other change I made was to add unsalted butter to the chicken during the pan-sautée (no oil or fat in the marinade) to keep chicken from drying out and it turned out beautifully. I agree with other posters who recommend the use of a high quality balsamic vinegar. I used balsamic vinegar from Italy (a friend brought it back for me and swore it was the best to be found anywhere - small bottle sealed with a cork and then a hard wax dropped all around the cork to seal it in but tiny paper label was completely in Italian, which I don't speak, so I can offer absolutely no help identifying the brand), I took the time to reduce the marinade and I thickened it using a bit of cornstarch as it was boiling. I think reducing the sauce to distill the vinegar is essential to this recipe. It was AMAZING. I served it with mashed potatoes, southern-style green beans, and cheesy corn muffins. This sauce would be good on most anything - pork, steak, shrimp (I put it on everything tonight but the muffins). Recipe is definitely a keeper for me. Simple, light, quick to put together, and I had everything on hand. Thanks so much for this restaurant-quality recipe, SherryLynn2!",
+            "datePublished": "2015-04-05T19:04:44.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TacticalNikita"
+            },
+            "reviewBody": "Marinade/Sauce very yummy. I did the marinade for about an hour and a half but I would either marinade overnight or poke some holes in a thick chicken breast. Or use thin cutlets. I will be using this marinade/sauce on some thin cut pork chops tonight. I'm also thinking that when I grill up some steaks (if I ever get any propane) I'm going to try the sauce reduction on top. I did use a very good aged balsamic so that helps. I'm going to double the marinade/sauce as it is really really good on some steamed broccoli as well. I'm very happy I tried this recipe. I really wasn't up to making dinner last night but found this recipe and didn't think it was too labor intensive for a horrible cook such as myself. I've got to say the sauce is freaking awesome and would work on a wide variety of meats and veggies.",
+            "datePublished": "2014-03-17T19:24:59.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Inger Weibust"
+            },
+            "reviewBody": "low sodium (if made with salt free Italian seasoning) and my kids happily ate it. quick too. I cut the chicken breast into 1/2\" slices so they would soak up more marinade and cook faster.",
+            "datePublished": "2015-06-23T22:22:46.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina Yee"
+            },
+            "reviewBody": "Great recipe! The marinade is enough for 2 more chicken breasts. The sauce takes a while to thicken, so it's best to remove the chicken breasts from the pan and cook the marinade on high heat for about 10 minutes. Once the marinade cooks down, add the chicken breasts back to the pan for a couple minutes.",
+            "datePublished": "2020-06-01T04:42:55.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MamaJen"
+            },
+            "reviewBody": "This was easy to make and absolutely delicious! I used caramelized onion avocado oil, bourbon balsamic vinegar, and salt-free Sunny Herb Blend instead of the Italian seasoning (all three from Red Stick Spice Company in Baton Rouge) and the results were fabulous!",
+            "datePublished": "2020-09-16T16:53:10.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Foody"
+            },
+            "reviewBody": "I had a whole chicken, so I used the marinade on the split chicken, pan seared it on both sides 5 minutes each. Then I baked the chicken in the oven at 350 degrees F for 30 minutes. I reduced the balsamic marinade (boiled it down until concentrated and a bit thickened) , baste it on the chicken and baked it another 10 minutes or until juices run clear from the leg joints. Cut up tye chicken into pieces, sprinkled some salt (tasted a little weak without it) and served this with fresh raspberries. My teens really enjoyed this!",
+            "datePublished": "2017-05-05T03:02:59.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CINLEO"
+            },
+            "reviewBody": "This recipe was exceptional if you like the taste of balsamic vinegar. If you don't like it, I wouldn't bother to make it. I added a extra clove of garlic,1 tsp. of salt and half of a small onion finely minced to the marinade. I also pounded out the chicken breast and marinated it for @3 hours. I agree with the other reviewers about the quality of the balsamic vinegar. The combination of balsamic vinegar, garlic and Italian seasoning couldn't get any better. I made it for our daughter who came home for the week-end from college and she already requested it the next time she comes home.",
+            "datePublished": "2011-10-30T13:20:13.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike Gonzales"
+            },
+            "reviewBody": "Very tasty recipe. Swapped honey for the sugar and used unsalted chicken stock. Marinated the chicken for about 3 hours. Will definitely make this again!",
+            "datePublished": "2026-08-25T02:01:46.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rosemary"
+            },
+            "reviewBody": "We've had this twice in the last two weeks!!! The chicken breasts were moist and flavorful. And it was so easy to prepare. A keeper for sure!",
+            "datePublished": "2026-04-21T20:12:31.566Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sheliz"
+            },
+            "reviewBody": "It seemed very bland",
+            "datePublished": "2025-12-09T21:43:05.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chefddl"
+            },
+            "reviewBody": "I haven't made this yet but concerned about using the marinade the raw chicken was in…I would probably double the amount and reserve half for cooking and discard what the chicken was in.",
+            "datePublished": "2025-09-23T14:38:26.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deborah"
+            },
+            "reviewBody": "It was good my family liked it",
+            "datePublished": "2025-09-13T00:46:37.341Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Smith"
+            },
+            "reviewBody": "good flavor but chicken was dry, I will try again",
+            "datePublished": "2025-05-04T02:18:43.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alexa"
+            },
+            "reviewBody": "I'll add more honey.",
+            "datePublished": "2025-04-07T01:12:04.456Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "Easy and delicious! I marinated the chicken for an hour but will marinate longer next time, hoping for more flavor.",
+            "datePublished": "2025-03-18T00:37:52.174Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susanne"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-18T15:34:35.514Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/103144/balsamic-chicken/",
+          "name": "Balsamic Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1796/world-cuisine/european/italian/main-dishes/chicken/",
+                  "name": "Chicken"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

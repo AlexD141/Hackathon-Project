@@ -1,0 +1,481 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/10177/blonde-brownies-i/",
+  "extracted_at": "2026-10-18T01:41:04.916974+00:00",
+  "recipes": [
+    {
+      "name": "Blonde Brownies",
+      "ingredients_raw": [
+        "1 cup sifted all-purpose flour",
+        "0.5 teaspoon baking powder",
+        "0.5 teaspoon salt",
+        "0.125 teaspoon baking soda",
+        "0.5 cup chopped walnuts",
+        "1 cup packed brown sugar",
+        "0.33333334326744 cup butter, melted",
+        "1 large egg, beaten",
+        "1 tablespoon vanilla extract",
+        "0.66666668653488 cup semisweet chocolate chips"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x9-inch baking pan."
+        },
+        {
+          "id": 2,
+          "text": "Sift flour, baking powder, salt, and baking soda into a medium bowl. Stir in chopped nuts; set aside."
+        },
+        {
+          "id": 3,
+          "text": "Mix brown sugar and melted butter in a large bowl until combined; cool slightly."
+        },
+        {
+          "id": 4,
+          "text": "Stir beaten egg and vanilla into brown sugar mixture. Add flour mixture, a little at a time, mixing just until combined. Spread batter into the prepared baking pan. Sprinkle chocolate chips over the top."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes. Cool completely, then cut into 12 squares."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Blonde Brownies",
+        "datePublished": "1997-11-26T20:33:02-05:00",
+        "dateModified": "2026-10-05T13:02:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sue Bush"
+          }
+        ],
+        "description": "These blonde brownies are simple to make with basic pantry staples, chopped nuts, and semisweet chocolate chips for a decadent, chewy, buttery treat.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QRncSc2swA5P3ZGXSSdZfzIV3KU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10177blonde-brownies-iFranceC4x3-0a264fcf49b541a8ad387c3209b33a7c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/p8Nyh7w1-ma1DlVvV.mp4",
+          "description": "Indulge in the rich, chewy goodness of blonde brownies with this Allrecipes member-submitted recipe. In this video, Sue Bush shares her secrets to making these marvelous, absolutely fantastic treats. Follow along as she guides you through the step-by-step process. Preheat your oven to 350 degrees and sift your dry ingredients, which include all-purpose flour, baking soda, baking powder, and salt. Blend in some chopped walnuts for extra flavor. Melt butter, add brown sugar, and mix well, then incorporate an egg and vanilla extract. Gradually add the dry mixture, and once the batter is smooth, spread it in a pan and top with chocolate chips. Bake for 20-25 minutes. Lisa raves about these blonde brownies – you will too! Enjoy this delightful dessert recipe from Allrecipes.",
+          "duration": "PT3M27S",
+          "name": "How to Make Blonde Brownies",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/p8Nyh7w1/thumbnails/4CBfFYiD.jpg?width=1280",
+          "uploadDate": "2021-07-16T20:12:53-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Blonde Brownies",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "1951"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "477 kcal",
+          "carbohydrateContent": "65 g",
+          "cholesterolContent": "58 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "358 mg",
+          "sugarContent": "46 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Lunch",
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup sifted all-purpose flour",
+          "0.5 teaspoon baking powder",
+          "0.5 teaspoon salt",
+          "0.125 teaspoon baking soda",
+          "0.5 cup chopped walnuts",
+          "1 cup packed brown sugar",
+          "0.33333334326744 cup butter, melted",
+          "1 large egg, beaten",
+          "1 tablespoon vanilla extract",
+          "0.66666668653488 cup semisweet chocolate chips"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x9-inch baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Sift flour, baking powder, salt, and baking soda into a medium bowl. Stir in chopped nuts; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix brown sugar and melted butter in a large bowl until combined; cool slightly."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir beaten egg and vanilla into brown sugar mixture. Add flour mixture, a little at a time, mixing just until combined. Spread batter into the prepared baking pan. Sprinkle chocolate chips over the top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/QRncSc2swA5P3ZGXSSdZfzIV3KU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10177blonde-brownies-iFranceC4x3-0a264fcf49b541a8ad387c3209b33a7c.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes. Cool completely, then cut into 12 squares."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "12 brownies"
+        ],
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef Joy"
+            },
+            "reviewBody": "HELPFUL TIPS NOT MENTIONED: I've been on a brownie rampage for the past month,and have made 10 recipes! THIS is the only one that consistency comes out the same!!!! What's best about it is, ...there aren't 100 reviews changing how to do it b/c it's good as is! What's not mentioned is, the exact same recipe (taste, chewy, big) is on here, but in cookie form!!! How wonderful is that esp. if you love this recipe like my family and husbands soldiers we send this to do?! You can find it under \"Best Big, Fat, Chewy Chocolate Chip Cookie\" ...the title is exactly how they always turn out. I love this in brownie AND cookie form, so try both!!! Also, I prefer the chocolate chips to be mixed IN instead of on top, but it's all about preference! It would be overkill to add more than recommended though. When I double the recipe, I still only put a heaping 2/3 C of cc, and it's MORE than enough. TWICE I have won best chocolate chip cookie on our military base due to this recipe."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lesa in IL"
+            },
+            "reviewBody": "Marvelous, absolutely fantastic! I doubled the recipe (the only thing I changed) and used a 13x9 pan allowing a bit longer cooking time. Others have said these are \"too sweet\". Most blonde brownies I tried were disappointing as they were not sweet enough. My preferences in dessert run on the \"rich\" side\". If you like rich desserts as I do, make as is for an 8x8 pan or double the recipe for a 13x9. Thank you for sharing this delicious recipe!",
+            "datePublished": "2006-01-29T16:06:40.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "atwingnuts"
+            },
+            "reviewBody": "I've made these Blondies twice before &amp; found them tasty but difficult to remove from the pan. This time I doubled the recipe &amp; baked in two separate 8\"×8\" pans. I sprayed each pan with no stick butter spray &amp; then lined them with wax paper leaving enough hanging over on each side to be able to lift them out. I then sprayed the wax paper as well. ( first spraying the pan helps keep the wax paper in place when pressing the paper into the pan👍 ) After baking I let both pans cool on a rack till just warm to the touch. It was easy to lift the Blondies out of the pans by holding the wax paper. Cutting into squares was easier out of the pans &amp; each piece just lifted readily. Preference wise...I use half white chocolate chips &amp; half semi sweet dark chocolate chips &amp; scatter them on top along with chopped pecans, not walnuts.",
+            "datePublished": "2024-11-08T02:26:35.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mary t"
+            },
+            "reviewBody": "These turned out perfectly! I doubled the recipe except for salt, chips, and sugar. I used 1 1/2c. Light brown sugar and 1/3c. Bourbon-infused maple syrup. I mixed in finely-chopped pecans and walnuts, and the chocolate chips were 60% cocoa dark chips. Baked in an 8x12 ceramic pan using parchment paper for 28 minutes in an induction oven. They were a hit! Moist, nicely-browned, delicious!",
+            "datePublished": "2024-09-29T01:28:46.015Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubyDuck4904"
+            },
+            "reviewBody": "Okay, so I read a bunch of the one-three star reviews and they all had the same complaints; They don't cook through They get burnt at the edges Too much salt Too much vanilla Too much sugar Mine turned out quite well, so let me tell you my tweaks; First, I doubled the recipe. Then I ground the walnuts very fine so they were almost like a flour that dispersed very evenly through the mix. I halved the vanilla and salt. I mixed 1 cup dark, semi-sweet chocolate chips throughout the batter. I baked them in a 9×11 inch glass dish for 30 minutes on 350. They were good. I'm still going to shop around for a different Blondie recipe, these came out more like chocolate chip cookie bars. Chewy and good, but I want something with a little more oomf.",
+            "datePublished": "2024-06-17T04:54:50.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "huntfishcook"
+            },
+            "reviewBody": "This is my first review so here goes...\nThese looked delicious however; you can't eat a photo...LOL. Seriously tho...I've made these twice. After reading the reviews; I followed the directions the first time with the exceptions of:\n1. Reducing the amount of brown sugar to 1/2c \n2. Using 2/3 cup of 60% cacao Ghiradelli chocolate chips stirred in as directed AND sprinkling 1/2 cup of Guittard Green Mint Chips on top of the batter before baking. (It just seemed a good mix...unless you don'tlike mint)\n\nThe result:\nUsing 1/2 cup of the Dark Brown Sugar was just right. Still sweet just not over-powering.\nThe 60% cacao chips were a yummy substitute.\nThe mint chips stayed on top and the mix of chip flavors was just right. \n\nThe above comments came from our Bible Study \n(Community Group).\n\nThe second time:\n1. Used only the 1/2 cup of Dark Brown Suger as before.\n2. Added extra vanilla: 1-1/2 tsp instead of 1 tsp\nAND also 1 tsp of Almond Extract.\n3. Added extra 60% chips: Used 1 cup instead of 2/3 cup and this time FOLDED the 1/2 cup of mint chips into the batter.\n\nThe result:\nOur Community Group REALLY loved them! I made a DOUBLE batch and baked them in a 9x13x2 glass pan at recommended temp until wooden toothpick inserted into the center came out clean...(I think about 45 min...it was a double batch) Do a visual check at 30 min and a toothpick check at 40 min. There were 12-15 squares and 7 people in attendance; I took home 4 pieces. Some of the pieces were taken home for a \"la",
+            "datePublished": "2017-01-29T20:38:06.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I doubled the recipe and used a 13x9 pan which I sprayed and lined with parchment paper for very easy removal. I omitted the walnuts and used a combination of milk, dark and butterscotch chips. I mixed the majority of the chips into the batter and reserved 1/4 cup which I sprinkled on the top. I baked for ~28 min, but I think I could have taken them out a few min earlier. I chopped off the edges because they were a little hard (no waste....I'm taking care of that!) I plan to place a few in a cellophane bags tied with a ribbons for the bake table at a Kielbasa Fest at my church. Thanks Sue -- very good and versatile recipe!",
+            "datePublished": "2018-09-08T01:15:58.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PlushPate2118"
+            },
+            "reviewBody": "I doubled the recipe and used a 9x13 glass baking dish. It took 35-40minutes to bake. So delicious!",
+            "datePublished": "2023-10-21T17:53:55.239Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angel"
+            },
+            "reviewBody": "Great recipe! Once the batter is all mixed, I added a little milk because we like ours a little gooey/not as thick. I also added white chocolate chips. I’ve mixed them in the batter once and I’ve also put them on top and when they would start to melt, I would swirl them and make a marble effect. I baked mine for 25 mins or so on 350 and then 10 mins or so on 325 so that the edges and bottom didn’t get too crispy before the middle was done. This helped to keep the texture how we like it...gooey brownies are the best! (Make sure to spray down the pan too... I used a 8x8 glass pan and it was perfect!) Everyone’s ovens and pans are different so a little trial and error to find out what works for you is all it takes. My 5 year old loved helping me with these too. This is now by far my favorite brownie recipe ever and I can’t wait to share with friends and family!",
+            "datePublished": "2020-06-03T22:40:25.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Candi"
+            },
+            "reviewBody": "Really good and fast! I didn't have eggs on hand so I used 3 Tbsp of Peanut butter and 1 Tbsp of ground flax/chia seeds (I had for protein shakes) soaked in 3 Tbsp of water. I'd never used these substitutions and probably didn't need both, but it worked out deliciously -- especially if you love the taste of peanut butter! I also reduced the brown sugar to 3/4 c and it was plenty. The second time I made them (in the same week!), I made a 13x9\" pan and increased all ingredients by 2-1/2 to make them a little thicker. I also decided just to mix the chocolate chips into the dough and it worked perfectly. Might reduce the amount of chips to 1/2 c next time. I'm thinking this is a good dough to switch up with other additives depending on what sounds good that day!",
+            "datePublished": "2022-10-07T16:06:31.054Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made this again since I had to make some changes. As written, this recipe is too sweet and a bit salty. I chose to triple the recipe so I could bake it on a large sheet pan but I didn't triple the chocolate chips or nuts as they were way too much in a single recipe. I've been on a brown butter kick lately and this works really well with browned butter...adds a toffee kinda taste. Delicious. I used 2 c. of brown sugar in a tripled recipe and it was perfectly sweet. Also measure your salt very scantly...not quite a full measuring spoon. Ultimately it's a very good recipe, just needed a little tweaking for our family's personal tastes. I suggest making it as written and then tweaking it for yourself...never hurts to have a second batch!",
+            "datePublished": "2020-06-23T12:39:27.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lucas"
+            },
+            "reviewBody": "The recipe itself is great and these blondies come out absolutely delicious. I've made it 4 or 5 times now and it's always amazing. The ONLY issue is that it has NEVER made enough batter to really feel like it fills a 9x9\" pan? I'm not sure what I'm doing wrong, but if you find yourself in the same boat I would recommend multiplying the recipe probably 1.5x in order to get an appropriate blondie thickness.",
+            "datePublished": "2026-08-22T21:56:00.391Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I followed the recipe with some tweaks. For one I used good quality French butter which I think is key. I mixed 3/4 of the nuts and chocolate into the batter and sprinkled the rest of the mixture on top. 1 tablespoon of vanilla extract was right. I switched out walnuts for pecans and milk chocolate for white chocolate, which is correct for blondies. Make sure to use light brown sugar instead of dark brown sugar because it should be a light caramel colour and not dark. I also lined a tin pan with parchment paper to make it easier to lift out. Delicious! Will make again.",
+            "datePublished": "2026-03-08T12:01:21.654Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandra"
+            },
+            "reviewBody": "I love blonde brownies 😋, I really wanna love being able to make my very own 😋 yummy blonde brownies.... 2 times &amp; each time it goes for the 20 min &amp; when I check it looks like soup cooked on top but wiggle, dancing in the pan so this time I tossed loose tinfoil top to help but they were hard the first try afyer maybe30 min , on this try Ipulled at maybe 26 min haven't tried this batch but looking at the edges it seems like its to much butter I strictly put exactly 2/3 cup melted butter in the recipe for the 9x16 pan ....😭😢 the butter i (brown ) &amp; cool before using 😎 any ideas on what is wrong ?? 😅🤔😳 even the first batch was good just Hard !!! Maybe I shouldn't melt the butter 🤔&amp; im not sure how much to scale back on the butter if any im going to try this batch &amp; see how the taste.....",
+            "datePublished": "2025-12-12T21:19:15.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joe"
+            },
+            "reviewBody": "Recipe was perfect! I used a 6x8 glass dish for brownie-thick sized ones and baked for 25 minutes. After letting them cool for 45 minutes they were still a little gooey and I thought maybe they should have baked a little longer, but after resting 3 hours they were perfect!",
+            "datePublished": "2025-10-19T00:36:07.029Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Florio"
+            },
+            "reviewBody": "I love this recipe. Many Blondie recipes end up dry, but this is an excellent texture, even with additions. I did 1 1/2 recipe with two eggs and baked at 325 for 28 total minutes and additional 5 minutes with the oven off. Still a soft, chewy (brownie-like) texture after 2 days in a sealed container.",
+            "datePublished": "2025-10-17T16:52:12.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuaintJam2745"
+            },
+            "reviewBody": "I used Maple extract with or without the nuts and with or without chocolate chips!!!! This is my go to for any mood!",
+            "datePublished": "2025-05-26T04:40:58.136Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LoyalFarro3665"
+            },
+            "reviewBody": "Yummy",
+            "datePublished": "2025-04-11T17:58:56.319Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "megg"
+            },
+            "reviewBody": "Awesome. Dangerously good. When you want a great chocolate chip cookie but don't want to make cookies. I toasted my walnuts while oven was preheating because they were frozen. Next time I'll try mixing in the chocolate chips. Also going to try with dark chocolate chips and pecans. Dark chocolate and pecans good but semi sweet and walnuts mixed in is our preference.",
+            "datePublished": "2025-04-01T02:30:08.971Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BriefDuck8212"
+            },
+            "reviewBody": "Definitely easy and so tasty!!",
+            "datePublished": "2025-03-23T18:33:06.057Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/10177/blonde-brownies-i/",
+          "name": "Blonde Brownies",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+                  "name": "Brownie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2754/desserts/cookies/brownies/blondies/",
+                  "name": "Blondie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

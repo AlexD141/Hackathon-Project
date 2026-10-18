@@ -1,0 +1,474 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220657/spicy-black-bean-burgers/",
+  "extracted_at": "2026-10-18T03:10:53.950519+00:00",
+  "recipes": [
+    {
+      "name": "Spicy Black Bean Burgers",
+      "ingredients_raw": [
+        "1 egg",
+        "1.5 tablespoons ground cumin",
+        "1 tablespoon chili powder",
+        "1 teaspoon chile-garlic sauce (such as Sriracha®)",
+        "1 (16 ounce) can black beans, rinsed and drained",
+        "1 jalapeno pepper, minced",
+        "1 cup canned whole kernel corn, drained",
+        "3 cloves garlic, minced",
+        "0.5 cup bread crumbs",
+        "0.5 cup whole wheat flour",
+        "2 tablespoons vegetable oil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk egg, cumin, chili powder, and chile-garlic sauce together in a bowl."
+        },
+        {
+          "id": 2,
+          "text": "Mash black beans in a separate bowl until they reach a paste-like consistency."
+        },
+        {
+          "id": 3,
+          "text": "Stir jalapeno pepper, corn, and garlic through the black bean paste."
+        },
+        {
+          "id": 4,
+          "text": "Mix the egg mixture into the black bean mixture."
+        },
+        {
+          "id": 5,
+          "text": "Scatter the bread crumbs over the black bean mixture; mix with your hands to evenly incorporate."
+        },
+        {
+          "id": 6,
+          "text": "Form the resulting mixture into 4 patties."
+        },
+        {
+          "id": 7,
+          "text": "Pour flour into the bottom of a shallow dish; coat the patties in the flour to help them hold shape."
+        },
+        {
+          "id": 8,
+          "text": "Heat vegetable oil in a skillet over medium heat. Cook the patties in hot oil until cooked through, about 5 minutes per side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spicy Black Bean Burgers",
+        "datePublished": "2016-06-04T10:03:53-04:00",
+        "dateModified": "2021-10-04T14:40:40-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "kath"
+          }
+        ],
+        "description": "Super yummy and simple black bean burgers with a spicy jalapeno twist!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PZVMmF66SxS52DLqkj5I1kvi__0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9405595-75a33ae3d0524f50bc833919e045fe5c.jpg",
+          "height": 1333,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spicy Black Bean Burgers",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "31"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "339 kcal",
+          "carbohydrateContent": "50 g",
+          "cholesterolContent": "47 mg",
+          "fiberContent": "12 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "757 mg",
+          "sugarContent": "3 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 egg",
+          "1.5 tablespoons ground cumin",
+          "1 tablespoon chili powder",
+          "1 teaspoon chile-garlic sauce (such as Sriracha®)",
+          "1 (16 ounce) can black beans, rinsed and drained",
+          "1 jalapeno pepper, minced",
+          "1 cup canned whole kernel corn, drained",
+          "3 cloves garlic, minced",
+          "0.5 cup bread crumbs",
+          "0.5 cup whole wheat flour",
+          "2 tablespoons vegetable oil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk egg, cumin, chili powder, and chile-garlic sauce together in a bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mash black beans in a separate bowl until they reach a paste-like consistency."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir jalapeno pepper, corn, and garlic through the black bean paste."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix the egg mixture into the black bean mixture."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Scatter the bread crumbs over the black bean mixture; mix with your hands to evenly incorporate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Form the resulting mixture into 4 patties."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour flour into the bottom of a shallow dish; coat the patties in the flour to help them hold shape."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat vegetable oil in a skillet over medium heat. Cook the patties in hot oil until cooked through, about 5 minutes per side."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 burgers"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "Spicy Black Bean Burger Haiku: \"Yum, BB patties. Expected more of a kick, but still they were good.\" W/ the Sriracha, chili powder &amp; jalapeno, I anticipated fire-breath w/ these, but they were surprisingly tame (well, OK, I wouldn't have given one to my pre-schooler), but I like things scorching. I used finely-crushed Saltine crackers (out of bread crumbs), and frozen corn (a handful of what was left in a bag to avoid opening a can.) I skipped the \"coat-in-flour\" step and formed, wrapped, and froze mine instead, b/c everytime I make chick pea or BB patties, I find that freezing them holds them together much better, and they go directly from freezer to skillet w/ no problems. I did mine in EVOO and ate alongside a basic salad, rather than burger-style. Nummy!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard Schubatis"
+            },
+            "reviewBody": "Easy to make, and a great addition to Mestless Mondays. Next time I make them, I will use more egg to help them stay together better. Also may add cayenne pepper to kick up the heat.",
+            "datePublished": "2019-03-25T22:17:30.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mdwhite65"
+            },
+            "reviewBody": "Delicious! I used pico de gallo, guacamole, cilantro, salsa and lettuce for toppings. These enhanced the flavor and made the beans less dry. I grilled them on the grill and they were a big hit!",
+            "datePublished": "2015-07-03T15:23:25.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisha"
+            },
+            "reviewBody": "Really enjoyed this burger, which I created as an open face. I added cayenne pepper, Ms Dash Garlic &amp; Herb Seasoning, and Hoisin Sauce. I didn’t have chili powder on hand. Easy to follow recipe. Will be adding to my rotation.",
+            "datePublished": "2021-10-03T16:39:11.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Budd"
+            },
+            "reviewBody": "Used all the required ingrediants but used a different cooking method since I'm against frying things. To keep it healthy I cooked in the oven for 30 minutes on 350. Came out great! The taste was yummy and at best meduim heat with the jollies. Will make again and double recipe to freeze.",
+            "datePublished": "2015-09-07T10:48:20.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pmanghel"
+            },
+            "reviewBody": "I tried this recipe on a camping trip. I made them ahead of time and froze them. Thawed them out and put on the grill for about 10 minutes and they were wonderful. Some people said they are kinda dry, but my were great!",
+            "datePublished": "2023-01-26T01:47:16.841Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "twinsphins"
+            },
+            "reviewBody": "Baked mine at 350 degrees to try and keep it a most healthy recipe.Very Good.Will make again.",
+            "datePublished": "2020-04-21T19:57:16.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jo Lauer"
+            },
+            "reviewBody": "Turned out very well. Next time I’ll use only a 1/4 cup of flour. Great meal for those converting to plant based.",
+            "datePublished": "2021-02-05T20:43:33.943Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ROCK89708"
+            },
+            "reviewBody": "I liked the combination of spices but I used 2 cans of beans, nixed the corn and added 6 Thai chilis and 2 chipotle peppers for more of a kick. I grilled them on a George Foreman. Need to find a way to make them moister. Other than that, they turned out great.",
+            "datePublished": "2015-06-01T16:25:37.323Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mmmichelle07"
+            },
+            "reviewBody": "I used a half cup of chopped onion and half cup I chopped green pepper to replace the cup of corn, and it was great. I'll definitely make these again! :)",
+            "datePublished": "2015-03-25T17:01:04.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SereneSoy7854"
+            },
+            "reviewBody": "Really very good, and healthy! I added minced up mushrooms with the beans to keep moisture, it worked great!",
+            "datePublished": "2023-05-29T21:34:44.214Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ayanna Hyman"
+            },
+            "reviewBody": "I followed the recipe and flavoured it to my taste. It was amazing! I had it with burger buns, lettuce, tomato and avocado slices.",
+            "datePublished": "2021-08-18T00:14:39.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "smolchef"
+            },
+            "reviewBody": "Delicious!!",
+            "datePublished": "2021-06-10T06:45:38.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeremy B"
+            },
+            "reviewBody": "Following the recipe ended up very dry for me and not microwave friendly. With that said I can’t really replicate on words what I found to be tasty and this was a great primer for exploration of the bean burger kind!",
+            "datePublished": "2021-03-16T02:54:52.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Hardway"
+            },
+            "reviewBody": "I added 1 cup of panko to mine.",
+            "datePublished": "2020-01-28T23:44:06.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RipSaw1999"
+            },
+            "reviewBody": "I think I coated it with to much flour So if i made again just dust with flour or none at all",
+            "datePublished": "2020-01-10T14:05:12.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "katm51"
+            },
+            "reviewBody": "Ib",
+            "datePublished": "2018-10-30T18:07:51.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristin"
+            },
+            "reviewBody": "I made it once with bread crumbs and then made it with gluten free crackers",
+            "datePublished": "2018-08-09T23:20:39.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kayla_Lynn"
+            },
+            "reviewBody": "I left out the sirracha, simply because I don't care for it, and used a buffalo hot sauce. I cut the recipe in half to try it and found them to be dry - like others have mentioned. When I made it again I followed Pioneer Women's direction in not rinsing the beans and leaving them a bit moist in their own liquids, this helped SO much. Yummy and not too spicy, even with a healthy bit of hot sauce.\n\nAvacado/Guacamole is the perfect addition to this burger! I didn't have whole wheat flour, instead used just normal self rising. And because I left some juices, they were a little sticky when forming so the flour worked well, that or form and freeze for a little while to get them to firm up for easier handling. Just don't make the mistake of adding more breadcrumbs, that will result in it being dry again.",
+            "datePublished": "2018-05-03T04:18:22.347Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220657/spicy-black-bean-burgers/",
+          "name": "Spicy Black Bean Burgers",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+                  "name": "Burger Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1987/main-dish/burgers/veggie/",
+                  "name": "Veggie"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,465 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/215184/blueberry-smoothie/",
+  "extracted_at": "2026-10-18T02:55:28.172547+00:00",
+  "recipes": [
+    {
+      "name": "Blueberry Smoothie",
+      "ingredients_raw": [
+        "1 cup blueberries (frozen or fresh)",
+        "1 (8 ounce) container plain yogurt",
+        "0.75 cup 2% reduced-fat milk",
+        "2 tablespoons white sugar",
+        "0.5 teaspoon vanilla extract",
+        "0.125 teaspoon ground nutmeg"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Blend blueberries, yogurt, milk, sugar, vanilla, and nutmeg in a blender until frothy, scraping down the sides of the blender if needed."
+        },
+        {
+          "id": 3,
+          "text": "Divide between 2 glasses and serve immediately. Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Blueberry Smoothie",
+        "datePublished": "2020-06-18T23:43:00-04:00",
+        "dateModified": "2026-10-02T11:24:36-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "eveningbell"
+          }
+        ],
+        "description": "Blueberry smoothie recipes are a favorite way to enjoy fresh or frozen berries, and this one’s a winner! Tangy yogurt and a touch of sugar balance it.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mvAOZswlesIze_VZJ_kBp8QS1N4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0407-3x4-hero-2dc0563113084f1faea7ad1d7fe58d38.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/BPp3xpFi-K3AjnAEN.mp4",
+          "description": "You’d be hard-pressed to find a drink more refreshing than a classic fruit smoothie. This video shows you how to make a blueberry smoothie using either fresh or frozen blueberries, plain yogurt, and milk. For extra sweetness and flavor, this blueberry smoothie recipe also calls for sugar, vanilla extract, and ground nutmeg. Enjoy this top-rated smoothie as a healthy breakfast or as a refreshing (and tasty!) way to cool off on a hot summer day.",
+          "duration": "PT32S",
+          "name": "Blueberry Smoothie Recipe",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BPp3xpFi/thumbnails/S9e6ATqi.jpg?width=1280",
+          "uploadDate": "2022-07-15T14:21:43-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Blueberry Smoothie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "260"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "211 kcal",
+          "carbohydrateContent": "36 g",
+          "cholesterolContent": "14 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "10 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "118 mg",
+          "sugarContent": "32 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Breakfast",
+          "Drink"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup blueberries (frozen or fresh)",
+          "1 (8 ounce) container plain yogurt",
+          "0.75 cup 2% reduced-fat milk",
+          "2 tablespoons white sugar",
+          "0.5 teaspoon vanilla extract",
+          "0.125 teaspoon ground nutmeg"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/FHWxnFYJkbfGaqDm7KLsuuG_Q08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0370-3x4-step-01-e14dc1c616f14f26a224f9083a4d7463.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/j5WG-TeyDpz1WUZ7ngy0PbZ5Ick=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0373-3x4-step-02-6f4ee067f4ae4dcb86b49c1321a82d33.jpg"
+              }
+            ],
+            "text": "Blend blueberries, yogurt, milk, sugar, vanilla, and nutmeg in a blender until frothy, scraping down the sides of the blender if needed."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mvAOZswlesIze_VZJ_kBp8QS1N4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0407-3x4-hero-2dc0563113084f1faea7ad1d7fe58d38.jpg"
+              }
+            ],
+            "text": "Divide between 2 glasses and serve immediately. Enjoy!"
+          }
+        ],
+        "recipeYield": "2",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Very good - I used fat free vanilla yogurt and skim milk (reduced that a bit to keep it thicker). I cut back on the sugar a bit as well and added some cinnamon along with the nutmeg."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Astin"
+            },
+            "reviewBody": "I made this smoothie exactly the way it was and it tasted ok. The smoothie was watered down as if there were too much yogurt and milk, the yogurt flavor overtook everything else, and there weren't enough blueberries. I recommend using less milk and yogurt but adding 1 1/2 cup blueberries.",
+            "datePublished": "2022-01-12T22:25:41.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miss Head chef"
+            },
+            "reviewBody": "If ur using a thomomix do it for 1min 30 on speed 10 Also good with cinnamon instead of nutmeg ❤️",
+            "datePublished": "2025-05-14T06:33:52.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldenCurd8916"
+            },
+            "reviewBody": "I love this quick and easy recipe. Used mixed frozen berries, substituted maple syrup for the sugar (only because I didn't have white sugar) and no nutmeg (don't have). I also used a hand blender.",
+            "datePublished": "2024-06-09T19:18:53.328Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JoyfulPita1230"
+            },
+            "reviewBody": "This recipe was strsight-forward and simple. I added grape juice, and an apple and I was out of yogurt so I just used 4% (Whole) milk. Yum! My husband even had some, and he doesn't even like blueberries!😄",
+            "datePublished": "2023-07-17T14:09:23.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I scaled this down to one serving and used frozen blueberries and honey in place of the sugar. I also added a scoop of vanillla protein powder, which I always do with smoothies. Nutmeg doesn't appeal to me in something like this, so I just gave it a shake of cinnamon. Very good!",
+            "datePublished": "2017-01-31T14:06:25.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephy Burns-Nitto"
+            },
+            "reviewBody": "I used plain greek yogurt (20 grams protein per cup), 2 tsp of orange blossom honey. I used frozen blueberries and some fresh blackberries and strawberries. Whole milk and a dash of nutmeg. Delicious!",
+            "datePublished": "2017-06-20T01:23:00.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miranda Sanchez"
+            },
+            "reviewBody": "So, I added half a cup of frozen pineapple, used a hair less yogurt, and instead of nutmeg, I added honey, and it turned out to be the BEST smoothie I've had. The only reason why I'm giving it only 4 stars is because without the changes I made, it was just alright.",
+            "datePublished": "2020-02-06T05:57:35.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NicNac"
+            },
+            "reviewBody": "I LOVE LOVE LOVE this recipe. Changed few thing....didn’t have yogurt and used cashew milk as the milk substitute and raw cane sugar instead of white sugar. I can’t wait to make this again!!",
+            "datePublished": "2020-10-20T01:16:50.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy Redican"
+            },
+            "reviewBody": "I used lemon Greek yogurt and frozen blueberries. I used about a cup and a half of the blueberries and pumpkin pie spice. It was yummy.",
+            "datePublished": "2024-06-23T19:22:48.505Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DandyDip4695"
+            },
+            "reviewBody": "This is wonderful. Instead of sugar I added a couple tbs of Italian sweet cream creamer. Used almond extract and cinnamon.",
+            "datePublished": "2022-10-15T20:43:18.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "smoothieenjoyer"
+            },
+            "reviewBody": "Added a quarter of banana and it tasted amazing 10/10",
+            "datePublished": "2026-05-19T01:03:43.401Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maggie"
+            },
+            "reviewBody": "Really good and fresh smoothie. I always add a little more vanilla and blueberries and it turns out AMAZING.",
+            "datePublished": "2025-08-15T12:26:46.303Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jacqueline"
+            },
+            "reviewBody": "Very good my grandchildren asked can I make some more!",
+            "datePublished": "2025-07-31T19:21:29.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dougfood"
+            },
+            "reviewBody": "I reduced liquid to make thicker, but found that it thickened upon standing so I needed to add milk back in to make it drinkable.",
+            "datePublished": "2025-07-27T21:06:20.829Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ishaan Thakkar"
+            },
+            "reviewBody": "Very good. A bit too sweet though. Would substitute sugar for vanilla yogurt instead of plain.",
+            "datePublished": "2025-06-01T23:08:44.632Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sum Dai"
+            },
+            "reviewBody": "Simple. Trying a smoothie for the first time. Added extra 1/2 cup blueberries to avoid someone's comment of tasting lite in fruit flavor.",
+            "datePublished": "2025-05-24T13:39:02.941Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cooking Pro1058"
+            },
+            "reviewBody": "Love it",
+            "datePublished": "2025-05-11T22:36:51.031Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SillyRib2190"
+            },
+            "reviewBody": "Great but not with vanilla extract and sugar",
+            "datePublished": "2025-04-25T16:20:53.189Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ProudPeach7931"
+            },
+            "reviewBody": "I had to change certain things instead of sugar I used 2 tablespoons of honey instead of nutmeg I used 1tspn cinnamon. Easy recipe to follow nice for my throat. As I may have Cancer",
+            "datePublished": "2025-03-10T22:00:08.763Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/215184/blueberry-smoothie/",
+          "name": "Blueberry Smoothie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/138/drinks/smoothies/",
+                  "name": "Smoothie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16130/drinks/smoothies/blueberry/",
+                  "name": "Blueberry"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

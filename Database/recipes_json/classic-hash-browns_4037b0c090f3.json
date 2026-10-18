@@ -1,0 +1,493 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220520/classic-hash-browns/",
+  "extracted_at": "2026-10-18T03:10:32.931120+00:00",
+  "recipes": [
+    {
+      "name": "Classic Hash Browns",
+      "ingredients_raw": [
+        "2 russet potatoes, peeled",
+        "3 tablespoons clarified butter",
+        "1 pinch cayenne pepper, or to taste",
+        "1 pinch paprika, or to taste",
+        "salt and ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Shred potatoes into a large bowl filled with cold water. Stir until water is cloudy; drain and cover potatoes again with fresh cold water. Stir again to dissolve excess starch. Drain potatoes well, pat dry with paper towels, and squeeze out any excess moisture."
+        },
+        {
+          "id": 3,
+          "text": "Heat clarified butter in a large nonstick pan over medium heat. Sprinkle shredded potatoes into hot butter in an even layer; season with cayenne pepper, paprika, salt, and black pepper."
+        },
+        {
+          "id": 4,
+          "text": "Cook potatoes until a brown crust forms on the bottom, about 5 minutes. Flip or stir and continue to cook until potatoes are browned and crusty all over, about 5 more minutes."
+        },
+        {
+          "id": 5,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Classic Hash Browns",
+        "datePublished": "2012-03-07T13:45:09-05:00",
+        "dateModified": "2026-03-05T07:22:32-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "This hash browns recipe from Chef John fries shredded potatoes in clarified butter to make perfectly seasoned, crispy, diner-style hash browns.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/9vdcj90wdyoowXBrEHdV8wLXEpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520_ClassicHashbrowns-ddmfs_4x3_126-bf90488205684501bbf3589b7caf9632.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/5uVDyJRg-ma1DlVvV.mp4",
+          "description": "In this video, Chef John shows you how to make classic hash browns, a simple and delicious breakfast. This stovetop recipe starts by peeling and grating potatoes into cold water. After rinsing off the starch, drain the excess water and make sure the potatoes are as dry as possible. Once they’ve been added to a buttered pan, let them cook until brown and crusty. Hash browns are incredibly easy-to-make and with a buttery taste and a crisp texture, you’ll want to cook them every morning!",
+          "duration": "PT4M35S",
+          "name": "How to Make Classic Hash Browns",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5uVDyJRg/thumbnails/3vT4hEuA.jpg?width=1280",
+          "uploadDate": "2023-07-11T15:36:16-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Classic Hash Browns",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "364"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "334 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "49 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "13 mg",
+          "sugarContent": "2 g",
+          "fatContent": "19 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 russet potatoes, peeled",
+          "3 tablespoons clarified butter",
+          "1 pinch cayenne pepper, or to taste",
+          "1 pinch paprika, or to taste",
+          "salt and ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/34gNyFgjcqbkEDvvtwrSiBFkTp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520_ClassicHashbrowns-ddmfs_4x3_Step_1_073-1-a2588f171e364332ab9bb3d5b20079af.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/znibJfVjApqNEuCUmKW7UCyMYic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520_ClassicHashbrowns-ddmfs_4x3_Step_3_078-1-852219abd03a41c1be22b24feaf571df.jpg"
+              }
+            ],
+            "text": "Shred potatoes into a large bowl filled with cold water. Stir until water is cloudy; drain and cover potatoes again with fresh cold water. Stir again to dissolve excess starch. Drain potatoes well, pat dry with paper towels, and squeeze out any excess moisture."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/pjosLUCpD24y5gW1xMTcBAbc6nc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520_ClassicHashbrowns-ddmfs_4x3_Step_4_081-1-42c15a19cd684f1c9ee9d25d27026789.jpg"
+              }
+            ],
+            "text": "Heat clarified butter in a large nonstick pan over medium heat. Sprinkle shredded potatoes into hot butter in an even layer; season with cayenne pepper, paprika, salt, and black pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/NrHM96BOBxcbIxWRHrwJIyM6tm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520_ClassicHashbrowns-ddmfs_4x3_Step_5_082-1-32c159341c9342c4b01d03b2fb4bc54b.jpg"
+              }
+            ],
+            "text": "Cook potatoes until a brown crust forms on the bottom, about 5 minutes. Flip or stir and continue to cook until potatoes are browned and crusty all over, about 5 more minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/9vdcj90wdyoowXBrEHdV8wLXEpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520_ClassicHashbrowns-ddmfs_4x3_126-bf90488205684501bbf3589b7caf9632.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "2",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baking Nana"
+            },
+            "reviewBody": "Great method for cooking hash browns. I grated the potatoes into my salad spinner full of cold water - used that to triple rinse the potatoes and then drained them and spun the water out. The clarified butter is perfect for these as it can cook at a higher temperature than whole butter. I used a cast iron pan and don't flip or stir until you get a nice crisp bottom - then flip and stir and crisp up the rest. Excellent!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jewels"
+            },
+            "reviewBody": "I watched Chef John's video on this recipe &amp; realized that my fresh taters always turned brown. I had given up on using fresh potatoes for hash browns &amp; had turned to frozen. I used my food processor to grate an entire big yellow onion. Next I grated 8 russets &amp; added that to the onion. Yum - I kept flipping these to make sure all of it turned brown &amp; yummy! Rinsing potatoes in cold water, like rice. Who knew! Love that I learn something new all the time on this site!",
+            "datePublished": "2012-03-21T20:46:47.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shevon D'silva"
+            },
+            "reviewBody": "While I thought the recipe was wonderful, I found that the inside of my hash didn't cook very well at the times specified. I chose to cook it for 10 minutes and then bake it for another 10 minutes and chose to sprinkle some cheddar and mozzarella cheese on top while it baked. I served it with fluffy scrambled eggs and a little ketchup!",
+            "datePublished": "2012-06-03T09:23:39.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dale"
+            },
+            "reviewBody": "Very good. A tip that I learned long ago is to press the shredded potatoes in a potato ricer, after soaking &amp; rinsing time, while holding the ricer upside down, you're pressing a lot of water out this way. Then pat dry with paper towels. You're not going to press the raw potatoes through the ricer, you're just pressing more water out of the potatoes more efficiently. I used 1/2 shortening and half butter to fry the potatoes in, like my mother always did.",
+            "datePublished": "2012-10-19T16:51:18.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie"
+            },
+            "reviewBody": "I tried this the way it was printed but found we like it better with the salt and pepper mixed in rather than sprinkled on top. Also I always grate an onion into it. I make a huge pan of these and cook them just until a little brown and hot all the way through but not real brown. then I cut it into 6 to 8 pieces and wrap in foil and slide them into a storage bag. That way I have some made ahead and can save time by just getting one out of the fridge every morning and browning it in butter or bacon grease. My husband eats them every day so there is no spoilage. We use them up fast.",
+            "datePublished": "2014-06-28T11:48:22.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mcaone"
+            },
+            "reviewBody": "I scrubbed instead of peeling my potatoes. I grated them in my food processor, and as per someone else's suggestion, used my salad spinner to rinse them off 3 times. All three of these things made prep for this a breeze!! I'd never thought of using clarified butter for this but oh my gosh was it delicious! I made my own by heating a stick of butter and carefully removing the solids on top with a spoon. I saved them and put them over the eggs I served with the hash browns. Yum!!",
+            "datePublished": "2018-09-29T17:52:01.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SandyS"
+            },
+            "reviewBody": "These hash browns turned out great. Rinsing the potatoes a couple of times kept them from sticking together in a starchy mess. I cut my potatoes into small cubes and didn't pat them dry. It took longer for them to cook, but they were perfect. I added fresh chopped chives during the last couple of minutes of cooking for extra flavor. So much better than frozen hash browns!",
+            "datePublished": "2018-09-10T13:42:52.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emma"
+            },
+            "reviewBody": "Delicious! And not hard at all. Saturday morning I get out the food processor and grate enough potatoes for two days' worth of breakfasts. Cook up half and leave the other half in water in the fridge for Sunday. So, so good!!",
+            "datePublished": "2020-10-17T15:25:56.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MochaSprinkle"
+            },
+            "reviewBody": "Instead of the butter I used canola oil. I also was admittedly a little heavy handed with the cayenne, but it works! Kicked them up a notch ?? I didn’t have regular paprika so I used smoked paprika and it added a nice smokiness to them. Instead of one big batch I made a few servings, kinda like pancakes, and each turned out nice and crunchy. \n\nHaving a shredding attachment for a mixer or food processor will make this easier for sure! That’s said, pressing out the water was the hardest part for me. Instead of using paper towels, I used a kitchen towel to dry the shredded potatoes in batches. Not only does it cut down on single use paper products but it’s easier to ‘wring out’ the extra moisture. \n\nI love that there isn’t any filler or binding agent and I’ll make these again, hopefully soon!",
+            "datePublished": "2020-04-18T21:16:15.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine Simms"
+            },
+            "reviewBody": "Hashbrowns have been my Achilles heel- until today! Rinsing shreds until clear made ALL the difference. \nI also added 1/4c flour &amp; 1 T cornstarch, then browned in bacon grease. I kept the first batch warm in the oven on a cast iron griddle &amp; they stayed crispy for seconds.\nThank you for this recipe &amp; finally helping me make yummy hashbrowns!",
+            "datePublished": "2019-08-28T15:41:39.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Claudia Carvalho"
+            },
+            "reviewBody": "I've tried several recipes for hash browns but the results of this one were the best of my efforts, which I'm guessing has to do with rinsing the shredded potatoes. The only thing I did differently was cook the potatoes in 1 TBSP avocado oil and 2 TBSP butter (not clarified). Also, I used a ricer to squeeze as much of the water out as possible (got that tip from another recipe). They were perfectly crispy and just ... delicious. Thanks for sharing this technique!",
+            "datePublished": "2017-09-09T17:41:45.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TealBeef2220"
+            },
+            "reviewBody": "Great video and explanation of the process! I like his description of crisping the bottom of the mixture and allowing the potato to remain soft inside, then flipping.",
+            "datePublished": "2026-02-01T18:48:52.581Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PeppyLime5042"
+            },
+            "reviewBody": "I burnt the hash browns a little, but they still taste ABSOLUTELY delicious. Definitely making again.",
+            "datePublished": "2025-05-08T23:00:40.142Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TwistySeed5853"
+            },
+            "reviewBody": "Fast and easy",
+            "datePublished": "2024-11-17T17:02:15.015Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MintPho6213"
+            },
+            "reviewBody": "it's simple",
+            "datePublished": "2024-03-24T15:47:06.568Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cgray"
+            },
+            "reviewBody": "Best hash browns I've had in ages! Thanks for sharing the recipe.",
+            "datePublished": "2024-03-09T03:46:21.129Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "harleyvic"
+            },
+            "reviewBody": "Cooked as directed, turned out perfect. Great recipe...",
+            "datePublished": "2023-11-18T12:22:18.875Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SilverPeel5226"
+            },
+            "reviewBody": "Terrible no heat and a pinch isn’t a good way of measuring spices",
+            "datePublished": "2023-09-27T23:04:49.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patrick"
+            },
+            "reviewBody": "Perfect Hash Brown's. Love this recipie",
+            "datePublished": "2023-06-10T03:11:04.585Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John E Kopfer Sr"
+            },
+            "reviewBody": "Easy way to make hash browns",
+            "datePublished": "2023-03-17T22:17:29.040Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220520/classic-hash-browns/",
+          "name": "Classic Hash Browns",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+                  "name": "Potato"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1549/side-dish/potatoes/hash-brown-potatoes/",
+                  "name": "Hash Brown Potato Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,195 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/108437/mango-tango/",
+  "extracted_at": "2026-10-18T01:44:12.732004+00:00",
+  "recipes": [
+    {
+      "name": "Mango Tango",
+      "ingredients_raw": [
+        "2 medium mangos, peeled and sliced",
+        "2 apples, cored and quartered",
+        "2 peeled limes"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Juice the mango, apples, and limes in a juice machine. Serve over ice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mango Tango",
+        "datePublished": "2018-03-21T12:54:15-04:00",
+        "dateModified": "2022-09-07T11:58:10-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Hanna"
+          }
+        ],
+        "description": "This mango tango juice drink is made with a delicious blend of fresh mango, apple, and lime served over ice to keep you cool.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/rzGgwt0fYUwLdI7cB8hMXcIX34g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7884465-d1aaa85b8e4845a69c3cdaa3b03a3e8c.jpg",
+          "height": 1000,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mango Tango",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "4"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "226 kcal",
+          "carbohydrateContent": "61 g",
+          "fiberContent": "9 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "7 mg",
+          "sugarContent": "46 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Breakfast",
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "2 medium mangos, peeled and sliced",
+          "2 apples, cored and quartered",
+          "2 peeled limes"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Juice the mango, apples, and limes in a juice machine. Serve over ice."
+          }
+        ],
+        "recipeYield": "2",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenn Harmon Jones"
+            },
+            "reviewBody": "I thought this was pretty tasty. I added 1/2 of a large can of mandarin oranges (as suggested) with the juice, and just blended it (don't have a juicer). It was thick and chunky (with fruit), but delicious. My husband and I loved it. Will make again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "Delicious! If you're a mango fan, you're sure to love this. The flavor is predominantly mango with a very slight hint of lime. The apple was almost undetectable (I used Honeycrisp), so you may wish to add an extra apple if you want a more balanced flavor. I liked it as written though!",
+            "datePublished": "2020-03-31T00:58:59.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caroline C"
+            },
+            "reviewBody": "I had to add a splash of milk as it was rather thick, and I personally would have liked it a little sweeter. Apart from that, this wasn't bad at all. Thanks!",
+            "datePublished": "2006-07-28T05:25:37.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cbrown"
+            },
+            "reviewBody": "My friend's husband said, \"This has potential.\" And then he asked if there was any more! He thought some mandarin oranges would make this drink even better.",
+            "datePublished": "2006-07-17T04:39:41.560Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/108437/mango-tango/",
+          "name": "Mango Tango",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/143/breakfast-and-brunch/drinks/",
+                  "name": "Drinks"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

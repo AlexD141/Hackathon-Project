@@ -1,0 +1,510 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222000/spaghetti-aglio-e-olio/",
+  "extracted_at": "2026-10-18T03:14:10.479055+00:00",
+  "recipes": [
+    {
+      "name": "Spaghetti Aglio e Olio",
+      "ingredients_raw": [
+        "1 pound uncooked spaghetti",
+        "0.5 cup olive oil",
+        "6 cloves garlic, thinly sliced",
+        "0.25 teaspoon red pepper flakes, or to taste",
+        "salt and freshly ground black pepper to taste",
+        "0.25 cup chopped fresh Italian parsley",
+        "1 cup finely grated Parmigiano-Reggiano cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Add spaghetti, stirring occasionally, until cooked through but firm to the bite, 10 to 12 minutes. Drain and transfer to a large pasta bowl."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, combine olive oil and garlic in a small, cold skillet."
+        },
+        {
+          "id": 3,
+          "text": "Cook garlic over medium heat until tender but not brown, about 10 minutes. Reduce heat to medium-low. Continue cooking, stirring frequently, until garlic is golden brown, about 5 minutes more. Remove from the heat."
+        },
+        {
+          "id": 4,
+          "text": "Toss pasta with red pepper flakes, salt, and black pepper."
+        },
+        {
+          "id": 5,
+          "text": "Pour olive oil-garlic mixture over pasta; sprinkle with Italian parsley and half the Parmigiano-Reggiano cheese; toss to combine."
+        },
+        {
+          "id": 6,
+          "text": "Serve pasta topped with the remaining Parmigiano-Reggiano cheese."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Spaghetti Aglio e Olio",
+        "datePublished": "2012-04-27T18:42:40-04:00",
+        "dateModified": "2026-10-12T17:26:07-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "Aglio e olio is a deliciously simple Italian dish of fresh garlic, olive oil, and Parmesan cheese tossed with freshly cooked spaghetti pasta.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/aVmHyG9n06k09hi6_PC7dM6tfWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-beauty-3x4-8d8d06ed371c4c17a29f2aa7eb500e9e.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/gf2M2SMN-ma1DlVvV.mp4",
+          "description": "0260",
+          "duration": "PT3M41S",
+          "name": "Spaghetti Aglio e Olio",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/gf2M2SMN/thumbnails/vMyWhBbq.jpg?width=1280",
+          "uploadDate": "2021-03-09T11:29:29-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spaghetti Aglio e Olio",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "525"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "755 kcal",
+          "carbohydrateContent": "87 g",
+          "cholesterolContent": "18 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "23 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "355 mg",
+          "sugarContent": "3 g",
+          "fatContent": "35 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 pound uncooked spaghetti",
+          "0.5 cup olive oil",
+          "6 cloves garlic, thinly sliced",
+          "0.25 teaspoon red pepper flakes, or to taste",
+          "salt and freshly ground black pepper to taste",
+          "0.25 cup chopped fresh Italian parsley",
+          "1 cup finely grated Parmigiano-Reggiano cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/U9q8-jVi2IRjcGcHOXzJGG172Hw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-step-1-3x4-bd48d0fd8a7d4fc888ab888d9bb42dbd.jpg"
+              }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Add spaghetti, stirring occasionally, until cooked through but firm to the bite, 10 to 12 minutes. Drain and transfer to a large pasta bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/7XT4Fi124rA1wH_XaSMGAEOQnFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-step-2-3x4-f794b1d8703e496eafd7f8ef5e72de53.jpg"
+              }
+            ],
+            "text": "Meanwhile, combine olive oil and garlic in a small, cold skillet."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/0HI7w-GX19mXOdOcZp_k7rMXCdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-step-3-3x4-c006182a4c5045359c7e69c8841bb47b.jpg"
+              }
+            ],
+            "text": "Cook garlic over medium heat until tender but not brown, about 10 minutes. Reduce heat to medium-low. Continue cooking, stirring frequently, until garlic is golden brown, about 5 minutes more. Remove from the heat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/jtYTW4InlJsosGZGjAAQquJ0EWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-step-4-3x4-1e18ff68feac40f68f76d7e8aac2954c.jpg"
+              }
+            ],
+            "text": "Toss pasta with red pepper flakes, salt, and black pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bITK1704SNsqMuFfnPkSp7Dk1tA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-step-5-1-3x4-12042eda3a124c21b76940b9581e3739.jpg"
+              }
+            ],
+            "text": "Pour olive oil-garlic mixture over pasta; sprinkle with Italian parsley and half the Parmigiano-Reggiano cheese; toss to combine."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/aVmHyG9n06k09hi6_PC7dM6tfWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222000-spaghetti-aglio-e-olio-DDMFS-beauty-3x4-8d8d06ed371c4c17a29f2aa7eb500e9e.jpg"
+              }
+            ],
+            "text": "Serve pasta topped with the remaining Parmigiano-Reggiano cheese."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baking Nana"
+            },
+            "reviewBody": "This is so good and so easy! If you watch the video he has you add a half ladle of pasta water to the OO-garlic saute pan. This is important and is missing from the recipe. This stops the garlic from over cooking and getting bitter and it also adds that extra moisture to the sauce. I usually reserve some pasta water 'just in case'. This recipe says it serves 4 but as a side dish ( which I did) it would easily serve 8 or even more. I served this with sauteed green beans with prosciutto and Barber Chicken, Parmesan. (I know, cheating but it was really good!) Enjoy!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SZYQ1"
+            },
+            "reviewBody": "1-5-2014: This was perfect Chef John! I loved the flavors of the garlic with the Italian parsley and cheese, with just a hint of the red pepper flakes. Who would have thought something so simple could make pasta this good. I tossed in some fresh steamed broccoli, which I found went good with this pasta. 8-17-2018: Still a very tasty recipe, but have found we prefer it with less oil. I reduce the amount of oil by half of what's called for. If you add in broccoli, I find a saute with fresh or roasted fresh broccoli brings out more flavor.",
+            "datePublished": "2014-01-05T14:18:35.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I've been making this with great success for years now, but this video taught me two excellent things. 1. How to properly slice the garlic and the adding of the pasta water to stop the cooking of the garlic. I've come close to overcooking the garlic a few times. Bitter garlic is very much an amateur mistake, but incredibly common. I add chili flakes to the oil for some kick, and lemon rind to the final dish.",
+            "datePublished": "2023-09-07T18:06:35.529Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Clement Soscia"
+            },
+            "reviewBody": "Chef John has posted many very good recipes and this in another tasty one but....it is not traditional. I was raised in a Italian family and watched everyone from relatives and friends to some great chefs make aglio e olio and this is the difference in their method and his....the timing of the sauce is very important. Yes ,you do brown the garlic in good olive oil and yes, it must not be overcooked as it will get bitter but native Italians add 1/2 C of pasta water no more than 2 minutes after the pasta was added (this assures just the right amount of starch) to the garlic and oil. The timing is important so add the pasta to boiling water, then begin sauteing the garlic and two minutes in...add the pasta water to create a garlic broth that is then simmered on low heat until the pasta is ready. Try it! (It is also considered authentic to add a sprinkling of red pepper flakes to the garlic and oil before the water is added it spiciness is desired.)",
+            "datePublished": "2018-08-27T17:51:18.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cari Reed"
+            },
+            "reviewBody": "As my dad hailed from Italy, I grew up eating this dish at least once a week. Now, w/my own family, I serve this as a side dish w/ pork chops, substituting the spaghetti w/ extra thin egg noodles. Hubby who is a pasta critic loves it.",
+            "datePublished": "2012-05-08T09:24:33.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brian Wigginton"
+            },
+            "reviewBody": "Finished the whole thing!!! So good! Doubled the red pepper. Forgot the parsley, but it was still great. Too much olive oil, will cut in half next time.",
+            "datePublished": "2012-11-30T11:20:33.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bellablue"
+            },
+            "reviewBody": "Loved this! Made it again tonight. Just want to add to be sure one adds salt to the pasta water. I added 3 heaping tbsp of kosher salt. This dish was Creamy in a way with the oil and Parmigianino. I added the butter at the end as Chef suggested..2 -4 tbsp. Sooo good! I also added a bit of fresh lemon juice. I felt it lifted the dish up a bit...Even without the lemon, this was really good. Use a good pasta for this dish. I used Rao's spaghetti and second time linguine . I will be making this perfect pasta dish over and over again!!! Thank you sooo much, Chef John!!!!",
+            "datePublished": "2023-06-28T00:01:17.392Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roseanne Bell"
+            },
+            "reviewBody": "I love this dish. It's been a staple of mine for years. While I use the same ingredients, I find it much easier to mix all the ingredients, except the cheese, in the pan with the olive oil and garlic. I pour it over the drained pasta and then add half the cheese and mix well.\nA few other notes: I don't like to brown the garlic. I find that makes it bitter. Here's what I do: heat the oil over medium heat. When it's hot, turn the heat to low and add the garlic. Saute it slowly until it's soft and translucent, but not brown. It takes about 5 minutes. Then add the pepper flakes, black pepper, and salt. Heat for a few minutes to blend flavors. Add the parsley. Then pour the sauce over the drained pasta and mix well.\n\nI use 3/4 Cup of olive oil for each pound of pasta.\n\nAlso I like to add a can of anchovies to the pan along with the red pepper and black pepper. Stir and break up the anchovies with a fork until they're dissolved. Do not add extra salt when using anchovies.\n\nBuon appetito!",
+            "datePublished": "2020-05-15T20:33:37.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestFork5214"
+            },
+            "reviewBody": "Made exactly as specified but for one; extremely fresh and light and delicious! I think I’d kinda prefer not to add the pasta water until later, as it washes all the sauce ingredients off the pasta. Still very yum though 😊",
+            "datePublished": "2024-05-19T01:09:16.736Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HotBread6844"
+            },
+            "reviewBody": "Great recipe but don't forget to set aside some pasta cooking water in case you need to add a little at the end. You don't want it too dry!",
+            "datePublished": "2023-12-17T13:58:57.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eric Gamauf"
+            },
+            "reviewBody": "This was delicious. I added chicken to the mix for more sustenance and protein. Cooked the chicken is a skillet with its own olive oil and roasted garlic mixture. Seasoned the chicken with salt, pepper, oregano and a little bit of crushed red pepper. Next time may throw some peppers or spinach to the oil. Family loved it, box and a half of pasta and 3 chicken breasts with nothing left to show for it!",
+            "datePublished": "2020-06-02T00:46:40.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tom"
+            },
+            "reviewBody": "Easy and delicious.",
+            "datePublished": "2026-10-12T17:17:31.212Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Josephine Batten"
+            },
+            "reviewBody": "I made this, but tweaked it with adding some bacon in step #4 before adding the garlic and it turned out delicious.",
+            "datePublished": "2026-09-04T07:40:15.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb"
+            },
+            "reviewBody": "I've been making this for years - my kids call it fried worms - have gotten many laughs from people trying it for the first time but everyone loves it. I add a little noodle water to garlic &amp; old and sometimes fry some sage with garlic. Great recipe!",
+            "datePublished": "2026-08-11T17:37:05.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ginger"
+            },
+            "reviewBody": "always great",
+            "datePublished": "2026-08-06T17:12:03.088Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuaintBean3997"
+            },
+            "reviewBody": "Delicious!",
+            "datePublished": "2026-06-29T16:43:24.418Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krista"
+            },
+            "reviewBody": "I made this recipe and, other than doubling it and using angel hair pasta, I followed it exactly. It was way too oily. A real disappointment.",
+            "datePublished": "2026-06-18T19:27:05.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Esther Williams"
+            },
+            "reviewBody": "No changes excellent !!!",
+            "datePublished": "2026-05-12T00:47:00.229Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dave"
+            },
+            "reviewBody": "It's okay. It's nothing like the traditional way basically every one of us Italians make it in Italy. The parsley and peperoncino should be added to the oil and garlic process, but just before taking it off the stove. And the garlic should not be toasted! Not crispy.",
+            "datePublished": "2026-05-11T01:03:49.731Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shiloh Valdez"
+            },
+            "reviewBody": "Love this recipe. I slightly overcooked the garlic and it was still very good.",
+            "datePublished": "2026-04-29T03:29:15.061Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222000/spaghetti-aglio-e-olio/",
+          "name": "Spaghetti Aglio e Olio",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/505/main-dish/pasta/spaghetti/",
+                  "name": "Spaghetti"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

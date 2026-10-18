@@ -1,0 +1,162 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15667/wassail-ii/",
+  "extracted_at": "2026-10-18T02:16:31.666217+00:00",
+  "recipes": [
+    {
+      "name": "Wassail II",
+      "ingredients_raw": [
+        "2 cups cranberry juice",
+        "0.66666698455811 cup white sugar",
+        "7 cups water",
+        "2 cinnamon sticks",
+        "1 tablespoon whole allspice",
+        "1 tablespoon whole cloves",
+        "2 (20 ounce) cans pineapple juice",
+        "6 fluid ounces frozen concentrated fruit punch",
+        "1 (6 ounce) can frozen orange juice concentrate"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large pot over medium heat, combine the cranberry juice, sugar and water. Bring to a boil and stir until sugar is dissolved."
+        },
+        {
+          "id": 2,
+          "text": "Place the cinnamon, allspice and clove into a cheesecloth bag and tie shut. Add to the liquid and simmer 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Remove spice bag. Just before serving, add fruit juices. Serve steaming hot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Wassail II",
+        "datePublished": "1999-12-22T14:09:58-05:00",
+        "dateModified": "2022-09-26T16:18:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Marc"
+          }
+        ],
+        "description": "A non-alcoholic version which may be served from a 30 cup electric coffee server. Use between 2 and 3 cinnamon sticks, to suit your tastes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/DiC_XHCD_mpepjuWS6cvLO-w3Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/935970-35670e5e7883439a807db8421767243e.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Wassail II",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "66 kcal",
+          "carbohydrateContent": "17 g",
+          "fiberContent": "0 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "2 mg",
+          "sugarContent": "14 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "2 cups cranberry juice",
+          "0.66666698455811 cup white sugar",
+          "7 cups water",
+          "2 cinnamon sticks",
+          "1 tablespoon whole allspice",
+          "1 tablespoon whole cloves",
+          "2 (20 ounce) cans pineapple juice",
+          "6 fluid ounces frozen concentrated fruit punch",
+          "1 (6 ounce) can frozen orange juice concentrate"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large pot over medium heat, combine the cranberry juice, sugar and water. Bring to a boil and stir until sugar is dissolved."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place the cinnamon, allspice and clove into a cheesecloth bag and tie shut. Add to the liquid and simmer 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove spice bag. Just before serving, add fruit juices. Serve steaming hot."
+          }
+        ],
+        "recipeYield": [
+          "32",
+          "1 gallon"
+        ],
+        "totalTime": "PT0M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15667/wassail-ii/",
+          "name": "Wassail II",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

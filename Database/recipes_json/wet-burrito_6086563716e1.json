@@ -1,0 +1,501 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222013/wet-burrito/",
+  "extracted_at": "2026-10-18T03:14:14.728009+00:00",
+  "recipes": [
+    {
+      "name": "Wet Burrito",
+      "ingredients_raw": [
+        "1 pound lean ground beef",
+        "0.75 cup chopped onion, divided",
+        "2 cloves garlic, minced",
+        "1 (14.5 ounce) can diced tomatoes with juice, divided",
+        "1 tablespoon Worcestershire sauce",
+        "1.5 teaspoons chili powder",
+        "1 teaspoon paprika",
+        "1 teaspoon dried oregano",
+        "1 teaspoon ground cumin, divided",
+        "0.5 teaspoon ground black pepper",
+        "2 cups refried beans",
+        "1 (18 ounce) jar beef gravy",
+        "1 (10 ounce) can enchilada sauce",
+        "4 large flour tortillas",
+        "2 cups shredded Cheddar cheese, divided",
+        "1 cup sour cream, divided",
+        "0.25 cup chopped tomatoes, divided",
+        "1 cup chopped lettuce, divided"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Place a skillet over medium heat. Cook and stir ground beef, 1/2 cup chopped onion, and garlic in the hot skillet until beef is browned and crumbly, breaking it apart as it cooks, about 8 minutes; drain excess grease. Mix in 1/2 of the can diced tomatoes, Worcestershire sauce, chili powder, paprika, oregano, 3/4 teaspoon cumin, and black pepper. Bring meat mixture to a boil over medium-high heat and cook for 5 minutes, stirring often."
+        },
+        {
+          "id": 3,
+          "text": "Heat refried beans and remaining 1/4 teaspoon cumin in a saucepan over medium-low heat. Keep beans warm. Mix remaining diced tomatoes, beef gravy, and enchilada sauce in a separate saucepan; bring to a boil."
+        },
+        {
+          "id": 4,
+          "text": "Place tortillas onto a microwave-safe plate and cover with a damp paper towel; microwave tortillas until they are soft and warm, about 30 seconds."
+        },
+        {
+          "id": 5,
+          "text": "Place warmed tortilla onto a work surface and spoon 1/4 of the beef mixture in a line down the center. Layer 1/4 of the bean mixture on top of beef layer and spread 1/4 cup of the Cheddar cheese over the bean layer. Fold right and left edges of tortilla over the ends of the filling and roll up tortilla to make a burrito. Place burrito, seam side down, into a 9x13-inch baking dish. Repeat with remaining tortillas to make 4 burritos."
+        },
+        {
+          "id": 6,
+          "text": "Pour gravy sauce over burritos in the baking dish; top with remaining 1 cup Cheddar cheese."
+        },
+        {
+          "id": 7,
+          "text": "Bake burritos in the preheated oven until cheese has melted, 15 to 20 minutes."
+        },
+        {
+          "id": 8,
+          "text": "To serve, place each burrito on a serving plate and spoon sauce from baking dish over burrito. Top each burrito with 1/4 cup sour cream, remaining chopped onion, and chopped tomato. Finish each with 1/4 cup chopped lettuce."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Wet Burrito",
+        "datePublished": "2019-04-02T02:57:13-04:00",
+        "dateModified": "2023-01-02T09:32:51-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jordan VanderLaan"
+          }
+        ],
+        "description": "Wet burritos made casserole-style, stuffed with beef, beans, and cheese, get baked under a gravy. Serve with onion, tomato, lettuce, and sour cream.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/1gQDt83i6swnKhEV6qVbiecZk_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1572420-69481868a0c6489ab1c2f1e1278c56d9.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Wet Burrito",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "98"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "1191 kcal",
+          "carbohydrateContent": "104 g",
+          "cholesterolContent": "179 mg",
+          "fiberContent": "14 g",
+          "proteinContent": "59 g",
+          "saturatedFatContent": "29 g",
+          "sodiumContent": "2551 mg",
+          "sugarContent": "10 g",
+          "fatContent": "59 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "1 pound lean ground beef",
+          "0.75 cup chopped onion, divided",
+          "2 cloves garlic, minced",
+          "1 (14.5 ounce) can diced tomatoes with juice, divided",
+          "1 tablespoon Worcestershire sauce",
+          "1.5 teaspoons chili powder",
+          "1 teaspoon paprika",
+          "1 teaspoon dried oregano",
+          "1 teaspoon ground cumin, divided",
+          "0.5 teaspoon ground black pepper",
+          "2 cups refried beans",
+          "1 (18 ounce) jar beef gravy",
+          "1 (10 ounce) can enchilada sauce",
+          "4 large flour tortillas",
+          "2 cups shredded Cheddar cheese, divided",
+          "1 cup sour cream, divided",
+          "0.25 cup chopped tomatoes, divided",
+          "1 cup chopped lettuce, divided"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place a skillet over medium heat. Cook and stir ground beef, 1/2 cup chopped onion, and garlic in the hot skillet until beef is browned and crumbly, breaking it apart as it cooks, about 8 minutes; drain excess grease. Mix in 1/2 of the can diced tomatoes, Worcestershire sauce, chili powder, paprika, oregano, 3/4 teaspoon cumin, and black pepper. Bring meat mixture to a boil over medium-high heat and cook for 5 minutes, stirring often."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat refried beans and remaining 1/4 teaspoon cumin in a saucepan over medium-low heat. Keep beans warm. Mix remaining diced tomatoes, beef gravy, and enchilada sauce in a separate saucepan; bring to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place tortillas onto a microwave-safe plate and cover with a damp paper towel; microwave tortillas until they are soft and warm, about 30 seconds."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place warmed tortilla onto a work surface and spoon 1/4 of the beef mixture in a line down the center. Layer 1/4 of the bean mixture on top of beef layer and spread 1/4 cup of the Cheddar cheese over the bean layer. Fold right and left edges of tortilla over the ends of the filling and roll up tortilla to make a burrito. Place burrito, seam side down, into a 9x13-inch baking dish. Repeat with remaining tortillas to make 4 burritos."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour gravy sauce over burritos in the baking dish; top with remaining 1 cup Cheddar cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake burritos in the preheated oven until cheese has melted, 15 to 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "To serve, place each burrito on a serving plate and spoon sauce from baking dish over burrito. Top each burrito with 1/4 cup sour cream, remaining chopped onion, and chopped tomato. Finish each with 1/4 cup chopped lettuce."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SWSavvy"
+            },
+            "reviewBody": "This is it! This is the recipe I have been looking for. I had wet burritos when I was growing up in West Michigan. Could not find it ever again when I moved from there. Please do not compare with regular burritos that are made in the south. These have their own identity and taste. I made these for my family and got total rave reviews all around the table. Thank you for posting this recipe!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "eamus Viridi"
+            },
+            "reviewBody": "I, like Jordan, am from Grand Rapids and moved to Atlanta. When I saw Jordan's last name, I knew I had to try this. \n\nI made it exactly as designed, hoping to recreate the famous B*ltl*n* B*r wet burrito. If you've had it you probably know that you can't find this anywhere else but in West Michigan. \n\nIt did not disappoint! Yes, it's the gravy. What a surprise.\n\nTo be sure, this recipe is not designed to be a Texas burrito, or a California burrito, and we got a kick out of some of the comments that tried to make this something that it wasn't designed for. This is the West Michigan wet burrito. It is heavy and delicious! This is the best attempt I've run across to duplicate it. Three of us down here in Atlanta, all native West Michigan, gave this 5 stars and two thumbs up.\n\nThat being said, we are going to experiment a little going forward. We don't want to change the flavor, it's excellent and as designed! We think there might be a little more beef and a little less bean. This recipe turned out a little less dry than the real thing at B*ltl*n* and so I may try overcooking the beef and leaving the juice out of the diced tomatoes in the beef mixture. Finally, we are going to try putting the lettuce, tomato, and onion in the burrito, putting all of the cheese outside, and then do a low broil instead of baking. We will keep all of you West Michiganders posted.\n\nThanks Jordan!",
+            "datePublished": "2014-05-26T15:30:54.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle K"
+            },
+            "reviewBody": "My family has lived in Grand Rapids for 20 years and had no idea this was a West Michigan recipe until reading through the comments. Tasted just like the wet burrito sauce from Taco Boy (much closer to us than Beltline Bar). I did make a few tweaks: I didn't have any beef gravy so made a gravy using beef bouillon and added that to the enchilada sauce leaving out the dice tomatoes as I added the whole can to the meat instead. (Beef gravy, who knew?!) I also upped the amount of spice in the meat for more flavor. I spread each tortilla with a small layer of the refried beans before adding the beef then I added diced onions (soaked in water and lime juice to kill off some of the onion potency), lettuce, and tomato to the inside of the burrito before folding it up and covering it with sauce and cheese then broiled it on low just until the cheese melted, maintaining the crispness of the lettuce. My whole family loved it and said it tasted spot on. Thank you!",
+            "datePublished": "2020-04-21T00:42:43.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "This got raves from my husband. He even went as far as to say it is better than On The Border's food. While this was good it wasn't the same flavor as OTB. This was mild and more Midwesternized than TexMex. I don't know how this can only yield 4 burritos though as I got 8 and they were stuffed and I still had some filling left. I didn't have refried beans so I took a can of Ranch Style beans non-drained and smashed them up some and went from there. I mixed the bean/comino mix into the meat so all I had to do to build these was a scoop of beef/bean mix and some cheese then roll up and move on to the next one. I only used 2/3 a can of diced tomatoes and did add a pinch of kosher salt to the beef mix. I used medium spice canned enchilada sauce and a jar of brown gravy. I didn't have a lot of just Cheddar so I used a mexican cheese blend mix too. This was a nice mild dish and my husband raved. He is looking forward to taking the leftovers to work for lunch and sharing. We eat a lot of Mexican food and this passed our taste test. This was not my favorite but hubs loved it and had seconds so that makes it a keeper. My biggest complaint? It dirtied a lot of pots! Oh well, the food is good and that is what matters most. Thanks, I really enjoyed trying out this new recipe!",
+            "datePublished": "2013-07-16T18:45:46.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brook"
+            },
+            "reviewBody": "I initially saved this recipe to make because it looked different and delicious. I made it tonight...and boy did I get the delicious right! My husband was out of his mind for this meal. I felt like it compared to a \"burrito enchilada style\" dish that is served at one of our local Mexican food restaurants. I wasn't paying attention when I bought the beef gravy and only got a 12 oz jar. It was plenty. I will make this again and again for the rest of my life.",
+            "datePublished": "2025-12-16T03:38:19.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "runrgrl60"
+            },
+            "reviewBody": "I follow the recipe pretty close as far as ingredients, but since it's just the two of us, I make the burritos individually. I buy large burritos shells, fill them to our likings, pour the sauce over top, sprinkle with cheese then warm in the microwave. This way we can each choose what we like for fillings &amp; toppings. In my opinion the recipe for the sauce is far far better than the other recipe with over 700 reviews! I've made these w/ shredded beef, chicken, and ground beef. All great!",
+            "datePublished": "2014-02-28T11:09:00.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BRANGIE"
+            },
+            "reviewBody": "We made a few changes based on our own preferences. We added a large can of diced chilies, used gr. turkey, didn't layer - why when it just adds to prep time and dirty dishes - and didn't add the cheese until the sauce started to bubble in the center. We were skeptical, but it was GREAT!!! Thank you!",
+            "datePublished": "2012-08-30T10:25:04.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fiona Turro"
+            },
+            "reviewBody": "The idea of jar brown gravy was a total turn off for me, so I changed it to a jar of salsa (hot. family loves spicy). Major hit with this change. The other reason I had to make the changes is I don't remember ever buying jar gravy, lol...and I always have salsa in the house.",
+            "datePublished": "2016-05-21T15:28:50.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Menzes"
+            },
+            "reviewBody": "Was super easy and my husband loved it!!! We made them together. We will bake without the gravy on them next time to keep them crispy and pour gravy on afterwards.",
+            "datePublished": "2019-06-21T02:52:22.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "linda"
+            },
+            "reviewBody": "I made this recipe without changes! It was delicious! Next time I will double the sauce because instead of 4 large burritos I made 8. With additional sauce I will have more for serving over the top! I put the bean layer first, as someone mentioned, it was easier to spread that way!",
+            "datePublished": "2017-03-02T19:33:07.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "linda2d"
+            },
+            "reviewBody": "Wet burritos are a favorite here. I ran out of time so didn't bake them, just filled, rolled and then covered with sauce hot from the pan and veggies. Not quite the same but still quite good. I made homemade sauce and used fresh tomatoes rather than canned.",
+            "datePublished": "2012-07-03T05:10:19.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Victoria Harvis"
+            },
+            "reviewBody": "Put marinated steak and shrimp in mines. And no beans. Homemade enchilada sauce.",
+            "datePublished": "2025-02-28T23:52:52.329Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HeartySalad8218"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-10-16T20:24:57.892Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debby Romeo"
+            },
+            "reviewBody": "Everybody loves this recipe!!",
+            "datePublished": "2023-08-14T17:49:07.161Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JovialKnife4701"
+            },
+            "reviewBody": "So much better than a regular enchilada! I know I had a wet burrito years ago, but never knew what the difference was. Now, I know!",
+            "datePublished": "2022-04-08T03:15:21.832Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "eponymous74"
+            },
+            "reviewBody": "I live in Grand Rapids. my kid wanted wet burritos. I do not like these at the restaurant that makes them, but these are great.",
+            "datePublished": "2021-03-10T01:24:49.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Junebug"
+            },
+            "reviewBody": "This turned out better than I had hoped. It made 4 giant burritos. Maybe next time, if I can find smaller flour tortillas, I'll make smaller and more burritos. Otherwise, easy and good for a weeknight dinner.",
+            "datePublished": "2020-07-11T13:36:39.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat Dollar"
+            },
+            "reviewBody": "I followed the recipe exactly without even estimating the various herbs and spices. I was extremely disappointed and do not recommend this version. I am sure there is a much better recipe than this.",
+            "datePublished": "2020-05-10T21:49:52.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shyann30144"
+            },
+            "reviewBody": "Was not happy with this recipe , I will go back to Tamale sauce and brown gravy mix That Tate more like wet burritos I grew up on in Michigan",
+            "datePublished": "2018-08-13T21:23:20.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charlie Goersch"
+            },
+            "reviewBody": "Loved this version, added frozen corn for a bit more texture. We will make again very soon.",
+            "datePublished": "2018-05-26T20:35:19.990Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222013/wet-burrito/",
+          "name": "Wet Burrito",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

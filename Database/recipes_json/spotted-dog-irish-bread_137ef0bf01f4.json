@@ -1,0 +1,394 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220461/spotted-dog-irish-bread/",
+  "extracted_at": "2026-10-18T03:10:19.408252+00:00",
+  "recipes": [
+    {
+      "name": "Spotted Dog Irish Bread",
+      "ingredients_raw": [
+        "5 cups all-purpose flour",
+        "1.5 cups white sugar",
+        "2.6666667461395 tablespoons baking powder",
+        "2 eggs",
+        "2 cups milk",
+        "2 cups raisins"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Grease a 12-inch cast iron skillet."
+        },
+        {
+          "id": 3,
+          "text": "Sift flour, sugar, and baking powder together in a large bowl."
+        },
+        {
+          "id": 4,
+          "text": "Beat eggs with milk in a separate bowl."
+        },
+        {
+          "id": 5,
+          "text": "Stir egg mixture into flour mixture until moistened; batter will be very thick."
+        },
+        {
+          "id": 6,
+          "text": "Fold in raisins until thoroughly combined."
+        },
+        {
+          "id": 7,
+          "text": "Spread batter into prepared cast iron skillet."
+        },
+        {
+          "id": 8,
+          "text": "Bake in the preheated oven until bread has risen and is golden brown on top, about 1 hour."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spotted Dog Irish Bread",
+        "datePublished": "2020-06-18T23:47:49-04:00",
+        "dateModified": "2020-06-18T23:47:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Josh Lovejoy"
+          }
+        ],
+        "description": "A simple version of Irish soda bread with raisins is baked in a cast iron skillet. This is a vintage recipe handed down through the family.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8giJbQp865c1SlwXkB__WK3qS98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/807360-056a1ab08bd04a939ca0a414313a2c9b.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spotted Dog Irish Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "14"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "196 kcal",
+          "carbohydrateContent": "43 g",
+          "cholesterolContent": "17 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "179 mg",
+          "sugarContent": "21 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeCuisine": [
+          "Irish"
+        ],
+        "recipeIngredient": [
+          "5 cups all-purpose flour",
+          "1.5 cups white sugar",
+          "2.6666667461395 tablespoons baking powder",
+          "2 eggs",
+          "2 cups milk",
+          "2 cups raisins"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grease a 12-inch cast iron skillet."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Sift flour, sugar, and baking powder together in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat eggs with milk in a separate bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir egg mixture into flour mixture until moistened; batter will be very thick."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Fold in raisins until thoroughly combined."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread batter into prepared cast iron skillet."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until bread has risen and is golden brown on top, about 1 hour."
+          }
+        ],
+        "recipeYield": [
+          "24",
+          "1 12-inch bread"
+        ],
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie"
+            },
+            "reviewBody": "Nice and moist. This is our family's favorite Irish soda bread."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TrustyChip4678"
+            },
+            "reviewBody": "I loved this Spotted Dog bread recipe. I used some of the tips from other comments-a little less sugar, my iron pan was slightly smaller so skimmed some batter into side pan to avoid overflow, used dough hook for mixing)- and the bread was perfect. Such high quality result for such simple ingredients and instruction. I used cranraisins because that was all i had around, just as all good cooks do, make do. I can’t wait to make it again but need an occasion to share with others. Too tempting to have in the house with just the two of us. Thank you!",
+            "datePublished": "2023-03-17T21:18:20.682Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christopher Ford"
+            },
+            "reviewBody": "Turned out awesome! I actually made a few changes that turn out pretty well. I added about a quarter cup of brown sugar and a teaspoon of cinnamon, and it really adds to the flavour. I also baked it in a bread pan, as I didn't have a cast iron skillet - still turned out great, Just had a bit of a thicker crust. Loved it, thanks for the great recipe!",
+            "datePublished": "2016-02-13T21:48:39.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bob The Baker"
+            },
+            "reviewBody": "This was very easy to make. I made one change and that I used only one cup of golden raisin and one cup of currents. it was done in 45 mins. in my oven. I liked that it was baked in a cast pan and with very limited clean up. i used a Danish dough hook to mix and it worked well. It is a large loaf, very tasty with a nice top crust. Be wary that in a cast pan the bottom can get very dark if you do not watch.",
+            "datePublished": "2022-03-17T03:34:36.424Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lefty"
+            },
+            "reviewBody": "I cut this recipe in half using a smaller cast iron skillet. I had a bag of dried raisins, cranberries and cherries so I used this mix. Very pretty when I cut the bread. Very good and I will definitely make again. This would be a great breakfast bread with coffee or tea. Enjoy!!!",
+            "datePublished": "2017-09-12T20:43:39.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diana Chastain"
+            },
+            "reviewBody": "We all enjoyed the bread made as recipe recommended except I reduced the cooking time to 45 minutes. We all thought it needed some salt to really bring out the flavor and will cook for 35-40 minutes next time. It was quite an adventure!",
+            "datePublished": "2022-07-02T19:52:02.042Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie"
+            },
+            "reviewBody": "So easy and yummy! Did use 1/4 cup brown sugar and tsp cinnamon as suggested in another review. Used 2 round pans and they came out beautifully.",
+            "datePublished": "2021-01-28T17:04:54.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Val"
+            },
+            "reviewBody": "Since it was my first time trying my hand at spotted dog Irish bread, I decided to half the recipe and make one small loaf in an 8-inch cake pan. (I also substituted the raisins with chopped dates.) It came out perfectly moist with a soft, dense center and a slightly crunchy outer shell. Very sweet and flavorful too! Definitely smear softened butter on top, it’s the bomb. This bread is like a dessert!",
+            "datePublished": "2020-07-08T03:23:42.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steve Plank"
+            },
+            "reviewBody": "This is an amazing recipe! It most definitely is not \"soda bread,\" as it's made with baking powder (not soda), and it is sweeter than I expected. That notwithstanding, it is delicious. The only problem I had is that the largest cast iron skillet I had is 10\", not 12\". As a result, the bread rose pretty high and I had to cook it for 1 hour, 25 minutes before it was done in the middle...which resulted in the bottom of the bread being too done. I'm sure a 12\" skillet would have solved that problem. The recipe itself is simple, basic, easy to follow, easy to make. I'll be baking this again!",
+            "datePublished": "2019-03-14T17:19:35.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ISHKABIBBLEMOM"
+            },
+            "reviewBody": "Delicious and very easy to make. I used half the amount of sugar called for in the recipe and it still has a nice sweetness and very good texture. It browned quickly so I tented it with foil about half way through the baking time. I'll definitely make this one again. Thank you, Joshua, for sharing your family recipe!",
+            "datePublished": "2015-03-22T17:13:37.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ck022"
+            },
+            "reviewBody": "Very good. Sweeter than I expected. Will try it again with less sugar. I did use 2 cups of whole wheat flour to add some grains and it turned out really well.",
+            "datePublished": "2013-06-11T07:37:32.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca"
+            },
+            "reviewBody": "We love this slightly sweet bread and have made several times.",
+            "datePublished": "2017-12-17T16:51:34.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarahann1987"
+            },
+            "reviewBody": "The recipe is very well written and has good flavor, I haven't ever had this type of bread to have anything to compare it to. It was very easy to make. I think mine came out over baked as the edges were very crusted and tough, I think next time I will cut the baking time down. I did use a 12\" cast iron skillet, it came out of the pan very nicely when I turned it over on a cutting board and used a butter knife around the edges. Only change I would make is cut baking time back.",
+            "datePublished": "2016-03-10T09:36:32.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "susieQTee"
+            },
+            "reviewBody": "This was good! I made it to compare it to my M-I-L's recipe she calls Scon (rhymes with Ron, she's from County Caven). I have yet to find any similar recipe to hers or anything called Scon. The closest one likely originated in Scotland according to history. Anyways, her recipe is: 3 c white flour, 1 c white table sugar, 3 tsp baking powder, 1 c raisins (tip: for those that don't want to buy a big box of raisins it's 4-6 of the 1 oz snack size boxes), 1 egg, 1 1/2 to 1 3/4 c whole milk. Preheat oven to 350. Mix by whisk the egg and milk together in a large bowl. Mix the dry ingredients together, by whisk, in another large bowl. Add the dry ingredients slowly to the wet ingredients while mixing by whisk or hand mixer (I use a whisk and then at the end I use a hand mixer to get any lumps out). Stir in the raisins. Pour into a lightly coated glass loaf pan. It will be full, but it does make just 1 loaf. Bake for 1 hour. If a knife inserted in the middle doesn't come out clean after 1 hour, cover the edges with foil and bake longer (20- 40 min). I measure and rip off 2 pieces of foil, lay it on the stove top crossing each other to place the loaf pan in the center and fold up the sides to wrap the pan easily rather than trying to cover the edges of a hot pan with strips of foil. Try it, once cooled a slice is great with a spread of real butter and a cup of tea :)",
+            "datePublished": "2015-01-06T21:47:32.713Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220461/spotted-dog-irish-bread/",
+          "name": "Spotted Dog Irish Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1304/breakfast-and-brunch/breakfast-bread/",
+                  "name": "Breakfast Bread Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

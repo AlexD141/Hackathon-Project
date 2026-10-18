@@ -1,0 +1,207 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/150370/tomato-rarebit/",
+  "extracted_at": "2026-10-18T02:03:44.492485+00:00",
+  "recipes": [
+    {
+      "name": "Tomato Rarebit",
+      "ingredients_raw": [
+        "2 tablespoons butter",
+        "1 tablespoon all-purpose flour",
+        "0.75 cup milk",
+        "0.125 teaspoon baking soda",
+        "0.75 cup canned diced tomatoes",
+        "0.25 teaspoon prepared yellow mustard",
+        "2 eggs",
+        "1 cup shredded Cheddar cheese",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Melt the butter in a heavy saucepan over medium heat. Stir in flour until smooth, then continue to cook and stir until lightly browned, about 10 minutes. Gradually stir in the milk so that no lumps form and then simmer until thick, stirring the whole time. Remove from the heat."
+        },
+        {
+          "id": 2,
+          "text": "Stir together the baking soda and canned tomatoes; stir into the sauce. Whisk together the mustard and eggs; stir into the tomato sauce. Set the saucepan over a pot of barely simmering water (like a double boiler). Stir in the cheese and season with salt and pepper. Continue to cook, stirring occasionally, until cheese has melted."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tomato Rarebit",
+        "datePublished": "2018-06-08T09:49:08-04:00",
+        "dateModified": "2025-04-06T22:57:51-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "PJ's kitchen"
+          }
+        ],
+        "description": "Tomatoes flavor this rarebit made with Cheddar cheese. Serve over toast at tea time for a traditional snack. Great for a hot lunch during those cold winter days. Just add ham or sausage and serve with a salad to complete a evening dinner.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/VfiNYZyjhRZCdxiFzOBPoRqrQWg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/880524-728c88999fdb4b70b6b096fdb61ecf8e.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tomato Rarebit",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3",
+          "ratingCount": "2"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "265 kcal",
+          "carbohydrateContent": "6 g",
+          "cholesterolContent": "148 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "459 mg",
+          "sugarContent": "4 g",
+          "fatContent": "21 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "Welsh",
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons butter",
+          "1 tablespoon all-purpose flour",
+          "0.75 cup milk",
+          "0.125 teaspoon baking soda",
+          "0.75 cup canned diced tomatoes",
+          "0.25 teaspoon prepared yellow mustard",
+          "2 eggs",
+          "1 cup shredded Cheddar cheese",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Melt the butter in a heavy saucepan over medium heat. Stir in flour until smooth, then continue to cook and stir until lightly browned, about 10 minutes. Gradually stir in the milk so that no lumps form and then simmer until thick, stirring the whole time. Remove from the heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir together the baking soda and canned tomatoes; stir into the sauce. Whisk together the mustard and eggs; stir into the tomato sauce. Set the saucepan over a pot of barely simmering water (like a double boiler). Stir in the cheese and season with salt and pepper. Continue to cook, stirring occasionally, until cheese has melted."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "anniegolden"
+            },
+            "reviewBody": "I just don't understand the one star review by a previous reviewer. This is real similar to my Mom's rarebit that she made often in the 50's for dinner. I don't quite agree with all the steps, and I don't use baking soda, but this is good. My Mom added chopped green bell pepper, so that is what I do too. Saute the pepper in the butter before adding the flour, then proceed to make the cheese sauce which is similar to cheese sauce for mac and cheese with the addition of chopped tomatoes. Very good over toast. Kid friendly.",
+            "datePublished": "2020-09-29T17:13:41.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracey Ferrari Posner"
+            },
+            "reviewBody": "I am so sorry, but this recipe didn't even deserve one star, but it's making me use at least one.\n\n I have never written a poor review before and I'm not really sure what to say. First off, I made it EXACTLY as written; no adjustments. It not only lacks flavor, but when the cheese melted, the entire thing seperated and looks just terrible. Don't even get me started on what my house smells like right now! All in all, this recipe is in need of an overhaul. I'm so sorry...",
+            "datePublished": "2012-08-26T17:45:53.530Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/150370/tomato-rarebit/",
+          "name": "Tomato Rarebit",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+                  "name": "Dips and Spreads Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17192/appetizers-and-snacks/dips-and-spreads/cheese-dips-and-spreads/",
+                  "name": "Cheese Dips and Spreads Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

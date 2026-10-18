@@ -1,0 +1,477 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14415/cobb-salad/",
+  "extracted_at": "2026-10-18T01:59:52.678088+00:00",
+  "recipes": [
+    {
+      "name": "Cobb Salad",
+      "ingredients_raw": [
+        "6 slices bacon",
+        "3 eggs",
+        "1 head iceberg lettuce, shredded",
+        "3 cups chopped, cooked chicken meat",
+        "2 tomatoes, seeded and chopped",
+        "0.75 cup blue cheese, crumbled",
+        "3 green onions, chopped",
+        "1 avocado - peeled, pitted and diced",
+        "1 (8 ounce) bottle Ranch-style salad dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place eggs in a saucepan and cover completely with cold water; bring to a boil, then cover and remove from heat. Let eggs sit for 10 to 12 minutes, then cool, peel and chop."
+        },
+        {
+          "id": 2,
+          "text": "While the eggs are cooking, place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown, 7 to 10 minutes. Drain, crumble, and set aside."
+        },
+        {
+          "id": 3,
+          "text": "Divide shredded lettuce among individual plates. Arrange rows of bacon, eggs, chicken, tomatoes, blue cheese, green onions, and avocado on top."
+        },
+        {
+          "id": 4,
+          "text": "Drizzle with dressing and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Cobb Salad",
+        "datePublished": "1999-09-22T18:01:00-04:00",
+        "dateModified": "2026-01-20T19:15:26-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Barrett"
+          }
+        ],
+        "description": "This Cobb salad is packed with crispy bacon, hard-boiled eggs, chicken, tomatoes, creamy blue cheese, avocado, and green onion — what’s not to love?",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/lUCXnzWTl9WOQ9NRAT08hA4O2lE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14415-cobb-salad-DDMFS-4x3-608ba9c5768b49079eb75fe9a9898307.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/7euGIISa-K3AjnAEN.mp4",
+          "description": "With a homemade vinaigrette and savory cheese, salad doesn’t get tastier than this. In this video, Nicole shows you how to make a hearty Cobb salad with fresh vegetables and protein rich chicken. Best described as the sophisticated version of a chef’s salad, this top rated recipe combines chopped lettuce, onion, tomato, and avocado with smoky bacon, tender chicken, and a hardboiled egg. It’s an easy-to-make salad that will serve as a full meal for lunch or dinner!",
+          "duration": "PT3M33S",
+          "name": "How to Make Cobb Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7euGIISa/thumbnails/WKma9LsE.jpg?width=1280",
+          "uploadDate": "2023-10-16T15:21:38-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cobb Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "488"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "525 kcal",
+          "carbohydrateContent": "10 g",
+          "cholesterolContent": "179 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "915 mg",
+          "sugarContent": "5 g",
+          "fatContent": "40 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 slices bacon",
+          "3 eggs",
+          "1 head iceberg lettuce, shredded",
+          "3 cups chopped, cooked chicken meat",
+          "2 tomatoes, seeded and chopped",
+          "0.75 cup blue cheese, crumbled",
+          "3 green onions, chopped",
+          "1 avocado - peeled, pitted and diced",
+          "1 (8 ounce) bottle Ranch-style salad dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-buAGKihXjhIMRgrELJ3psdXQ_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14415-cobb-salad-ddmfs-step-1-0238-3x4-a311d54ff5c04e358f91cd199cff6faf.jpg"
+              }
+            ],
+            "text": "Place eggs in a saucepan and cover completely with cold water; bring to a boil, then cover and remove from heat. Let eggs sit for 10 to 12 minutes, then cool, peel and chop."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/iB7ZnIiVx6zYDjw51LE_Xs-eAOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14415-cobb-salad-ddmfs-step-2-0225-3x4-0864c3c5a0de4c0aae440966d97fbbf3.jpg"
+              }
+            ],
+            "text": "While the eggs are cooking, place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown, 7 to 10 minutes. Drain, crumble, and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-UMllV-fRo0eopKkEoTx2qR5VbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14415-cobb-salad-ddmfs-step-4-0252-3x4-ce922d587e5e4ba09b6838ce19ec68f7.jpg"
+              }
+            ],
+            "text": "Divide shredded lettuce among individual plates. Arrange rows of bacon, eggs, chicken, tomatoes, blue cheese, green onions, and avocado on top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lUCXnzWTl9WOQ9NRAT08hA4O2lE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14415-cobb-salad-DDMFS-4x3-608ba9c5768b49079eb75fe9a9898307.jpg"
+              }
+            ],
+            "text": "Drizzle with dressing and enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "I travel frequently and often have Cobb Salads when I do - on planes, in restaurants, hotels and even from grocery stores. I love a good Cobb Salad, but I never much paid attention to what I know is a classic list of ingredients. So glad to find this recipe here, and this is quite easily the best Cobb Salad I've ever had anywhere, probably because I controlled the ingredients, their quality and their freshness. I stuck to the ingredients as written as, again, I recognize them to be critical to an authentic Cobb Salad. I did, however, make my own Buttermilk Ranch Dressing. This was an ideal dinner to make for myself since Hubs is out of town and he would have never eaten this in a million years - well, not with the Blue cheese anyway. My tummy is happy. (Tip: Penzey's Spices makes a seasoning blend called \"Buttermilk Dressing and Dip\" which makes a quick but awesome ranch dressing! I don't even use buttermilk - just sour cream, mayo and half and half to desired thickness)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheryll Gent"
+            },
+            "reviewBody": "This was delicious. I used a spring mix instead of iceberg (just don't like it) and a dressing of EVOO, white wine vinegar and Dijon mustard. Marinated chicken breasts in Italian dressing over night and grilled it on my Big Green Egg. Even hubby liked it and that's a big deal. Thanks for the recipe. Will do it again.",
+            "datePublished": "2014-01-14T16:08:44.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MaineChef"
+            },
+            "reviewBody": "Excellent and satisfying dish. My husband loved it. I used grass fed bacon without additives so I could say it was a healthy dish. I've been reading lately that fat is actually good for us, in moderation of course. Unfortunately, I didn't have an avocado on hand. Used olives instead. This recipe would work for a \"salad in a jar\". Put the dressing of your choice in the bottom of a quart jar, then the tomatoes, then onion, then avocado. Sprinkle a little lemon juice over avocado to prevent browning. Add egg, then bacon and top it off with your choice of lettuce. Beautiful! And delicious &amp; healthy too!",
+            "datePublished": "2012-10-01T16:12:50.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "callmemochelle"
+            },
+            "reviewBody": "Easier way to make bacon: \nPreheat oven to 400\n- line baking sheet with parchment paper\n- add strips of bacon (thick cut world best) \n- bake for 20 to 22 minutes for crisp \n\nCarefully remove tray from oven. Transfer on paper towel and once cooled crumble it.",
+            "datePublished": "2021-05-15T04:32:42.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meghan Horton Welford"
+            },
+            "reviewBody": "Delicious. Made this almost entirely to instructions - but made a few alterations. 1) Marinated and grilled the chicken 2) Feta not Bleu Cheese 3) Spinach instead of iceberg",
+            "datePublished": "2017-08-27T22:50:40.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SZYQ1"
+            },
+            "reviewBody": "I love cobb and chopped salads, but haven't had one in a long time! I didn't bother measuring the lettuce and just placed the amount I wanted on the bottom of the bowl. We placed the other ingredients in separate bowls and added however much we wanted on top of the lettuce. Subbed the blue cheese for feta (we both dislike blue). If you think about your favorite salad, the components (ingredients) are simple to come up with. This recipe provides the perfect fix for a cobb salad and is easily modified as is any other salad. Thanks for providing a good recipe for a cobb salad!",
+            "datePublished": "2017-03-07T05:04:56.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cameron Lowery"
+            },
+            "reviewBody": "Turned out really good substitute of the blue cheese for feta and served with sliced cherry tomatoes to",
+            "datePublished": "2021-07-15T23:10:15.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Enoch Speary"
+            },
+            "reviewBody": "This is a great recipe. I made it with 6 slices of bacon, 6 cups of lettuce (3 cups head lettuce and 3 cups baby romaine mix) and added a can of garbanzo beans. I prefer it with French dressing, but put out several choices. It was a big hit.",
+            "datePublished": "2019-03-29T21:29:53.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy Kingseed"
+            },
+            "reviewBody": "Great as written. To make it more like the cobb salad I had in Key West - add black beans and corn and shrimp, fish, steak or chicken. Also, use a variety of greens. Omit onion.",
+            "datePublished": "2018-02-02T01:56:54.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy G"
+            },
+            "reviewBody": "I love ordering Cobb Salad at restaurants but the fresh salad at home was even more fabulous. I put some boneless chicken breast in a garlic flavored italian dressing in the morning and threw them on the grill while chopping up all the other ingredients. This one is a bit time-consuming in the prep department but the finished product is well worth it. Tasty and a beautiful presentation with all the colors and textures!",
+            "datePublished": "2007-04-23T16:38:04.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee'B"
+            },
+            "reviewBody": "I made this salad as directed, except for the avocado. It’s winter time now in Michigan, so I couldn’t get a decent one if I tried. I also made my own ranch dressing from the site, the Ranch Dressing ll. This was really good and just what I was craving. Thanks for putting the recipe together!",
+            "datePublished": "2021-01-10T19:09:40.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rozi Horn"
+            },
+            "reviewBody": "I really enjoy a good Cobb salad, and this one suits my taste buds very. If you do not want to cook yhe individual items, you can pick up each of these items from your grocer and combine the salad. Also, It is a great dish to take to any gathering. It is usually hit. Most people will go straight for it because of the protein and vegetable combination.",
+            "datePublished": "2026-07-18T17:56:48.824Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Liz G"
+            },
+            "reviewBody": "The best thing about a Cobb salad is its flexibility, so you are only limited by your personal tastes and what you have on hand. It's not all mixed up together, so you don't have to dig through the bowl of salad looking for a bite of this or a taste of that...it's like a perfect way to \"mix and match\" in whatever way you want in the moment. For dressing, use what you prefer because not everyone likes ranch, bleu cheese or French (my personal favorite is a homemade honey-mustard blended with red wine vinegar and olive oil).",
+            "datePublished": "2026-02-28T02:03:59.319Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rcoleman"
+            },
+            "reviewBody": "It's a Cobb Salad. It had the ingredients of a Cobb Salad and tasted like a Cobb Salad. If you gave a Cobb Salad recipe less than 5 stars because you wanted to use a different ingredient or there are easier ways to cook bacon, well you are one of those people.",
+            "datePublished": "2025-12-16T14:06:20.852Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SereneGouda3438"
+            },
+            "reviewBody": "Very good.",
+            "datePublished": "2025-09-15T13:18:57.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SnazzyKelp5341"
+            },
+            "reviewBody": "Great recipe and easy to follow.",
+            "datePublished": "2025-06-06T20:33:16.612Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JudeThree"
+            },
+            "reviewBody": "I used Turkey bacon since I'm allergic to 'regular'. Also used romaine because iceberg makes me a bit nauseous, yes too much information! Also, I used bagged cooked seasoned chicken (4.00 at Walmart). so I avoided the waste of a rotissiere. nothing major, but some modifications",
+            "datePublished": "2025-05-27T08:06:05.478Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOMMY2SIX"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-10T02:04:26.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DonWise Wise"
+            },
+            "reviewBody": "No changes needed",
+            "datePublished": "2024-10-28T03:00:53.735Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "APPLEKILLER"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-07-14T18:39:04.870Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14415/cobb-salad/",
+          "name": "Cobb Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

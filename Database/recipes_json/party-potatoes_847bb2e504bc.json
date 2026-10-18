@@ -1,0 +1,443 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15159/party-potatoes/",
+  "extracted_at": "2026-10-18T02:13:47.114423+00:00",
+  "recipes": [
+    {
+      "name": "Party Potatoes",
+      "ingredients_raw": [
+        "9 large potatoes, peeled and cubed",
+        "8 ounces cream cheese, cut into cubes",
+        "1 cup sour cream",
+        "2 teaspoons onion salt",
+        "1 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "2 tablespoons butter, cut into small chunks"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish."
+        },
+        {
+          "id": 2,
+          "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 10 to 12 minutes. Drain."
+        },
+        {
+          "id": 3,
+          "text": "Transfer potatoes to a large mixing bowl and mash until smooth. Stir in cream cheese, sour cream, onion salt, salt, and pepper. Beat with an electric mixer until light and fluffy. Transfer mixture to the prepared casserole dish and dot with butter."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until heated through, 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Party Potatoes",
+        "datePublished": "1999-11-23T18:32:53-05:00",
+        "dateModified": "2026-07-21T18:15:48-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Beth Neuenfeldt"
+          }
+        ],
+        "description": "Rich, creamy party potatoes are a blend of mashed potatoes, sour cream, cream cheese, and butter that can be made ahead and baked the next day.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/MaQd7ClP5fRnPISrwvk64GBRNcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2378245-6368afe531a14413babb41b0beb7f448.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Party Potatoes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "244"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "506 kcal",
+          "carbohydrateContent": "75 g",
+          "cholesterolContent": "52 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "12 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "888 mg",
+          "sugarContent": "3 g",
+          "fatContent": "19 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "9 large potatoes, peeled and cubed",
+          "8 ounces cream cheese, cut into cubes",
+          "1 cup sour cream",
+          "2 teaspoons onion salt",
+          "1 teaspoon salt",
+          "0.25 teaspoon ground black pepper",
+          "2 tablespoons butter, cut into small chunks"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 10 to 12 minutes. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer potatoes to a large mixing bowl and mash until smooth. Stir in cream cheese, sour cream, onion salt, salt, and pepper. Beat with an electric mixer until light and fluffy. Transfer mixture to the prepared casserole dish and dot with butter."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until heated through, 30 minutes."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 2-quart casserole"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Okay, I cheated on this one!! Having last-minute guests and wanting a great meal, instead of boiling potatoes and mashing them, I found the instant mashed potatoes in my cupboard and made some according to the box that would serve 10. I then mixed the cooked mashed potatoes with the remaining ingrediants and baked as directed. The last 10 minutes, I sprinkled cheese and bacon bits over the top and baked again until melted. GREAT GREAT potatoes. They were devoured! Thanks Beth...I'll do in the right way next time."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WeCook2gether"
+            },
+            "reviewBody": "I made this for Christmas for 10 people and this is what I did. Peel and boil 2 bags of white potatoes until fork tender. (I used 2 pots so they didn't get starchy). Put into a large mixing bowl with 1 8 oz package of light cream cheese, a 16 oz. container of sour cream, 3 tablespoons of butter, garlic powder, salt and pepper to taste. Mix well and poured into my crock pot, topped with sliced green onions and put on the \"keep warm\" setting until dinner. Just before serving I topped with a few dots of butter, stir and served. There wasn't a drop left over and everyone raved about them. Enjoy!",
+            "datePublished": "2013-12-26T06:52:51.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mariamou"
+            },
+            "reviewBody": "Oh, my gosh!! These were sooo good!! I boiled the potatoes with peels on them. I didn't use the sour cream or the onion salt -(trying to cut my fat levels). Instead, I squeezed one large clove of garlic through a press, and substituted \"I Can't Believe it's Not Butter\" for the butter. Used about 2/3 of the cream cheese and added skim milk until the potatoes were creamy with a few lumps here and there. This is the way I like 'em!! They were a huge hit in my household. Will make again for Thanksgiving!! Thanks for an Outstanding recipe! We absolutely loved them.",
+            "datePublished": "2011-11-12T11:35:54.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "I added chives to mashed potato mix and last 15 minutes of baking, I added slivered almonds to top with some butter!\nSooo goood!!!!!!",
+            "datePublished": "2016-09-23T21:07:59.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheila Ames Le Roy"
+            },
+            "reviewBody": "If you want to put this over 5 stars..stir in 1 can fried onions-lightly crushed.. place in a 9x13 pan.. Bake at 350 20 min. or till golden brown",
+            "datePublished": "2012-06-28T19:23:09.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janalee"
+            },
+            "reviewBody": "in addition to the recipe instructions, I added garlic salt to the boiling water to infuse that flavor into the potatoes, with good results. I also make a consummate from beef drippings to pour over the spuds during the meal. Yum!",
+            "datePublished": "2018-11-21T17:49:22.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SashaItaliano"
+            },
+            "reviewBody": "this is a great tasting potato dish! I made this for a Christmas eve get together with my home group. The changes I made was I added some onion dip as well as the cream cheese and sour cream. Instead of onion salt I used garlic salt and a jalapeno spice blend I have at the house! topped it with cheese and crumbled bacon! Delicious and a HUGE hit with everyone!!",
+            "datePublished": "2011-01-06T10:12:56.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KATPELT"
+            },
+            "reviewBody": "I'm not a mashed potato fan...but it's one of my DH's favorite things. I've made it several times now (for Thanksgiving and last weekend with meatloaf). The first time I followed the recipe to the \"T\" and everyone at Thanksgiving enjoyed it. The second time, the potatoes were still warm after I was done mashing them, I skipped the step of sticking them in the oven. Tasted just as great! So if you're running low on time, not putting it in the oven doesn't change anything and you save 30 minutes.",
+            "datePublished": "2009-02-25T06:41:41.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "summer girl"
+            },
+            "reviewBody": "So good I wanted to lick the pot clean! I made a few minor alterations that I think added to the flavor explosion: I used Yukon Gold potatoes, added a few roasted garlic cloves, and used 2 tsp onion powder and 2 tsp Kosher salt instead of 2 tsp onion salt and 1 tsp table salt. De-lish! :)",
+            "datePublished": "2010-10-08T14:23:55.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sissy's Momma"
+            },
+            "reviewBody": "Very good recipe. They do dry out in the oven, so I had to add more milk to moisten them. Also, I mixed green onion and bacon into the potatoes before I baked it. Put cheddar cheese on top, and they turned out really well. If you want to freeze some (before baking) make sure to add more milk because they can get dry.",
+            "datePublished": "2007-12-27T08:33:09.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedLegSoldier81"
+            },
+            "reviewBody": "They taste great. I also added a bag of Oscar Mayer real bacon bits and some chives. YUM!!!",
+            "datePublished": "2011-03-02T21:56:08.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Just A Guy who cooks"
+            },
+            "reviewBody": "Yum! Everyone at the table loved this easy to make side dish.",
+            "datePublished": "2022-06-12T20:41:52.581Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen"
+            },
+            "reviewBody": "We all loved these creamy mashed potatoes! I cooked it according to the recipe. The only change I would make is that 2T of butter dotted on the top was too much. After baking, the butter was still all runny on top and I had to bake longer. Be sure to grease the sides of the casserole dish well also.",
+            "datePublished": "2022-03-26T17:40:23.065Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "meyerkathy27"
+            },
+            "reviewBody": "I use O'Brien potatoes instead adds more flav. with the green / red pepper and onions.",
+            "datePublished": "2022-02-22T15:28:36.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gaye Tank"
+            },
+            "reviewBody": "Awesome. Well received.",
+            "datePublished": "2021-01-05T03:23:06.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie Hughes Hernden"
+            },
+            "reviewBody": "I make these on all the holidays my family loves them!!!",
+            "datePublished": "2017-04-29T23:26:30.863Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "annie starnes"
+            },
+            "reviewBody": "I did make one change I added a little extra garlic powder, I didn't have enough time to chop garlic for this one,but that would have been my preference! It was absolutely wonderful and it went over very well :-)",
+            "datePublished": "2017-01-31T16:07:08.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeni"
+            },
+            "reviewBody": "I added bacon bits before baking and realized I didn't have sour cream, so I substituted ranch dressing and they were excellent!",
+            "datePublished": "2016-12-31T00:23:06.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheryl"
+            },
+            "reviewBody": "Delicious! I made this for Christmas dinner and everyone loved it. I will definitely be making this again! I substituted onion powder for onion salt and used plain Greek yoghurt instead of sour cream.",
+            "datePublished": "2016-12-27T01:22:40.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "keld"
+            },
+            "reviewBody": "Yum! This was a really tasty recipe, with room for lots of improvising. I made it the night before Thanksgiving and stuck it in the fridge. The next day , I brought it out for 30 minutes, then cooked as the recipe stated. The potatoes had a nice, creamy texture and a mellow flavor. My husband doesn't usually care that much for mashed potatoes, but he thought these were very good. This recipe is a keeper!",
+            "datePublished": "2016-11-29T00:02:47.743Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15159/party-potatoes/",
+          "name": "Party Potatoes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+                  "name": "Potato"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,140 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/103869/iced-latte/",
+  "extracted_at": "2026-10-18T01:42:08.279565+00:00",
+  "recipes": [
+    {
+      "name": "Iced Latte",
+      "ingredients_raw": [
+        "1 cup boiling water",
+        "4 teaspoons instant espresso granules",
+        "0.33333331346512 cup SPLENDA® No Calorie Sweetener, Granulated",
+        "2 cups fat free half-and-half",
+        "2 cups 2% reduced-fat milk"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Pour boiling water over instant espresso granules stirring until granules dissolve. Add SPLENDA® Granulated Sweetener and remaining ingredients, stirring well."
+        },
+        {
+          "id": 2,
+          "text": "Chill 4 hours or overnight. Serve over ice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Iced Latte",
+        "datePublished": "2021-08-04T04:13:15-04:00",
+        "dateModified": "2021-08-04T04:13:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Allrecipes Member"
+          }
+        ],
+        "description": "Stay chilled with this creamy iced espresso drink.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/RIBd3_CIRuustsCtAOxxJnLcIcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/984260-2451ed6edb99415fbb62ed064c4f24f1.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Iced Latte",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "108 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "13 mg",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "181 mg",
+          "sugarContent": "10 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "1 cup boiling water",
+          "4 teaspoons instant espresso granules",
+          "0.33333331346512 cup SPLENDA® No Calorie Sweetener, Granulated",
+          "2 cups fat free half-and-half",
+          "2 cups 2% reduced-fat milk"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Pour boiling water over instant espresso granules stirring until granules dissolve. Add SPLENDA® Granulated Sweetener and remaining ingredients, stirring well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Chill 4 hours or overnight. Serve over ice."
+          }
+        ],
+        "recipeYield": [
+          "5",
+          "5 servings"
+        ],
+        "totalTime": "PT250M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/103869/iced-latte/",
+          "name": "Iced Latte",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,200 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17847/sues-minestrone/",
+  "extracted_at": "2026-10-18T02:28:06.790210+00:00",
+  "recipes": [
+    {
+      "name": "Sue&#39;s Minestrone",
+      "ingredients_raw": [
+        "1 pound ground beef",
+        "8 slices turkey bacon",
+        "1 (10.5 ounce) can beef broth",
+        "1 (11.5 ounce) can condensed bean with bacon soup",
+        "3.75 cups water",
+        "1 (8 ounce) can tomato sauce",
+        "1 tablespoon dried basil",
+        "1 tablespoon dried oregano",
+        "1 (10 ounce) package frozen mixed vegetables",
+        "1 (8 ounce) package egg noodles"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large pot over high heat, combine the meat, bacon, consomme, soup, water, tomato sauce, basil and oregano. Bring to a boil and reduce heat to low. Cover and simmer for 10 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Add the vegetables and simmer for another 20 to 30 minutes. Add the egg noodles and simmer uncovered for another 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sue&#39;s Minestrone",
+        "datePublished": "1999-12-29T09:59:21-05:00",
+        "dateModified": "2022-08-08T11:42:38-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Amy"
+          }
+        ],
+        "description": "Browned ground turkey and crisp-cooked bacon are combined with Italian-style mixed vegetables, beef consomme, dried pasta, and a can of bean and bacon soup in this dish seasoned with oregano and basil.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/5GwxiIpX3dvzPaU5Zp0ePTNkP-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/905102-dfc844151b16466da36bb2e739a85858.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sue&#39;s Minestrone",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.3",
+          "ratingCount": "3"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "436 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "98 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "966 mg",
+          "sugarContent": "2 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeIngredient": [
+          "1 pound ground beef",
+          "8 slices turkey bacon",
+          "1 (10.5 ounce) can beef broth",
+          "1 (11.5 ounce) can condensed bean with bacon soup",
+          "3.75 cups water",
+          "1 (8 ounce) can tomato sauce",
+          "1 tablespoon dried basil",
+          "1 tablespoon dried oregano",
+          "1 (10 ounce) package frozen mixed vegetables",
+          "1 (8 ounce) package egg noodles"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large pot over high heat, combine the meat, bacon, consomme, soup, water, tomato sauce, basil and oregano. Bring to a boil and reduce heat to low. Cover and simmer for 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add the vegetables and simmer for another 20 to 30 minutes. Add the egg noodles and simmer uncovered for another 10 minutes."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 8servings"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda T"
+            },
+            "reviewBody": "I thought this was a nice soup. I browned the beef and bacon up and then added everything in the crockpot and cooked for several hours. I am not much for canned soups so I think next time it would be better to use a can of beans and my own seasoning mix",
+            "datePublished": "2012-10-15T18:44:53.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOLSON7"
+            },
+            "reviewBody": "This was ok and I am going to play around with it a little more. I did not like the turkey bacon and will use Italian bacon next time. Also thought the basil was a little strong. Will increase broth and decrease water a bit. I browned the meat, bacon, an onion and some garlic before continuing. The noodles soak up a lot of the broth it is very thick.",
+            "datePublished": "2003-04-29T07:19:50.843Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17847/sues-minestrone/",
+          "name": "Sue&#39;s Minestrone",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17038/soups-stews-and-chili/soup/vegetable-soup/minestrone/",
+                  "name": "Minestrone"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

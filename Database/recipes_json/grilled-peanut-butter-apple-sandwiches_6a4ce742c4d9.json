@@ -1,0 +1,424 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/142184/grilled-peanut-butter-apple-sandwiches/",
+  "extracted_at": "2026-10-18T01:58:02.277903+00:00",
+  "recipes": [
+    {
+      "name": "Grilled Peanut Butter Apple Sandwiches",
+      "ingredients_raw": [
+        "0.5 teaspoon ground cinnamon",
+        "0.5 teaspoon white sugar",
+        "8 tablespoons creamy peanut butter",
+        "8 slices whole wheat bread",
+        "1 large Gala apple, peeled, cored, and thinly sliced",
+        "0.25 cup unsalted butter"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Mix cinnamon and sugar together in a small bowl."
+        },
+        {
+          "id": 2,
+          "text": "Spread 1 tablespoon peanut butter onto each bread slice."
+        },
+        {
+          "id": 3,
+          "text": "Arrange apple slices on 1/2 of the bread slices. Sprinkle cinnamon-sugar mixture evenly over apples. Sandwich remaining bread slices over apples with peanut butter facing down."
+        },
+        {
+          "id": 4,
+          "text": "Melt butter in a very large skillet over medium heat. Working in batches if necessary, cook sandwiches in the hot skillet until golden brown, 1 to 2 minutes per side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Grilled Peanut Butter Apple Sandwiches",
+        "datePublished": "2020-06-18T23:30:34-04:00",
+        "dateModified": "2022-10-14T09:48:02-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jacob Larson"
+          }
+        ],
+        "description": "These grilled peanut butter sandwiches with apples are a simple but impressive combination of flavors. Perfect for a quick lunch or after-school snacking.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/IIyEKs2zqcDak6nu03Kr5FguM8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/166334-2998ebe5d58e41d295f4bdbcc3b6cdde.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grilled Peanut Butter Apple Sandwiches",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "48"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "444 kcal",
+          "carbohydrateContent": "37 g",
+          "cholesterolContent": "31 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "420 mg",
+          "sugarContent": "7 g",
+          "fatContent": "30 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "0.5 teaspoon ground cinnamon",
+          "0.5 teaspoon white sugar",
+          "8 tablespoons creamy peanut butter",
+          "8 slices whole wheat bread",
+          "1 large Gala apple, peeled, cored, and thinly sliced",
+          "0.25 cup unsalted butter"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Mix cinnamon and sugar together in a small bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread 1 tablespoon peanut butter onto each bread slice."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Arrange apple slices on 1/2 of the bread slices. Sprinkle cinnamon-sugar mixture evenly over apples. Sandwich remaining bread slices over apples with peanut butter facing down."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Melt butter in a very large skillet over medium heat. Working in batches if necessary, cook sandwiches in the hot skillet until golden brown, 1 to 2 minutes per side."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 sandwiches"
+        ],
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Simple and delicious - great for a quick snack! I love peanut butter and apples but warm them up so the peanut butter is nice and melty and place them both between two slices of toasty, warm, crunchy bread and well...you have a really nice treat. I used a Granny Smith apple and I can't wait to try this with crunchy peanut butter."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SPARKLER8666"
+            },
+            "reviewBody": "I really loved these, but I did modify a bit so... I am sure it would taste good the way it is written, but I am of a creative mind and like to experiment. Here's what I did, just in case you want to try some of my modifications. First of all I always melt my butter for grilled sandwiches so I can use less. I only made two sandwiches, so 4 slices of bread, but I only used about 1.5 TBSP of butter (salted), by brushing it on the outsides of the bread with a silicon brush. I did this before spreading peanut butter on the other sides of the bread. Second, though I only made 2 sandwiches I used almost all of the apple. Thirdly, I precooked the apple for 30 seconds in the microwave with the cinnamon and sugar sprinkled on them. (I was afraid that the bread I was using wouldn't allow the heat to penetrate enough to cook the apple at all... I think this made a big difference. Yum!) Finally, I had this great apple cranberry whole grain bread laying around that sounded like it would be terrific with this recipe, and it was! My 95 year old grandma and my 9 year old daughter both liked the sandwiches very much. It was quite filling too.",
+            "datePublished": "2010-11-12T12:48:40.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ScratchCook"
+            },
+            "reviewBody": "I made this for my son's lunch. He is strictly a PB&amp;J kid. He was a little upset that I made something different. I called them \"Apple Pie Sandwhiches\" Not only were they a hit but now the other moms want the recipe. I did mine differently. I sauteed the apples in a skillet with butter, cinnamon and sugar. Then set the apples aside. I browned the bread on the skillet with the butter I used for the apples. Then I put peanut butter on the side of the untoasted bread slices, spooned the apples over one peanut butter slice and placed the other on top. I cut them in fourths for easier handling. I made these for my other kids too. It was the first time lunch time was silent.",
+            "datePublished": "2010-01-06T16:50:05.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Whitney Starz"
+            },
+            "reviewBody": "Yummy, delicious, tasty, had thought of this out nowhere and went to see if there was really a thing and ran across yours so I tried it out!! Soo good!! I put a little apple butter instead of the cinnamon &amp; sugar and it was perfect i also buttered the bread kinda habit from the way i do grilled cheese it was good i like the saltiness of cooked real butter i almost put to much though. Definitely awesome with warm PB and apples lovely on a cold colorado day! I'm so weird in winter I like eating almost all hot/warm food and in summer all cold food! I think this could work both ways. Also lots of variations can be done!",
+            "datePublished": "2015-01-27T16:16:32.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hockey Puck"
+            },
+            "reviewBody": "It was very good, but I made another one where I sauteed the apple slices with butter and sprinkled the cinnamon/sugar mixture over them while cooking before putting them on the PB coated bread. \nGave it a little more dessert like dimension. Good either way, and quick.",
+            "datePublished": "2014-08-27T19:08:46.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly2"
+            },
+            "reviewBody": "I used a whole wheat multigrain bread, enough PB to hold the apple in and no cinn/ extra sugar. This is a nice healthy (without the extra sugar) quick sandwich. I just made one so I grilled the extra apple slices while I grilled the sandwich and ate them on the side. Thanks for this simple taste, good idea. I am wondering if Swiss cheese may be a nice add...",
+            "datePublished": "2024-11-08T14:22:54.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "natsmom"
+            },
+            "reviewBody": "This was really yummy-tasted more like dessert than lunch. The cinnamon/sugar could probably be adjusted to suit taste. I used PB on both sides of the bread and added cin/sug. to the tops of the bread while frying which gave it a fried dough taste. My 5 yr old said this was the best lunch she's had in her whole life ;-. Next time, I'd like to try actually grilling these in on a panini grill to maybe cut down on the calories. Thanks!",
+            "datePublished": "2007-06-17T16:03:30.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GodivaGirl"
+            },
+            "reviewBody": "For this recipe I only had Granny Smith apples on hand to use. I also had a jar of cinnamon sugar already mixed. I put peanut butter on both sides of the bread, then sprinkled lightly with the cinnamon sugar. After adding apple slices I gave another light dusting of cinnamon sugar and toasted. Quick, easy and good!",
+            "datePublished": "2007-12-09T11:41:51.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth"
+            },
+            "reviewBody": "Wow!!! So so so yummy. Even the grownups wanted some at our art day. Definitely a keeper - we used crunchy peanut butter and I think that held it all together really well....The flavors really complimented each other!",
+            "datePublished": "2010-06-28T19:03:18.987Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kassinator"
+            },
+            "reviewBody": "absolutely delicious! i used a granny smith apple because that's all i had and put peanut butter on both sides of the bread.\n\nat first i didn't know what to expect with this recipe, but the apples soften up slightly and make this a delicious comfort food sandwich. i ate the rest of the apple dipped in splenda and brown sugar which was also really good!",
+            "datePublished": "2007-12-05T19:43:38.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GentleCup7494"
+            },
+            "reviewBody": "This was delicious. Have made peanut butter and apple sandwiches before for my son but never grilled them. Skipped the sugar but the bread grilled in the butter with the warmed peanut butter/cinnamon/apple taste was just amazing! Now I'm addicted!!",
+            "datePublished": "2023-12-18T05:10:39.036Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeGrape1428"
+            },
+            "reviewBody": "I used honey crisp apples, added more peanut butter, and tried it with rye bread; it tasted delicious! Have to try it!!",
+            "datePublished": "2022-06-13T18:37:56.241Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sariah Griffin"
+            },
+            "reviewBody": "These were great. I will add a bit more cinnamon/sugar mix next time, it was a bit hidden by the peanut butter.",
+            "datePublished": "2018-12-07T11:35:09.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cece1bean"
+            },
+            "reviewBody": "This was so good! I also added a little honey to it and it was so delicious! I'm definitely making this again.",
+            "datePublished": "2017-06-28T20:02:46.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alyssa"
+            },
+            "reviewBody": "Yummy!",
+            "datePublished": "2016-03-11T15:34:03.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Milenka Stocking"
+            },
+            "reviewBody": "Yum! really good.",
+            "datePublished": "2014-07-27T17:01:09.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen"
+            },
+            "reviewBody": "It was just okay for me.....I think I would prefer just a peanut butter and jelly sandwich over this one. It was very bland for the amount of calories I was taking in.",
+            "datePublished": "2013-08-01T05:19:32.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Regina Mccowan"
+            },
+            "reviewBody": "Was very easy to make and OH so good.",
+            "datePublished": "2012-08-12T17:01:22.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PUMPKIN314"
+            },
+            "reviewBody": "We had these as after school snacks. ALL my kids ate them, which is a feat in itself. Even the visiting child who initially said no to the sandwich, gave in and had one. Great with milk!",
+            "datePublished": "2012-03-14T07:25:55.880Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/142184/grilled-peanut-butter-apple-sandwiches/",
+          "name": "Grilled Peanut Butter Apple Sandwiches",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                  "name": "Sandwich Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

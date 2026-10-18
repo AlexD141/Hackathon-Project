@@ -1,0 +1,432 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/214761/collins-goulash/",
+  "extracted_at": "2026-10-18T02:54:01.396106+00:00",
+  "recipes": [
+    {
+      "name": "Collins Goulash",
+      "ingredients_raw": [
+        "1 (16 ounce) package elbow macaroni",
+        "1 pound ground beef",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 (10.5 ounce) cans condensed cream of mushroom soup",
+        "1 cup milk, or as needed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once water is boiling, stir in macaroni and return to a boil. Cook uncovered, stirring occasionally until pasta is tender and cooked through, about 10 minutes. Drain well."
+        },
+        {
+          "id": 2,
+          "text": "Cook ground beef in a skillet over medium heat, breaking meat up as it cooks until beef is browned and no longer pink. Drain excess fat. Stir in cream cheese until melted, then mix in condensed soup until thoroughly combined. Stir in milk, about 1/4 cup at a time, until the mixture has the consistency of gravy."
+        },
+        {
+          "id": 3,
+          "text": "Stir in macaroni, bring to a simmer, and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Collins Goulash",
+        "datePublished": "2019-04-02T02:53:35-04:00",
+        "dateModified": "2022-10-01T19:50:19-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mary Smallwood"
+          }
+        ],
+        "description": "This goulash recipe is what you need when the family is hungry and you have hamburger in the fridge. This tasty, creamy dish will fill everyone up.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/0kcNTYtSloUOyA44Sye6dVJkJY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7054296-0f231100825b47b7bc4513ef481b93e6.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Collins Goulash",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "56"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "486 kcal",
+          "carbohydrateContent": "49 g",
+          "cholesterolContent": "68 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "21 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "623 mg",
+          "sugarContent": "4 g",
+          "fatContent": "22 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) package elbow macaroni",
+          "1 pound ground beef",
+          "1 (8 ounce) package cream cheese, softened",
+          "2 (10.5 ounce) cans condensed cream of mushroom soup",
+          "1 cup milk, or as needed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once water is boiling, stir in macaroni and return to a boil. Cook uncovered, stirring occasionally until pasta is tender and cooked through, about 10 minutes. Drain well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook ground beef in a skillet over medium heat, breaking meat up as it cooks until beef is browned and no longer pink. Drain excess fat. Stir in cream cheese until melted, then mix in condensed soup until thoroughly combined. Stir in milk, about 1/4 cup at a time, until the mixture has the consistency of gravy."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in macaroni, bring to a simmer, and serve."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Candi"
+            },
+            "reviewBody": "I make a variation of this all of the time! I do, however, do a few things different: - I use about a cup of milk, instead of cream cheese - I add at least 2 cups of sliced fresh mushrooms (cooked with the ground beef) - I use plenty of seasonings while cooking the beef ( garlic powder, seasoning salt, a little rosemary, black pepper - all to taste) - and I use several different types of pasta. Sometimes I use spaghetti, sometimes penne, scoobidoos, rotini, etc - depending on what we feel like. They are all wonderful. This is one of our family favorites!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "txcatmagnet"
+            },
+            "reviewBody": "This is a recipe that my husband's grandmother made for us and I loved it. The only difference is that she put diced onion and frozen whole kernel corn in it also (I use half a 1 lb. bag). She used medium-sized egg noodles for the pasta. It does add a few more minutes to the meal, but I saute half a sweet onion and one clove of garlic, after I brown my ground beef and drain off the fat. I season the beef well while it is cooking (I use Tony's) but any type of seasoning is good. I use only one can of cream of mushroom soup and wisk it together with the cream cheese and one soup can of milk. Then throw it all together back in the skillet and let simmer for a few minutes. I was so glad she taught this to me. I make a meal of it with a salad and some good rolls.",
+            "datePublished": "2013-06-05T18:06:29.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "June Tennant"
+            },
+            "reviewBody": "Throw in a can of tomato soup and canned diced tomato and omit the cream cheese. Makes lots and everyone loves it. Like another review said add milk ...but I only added it if it's too thick like when you heat up the left overs (if there are any) More seasoning as well.",
+            "datePublished": "2019-04-15T16:14:06.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UALMEIDA"
+            },
+            "reviewBody": "My mom made a simpler version this dish all the time. (Didn't think it could get any more simple? Just omit the cream cheese and brown the ground beef with onions.) In college this was my homesick meal and it would cheer me up every time. Back to this recipe: To the browning ground beef I added about 2 Tbsp dried onions and 1 Tbsp garlic powder. While the pasta was boiling I added about a cup of fresh peas. I cut the cream cheese in half, used just one can of soup and half a can of milk (soup can). Creamy and rich but not overpowering. Next time I'll add some salt, maybe 1/4 tsp. I'd also add coarse ground pepper if it didn't give me heartburn :)",
+            "datePublished": "2011-05-30T18:19:05.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "We tried this last night and I was surprised by how well it was received by all my guys. I did make some changes though. I added minced yellow onion, green pepper, mushrooms and lots of garlic powder while the beef was browning. I only added one can of soup but almost 2 cups of milk because I added the uncooked pasta to the pan and needed the additional liquid for it to cook properly. I also added oregano, thyme, salt and pepper to the final 10 min. I think it would have been too bland for us without these additions but overall a very easy and tasty recipe. Thanks for posting!",
+            "datePublished": "2011-11-15T13:39:12.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tina"
+            },
+            "reviewBody": "I followed the other suggestions and added onion and mushrooms. Browned them in a couple tsps of butter. Added a can of cream of mushroom w/a can of milk and cream cheese. I ended up using some frozen meatballs I had in the freezer and added some worshershier sauce. This is a keeper but I don't think it would have been good w/o the onion &amp; mushrooms.",
+            "datePublished": "2011-01-27T16:58:29.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "littlemrsroberts"
+            },
+            "reviewBody": "amazing and easy.\nI used taco seasoned ground turkey meat, onion, lots of garlic and seasoning. will make again we love it.",
+            "datePublished": "2018-11-14T22:58:34.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catherine"
+            },
+            "reviewBody": "I made this tonight and followed other suggestions to add onion and garlic to the meat as it browned. I also added salt and pepper and mushrooms. Still the end result was a little bland. My hubby who thinks most food is too salty said it needs more salt or something. I also feel 16 oz of macaroni is too much. The basic flavor was good so I’ll keep working on it.",
+            "datePublished": "2020-12-20T01:42:51.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bobbi Shine"
+            },
+            "reviewBody": "Made it to the T. Then added a twist! Capers 1/4 c. Just took it beyond! Great dinner for the whole family and then some. Everyone enjoyed! Quick and easy!",
+            "datePublished": "2021-10-28T23:00:09.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelly A Underwood-Myers"
+            },
+            "reviewBody": "This was very easy and was yummy! I added salt, pepper, garlic and onion powder based on other reviews and it was wonderful. Everyone loved it.",
+            "datePublished": "2012-12-26T18:33:30.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda McNeese"
+            },
+            "reviewBody": "Addition of the seasonings suggested for flavoring make it delicious (seasoned salt, garlic, rosemary, salt, and pepper). I add crushed garlic clove instead of garlic powder. To make this even a quicker meal, I ended up using a 16 oz. box of quick cooking pasta that cooks in 3 minutes if you are in a real pinch for time and it is still delicious. I usually use whole wheat pasta for a healthier meal for your family and it's still delicious. If your family loves mushrooms you've got to add it to the recipe, makes it even better!",
+            "datePublished": "2010-10-15T19:10:00.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made it as directed. Only used salt and pepper on ground beef while cooking. I found it a delightful meal I never had before.",
+            "datePublished": "2024-12-16T02:51:45.665Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkyPizza2301"
+            },
+            "reviewBody": "Very nice ! Mine too is More like stroganoff but it’s how we like it , thank you for your seasoning ideas ! Thanks for sharing !",
+            "datePublished": "2022-05-15T22:59:00.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenna Brubaker Parker"
+            },
+            "reviewBody": "My kids love it (and my husband does too)!",
+            "datePublished": "2021-09-06T21:28:23.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mickey Reynolds"
+            },
+            "reviewBody": "I didn't take a picture of it but it came out very good. I sautéed onion with the ground beef. But it is good with small beef cubes etc. I also used jumbo macaroni noodles so it looked like it was a lot of food for our family. everyone ate a lot of it and it was very hearty as well.",
+            "datePublished": "2020-06-18T01:50:04.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eliot Rose"
+            },
+            "reviewBody": "The 2nd can of cream of mushroom soup was overkill. I added more milk to compensate for it",
+            "datePublished": "2017-03-27T00:40:37.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ruthncls"
+            },
+            "reviewBody": "I had to use ground turkey since my husband is on a bland diet, but this turned out spectacular. I did add a few more seasonings.",
+            "datePublished": "2017-03-15T22:45:10.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crystal Johnson"
+            },
+            "reviewBody": "This was quite bland. It definitely needs some seasonings.",
+            "datePublished": "2015-11-11T15:08:12.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Todd Simpson"
+            },
+            "reviewBody": "Was good. Added a chopped onion &amp; Old Bay Seasoning, salt/pepper. Will make again.",
+            "datePublished": "2014-12-28T19:15:33.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelsey Bolton"
+            },
+            "reviewBody": "...if its too bland and want a quick fix add a packet of dry lipton soup mix or brown gravy mix along with your personal seasoning favs.",
+            "datePublished": "2014-02-17T15:36:56.530Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/214761/collins-goulash/",
+          "name": "Collins Goulash",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+                  "name": "Stews"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17046/soups-stews-and-chili/stews/goulash/",
+                  "name": "Goulash Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

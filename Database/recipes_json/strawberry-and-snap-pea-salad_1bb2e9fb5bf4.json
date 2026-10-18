@@ -1,0 +1,158 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222026/strawberry-and-snap-pea-salad/",
+  "extracted_at": "2026-10-18T03:14:16.474388+00:00",
+  "recipes": [
+    {
+      "name": "Strawberry and Snap Pea Salad",
+      "ingredients_raw": [
+        "1 cup sugar snap peas",
+        "1.5 tablespoons extra virgin olive oil",
+        "2 teaspoons raspberry vinegar",
+        "0.5 teaspoon Dijon mustard",
+        "4 cups sliced fresh strawberries"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a medium pot of water to boil and place a steamer insert in the pot. Place snap peas in the steamer, cover, and cook until bright green, about 30 seconds. Drain, run under cold water to cool completely, drain, and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Whisk oil, vinegar, and mustard together in a bowl until well combined. Set aside for 3 to 5 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Combine snap peas and strawberries in a large bowl; pour vinaigrette over top and toss gently. Serve immediately or chill for up to 1 hour."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Strawberry and Snap Pea Salad",
+        "datePublished": "2010-04-26T14:16:26-04:00",
+        "dateModified": "2025-08-04T11:22:04-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mojito Mama"
+          }
+        ],
+        "description": "This strawberry and snap pea 5-ingredient salad recipe comes together quickly and easily with a simple dressing of raspberry vinegar and Dijon mustard.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/e1KaPV7Iu1ABzI2HhUb57v25I5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7107180-04c2f78ae5374c20b0bd104021eb98c7.jpg",
+          "height": 768,
+          "width": 1024
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Strawberry and Snap Pea Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "123 kcal",
+          "carbohydrateContent": "17 g",
+          "fiberContent": "4 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "18 mg",
+          "sugarContent": "9 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup sugar snap peas",
+          "1.5 tablespoons extra virgin olive oil",
+          "2 teaspoons raspberry vinegar",
+          "0.5 teaspoon Dijon mustard",
+          "4 cups sliced fresh strawberries"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a medium pot of water to boil and place a steamer insert in the pot. Place snap peas in the steamer, cover, and cook until bright green, about 30 seconds. Drain, run under cold water to cool completely, drain, and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk oil, vinegar, and mustard together in a bowl until well combined. Set aside for 3 to 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine snap peas and strawberries in a large bowl; pour vinaigrette over top and toss gently. Serve immediately or chill for up to 1 hour."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT20M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222026/strawberry-and-snap-pea-salad/",
+          "name": "Strawberry and Snap Pea Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

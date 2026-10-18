@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13420/old-fashioned-chicken-and-dumplings/",
+  "extracted_at": "2026-10-18T01:53:45.232667+00:00",
+  "recipes": [
+    {
+      "name": "Old Fashioned Chicken and Dumplings",
+      "ingredients_raw": [
+        "1 (3 pound) whole chicken",
+        "4 cubes chicken bouillon",
+        "2 cups all-purpose flour",
+        "4 eggs",
+        "1 teaspoon salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Fill a large pot with water, and add whole chicken. Bring to a boil, and then reduce heat. Simmer until tender, about 1 to 2 hours."
+        },
+        {
+          "id": 2,
+          "text": "Remove chicken from broth, and set aside to cool. Reserve broth. When cool enough to handle, remove meat from bones; cut into bite size pieces. Discard skin and bones."
+        },
+        {
+          "id": 3,
+          "text": "In a medium bowl, stir together flour and salt. Break one egg into flour, and stir with fork till stiff. Continue adding eggs one at a time until all are incorporated. The dough should be very stiff."
+        },
+        {
+          "id": 4,
+          "text": "Bring broth to a boil. Add bouillon cubes; stir until cubes have dissolved."
+        },
+        {
+          "id": 5,
+          "text": "Using a fork and knife, pick up dough on fork. Hold over boiling broth, and cut off small pieces into broth until all the dough has been used. Stir, cover, and simmer for 20 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Add chicken meat, and stir. Serve hot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Old Fashioned Chicken and Dumplings",
+        "datePublished": "1999-09-25T15:28:18-04:00",
+        "dateModified": "2022-11-08T04:58:23-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lana Walker"
+          }
+        ],
+        "description": "A whole chicken is boiled in water with salt and pepper to create the stock for this one-dish meal with chicken meat and steamed dumplings made from scratch.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/I1rhROhxMvN70kzXpiw5fn6abqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1763570-0a8eec9b1ef14a15a4405ea16d6e51d8.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Old Fashioned Chicken and Dumplings",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.1",
+          "ratingCount": "87"
+        },
+        "cookTime": "PT180M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "694 kcal",
+          "carbohydrateContent": "33 g",
+          "cholesterolContent": "295 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "51 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "1362 mg",
+          "sugarContent": "0 g",
+          "fatContent": "38 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeIngredient": [
+          "1 (3 pound) whole chicken",
+          "4 cubes chicken bouillon",
+          "2 cups all-purpose flour",
+          "4 eggs",
+          "1 teaspoon salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with water, and add whole chicken. Bring to a boil, and then reduce heat. Simmer until tender, about 1 to 2 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken from broth, and set aside to cool. Reserve broth. When cool enough to handle, remove meat from bones; cut into bite size pieces. Discard skin and bones."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, stir together flour and salt. Break one egg into flour, and stir with fork till stiff. Continue adding eggs one at a time until all are incorporated. The dough should be very stiff."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring broth to a boil. Add bouillon cubes; stir until cubes have dissolved."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Using a fork and knife, pick up dough on fork. Hold over boiling broth, and cut off small pieces into broth until all the dough has been used. Stir, cover, and simmer for 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add chicken meat, and stir. Serve hot."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT200M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie DeMore Anzalone"
+            },
+            "reviewBody": "This is an excellent recipe. But, I'm fortunate I have been making these dumplings forever. Old family recipe with stew for me, but I hate stew meat. When making these dumplings, I work the opposite, I have the eggs in the dish and keep adding flour to the egg. It MUST be the perfect mix or they do not come out correctly, but trust me once you get it, they are the best, much better than oven roll dough. When you are mixing these, you take some mixture onto the spoon, if it falls off quickly, add more flour, until the mixture almost needs a push with your finger to get off the spoon into the hot broth. When you add it to the broth, if it explodes, the mixture is too wet. Give it another try....this is a great recipe, you will enjoy Lana's family treasure."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mb Moul"
+            },
+            "reviewBody": "The recipe almost got it right, but the recipe I use for dumplings is 2C flour, 1 egg, 2 tsp baking powder, 1 tsp Crisco, pinch of salt, and water to moisten to a stiff dough forms (pie crust stiff). You'll have to boil until desired softness, but these taste MUCH better.",
+            "datePublished": "2009-10-03T07:28:56.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BusyMom"
+            },
+            "reviewBody": "All I can say is awesome. I made this for a family of very picky eaters (one who prefers peanut butter and jelly over anything) and we ALL loved it! I followed the suggestion of making it small dumplings instead of those big nasty biscuits that never turn out right.They turned out perfect. Well cooked and tender throughout.I also thickened with a little flour/water mixture, and added some celery salt to the broth, but I left out the bullion cubes. Simply put, this is delicious. Thank you for sharing this recipe. I will definitely make it again.",
+            "datePublished": "2009-12-07T17:07:47.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OZONED"
+            },
+            "reviewBody": "I agree with everyone else -- tough dumplings. If I had it to do again, I might actually try to flatten and drop in thin pieces instead of chunks. Even little dumplings are tough! Maybe add a little milk or less flour? I added thyme and thickened soup with cornstarch, and the texture was nice and comforting except the tough dumplings.",
+            "datePublished": "2010-07-24T17:17:06.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mkgodo"
+            },
+            "reviewBody": "The dumplings that are used in this recipes are not real dumplings. there are too many eggs in the recipes, they turn out like egg noodles used for chicken noodle soup rather than a dumpling. cut the eggs down to one egg, and 2 cups of flour, with 1 tablespoon of shortening and a teaspoon of salt. makes a perfect dumpling!",
+            "datePublished": "2010-09-16T08:36:56.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "STACYPW"
+            },
+            "reviewBody": "The quality of a chicken and dumpling recipe should be determined by the quality of the dumplings. I agree with one of the reviewers that the dumplings in this recipe are rubbery. It is nice that they hold together well. I think it is because of the eggs. But, rubbery dumplings may be to your liking so I suggest you do what I did-prepare the dough as directed while you bring the broth to a boil. Then, drop ONE in and let it cook. Sample it, and if you do not like it, make another batch of dough from another dumpling recipe that does not use eggs. I also added chicken gravy granules to the broth to thicken after the dumplings were finished which made it amazingly tasty.",
+            "datePublished": "2011-01-05T04:19:29.987Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LITTLECHILE"
+            },
+            "reviewBody": "I used some herbs to flavour the chicken stock with. Some fresh rosemary and a couple bay leaves which I then strained out when I took the chicken out. I wanted a stew not a soup so I ended up thickening this and it turned out really good. I also used a different dumpling recipe since I was worried the dumplings would be tough because of what the other reviewers said. But the flavour was excellent and I would use this recipe as a base again.",
+            "datePublished": "2006-02-08T13:54:45.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "After a separation from my wife of 14 years I've had to start cooking and like any man I take the easy way out lol... This recipe was so simple for me and it turned out fantastic... I noticed the dumplings were way too dry after adding all the eggs, maybe large eggs would of been better, but I only had 4 eggs, so I substituted another egg with a 1/4 cup milk and added two packs of chicken gravy mix instead of the boullion cubes turned out fantastic... I've made this meal 4 times now and every time it's been a success for me....",
+            "datePublished": "2005-09-28T10:46:10.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ginger S"
+            },
+            "reviewBody": "My picky son and husband loved this. Next time I would reduce the amount of water that I start with as it ended up to be a bit too much 'soup'. I added 2 cans of cream-of-mushroom after reading the reviews. It keeps the soup consistency but adds some flavor.",
+            "datePublished": "2011-01-22T13:35:38.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOMMY2BRADLEY"
+            },
+            "reviewBody": "This was one of the easiest chicken and dumpling recipes I've ever seen. My family loved it! My husband had me make it 3 times in one week. The only thing that I did different was to use 5 eggs instead of 4...5 just didn't seem to make the flour doughy enough. Also, I added 1 10.5oz can of campbells cream of chicken soup. I didn't do this the first time and it was still wonderful. The second time, I used a bit too much water and wanted to try and thicken it up. I didn't know it was going to give it such a wonderful added flavor. Recommended!",
+            "datePublished": "2002-11-13T17:02:19.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kat"
+            },
+            "reviewBody": "After following the receipe to a T, I thought I was going to have to throw the whole thing out. I thought out removing the dumplings and making them from another receipe, but changed my mind. When it says make the dumplings small, it means...make them pea size! These were the worst tasting dumplings I have ever tried. I then added a chopped up onion, some poultry seasoning, chopped garlic, parsley, lot of salt and pepper. I continued cooking them on low for another hour. The flavor got better on the soup part, but the dumplings are something to be desired, unless you like hard rubber. Blah! Can biscuits make better dumplings. If this family grew up beleiving these were dumplings, they would think that they had died and gone to heaven if they had the real thing. Sorry, never again. Renamed: Chicken Soup with rubber droppings.",
+            "datePublished": "2006-02-18T17:50:29.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat Lovett"
+            },
+            "reviewBody": "Added some seasoning. Didn't change the main recipe. Didn't have.",
+            "datePublished": "2024-12-16T04:05:30.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MintDish7417"
+            },
+            "reviewBody": "Food was cooked and edible, flavor was not there. If you a person who doesn't like any type of seasoning this recipe is for you, if you like to eat and enjoy your food it's not for you.",
+            "datePublished": "2023-02-08T00:20:59.115Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelli Bailey"
+            },
+            "reviewBody": "made it several times, very easy to make and kids love it",
+            "datePublished": "2017-01-25T11:59:28.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Penny Williams"
+            },
+            "reviewBody": "Dumplings were tough...not good at all.",
+            "datePublished": "2015-07-22T10:19:54.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anastasia Eidson"
+            },
+            "reviewBody": "We tried this and the dumplings were more like hard noodles.",
+            "datePublished": "2015-02-28T16:40:40.457Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ONIOND"
+            },
+            "reviewBody": "Awesome! I just wish I hadn't substituted whole wheat flour (I used about 3/4 cup, the rest white). Also, I have never made dumplings before and wasn't really sure how big to make them; I think mine (at about 1-1/2--2 inches) were too big, as they were dry in the middle. My 4-year-old loved them anyway, and so did picky-eater boyfriend, so, Awesome!",
+            "datePublished": "2014-12-02T08:11:10.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachele Bishop"
+            },
+            "reviewBody": "My first attempt at chicken and dumpling and it was delicious! Although I used pre made dumplings it was still good. Will try my hand at my own dumplings next time.",
+            "datePublished": "2012-11-10T04:13:17.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nhdotson"
+            },
+            "reviewBody": "GThe dumplings were tough and tasteless..... next.",
+            "datePublished": "2012-07-15T17:52:55.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FIREBRAND95"
+            },
+            "reviewBody": "i'd never made chicken n dumplins before but this is a great recipe! hubby approved!",
+            "datePublished": "2012-02-28T09:56:30.623Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13420/old-fashioned-chicken-and-dumplings/",
+          "name": "Old Fashioned Chicken and Dumplings",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/181/soups-stews-and-chili/soup/noodle-soup/",
+                  "name": "Noodle Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

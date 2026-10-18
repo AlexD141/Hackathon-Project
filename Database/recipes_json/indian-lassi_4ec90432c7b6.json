@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20435/indian-lassi/",
+  "extracted_at": "2026-10-18T02:45:00.564387+00:00",
+  "recipes": [
+    {
+      "name": "Indian Lassi",
+      "ingredients_raw": [
+        "ice cubes",
+        "1.75 cups plain yogurt",
+        "1.5 cups ice water",
+        "6 cubes ice, crushed",
+        "2 teaspoons white sugar",
+        "1 pinch salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Fill 6 tall glasses with ice cubes."
+        },
+        {
+          "id": 3,
+          "text": "Place yogurt, ice water, crushed ice, sugar, and salt in a blender; blend until frothy."
+        },
+        {
+          "id": 4,
+          "text": "Pour over ice cubes in the glasses to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Indian Lassi",
+        "datePublished": "2000-07-13T11:34:28-04:00",
+        "dateModified": "2025-11-25T11:10:07-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Simmi G"
+          }
+        ],
+        "description": "Learn what a lassi drink is with this basic recipe made with yogurt, cold water, sugar, and salt, served with lots of ice for a refreshing beverage.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/KEVUQJxoTc3TGSbcnX324p0VUFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20435-indian-lassi-ddmfs-beauty-4x3-BG-3232-a267d3b6918240ea9e14dc71b928a5e2.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Indian Lassi",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "26"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "50 kcal",
+          "carbohydrateContent": "6 g",
+          "cholesterolContent": "4 mg",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "51 mg",
+          "sugarContent": "6 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeCuisine": [
+          "Indian Inspired"
+        ],
+        "recipeIngredient": [
+          "ice cubes",
+          "1.75 cups plain yogurt",
+          "1.5 cups ice water",
+          "6 cubes ice, crushed",
+          "2 teaspoons white sugar",
+          "1 pinch salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Av15gmD7BNlvTVuoAClTAqekz24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20435-indian-lassi-ddmfs-step-1-BG-3199-44b295af395648ca80e2d930333d3ed7.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/S9Y02dFoLRJOBG63Xs55Bv4vtaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20435-indian-lassi-ddmfs-step-2-BG-3202-262ce63d95704e818cbc88570c05483d.jpg"
+              }
+            ],
+            "text": "Fill 6 tall glasses with ice cubes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/G9eisecsvCrzPQ_oWVWA5QOOrdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20435-indian-lassi-ddmfs-step-4-BG-3209-7d1cdd0258194b6087a91d93c8af20d0.jpg"
+              }
+            ],
+            "text": "Place yogurt, ice water, crushed ice, sugar, and salt in a blender; blend until frothy."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/w-R8EO__2NQKlIXwT_Pb4Of4FZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20435-indian-lassi-ddmfs-step-5-BG-3215-325bb47b7f2d4bd0b285fba764ed142d.jpg"
+              }
+            ],
+            "text": "Pour over ice cubes in the glasses to serve."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was delicious! Very cool and refreshing! I made the six servings (not realizing how much it would make) and drank it all (which is alot for a thirteen year old)! It was a nice change from the usual mango lassi I make."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alexandra Lynch"
+            },
+            "reviewBody": "This is a really good basic recipe. I followed another reviewer in substituting milk for the water, and added a half cup of pureed pineapple and two tablespoons of lime juice, and then sweetened with Splenda to taste, along with a shake of cardamom. Sweet-sour pineapplelime deliciousness we'll definitely do again.",
+            "datePublished": "2016-09-22T01:09:38.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MariaV"
+            },
+            "reviewBody": "This tasted nothing like the lassi's I've had at Indian restaurants. It is very sour, there isn't a hint of sweetness with only 2tsp of sugar. Adding 4 TBS of sugar made it sweet, but it still didn't have the flavor of a lassi. It needs rosewater and perhaps something else. I hope I can find a better recipe.",
+            "datePublished": "2011-05-01T15:54:02.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GRANOLACOWGIRL"
+            },
+            "reviewBody": "I followed the recipe for my hubby and I, but added some frozen blueberries at the end. Delish!!\n\nThen, I customized it for our child by adding a dallop of natural honey to make it sweeter. The result was a healthy version of the \"Yop\" drink that kids like. All the taste but none of the fructose glucose!",
+            "datePublished": "2011-02-06T18:17:33.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fairy"
+            },
+            "reviewBody": "Too watery. It's way better with ice-cold milk than water. Water is used only by Indian restaurants for profit. Real lassi is all milk and yogurt, no water.",
+            "datePublished": "2011-05-10T09:57:56.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cupcake Princess"
+            },
+            "reviewBody": "I used a tablespoon of sugar, added a 1/2 teaspoon of rose water, and didn't add the salt. I used about a 1/2 cup of water and the consistency was perfect. Thanks for the great recipe!",
+            "datePublished": "2011-01-21T14:51:54.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Benjamin Garn Booth"
+            },
+            "reviewBody": "The only reason I'm giving this 4 stars instead of 5 is because I had to add 8 teaspoons instead of just 2 to make this taste like authentic Indian lassi that I've had. If you add about that much sugar, it is just like the real thing!",
+            "datePublished": "2009-08-15T11:35:33.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katrina"
+            },
+            "reviewBody": "I would not recommend using non fat yogurt! I had to add something to make it taste sweeter and went with chocolate syrup for the flavor and then it was okay. Next time I will stick to regular yogurt.",
+            "datePublished": "2011-06-16T13:59:28.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JOSIE"
+            },
+            "reviewBody": "I turned this drink into a fruit lassi by adding some banana and mango. I used about 2 cups of yogurt. I also used 1/2 milk and 1/2 water and added some cardamom and rose water to give a little more flaovr.",
+            "datePublished": "2004-09-09T06:21:09.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nici"
+            },
+            "reviewBody": "Super refreshing! I added 3 tsp. sugar, and only 1 cup of water- it looked like it would be way to thin with all the water. I am definitely going to make this more often!",
+            "datePublished": "2010-05-12T15:25:33.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FURB"
+            },
+            "reviewBody": "This was fast, easy, and delicious. I put a banana in, as it would have spoiled within a day, and garnished with cinnamon.",
+            "datePublished": "2008-01-05T16:50:33.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yoly"
+            },
+            "reviewBody": "I scaled the recipe to 1 serving. I used Truvia in place of the sugar. I also wound up adding 3 more ice cubes. I liked it but not enough to make it again.",
+            "datePublished": "2022-09-23T20:43:30.975Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aszure Verling"
+            },
+            "reviewBody": "Perfect plain lassi recipe. So easy to add a few ingredients to make many different versions as well.",
+            "datePublished": "2020-05-11T23:09:14.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "danielle1226"
+            },
+            "reviewBody": "Add some cardamom for a citrusy finish!",
+            "datePublished": "2016-07-13T23:37:30.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brynn"
+            },
+            "reviewBody": "Very easy to make, and my boyfriend who is from India and grew up drinking lassi, loves this recipes.",
+            "datePublished": "2009-03-13T16:28:06.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bluej51"
+            },
+            "reviewBody": "Love Lassis! So simple. Love to add fresh fruit for different flavors.",
+            "datePublished": "2007-12-08T14:40:52.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kdmorgan77"
+            },
+            "reviewBody": "Tasted authentic, but next time I will add more sugar.",
+            "datePublished": "2007-07-14T10:50:51.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah2006"
+            },
+            "reviewBody": "Delicious. Great way to eat dairy products. I had this for breakfast made with banana. I will definitely make it again but I think I'll reduce the sugar a little.",
+            "datePublished": "2005-02-15T10:36:13.670Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20435/indian-lassi/",
+          "name": "Indian Lassi",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/233/world-cuisine/asian/indian/",
+                  "name": "Indian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

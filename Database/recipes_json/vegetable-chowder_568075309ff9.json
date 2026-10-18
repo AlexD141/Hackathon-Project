@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12899/vegetable-chowder/",
+  "extracted_at": "2026-10-18T01:51:13.369217+00:00",
+  "recipes": [
+    {
+      "name": "Vegetable Chowder",
+      "ingredients_raw": [
+        "0.25 cup margarine",
+        "0.5 cup chopped red bell pepper",
+        "0.5 cup chopped onion",
+        "3 cups water",
+        "1 cup chopped celery",
+        "1 cup diced carrots",
+        "1 cup cauliflower, chopped",
+        "1 cup fresh chopped broccoli",
+        "3 cubes chicken bouillon",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1.5 cups milk",
+        "0.5 cup all-purpose flour",
+        "1 tablespoon chopped fresh parsley",
+        "3 cups shredded Cheddar cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Melt margarine in a Dutch oven or soup pot over medium-high heat. Add bell pepper and onion; cook until tender."
+        },
+        {
+          "id": 2,
+          "text": "Add water, celery, carrots, cauliflower, broccoli, bouillon cubes, salt, and black pepper; bring to a boil. Reduce heat; simmer, covered, until vegetables are tender, about 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Whisk milk and flour together in a bowl until smooth; stir into soup. Bring soup to a boil; cook and stir 2 minutes. Stir in parsley. Just before serving, stir in Cheddar cheese until melted."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Vegetable Chowder",
+        "datePublished": "1999-01-12T22:55:56-05:00",
+        "dateModified": "2026-03-25T12:54:55-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "TALL MOM"
+          }
+        ],
+        "description": "This vegetable chowder recipe is full of veggies, cooked in chicken or vegetable broth, and combined with a creamy cheddar cheese mixture with parsley.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/4zeAewty7Ipn-136hxIML1OsK4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2525491-65385eee2f6645fd8b53f2f2c6e37ccc.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Vegetable Chowder",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "321"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "341 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "55 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "16 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "927 mg",
+          "sugarContent": "5 g",
+          "fatContent": "24 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.25 cup margarine",
+          "0.5 cup chopped red bell pepper",
+          "0.5 cup chopped onion",
+          "3 cups water",
+          "1 cup chopped celery",
+          "1 cup diced carrots",
+          "1 cup cauliflower, chopped",
+          "1 cup fresh chopped broccoli",
+          "3 cubes chicken bouillon",
+          "salt to taste",
+          "ground black pepper to taste",
+          "1.5 cups milk",
+          "0.5 cup all-purpose flour",
+          "1 tablespoon chopped fresh parsley",
+          "3 cups shredded Cheddar cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Melt margarine in a Dutch oven or soup pot over medium-high heat. Add bell pepper and onion; cook until tender."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add water, celery, carrots, cauliflower, broccoli, bouillon cubes, salt, and black pepper; bring to a boil. Reduce heat; simmer, covered, until vegetables are tender, about 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk milk and flour together in a bowl until smooth; stir into soup. Bring soup to a boil; cook and stir 2 minutes. Stir in parsley. Just before serving, stir in Cheddar cheese until melted."
+          }
+        ],
+        "recipeYield": "7",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Great recipe. To lower the calorie count I used a vegetable spray to saute instead of butter, used half of the cheese and blended 1/3 of the soup in my blender rather than thickening with the flour and milk. Still tastes great and is healthier as I try to drop post holiday pounds!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brookside Bistro"
+            },
+            "reviewBody": "This was so amazing!!! I didn’t have bell pepper, celery or parsley so I did not have them in the soup; however, I used leftover broccoli, carrots &amp; cauliflower that already had a little butter on it, so I didn’t add margarine to the soup. I used 1/3 cup flour &amp; blended it with the broth using an immersion blender. I puréed half the veggies with the flour/broth mixture and added a tsp of garlic powder to the purée before dumping it in my crock pot with the remaining vegetables. I added 3 TBSP minced onion, pepper, milk and 2 cups cheddar (instead of 3 cups, as it was plenty cheesy already) to the broth mixture and stirred until ingredients were evenly mixed. I cooked on low for 4 hours ...this was absolutely fantastic on a very cold day!",
+            "datePublished": "2018-01-06T19:19:10.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori"
+            },
+            "reviewBody": "This is a great soup as written. I tried to lighten it up a little. I used boxed chicken broth instead of water and bouillon. I also didn’t have any celery, so I used a little more cauliflower, carrots, and broccoli to make up for it. I did let it simmer for 20 minutes because I wanted the veggies super soft. After the 20 minutes, I used my immersion blender to make it all a smooth bisque. Instead of milk and flour, I used more broth and cornstarch to thicken it. I added 2 cups of cheddar cheese, but I think after tasting it that I could have used less. I know that it’s not a chowder anymore, but instead it’s a creamy, satisfying, lower calorie option.",
+            "datePublished": "2021-01-31T19:13:09.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bekalu"
+            },
+            "reviewBody": "I use this basic recipe all the time and it's great. I usually mix 1/2 chicken broth with the bouillon and water. I mash the veggies in the pot with a potato masher for a chunkier soup and we really like it that way. Most of the time I just use a big bag of frozen broccoli &amp; cauliflower, great when the fresh veg is getting low. Right now we have a lot of zucchini in the garden, so I used that and worked great. Added shredded chicken and cooked rice at the very end, it was very hearty! I serve with cheddar biscuits. Yummo.",
+            "datePublished": "2019-09-15T04:26:58.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shophappy"
+            },
+            "reviewBody": "I loved this! I cooked 2 pieces of chopped bacon 1st, for that smokey taste, then added a splash of olive oil &amp; sauteed my onion and then sprinkled 1/2 cup of flour to cook out any flour taste, added broth instead of water/bouillon and then tossed in my veggies &amp; herbes de provence along with a bay leaf. Once cooked I blended 1/2 of the mixture for added creaminess, then added half &amp; half and cheese. YUM!",
+            "datePublished": "2013-10-14T13:20:39.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cora Lynn"
+            },
+            "reviewBody": "I subbed potatoes for cauliflower, added chicken, and mixed the cheese into the roux before adding it to the broth. I also used chicken broth instead of bouillon, everything was tasty!",
+            "datePublished": "2019-09-23T03:24:29.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Michael"
+            },
+            "reviewBody": "Used as a basis and added potatoes to thicken rather than flour. I used an immersion blender and it was terrific.",
+            "datePublished": "2024-04-07T22:33:12.654Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meg"
+            },
+            "reviewBody": "This is pretty good and very easy. I halved the recipe and made a few changes. The most important is that I reduced the amount of cheese by half or more and put some on the table to sprinkle on at the end. With less cheese, the flavor of the vegetables is nice (I also added some frozen green beans, corn, and peas) but the soup is rather bland. I added some basil while sautéing the onion and pepper but it definitely needed more of something. I recommend putting in a lot less flour (half?) and boiling the vegetables for 10 minutes or less (I did 10 min and my bite-sized broccoli was mush).",
+            "datePublished": "2018-03-03T02:28:34.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie C."
+            },
+            "reviewBody": "This soup was so good! I feel like celery does not add much, and I would have had too much left over if I'd bought the bunches my store had, so instead I just put in 2 red peppers. Confession: I definitely used WAY more than 1 C of each vegetable, I wanted a big pot of soup. I have this problem with buying vegetables in equal quantities and then realizing at home that they are like 3x what the recipe calls for. I used 3 of what my store labeled 'broccoli crowns' and only 1 cauliflower head which was kind of smallish, could've added two IMO. A medium/large onion, 2 cans of corn because I LOVE corn in soup, and 3 or 4 carrots. My fiancee requested THICK soup so I added a little more flour/milk on top of the around-3x ingredients I used and it thickened amazingly, especially the next day. HOWEVER: I did not add ANY cheese to this. I see no point. The red peppers, butter, and onions you cook at first gives this incredible, sweet aftertaste that would be totally lost with cheese IMHO. I did not triple the bouillon though and I used dried parsley instead of fresh. Never would've put broccoli and cauliflower in chowder otherwise. Thanks very much for the recipe.",
+            "datePublished": "2011-12-19T18:43:40.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "stacy voss"
+            },
+            "reviewBody": "What a delicious veggie chowder! Even my meat eater husband liked it! Followed recipe except added extra cup of broth and used immersion blender . Only added about 1/2 cup of cheese and it was perfect!",
+            "datePublished": "2016-03-06T07:21:34.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monica"
+            },
+            "reviewBody": "I used the frozen mirepoix mix for the chopped parts and the frozen vegetable mix (italian) for the veggies. I also substituted soy mix for milk and chicken broth (3 c) for the bouillon, added seasoned salt and it was delicious!!",
+            "datePublished": "2011-08-31T07:11:51.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann Kosa"
+            },
+            "reviewBody": "Stouffers used to cater our dining room and this is much like their recipe with simple changes. Add thyme and bay leaf to the broth for seasoning. At the end stir in about 1/3 cup grated parmesean along with the cheddar. Fabulous!",
+            "datePublished": "2025-10-30T22:49:12.941Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "It's delicious. I didn't have celery, so added about 1/8 tsp of celery seed. I also didn't have cauliflower so I added extra broccoli ( close to 2 cups in total) and one large potato cubed. I like canned milk in my chowders for the sweetness so added that for the milk. Will definitely make again. Next time I'll make my own veggie stock instead of using water and bouillon.",
+            "datePublished": "2025-04-02T18:47:06.412Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharsyn"
+            },
+            "reviewBody": "The only thing I tweaked was ingredients (I added chicken and asparagus). My all-time favorite soup, hands down! And it’s easy to make (it does require lots of stirring, so make sure you’re in the kitchen the entire time). I made a bigger batch than I intended but I finished it all! So good, I ate it for lunch and dinner for 4 days. Cannot say enough about this, especially since the additional ingredients didn’t mess up the original flavor.",
+            "datePublished": "2024-01-03T00:41:49.089Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JoyfulCane9064"
+            },
+            "reviewBody": "Absolutely delicious soup. So easy to make &amp; as basic as it is. I would definitely make it again!! I think it is one of the nicest chowder recipes 😎😎",
+            "datePublished": "2023-08-27T19:44:41.844Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyWok3582"
+            },
+            "reviewBody": "Warming and comforting dish I'll be making again! Simple to make using any veg on hand. I used less cheese and just a spritz of oil when cooking the onion.",
+            "datePublished": "2023-05-06T05:30:44.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ginny Keast"
+            },
+            "reviewBody": "This is a favorite recipe of mine. It's easy, flavorful, great comfort food. I also like that you can really do anything you want with it. A lot of times I replace the cauliflower with potato, for instance. This is our first fall like day and I've got it on the stove already!",
+            "datePublished": "2022-09-10T19:57:33.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erica McLean"
+            },
+            "reviewBody": "I thought it was bland, even after adding garlic. I decided it is a great soup base though. I added canned crab, bacon and seafood seasoning to make it a more traditional chowder.",
+            "datePublished": "2022-05-16T17:16:00.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allie H"
+            },
+            "reviewBody": "Oh wow was this good! I did make changes - I used olive oil instead of margarine, frozen riced cauliflower instead of chopped, frozen broccoli, 32oz of chicken broth instead of bouillon cubes and water, and just a handful of cheese. I also used way more veggies than the amounts called for. This recipe is a keeper - it was even better the next day. Super simple and really delicious!!!!",
+            "datePublished": "2022-05-09T19:48:38.761Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Annie Douglass Lima"
+            },
+            "reviewBody": "I added herbs de Provence for flavor and left out the celery, since one of my guests is allergic to it. The soup was delicious! Everyone raved about it (more than the main course), and not a bite was left over!",
+            "datePublished": "2021-12-08T06:55:14.853Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12899/vegetable-chowder/",
+          "name": "Vegetable Chowder",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

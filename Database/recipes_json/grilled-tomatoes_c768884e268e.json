@@ -1,0 +1,316 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/218615/grilled-tomatoes/",
+  "extracted_at": "2026-10-18T03:05:59.801418+00:00",
+  "recipes": [
+    {
+      "name": "Grilled Tomatoes",
+      "ingredients_raw": [
+        "8 tomatoes, halved lengthwise",
+        "1 tablespoon olive oil",
+        "2 cloves garlic, minced, or to taste",
+        "salt and ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+        },
+        {
+          "id": 2,
+          "text": "Drizzle olive oil over the cut-sides of tomatoes. Sprinkle with garlic; season with salt and black pepper."
+        },
+        {
+          "id": 3,
+          "text": "Cook tomatoes, cut-sides up, on the preheated grill until they start to sizzle and have blackened grill marks, about 4 minutes. Flip tomatoes over and continue grilling until garlic turns golden brown, about 3 more minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Grilled Tomatoes",
+        "datePublished": "2019-04-02T02:55:29-04:00",
+        "dateModified": "2025-12-29T05:09:16-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lynne2478"
+          }
+        ],
+        "description": "These grilled tomatoes flavored with olive oil and fresh garlic are cooked on a hot grill for a fantastic sweet and smoky summer side dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mJWhpA5Mn6W2BYuKkFRNgtAt_aM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9241228-0e68d5b523fe4b32bf1276effc12d246.jpg",
+          "height": 1000,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grilled Tomatoes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "20"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "21 kcal",
+          "carbohydrateContent": "3 g",
+          "fiberContent": "1 g",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "149 mg",
+          "sugarContent": "2 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 tomatoes, halved lengthwise",
+          "1 tablespoon olive oil",
+          "2 cloves garlic, minced, or to taste",
+          "salt and ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drizzle olive oil over the cut-sides of tomatoes. Sprinkle with garlic; season with salt and black pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook tomatoes, cut-sides up, on the preheated grill until they start to sizzle and have blackened grill marks, about 4 minutes. Flip tomatoes over and continue grilling until garlic turns golden brown, about 3 more minutes."
+          }
+        ],
+        "recipeYield": "16",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "impellizzeri kitchen"
+            },
+            "reviewBody": "I have been making these for years.\nThey are a great side dish.\nWe even use parmesan cheese on them"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holiday Baker"
+            },
+            "reviewBody": "I LOVE grilled tomatoes! I always throw them on the grill after the meat is almost done with the same temperature and method. I normally just do the olive oil and some kosher or regular salt. I will have to try adding some fresh garlic next time to see how that affects the taste. I am just a tad afraid of the fresh garlic burning. It really doesn't need it. Roma tomatoes tend to work the best, just cut in half. If you have never grilled a tomato you must try.",
+            "datePublished": "2011-09-26T21:17:07.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Clemmie King"
+            },
+            "reviewBody": "Love these, made as is, they are great. I sometimes make them and add Parmesan cheese to the topping, then I don't flip them on the grill, but cook about 5-6 minutes over medium heat and remove. A great way to use extra summer roma tomatoes and add color to the dinner plate.",
+            "datePublished": "2020-06-09T03:51:48.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Simple and delicious! This is perfect for those warm summer months when tomatoes from the garden are so abundant. It's not only vibrant in color but also in taste. I combine my olive oil and minced garlic together and drizzle that over top while the tomatoes are grilling. After they come off I sprinkle with a little salt and pepper then top with fresh basil. Sometimes I add either fresh mozzarella for a \"grilled caprese\" or shredded Parmesan although they're great plain. No matter what you do these taste wonderful and can be a great appetizer or side dish. The leftovers (if there are any) are great on thick, crusty bread!",
+            "datePublished": "2011-08-18T09:15:02.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "billybob"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-12T23:55:20.295Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angie O'Brien"
+            },
+            "reviewBody": "It took longer than a few minutes to see the grill marks, so I just left them on the grill until they were charred on both sides. We had some fresh herbs to use from the garden so we had these chopped up in spaghettini with pesto, the two complemented each other perfectly.",
+            "datePublished": "2022-07-05T02:11:58.098Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "This couldn't be simpler, and the flavor is outstanding. Grilling tomatoes really brings out their natural sweetness. Take care not to overcook them, as once they soften too much, they will be hard to flip over and/or get off the grill. Easily customizable with different seasoning, but the simple salt, pepper and garlic is perfect.",
+            "datePublished": "2021-06-09T00:48:40.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bakingmom"
+            },
+            "reviewBody": "These are delicious! We added some fresh basil on top right before serving.",
+            "datePublished": "2016-03-05T21:32:18.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marie Rodgers Roberts"
+            },
+            "reviewBody": "Very good flavor but be careful not to overcook!",
+            "datePublished": "2012-08-02T16:11:03.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Delisa Ramos"
+            },
+            "reviewBody": "Very good, but we added a little parmesan after they were done. Also, the skins were a little tough. Maybe it was the tomatoes I used. They were from my mom's garden.",
+            "datePublished": "2012-07-04T18:27:42.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bellepepper"
+            },
+            "reviewBody": "I had a couple of on the vine tomatoes that I used for this. My result wasn’t all that great, but in fairness to the recipe, it could have been my tomatoes. It’s nearly impossible to get a decent tomato in Ohio this time of year. So, I’m giving this recipe the benefit of the doubt and giving it 5 stars. I’ll try it again when garden tomatoes are available to see if this recipe really is 5 stars.",
+            "datePublished": "2012-04-12T14:09:15.040Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/218615/grilled-tomatoes/",
+          "name": "Grilled Tomatoes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/928/side-dish/vegetables/tomatoes/",
+                  "name": "Tomatoes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

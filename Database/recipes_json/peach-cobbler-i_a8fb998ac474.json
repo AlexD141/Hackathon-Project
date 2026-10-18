@@ -1,0 +1,454 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12107/peach-cobbler-i/",
+  "extracted_at": "2026-10-18T01:48:23.903587+00:00",
+  "recipes": [
+    {
+      "name": "Favorite Peach Cobbler",
+      "ingredients_raw": [
+        "0.5 cup butter, melted",
+        "4 cups fresh peaches - peeled, pitted, and sliced",
+        "2 tablespoons white sugar",
+        "1 cup all-purpose flour",
+        "1 cup white sugar",
+        "0.5 cup milk",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon baking powder",
+        "0.25 teaspoon salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Pour melted butter into the bottom of a 9x13-inch baking dish. Add peaches and 2 tablespoons sugar; toss until evenly coated."
+        },
+        {
+          "id": 3,
+          "text": "Stir together flour, 1 cup sugar, milk, cinnamon, baking powder, and salt in a large bowl until well combined; spoon batter over peaches."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until the top is golden brown, about 45 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Favorite Peach Cobbler",
+        "datePublished": "1998-03-10T18:54:34-05:00",
+        "dateModified": "2026-07-29T16:12:21-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Vicki Monte"
+          }
+        ],
+        "description": "This peach cobbler recipe features fresh sliced fruit tossed with melted butter and sugar, topped with an easy cinnamony batter that bakes up tender.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/WvBxholKNiNvPD-JQ199ff90vBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4535186-f6370771f5a14e8fae08bf365020c35c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Favorite Peach Cobbler",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "332"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "234 kcal",
+          "carbohydrateContent": "36 g",
+          "cholesterolContent": "25 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "180 mg",
+          "sugarContent": "26 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup butter, melted",
+          "4 cups fresh peaches - peeled, pitted, and sliced",
+          "2 tablespoons white sugar",
+          "1 cup all-purpose flour",
+          "1 cup white sugar",
+          "0.5 cup milk",
+          "1 teaspoon ground cinnamon",
+          "1 teaspoon baking powder",
+          "0.25 teaspoon salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour melted butter into the bottom of a 9x13-inch baking dish. Add peaches and 2 tablespoons sugar; toss until evenly coated."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir together flour, 1 cup sugar, milk, cinnamon, baking powder, and salt in a large bowl until well combined; spoon batter over peaches."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the top is golden brown, about 45 minutes."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "1 (9x13-inch) cobbler"
+        ],
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsWest"
+            },
+            "reviewBody": "This was a great recipe! I used it with fresh peaches and apples. If you didn't like it, here's probably what went wrong- yes, the butter should be reduced by 2-3 tablespoons. To keep the crust white/ golden brown, sprinkle the cinnamon on top of the peaches- putting it in the batter will make it too dark. Finally, this recipe is best with FRESH peaches; canned peaches are so saturated with syrup and other stuff that they don't soak up the butter. Additional juices/ syrup makes everything runny and the crust mushy, so if you have to used canned peaches, drain them really really well."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ernursecaryn"
+            },
+            "reviewBody": "It turned out delicious! I used fresh white peaches just picked off the tree yesterday. I used half of the called for amount of butter and sprinkled the cinnamon on top at the end before baking as suggested by another comment. I’m glad I did! I will definitely be making this again 👍🏻",
+            "datePublished": "2023-07-12T04:43:12.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "6.13.20 Based on the reviews I read plus our own taste preference, I made a few modifications. I cut the butter in half, reduced the sugar to 3/4 cup and didn’t mix sugar into the peaches (they were plenty sweet for us), and mixed the cinnamon (maybe a little less next time) into the peaches. I ended up with an absolutely delicious peach cobbler with spot-on consistency, just about perfect in every respect. And a scoop of vanilla ice cream didn’t hurt either.",
+            "datePublished": "2020-06-13T16:12:31.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CMurphy76"
+            },
+            "reviewBody": "Came out great! Thankfully, I had the benefit of some of the previous reviewers' responses to be able to adjust and customize on the fly. Used frozen peach slices instead of fresh - quicker and easier and worked just fine. Doubled the batter/topping - would have been woefully inadequate for my 9X13 otherwise. Replaced the cinnamon with 1/2 tsp. of allspice and 1/2 tsp. of nutmeg and mixed them into the peaches, while also replacing the white sugar in the peach mixture with light brown sugar. Lastly, added a tsp. of vanilla extract to the batter mixture. Next time, will try this with some frozen mango...",
+            "datePublished": "2014-05-25T22:01:26.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "doviea"
+            },
+            "reviewBody": "I doubled the crust recipe used a 9x13 pan. Added vanilla extract, cinnamon, nutmeg and brown sugar to the peaches. Sprinkled cinnamon on top of batter before placing in oven. Will definitely do it again !",
+            "datePublished": "2015-09-04T12:47:50.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tinax22"
+            },
+            "reviewBody": "Reduced butter to 4.5 Tbsp, put 1/2 tsp cinnamon in the peach mixture in addition to the 1 tsp in the batter, and baked in an 8x8 pan. Expected to need to increase baking time significantly due to the smaller pan but it was done in 50 min. PERFECT.",
+            "datePublished": "2012-07-31T19:19:05.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Zimmerli"
+            },
+            "reviewBody": "This is a great recipe. Definitely double the batter. Don't skip the butter. Put the cinnamon on top of the peaches, not in the batter. Don't double the cinnamon. I added a 1/2 tsp of ginger to the peaches. Usually I add a tsp or two of vanilla to the batter, but I forgot today and it was still fantastic. Much better than other cobbler recipes that call for added water on this site.",
+            "datePublished": "2010-09-05T11:04:20.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy T"
+            },
+            "reviewBody": "I used a can of peaches and a can of pineapple chunks, both well drained. I put the cinnamon directly on the fruit before covering with the batter. Next time I will use half the butter called for and a little less sugar. I used a 8x8 glass dish and needed to bake it for 60 minutes in order to get a nice golden brown top. It was tasty with vanilla ice cream!",
+            "datePublished": "2025-04-28T01:05:50.335Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "luvalee"
+            },
+            "reviewBody": "I just made this and give it 10 stars! I thought that I did not really like cobbler but this is amazing! I only had 3 cups of peaches so I added 1 cup of strawberries and I mixed an additional teaspoon of cinnamon directly on the fruit with the 2 spoons of sugar. I also cut the butter back by 2 tablespoons after reading other reviews. Wow!",
+            "datePublished": "2011-07-30T00:08:31.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mother of 4"
+            },
+            "reviewBody": "So easy! So good! At the advice of others I reduced the butter to about 3-4 Tbsns and added vanilla and a little lemon juice to the peach mixture. I also reduced the sugar to about 3/4 cup in the cake. I found the batter to be the perfect amount. I had started cooking up some very ripe peaches the night before with a little water and sugar and used this as the peach base. I will make this many times!",
+            "datePublished": "2012-07-28T01:08:04.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TTCOOKIN4TWO"
+            },
+            "reviewBody": "I used 2 cans of sliced light peaches, drained well and did not add the additional 2T sugar. The topping was a tan color because of the cinnamon. Suggest draining all liquid from the peaches, put the butter in the topping and sprinkle the cinnamon over the peaches prior to covering with the topping. Take the time to use a rubber spatula to spread the topping to cover the peaches if you are not satisfied with dropping by the spoonfuls on top of the peaches. The flavor was delicious. As you can see by the picture Mylove took, the topping bakes as spooned over the peaches.",
+            "datePublished": "2010-11-05T19:49:33.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AquaDip9704"
+            },
+            "reviewBody": "Yeah 👍",
+            "datePublished": "2026-03-15T20:52:52.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Naomi"
+            },
+            "reviewBody": "i sprinkled a little cinnamon on top of the peaches before added the mixture on top!",
+            "datePublished": "2025-09-04T18:19:43.462Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Skullduggery"
+            },
+            "reviewBody": "I love it so did my family.",
+            "datePublished": "2025-08-22T20:07:38.249Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "laura"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-30T00:26:51.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CyanNori7594"
+            },
+            "reviewBody": "Put cinnamon on peaches instead and no other changes. Delicious!",
+            "datePublished": "2023-08-02T01:48:02.138Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marie Kennison"
+            },
+            "reviewBody": "I made a small version, and everyone loved it. I did what some said and used less butter. I also used a fat free milk alternative, since we don't keep milk in the house. Next time I'll add 1/2 unused butter into the liquids for an even crumb.",
+            "datePublished": "2022-09-10T20:17:11.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Abigail Frey"
+            },
+            "reviewBody": "Less butter, barely measured anything, added extra milk to topping so i could pour it, forgot to set a timer. Turned out delicious, the texture was similar to bread pudding. Boy did I ever pull this off by accident! Everyone loved it!",
+            "datePublished": "2022-09-10T01:42:55.532Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lise wilson"
+            },
+            "reviewBody": "I don’t know what I did wrong but I followed the recipe. The topping with the flour was nothing but dough after I cooked it for an hr. I noticed it was dry when I was stirring it up and added maybe a tbl more of milk. This is my first try with peach cobbler. I do a lot of baking of pies and cakes so it’s not that I don’t know how to cook. Hopefully someone out there can help me or zi will just try a different recipe. Just hate I wasted 4 fresh peaches",
+            "datePublished": "2022-08-16T19:47:44.001Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Martha"
+            },
+            "reviewBody": "The preparaiton of this cobbler is very wrong, you must add the peaches LAST to the top of the cobbler(spoon them on with the liquid from the sugar and needs to be at least 1/2 c added to the peaches) after you have poured in the batter! I tried it based on the recipe instructions and very disappointed!!",
+            "datePublished": "2022-08-16T12:14:46.958Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12107/peach-cobbler-i/",
+          "name": "Favorite Peach Cobbler",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/",
+                  "name": "Fruit Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17530/desserts/fruit-desserts/peach-desserts/",
+                  "name": "Peach Dessert Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

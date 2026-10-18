@@ -1,0 +1,445 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14584/veggie-pita-pizza/",
+  "extracted_at": "2026-10-18T02:00:45.597130+00:00",
+  "recipes": [
+    {
+      "name": "Veggie Pita Pizza",
+      "ingredients_raw": [
+        "1 pita bread round",
+        "1 teaspoon olive oil",
+        "3 tablespoons pizza sauce",
+        "0.5 cup shredded mozzarella cheese",
+        "0.25 cup sliced crimini mushrooms",
+        "0.125 teaspoon garlic salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat grill for medium-high heat."
+        },
+        {
+          "id": 2,
+          "text": "Spread one side of the pita with olive oil and pizza sauce. Top with cheese and mushrooms, and season with garlic salt."
+        },
+        {
+          "id": 3,
+          "text": "Lightly oil grill grate. Place pita pizza on grill, cover, and cook until cheese completely melts, about 5 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Veggie Pita Pizza",
+        "datePublished": "1999-09-04T21:52:02-04:00",
+        "dateModified": "2022-07-14T17:40:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mindy Pretner"
+          }
+        ],
+        "description": "All you need is mozzarella cheese, sliced veggies, olive oil, pita pockets, and a grill. Brush the pita with oil, layer on the veggies and cheese, and then grill until the pita is crisp, the veggies are tender and the cheese is melted.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Mf8-0cYgR0LjxCVdcKCIvAqagjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018488-92dfc03f9f5b4d549c9b6a1c408f14e1.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/MqVHoFqz-ma1DlVvV.mp4",
+          "description": "AR1291",
+          "duration": "PT1M57S",
+          "name": "Pita Pizza",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MqVHoFqz/poster.jpg?width=1280",
+          "uploadDate": "2021-08-05T08:52:51-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Veggie Pita Pizza",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "215"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "405 kcal",
+          "carbohydrateContent": "40 g",
+          "cholesterolContent": "44 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "20 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "1156 mg",
+          "sugarContent": "3 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 pita bread round",
+          "1 teaspoon olive oil",
+          "3 tablespoons pizza sauce",
+          "0.5 cup shredded mozzarella cheese",
+          "0.25 cup sliced crimini mushrooms",
+          "0.125 teaspoon garlic salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat grill for medium-high heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread one side of the pita with olive oil and pizza sauce. Top with cheese and mushrooms, and season with garlic salt."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Mf8-0cYgR0LjxCVdcKCIvAqagjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018488-92dfc03f9f5b4d549c9b6a1c408f14e1.jpg"
+              }
+            ],
+            "text": "Lightly oil grill grate. Place pita pizza on grill, cover, and cook until cheese completely melts, about 5 minutes."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 serving"
+        ],
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Noor"
+            },
+            "reviewBody": "I buy several bags of pita bread and keep them in the freezer. Just heat the oven to 400, spread the sauce on a frozen \"crust\" (no need to defrost) and sprinkle on cheese and toppings. Bake for 5 to 7 minutes and a very quick dinner or snack (even breakfast sometimes for my kids!) is served! Really great idea!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheronda Helton"
+            },
+            "reviewBody": "As others did I put this in the oven instead of the grill on 400 for about 10 mins to make the crust crispy along the edges. This recipe is a great base and you can really add anything to it. I spread some mince garlic and Italian seasoning on the crust before putting the sauce on and it added an amazing flavor to the pizza. I topped my pizza with red/green bell peppers, onions, pepperoni and Canadian bacon. So easy to make and absolutely delicious! I will definitely make this again.",
+            "datePublished": "2017-08-26T03:06:07.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BeanGoose"
+            },
+            "reviewBody": "Delicious! I bake on a cookie sheet at 400 for approx 10 min. I don't use mushrooms and I double/triple the amount of sauce. I use organic valley shredded mozzarella cheese, and rizzos brand pizza sauce.",
+            "datePublished": "2016-04-02T09:24:45.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "This was delish! I used an oven for this at 350degF for 20 min. I may try upping the temp for a shorter bake time another time. I put foil on a cookie sheet and used two pitas. I drizzled each with a little olive oil, then topped with a homemade pizza sauce from this site, followed by the cheese. (I used a combo of mozzarella and colby jack.) I used bell peppers and onions on each and on one I also added some chopped ham that I had available. This is a great recipe that has so many possibilities for the cheeses and toppings. Thanks for the recipe! UPDATE 1/9/18: I made this again with a 400degF oven (would even do 425) for ~12 min. Came out better. This time I made a veggie pizza: chopped tomatoes, leftover broccoli w/garlic, and black Greek olives. I also added green peppers and onions, but this time I sauteed them for about 8 min in EVOO so they'd be softer. I also used a combination of mozzarella and gorgonzola cheese (on bottom), veggies, then more cheese. This was excellent! Note: The cheeses and olives are salty; need to go easy with them.",
+            "datePublished": "2018-01-07T21:56:37.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Martin"
+            },
+            "reviewBody": "This was SO GOOD! I used olive oil, wheat pitas, jarred Ragu sauce with added oregano and garlic powder. Oh just so easy to make, fast and a crowd pleaser. Although I love to make pizza dough from scratch I hate the mess. Didn't grill but used my pizza stone in the oven. Can't believe I hadn't thought of using pitas before....",
+            "datePublished": "2015-03-14T05:52:30.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kaiti"
+            },
+            "reviewBody": "I did this the lazy way! I broiled a wheat pita round for a couple minutes, added toppings (basil pesto sauce, chicken, broccoli and mozzarella cheese is what I used) then broiled it all until the cheese was melted! I'm in college so I love fast, warm meals with minimal ingredients. P.S. I cooked the chicken and broccoli before I added it to the pizza. Broiling it for a couple minutes will not cool the toppings.",
+            "datePublished": "2015-02-08T21:09:08.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alan Oliver"
+            },
+            "reviewBody": "This is a very good, simple and versatile recipe, as many others suggested make with whatever comes to mind. This version I did bake at 425 for 10 minutes and came out just right, I actually just placed the pita bread first off for 4 minutes to crisp up the base before adding all the toppings then let it sit for the 10 minutes.",
+            "datePublished": "2018-08-07T02:00:45.093Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judy"
+            },
+            "reviewBody": "Try it with naan instead of pita and lightly toast the naan before topping and baking for a crisper crust. Do experiment with toppings and for a variation on sauce try pesto or any spread of your choice.",
+            "datePublished": "2017-05-05T20:41:25.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erica Monjeau"
+            },
+            "reviewBody": "Absolutely delicious in every way. I've made several times. While it is perfect as-is, you can also cook it in the over at 375 for 10-15 minutes and it comes out perfect as well. I added bell peppers for a wonderful and delicious meal.",
+            "datePublished": "2014-03-12T14:37:47.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel Lee Naasz"
+            },
+            "reviewBody": "This recipe is so great and so easy! The mushrooms are a necessity, as they taste so yummy with the pita bread. I add onion and green bell pepper as well. Also, I bake it in the oven at 400 for about 10 minutes.",
+            "datePublished": "2016-01-30T13:10:29.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jctnact"
+            },
+            "reviewBody": "This recipe is genius. I cannot believe that I didn't think of this first! I always have pita, spaghetti sauce, and shredded cheese at home so this is now a very convenient snack for us. I top it with whatever I have in the fridge that may sound good; onions, olives, pastrami, basil, turkey, etc. I don't grill them though, I just put them in the toaster oven and toast it for about 7-10mins. Thank you so much for this great recipe which has come in handy for snack/lunch so many times for me when I had nothing else to prepare.",
+            "datePublished": "2008-09-13T21:36:28.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ju Ju"
+            },
+            "reviewBody": "I actually made this with cut up chicken tenders, instead of grilling I microwaved it for a minute &amp; 30 secs, it was the softest &amp; most cheesiest pizza. All I did was 3-4 teaspoons of meat sauce, Parmesan &amp; cheddar cheese on top, then added leftover chicken tenders (chopped to small pieces), more cheese on top and it was GREAT. I also made a pepperoni one, my take on this is around 400 calories for the whole pizza when done, it’s a great meal for those who’s on a restricted diet plan.",
+            "datePublished": "2019-08-17T04:14:44.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Striker"
+            },
+            "reviewBody": "The wife and I both loved it. Quick, easy and very good! Also customizable to your liking. I used the oven at 375 degrees instead of the grill.",
+            "datePublished": "2018-10-13T16:09:40.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "reviewBody": "Loved it! Baked at 400 degrees for 10 mins and it came out crispy perfection...a keeper~YUM! Thanks for sharing. :)",
+            "datePublished": "2018-03-30T19:44:31.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miami89"
+            },
+            "reviewBody": "This is so simple and so satisfying. Made with ingredients I keep on hand, it is highly adaptable to personal taste. Make several apiece for supper or have one for lunch. Great idea!",
+            "datePublished": "2017-12-21T09:46:30.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ronald Woodell"
+            },
+            "reviewBody": "I made it tonight. I left out the garlic salt, used frozen Italian meatballs, \"nuked\" first, following package instructions. Used the oven set at 400F......They were great.",
+            "datePublished": "2017-12-03T22:59:15.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Faust"
+            },
+            "reviewBody": "we made it last Friday. it tested sooo good,but still have some defeats: 1.the dou is so thick. 2.too much oil on the dou. that's the reason why we could not thake it out from pan. 3.there need more meat on it(personal advantage). We are not study it yet. and we think it is successful and delicious pizza that i ate.",
+            "datePublished": "2017-11-06T01:42:02.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crazydoglady"
+            },
+            "reviewBody": "Really easy and tasty for a hot summer day using the BBQ. I used spaghetti sauce and portabello mushrooms together with onion and yellow peppers on a whole wheat pita which is what I had on hand. Tex-Mex grated cheese and a good sprinkle of cayenne on top to spice it up. Crust was crunchy and easily held together to eat.",
+            "datePublished": "2017-08-10T23:22:01.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bebe"
+            },
+            "reviewBody": "Very good. I'm going to try hummus on it next. Very easy to make!",
+            "datePublished": "2017-07-14T21:49:58.377Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue"
+            },
+            "reviewBody": "I cooked it in a heavy non stick skillet. Delicious!",
+            "datePublished": "2017-05-13T19:59:29.970Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14584/veggie-pita-pizza/",
+          "name": "Veggie Pita Pizza",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+                  "name": "Vegetarian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

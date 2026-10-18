@@ -1,0 +1,402 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216434/sweet-butter/",
+  "extracted_at": "2026-10-18T02:59:50.470422+00:00",
+  "recipes": [
+    {
+      "name": "Sweet Butter",
+      "ingredients_raw": [
+        "0.5 cup softened butter",
+        "0.25 cup brown sugar",
+        "2 tablespoons honey",
+        "1 pinch ground cinnamon",
+        "1 pinch ground nutmeg",
+        "0.5 pinch ground ginger"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place the butter into a bowl, and stir together with brown sugar, honey, cinnamon, nutmeg, and ginger until the mixture is completely blended."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sweet Butter",
+        "datePublished": "2020-03-05T00:07:47-05:00",
+        "dateModified": "2022-05-24T18:56:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Dromelia"
+          }
+        ],
+        "description": "A simple sweet buttery spread made with warm autumn spices takes 5 minutes to make, but it will do something special for your muffins, cornbread, biscuits, or pancakes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/eRth2dA7lfsi55qSee6CgD3JWqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4127359-b65e7bb26f6c42bdb8c13a537c657979.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sweet Butter",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "30"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "73 kcal",
+          "carbohydrateContent": "6 g",
+          "cholesterolContent": "15 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "0 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "42 mg",
+          "sugarContent": "6 g",
+          "fatContent": "6 g",
+          "servingSize": "3 /4 cup",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeIngredient": [
+          "0.5 cup softened butter",
+          "0.25 cup brown sugar",
+          "2 tablespoons honey",
+          "1 pinch ground cinnamon",
+          "1 pinch ground nutmeg",
+          "0.5 pinch ground ginger"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place the butter into a bowl, and stir together with brown sugar, honey, cinnamon, nutmeg, and ginger until the mixture is completely blended."
+          }
+        ],
+        "recipeYield": "16",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "This is excellent to schmear on organic pumpkin or squash and then bake it. Gosh, it's good!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CDoleshal"
+            },
+            "reviewBody": "I used real maple syrup and left out the brown sugar so it wouldn't be so sweet, as the above reviews stated. I also used 1/2 teaspoon of pumpkin pie spice in place of the other spices and gave it a spin in the food processor. Very light on flavor, which was what I was looking for, I will definately be keeping this recipe to \"play\" with.",
+            "datePublished": "2015-10-24T12:41:53.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FemBot"
+            },
+            "reviewBody": "I've edited this recipe with various herb-infused honeys. Lavender honey makes this butter AMAZING, especially to use in baking recipes. Rosemary honey makes this butter delightful with pancakes. Delicious on it's own merit and fantastic to play around with. Thanks so much!",
+            "datePublished": "2013-09-23T13:23:52.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelsey"
+            },
+            "reviewBody": "I did it with orange honey and some orange flavoring. SO GOOD! It was better cold. I made it with half homemade butter and half store bought. IT IS SO GOOD!!!!!! A little bit to sweet",
+            "datePublished": "2018-12-29T03:03:08.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shedoyle"
+            },
+            "reviewBody": "this was great with cornbread.\nafter reading other reviews I cut the brown sugar and honey in half.\n2 tbsp brown sugar and 1 tbsp honey. perfect. add spices to taste. taste taste taste as you add. works great.",
+            "datePublished": "2013-06-20T08:57:15.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "danifromBK"
+            },
+            "reviewBody": "So simple and extremely good. I cut back on the sugar and only used one Tbsp of honey. Grated fresh nutmeg and cinnamon but used ground ginger. Ate it with buttermilk biscuits. Yummm!",
+            "datePublished": "2014-08-17T16:24:49.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cate52"
+            },
+            "reviewBody": "Cut the sugar and honey to 2T and 1T, approximately, did not really measure any of it closely.\nServed with Dr. Michaels Yeasted cornbread for a potluck, it was a hit.",
+            "datePublished": "2016-09-12T02:37:52.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shihtzubaby98"
+            },
+            "reviewBody": "Wow, this was really good! You don't need nutmeg if you dont have it on hand, and changing the amount of spices doesnt make a difference. I made this to go on the Apple Cider Pancakes on this site. Fabulous. It's very strong however....if you dont have a big sweet tooth you should cut down the spices. But it's very good.",
+            "datePublished": "2012-09-02T08:29:52.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracey"
+            },
+            "reviewBody": "Very Good! I used this on a sweet cardamon bread and it was wonderful. I will be making this again for use on future sweet breads. I did cut the brown sugar down to half.",
+            "datePublished": "2013-11-16T15:38:01.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Was rather dissapointed, even with reducing the honey/sugar it was overpoweringly sweet. And the honey flavor was bit too prominent. With a bit of tweaking this could be a very good recipe.",
+            "datePublished": "2011-06-23T11:48:14.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "'Merica"
+            },
+            "reviewBody": "Delicious!!! Want to spread it on everything",
+            "datePublished": "2016-11-14T00:07:20.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doris King"
+            },
+            "reviewBody": "Delicious on any fresh baked bread.",
+            "datePublished": "2016-06-18T19:45:10.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pink0623"
+            },
+            "reviewBody": "it was sweet, but way to runny for my use.",
+            "datePublished": "2014-05-03T04:11:22.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillc10"
+            },
+            "reviewBody": "Was delish on fresh bread",
+            "datePublished": "2013-11-09T09:35:11.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmyK"
+            },
+            "reviewBody": "SOOO yummy! Went great with pumpkin bread.",
+            "datePublished": "2012-11-21T16:42:24.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JK"
+            },
+            "reviewBody": "This was awesome. I took it to a brunch where the hostess had pumpkin pancakes. It was a beautiful compliment. Can't wait for sweet potato season. It will be a perfect topping on those as well.",
+            "datePublished": "2012-10-20T05:50:03.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hlwallace"
+            },
+            "reviewBody": "Fantastic! Super simple to make, and delicious! I used it today on simple chocolate muffins, but I can see it being good on rolls, toast, corn bread...anything!",
+            "datePublished": "2012-08-03T09:06:31.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "valholla03"
+            },
+            "reviewBody": "This was DELICIOUS! Made it this morning with a pancake recipe that I got from allrecipes.com as well. I am DEFINITELY putting this into my recipe box and NEVER letting it go. I will impress MANY a family members and friends with this one! Thank you VERY much!",
+            "datePublished": "2012-06-24T06:58:52.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sean P"
+            },
+            "reviewBody": "Really great on corn bread! Thank you... Great recipe..",
+            "datePublished": "2012-02-20T05:30:07.163Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216434/sweet-butter/",
+          "name": "Sweet Butter",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17487/side-dish/sauces-and-condiments/compound-butters/",
+                  "name": "Compound Butter Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

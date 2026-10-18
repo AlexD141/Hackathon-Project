@@ -1,0 +1,483 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/140546/simple-sweet-potato-soup/",
+  "extracted_at": "2026-10-18T01:56:40.648023+00:00",
+  "recipes": [
+    {
+      "name": "Easy Sweet Potato Soup",
+      "ingredients_raw": [
+        "6 medium sweet potatoes, peeled and chopped",
+        "2 cups chicken or vegetable stock",
+        "1 cup water, or as needed",
+        "1 tablespoon minced fresh ginger",
+        "1 lime, juiced",
+        "2 cups milk or cream, or as needed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine sweet potatoes, stock, water, and ginger in a large saucepan; bring to a boil. Reduce heat to medium-low, cover, and simmer until sweet potatoes have softened, about 30 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Puree sweet potato mixture with lime juice using an immersion blender or food processor until smooth."
+        },
+        {
+          "id": 4,
+          "text": "Return soup to the saucepan and stir in cream or coconut milk; reheat gently over low heat until warmed through."
+        },
+        {
+          "id": 5,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Easy Sweet Potato Soup",
+        "datePublished": "2019-04-03T23:43:59-04:00",
+        "dateModified": "2025-12-01T08:49:18-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "S Mcc"
+          }
+        ],
+        "description": "This creamy sweet potato soup is rich, velvety, and brightened with fresh ginger for a delicious comforting meal perfect for colder months.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/f1tRYGXEQNvoqgc7jB1jgz73wTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140546-easy-sweet-potato-soup-VAT-Beauty-4x3-830819671d394a058a1453e5330a2c04.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Sweet Potato Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "35"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "187 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "6 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "291 mg",
+          "sugarContent": "10 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 medium sweet potatoes, peeled and chopped",
+          "2 cups chicken or vegetable stock",
+          "1 cup water, or as needed",
+          "1 tablespoon minced fresh ginger",
+          "1 lime, juiced",
+          "2 cups milk or cream, or as needed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/KlqVglfAwUV1D_Wjl5HzmaOmPz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140546-easy-sweet-potato-soup-VAT-step-01-c65f6121fedc43e8913ec16f843ecd29.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_8k0SNNQGqrbCUyDbLPCSIV60zE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140546-easy-sweet-potato-soup-VAT-step-02-302fcba2ce414d958d6cab925eb862ad.jpg"
+              }
+            ],
+            "text": "Combine sweet potatoes, stock, water, and ginger in a large saucepan; bring to a boil. Reduce heat to medium-low, cover, and simmer until sweet potatoes have softened, about 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/D0LKR53fXFeGNNKLrzPLSYjRaKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140546-easy-sweet-potato-soup-VAT-step-03-6d75151379a64e92843329b2ee4e4b56.jpg"
+              }
+            ],
+            "text": "Puree sweet potato mixture with lime juice using an immersion blender or food processor until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/yGXpcr_-tCPAeBuv5BGmB2G2h_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140546-easy-sweet-potato-soup-VAT-step-04-4bbb369cd79d48ab96f7ee2d596573ad.jpg"
+              }
+            ],
+            "text": "Return soup to the saucepan and stir in cream or coconut milk; reheat gently over low heat until warmed through. "
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/R_VODVX0u-hQY64aI-C4Zf40L7A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/140546-easy-sweet-potato-soup-VAT-step-05-d5ee7a8b294040389aac949f6a499e17.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Jerome"
+            },
+            "reviewBody": "Holy Moses, this is soooo good! I thought the lime and ginger sounded tasty, so I gave it a whirl. It is as easy as it looked!\nI added half a red onion, chopped, to the mixture. I also used half and half instead(its all I had). I garnished it with cilantro.\nSo full of flavor that I didn't need to add salt!\nYUM!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "This is a great and simple soup. It's easy to make, and tastes delicious. The ginger is just the right amount so it makes it very flavorful, but it isn't overpowering. I added a little extra water (about 1 cup) just to cover the potatoes (I probably had more than the called for amount). Its a great smooth texture and not too thick. Really good, especially if you love sweet potatoes!",
+            "datePublished": "2007-10-21T20:26:05.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "yamira"
+            },
+            "reviewBody": "This recipe was very good. I thought it was going to be very bland on the other hand it was very good. I advise not to use a whole lime for the recipe but other than that it was awsome with some crusty bread!",
+            "datePublished": "2007-11-05T11:18:22.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kat"
+            },
+            "reviewBody": "This soup was delicious. The ginger and lime gave it a surprising kick. Add only as much milk as to your taste, then add some cracked black pepper.",
+            "datePublished": "2009-09-25T18:06:30.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chamcha"
+            },
+            "reviewBody": "First, I added 3 peeled, hopped pink lady apples along with the potatoes and ginger in step 1. The sweetness really balances out the ginger and it's delicious.\n\nSecond, I seasoned it while it was boiling with fresh ground black pepper and a pinch of sea salt.\n\nThird, I used a pint of heavy whipping cream instead of milk in step 2. This gave it the \"heft\" of a hearty adult soup rather than the runniness of baby food.\n\nAlso, be sure not to overblend it with the blender or food processor. I left some chunks in mine and it eats way heartier than a soupy soup. In step 1 you might have to boil it uncovered for longer than 30 minutes in order for the liquid to boil off and to let the potatoes and apples really absorb the flavors. I let mine boil for about 90 minutes, until the liquid covered only about half of the potatoes. Then I put it in the blender.\n\nJust some thoughts on how to improve the recipe, because I really like it!\n\nI would give my version a 4.5, but half stars aren't allowed. Also, next time I make this I might use more apples, or maybe mix in some apple cider during the boiling process.",
+            "datePublished": "2015-03-01T17:55:09.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "caba"
+            },
+            "reviewBody": "Delicious. I used 4 c diced sweet potatoes boiled in water, added 1 t. Chicken bouillon, ginger, lime juice, blended all with liquid, poured into a 2 qt crock pot and added 1 c. of 1/2 &amp; 1/2. Heated to serving temperature. 💙 I’ll make this again for sure! Easy!!",
+            "datePublished": "2024-10-17T15:50:35.191Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Grocery Addict"
+            },
+            "reviewBody": "If you're looking for a super speedy weeknight soup, this is it. I wish there was a bit more complexity—next time I'll sauté the ginger and add onions, jalapeño, and garlic. This time around, I jazzed it up with sriracha, cream, and cilantro for brightness—yummy! For added protein, I used chicken bone broth.",
+            "datePublished": "2024-09-29T23:05:40.948Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FrogPondrinFriends"
+            },
+            "reviewBody": "I added Tri-pepper blend (green, pink, and white) along with curry seasoning. Also added 1/2 white onion, 4 large cloves garlic (minced), and used almond milk instead of regular for a low-fat, no-cholesterol, low sodium alternative.",
+            "datePublished": "2022-01-05T02:04:00.433Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judy"
+            },
+            "reviewBody": "This is a very good base soup to start with. I added a whole white potato, finely mined 1/2 onion, celery and carrots along with the sweet potatoes because I like it. I won't give a recipe a low score after I made changes. I don't think that's fair.",
+            "datePublished": "2018-11-11T18:08:21.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maire"
+            },
+            "reviewBody": "One of my favorite things to do with leftovers is to make soups. As well as one cooked sweet potato, I had one portion of mashed Yukon gold and a piece of one chicken breast jalapeno with cheese. I had no stock, but fried onion in butter with garlic, added water and cinnamon, ginger &amp; nutmeg. Added the potatoes, stirred well, then the chicken pieces I had cut up small. I stirred well, could not blend cos of noise but the chicken pieces made the soup into a meal. Served with a little half and half. Thank you for the recipe!",
+            "datePublished": "2025-05-04T05:28:50.629Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Reams"
+            },
+            "reviewBody": "I cut the recipe down, used veggie stock. Added canned milk and squirted lime on it in the bowl. This is really good.",
+            "datePublished": "2019-12-13T17:17:38.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debra"
+            },
+            "reviewBody": "I must say that I was disappointed until I realized that sweet potatoes increase their charm and flavor by cooking prior to using in soups. All of the ingredients can be sheet panned first until soft and flavors really pop. Thank you, but I will stick to that method.",
+            "datePublished": "2026-07-26T15:06:55.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DaringOnion2553"
+            },
+            "reviewBody": "Excellent! Added some salt and felt it was just fine w/o cream or coconut milk. Which is not to say I won’t try it one time. Kudos for the simplicity too.",
+            "datePublished": "2026-05-10T07:28:14.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maria"
+            },
+            "reviewBody": "Added some black pepper per a suggestion we read. Really enjoyed it.",
+            "datePublished": "2026-01-24T01:00:16.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shannon"
+            },
+            "reviewBody": "This is a good soup and easy to make. I did add an apple and 2 tsp of curry. And a pinch of salt.",
+            "datePublished": "2026-01-12T00:39:05.554Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "Tasteless. Will not be doing that again....all that work for nothing.",
+            "datePublished": "2025-12-09T17:27:14.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "canderson7060"
+            },
+            "reviewBody": "Its so smooth and rich. It will go into the rotation!",
+            "datePublished": "2025-12-08T03:41:14.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LankySeed2022"
+            },
+            "reviewBody": "Absolutely beautiful. Made as written, but, my husband couldn’t find any limes at the supermarket, came home with Bickfords lime cordial. I put about 2 tablespoons, tasted great. Will definitely be on my list of soups. Fayefromoz",
+            "datePublished": "2025-05-14T08:51:38.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TForbes"
+            },
+            "reviewBody": "This recipe was super easy and fast to make. The texture is creamy and so full of flavours. I recommend it to anyone who loves an amazingly warm your soul to the core soup. 🌟",
+            "datePublished": "2025-01-19T21:11:01.196Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Venetia Sjogren"
+            },
+            "reviewBody": "Loved it. Added jalapeños, nutmeg and cinnamon.",
+            "datePublished": "2023-10-25T05:11:06.681Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/140546/simple-sweet-potato-soup/",
+          "name": "Easy Sweet Potato Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17305/soups-stews-and-chili/soup/vegetable-soup/sweet-potato-soup/",
+                  "name": "Sweet Potato Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

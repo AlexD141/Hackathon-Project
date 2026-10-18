@@ -1,0 +1,412 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/140294/smoky-four-pepper-salsa/",
+  "extracted_at": "2026-10-18T01:56:30.431417+00:00",
+  "recipes": [
+    {
+      "name": "Smoky Four-Pepper Salsa",
+      "ingredients_raw": [
+        "8 ripe plum tomatoes",
+        "1 tablespoon vegetable oil",
+        "4 poblano peppers",
+        "1 large green bell pepper",
+        "4 Anaheim chile peppers",
+        "1 jalapeno chile pepper, or more to taste",
+        "0.25 onion",
+        "2 tablespoons chopped cilantro leaves",
+        "2 tablespoons white vinegar",
+        "2 teaspoons salt",
+        "2 cloves garlic",
+        "0.25 teaspoon mesquite flavored liquid smoke concentrate"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+          "id": 2,
+          "text": "Rub tomatoes with oil."
+        },
+        {
+          "id": 3,
+          "text": "Cook on the preheated grill for 10 minutes; flip. Place poblanos, bell pepper, Anaheims, and jalapeño on the grill; cook 5 to 7 minutes per side."
+        },
+        {
+          "id": 4,
+          "text": "Transfer tomatoes to a bowl. Place bell pepper, poblanos, Anaheims, and jalapeño in an airtight container. Cool, about 15 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Peel tomatoes. Drain. Peel and seed peppers."
+        },
+        {
+          "id": 6,
+          "text": "Combine tomatoes, peppers, onion, cilantro, vinegar, salt, and garlic in the bowl of a food processor; pulse until blended. Add liquid smoke; pulse until salsa reaches desired consistency."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Smoky Four-Pepper Salsa",
+        "datePublished": "2018-06-08T09:46:58-04:00",
+        "dateModified": "2026-07-14T09:57:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Julia C Brogli"
+          }
+        ],
+        "description": "This quick and easy, smoky four-pepper salsa recipe uses four kinds of peppers, both sweet and hot, and can be adjusted to any degree of heat you like.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/5L-juE7h7fng9z1Nm7cO65WVfl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1554101-smoky-four-pepper-salsa-Ahunani71-4x3-1-2be568fe523942aeb468e156bea744ae.jpg",
+          "height": 600,
+          "width": 800
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Smoky Four-Pepper Salsa",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "18"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "38 kcal",
+          "carbohydrateContent": "6 g",
+          "fiberContent": "2 g",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "396 mg",
+          "sugarContent": "3 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "U.S.",
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 ripe plum tomatoes",
+          "1 tablespoon vegetable oil",
+          "4 poblano peppers",
+          "1 large green bell pepper",
+          "4 Anaheim chile peppers",
+          "1 jalapeno chile pepper, or more to taste",
+          "0.25 onion",
+          "2 tablespoons chopped cilantro leaves",
+          "2 tablespoons white vinegar",
+          "2 teaspoons salt",
+          "2 cloves garlic",
+          "0.25 teaspoon mesquite flavored liquid smoke concentrate"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Rub tomatoes with oil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook on the preheated grill for 10 minutes; flip. Place poblanos, bell pepper, Anaheims, and jalapeño on the grill; cook 5 to 7 minutes per side."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer tomatoes to a bowl. Place bell pepper, poblanos, Anaheims, and jalapeño in an airtight container. Cool, about 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Peel tomatoes. Drain. Peel and seed peppers."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine tomatoes, peppers, onion, cilantro, vinegar, salt, and garlic in the bowl of a food processor; pulse until blended. Add liquid smoke; pulse until salsa reaches desired consistency."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "3 cups"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "seanbean1"
+            },
+            "reviewBody": "I made this for a school project with homegrown chiles and tomatoes. We only had bell peppers and jalapenos and dried cilantro but it turned out great."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "djsyn66"
+            },
+            "reviewBody": "Great salsa. Made it a few times. Instead of using a grill I use my pellet smoker with mesquite pellets. Smoke all the tomatoes, peppers and onion on HiSmoke (225F) for about 1h30 to 2h. No need for the liquid smoke!",
+            "datePublished": "2019-12-22T01:38:09.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gina Gonzalez"
+            },
+            "reviewBody": "Extremely good. Thank you for your tip to cover the peppers to let them steam while they cool to make them easier to peel. Can be modified to suit your needs. I just had poblano and red bell peppers used all of the other ingredients except the liquid smoke and added a 1/2 tsp sugar. I left the salsa chunky. Sauteed with shrimp and served over pan steamed tilapia. It was great!",
+            "datePublished": "2015-07-08T07:34:15.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Added more jalapeño and used apple cider vinegar. Also, used hickory smoke because that’s what I had. Good recipe. I’m sure it was fine the way it was created.",
+            "datePublished": "2024-03-29T13:54:34.379Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amber Roeder"
+            },
+            "reviewBody": "Yummy, I thought it made waaaay too much... and four days later I need to make more.\nMake sure you really blister the peppers, or else it is hard to skin them. (Not the end of the world if the skin is on, just more texture)\nI did triple the garlic, because that's what I do with every recipe. Other than that - perfect!",
+            "datePublished": "2016-08-13T18:20:37.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Banfrau"
+            },
+            "reviewBody": "Wow, this is the recipe I have been looking for. I wasn't able to get the poblano peppers, so I used 4 jalapeno, and it is good and spicy the way I like it. I've tried many recipes for salsa on this site, and while I do like most, they all start with canned tomatoes. This tends to make most of them taste overall the same. The hardest part was peeling the peppers, and even though it didn't bother me, I will experiment with uncooked peppers next time just because I love fresh peppers.",
+            "datePublished": "2015-07-22T10:48:48.303Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stlbelongstime"
+            },
+            "reviewBody": "I threw everything on the grill, including the onions... Smoked it all until skin blistered and then omitted the liquid smoke... Always a party favorite",
+            "datePublished": "2015-07-20T00:36:45.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bonnie C"
+            },
+            "reviewBody": "I have made this twice, both with different types of hot peppers and omitting the liquid smoke...both batches turned out great!",
+            "datePublished": "2012-09-22T19:47:27.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William Bebout"
+            },
+            "reviewBody": "I did not use the liquid smoke and added 2 jalapenos. The salsa turned out excellent and even better as it blended and mingled by the next day.",
+            "datePublished": "2022-06-07T12:10:21.328Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aaron F"
+            },
+            "reviewBody": "It didn't help me win my salsa contest but I liked it.",
+            "datePublished": "2019-05-02T21:32:43.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Strhfs"
+            },
+            "reviewBody": "Great recipe. I added seranos. Wonderful.",
+            "datePublished": "2014-10-02T18:32:11.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diana"
+            },
+            "reviewBody": "Best salsa I've every made. I will be roasting my chili's and tomatoes all the time for salsa. Yummy!",
+            "datePublished": "2014-08-10T10:01:50.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amellefson"
+            },
+            "reviewBody": "Yummy. Smokey flavor adds a nice compliment to the cilantro which I doubled.",
+            "datePublished": "2014-08-02T11:20:39.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "clairelinn"
+            },
+            "reviewBody": "I rated this five star because my husband loved it. I liked it alot...but would have added lime to it for a little extra zing. It's nice having a recipe that uses more than just jalapenos for peppers. It gives it a different but very good flavor. I plan to make it again!",
+            "datePublished": "2013-10-25T15:44:34.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mcol0314"
+            },
+            "reviewBody": "this is very good, even better when refrigerated for a day or two. it is a lot of work for a salsa, though.",
+            "datePublished": "2012-04-29T12:48:19.693Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/140294/smoky-four-pepper-salsa/",
+          "name": "Smoky Four-Pepper Salsa",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+                  "name": "Dips and Spreads Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/436/appetizers-and-snacks/dips-and-spreads/salsa/",
+                  "name": "Salsa Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17196/appetizers-and-snacks/dips-and-spreads/salsa/tomato-salsa/",
+                  "name": "Tomato Salsa Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

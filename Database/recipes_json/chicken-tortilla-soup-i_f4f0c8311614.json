@@ -1,0 +1,525 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13351/chicken-tortilla-soup-i/",
+  "extracted_at": "2026-10-18T01:53:24.761178+00:00",
+  "recipes": [
+    {
+      "name": "Chicken Tortilla Soup",
+      "ingredients_raw": [
+        "1 tablespoon olive oil",
+        "1 medium onion, chopped",
+        "3 cloves garlic, minced",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (10.5 ounce) can condensed chicken broth",
+        "1.25 cups water",
+        "2 teaspoons chili powder",
+        "1 teaspoon dried oregano",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "2 large boneless chicken breast halves, cooked and cut into bite-sized pieces",
+        "1 cup whole corn kernels, cooked",
+        "1 cup white hominy",
+        "1 (4 ounce) can chopped green chile peppers",
+        "0.25 cup chopped fresh cilantro",
+        "0.5 cup crushed tortilla chips, or to taste",
+        "2 medium avocados, sliced, or to taste",
+        "0.5 cup shredded Monterey Jack cheese, or to taste",
+        "2 tablespoons chopped green onions, or to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in a stockpot over medium heat. Add onion and garlic; sauté until soft, about 5 minutes. Stir in chili powder and oregano."
+        },
+        {
+          "id": 3,
+          "text": "Stir in crushed tomatoes, condensed broth, and water; bring to a boil. Reduce heat and simmer for 5 to 10 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in black beans, cooked chicken, corn, hominy, chile peppers, and cilantro. Simmer for 10 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Ladle soup into individual serving bowls, and top with crushed tortilla chips, avocado slices, Monterey Jack cheese, and green onions."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Chicken Tortilla Soup",
+        "datePublished": "1999-01-25T13:40:26-05:00",
+        "dateModified": "2026-01-20T19:12:35-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Star Pooley"
+          }
+        ],
+        "description": "This chicken tortilla soup with tender chicken, black beans, chiles, and corn is topped with avocado and cheese for a flavorsome, quick, and easy meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/C95ZbWnMyERnb0EZZbUtagslPMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13351-chicken-tortilla-soup-i-DDMFS-4x3-746173decf5548e581fd08e713a8adba.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/HCnAqhpb-K3AjnAEN.mp4",
+          "description": "If you're looking for a hearty and filling soup that will satisfy your Mexican food craving, then look no further than the recipe in this short video. Chicken tortilla soup is the perfect comfort food that offers both spicy, authentic flair and hearty ingredients that will keep you full and happy. Everyone will be slurping up this soup by the bowlful — so be prepared to make the tasty recipe again and again.",
+          "duration": "PT1M1S",
+          "name": "Chicken Tortilla Soup Recipe ",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/HCnAqhpb/thumbnails/9ip5NnGk.jpg?width=1280",
+          "uploadDate": "2022-08-14T13:58:31-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken Tortilla Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "2084"
+        },
+        "cookTime": "PT25M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "353 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "33 mg",
+          "fiberContent": "13 g",
+          "proteinContent": "19 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "713 mg",
+          "sugarContent": "8 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon olive oil",
+          "1 medium onion, chopped",
+          "3 cloves garlic, minced",
+          "1 (28 ounce) can crushed tomatoes",
+          "1 (10.5 ounce) can condensed chicken broth",
+          "1.25 cups water",
+          "2 teaspoons chili powder",
+          "1 teaspoon dried oregano",
+          "1 (15 ounce) can black beans, rinsed and drained",
+          "2 large boneless chicken breast halves, cooked and cut into bite-sized pieces",
+          "1 cup whole corn kernels, cooked",
+          "1 cup white hominy",
+          "1 (4 ounce) can chopped green chile peppers",
+          "0.25 cup chopped fresh cilantro",
+          "0.5 cup crushed tortilla chips, or to taste",
+          "2 medium avocados, sliced, or to taste",
+          "0.5 cup shredded Monterey Jack cheese, or to taste",
+          "2 tablespoons chopped green onions, or to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oexlr4IwNIEdUhtq_KFM50H85Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13351-chicken-tortilla-soup-i-DDMFS-4164-4x3-step-01-374f901efb4449d6906542a4c73825f0.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/fzmarTjeEA5mDsLAXJsy_QPtMJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13351-chicken-tortilla-soup-i-step-2-124-1ecd6f288b3b4c379258524586c84e11.jpg"
+              }
+            ],
+            "text": "Heat oil in a stockpot over medium heat. Add onion and garlic; sauté until soft, about 5 minutes. Stir in chili powder and oregano."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sCSyZp2GngUsGhiHOc3zO7R7tA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13351-chicken-tortilla-soup-i-step-3-130-3f94bc0518794ff29d2c62862a142111.jpg"
+              }
+            ],
+            "text": "Stir in crushed tomatoes, condensed broth, and water; bring to a boil. Reduce heat and simmer for 5 to 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-pQpVxpkLY5zreO_QwRiZ87TP14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13351-chicken-tortilla-soup-i-step-4-132-81b2395d09cb46cd995d7499416641be.jpg"
+              }
+            ],
+            "text": "Stir in black beans, cooked chicken, corn, hominy, chile peppers, and cilantro. Simmer for 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/C95ZbWnMyERnb0EZZbUtagslPMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13351-chicken-tortilla-soup-i-DDMFS-4x3-746173decf5548e581fd08e713a8adba.jpg"
+              }
+            ],
+            "text": "Ladle soup into individual serving bowls, and top with crushed tortilla chips, avocado slices, Monterey Jack cheese, and green onions."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I read every single review (all 114) prior to making this soup, so I changed a few things. It turned out wonderfully!! Here's how I did it: I diced two boneless, skinless chicken breasts and cooked them prior to starting with the olive oil, 2 cloves garlic and 1/2 cup diced onion. Then I added 4 cans condensed chicken broth (many people said the soup was very thick - chili-like consistency, and I wanted more of a soup). I also added a can of water (filled a broth can with water). I added the crushed tomatoes (28 oz), the hominy (15 oz), the diced green chili peppers (4 oz), 1 tsp each of cumin (instead of oregano as many reviewers suggested), lime juice and garlic powder, and 1/2 tsp of chili powder. I brought to a boil and let simmer for 1 hour (as others also suggested). Top with shredded monterey jack cheese and garnish w/ tortilla chips. EXCELLENT! My husband said it tasted just like the chicken tortilla soup we'd had at Chili's - which was what I was aiming for!! I think the sour cream would have been a good topping as well, maybe next time. Thank you for a wonderful recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VD711"
+            },
+            "reviewBody": "Not sure if people are rating this recipe based on their personal revisions, but as written this recipe does not deliver. It's too watery, it needs more time to cook, and it completely lacks in spice/flavor. Luckily I had a couple ingredients on hand to fix it, and the end result was wonderful and the whole family asked to have it again (soon). So I will share my changes: 1) Use shredded chicken - it's more like what you'd get in a restaurant. 2) Let this soup simmer in a crock pot - I did it on low for a total of 5 hours. It thickens the soup and helps the flavors blend. 3) Substitute the water for chicken broth (I used a total of 3 cups of broth). 4) Skip the hominy - one cup of corn is enough. Add an extra 4oz can of green chilis. 5) ADD A PACKET OF TACO SEASONING (I had McCormick's on hand) and increase the chili powder by 1 tsp. Add a sprinkle of cumin and a little salt (or garlic salt). 6) Add 8-10 finely crushed tortilla chips (baked are ok) into the soup (they'll cook down so you won't have crunchy bites but they add a good flavor - it is TORTILLA soup, right?) 7) After simmering for 4 1/2 hours, stir in 1/2 cup of sour cream. Continue to simmer for 30 minutes. This is what really puts the soup over the top and gives is a creamy texture similar to what I've had in most restaurants. 8) Serve with diced avocado, shredded cheese, and more tortilla chips for crumbling. End result - awesome!",
+            "datePublished": "2009-12-07T10:57:42.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHENDOAH"
+            },
+            "reviewBody": "As made it's alright. The test of any soup is it's broth. Using condensed broth and water is going to leave this lacking. You'll need something to produce some depth. The better your broth, the better your soup. Make this with high quality store bought broth, not condensed broth. If you have the time, make your own broth. Then let the whole recipe simmer quite a bit before serving. 30-60 minutes. The flavors need time to blend. This is an easily modifiable recipe to suit your heat and seasoning preferences. I start with making home made broth, then use hot chili peppers, Mexican oregano instead of standard Mediterranean, add hot paprika, and leave the cilantro as a garnish. I find cooked cilantro to be bitter. Those changes level this up to a 5 star soup.",
+            "datePublished": "2022-12-05T01:04:59.125Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel Wall"
+            },
+            "reviewBody": "I have tried this recipe a couple of times and as is, I wouldn't give it 5 stars, but with changes it is fabulous! Here are my changes...I diced up fresh tomatoes (anywhere from 2-4 tomatoes depending on how much of that flavor you want) instead of canned and they were perfectly ripe, so it worked! I also added in a fresh yellow and red bell pepper and added more chili powder and cumin. Those make it SO much more flavorful and yummy! I also used ALL chicken broth instead of any water (homemade from boiling the leftovers of a rotisserie chicken--so much better than the canned stuff!!), added about 2 tsp garlic salt, skipped the hominy and just put in corn. I added another 4 oz can of green chiles and stirred in some sour cream 1/2 hour before I served it (just like many other reviews suggested). I threw everything in the crockpot and let it cook for 5+ hours to let all the flavors come together. As soon as the chicken is cooked through, (about 3 hours into it), I take out the chicken, shred it with a knife and fork, and then put it back in to soak up some more flavor. Add crushed tortilla chips, cheese, sour cream, avocado, fresh cilantro to top it off and it's amazing!",
+            "datePublished": "2015-03-03T11:39:48.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeWhisk1865"
+            },
+            "reviewBody": "Delicious. Really Delcious I made 3 adjustments. I added 1 -can of Rotel chilis to the existing recipe and 3 Bay leaves for enhanced flavor. I substituted Mexi-Corn for plain canned corn. Also, I made it on the stove top in my Dutch oven! This ones staying in my Fall rotation!!!",
+            "datePublished": "2024-09-07T16:11:19.821Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Foodie"
+            },
+            "reviewBody": "Your recipe with ALL the changes from VD711 is outstanding!! Adding the taco seasoning, extra chilies …etc …made the soup delicious! Slow cooker added so much depth in flavor!!",
+            "datePublished": "2023-03-13T02:01:42.845Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mits"
+            },
+            "reviewBody": "I put every thing in crook pot, including raw chicken breast, not cut, omitted oregano, used cumin instead, omitted water, used chicken broth in its place, put on low for 10 hours, pulled chicken out and shredded it, came out great",
+            "datePublished": "2021-01-22T02:02:56.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Johanna Lyon"
+            },
+            "reviewBody": "Good recipe! I made it for my boyfriend and I as we get into fall and want some hearty, warm food in the evenings. I was (almost) a purist when it came to following the ingredients, only reducing the oregano to 1/2 tsp and adding 1 tsp cumin.\n\nInitially this resulted in a bland tasting soup base, so I went back in and seasoned more aggressively. I added more chili powder, a good amount of salt, pepper, garlic powder, and more oregano. This gave me a much more flavorful soup that I enjoyed much more. I also chose to simmer the soup for much longer than 10 min. I went for a full hour to really get a good marriage of flavors. \n\nOverall, good recipe. Just go in and flavor to taste!",
+            "datePublished": "2018-10-22T00:16:28.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JenInCalifornia"
+            },
+            "reviewBody": "Excellent! You must use fresh corn and top with the avacado. We've had this many times since I found this recipe. Love the hominy too. Thanks!",
+            "datePublished": "2007-04-05T13:39:30.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krusatyr"
+            },
+            "reviewBody": "Needs 3 red bells roasted and chopped large, 1 roasted poblano chopped fine, white meat of one fresh chicken spatchcocked and roasted to 165 degrees F, with olive oil and favorite poultry spices, thence shred the white meat, boil the skin and bones two hours to make stock, one yellow onion diced, 5 garlic cloves minced, spices to include two level Tablespoons of freshly ground cumin seed, dried chipotle flakes, dried ancho flakes.\n\nAdd fresh chopped cilantro only when served: cooking cilantro strips all its flavor away.\n\nTop with freshly grated sharp cheddar, queso fresca, salted sliced avocado, the cilantro, sliced limes and shots of Tequila on the side.",
+            "datePublished": "2020-09-25T22:47:07.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LushGoat6665"
+            },
+            "reviewBody": "Good base recipe but it was a bit bland when I first made it due to the water, and condensed broth. It's been rainy here in SOCAL and I was craving Tortilla soup. Replaced chicken breast with thighs for flavor, used fire-roasted diced tomatoes, roasted some corn in the cast iron, drained black and red beans, skipped the water, and used organic chicken bone broth + chicken broth, used smoked paprika. Then brought to a boil, then slow-cooked for a few hours, and topped with fresh chopped cilantro, avocado, and lime. The flavors were amazing and we will make it again.",
+            "datePublished": "2024-02-08T00:31:40.664Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shannon G"
+            },
+            "reviewBody": "Not impressed. Tasted like tomatos.",
+            "datePublished": "2026-09-18T00:29:04.004Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ClassyMead9935"
+            },
+            "reviewBody": "I've been making this for years lost the recipe but easy to remember the flavors!",
+            "datePublished": "2026-09-03T22:15:55.654Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon"
+            },
+            "reviewBody": "It was very good. However I took the chicken broth that I poached chicken tenders in and used an immersion blender in a bowl with the hominy. I also used fire roasted tomatoes and halved the crushed tomatoes. Otherwise followed the recipe as written. It was excellent!",
+            "datePublished": "2026-08-09T23:29:56.451Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ruthyfr"
+            },
+            "reviewBody": "My family Loved this recope",
+            "datePublished": "2026-03-24T22:02:10.436Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "leener66"
+            },
+            "reviewBody": "Reminded me more of taco soup but with chicken",
+            "datePublished": "2026-01-17T02:22:06.858Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "terrijcapps"
+            },
+            "reviewBody": "I skipped the garbanzo beans because I don't like them. I added 2 cans of black beans &amp; a whole bag of frozen corn. I also cooked my chicken breasts in 2 cups of chicken broth then shredded it &amp; added it at the end. I also let mine simmer for a good 45 minutes. I used the broth I cooked my chicken for the broth &amp; water. Also all I had was peeled whole tomatoes so I crushed them with my hands. Love the soup I think it's delicious. Will definitely make this again.",
+            "datePublished": "2026-01-16T21:27:17.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melanie"
+            },
+            "reviewBody": "Good flavor,l! Added a can of diced tomatoes with roasted peppers (medium spice). Held the water because I used home made broth. Also took the advice of a few reviews and cooked the chicken first in a pot and added the onions and garlic after to the chicken seasoned it all together with maldon smoked salt and the chili powder/cumin. It was soooo good.",
+            "datePublished": "2026-01-04T02:05:18.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GAPC"
+            },
+            "reviewBody": "Make it with a twist; added fire roasted tomatoes, extra teaspoons of garlic, Mexican Oregano and use California chili powder, and roasted 4 large diced boneless chicken breast before adding it to the broth. Used bouillons to make the chicken broth. The fire roasted tomatoes gave it great flavor. Delicious!!",
+            "datePublished": "2026-01-01T23:16:34.321Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth"
+            },
+            "reviewBody": "It's a good base. But you REALLY need to adjust the spices to give it any taste at all.",
+            "datePublished": "2025-12-28T00:49:47.427Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13351/chicken-tortilla-soup-i/",
+          "name": "Chicken Tortilla Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16563/soups-stews-and-chili/soup/tortilla-soup/",
+                  "name": "Tortilla Soup Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

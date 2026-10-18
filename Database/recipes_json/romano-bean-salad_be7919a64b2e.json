@@ -1,0 +1,289 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221997/romano-bean-salad/",
+  "extracted_at": "2026-10-18T03:14:09.701138+00:00",
+  "recipes": [
+    {
+      "name": "Romano Bean Salad",
+      "ingredients_raw": [
+        "1 pound fresh romano or green beans, trimmed",
+        "2 cloves garlic, sliced",
+        "2 tablespoons olive oil",
+        "2 fresh mint leaves, torn",
+        "salt and freshly ground black pepper to taste",
+        "2 tablespoons white wine vinegar",
+        "2 mint leaves, for garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Add beans and cook uncovered until nearly tender, about 5 minutes. Drain well, and set aside in a large bowl."
+        },
+        {
+          "id": 2,
+          "text": "Smash garlic, olive oil, mint, and salt using mortar and pestle."
+        },
+        {
+          "id": 3,
+          "text": "Pour vinegar and half of olive oil mixture over beans and toss well."
+        },
+        {
+          "id": 4,
+          "text": "Transfer beans to a resealable freezer bag. Pour remaining olive oil mixture into bag, squeeze out all air, seal and refrigerate for a minimum of 4 hours."
+        },
+        {
+          "id": 5,
+          "text": "Remove beans from refrigerator, top with fresh mint and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Romano Bean Salad",
+        "datePublished": "2012-04-27T18:38:49-04:00",
+        "dateModified": "2025-01-31T23:43:44-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "Romano beans are similar to green beans and make a great side dish when marinated with garlic, mint, olive oil, and vinegar.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/9arpm4WUlz_EQpgoG6k-MkVkDu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3719637-1165245bc9cf45f7a2cbff022dca2cec.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/5iKuRosl-ma1DlVvV.mp4",
+          "description": "0201",
+          "duration": "PT3M41S",
+          "name": "Romano Bean Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5iKuRosl/poster.jpg?width=1280",
+          "uploadDate": "2021-08-04T08:53:47-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Romano Bean Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "11"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "195 kcal",
+          "carbohydrateContent": "17 g",
+          "fiberContent": "8 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "16 mg",
+          "sugarContent": "3 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound fresh romano or green beans, trimmed",
+          "2 cloves garlic, sliced",
+          "2 tablespoons olive oil",
+          "2 fresh mint leaves, torn",
+          "salt and freshly ground black pepper to taste",
+          "2 tablespoons white wine vinegar",
+          "2 mint leaves, for garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add beans and cook uncovered until nearly tender, about 5 minutes. Drain well, and set aside in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Smash garlic, olive oil, mint, and salt using mortar and pestle."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour vinegar and half of olive oil mixture over beans and toss well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer beans to a resealable freezer bag. Pour remaining olive oil mixture into bag, squeeze out all air, seal and refrigerate for a minimum of 4 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/9arpm4WUlz_EQpgoG6k-MkVkDu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3719637-1165245bc9cf45f7a2cbff022dca2cec.jpg"
+              }
+            ],
+            "text": "Remove beans from refrigerator, top with fresh mint and serve."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT260M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "The store had no Romano beans, so I used green beans and also used white balsamic vinegar. One thing that I will do differently next time is to steam them in the microwave, as I know exactly how long it takes to cook them the way we like them. I overcooked the beans a bit today, but that's not the recipe's fault. I'd recommend that you use a good-quality olive oil, as it's an important element of this recipe. I will not put the beans in a bag the next time, as too much of the garlic-mint-oil mixture stuck to the side of the bag, making it difficult to get out. Simple yet elegant presentation for a side dish/salad that can be made early in the day. Will be making this a lot, definite keeper!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charliec"
+            },
+            "reviewBody": "I followed the recipe, maybe added a bit more garlic and a bit more mint. Here's a tip: Use the mortar and pestle on the mint, garlic and salt first, then add the oil. I served the finished dish warm, and had left overs cold 4 hours later. The recipe is significantly better with age, very much like pickling. Overall the recipe was really good. Don't over cook the beans, err on the under done side. Otherwise, an excellent recipe.",
+            "datePublished": "2016-08-24T04:58:48.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kjo"
+            },
+            "reviewBody": "I had never hear of these beans before, and did not know what to do with them. Glad to have found this recipe! It was wonderful!!",
+            "datePublished": "2014-09-20T12:02:26.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anna Hofmockel"
+            },
+            "reviewBody": "Really heavy on the garlic!",
+            "datePublished": "2014-03-18T08:34:05.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason Melo Hall"
+            },
+            "reviewBody": "It is a good quick easy recipe. However, it is a little heavy on garlic and olive oil.",
+            "datePublished": "2013-08-04T09:49:26.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anastasia Fiske"
+            },
+            "reviewBody": "Fantastic!!!!",
+            "datePublished": "2013-06-27T02:05:46.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jean Vitrano"
+            },
+            "reviewBody": "yummy, add tomatoes....",
+            "datePublished": "2013-06-26T20:17:56.377Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221997/romano-bean-salad/",
+          "name": "Romano Bean Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

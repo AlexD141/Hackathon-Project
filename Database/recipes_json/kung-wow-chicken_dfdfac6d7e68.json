@@ -1,0 +1,511 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220181/kung-wow-chicken/",
+  "extracted_at": "2026-10-18T03:09:34.261339+00:00",
+  "recipes": [
+    {
+      "name": "Kung Wow Chicken",
+      "ingredients_raw": [
+        "3 medium green onions, finely chopped (white parts only)",
+        "1 tablespoon white wine",
+        "1 tablespoon soy sauce",
+        "1 teaspoon brown sugar",
+        "1 pound skinless, boneless chicken breast, cut into 1-inch pieces",
+        "2 tablespoons rice vinegar",
+        "2 tablespoons brown sugar",
+        "4 cloves garlic, minced",
+        "1 tablespoon white vinegar",
+        "1 tablespoon Asian chili paste (sambal), or more to taste",
+        "1 tablespoon sesame oil",
+        "2 teaspoons ketchup",
+        "2 tablespoons water",
+        "1 tablespoon cornstarch",
+        "2 tablespoons peanut oil",
+        "2 cups cubed zucchini",
+        "1 cup cubed red bell pepper",
+        "0.5 cup chicken broth",
+        "0.25 cup roasted, salted peanuts",
+        "salt and ground black pepper to taste",
+        "0.25 cup chopped green onion tops",
+        "4 cups cooked white rice"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk 3 finely chopped green onion white parts, 1 tablespoon white wine, 1 tablespoon soy sauce, and 1 teaspoon brown sugar together in a bowl. Add chicken pieces; toss to coat. Cover bowl; refrigerate for 1 hour."
+        },
+        {
+          "id": 2,
+          "text": "Whisk rice wine vinegar, remaining 2 tablespoons white wine, 2 tablespoons brown sugar, garlic, white vinegar, remaining 1 tablespoon soy sauce, sambal chili paste, sesame oil, and ketchup together in a bowl; set aside."
+        },
+        {
+          "id": 3,
+          "text": "Whisk water and cornstarch together in a separate small bowl; set aside."
+        },
+        {
+          "id": 4,
+          "text": "Heat peanut oil in a heavy duty, nonstick skillet over high heat. Add chicken; cook and stir until chicken begins to brown, about 2 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Stir in zucchini and bell pepper; cook 2 minutes. Add chicken broth; stir."
+        },
+        {
+          "id": 6,
+          "text": "Stir in vinegar mixture; cook and stir until vegetables are tender and chicken is no longer pink in centers, about 2 minutes. Stir in cornstarch mixture until sauce is thickened, about 30 seconds; remove from heat."
+        },
+        {
+          "id": 7,
+          "text": "Toss in peanuts; season with salt and black pepper. Stir in ¼ cup green onion tops. Serve over white rice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Kung Wow Chicken",
+        "datePublished": "2012-02-10T12:03:58-05:00",
+        "dateModified": "2025-04-14T10:11:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "Chef John&#39;s kung wow chicken recipe is a highly simplified version of kung pao chicken for American palates. It&#39;s way more flavorful than a simple stir-fry.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/dPFTVdNtY2WpvlCYm5T25vmwQlI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805549-328fdf32b2ce420baceb4980fa8feff2.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/VS2Rm6Hw-ma1DlVvV.mp4",
+          "description": "0283",
+          "duration": "PT5M16S",
+          "name": "Spicy Kung Wow Chicken",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/VS2Rm6Hw/poster.jpg?width=1280",
+          "uploadDate": "2021-07-20T22:50:05-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Kung Wow Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "136"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "568 kcal",
+          "carbohydrateContent": "66 g",
+          "cholesterolContent": "65 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "696 mg",
+          "sugarContent": "13 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "3 medium green onions, finely chopped (white parts only)",
+          "1 tablespoon white wine",
+          "1 tablespoon soy sauce",
+          "1 teaspoon brown sugar",
+          "1 pound skinless, boneless chicken breast, cut into 1-inch pieces",
+          "2 tablespoons rice vinegar",
+          "2 tablespoons brown sugar",
+          "4 cloves garlic, minced",
+          "1 tablespoon white vinegar",
+          "1 tablespoon Asian chili paste (sambal), or more to taste",
+          "1 tablespoon sesame oil",
+          "2 teaspoons ketchup",
+          "2 tablespoons water",
+          "1 tablespoon cornstarch",
+          "2 tablespoons peanut oil",
+          "2 cups cubed zucchini",
+          "1 cup cubed red bell pepper",
+          "0.5 cup chicken broth",
+          "0.25 cup roasted, salted peanuts",
+          "salt and ground black pepper to taste",
+          "0.25 cup chopped green onion tops",
+          "4 cups cooked white rice"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk 3 finely chopped green onion white parts, 1 tablespoon white wine, 1 tablespoon soy sauce, and 1 teaspoon brown sugar together in a bowl. Add chicken pieces; toss to coat. Cover bowl; refrigerate for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk rice wine vinegar, remaining 2 tablespoons white wine, 2 tablespoons brown sugar, garlic, white vinegar, remaining 1 tablespoon soy sauce, sambal chili paste, sesame oil, and ketchup together in a bowl; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk water and cornstarch together in a separate small bowl; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat peanut oil in a heavy duty, nonstick skillet over high heat. Add chicken; cook and stir until chicken begins to brown, about 2 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in zucchini and bell pepper; cook 2 minutes. Add chicken broth; stir."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in vinegar mixture; cook and stir until vegetables are tender and chicken is no longer pink in centers, about 2 minutes. Stir in cornstarch mixture until sauce is thickened, about 30 seconds; remove from heat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/dPFTVdNtY2WpvlCYm5T25vmwQlI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805549-328fdf32b2ce420baceb4980fa8feff2.jpg"
+              }
+            ],
+            "text": "Toss in peanuts; season with salt and black pepper. Stir in ¼ cup green onion tops. Serve over white rice."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT95M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dale"
+            },
+            "reviewBody": "Chef John has delivered us another great recipe! Delicious!\nI was all out of wine so I subbed beer* for the wine in the recipe and it was still awesome.\nI used 1 cup zucchini, 1 cup broccoli and ½ cup yellow onion in favor of using the red bell pepper. Chef John said to use any veggie of your choice.\nI omitted the jalapeno pepper because I didn’t want it to be too spicy hot for my guests.\nI doubled the sauce, except I decreased the chili paste to 1½ Tbsp and the brown sugar** to just 1Tbsp.\nI served it over steamed brown rice and it was an incredible meal. Everyone loved it.\nThanks Chef John!!!\n* Beer, (Bud, Coors or Miller), always works as a nice substitute for white wine in any recipe.\n** Even 1 Tbsp brown sugar is almost too sweet for this recipe. I recommend using less brown sugar unless you love the sweetness of Orange Chicken and Sesame Chicken entrées."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy Williamson Farrell"
+            },
+            "reviewBody": "I have made this several times but ,as a vegetarian, I substituted tofu for the chicken.Drain &amp; press between paper towels a block of. extra firm tofu. Cube in 1 inch pieces.Then toss in a few tablespoons of Canola oil. Lay on foil lined baking pan and roast about 25 min. in a 400 degree oven, turning once, till brown. Add to mixture and toss right before serving.",
+            "datePublished": "2013-01-17T06:35:38.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura"
+            },
+            "reviewBody": "Delicious! I sautéed the veggies prior to adding to the chicken. Used regular onion, carrots and mushrooms since they were all I had on hand. I also took the other reviewers recommendation and just added the corn starch to the broth. Next time I may dredge the chicken in corn starch for a little crust and remove the chicken before adding the corn starch mixture.",
+            "datePublished": "2017-01-19T00:42:14.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "just_jam"
+            },
+            "reviewBody": "we thoroughly enjoyed this.. only thing we did differently was reduce the brown sugar in the vinegar mixture to 1 tsp and to use leg meat.. had a lot of extra juice from the veggies but the rice soaked it up so no complaints other than expecting it to be thicker.. we splashed some extra rice vinegar and sriracha on the finished product.. we made the entire 4 servings and finished it in one setting.. ty so much for this recipe.. ~~UPDATE: making this for the second time around was mind blowing.. after reading my old review i figured i should double the chili paste since i added sriracha at the end.. but i'm now wondering if i had added the optional jalapeno the first time, b/c wow this was spicy.. and we like spice! i used the whole amount of brown sugar this time and it was perfect.. had to sub cubed up pork loin for the chicken breast b/c that's what we had thawed out.. used green bell pepper and carrots in place of the red bell pepper.. ty again for the recipe",
+            "datePublished": "2013-06-11T17:39:51.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kate Nash"
+            },
+            "reviewBody": "The ingredients are great, but I have a suggestion to keep the vegetables crisp. Cook the zucchini and, red pepper for 2-3 minutes then remove it from the pan. Cook the chicken, add the vinegar mixture, and the cornstarch mixture. Bring to bubbling temperature, and thickened. THEN add the vegetables back in to heat through.\nI lived in Asia for ten years and this is the method my Chinese friends use.",
+            "datePublished": "2016-10-03T22:49:24.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mdg"
+            },
+            "reviewBody": "Great recipe. I used boneless skinless chicken thighs. I believe that they have more flavor and are less dry, and cheaper than chicken breasts. I also added 1 star anise after the vegetables and the more complex flavor it added was great. I definetly will make this recipe again.",
+            "datePublished": "2012-05-05T15:02:50.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gjmstarman"
+            },
+            "reviewBody": "I doubled the marinade and sauce because I had extra vegetables. Very flavorful in a sweet n sour sauce kind of way. I also add about a teaspoon of fresh grated ginger for some extra zing ! Will definitely make again. So adaptable and fun to make.",
+            "datePublished": "2018-04-01T21:43:35.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elaine Dunn"
+            },
+            "reviewBody": "We've made this two times. Once with chicken thighs and once with shrimp. We use cauliflower rice and it's excellent.",
+            "datePublished": "2019-06-16T23:20:05.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chinya"
+            },
+            "reviewBody": "We LOVED this dish!! I made only three changes - I used cashews instead of peanuts, used mushrooms instead of zucchini, and added more chili paste (we like the heat!), but otherwise was faithful to the recipe. It may seem complicated/ingredient intensive, but really is not very time consuming. I just measured everything out at the beginning, and then it comes together in a flash! Excellent flavor - this is going to be a regular dish in our house!",
+            "datePublished": "2016-06-19T01:52:38.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeannette"
+            },
+            "reviewBody": "This is going to be my new go to stir fry. It is perfect the way it is. It will lend itself to many variations, depending on the veggies in the fridge. Looking forward to making it again.\n\nI did not have rice vinegar and subbed apple cider vinegar.",
+            "datePublished": "2018-01-13T17:21:35.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chels"
+            },
+            "reviewBody": "Great recipe! I've made it a couple of times now and I prefer it with dark meat (thigh instead of breast). I add some fresh minced ginger along with the minced garlic and I really like that flavor. The peanut oil is GREAT for stir fry - definitely use that if you can. If not, I have used vegetable oil and it's been fine (just spatters a bit - maybe I did something wrong, or maybe it's just not the best for stir fry, I don't know). I've tried it with Chinese 5 spice and without, and I definitely prefer without. I use 1 red bell pepper, 1 green bell pepper and 1 onion and I love that veggie combination. Thanks for a great recipe!",
+            "datePublished": "2014-03-18T04:20:07.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peggie Loughridge"
+            },
+            "reviewBody": "You can always change up the veggies, but good as is :",
+            "datePublished": "2026-06-03T01:43:53.658Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Virginia Irlikis"
+            },
+            "reviewBody": "Followed the recipe except used Sriracha instead of Asian chili paste. We loved it!",
+            "datePublished": "2024-11-26T03:36:19.889Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZippyLime4707"
+            },
+            "reviewBody": "What is a \"green onion\"? Do you mean \"chives\"?? Edit: He means \"chives\". Also, 5 stars for flavor, ease, and affordability.",
+            "datePublished": "2024-09-30T23:27:23.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Horace Grant"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-08-02T23:17:56.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AquaTimer1177"
+            },
+            "reviewBody": "Added a couple jalapeños. Delicious.",
+            "datePublished": "2023-08-08T18:19:11.942Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KatieW9908"
+            },
+            "reviewBody": "This tasted very sweet to me, even with all the vinegar in it. Probably a matter of personal preference, and those who like a sweet stir fry may really like it.",
+            "datePublished": "2022-10-13T22:39:49.093Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yoda but with an Education"
+            },
+            "reviewBody": "This meal was very poggers! I’m sure Anakin would have liked this one God rest his soul. If only my little fingers could grasp the fork to eat it myself without having to have Asoka spoon feed it to me.",
+            "datePublished": "2021-02-08T23:56:22.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "normal"
+            },
+            "reviewBody": "I needed a stir fry sauce that did not contain wheat due to a wheat allergy. I used a wheat free soy sauce and proceeded with this homemade sauce for my dish. Every store bought sauce seems to start with regular soy sauce which has wheat in it. This turned out nicely for my guest.",
+            "datePublished": "2020-12-15T09:58:20.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "grod"
+            },
+            "reviewBody": "I loved it but my husband thought it was too sweet. Don’t know if I’ll make it again because of him.",
+            "datePublished": "2020-08-07T00:06:17.803Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220181/kung-wow-chicken/",
+          "name": "Kung Wow Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

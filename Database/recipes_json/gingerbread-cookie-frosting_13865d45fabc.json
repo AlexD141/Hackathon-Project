@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11102/gingerbread-cookie-frosting/",
+  "extracted_at": "2026-10-18T01:45:21.944841+00:00",
+  "recipes": [
+    {
+      "name": "Gingerbread Cookie Icing",
+      "ingredients_raw": [
+        "1 cup confectioners' sugar",
+        "0.25 cup milk, or as needed",
+        "10 drops food coloring"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Sift confectioners&#39; sugar into a small bowl to remove lumps."
+        },
+        {
+          "id": 2,
+          "text": "Gradually stir in milk until icing is smooth, but not runny."
+        },
+        {
+          "id": 3,
+          "text": "Add optional color to icing by dividing between small containers, one for each color. Gradually add food coloring until desired shades are reached."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Gingerbread Cookie Icing",
+        "datePublished": "1998-10-11T19:33:55-04:00",
+        "dateModified": "2026-02-10T11:54:04-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Alison Hendon",
+            "url": "https://www.allrecipes.com/cook/24320815"
+          }
+        ],
+        "description": "This gingerbread cookie icing recipe is perfect for festive treats during the holidays. Great for other cookie decorating as well, any time of year.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/uYbbBE1GsfA-x13aN7Hng2Cq_7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11102-gingerbread-cookie-frosting-vat-4X3-3-8afc84c0770c420e953cc90b25419a1e.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Gingerbread Cookie Icing",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "29"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "126 kcal",
+          "carbohydrateContent": "31 g",
+          "cholesterolContent": "2 mg",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "7 mg",
+          "sugarContent": "30 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup confectioners' sugar",
+          "0.25 cup milk, or as needed",
+          "10 drops food coloring"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/wwHefOrcQ6aPmFrUp_mAK4kZFHA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11102-gingerbread-cookie-frosting-step-01-2-7ea782e951af4a27bf4fd0c1c12f2c21.jpg"
+              }
+            ],
+            "text": "Sift confectioners&#39; sugar into a small bowl to remove lumps."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bv66BB5ofL4lqTcfHpJaze4Jfdk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11102-gingerbread-cookie-frosting-step-01-3-fe0dee9dc04e443987ebedb3e78a5db6.jpg"
+              }
+            ],
+            "text": "Gradually stir in milk until icing is smooth, but not runny."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Hoy4UiToFGxjwmkpVVo9JFNVQds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11102-gingerbread-cookie-frosting-step-01-4-7b20e5a024e34d3db14f8a77b8615cab.jpg"
+              }
+            ],
+            "text": "Add optional color to icing by dividing between small containers, one for each color. Gradually add food coloring until desired shades are reached."
+          }
+        ],
+        "recipeYield": "1/2 cup",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was a great frosting for my gingerbread men. I did find, however, that 1/4 cup of milk was far to much and produced a very runny frosting-more like a glaze. I kept adding sugar until it was more of a spreading consistancy. I also made a batch that was very stiff and put it into a bag and piped it onto the arms and legs-it was adorable!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GreenTongs5111"
+            },
+            "reviewBody": "I loved the frosting. I only used a tiny bit of milk and mixed it in slowly. Thanks leaving out the corn syrup. I added natural food coloring and my cookies turned out super cute!",
+            "datePublished": "2023-12-25T00:27:23.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FriskyTofu3516"
+            },
+            "reviewBody": "Super easy. I only added just enough milk(by the spoonful) to bring it together without lumps. Like toothpaste consistency (very thick). If it was too runny, I added a bit more sugar. I also added a bit of vanilla extract to it. I was surprised at how professional it tasted! Delicious!",
+            "datePublished": "2024-12-12T06:16:44.974Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Ok, so I see a lot of the same stuff; \"IT'S TOO RUNNY\" or \"I HAD TO ADD FIVE CUPS OF SUGAR TO THICKEN IT\" and \"IT WOULDN'T THICKEN\". Please, please, please just read the directions, and carefully. Don't add all the milk. Do it teaspoon by teaspoon or tablespoon by tablespoon. You're eventually going to find your perfect thickness. If it's still too runny, try the refrigerator, and if you really need yo, add a bit of extra sugar, but not the whole bag. Also, add a bit of flavor if you feel like it. :)",
+            "datePublished": "2021-12-22T03:12:35.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Great on gingerbread! As others have said, more of a glaze than a frosting. I used about 1/6 milk with 1 cup sugar and the consistency was perfect. I added 1 drop red food coloring for a nice pink color and used them on my Valentine's day cookies. They were a big hit. Will use again. Thanks Alison!",
+            "datePublished": "2006-02-19T17:34:38.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CookieCat"
+            },
+            "reviewBody": "Easy recipe, definitely didn't use the full 1/4 cup of milk. My cookies look adorable and I love the taste to the icing.",
+            "datePublished": "2024-11-27T20:28:45.541Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kkelsey"
+            },
+            "reviewBody": "Ended up using 1 cup of powdered sugar, 2 teaspoons of vanilla, and around 3 tablespoons of milk to make a really great icing! I drizzled it over \"Big Soft Ginger Cookies\" from this site and didn't regret it. (I must say, though, it was a lot more of an icing/glaze than a frosting. The texture of mine was very unlike the picture you posted!) Thanks for posting! (:",
+            "datePublished": "2014-11-11T15:28:38.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Thanks Alison for the recipe! After reading the reviews, I only added 1 tbsp of milk at a time and ended between 3 and 4 tbsps. My kids (5 &amp; 3) enjoyed frosting their gingerbread cookies!",
+            "datePublished": "2005-12-15T15:43:00.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "danleyb"
+            },
+            "reviewBody": "Fast and easy! I was in a pinch and this worked out great. As other posters commented, I used 1 cup of sugar and added milk one tablespoon at a time for a total of 3 added.",
+            "datePublished": "2009-03-03T16:09:53.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cynthia R Bezanson"
+            },
+            "reviewBody": "So easy to use and I made my own powdered sugar.",
+            "datePublished": "2025-12-14T15:54:00.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Candice Hiltz"
+            },
+            "reviewBody": "This was very good. The only problem is that the name of the recipe should be gingerbread glaze. I added about 5 more cups of powdered sugar and made a thicker icing to pipe on decorations. Great recipe. You can't mess it up! I made some gingerbread men with the very runny glaze and some with a stiffer version more like a frosting.",
+            "datePublished": "2005-12-14T11:31:41.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynda Gueits mccrayz"
+            },
+            "reviewBody": "Very easy to make and is always a fun treat at any gathering.",
+            "datePublished": "2025-12-24T23:26:55.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WittyScoop7470"
+            },
+            "reviewBody": "My grandmother showed me how to do this when I was a child. I’d forgotten about it until I saw this when I looked up gingerbread men icing, and I had a huge facepalm moment lol. How could I forgot two (without the dye) ingredients 😂 It’s too sweet to be eaten as regular icing, but it’s great for what it’s intended for - decorating cookies.",
+            "datePublished": "2024-12-28T02:14:44.575Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monica Cormack"
+            },
+            "reviewBody": "A lot of these ppl cannot read in the recipe she says u may need to add more sugar if to runny learn to read peopke",
+            "datePublished": "2023-12-20T05:31:59.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Ellen"
+            },
+            "reviewBody": "Worked really well. We divided and made several colors. (Got ahead of the directions regarding the milk, but that was my fault. I knew better...)",
+            "datePublished": "2020-12-21T04:48:05.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wendy Martin Turley"
+            },
+            "reviewBody": "First time my icing worked! But thanks to all the other commentators as their experiences and debates helped me get it right.",
+            "datePublished": "2018-12-18T16:07:13.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catrice Dennis"
+            },
+            "reviewBody": "This frosting is nice since it drys and you can stack the cookies and they won’t smudge",
+            "datePublished": "2018-12-17T05:05:27.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "??Cookie_Dough??"
+            },
+            "reviewBody": "If you do add the 1/4 cup of milk you",
+            "datePublished": "2018-11-15T05:06:41.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JonJon"
+            },
+            "reviewBody": "The recipe is just fine if you follow the directions.",
+            "datePublished": "2014-12-22T14:40:27.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jlambaa"
+            },
+            "reviewBody": "My cookies originally were bland, so I wanted to frost them. I added crushed ginger, nutmeg, pumpkin spice, and vanilla. I didn't measure out anything, I just kind of eyeballed it. Taste tested it along the way. Made a huge difference. The cookies are irresistible.",
+            "datePublished": "2014-12-21T15:35:51.540Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11102/gingerbread-cookie-frosting/",
+          "name": "Gingerbread Cookie Icing",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/",
+                  "name": "Frostings and Icings"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/842/desserts/frostings-and-icings/cookie-frosting/",
+                  "name": "Cookie Frosting"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Melissa Gray",
+              "url": "https://www.allrecipes.com/author/melissa-gray/"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,447 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/214083/sweet-rice/",
+  "extracted_at": "2026-10-18T02:52:16.703790+00:00",
+  "recipes": [
+    {
+      "name": "Sweet Rice",
+      "ingredients_raw": [
+        "2 cups water",
+        "1 cup uncooked long-grain white rice",
+        "2 tablespoons unsalted butter",
+        "3 cups whole milk, divided",
+        "0.33333334326744 cup white sugar",
+        "1 large egg",
+        "1 tablespoon all-purpose flour",
+        "1.5 teaspoons vanilla extract",
+        "0.66666668653488 cup heavy cream",
+        "0.5 cup raisins",
+        "0.5 teaspoon ground cinnamon"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring water, rice, and butter to a boil in a large saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid is absorbed, 20 to 25 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Whisk together 2 cups milk, sugar, egg, flour, and vanilla in a bowl; pour over cooked rice in the saucepan and stir to combine. Bring to a simmer over low heat and cook, stirring occasionally, for 15 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in remaining 1 cup milk, cream, raisins, and cinnamon until thoroughly mixed. Let cool for a few minutes. Serve warm or cold."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sweet Rice",
+        "datePublished": "2020-06-18T23:42:00-04:00",
+        "dateModified": "2026-03-17T15:16:01-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "crys7422"
+          }
+        ],
+        "description": "Sweet rice, known as arroz con leche, is a lovely custard-like Mexican rice pudding with raisins, lightly flavored with cream, vanilla, and cinnamon.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/hu8xxMCtuGpSgRwW9AsC-zxrfDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4479695-68f66778f85e4e609171e372c489b517.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sweet Rice",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "62"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "418 kcal",
+          "carbohydrateContent": "54 g",
+          "cholesterolContent": "90 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "9 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "76 mg",
+          "sugarContent": "24 g",
+          "fatContent": "19 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "2 cups water",
+          "1 cup uncooked long-grain white rice",
+          "2 tablespoons unsalted butter",
+          "3 cups whole milk, divided",
+          "0.33333334326744 cup white sugar",
+          "1 large egg",
+          "1 tablespoon all-purpose flour",
+          "1.5 teaspoons vanilla extract",
+          "0.66666668653488 cup heavy cream",
+          "0.5 cup raisins",
+          "0.5 teaspoon ground cinnamon"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring water, rice, and butter to a boil in a large saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid is absorbed, 20 to 25 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together 2 cups milk, sugar, egg, flour, and vanilla in a bowl; pour over cooked rice in the saucepan and stir to combine. Bring to a simmer over low heat and cook, stirring occasionally, for 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in remaining 1 cup milk, cream, raisins, and cinnamon until thoroughly mixed. Let cool for a few minutes. Serve warm or cold."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ben's mommy"
+            },
+            "reviewBody": "This is a great recipe!! I made a few minor changes and substituted the 1 cup of whole milk with evaporated milk and used sweetened condensed milk instead of the heavy cream. This is the closest I have come to finding a recipe that tastes like my Grandma's!! Thanks!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristin Hess"
+            },
+            "reviewBody": "I used leftover rice from dinner. I subbed sweetened condensed milk for 1 cup of milk and the sugar. It came out perfect!",
+            "datePublished": "2020-06-04T05:39:44.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AndieCel"
+            },
+            "reviewBody": "I used sweetened condensed milk in stead of using sugar and flour and (2) eggs. Came out delicious, my family loved it!!",
+            "datePublished": "2020-05-05T22:25:45.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alisab"
+            },
+            "reviewBody": "My family loves this recipe. I've tweaked it over all the times I've made it based on the available milks and creams in my fridge. I made it again the past weekend with leftover par boiled rice (I know I know, not the right rice but it still works) and it came out great. I usually add some cardamom and nutmeg because they add amazing flavour. Additionally I simmer it until it's slightly thick and then allow it to cool in a container with plastic wrap right on the surface to avoid the film. I use dried currants that plump up nicely in the pudding.",
+            "datePublished": "2015-12-08T17:29:43.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brinda Lee Brown"
+            },
+            "reviewBody": "This was a great recipe. Like so many others before me, I also used the sweetened condensed milk and omitted the sugar and heavy cream. The second time I made this, I made a little change to the raisins to give it a little more flavor. I boiled a half of a cup of brandy and added the raisins to reconstitute them. Removed them from the brandy then mixed them into the pudding.",
+            "datePublished": "2016-01-23T10:46:59.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Adrianna Pacheco-Alba"
+            },
+            "reviewBody": "I also followed majority of these ingredients. I used La Lechera for one of the cups of whole milk, an made my \"heavy cream\" from scratch.. It was my first time ever making arroz con leche.. An everyone loved it.. So Thank you! \nOh an i saved the left over juice, an now i have horchata too. Hehe",
+            "datePublished": "2017-08-11T13:21:13.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Delicious way to use up rice leftovers! I only used 1 tsp butter, maybe a total of 1 cup whole milk, 1/4 cup sugar. Turned out thick and creamy, just sweet enough. Yum- will make again the next time I have rice sitting in my fridge.",
+            "datePublished": "2015-09-30T20:58:36.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrs.PB cookie"
+            },
+            "reviewBody": "This recipe was very good, I did take some advise from other reviews and used evaporated milk and sweetened condensed milk. I loved this recipe as a child and remember my mother boiling her water with a few sticks of cinnamon before adding the rice and ommiting the 1/2tsp of ground cinnamon. Overall this is a great Arroz con Leche. Thanks for sharing",
+            "datePublished": "2012-03-06T21:20:02.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April Lucas"
+            },
+            "reviewBody": "Sweet Rice and Raisins. I added additional real vanilla extract and additional raisins (my husband likes it this way). Doing this gave pudding a bit darker color. I also add the raisins earlier into the simmering rice to plump raisins up a bit (if you do this add a bit more water when boiling rice to account for raisins to swell). Like this reciepe a great deal, easy to make. Use whole milk and cream to make it very rich and pudding like.",
+            "datePublished": "2017-01-01T23:24:01.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina Risinger"
+            },
+            "reviewBody": "I have made this recipe a couple of times now. Like others when I followed it exactly it was a little too runny and not sweet enough. Each time I \"doctored\" it up a bit and I've finally got it the way my gramma used to make it. I had a happy accident and added two eggs instead of one. Two make my two cups of Milk I added a whole can of sweetened condensed and topped it off with 2%. I left that third cup of milk out completely. No added sugar. Thosone were my only changes. It came out thicker and richer.",
+            "datePublished": "2014-01-26T12:26:38.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joan Gonzalez"
+            },
+            "reviewBody": "This recipe is great! I did make 1 change and by doing so, my pudding was thick and delicious. Instead of using long-grain white rice, I used Sweet rice (often used to make sticky rice). Looks like long-grain white rice and when cooked tastes like it too...just in a thicker consistency. Perfect for this recipe if you want a thicker overall consistency.",
+            "datePublished": "2020-10-08T18:27:37.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Markos"
+            },
+            "reviewBody": "A good sweet rice",
+            "datePublished": "2026-08-28T13:17:29.221Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PeppyJam9059"
+            },
+            "reviewBody": "I absolutely love this recipe!! I tried making another version with condensed milk and it just wasn't nearly as tasty to me! So glad I found this recipe again, I was looking for a couple months for it.",
+            "datePublished": "2023-09-15T14:07:17.274Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kennynumber17"
+            },
+            "reviewBody": "Great recipe. I didn't add sugar. Substituted with sweet condensed milk",
+            "datePublished": "2023-04-27T03:36:06.192Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SturdyZiti6202"
+            },
+            "reviewBody": "It turned out pretty well and made quite a large amount. I did not have any heavy cream on hand at the time and I added some condensed milk to the recipe, but it still turned out nicely. I also simmered a bit longer to thicken the consistency.",
+            "datePublished": "2023-02-13T07:17:48.916Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkyPork2560"
+            },
+            "reviewBody": "I did not use flour or heavy cream or raisins and I used park water and part milk in the cooking process in the beginning.",
+            "datePublished": "2022-08-05T17:48:30.444Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "c2b25c2r2r"
+            },
+            "reviewBody": "Great",
+            "datePublished": "2022-01-16T23:57:36.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ixcortes"
+            },
+            "reviewBody": "This recipe is the closest thing to my grandmas arroz con leche that’s I’ve found! The only thing I changed is I added a cinnamon stick in as well! That made it taste just like my grandmas! Just a side note to everyone talking about the consistency, this is a Spanish version of rice pudding, it is not meant to be thick. It’s meant to be soupy. The consistency is exactly what it’s supposed to be!",
+            "datePublished": "2019-11-21T14:33:36.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bernadette Gutierrez"
+            },
+            "reviewBody": "Not sure yet just signed up",
+            "datePublished": "2018-12-15T06:13:26.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda Louise Ford"
+            },
+            "reviewBody": "Again , a fine recipe. So comforting and not too sweet.",
+            "datePublished": "2018-10-17T19:11:44.060Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/214083/sweet-rice/",
+          "name": "Sweet Rice",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

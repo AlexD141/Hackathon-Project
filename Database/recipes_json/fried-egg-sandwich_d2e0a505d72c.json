@@ -1,0 +1,455 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21004/fried-egg-sandwich/",
+  "extracted_at": "2026-10-18T02:47:35.866825+00:00",
+  "recipes": [
+    {
+      "name": "Fried Egg Sandwich",
+      "ingredients_raw": [
+        "2 teaspoons butter",
+        "4 large eggs",
+        "4 slices processed American cheese",
+        "8 slices toasted white bread",
+        "salt and pepper to taste",
+        "2 tablespoons mayonnaise",
+        "2 tablespoons ketchup"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Melt butter over medium-high heat in a large skillet. Crack eggs into the pan and cook to desired firmness."
+        },
+        {
+          "id": 3,
+          "text": "Just before eggs are cooked, place a slice of cheese over each egg; continue to cook until cheese has melted."
+        },
+        {
+          "id": 4,
+          "text": "Transfer each egg to a toasted slice of bread. Season eggs with salt and pepper."
+        },
+        {
+          "id": 5,
+          "text": "Spread mayonnaise and ketchup on remaining slices of bread and cover eggs with bread to make 4 sandwiches. Serve warm."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Fried Egg Sandwich",
+        "datePublished": "2000-08-29T17:34:01-04:00",
+        "dateModified": "2026-01-26T06:52:51-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Erica"
+          }
+        ],
+        "description": "Try this fried egg sandwich recipe and you&#39;ll never be tempted to buy a fast food breakfast again. They&#39;re quick, easy to make, and very tasty!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/36UE0mf1JatDIZXy2UxbIAfRAss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/434326-003e4d0bf1054c83881bd2125ea5abea.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fried Egg Sandwich",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "258"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "386 kcal",
+          "carbohydrateContent": "28 g",
+          "cholesterolContent": "221 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "17 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "970 mg",
+          "sugarContent": "5 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 teaspoons butter",
+          "4 large eggs",
+          "4 slices processed American cheese",
+          "8 slices toasted white bread",
+          "salt and pepper to taste",
+          "2 tablespoons mayonnaise",
+          "2 tablespoons ketchup"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Melt butter over medium-high heat in a large skillet. Crack eggs into the pan and cook to desired firmness."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Just before eggs are cooked, place a slice of cheese over each egg; continue to cook until cheese has melted."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer each egg to a toasted slice of bread. Season eggs with salt and pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread mayonnaise and ketchup on remaining slices of bread and cover eggs with bread to make 4 sandwiches. Serve warm."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CHEESYBUNNY"
+            },
+            "reviewBody": "I changed this up a little.\r\n\r\nMy ingredients are as follows:\r\nFried egg\r\nToasted rye bread\r\nExtra sharp white cheddar cheese\r\nBacon (tasty addition)\r\nMayo (no ketchup)\r\n\r\nI would have liked to add tomato and onion if I had it.\r\n\r\nTraditional is good too though the way I made them before was just with egg and mayo."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Ames"
+            },
+            "reviewBody": "I added onions, garlic and chopped fresh rosemary to the butter and cooked them together before adding the eggs. I also cooked the eggs with herbed salt and pepper. It was fantastic and easy as promised! Served as an open face sandwich on toast, with parsley and blood oranges.",
+            "datePublished": "2020-04-02T13:38:36.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mandy Rodriguez"
+            },
+            "reviewBody": "This is one of my favorite breakfasts to eat. It was quick to make and so delicious. I'm not big on ketchup so I didn't use it. Instead I used a slice of sharp cheddar cheese (or pepper jack cheese) and I placed the eggs over the cheese so that it can melt faster. If you love spiciness then you can add some hot sauce, jalapeños diced up or even sprinkle some cayenne pepper over the eggs. If your not into that, bacon will never fail you. Enjoy!",
+            "datePublished": "2017-08-24T15:40:41.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joyce Feltz"
+            },
+            "reviewBody": "A fried egg sandwich is the easiest comfort breakfast to be found anywhere. They are best done at home, because they cost almost nothing, and you can make them exactly how you want. I like to break the yolk and flip so I get yolk throughout. No one can cook me a fried egg sandwich as well as I can. Mayonnaise is a a must for me! To other, this may seem odd,,,but, who cares about their opinions?",
+            "datePublished": "2024-03-19T22:06:28.046Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "StuKin"
+            },
+            "reviewBody": "Good combination, but not the least bit imaginative. I don't understand why so many people don't like the mayo/ketchup combination... it's called Russian dressing, and it's been around since I was a little kid (90 years ago.) This works great served on one of my home-made pitas that I make every week on the outside gas grill. The essential addition is the habanero pepper sauce I make every year.",
+            "datePublished": "2017-08-25T15:17:55.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TidyScone9314"
+            },
+            "reviewBody": "How is a fried egg sandwich not fried? A proper fried egg sandwich has a broken yolk, fried on both sides &amp; is not runny. It cooks faster too.",
+            "datePublished": "2024-01-31T03:32:52.791Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TastySalt6856"
+            },
+            "reviewBody": "I really enjoyed this! I don't like my fried eggs runny at all, so I make mine over hard which some people may not like. I was worried about the ketchup, but actually liked it. I would make this again.",
+            "datePublished": "2024-08-04T22:44:57.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dicombobulated"
+            },
+            "reviewBody": "Everyone saying they don’t like ketchup. Try mayo on one side mustard on the other. Might seem odd but trust me when I say it brings these sandwiches to another level. All the flavors blend together perfectly. I’d also omit the cheese, but that’s just me.",
+            "datePublished": "2024-06-04T14:13:14.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Holz"
+            },
+            "reviewBody": "I'm writing this review for some extra things people could possibly add to the sandwich. I used butter on my toast and sprinkled garlic salt onto the toast and then I used some crushed red pepper on egg. I thought it tasted a lot better that way, but it's always personal preference.",
+            "datePublished": "2015-12-21T23:05:19.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James DeSantis"
+            },
+            "reviewBody": "It's very good! I used provolone cheese and sourdough bread because that's what I had, and I added bacon. I decided (like others) that I don't like the catsup on it - but I'll be making it again without catsup in the future.",
+            "datePublished": "2023-09-01T13:47:17.942Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "StrongTray5778"
+            },
+            "reviewBody": "Always my go-to comfort food. I sometimes dress it with Mayo and bacon. Other times, I prefer mustard, ketchup and jar cheese spread or mustard and cheese spread only. Don’t knock it until you’ve tried it!",
+            "datePublished": "2022-10-27T13:17:24.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marilyn Rundle"
+            },
+            "reviewBody": "Easy to follow. Keeper. Fast",
+            "datePublished": "2026-03-07T20:40:26.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "megg"
+            },
+            "reviewBody": "mayo ketchup was ok",
+            "datePublished": "2025-12-30T02:09:28.098Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CyanDate5669"
+            },
+            "reviewBody": "i made this for one without cheese and it was great! I am an adult who hasnt cooked eggs in years. Reminds me of my childhood",
+            "datePublished": "2025-03-29T00:19:25.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lura"
+            },
+            "reviewBody": "Runny with miracle whip toasted and 😋 yum",
+            "datePublished": "2024-09-24T04:18:12.791Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John H"
+            },
+            "reviewBody": "I haven't had a fried egg sandwich since I was a kid. These were really good and easy to make.",
+            "datePublished": "2024-04-17T10:40:06.171Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arador24"
+            },
+            "reviewBody": "First sandwich I ever cooked myself 30 years ago and still cook it routinely. I like to use Kraft singles preferably and I only use ketchup or sometimes hot sauce if I do a scrambled egg sammy",
+            "datePublished": "2024-02-10T06:36:51.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen Sines"
+            },
+            "reviewBody": "Well I like this recipe! When I used to make these I would make the eggs a little gooey in the center and I'd add bacon and sometimes tomato and lettuce. Making it the full meal deal! Yummy!",
+            "datePublished": "2023-07-29T15:32:01.888Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MintThyme7423"
+            },
+            "reviewBody": "Basically I do it that way!!! Only I use Kraft Slices!!!",
+            "datePublished": "2023-02-12T21:56:36.128Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EdgyCream4432"
+            },
+            "reviewBody": "love the sweetness the ketchup and mayo brought to the sandwich. Excellent fast sandwich to make",
+            "datePublished": "2023-01-23T20:08:36.892Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21004/fried-egg-sandwich/",
+          "name": "Fried Egg Sandwich",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+                  "name": "Eggs"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17199/breakfast-and-brunch/eggs/breakfast-sandwiches/",
+                  "name": "Breakfast Sandwich Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

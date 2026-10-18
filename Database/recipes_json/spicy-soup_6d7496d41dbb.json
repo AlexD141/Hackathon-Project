@@ -1,0 +1,444 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13048/spicy-soup/",
+  "extracted_at": "2026-10-18T01:51:53.617801+00:00",
+  "recipes": [
+    {
+      "name": "Spicy Soup",
+      "ingredients_raw": [
+        "1 teaspoon unsalted butter",
+        "0.25 cup chopped celery",
+        "2 cloves garlic, chopped",
+        "1 tablespoon all-purpose flour",
+        "3.5 cups chicken broth",
+        "1.5 cups chopped broccoli",
+        "1.5 cups cauliflower, chopped",
+        "2 tablespoons peanut butter",
+        "0.25 teaspoon salt",
+        "0.25 teaspoon crushed red pepper flakes",
+        "2 green onions, chopped",
+        "0.25 cup heavy cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Melt butter in a saucepan over medium heat; cook and stir celery and garlic until garlic is fragrant, about 5 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Stir in flour to make a roux; cook for 1 minute."
+        },
+        {
+          "id": 3,
+          "text": "Stir in chicken broth, broccoli, cauliflower, peanut butter, salt, and red pepper flakes. Simmer for 15-20 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Mix in green onions and heavy cream just before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spicy Soup",
+        "datePublished": "1999-02-10T17:49:24-05:00",
+        "dateModified": "2018-06-08T09:06:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Behr"
+          }
+        ],
+        "description": "This is a creamy peanut butter soup with celery, broccoli and cauliflower cooked in chicken broth spiced with red pepper flakes and fresh garlic.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/9rWmLNzO6jhRX6VUtj2og_PRNsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6769430-187c68ad5011484d87f8e1988da01ee8.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spicy Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "28"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "142 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "23 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "218 mg",
+          "sugarContent": "3 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "1 teaspoon unsalted butter",
+          "0.25 cup chopped celery",
+          "2 cloves garlic, chopped",
+          "1 tablespoon all-purpose flour",
+          "3.5 cups chicken broth",
+          "1.5 cups chopped broccoli",
+          "1.5 cups cauliflower, chopped",
+          "2 tablespoons peanut butter",
+          "0.25 teaspoon salt",
+          "0.25 teaspoon crushed red pepper flakes",
+          "2 green onions, chopped",
+          "0.25 cup heavy cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Melt butter in a saucepan over medium heat; cook and stir celery and garlic until garlic is fragrant, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in flour to make a roux; cook for 1 minute."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in chicken broth, broccoli, cauliflower, peanut butter, salt, and red pepper flakes. Simmer for 15-20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix in green onions and heavy cream just before serving."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "volleyjoy1"
+            },
+            "reviewBody": "I didn't bother with the cream and I added 2 small chopped sweet potatoes and some spicy peanut dressing, and dropped the cauliflower. The added sweet potatoes recieved compliments. Be careful not to cook the broccoli too long, as it will get mushy (still good though)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cas"
+            },
+            "reviewBody": "I didn't have quite enough nut butter so I'm looking forward to making it again with the right amount! I didn't use the flour because after the soup was finished I whizzed it all up with a hand blender, which made it very creamy and thick.\nThis is a lovely soup and is going in my rotation. Thank you for the recipe!\nAlso, I would like to say that I don't understand the mind set of someone who changes a recipe a lot and then gives it 3 stars. Seems petty to me. Why not make it as is first? At least then your rating would be an honest one.",
+            "datePublished": "2016-12-01T18:22:34.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jesica Pedroza"
+            },
+            "reviewBody": "Decent recipe but is quite liquidy. I added more broccoli &amp; cauliflower to thicken it up, along with quinoa. Also substituted the crushed peppers for a jalapeño to get some extra green in the soup without disturbing the heat.",
+            "datePublished": "2018-03-05T01:03:53.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carmicjam"
+            },
+            "reviewBody": "This was unexpectedly tasty. I followed the recipe mostly as is. I only used one teaspoon of salted butter as I did not have unsalted. I eliminated salt and the flour. After it cooled down I place it in the blender and it turned out quite nice.",
+            "datePublished": "2019-01-28T05:19:42.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NaplesGuy"
+            },
+            "reviewBody": "I loved this soup. It was simple to make and it had great layers of flavor. I substituted equal parts cayenne pepper for the red pepper flakes (red peppers flakes tend to be too overbearing for me), and ended up with great flavor, but not the same level of heat as with red pepper flakes. I also added a bit extra peanut butter and butter than the recipe called for...it's a winner!",
+            "datePublished": "2019-06-24T21:43:55.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sherry"
+            },
+            "reviewBody": "I'm doing a Candida cleanse and this recipe is so far my fav of the 26 I pulled from my recipe box. The only switches I made are almond butter, veg stock and coconut milk for the cream. Amazing flavor. Going to make a double recipe soon and add more red pepper flakes and perhaps a bit of curry?",
+            "datePublished": "2013-06-29T19:47:23.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "annak"
+            },
+            "reviewBody": "This soup doesn't sound like it would taste very good but because of the reviews, I tried. I've made this several times now and followed the recipe to the T (ok, except for the butter which I suspect the tsp is a typo) as well as made it with ingredients I have on hand. I think my favorite way was when I only used the broccoli and added carrots . This soup is delicious. My husband is not a fan of soups and this one he had a bowl of of and liked!!",
+            "datePublished": "2017-04-12T20:42:10.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Behrfoot Cook"
+            },
+            "reviewBody": "This was surprisingly good. It was tasty, spicy, and lo-cal, a triple win. I used 1 tbl of butter instead of tsp, I think that may be a typo. Also, I skipped the cream and green onion. I may try blending the soup next time to increase the \"creamy\" factor.",
+            "datePublished": "2015-03-14T15:57:33.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "foodnut"
+            },
+            "reviewBody": "I made this the other day and it blew me away it was very simple but had incredible flavor. The only thing I would do is add 1/2 lb of bacon or small ham cubes to get a little more hardy and satisfying soup. this is going in my favorites immediately. :]",
+            "datePublished": "2015-06-25T12:40:10.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LLANKOWSKI"
+            },
+            "reviewBody": "What a great soup. I wouldn't have thought of broccoli and peanut butter together, but this really works. The pepper flakes add just the right amount of flavor. I needed a tablespoon of butter rather than a teaspoon.",
+            "datePublished": "2004-02-06T05:52:58.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FMcLellen"
+            },
+            "reviewBody": "Make it often, very easy. However I like mine a bit chunky, so I skip the roux, and don't blend it. This is often my starting soup I had added, other veggies, potatoes, green bean, carrots, edamame etc. The broccoli and cauliflower make it creamy, and I love the spicy pepper kick, It's a keeper !",
+            "datePublished": "2022-04-22T16:28:16.489Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheila"
+            },
+            "reviewBody": "I think this would be a great soup MINUS the peanut butter. The flavor of the peanut butter cut through everything.",
+            "datePublished": "2020-03-29T18:15:00.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanna"
+            },
+            "reviewBody": "Excellent low carb soup!",
+            "datePublished": "2018-10-21T16:01:26.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberly"
+            },
+            "reviewBody": "This soup is easy to make and beautiful to eat! Great with chopped up chicken in it too. My three year old loves it too :)",
+            "datePublished": "2017-12-13T18:32:15.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JaxStyle"
+            },
+            "reviewBody": "This soup has a very smooth, unique, and delicious flavour! My husband and I loved it!",
+            "datePublished": "2016-03-22T16:24:16.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shippy"
+            },
+            "reviewBody": "So, after everyone stopped complaining about having a dish with Cauliflower, everyone liked it. However, this recipe only yields four soup bowls about 3/4 full. But was a good dish. We'll do again.",
+            "datePublished": "2014-02-11T17:54:44.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "redheadedwonder11"
+            },
+            "reviewBody": "Tasty soup. I changed things up a bit namely making way more than the original recipe (guessing on ingredient amounts) and omitting the cream. I will definitely be making this one again!",
+            "datePublished": "2012-06-03T12:02:30.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah-May"
+            },
+            "reviewBody": "As a lover of strong flavors I found this to be far too bland. It had a nice texture but needs some work.",
+            "datePublished": "2011-02-11T08:27:23.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "laundrymama"
+            },
+            "reviewBody": "Fantastic. Who knew these ingredients will combine so well. I left out the cream as I am vegan and didn't miss it. I will make it again and again.",
+            "datePublished": "2008-12-21T18:37:38.770Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13048/spicy-soup/",
+          "name": "Spicy Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

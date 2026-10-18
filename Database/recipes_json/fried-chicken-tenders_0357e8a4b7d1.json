@@ -1,0 +1,509 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16669/fried-chicken-tenders/",
+  "extracted_at": "2026-10-18T02:22:26.892259+00:00",
+  "recipes": [
+    {
+      "name": "Fried Chicken Tenders",
+      "ingredients_raw": [
+        "1 cup all-purpose flour",
+        "2 large eggs, beaten",
+        "2 tablespoons water",
+        "2 cups Italian-style seasoned bread crumbs",
+        "0.5 teaspoon ground black pepper",
+        "0.5 teaspoon cayenne pepper",
+        "24 chicken tenderloins",
+        "2 quarts oil for frying",
+        "1 cup mayonnaise",
+        "0.5 cup sour cream",
+        "3 tablespoons prepared horseradish",
+        "3 tablespoons prepared mustard",
+        "1 dash Worcestershire sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Prepare the breading station: Place flour in a shallow bowl. Place eggs and water in a second shallow bowl and mix well to combine. Place bread crumbs in a third shallow bowl, and mix in ground black pepper and cayenne pepper."
+        },
+        {
+          "id": 2,
+          "text": "Coat chicken in flour, then eggs, and then bread crumbs, one piece at a time, and set aside, shaking off excess flour and eggs after each coating."
+        },
+        {
+          "id": 3,
+          "text": "Heat oil in a deep fryer to 375 degrees F (190 degrees C)."
+        },
+        {
+          "id": 4,
+          "text": "Fry chicken in small batches until the pieces are golden brown, 6 to 8 minutes. Remove chicken to drain on paper towels or a wire rack."
+        },
+        {
+          "id": 5,
+          "text": "Make the dipping sauce: Combine mayonnaise, sour cream, horseradish, mustard, and Worcestershire sauce in a small bowl. Mix well, and serve immediately with chicken, or keep sauce refrigerated until ready to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Fried Chicken Tenders",
+        "datePublished": "1999-05-30T21:59:09-04:00",
+        "dateModified": "2026-10-05T22:03:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Linda"
+          }
+        ],
+        "description": "Enjoy this fried chicken tenders recipe that makes crispy, delicious chicken pieces and features an easy, spicy horseradish sauce for dipping.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/YwJvX75IUx8uQ7PKz2eTDjCoLvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-DDMFS-4x3-219f03b885be40139c8d93bef21d0a50.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/taOIXhMX-ma1DlVvV.mp4",
+          "description": "See how to make tender breaded chicken fingers with dipping sauce.",
+          "duration": "PT2M33S",
+          "name": "Fried Chicken Tenders",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/taOIXhMX/poster.jpg?width=1280",
+          "uploadDate": "2021-07-02T00:11:19-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fried Chicken Tenders",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "303"
+        },
+        "cookTime": "PT30M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "821 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "164 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "45 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "783 mg",
+          "sugarContent": "2 g",
+          "fatContent": "55 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup all-purpose flour",
+          "2 large eggs, beaten",
+          "2 tablespoons water",
+          "2 cups Italian-style seasoned bread crumbs",
+          "0.5 teaspoon ground black pepper",
+          "0.5 teaspoon cayenne pepper",
+          "24 chicken tenderloins",
+          "2 quarts oil for frying",
+          "1 cup mayonnaise",
+          "0.5 cup sour cream",
+          "3 tablespoons prepared horseradish",
+          "3 tablespoons prepared mustard",
+          "1 dash Worcestershire sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Prepare the breading station: Place flour in a shallow bowl. Place eggs and water in a second shallow bowl and mix well to combine. Place bread crumbs in a third shallow bowl, and mix in ground black pepper and cayenne pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gZQAdyLFebtIGJyZZwj-wdKm858=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-ddmfs-step-1-099fe67a0c9b4fe3bb4a7fccceb3bab1.jpg"
+              }
+            ],
+            "text": "Coat chicken in flour, then eggs, and then bread crumbs, one piece at a time, and set aside, shaking off excess flour and eggs after each coating."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/jEZhCSwxRBKThT71_m93iw4SNoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-ddmfs-step-2-45f379d79c17462d872a8a76ab452b5b.jpg"
+              }
+            ],
+            "text": "Heat oil in a deep fryer to 375 degrees F (190 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/qkuz-LlpPy6uBvzhzglNynGKdS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-ddmfs-step-3-514cb7e469c145239c09094b3a95ac38.jpg"
+              }
+            ],
+            "text": "Fry chicken in small batches until the pieces are golden brown, 6 to 8 minutes. Remove chicken to drain on paper towels or a wire rack."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YwJvX75IUx8uQ7PKz2eTDjCoLvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-DDMFS-4x3-219f03b885be40139c8d93bef21d0a50.jpg"
+              }
+            ],
+            "text": "Make the dipping sauce: Combine mayonnaise, sour cream, horseradish, mustard, and Worcestershire sauce in a small bowl. Mix well, and serve immediately with chicken, or keep sauce refrigerated until ready to serve."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I have made this several times and it is very good. I use a deep fryer and it doesn't come out greasy. The dipping sauce is very tasty and I usually spice it up with more Worcestershire sauce before serving.Just follow the directions and you'll do fine."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sheila"
+            },
+            "reviewBody": "I have always loved fried chicken tenders and this is the perfect recipe!!! - some quick help tips are, you dont have to use tenders, you can use chicken breasts, boneless or debone at home (deboning your own saves $$ and thats all tenders are, the \"filet\" cut of the breast thats been deboned and they charge an arm and a leg for) then cut into strips. put flour in a zip lock shake a few pieces at a time, lay them out and when done then dip in egg and -- italian bread crumbs are great, but if you're out: try crushed corn flakes, ritz crakers, saltines and my favorite, croutons and put those in a zip lock as well shaking just a piece or two at a time to cover. lastly, for those of us who dont trust deep fryers, you can use a skillet - but to make a bit less greasy and this will work for your deep fryers too- put tray of breaded tenders in the refrigerator for 1/2 an hour or so, get them a bit cold. I also use a mesh splatter cover on my skillet - by the way.... this way makes great regular ol' Fried chicken too!",
+            "datePublished": "2013-01-30T08:57:19.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dula"
+            },
+            "reviewBody": "I made these last night. After reading the reviews, I added a little bit more spices - cayenne, white pepper, garlic, and onion powder to the bread crumbs. The tenders were delicious! They were so moist inside and crunchy on the outside! The dipping sauce (I added a few dashes more of Worchestershire) was easy to make! Be sure to follow the directions and you won't be sorry! NOTE: I fried these at 350 instead of 375 degrees because the first two burned.",
+            "datePublished": "2023-04-24T15:58:30.886Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jaxs O Haynes"
+            },
+            "reviewBody": "This was delicious! Made this today with modifications. Took the advice of others and I seasoned the chicken itself using Lawry’s Seasoning Salt, Garlic Powder, Black Pepper and Red Pepper Flakes. I smothered chicken breasts in mayo, then refrigerated and allowed it to marinate for a few hours. I then floured, dipped in eggs (used heavy whipping cream instead of water), then the bread crumbs and pan fried in the stove. VERY juicy and tender on the inside and crispy on the outside. Would definitely make this again. I loved it!!!",
+            "datePublished": "2020-02-07T21:10:20.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "The only change I made to the recipe is frying in a large, deep, cast-iron skillet with coconut oil, ghee, and vegetable oil.",
+            "datePublished": "2019-05-23T16:22:34.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RosyMeat9871"
+            },
+            "reviewBody": "The only change I made to the recipe is frying in a large, deep, cast-iron skillet with coconut oil, ghee, and vegetable oil.",
+            "datePublished": "2019-05-23T16:22:34.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HardyLeek4893"
+            },
+            "reviewBody": "I wanted people to know...I cooked these in my air-fryer. I cooked it in air fry for about 6 minutes. I did use a thermometer checking for 165. I was able to get 6 pieces in there but that depends on the fryer size. Turned out nice and crunchy. I did add panco crumbs in with the other one. Dipping sauce can adds the flavor but I went by the directions. Next time I'll try some more spices. especially salt.",
+            "datePublished": "2023-06-11T08:02:16.164Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SEllenwood"
+            },
+            "reviewBody": "I used gluten-free flour and gluten-free bread crumbs. Didn't put enough spice in it. Needs at least 3 if not 4 eggs, not the 2 listed.\n.\nCut breasts into fingers.\nDrop chicken into flour. Coat well.\nDrop into eggs. Coat all sides.\nPlace on breadcrumbs, then pour additional breadcrumbs over the top to coat.",
+            "datePublished": "2019-06-23T19:13:37.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sahara"
+            },
+            "reviewBody": "This recipe is my mainstay for \"Fun Food Night\" and picnic time. Not very caloric and the horseradish dip was the best. One change. I used lowfat yoghurt for instead of mayo for the dip, eliminated the sour creme and used lemon juice instead. Next time, I'll include a bit of the sour creme. I also didn't deep fry–didn't need to, the shallow skillet was fine.",
+            "datePublished": "2017-07-05T17:39:02.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "December Designs"
+            },
+            "reviewBody": "Really good, crispy outside and tender inside. I did however first marinate the tenderloins in salted water to which I added hot sauce and red pepper flakes. That sat for about 4 hours, then I let them dry on paper towels. This adds flavor to the chicken itself. Dish cooks up fast and stays nicely in a warm oven. Rave reviews from my picky eaters!!",
+            "datePublished": "2016-07-07T00:43:22.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubiTootie"
+            },
+            "reviewBody": "Y’all—make this! We just bought a deep fryer and were wanting to keep things simple. I modified the recipe a bit. I added 1/2 tbsp of Celtic salt to the crumbs (must do) and I exchanged the cayenne pepper for paprika and chili powder (what I had in my pantry) and I doubled the spice amount. I may even triple the spice amount to give it the extra something, something. And lastly, I also added white pepper to the recipe, I placed it in the white flour. Next time I’ll add pickle juice instead of water to the eggs. Use what is in your pantry that is similar—cause this was overall amazing!!",
+            "datePublished": "2024-11-24T15:51:13.626Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DLD"
+            },
+            "reviewBody": "God recipe. High heat olive oil was used.",
+            "datePublished": "2026-06-29T23:29:38.264Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "StrongGrill6397"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-19T20:51:38.675Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeff Goodson"
+            },
+            "reviewBody": "I made this the other night after purchasing a deep-fat fryer. It turned out really good! I've added this to me recipe list as one of my favorites. Thank You!!!",
+            "datePublished": "2024-11-16T18:59:50.218Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SnazzyJam6137"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-10-07T23:36:59.304Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SassyWhey2840"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-09-18T18:23:03.936Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SaucyPlate5620"
+            },
+            "reviewBody": "My 3 year old actually ate these lol thank you",
+            "datePublished": "2024-08-29T01:22:20.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "krsbwell"
+            },
+            "reviewBody": "I added a couple of ingredients to add a little fire and it came out great, spicy crispy chicken tenders. I we’ll definitely try again.",
+            "datePublished": "2024-08-19T16:33:20.175Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marsha"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-07-31T21:02:22.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "YellowSauce1141"
+            },
+            "reviewBody": "More flavor some seasoning salt and possibly marinate in buttermilk.",
+            "datePublished": "2024-07-28T06:27:43.632Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16669/fried-chicken-tenders/",
+          "name": "Fried Chicken Tenders",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/650/meat-and-poultry/chicken/fried-chicken/",
+                  "name": "Fried Chicken Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,472 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/150637/better-baked-beans/",
+  "extracted_at": "2026-10-18T02:03:56.157381+00:00",
+  "recipes": [
+    {
+      "name": "Better Baked Beans",
+      "ingredients_raw": [
+        "2 (28 ounce) cans baked beans",
+        "1 small onion, chopped",
+        "3 tablespoons pancake syrup",
+        "2 tablespoons brown sugar",
+        "2 tablespoons ketchup",
+        "2 teaspoons prepared yellow mustard",
+        "4 slices bacon"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Stir baked beans, onion, maple syrup, brown sugar, ketchup, and mustard together in a large bowl until evenly combined."
+        },
+        {
+          "id": 3,
+          "text": "Pour into a 9x13-inch baking dish. Lay bacon slices across the top."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until bacon is browned and beans have thickened, 35 to 40 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Better Baked Beans",
+        "datePublished": "2020-03-05T00:05:18-05:00",
+        "dateModified": "2026-10-01T12:50:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Diane Carman-Young"
+          }
+        ],
+        "description": "This baked beans recipe uses canned baked beans to make an easy, tangy, sweet, semi-homemade favorite old-fashioned side dish for any meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/WithjFFLn02aPG0qxLnBlZYtC5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150637-Better-Baked-Beans-hero-4x3-da1a82779cbd46b2acb1bee0192ee6e3.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Better Baked Beans",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "85"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "192 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "6 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "7 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "558 mg",
+          "sugarContent": "16 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 (28 ounce) cans baked beans",
+          "1 small onion, chopped",
+          "3 tablespoons pancake syrup",
+          "2 tablespoons brown sugar",
+          "2 tablespoons ketchup",
+          "2 teaspoons prepared yellow mustard",
+          "4 slices bacon"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ORlBKpwPF3ewGLLEClUOiZTiWTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150637-Better-Baked-Beans-step-1-9ece9b7b564f4ab3816ade16c704be2d.jpg"
+              }
+            ],
+            "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/uspd9M5mDj1dqujcobwDZOTEMKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150637-Better-Baked-Beans-step-3-bdc611fbad59480bb3492f1ef70d37dd.jpg"
+              }
+            ],
+            "text": "Stir baked beans, onion, maple syrup, brown sugar, ketchup, and mustard together in a large bowl until evenly combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6D9d8vW6VbalPYYxBaLNSZlIszo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150637-Better-Baked-Beans-step-5-e5c0aa9f8a9342ff8419221fb4503eef.jpg"
+              }
+            ],
+            "text": "Pour into a 9x13-inch baking dish. Lay bacon slices across the top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/EuQO2muh-qBUS42PTVLUYl_dRRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150637-Better-Baked-Beans-step-6-7d22ec565d8a4d2db534c774d99d0e7d.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until bacon is browned and beans have thickened, 35 to 40 minutes."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Very simple and easy to prepare! I used Bush's Baked Beans as my base and swapped out the pancake syrup for some molasses. This is a great \"semi-homemade\" recipe and a great way to perk up a regular 'ol can of baked beans in essence making them \"Better Baked Beans\"!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "slo_cook"
+            },
+            "reviewBody": "When I find a good recipe, many times I keep it and use it as a base and go from there. I'm almost 73 and for close to 50 years I've been making baked beans very similar to this recipe, and they do disappear quickly at any table. Instead of HFCS laden pancake syrup I use pure maple syrup, add 1 tsp of Wrights brand Liquid Hickory Smoke, 1 small can of very well drained pineapple tidbits. I cut the bacon strips into 8 pieces and par fry it just enough to remove some but not all of the fat, but nowhere near done, then evenly distribute the bacon pieces carefully on the top of the beans so as not to submerge them so they kind of crisp up while cooking. They are an expected mandatory request at get togethers.",
+            "datePublished": "2024-03-28T15:41:52.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "These were delicious. My first thought was \"that's a lot of onion\". I cut the onion amount in half, and even then, it looked like too much, but after baking the onions simply disappeared. They must have disintegrated into the dish. I used Bush's baked beans which are already seasoned with ham and brown sugar, so I kept it light handed with the brown sugar. I baked this a little over an hour, as that bacon was nowhere done by the 35 minute mark. I wanted a nice carmelized top and browned bacon, so I let it keep going. I'd make this again. It was sweet, smoky from the bacon, and some of the beans got a candied/caramelized texture. This was everything I expected it to be.",
+            "datePublished": "2026-04-17T22:30:08.279Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GreenOats6500"
+            },
+            "reviewBody": "The Best Ever. I did up 4 28 oz cans of baked beans. I exchanged the Ketchup with 4 tbsp of a spicy rib sauce, I did take some of the drained bean juice and thickened with cornstarch and put some in to the bean mixture. I took the bacon grease that I had caramelized the onions in after and mixed it with the rest of the thickened sauce and put it in a container to freeze for a future recipe. This had so much flavor and great taste. Thank You for sharing, it was a big hit at my son's pig roast, should have made an extra batch. Terri Burns",
+            "datePublished": "2024-07-06T15:07:08.209Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pamela"
+            },
+            "reviewBody": "Delicious! I used a shortcut by heating everything to a simmer (stirring the whole time so they don’t stick to the bottom) and then put them in a casserole dish and put ready cooked bacon on top. I cooked for about 10 minutes and then broiled for about 2-3 minutes to get the bacon and top a more “time in the oven” look. They were a hit and I will definitely make them again. Thanks for a great and easy recipe. I used Bush’s original beans.",
+            "datePublished": "2025-09-01T18:15:15.564Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lia Seeber"
+            },
+            "reviewBody": "I needed to make vegetarian baked beans so I used Bush's vegetarian baked beans and followed this recipe, omitting the bacon and adding a dash of liquid smoke, smoked paprika, and a clove of garlic. I also drained the sauce from the cans so it wouldn't be too soupy. They came out great!",
+            "datePublished": "2019-05-26T13:56:54.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Belinda"
+            },
+            "reviewBody": "You cant get this out of a can but you can use a can to help you elevate your baked beans to a whole new level in minutes! So worth the 10 min prep! And kids will super love it especially when they see the bacon on top. Extra tip: melt brown sugar into butter and a teaspoon of maple syrup and paste the bacon for the last 10 min. The crunch is AWESOME!",
+            "datePublished": "2025-12-25T17:54:07.909Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dougcollinssr"
+            },
+            "reviewBody": "I used 1/2 REAL maple syrup with molasses. I put half the bacon on the bottom with the other half cooked and crumbled to mix in with the beans. My choice of beans was Bush's vegetarian. ENJOY",
+            "datePublished": "2024-04-09T18:44:32.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ozzy13"
+            },
+            "reviewBody": "I've eaten these beans since I was a child (I'm 62) but I use Campbell beans, brown sugar and some Worcestershire sauce and partially cooked bacon. Great with hot dogs added before baking.",
+            "datePublished": "2021-05-21T23:07:54.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trinae"
+            },
+            "reviewBody": "I made these baked beans to go with fried whiting and sweet cornbread. ( yes I’m a southern girl!) I put a little of my own flair to it. The above recipe gave me ideas. So thank you! Used hickory bbq sauce with the ketchup, used Dijon mustard, a little cinnamon and I sautéed the onions in the grease with the bacon after I cooked it and mixed it all in with the bake beans. I also added buttered white rice. Turned out really delicious. Next time I’m mixing it with some ground beef and adding green peppers. Thanks. Really good!!!",
+            "datePublished": "2020-01-12T21:38:47.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicki A"
+            },
+            "reviewBody": "I browned the bacon and then sauteed onions in bacon grease. I also added a few squirts of liquid smoke. I used REAL maple syrup",
+            "datePublished": "2019-05-26T16:52:59.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FeistySyrup5558"
+            },
+            "reviewBody": "It was perfect!",
+            "datePublished": "2026-09-07T18:02:51.271Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ronda Merritt"
+            },
+            "reviewBody": "Love it simple and great. Like my mom made.",
+            "datePublished": "2026-09-05T04:20:11.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lfine"
+            },
+            "reviewBody": "This is similar to the way I have always made my beans, having sweet baked beans to me is the best way, I actually use a lot more brown sugar than in the recipe, my beans are always a hit. Instead of the catsup I use BBQ sauce and that makes them smokey and really great.",
+            "datePublished": "2026-05-28T12:06:06.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LD"
+            },
+            "reviewBody": "These had great flavor, but unfortunately my bacon just wouldn't brown, so in the future I plan to cook my bacon first before adding it, with the delicious drippings and all. (:",
+            "datePublished": "2026-05-24T03:34:03.664Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JumpySquid1466"
+            },
+            "reviewBody": "Reminding me of Mama's baked beans. So good.",
+            "datePublished": "2026-01-24T01:35:26.361Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Randy"
+            },
+            "reviewBody": "The only thing I did different was I did these in my smoker at 250 (High as it will go) for a couple hours or so until the bacon was done. People ate every bean. Never none left.",
+            "datePublished": "2025-11-20T20:28:38.624Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RML"
+            },
+            "reviewBody": "Nope, this isn't how we make our baked beans. Y'all gotta stop adding all this sugar to everything.",
+            "datePublished": "2025-10-13T13:04:43.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Toni"
+            },
+            "reviewBody": "My family calls them Grandma's beans now,lol. I love that",
+            "datePublished": "2025-09-01T20:04:57.411Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Sharrits"
+            },
+            "reviewBody": "Great!",
+            "datePublished": "2025-08-29T22:39:46.436Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/150637/better-baked-beans/",
+          "name": "Better Baked Beans",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/220/side-dish/beans-and-peas/",
+                  "name": "Beans and Peas"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1673/side-dish/beans-and-peas/baked-beans/",
+                  "name": "Baked Bean Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

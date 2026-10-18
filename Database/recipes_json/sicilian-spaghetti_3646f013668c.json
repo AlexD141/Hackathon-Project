@@ -1,0 +1,450 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17167/sicilian-spaghetti/",
+  "extracted_at": "2026-10-18T02:25:01.773744+00:00",
+  "recipes": [
+    {
+      "name": "Sicilian Anchovy Pasta",
+      "ingredients_raw": [
+        "1 pound spaghetti",
+        "4 tablespoons olive oil",
+        "1 (2 ounce) can anchovy fillets, chopped",
+        "3 cloves garlic, crushed",
+        "1 cup fine bread crumbs",
+        "1 cup chopped fresh parsley",
+        "ground black pepper to taste",
+        "4 tablespoons freshly grated Parmesan cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, heat olive oil in a medium skillet over medium heat. Add anchovies and garlic; cook and stir continuously until anchovies sizzle and garlic is fragrant, about 2 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in bread crumb; turn off heat. Stir in parsley and black pepper."
+        },
+        {
+          "id": 4,
+          "text": "Toss anchovy sauce with hot pasta; sprinkle with Parmesan cheese. Serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sicilian Anchovy Pasta",
+        "datePublished": "2000-03-19T18:45:09-05:00",
+        "dateModified": "2026-09-08T19:03:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Simon"
+          }
+        ],
+        "description": "Anchovy pasta made with spaghetti tossed in hot garlic oil with anchovies. Top with bread crumbs, parsley, and Parmesan for a sensational Sicilian meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/endizNUoQ_ZGpDjKX71kxgQIx6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17167-sicilian-spaghetti-VAT-Beauty-4x3-f6ecbec127b04934b81530647c942e32.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sicilian Anchovy Pasta",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "147"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "355 kcal",
+          "carbohydrateContent": "54 g",
+          "cholesterolContent": "7 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "12 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "516 mg",
+          "sugarContent": "3 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Sicilian",
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 pound spaghetti",
+          "4 tablespoons olive oil",
+          "1 (2 ounce) can anchovy fillets, chopped",
+          "3 cloves garlic, crushed",
+          "1 cup fine bread crumbs",
+          "1 cup chopped fresh parsley",
+          "ground black pepper to taste",
+          "4 tablespoons freshly grated Parmesan cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat olive oil in a medium skillet over medium heat. Add anchovies and garlic; cook and stir continuously until anchovies sizzle and garlic is fragrant, about 2 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in bread crumb; turn off heat. Stir in parsley and black pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Toss anchovy sauce with hot pasta; sprinkle with Parmesan cheese. Serve."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GuineaPigGirl"
+            },
+            "reviewBody": "Very nice, tastes just like home (I'm Italian) What alot people don't realize is that the pasta is SUPPOSED to be DRY! Italians don't always like thick soupy sauces all the timeThats the style of pasta it is. I usually add a squeeze of lemon for some zing and not so much parsely. Bellisimo!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doughgirl8"
+            },
+            "reviewBody": "I can't believe I never reviewed this--it's one of my go-to quick dinners. It's a delicious, savory, simple dish. I brown the breadcrumbs in olive oil and set them aside; then I warm the anchovies and garlic and some red pepper flakes in olive oil. I save about a half cup of the pasta-cooking water and add that to the anchovy mixture, toss that with the pasta, then mix in the breadcrumbs and top with cheese.",
+            "datePublished": "2009-11-10T12:23:05.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cdalton"
+            },
+            "reviewBody": "For everyone complaining about there being no \"sauce\" to this, you should know that this creates its own creamy base if done properly. When you mix the pasta with the sauce or base, no matter what it is (tomato, aglio e olio, anchovy) you always need to add a bit of the pasta water to the sauce/pasta when mixing together. Start small, like a quarter cup, or just lift your pasta out of the pot and directly into the sauce/fry pan. The pasta water mixes with the base and the starch creates a lovely creamy flavorful \"sauce\" that clings to the pasta. I usually add about 1/3 to 1/2 cup pasta water to all my pasta dishes. Also, never serve your pasta plain on a plate with the sauce on top; this causes the sauce to run/weep. Always mix it into the pasta first (add more on top later, if needed) so you get the starch mixed in causing the sauce to cling to the noodles. Since this recipe didn't mention this, I'm knocking off 2 stars.",
+            "datePublished": "2021-12-04T15:35:43.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thalassa"
+            },
+            "reviewBody": "I thought this was delicious but only after I added lemon juice and crushed red pepper. I thought the lemon juice was absolutely necessary for keeping the dish from being too dry, I practically choked on breadcrumbs with the first serving. I love it though with a little more olive oil and lemon juice and will make it again. Also anyone who felt their anchovy sauce was too thick need to add some pasta water to the sauce, all Italians do this and this recipe is flawed for not telling American people to add a little pasta water to the anchovy sauce to keep it from being a gelatinous blob.",
+            "datePublished": "2023-03-26T00:19:52.014Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "2chefs"
+            },
+            "reviewBody": "This is an easy recipe that provides a very tasty good base for some creativity. I added sliced mushrooms and sliced baby sweet bell peppers to the olive oil along with a small pat of unsalted butter, and sautéed them for a while before adding the fresh garlic and anchovies. I also added some hot pepper flakes to spice it up a bit. Be sure to reserve plenty of the pasta cooking liquid. Like other reviewers, I found this dish to be quite dry so you will probably want to add some of the reserved pasta liquid at the end. Also, if you don't like anchovies you might be quite surprised - they don't taste strong or fishy in this recipe, but the flavor they add is wonderful!",
+            "datePublished": "2016-01-09T05:08:31.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dayle Purcell"
+            },
+            "reviewBody": "Add a little pasta water to loosen the sauce. Also only use Italian pasta. The Italian government forbids the use of chemicals on wheat fields. Not chemical on the wheat means no chemicals in the pasta. I made a mash of the anchovies with the olive oil. The flavour was more evenly distributed &amp; more subtle. I also lightly fried the breadcrumbs to add a little crunch.",
+            "datePublished": "2024-08-25T02:54:47.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fox Realtor"
+            },
+            "reviewBody": "Skip the bread crumbs. There's no need to add carbs to the carbs, and it doesn't do much for the dish. Finely chop the anchovies for better distribution in the dish. Adjust garlic to taste (we adjusted down). Skip the parsley, use oregano instead. Also, put the parmesan cheese on the side and 'lightly' sprinkle on at the table. Avoid loading up before service, you're guests will have a better experience with anchovies an appreciate this excellent ingredient.",
+            "datePublished": "2023-08-31T18:13:18.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fern"
+            },
+            "reviewBody": "This is my \"go to\" comfort food; after a long day at work nothing's better and few things are cheaper. The anchovies are critical, but otherwise it is a pretty substitution friendly recipe. A couple of times I've had fresh spinach, so I've tossed it in there instead of parsley. Romano cheese works just as well as Parm. and my rule of cheese is Some is good; more is better. My mom makes this with a mix of about 1/3 butter to 2/3 olive oil. I made it in college ALOT and once used only butter. Blech. Back to olive oil! I use a bit more than this recipe calls for, since I like it not so dry. I also use the oil the anchovies are packed in.",
+            "datePublished": "2013-02-26T18:04:03.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andrew"
+            },
+            "reviewBody": "Just tried it tonight, It was gorgeous.. I couldn’t get the breadcrumbs too fine with the hand blender but they were lovely, I added a small zest of lemon and a pinch of chilli flakes to it, The best spaghetti I have ever cooked, Thanks for this recipe !",
+            "datePublished": "2025-10-17T17:31:00.792Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CleverStove4714"
+            },
+            "reviewBody": "This is very delicious, easy to make, and very easy to customize, just stick with the main ingredients of anchovies, olive oil, and garlic. I added some chopped tomatoes, used Italian seasoning instead of parsley, and skipped the bread crumbs",
+            "datePublished": "2024-02-07T20:19:06.069Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "d_ks"
+            },
+            "reviewBody": "This was excellent. I followed the recipe as written, except for taking the advice of a few other reviews: I used Panko bread crumbs, and fried them slightly with the oil before removing from heat; I used Italian parsley; I included the oil from the anchovies; and I used slightly less than a pound of spaghetti. \n\nI had it as a main dish with bruschetta and crostini. This was delicious. I will definitely be making this again.",
+            "datePublished": "2018-03-21T14:12:56.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John"
+            },
+            "reviewBody": "We really are limited on our taste for anchovies. But we really enjoyed this recipe. We did add a drizzle of olive oil for a little more moist outcome. As someone mentioned some good toast bread would make this a wonderful meal. The ease of this recipe and the results will definitely have us making this again.",
+            "datePublished": "2026-06-22T04:00:31.836Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brian Gagnon"
+            },
+            "reviewBody": "Quick, Easy, Tasty!! Loved the slight crunch of the bread crumbs.",
+            "datePublished": "2026-04-28T19:23:36.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shaw Kitty"
+            },
+            "reviewBody": "For those of you reviewers that suggested adding pasta water: thanks for ruining my dish! The bread crumbs are added to the anchovy sauce and mixed in. But after adding pasta water, the bread became gummy balls that had difficulty incorporating into the entire one pound of pasta. I also think next time I will either add an additional 2-oz. can of anchovies or decrease the amount of pasta---and NO pasta water! I will make this again, because the flavor combo is great, but with the tweaks noted. Thanks to the original recipe poster whose directions I should have followed to begin with.",
+            "datePublished": "2025-08-26T00:24:35.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "reblahut"
+            },
+            "reviewBody": "i have been making variations of this recipe for at least 35 years sometimes i add tuna instead of anchovies, sometimes it is sardines. sometimes i omit the tinned fish and use onion. fresh or dried parsely work or leave it out. when i use tinned fish, i usually use the oil the fish is in in the can plus some more olive oil. often when cooking i use olive oil but i don't use the EVOO if i am cooking, i use the EVOO for a condiment similar to sesame oil, when you cook with it it kind of looses it's flavor. i also usually add a lot of freshly ground black pepper and a good amount of red pepper flakes. but that is only if i am cooking for myself and no one else.",
+            "datePublished": "2025-06-07T23:35:16.938Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DreamyBean8963"
+            },
+            "reviewBody": "My dad made this every Good Friday and Christmas Eve. He was born in Tarmina this is the family always did. As kids we were always influenced bu Sicilian food.",
+            "datePublished": "2025-04-24T00:21:35.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jenny callahan"
+            },
+            "reviewBody": "This recipe is dynamite. I don't have any parsley. I forgot to buy some. But this is something I've wanted to cook for a while now. It is not fishy, as some may assume. It is just a gorgeous, simple meal. The flavors work together so nicely. It doesn't cost much at all and it is very easy. I'm thankful for this recipe. God bless.",
+            "datePublished": "2025-04-14T23:37:23.684Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard Neporent"
+            },
+            "reviewBody": "This is my favorite recipe for pasta. The anchovies impart a nice nutty flavor. You’ll never know there are anchovies in the sauce!",
+            "datePublished": "2025-04-07T19:57:48.406Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NobleStew1337"
+            },
+            "reviewBody": "Simple, quick and easy to do. Great for a tasty and quick lunch",
+            "datePublished": "2025-02-12T12:36:14.444Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldenPho3663"
+            },
+            "reviewBody": "This is a great recipe I like to make it without personal interference. That is how I learn. We love this at our house I’m making it again tonight No changes .",
+            "datePublished": "2025-02-11T22:16:39.666Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17167/sicilian-spaghetti/",
+          "name": "Sicilian Anchovy Pasta",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/505/main-dish/pasta/spaghetti/",
+                  "name": "Spaghetti"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

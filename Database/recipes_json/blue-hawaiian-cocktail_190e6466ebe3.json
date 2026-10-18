@@ -1,0 +1,438 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222550/blue-hawaiian-cocktail/",
+  "extracted_at": "2026-10-18T03:16:06.949637+00:00",
+  "recipes": [
+    {
+      "name": "Blue Hawaiian Cocktail",
+      "ingredients_raw": [
+        "1 cup crushed ice",
+        "2 fluid ounces pineapple juice",
+        "1 fluid ounce light rum",
+        "1 fluid ounce blue Curacao liqueur",
+        "1 fluid ounce cream of coconut",
+        "1 pineapple slice",
+        "1 maraschino cherry"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender."
+        },
+        {
+          "id": 2,
+          "text": "Blend on high speed until smooth and an even blue color."
+        },
+        {
+          "id": 3,
+          "text": "Pour into a chilled highball glass. Garnish with a slice of pineapple and a maraschino cherry."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Blue Hawaiian Cocktail",
+        "datePublished": "2017-07-13T09:01:18-04:00",
+        "dateModified": "2026-01-22T17:50:54-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Allrecipes"
+          }
+        ],
+        "description": "The Blue Hawaiian is a classic tiki cocktail made with rum, cream of coconut, pineapple juice, and Curacao liqueur to create its iconic blue color.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/FYSK15V366s4x5yVElZK8xTvaTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-blue-hawaiian-cocktail-DDMFS-4x3-882f91302502469c8b86471485aa0983.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/a3Vn3eyU-K3AjnAEN.mp4",
+          "description": "The Blue Hawaiian is a fun, refreshing cocktail made with rum, cream of coconut, pineapple juice, and Curacao liqueur to create its signature blue color. Invented in Hawaii in the 1950s, this tiki cocktail will have you crooning like Elvis! You don't need to be at the beach to enjoy this tropical and fruity cocktail. The gorgeous drink is incredibly simple to make at home, but one sip will transport you to an island in the sun. Whether enjoyed poolside or simply after work, you'll love the Blue Hawaiian recipe in this video.",
+          "duration": "PT47S",
+          "name": "Blue Hawaiian Recipe",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/a3Vn3eyU/poster.jpg?width=1280",
+          "uploadDate": "2022-08-14T13:08:32-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Blue Hawaiian Cocktail",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "63"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "369 kcal",
+          "carbohydrateContent": "49 g",
+          "fiberContent": "1 g",
+          "proteinContent": "0 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "31 mg",
+          "sugarContent": "43 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Cocktail",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "Hawaiian"
+        ],
+        "recipeIngredient": [
+          "1 cup crushed ice",
+          "2 fluid ounces pineapple juice",
+          "1 fluid ounce light rum",
+          "1 fluid ounce blue Curacao liqueur",
+          "1 fluid ounce cream of coconut",
+          "1 pineapple slice",
+          "1 maraschino cherry"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zw5aq6Xkdz0QHzK1cK9Ju6dhwNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-BlueHawaiianCocktail-mfs-Step1-0090-3ed58bb422b944ca9ee075be27785cf0.jpg"
+              }
+            ],
+            "text": "Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bGcKZrpm0xiy5j7P_3jnsJsK2vs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-BlueHawaiianCocktail-mfs-Step2-0096-c150fd11c9034138a43cea06493a0a7c.jpg"
+              }
+            ],
+            "text": "Blend on high speed until smooth and an even blue color."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/FYSK15V366s4x5yVElZK8xTvaTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-blue-hawaiian-cocktail-DDMFS-4x3-882f91302502469c8b86471485aa0983.jpg"
+              }
+            ],
+            "text": "Pour into a chilled highball glass. Garnish with a slice of pineapple and a maraschino cherry."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 cocktail"
+        ],
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "robinc856"
+            },
+            "reviewBody": "YUMMY! I made these drinks for my BUNCO group. They were a hit! Didn't know where to purchase \"Cream of Coconut\" but found it in the liquor store. Used 1/2 ounce of cr. of coconut instead of full ounce (on advice from the sales lady at the liquor store). They were wonderful! Start with 1/2 ounce of cr. of coconut and work up if you want more coconut flavor. I love coconut and 1/2 was enough for me."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cosmicaura123"
+            },
+            "reviewBody": "We tweaked it a bit, because we are island girls. We added a shot of simple syrup, shot of sprite, 1 1/2 oz coconut milk non sugar, tsp vanilla, 1 shot of sweet and sour, 2 shots of rum rather then one. \nIt took it up a notch, and wow-ser it was great, delicious!!!!",
+            "datePublished": "2014-06-13T19:31:49.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CastroMKE"
+            },
+            "reviewBody": "This drink is really good. To make it slushier add 1.5 cups of crushed ice. Also really strong pineapple taste so I'd recommend using a little less creme of coconut.",
+            "datePublished": "2016-08-01T21:53:17.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carey Stanley"
+            },
+            "reviewBody": "Also substituted half pineapple rum for half the pineapple juice",
+            "datePublished": "2023-07-23T18:52:02.161Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renika"
+            },
+            "reviewBody": "I love coconut, so I Love this drink. \nI used coconut rum and doubled the rum for extra kick. Very delicious.",
+            "datePublished": "2020-05-30T21:19:51.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mokasmom"
+            },
+            "reviewBody": "Just mixed up a batch for Father's Day celebration in a ratio of 1:1:2 of Parrot Bay Coconut, blue Curacao and pineapple juice and it was delicious! Will be on to round 2 here soon so I thought I should write this review first. Yum!",
+            "datePublished": "2018-06-17T20:15:37.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HDCarleton"
+            },
+            "reviewBody": "Did not have coconut cream, or light rum, so I used coconut rum, and the drink was perfect. Just like the one I get at Moxies.",
+            "datePublished": "2014-06-28T16:39:45.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DIZ9829"
+            },
+            "reviewBody": "This represents all things that are Hawaiian. From the beautiful color of the ocean to the magical tropical flavors. I used coconut flavored rum which gave it an added boost of coconut. No Hawaiian party should be without one!",
+            "datePublished": "2013-07-25T13:35:21.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Glenn"
+            },
+            "reviewBody": "This turned out just as good as I got at the restaurant!",
+            "datePublished": "2025-07-24T01:48:38.339Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RoseRoll9328"
+            },
+            "reviewBody": "Great drink! Tastes just like the one I had in Vegas",
+            "datePublished": "2025-06-17T01:50:41.518Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Hosang"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-05-04T22:24:27.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "YellowPeas9056"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-25T02:36:19.205Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leonard Waters"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-10-20T21:30:58.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KindDonut5074"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-08-26T00:54:29.564Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Madonna"
+            },
+            "reviewBody": "This is my personal favorite, my family doesn’t drink any alcohol at all, so it’s mine all mine!",
+            "datePublished": "2024-07-16T01:56:52.869Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SassyKnife6097"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-12T03:13:55.411Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MatureEgg5757"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-13T02:28:12.647Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222550/blue-hawaiian-cocktail/",
+          "name": "Blue Hawaiian Cocktail",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17651/drinks/cocktails/blended-cocktails/",
+                  "name": "Blended Cocktail Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

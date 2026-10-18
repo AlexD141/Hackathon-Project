@@ -1,0 +1,468 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13872/easy-pecan-pie/",
+  "extracted_at": "2026-10-18T01:55:26.515785+00:00",
+  "recipes": [
+    {
+      "name": "Easy Pecan Pie",
+      "ingredients_raw": [
+        "1 (9 inch) unbaked pie crust",
+        "3 eggs, beaten",
+        "1 cup dark corn syrup",
+        "1 cup white sugar",
+        "0.25 cup melted butter",
+        "1 teaspoon vanilla extract",
+        "1 cup pecan halves"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Beat eggs, corn syrup, sugar, butter, and vanilla together in a large bowl until well combined."
+        },
+        {
+          "id": 3,
+          "text": "Arrange pecans in bottom of pie crust and pour syrup mixture over."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until a knife inserted 1 inch from the edge comes out clean, about 1 hour. Allow pie to cool before slicing."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Easy Pecan Pie",
+        "datePublished": "1999-11-21T21:46:14-05:00",
+        "dateModified": "2026-01-06T10:39:50-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jackie"
+          }
+        ],
+        "description": "This pecan pie recipe makes an easy corn syrup, egg, and sugar filling to pour over whole pecans in an unbaked crust for a favorite holiday dessert.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/AcXkhnDMEV-sk0Lp5DRPit2Tngk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13872-easy-pecan-pie-VAT-Beauty-4x3-8339c316f4eb4711ba8f34f1a0efcdba.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Pecan Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "187"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "500 kcal",
+          "carbohydrateContent": "69 g",
+          "cholesterolContent": "85 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "248 mg",
+          "sugarContent": "37 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (9 inch) unbaked pie crust",
+          "3 eggs, beaten",
+          "1 cup dark corn syrup",
+          "1 cup white sugar",
+          "0.25 cup melted butter",
+          "1 teaspoon vanilla extract",
+          "1 cup pecan halves"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/UoKQbomE2xPPykZw3ytHRXwG0zA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13872-easy-pecan-pie-VAT-step-02-7d70e6d0bd0b4b00ac2b64575e72943a.jpg"
+              }
+            ],
+            "text": "Beat eggs, corn syrup, sugar, butter, and vanilla together in a large bowl until well combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YhWXNhJ7SgOm54-u_3wfS1BoALA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13872-easy-pecan-pie-VAT-step-03-07010ac864484413a3ca6ff52bc13abb.jpg"
+              }
+            ],
+            "text": "Arrange pecans in bottom of pie crust and pour syrup mixture over."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/8Et2BNOQyZTCWuaBuSNz1bAqibY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13872-easy-pecan-pie-VAT-step-04-51100c41a3834f32a0151636466f311e.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until a knife inserted 1 inch from the edge comes out clean, about 1 hour. Allow pie to cool before slicing."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 (9-inch) pecan pie"
+        ],
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sandycook"
+            },
+            "reviewBody": "Lost my recipe box with my favorite pecan pie recipe &amp; found it here. This is THE BEST pecan pie recipe. A couple of hints: you can substitute light corn syrup-in fact I usually use the light. If you are using a \"deep dish\" pie crust, you need to increase the filling amount- easy to do with the all recipes conversion - I increased servings to 9 &amp; used 4 eggs. You don't have to lay pecans on the bottom of the crust,just fold into the batter-it works fine. Pecans- I chop some &amp; leave some halved. I also omit vanilla. The real trick is the cooking time - this comes with practice; if it's runny inside, it didn't cook long enough. If I'm sometimes not sure, I'll cook a few minutes more to be safe- especially with a deep dish crust.You learn to recognize when the pie is \"set\" on top. Hope these hints help - this is my favorite recipe &amp; I've been cooking it for 25+ years &amp; my Mom before me. Bon Apetit!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rubyelainem"
+            },
+            "reviewBody": "this pie's top burns too quickly (within 30 minutes), so I cover mine loosely with foil for the first 30-40 minutes of baking, then leave it uncovered for the last 30 minutes. I also use 1 cupful of pecan halves and add a handful of chopped pecans. I use Marie Callender frozen pie crusts becauase they are flakier and more buttery than pillsbury. I also reduced the dark syrup to 2/3 cups to reduce the sweetness and the risk of overflow. Hope it helps ;)",
+            "datePublished": "2011-06-14T08:33:50.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WVRedCookin'"
+            },
+            "reviewBody": "I have made this in 9-inch deep dish and 10-inch deep dish. I changed the portion size and followed accordingly EXCEPT, when making a 9-inch I used 4 smallish large eggs and when making the 10-inch I used 4 large eggs. In general, I split the sugar - half white, half brown.\nThe key to not burning the top and cooking through - 350 degrees, covered w/foil for 40 min., then 325, uncovered for 40 min. If still not completely set, I then turn the oven off and keep the pie in for another 10 min.\nFor a pretty top - If you look through the pictures, mine is the one with circles. I put in the filling first, then starting on the outside, just put the pecans on top of the liquid (I don't even push them in), going around until that circle is done, then start the next circle. I point all my pecans one way, then the other way for the next circle.",
+            "datePublished": "2015-12-09T07:57:08.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paul Gray"
+            },
+            "reviewBody": "All this recipe needs is for the sugar, corn syrup, and butter to be cooked to a boil and allowed to cool before adding eggs and vanilla and pecans. This decreases the baking time and helps the pie to set quicker. I also add a tsp of corn starch to the mix.",
+            "datePublished": "2018-11-11T19:01:30.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "I make exact recipe but only use 1/2 cup sugar. I cook a little longer and after 30 minutes , I cover with foil. Very easy to make.",
+            "datePublished": "2021-11-23T12:49:53.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fauzia"
+            },
+            "reviewBody": "Made two more today for a dinner we are invited for,this recipe is a hit,I did make a few changes,had light corn syrup and used brown sugar.i did put 1 1/2 cups of pecan per pie.Baked on 325 degrees F for 40 minutes and another 25 minutes on 350. Please do check the pie after 50 minutes,I put mine on the lowest rack so was careful,they look delicious,will post about the reaction from my friends when they taste them...Merry Christmas.making them for the fifteenth time today and they turn out delicious every single time, I do make the pie crust myself and that makes the pie more delicious! Merry Christmas everyone :)I would definitely encourage anyone trying to bake this recipe to keep an eye on the pie and bake at a lower temperature initially as mentioned above! Some of the reviews are so negative but honestly this is an amazing recipe and tastes like a pro has made it !!",
+            "datePublished": "2013-12-02T06:21:53.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Teresa Breese"
+            },
+            "reviewBody": "This is a great basic pecan pie I have made several times. Please put foil around the edge to protect the crust from over browning (I do this on all of my baked pies). I do add a 1/4 teaspoon of salt because my family of cooks always do.",
+            "datePublished": "2021-06-10T14:40:02.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Savannah"
+            },
+            "reviewBody": "I made a few slight changes to this recipe and will make more the next time. I used dark brown sugar instead of granulated sugar, and light syrup as that’s what had. I used the amount the recipe originally called for. I also didn’t put pecans on the bottom, I arranged them on the top as that’s my preference. For me, this recipe was too sweet. The consistency was nice, quite thick, but entirely too sweet. I think I am likely to halve the brown sugar next time. It otherwise was lovely. I cooked it for about 55 minutes and it produced a lovely crusty top and that a nice chewy and crispy texture.",
+            "datePublished": "2025-12-05T06:38:51.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jayelle"
+            },
+            "reviewBody": "This was the first pecan pie I’ve ever made and it turned out perfect baked at 1 hour. I added an extra 1/2 cup or so of pecans - enough to completely cover the bottom. Also, I didn’t have corn syrup so used pancake syrup instead. The first ingredient listed on my cheap pancake syrup was “corn syrup”, so it functioned the same and added a nice, subtle maple flavor. You could probably use real maple syrup as well instead if you can afford to sacrifice a cup of it lol. Anyway, this was a hit with my husband and our friends who are already asking me to make another one with no changes.",
+            "datePublished": "2021-01-12T01:25:37.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen"
+            },
+            "reviewBody": "This pie was really good!! I didn't change anything in the recipe other than I used light corn syrup instead of the dark and used some chopped pecans along with the pecan halves. For those that said that they poured the filling in the crust first and then poured the pecans on top - you're supposed to put the pecans in the crust first and then pour the filling on top because the pecans rise up to the top of the filling. FYI - My dad LOVES pecan pie and he said it was one of the best he's had &amp; tasted fresher than most! Enjoy!",
+            "datePublished": "2011-11-27T18:17:16.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rose Marie Davila Martinez"
+            },
+            "reviewBody": "Made this pie but realized I was out of white sugar so used brown sugar and it was so delicious! Always will use this recipe!",
+            "datePublished": "2017-11-25T04:58:28.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ShaquandaConway"
+            },
+            "reviewBody": "This recipe is absolutely amazing!! I loved how my pantry already had half of the ingredients in stock. Then the few things that I invested in for the recipe is now on standby for the next delicious snack I start craving :)",
+            "datePublished": "2026-06-11T12:46:31.165Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SeRena"
+            },
+            "reviewBody": "Add fireball whiskey for a cinnamon kick. I used brown Splenda. Can't wait to eat it couple hours from now 😄 becuz of need to set. I will not cut it. I refuse ...eaten many times and never made my own. Thanks for the recipe, easy.",
+            "datePublished": "2026-04-13T18:50:50.815Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuirkyScale6904"
+            },
+            "reviewBody": "LOVE IT!!!!!",
+            "datePublished": "2026-02-25T05:32:28.731Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy"
+            },
+            "reviewBody": "I love it! Some pecan pies are so sweet you can’t eat them. This one is just perfect!!",
+            "datePublished": "2025-12-25T19:45:18.618Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Frances"
+            },
+            "reviewBody": "Easy and quick",
+            "datePublished": "2025-12-22T19:52:16.268Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April"
+            },
+            "reviewBody": "We're going to make a pecan pie 🥧😋🤪 godwilling....",
+            "datePublished": "2025-12-16T16:21:26.928Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GiftedDove9086"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-06T17:34:54.877Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SillyBowl4805"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-24T20:42:23.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My son requested a pecan pie for thanksgiving this year, and I couldn't find a premade one at the store, so I made one for the very first time, and it was easier than I had anticipated. It turned out great! He loved it!!",
+            "datePublished": "2024-11-28T23:01:17.841Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13872/easy-pecan-pie/",
+          "name": "Easy Pecan Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2411/desserts/pies/pecan-pie/",
+                  "name": "Pecan Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

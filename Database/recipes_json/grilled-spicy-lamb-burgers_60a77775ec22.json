@@ -1,0 +1,479 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20425/grilled-spicy-lamb-burgers/",
+  "extracted_at": "2026-10-18T02:44:57.459648+00:00",
+  "recipes": [
+    {
+      "name": "Grilled Spicy Lamb Burgers",
+      "ingredients_raw": [
+        "1 pound ground lamb",
+        "2 tablespoons chopped fresh mint leaves",
+        "2 tablespoons chopped fresh cilantro",
+        "2 tablespoons chopped fresh oregano",
+        "1 tablespoon garlic, chopped",
+        "1 teaspoon sherry",
+        "1 teaspoon white wine vinegar",
+        "1 teaspoon molasses",
+        "1 teaspoon ground cumin",
+        "0.25 teaspoon ground allspice",
+        "0.5 teaspoon red pepper flakes",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "4 pita bread rounds",
+        "4 ounces feta cheese, crumbled"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat grill for medium heat."
+        },
+        {
+          "id": 2,
+          "text": "Place the lamb in a large bowl, and mix with the mint, cilantro, oregano, garlic, sherry, vinegar, and molasses. Season with cumin, allspice, red pepper flakes, salt, and black pepper, and mix well. Shape into 4 patties."
+        },
+        {
+          "id": 3,
+          "text": "Brush grill grate with oil. Grill burgers 5 minutes on each side, or until well done. Heat the pita pocket briefly on the grill. Serve burgers wrapped in pitas with feta cheese."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Grilled Spicy Lamb Burgers",
+        "datePublished": "2000-07-05T13:10:03-04:00",
+        "dateModified": "2022-12-08T21:04:31-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Alan Hollister"
+          }
+        ],
+        "description": "Something new for all the grill-daddies! An EASY burger to make, and guests rave over this one.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/tpv7M_WhfwC7_S8GOR4uWrgMX-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6772452-grilled-spicy-lamb-burgers-AllrecipesPhoto-1x1-1-6b13ccb4ae9f4659820256da845509b8.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/5Du8mnSR-ma1DlVvV.mp4",
+          "description": "AR1314",
+          "duration": "PT2M59S",
+          "name": "Grilled Spicy Lamb Burgers",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5Du8mnSR/poster.jpg?width=1280",
+          "uploadDate": "2021-07-21T11:11:06-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grilled Spicy Lamb Burgers",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "177"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "478 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "101 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "29 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "1004 mg",
+          "sugarContent": "2 g",
+          "fatContent": "22 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 pound ground lamb",
+          "2 tablespoons chopped fresh mint leaves",
+          "2 tablespoons chopped fresh cilantro",
+          "2 tablespoons chopped fresh oregano",
+          "1 tablespoon garlic, chopped",
+          "1 teaspoon sherry",
+          "1 teaspoon white wine vinegar",
+          "1 teaspoon molasses",
+          "1 teaspoon ground cumin",
+          "0.25 teaspoon ground allspice",
+          "0.5 teaspoon red pepper flakes",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon ground black pepper",
+          "4 pita bread rounds",
+          "4 ounces feta cheese, crumbled"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat grill for medium heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place the lamb in a large bowl, and mix with the mint, cilantro, oregano, garlic, sherry, vinegar, and molasses. Season with cumin, allspice, red pepper flakes, salt, and black pepper, and mix well. Shape into 4 patties."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/tpv7M_WhfwC7_S8GOR4uWrgMX-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6772452-grilled-spicy-lamb-burgers-AllrecipesPhoto-1x1-1-6b13ccb4ae9f4659820256da845509b8.jpg"
+              }
+            ],
+            "text": "Brush grill grate with oil. Grill burgers 5 minutes on each side, or until well done. Heat the pita pocket briefly on the grill. Serve burgers wrapped in pitas with feta cheese."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JOSIE"
+            },
+            "reviewBody": "These burgers turned out really good. My husband makes his own version that is very similar to this recipe (using a little of this and that)...and I wanted to replicate it. Suprisingly enough, this came very close to his. I used dry herbs and threw in some cilantro and green onions. I used a bit more salt than what the recipe called for and used ground pork rather than lamb. I've never cooked with lamb before...simply because I never see it at our grocery store. I was given several compliments and plan on making this again. Thanks for sharing Alan."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I made these into mini meatballs and baked at 400 deg for ~15 min. as another reviewer suggested. Lamb has a lot of fat, so I was glad I added parchment paper to my sheets which helped to absorb some of it. I like spicy, but these were just a bit spicy for me, so I'd cut back on the spices the next time. I had some homemade cucumber spread on hand, so I used that in place of the tzaziki sauce. It offset the heat of the lamb very well. Also added a few tblsp of fresh basil. Thanks, Alan, very good recipe! UPDATE 11/15/15: Much better cutting back on black pepper &amp; red pepper flakes. Note to self: Add 1-2 TBLSP of milk for some moisture, or maybe an egg (fat bakes out then seems a little dry). Less cumin, too.",
+            "datePublished": "2014-08-19T05:03:37.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aliceof1derland"
+            },
+            "reviewBody": "These were fantastic. Definitely a little spicy (almost too much for me, but my other half loved!). I was told that it was \"restaurant quality\", something he'd expect from one of our high end burger places.\r\n\r\nI did make a couple of minor changes. Due to rain, I was unable to grill, so I cooked for 5 min. on the George Foreman grill, set to med/high. These were done. I like mine a little more on the rare side, so I will probably reduce the time if I cook them like that again. Also, I used Naan Bread instead of pita bread, and folded it over. It was absolutely delicious. We added spinach leaves and tomato slices. I didn't need anything else, but I have it on good autority that this was also fabulous with horseradish. :)",
+            "datePublished": "2014-07-03T04:57:45.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I cook ground lamb and serve it to my dogs all the time, but never thought of it as a delicious meal for the rest of my family until now...this recipe is stellar! We don't have a grill, so I used a skillet, preheated for one minute and brushed with a bit of cooking oil. I then cooked the burgers for 5 minutes on each side. I placed them in a baking dish and cooked them in a preheated (300 F) oven for an additional 5 minutes, along with the pita bread. Along with the feta cheese, I filled the pita bread with thinly sliced cucumbers, diced tomatoes and a dressing I made with plain yogurt and finely chopped onions. It tasted GREAT...this recipe is a definite keeper in my collection!",
+            "datePublished": "2005-06-11T20:43:54.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April Nance"
+            },
+            "reviewBody": "So Good!! The only changes I made (since I didn't have it) was I used white wine for the sherry and the vinegar and also couldn't find fresh oregano so used my ground oregano. I doubled the recipe and made some into burgers and made some into big meat balls in the oven (just to see if it was as good- and to fit nicely into the warm pita pockets) Serving with fresh garden tomatoes, red onions, and Chef Johns tzatzik- and the frozen Alexa spicy sweet potato fries!!",
+            "datePublished": "2019-07-31T18:42:12.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen Woy"
+            },
+            "reviewBody": "Per another reviewer I made these into cocktail appetizer by making mini meatballs and serving with a yogurt/cucumber dipping sauce. Baked at 400 for about 13-15 minutes. Great flavor!",
+            "datePublished": "2011-07-10T08:45:12.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "just_jam"
+            },
+            "reviewBody": "this was very tasty.. i used ground turkey (1.25 lbs) instead of the lamb.. and left out the oregano b/c i was worried it would be overpowering.. i also left out the molasses and sherry as i don't carry either usually.. and used 1.5 tsp of kosher salt for the regular.. i had mine straight up and bf had his in tortillas (we're socal).. ty for the recipe",
+            "datePublished": "2015-05-07T20:28:24.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rechellef"
+            },
+            "reviewBody": "We raise our own lambs/sheep and I am always left with a surplus of ground lamb in the freezer. I tried this recipe and it was such a hit that even my picky 6 year old loved it. I didn't have cilantro, so I used fresh rosemary and some chives as well and ground all the fresh herbs in a mini food processor. All of the flavors combined with the lamb were just beautiful and I added caramelized sweet onions to the tops of the burger and they were to die for!!",
+            "datePublished": "2012-08-11T11:45:03.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee"
+            },
+            "reviewBody": "This was really good. Didn't have mint or cilantro available so left it out. Otherwise I made it as the recipe described. Made them into meatballs and baked in the oven. This was the first time I had ever eaten lamb and I will definitely make again.",
+            "datePublished": "2018-01-18T14:16:01.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alyherzog"
+            },
+            "reviewBody": "This tasted even better than my mother-in-law's Greek Meatballs (which follows a very similar format), and I think the addition of the molasses and cilantro is what did it! Extremely flavorful. Will definitely make again in a heartbeat! Two substitutions: 1) to make the burgers stretch, we added one egg and 3/4 cup bread crumbs. 2) We didn't have feta or pita bread, so we served it on grilled garlic toast (butter both sides of bread, sprinkle with garlic powder, and grill til crisp)--DELICIOUS and highly recommended substitute!",
+            "datePublished": "2010-06-13T18:00:57.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Connell Houle"
+            },
+            "reviewBody": "These burgers were amazing! I made them into mini burgers, using a 1/3c measuring cup to get them a consistent size. I mixed up some cilantro mayo with a little lime juice added for extra flavor, to top the burger. Wow. This recipe is a keeper.",
+            "datePublished": "2012-07-23T17:30:43.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Hoffman"
+            },
+            "reviewBody": "The best. I add a few oatmeal flakes, and grill the burgers on parchment paper. I did not have fresh mint, so subbed in the leaves fromna mint tea bag.",
+            "datePublished": "2025-04-20T20:21:52.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leslie Bennett"
+            },
+            "reviewBody": "These are amazing.",
+            "datePublished": "2020-12-17T22:02:22.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nancy"
+            },
+            "reviewBody": "no changes. you would think you died and gone to heaven...or Morocco.",
+            "datePublished": "2020-09-02T20:42:12.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "foodie"
+            },
+            "reviewBody": "Very flavorful and delicious!",
+            "datePublished": "2020-08-09T22:28:56.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charles"
+            },
+            "reviewBody": "I used 1 tsp of dried mint and 1 tsp of dried oregano since I didn’t have fresh. Great recipe. Will make again",
+            "datePublished": "2019-09-22T19:48:51.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kelly"
+            },
+            "reviewBody": "these burgers were lovely they went down well with the family and I especially liked the kick that came with them",
+            "datePublished": "2019-08-29T17:08:30.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Kleinhandler"
+            },
+            "reviewBody": "Good lamb burgers.",
+            "datePublished": "2019-06-18T15:56:30.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trixieslab"
+            },
+            "reviewBody": "Skipped the bun and served on a salad of arugula and micro greens. Served topped with pickled onions....super!",
+            "datePublished": "2019-03-15T23:15:19.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shari Altman"
+            },
+            "reviewBody": "omg... such an incredibly fantastic flavor combination. made this for the second time and had forgotten how delicious it was.",
+            "datePublished": "2018-10-03T02:09:19.227Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20425/grilled-spicy-lamb-burgers/",
+          "name": "Grilled Spicy Lamb Burgers",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+                  "name": "Burger Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1002/main-dish/burgers/lamb/",
+                  "name": "Lamb"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

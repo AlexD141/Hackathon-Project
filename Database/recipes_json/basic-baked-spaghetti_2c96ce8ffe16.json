@@ -1,0 +1,460 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18440/basic-baked-spaghetti/",
+  "extracted_at": "2026-10-18T02:30:58.198145+00:00",
+  "recipes": [
+    {
+      "name": "Basic Baked Spaghetti",
+      "ingredients_raw": [
+        "0.75 pound lean ground beef",
+        "1 (16 ounce) jar spaghetti sauce",
+        "1 pound spaghetti",
+        "1 cup shredded mild Cheddar cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Cook beef in a large skillet over medium-high heat until crumbly and brown, 8 to 10 minutes. Stir spaghetti sauce into beef. Reduce heat and simmer."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Stir in spaghetti; cook until al dente, 8 to 10 minutes. Drain."
+        },
+        {
+          "id": 4,
+          "text": "Add spaghetti to meat mixture; mix well. Transfer to a 9x13-inch dish. Top with Cheddar cheese."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven until heated through and cheese is bubbly, about 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Basic Baked Spaghetti",
+        "datePublished": "2000-03-17T14:19:39-05:00",
+        "dateModified": "2026-07-29T18:16:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wendy"
+          }
+        ],
+        "description": "This easy baked spaghetti casserole recipe is a delicious version of the classic pasta dinner made with beef, red sauce, and thin spaghetti noodles.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/4jSrL1vdF95Z3KRfSMkYlRlQqa4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18440-basic-baked-spaghetti-VAT-Beauty-4x3-9d7baec59fe34fd2a5cb9dde8a4f3c99.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/aHdWQqWI-ma1DlVvV.mp4",
+          "description": "AR0311",
+          "duration": "PT2M8S",
+          "name": "Basic Baked Spaghetti",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/aHdWQqWI/poster.jpg?width=1280",
+          "uploadDate": "2021-07-09T19:01:37-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Basic Baked Spaghetti",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "632"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "546 kcal",
+          "carbohydrateContent": "67 g",
+          "cholesterolContent": "63 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "487 mg",
+          "sugarContent": "9 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.75 pound lean ground beef",
+          "1 (16 ounce) jar spaghetti sauce",
+          "1 pound spaghetti",
+          "1 cup shredded mild Cheddar cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook beef in a large skillet over medium-high heat until crumbly and brown, 8 to 10 minutes. Stir spaghetti sauce into beef. Reduce heat and simmer."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Stir in spaghetti; cook until al dente, 8 to 10 minutes. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add spaghetti to meat mixture; mix well. Transfer to a 9x13-inch dish. Top with Cheddar cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/4jSrL1vdF95Z3KRfSMkYlRlQqa4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18440-basic-baked-spaghetti-VAT-Beauty-4x3-9d7baec59fe34fd2a5cb9dde8a4f3c99.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until heated through and cheese is bubbly, about 30 minutes."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 9x13-inch dish"
+        ],
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made this for a party and it was a big hit. Everyone raved about it. I used 1lb. box of angel hair spaghetti 2 large cans of spaghetti sauce and cheddar and mozzarella mixed cheese on top. This made a 9x13 pan."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DreamyCup3354"
+            },
+            "reviewBody": "I followed the recipe and wish I hadn’t because there was a lot of flavor missing. Here’s how I would amend the recipe: - During browning of beef, add in chopped onion, minced garlic, and salt &amp; pepper - Before you add in pasta sauce, drain the oil from the meat - The pasta sauce you use will make or break the recipe. Make sure to use a flavorful and robust sauce - Instead of cheddar cheese on top, add mozzarella and a little bit of Parmesan. I’ll make it again using the above adjustments and see how it tastes!",
+            "datePublished": "2024-01-08T14:20:18.566Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Abbey"
+            },
+            "reviewBody": "I substituted Johnsonville Spicy Italian Sausage Links, removed casings and browned instead of ground beef. This added a lot more flavor and no extra work involved! This is a great quick meal and something I know everyone in the family will enjoy. I baked mine in muffin tins to control serving sizes.",
+            "datePublished": "2014-10-05T18:35:39.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "crfty1"
+            },
+            "reviewBody": "Just made this for my picky teenage daughters and they loved it. I used one box of Barilla protein angel hair pasta boiled for 4 minutes, 1 jar of Bold &amp; Spicy Ragu and half a jar of Traditional Ragu. I browned 1 lb of organic ground beef and added pepper, garlic salt and oregano. Mixed the pasta with the ground beef sauce and added some black olives. Then put a layer of that in the pan, sprinkled 2 cups of colby jack cheese, another layer of pasta mix and topped with 2 cups of mozzerella. Covered with foil and cooked for 25 minutes, took foil off and cooked another 5 minute. It really is delicious and easy to clean up after too. I will make this again. Thanks!",
+            "datePublished": "2015-11-24T14:14:06.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UpbeatGouda7070"
+            },
+            "reviewBody": "Instead of hamburger, I use 1 lb of sausage, medium size yellow onion, small can of mushrooms. I cook the sausage and when just about done, I add the onions and mushrooms and finish cooking the sausage. The I put it in a medium size bowl along with my chunky style garden sauce and cover it. I cook my spaghetti for 8 minutes, drain, then put it in my casarole pan and mix everything together, add my cheeses and bake uncovered for 40 minutes.. Wife really likes this, she always goes back for seconds. I can eat on this for 2 days, since my wife \"won't\" eat leftovers.. Sometimes, this is better the second day..",
+            "datePublished": "2023-04-26T15:02:41.113Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "xxx"
+            },
+            "reviewBody": "I make my baked spaghetti with mayo ! It serves as the \"egg\" and fluffs up to a souffle type dish. Also cup of grated parm! Plus all the cheeses you have! But it's the mayo that turns it into MAGIC!",
+            "datePublished": "2024-08-28T18:27:49.186Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rutheggertthomas"
+            },
+            "reviewBody": "Easy and good......I ike to simmer the sauce with the meat for 1/2 hour...First I like to sauté about half a small onion and 3 cloves of garlic chopped fine. Next, add meat and brown it and then add the sauce and let it simmer. 20 -30 minutes..This is great for a make ahead meal..it is even better the next day and freezes well also...use in quesadilla or taco salad too... I have also used ground turkey...and season it well with taco seasoning... A Keeper...",
+            "datePublished": "2026-03-29T19:40:06.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Savannah Marie Taylor"
+            },
+            "reviewBody": "It was okay. I'm not a big fan of spaghetti, because I ate it sometimes three times a week as a kid. I followed the recipe, but I put mozzarella cheese on top instead of cheddar. I also put minced garlic, onion powder, garlic salt, and natures seasoning in the meat. I Also cooked it at 360 for about 20 or so minutes because every oven is different. My fiancée like it though so I guess I did good.",
+            "datePublished": "2016-09-02T00:53:37.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RainbowJewels"
+            },
+            "reviewBody": "Yum! I made this without the ground beef and instead topped with leftover meatballs. Cheddar didn't sound appealling, so I used mozzarella cheese on top. I then flash froze the whole thing, vacuum sealed and placed in the freezer for a delicious, simple meal later.",
+            "datePublished": "2016-08-14T14:29:35.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy Deppen"
+            },
+            "reviewBody": "excellent - used reviewer 2's ideas. sweet Italian sausage and a little onion. one cup of cheddar mixed with the sauce. two cups over top. 16 oz jar of spaghetti sauce with about 1 cup more. also made most ahead and put together with just cooked spaghetti to bake together for 30 minutes.",
+            "datePublished": "2012-04-15T19:48:58.877Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mexum49"
+            },
+            "reviewBody": "I made as directed &amp; added pepperoni &amp; green chilis. Then topped with mozzerella, cheddar &amp; monterey jack cheese. I like lots of spices so I also added garlic salt, italian seasonig, &amp; lemon pepper. Love it! Will make again!",
+            "datePublished": "2024-04-17T18:05:29.905Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen H."
+            },
+            "reviewBody": "First time I've made baked spaghetti at home and followed the recipe exactly. I enjoy it at restaurants but this was a little dry. I would suggest adding more sauce (or only use 1/2 pound beef) and I might also choose cheeses with sharper flavors.",
+            "datePublished": "2026-07-27T17:23:08.387Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mary"
+            },
+            "reviewBody": "Instead of sherred cheese i used veelvea cheese it still turned out wonderful i also added itialian season and minced garlic and chopped onion to my meat i dont use hambuger i use ground turkey because of my lympthaic coltois it still ws delious",
+            "datePublished": "2026-05-28T18:21:34.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DOMINIC"
+            },
+            "reviewBody": "My sister makes this and it’s amazing",
+            "datePublished": "2026-05-05T13:30:24.955Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aden Troyer"
+            },
+            "reviewBody": "I Love this recipe. So easy and good. Didn't change a thing",
+            "datePublished": "2026-04-11T21:38:26.301Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JenUSA07"
+            },
+            "reviewBody": "Didn't like it!",
+            "datePublished": "2026-03-29T15:51:41.674Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheryl Miller Maddox"
+            },
+            "reviewBody": "This was tasty, but next time I will use more sauce and less spaghetti. I cooked a pound of spaghetti but only used about 2/3. It was a nice change of pace to top with cheese and bake it.",
+            "datePublished": "2026-02-20T02:01:29.438Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tiny coffee☕"
+            },
+            "reviewBody": "Didn't do cheddar. 😮‍💨",
+            "datePublished": "2025-11-19T01:29:25.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TidyPrune5477"
+            },
+            "reviewBody": "After stressing about dinner, I searched online. Seeing most with 10-20 ingredients. I just wanted to bake leftover spaghetti. Then saw this! The most concise recipe I've ever read! 😆 I immediately relaxed! Thank you, Wendy!",
+            "datePublished": "2025-10-20T20:44:19.936Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karan"
+            },
+            "reviewBody": "Easy to make and tasted great",
+            "datePublished": "2025-10-01T00:25:41.350Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18440/basic-baked-spaghetti/",
+          "name": "Basic Baked Spaghetti",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

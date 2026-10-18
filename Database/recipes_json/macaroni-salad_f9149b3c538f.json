@@ -1,0 +1,353 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18089/macaroni-salad/",
+  "extracted_at": "2026-10-18T02:29:28.708034+00:00",
+  "recipes": [
+    {
+      "name": "Macaroni Salad",
+      "ingredients_raw": [
+        "5 cups macaroni",
+        "4 tablespoons mayonnaise",
+        "1 egg",
+        "1 teaspoon distilled white vinegar",
+        "1 bunch green onions, finely chopped",
+        "3 hard-cooked eggs, diced",
+        "1 dill pickle, finely chopped"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Add macaroni and cook until al dente; drain."
+        },
+        {
+          "id": 2,
+          "text": "In a mixing bowl, combine mayonnaise, raw egg and vinegar; whisk until smooth. Mix the green onions, hard-cooked eggs, and pickle into a bowl. Stir in cooled macaroni and mix until thoroughly combined."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Macaroni Salad",
+        "datePublished": "2000-05-01T15:20:55-04:00",
+        "dateModified": "2022-07-14T16:20:22-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Freakowd40"
+          }
+        ],
+        "description": "I picked up this recipe from Germany, it is very simple and tasty. For a different taste, omit the gherkins and add 1/4 cup of chopped ham. The basic recipe is also delicious with boiled new potatoes instead of pasta.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/DFfm3NyHiUPEpBDkLKYoLGXX6wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7444666-caba132ea21845eda9df7d57167a51f0.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Macaroni Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.8",
+          "ratingCount": "29"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "549 kcal",
+          "carbohydrateContent": "84 g",
+          "cholesterolContent": "169 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "20 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "474 mg",
+          "sugarContent": "5 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "German"
+        ],
+        "recipeIngredient": [
+          "5 cups macaroni",
+          "4 tablespoons mayonnaise",
+          "1 egg",
+          "1 teaspoon distilled white vinegar",
+          "1 bunch green onions, finely chopped",
+          "3 hard-cooked eggs, diced",
+          "1 dill pickle, finely chopped"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add macaroni and cook until al dente; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a mixing bowl, combine mayonnaise, raw egg and vinegar; whisk until smooth. Mix the green onions, hard-cooked eggs, and pickle into a bowl. Stir in cooled macaroni and mix until thoroughly combined."
+          }
+        ],
+        "recipeYield": [
+          "5",
+          "6 servings"
+        ],
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EJMAGRAS"
+            },
+            "reviewBody": "easy to cook and economical. everyone enjoyed it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roz Simms"
+            },
+            "reviewBody": "Loved it! I also added red onion, red, green and yellow pepper finely chopped, topped it off with smoked paprika!",
+            "datePublished": "2014-04-26T09:10:16.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gabi Dotson"
+            },
+            "reviewBody": "I altered the recipe and added green bell pepper a tablespoon of dried dill weed and some seasoning salt. As the other reviewers stated the salad is a bit dry but I like a drier mac salad versus a creamy one. Tasted and looked great!",
+            "datePublished": "2016-07-17T21:14:02.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sweetie"
+            },
+            "reviewBody": "My mother-n-law is full German and just moved back to the us from Germany. This is just like her recipe. But she DOES NOT add raw egg. I think that was a misunderstading in your recipe.\n\nWhen I make it, I add Cilantro and use miracle whip. And when I want to switch it up I use turkey. It's very good!",
+            "datePublished": "2008-08-15T11:45:13.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BrewCrew"
+            },
+            "reviewBody": "I wonder if the 5 cups of macaroni is a typo, I believe it should read \"5 cups cooked macaroni.\" That is the assumption I used when making this recipe, but still I ended up adding more mayo and some milk on the advice of another reviewer. Also, I used some dill relish in place of the pickle (same thing, right?).",
+            "datePublished": "2009-02-22T11:03:14.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wilemon"
+            },
+            "reviewBody": "I wanted to try this recipe because it was different. We found it to be very bland and dry. After tasting, I added more mayonnaise, garlic salt, celery seed, and a few other spices. After chilling it was dry again from the pasta soaking up the mayonnaise, ended up adding a little milk.",
+            "datePublished": "2004-07-15T05:44:07.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Simone Garcia"
+            },
+            "reviewBody": "Very bland. I did way more mayonnaise than it called for and it's still super dry.",
+            "datePublished": "2022-10-09T21:24:10.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MAGGIE BROUSE"
+            },
+            "reviewBody": "it needs mustard and celery",
+            "datePublished": "2020-10-26T16:14:34.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pooter"
+            },
+            "reviewBody": "Very easy, simple and quick recipe. Keeper for sure.",
+            "datePublished": "2020-09-07T16:27:05.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Justin"
+            },
+            "reviewBody": "Tastes good. Followed the no raw egg thing and we added some cheese.",
+            "datePublished": "2019-08-12T22:55:01.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Savannah Grace Holt"
+            },
+            "reviewBody": "You could not put anything in it and just eat the Mac salad plain (like without the peppers) other then that the recipe was delish! ;) will make it again! A++!!!",
+            "datePublished": "2016-02-24T12:02:13.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mmegan55"
+            },
+            "reviewBody": "Use pasteurized eggs!",
+            "datePublished": "2015-06-30T15:46:30.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Golfing girl"
+            },
+            "reviewBody": "I used 1/2 lb uncooked macaroni it was just perfect. Taste just like my mom's she always made.",
+            "datePublished": "2015-06-22T15:39:00.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ShamrockAngel"
+            },
+            "reviewBody": "Did not like this recipe at all. Very bland. Quick and easy yes, but no taste! I also found it very dry :(",
+            "datePublished": "2014-07-27T11:19:31.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lillian Heffernan Leroux"
+            },
+            "reviewBody": "Easy, fast, and good....",
+            "datePublished": "2014-05-14T13:15:24.490Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18089/macaroni-salad/",
+          "name": "Macaroni Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

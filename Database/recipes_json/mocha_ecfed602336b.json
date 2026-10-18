@@ -1,0 +1,400 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/146970/mocha/",
+  "extracted_at": "2026-10-18T02:01:32.334721+00:00",
+  "recipes": [
+    {
+      "name": "Mocha",
+      "ingredients_raw": [
+        "1.25 cups 2% milk",
+        "2 tablespoons chocolate syrup",
+        "1 (1.5 fluid ounce) jigger brewed espresso",
+        "1 tablespoon sweetened whipped cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Pour milk into a steaming pitcher and heat to 145 degrees F to 165 degrees F (65 to 70 degrees C) using the steaming wand."
+        },
+        {
+          "id": 2,
+          "text": "Measure chocolate syrup into a large coffee mug."
+        },
+        {
+          "id": 3,
+          "text": "Brew espresso, then add to mug. Pour steamed milk into the mug, using a spoon to hold back the foam. Top with whipped cream."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mocha",
+        "datePublished": "2019-07-31T23:10:30-04:00",
+        "dateModified": "2026-04-14T07:43:16-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mackenzie"
+          }
+        ],
+        "description": "This mocha recipe makes a rich chocolate and coffee drink with espresso, melted chocolate, and steamed milk—topped with whipped cream for a café-style treat.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/0KN3-d9s4ZIpSa_29BSNP_Hb1k0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4519280-mocha-Yoly-4x3-1-9ebfee5e5ec14a2d9a15b5c1a9abc5b8.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mocha",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "20"
+        },
+        "cookTime": "PT1M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "266 kcal",
+          "carbohydrateContent": "39 g",
+          "cholesterolContent": "27 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "162 mg",
+          "sugarContent": "33 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT4M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.25 cups 2% milk",
+          "2 tablespoons chocolate syrup",
+          "1 (1.5 fluid ounce) jigger brewed espresso",
+          "1 tablespoon sweetened whipped cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Pour milk into a steaming pitcher and heat to 145 degrees F to 165 degrees F (65 to 70 degrees C) using the steaming wand."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Measure chocolate syrup into a large coffee mug."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Brew espresso, then add to mug. Pour steamed milk into the mug, using a spoon to hold back the foam. Top with whipped cream."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberly"
+            },
+            "reviewBody": "A lot of milk, but if you like it creamy this is a good recipe. I use half as much milk and this is a perfect basic recipe for a mocha latte."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I used a pack of Starbuck's Via Italian Roast coffee. I frothed my milk, added the coffee and chocolate to the milk, and frothed again. Made a delicious frothy mocha latte.",
+            "datePublished": "2017-03-14T11:57:18.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef V"
+            },
+            "reviewBody": "This morning I was in need of something other than my regular black coffee. I don't have a milk steamer.. So I used half 1% and half chocolate milk added 1 oz unsweetened chocolate cut up and microwaved it in 30 sec increments stirring in between. Added my shot of instant espresso at the end. \nThis warmed me up and cut my craving for a coffee shop mocha.",
+            "datePublished": "2016-02-17T09:11:46.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holiday Baker"
+            },
+            "reviewBody": "I made this today to try it out. I have been interested in trying new coffee recipes lately! I halved the recipe and just used a strong brewed 1/2 cup or so of coffee. I realized at some point the best part of the good coffees is the steamed milk anyway in my opinnion. I also used lite chocolate syrup to cut back a little on the sugar. I topped with a little lite whipped cream and a tad of syrup drizzled on. Some cocoa powder dusted on would probably be good to. I made another recipe this week and the milk was warmed in a pot on med-low and then whisked briefly with a hand whisk. It worked just as well without the battery operated whisk if you do not have one. Thanks!",
+            "datePublished": "2011-04-07T15:13:35.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hannele"
+            },
+            "reviewBody": "I really liked this recipe! I did substitute a few things though. I really like my mochas to be creamy, so I substituted the 2% milk for cream. I also mixed cocoa powder with it instead of chocolate syrup, and then added a little sugar. I also added a little vanilla extract and a pinch of salt. (It does sound weird to add salt, and I was a little skeptical at first, but if you only add a little you can't really taste the salt, it just brings out the flavor.) Great recipe!",
+            "datePublished": "2011-10-23T11:35:12.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hope"
+            },
+            "reviewBody": "You can never go wrong with these ingredients! This is a great recipe, but it is pretty heavy on the milk. You may need to play around with the ratios if you like your coffee stronger. My ideal blend is 1 cup of milk with two - 1.5oz shots of strong espresso and 2-3 generous tablespoons of chocolate syrup. If cost isn't an issue, go for a good chocolate sauce rather than a syrup, like Fontana, Torani, or Ghiradelli chocolate sauce.",
+            "datePublished": "2011-10-23T11:56:11.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yoly"
+            },
+            "reviewBody": "I used almond milk in place of regular milk and added a packet of Truvia. A bit too much milk. Next time I will use only 1 cup.",
+            "datePublished": "2017-05-26T18:31:52.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy Lynn"
+            },
+            "reviewBody": "I used 1/2 c each of milk and strong coffee as I didn't have espresso. (I think the recipe as written calls for too much milk.) It tasted fine--pretty much like warm chocolate milk with coffee in it. :) It's great for those times when I'm in the mood for a mocha.",
+            "datePublished": "2016-05-27T02:19:22.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "House of Aqua"
+            },
+            "reviewBody": "This makes a decent mocha. It wasn't overwhelmingly awesome, but pretty tasty. I followed the recipe and I added homemade whipped cream on top. I also dusted the top with cinnamon and nutmeg.",
+            "datePublished": "2011-04-27T17:50:43.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robyn Dieterle"
+            },
+            "reviewBody": "I'm giving this 5 star because it has chocolate and coffee in it. I love anything with chocolate and/or coffee. I haven't tried this particular recipe yet, but I have tried other drinks close to it. I don't have an espresso machine so I will be singing my cold brewed coffee that I made.",
+            "datePublished": "2023-12-21T16:50:54.559Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caden Potters"
+            },
+            "reviewBody": "Add more milk to make it better",
+            "datePublished": "2019-05-01T17:21:43.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SKYEYES"
+            },
+            "reviewBody": "This recipe makes a delicious basic mocha. I have made it twice using 2% milk the first time I made it and whole milk the second, as that was what I had on hand at the time. It was a treat both times. :-)",
+            "datePublished": "2015-04-04T08:04:08.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tim Allen"
+            },
+            "reviewBody": "First off, everyone has different tastes so you know this isn't the perfect cup o joe. it was pretty delectable but used little more cream and heavy dark espresso.",
+            "datePublished": "2015-01-24T10:50:20.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kellieann"
+            },
+            "reviewBody": "This was ok. I think there needs to be more chocolate syrup.",
+            "datePublished": "2012-03-26T11:10:57.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CafeOfBaking"
+            },
+            "reviewBody": "Very delicious!! All though i would warm up the milk right before putting it in so the warmth doesn't get drowned out :)",
+            "datePublished": "2012-01-09T18:43:46.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Schumann"
+            },
+            "reviewBody": "just what I needed on a cold snowy day - definitely did NOT want to have to leave the house for one. Skipped the whip, but loved it.",
+            "datePublished": "2011-02-11T12:48:07.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "youngcow"
+            },
+            "reviewBody": "Yummy! Also good with a splash of mint or peppermint flavor.",
+            "datePublished": "2010-01-26T07:22:38.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eve"
+            },
+            "reviewBody": "Almost as good as the coffee shop that I used to go to 10 years ago...almost",
+            "datePublished": "2008-03-14T16:18:56.677Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/146970/mocha/",
+          "name": "Mocha",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/134/drinks/coffee/",
+                  "name": "Coffee Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

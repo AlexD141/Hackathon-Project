@@ -1,0 +1,477 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12870/ahi-poke-basic/",
+  "extracted_at": "2026-10-18T01:51:01.919439+00:00",
+  "recipes": [
+    {
+      "name": "Ahi Tuna Poke",
+      "ingredients_raw": [
+        "2 pounds fresh tuna steaks, cubed",
+        "1 cup soy sauce",
+        "0.75 cup chopped green onions",
+        "2 tablespoons sesame oil",
+        "2 tablespoons finely chopped macadamia nuts",
+        "1 tablespoon toasted sesame seeds",
+        "1 tablespoon crushed red pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Place tuna in a medium non-reactive bowl. Add soy sauce, green onions, sesame oil, sesame seeds, macadamia nuts, and red pepper flakes; mix well. Cover and refrigerate at least 2 hours before serving."
+        },
+        {
+          "id": 3,
+          "text": "Serve over rice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Ahi Tuna Poke",
+        "datePublished": "1999-11-19T20:14:53-05:00",
+        "dateModified": "2026-01-21T15:54:39-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Josh Chan"
+          }
+        ],
+        "description": "This easy poke recipe is a Hawaiian salad of cubed ahi tuna tossed with soy sauce, sesame oil, and green onions for a dish full of umami flavor.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/K6R7Al6Yjd0clq9EcCYtXkW7_MA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-ahi-tuna-poke-beauty1-4x3-dea05e5e824b4b1987f78202887da37a.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/yIfGGego-K3AjnAEN.mp4",
+          "description": "In this video, learn how to make authentic poke, a refreshing Hawaiian seafood salad of cubed ahi tuna steak covered with soy sauce, sesame oil, and green onions. Simply mix all the ingredients in a bowl, and marinate in the fridge for about two hours. This dish makes a fantastic healthy protein packed snack, and it’s filling enough to serve as a light meal when served in a poke bowl with other ingredients — like rice, vegetables, and hot sauce.",
+          "duration": "PT45S",
+          "name": "How to Make Ahi Poke",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yIfGGego/thumbnails/Os6a1OG3.jpg?width=1280",
+          "uploadDate": "2023-12-14T11:36:01-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Ahi Tuna Poke",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "195"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "396 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "102 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "58 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "3696 mg",
+          "sugarContent": "2 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Hawaiian"
+        ],
+        "recipeIngredient": [
+          "2 pounds fresh tuna steaks, cubed",
+          "1 cup soy sauce",
+          "0.75 cup chopped green onions",
+          "2 tablespoons sesame oil",
+          "2 tablespoons finely chopped macadamia nuts",
+          "1 tablespoon toasted sesame seeds",
+          "1 tablespoon crushed red pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cJdcsPT15w0l3ieFN5ySmgq3eGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-AhiPokeBasicRecipe-mfs-Step-1-4x3-2e6d7ecab450414789de0a48ab82e426.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/2o9l8rqwLIvucOyjrPG-jN7LYHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-AhiPokeBasicRecipe-mfs-Step-3-4x3-a1787468867a4bbf84711e7d74de792e.jpg"
+              }
+            ],
+            "text": "Place tuna in a medium non-reactive bowl. Add soy sauce, green onions, sesame oil, sesame seeds, macadamia nuts, and red pepper flakes; mix well. Cover and refrigerate at least 2 hours before serving."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/K6R7Al6Yjd0clq9EcCYtXkW7_MA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-ahi-tuna-poke-beauty1-4x3-dea05e5e824b4b1987f78202887da37a.jpg"
+              }
+            ],
+            "text": "Serve over rice."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 main course servings"
+        ],
+        "totalTime": "PT130M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TRUCKERDOO"
+            },
+            "reviewBody": "FANTASTIC. I would recommend halving the amount of soy, so you can enjoy the delicate flavor of the tuna. I used 1/4 cup of soy/teriyaki sauce (for 1 pound of tuna) and it was the perfect amount. I too omitted the nuts and instead of red pepper I dusted a little wasabi powder over the top. I served with sticky rice, a cucumber salad, and sake, and my boyfriend and I enjoyed a wonderful little Japanese dinner at home. Thank you for the recipe!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CozyDate6895"
+            },
+            "reviewBody": "Awesome starting point, delicious! Take it from this kama'aina, there are as many poke recipes in da islands as there are fish in the sea. Yes, select ingredients and quantities that enable you to taste the fish, but don't let the \"traditionalists\" comments sway your style. If you like macadamia nuts, throw them in there, maybe toast them first like I do. If you don't like seaweed or ginger is too overpowering, then omit them. Shallots in lieu of Maui onions? Absolutely. Lastly, my serving style is to use an old Campbell's soup can as a mold, feeling the bottom third of it with sticky rice, then poke for the middle third, topped with chunks of avocado and sprinkled with fried wonton noodles. Have fun and try a different style next time because if it means you get to eat more poke then you're a winner either way!",
+            "datePublished": "2022-05-23T00:04:58.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "moonjewlz"
+            },
+            "reviewBody": "This is how my late aunt used to make it. It's delicious. I made poke nachos by frying halved wonton wrappers and topped them with edamame guacamole, the poke, and the mac nuts on top instead of in the mixture. Delicious!",
+            "datePublished": "2018-01-06T18:23:04.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lola P"
+            },
+            "reviewBody": "I do not use american soy EVER so I replaced it with Ponzu sauce, and macadamia nuts should not be in Poke... I used a 1/2 cup of Avocado (for 1 lb Tuna) and added 1/2 tsp. minced garlic, I also used Smoked Sesame Oil (light flavor but needed) and sesame seeds. This turned out Perfect",
+            "datePublished": "2020-02-20T22:43:12.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vickio"
+            },
+            "reviewBody": "Great! Used a pound of tuna so halved the recipe and omitted the nuts. Served on spring greens with edamame, cucumber, carrots, corn, mango and nori … and topped with a drizzle of Japanese mayo. So healthy.",
+            "datePublished": "2024-03-23T18:30:48.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NYC in ATL"
+            },
+            "reviewBody": "It was awesome! We get this dish as a shared appetizer at our local 5-star sushi joint and i decided to give it a try at home. I improvised from this recipe to try and match the way they make it at the restaurant. Made a much smaller amount because I was testing it out. Used 1 piece of sashimi tuna about 6\" round by 1\" thick. What I did different: Skipped the macadamia nuts. Eyeballed the soy sauce / sesame oil ratios (again – i made a smaller amount) I added some red pepper flakes that I ran through spice grinder for more powdery consistency Also add avocado to your shopping list. It’s about 1/2 avocado per serving. NOTE: DO NOT put avocado in marinate because it will break down and turn to mush. Wait until you're ready to plate to add avocado. Cut into similar sized chunks as the tuna. Next time – I’m going to try to find the orange roe and add a spoonful to the marinade. Came out VERY VERY close to the restaurant in flavor and consistency. We loved it! Absolutely will be making it again.",
+            "datePublished": "2010-10-18T08:18:32.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa"
+            },
+            "reviewBody": "I have made his several times but without the macadamia nuts. I used them this time to add crunch, definitely not necessary. Make sure you toast the sesame seeds they make a nice pop. Low sodium soy sauce and I add 1/2 lime juiced and some grated ginger. I always add some finely diced jalapeños for some heat. Will serve this over sticky rice and/or Romain lettuce. I get my tuna fresh from the NC coast. Yum!",
+            "datePublished": "2020-09-16T20:38:11.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katherine"
+            },
+            "reviewBody": "I made about half this amount. I used 1/2cup of soy sauce but kept the same amount of sesame oil. It was still delicious. I tasted the recipe after mixing everything together and it still needed some oomph. I added 1/3 cup thinly sliced yellow onions, tablespoon of minced garlic, a teaspoon of lemon juice, and some togarashi ( a blend of sesame seeds, Asian spices). This really kicked it up a notch. I used these ingredients based on other comments. It was well worth it. Skipped the nuts because I never had poke with nuts before.....The recipe is good as a base and you can add in from there. By the way, after sitting for a couple hours, the ahi wasn't bright pink because it soaked up the soy sauce. Not as pretty but pretty tasty!!",
+            "datePublished": "2017-05-26T08:16:45.387Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard Macabio"
+            },
+            "reviewBody": "First the Soy Sauce it was too much (Kikkoman) I would start with 1/4 cup per pound. My poke came out too salty and lots of soy sauce in the bowl. 2nd. You need about 1 tsp. of grated ginger (not stringy). and 3rd. Some finely chopped sweet onions or yellow onions, about 1/4 cup per pound of tuna.",
+            "datePublished": "2018-09-11T05:25:56.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "T K"
+            },
+            "reviewBody": "Great recipe....very easy and quick! I would reduce the soy sauce (maybe by half) because it was very salty with the recommended portion. You can always add more soy sauce back to taste.",
+            "datePublished": "2020-10-05T23:15:40.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jimin's Crooked Right Tooth"
+            },
+            "reviewBody": "I added some extra stuff, a tiny bit of sriracha, and a little bbq sauce. I boiled the actual marinade over the stove for about 10 minutes, and took it off and immediately put it in a bowl, that had the tuna in it. I accidentally cooked the outside of the tuna but it made it extra soft and I loved it. Instead of waiting 2 hours I waited 30 minutes and it was SO flavorful! I would definitely reccomend this recipe, absolutely delicious.",
+            "datePublished": "2018-10-14T22:18:11.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katy McQuade"
+            },
+            "reviewBody": "Loved it, as is. I made an unforced error of serving with salty corn chips - it's already salty with the soy, so next time I'll serve with blander pita chips or rice depending on the occasion.",
+            "datePublished": "2026-08-22T03:30:43.181Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rich"
+            },
+            "reviewBody": "Good but cut back on the soy sauce. 1 cup is Way too much",
+            "datePublished": "2026-07-30T01:29:43.078Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rick Kosolofski"
+            },
+            "reviewBody": "I like to add diced pineapple, avacado and jalapeno instead of chili pepper flakes. A pinch of sugar and some rice wine vinegar.",
+            "datePublished": "2026-01-30T22:58:03.749Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "The Backup Chef"
+            },
+            "reviewBody": "Great recipe! I’d you are using aloha soy sauce go for the full amount. Back off 25 to 30 percent if you are using regular soy sauce. Did not use nuts as I did not have any and didn’t want to sub for something like pine nuts. I had ogo seaweed and I am glad I used it. I also like the tuna diced finely - a bit more than a quarter inch but not by much. I did not change anything else.",
+            "datePublished": "2025-09-14T03:02:32.055Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leslie"
+            },
+            "reviewBody": "I added in wasabi powder raw sesame seeds roasted seasame oil low salt soy sauce and added peanut butter powder to really coat the tuna. My local supermarket had a deal on tuna previously frozen so I have been hovering it up. The result is slightly Thai inspired with the peanut powder so no liquid is left and the tuna is well coated! Devine😋",
+            "datePublished": "2025-08-28T18:09:56.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DLE13"
+            },
+            "reviewBody": "Decent start but waaayyy too salty and unbalanced! Glad I tasted it before I ruined our beautiful fresh caught tuna gifted from our neighbors! Added some sugar and honey as well as rice wine vinegar for balance and dimension. Thankfully read the reviews and will hold off marinating until rice is cooked and we’re closer to ready to eat.",
+            "datePublished": "2025-06-21T23:06:16.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fricassee Friend"
+            },
+            "reviewBody": "I agree with all the others -- this is far too salty. I didn't use the nuts because it's so completely non-traditional. This recipe as is should NOT be left to marinate anywhere near two hours. My beautifyl fresh pink/red tuna was nearly black from the soy absorption. I'll look for a recipe that includes rice wine and honey or sugar for better balance, as well.",
+            "datePublished": "2024-12-26T22:44:30.952Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bitsay"
+            },
+            "reviewBody": "I had to reduce soy sauce and instead of macadamia nuts I added different type. It was served over Italian rice and it was perfect. Next time I’ll tweak it more to my taste. It’s a perfect basic recipe to recall original poke tuna that I ate during holiday on Molokai.",
+            "datePublished": "2024-10-11T23:28:51.016Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ialisma"
+            },
+            "reviewBody": "Easy to follow",
+            "datePublished": "2024-08-14T01:57:01.669Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12870/ahi-poke-basic/",
+          "name": "Ahi Tuna Poke",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13290/main-dish/seafood/",
+                  "name": "Seafood Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13298/main-dish/seafood/tuna/",
+                  "name": "Tuna"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

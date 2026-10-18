@@ -1,0 +1,520 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13199/wonton-soup/",
+  "extracted_at": "2026-10-18T01:52:39.716842+00:00",
+  "recipes": [
+    {
+      "name": "Wonton Soup",
+      "ingredients_raw": [
+        "0.5 pound boneless pork loin, coarsely chopped",
+        "2 ounces peeled shrimp, finely chopped",
+        "1 tablespoon Chinese rice wine",
+        "1 tablespoon light soy sauce",
+        "1 teaspoon brown sugar",
+        "1 teaspoon finely chopped green onions",
+        "1 teaspoon chopped fresh ginger root",
+        "24 (3.5 inch square) wonton wrappers",
+        "3 cups chicken stock",
+        "2 tablespoons finely chopped green onions"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "To make the wontons: Mix pork, shrimp, rice wine, soy sauce, brown sugar, green onions, and ginger together in a large bowl until well combined. Let stand for 25 to 30 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Spoon about 1 teaspoon filling onto the center of a wonton wrapper. Moisten all four wrapper edges with water and fold over filling to make a triangle; press the edges firmly to seal."
+        },
+        {
+          "id": 4,
+          "text": "Bring left and right corners together above filling; overlap the tips of these corners, moisten with water, and press together to seal. Repeat until all wrappers have been filled and sealed."
+        },
+        {
+          "id": 5,
+          "text": "To make the soup: Bring chicken stock to a rolling boil in a pot. Gently drop in wontons and cook for 5 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Ladle into bowls and garnish with green onions."
+        },
+        {
+          "id": 7,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Wonton Soup",
+        "datePublished": "1999-03-18T14:06:03-05:00",
+        "dateModified": "2025-11-30T15:45:30-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "MARBALET"
+          }
+        ],
+        "description": "This wonton soup features homemade Chinese dumplings filled with perfectly seasoned juicy pork and shrimp in a hearty broth with chopped scallions.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/oiO3k3uir05bhdLXCDh9lnEob8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-4x3-31bd1ef2795144ee93fed67a1cf3743d.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/Nq8rF9IA-ma1DlVvV.mp4",
+          "description": "AR0974",
+          "duration": "PT4M8S",
+          "name": "Wonton Soup",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Nq8rF9IA/thumbnails/u4MTIN1a.jpg?width=1280",
+          "uploadDate": "2021-07-01T12:13:20-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Wonton Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "389"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "195 kcal",
+          "carbohydrateContent": "21 g",
+          "cholesterolContent": "44 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "887 mg",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Chinese"
+        ],
+        "recipeIngredient": [
+          "0.5 pound boneless pork loin, coarsely chopped",
+          "2 ounces peeled shrimp, finely chopped",
+          "1 tablespoon Chinese rice wine",
+          "1 tablespoon light soy sauce",
+          "1 teaspoon brown sugar",
+          "1 teaspoon finely chopped green onions",
+          "1 teaspoon chopped fresh ginger root",
+          "24 (3.5 inch square) wonton wrappers",
+          "3 cups chicken stock",
+          "2 tablespoons finely chopped green onions"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/W_BklmpuMGX-tkR0z9mvmurV7lY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-step-01-50a4879bf090450499f3ff73b938bc78.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mXF0_V9g89giXBrmbRAGE2XEubM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-step-02-d15c4cc8b0994bc5ae72550f15bad06f.jpg"
+              }
+            ],
+            "text": "To make the wontons: Mix pork, shrimp, rice wine, soy sauce, brown sugar, green onions, and ginger together in a large bowl until well combined. Let stand for 25 to 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/AMVlQyY3sNGeOJyejouPMqQj-y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-step-03-9e1f07c59c964ccea811022baea67796.jpg"
+              }
+            ],
+            "text": "Spoon about 1 teaspoon filling onto the center of a wonton wrapper. Moisten all four wrapper edges with water and fold over filling to make a triangle; press the edges firmly to seal."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/IFFK4qlsWEdvtyJjHfALPgUi6FQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-step-04-cde0ea3cc076421a9931d984ba21aeab.jpg"
+              }
+            ],
+            "text": "Bring left and right corners together above filling; overlap the tips of these corners, moisten with water, and press together to seal. Repeat until all wrappers have been filled and sealed."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-ltovunH-GjNm4j44FGiHzERzjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-step-05-187bc815a6064b9d961827050f57d361.jpg"
+              }
+            ],
+            "text": "To make the soup: Bring chicken stock to a rolling boil in a pot. Gently drop in wontons and cook for 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Sh9xwbK6j087H0ALABnohViKO94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-step-06-2706dc5ce15f43e5a27bfe312cf90831.jpg"
+              }
+            ],
+            "text": "Ladle into bowls and garnish with green onions."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oiO3k3uir05bhdLXCDh9lnEob8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13199-wonton-soup-VAT-4x3-31bd1ef2795144ee93fed67a1cf3743d.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KAITCH"
+            },
+            "reviewBody": "I added 1 Tbsp soy sauce, 1/2 tsp. sesame oil and 1/2 tsp fresh grated ginger to the plain chicken stock and YUM! It adds so much depth to the flavour of this soup. Also, I boiled the wontons in water for approx. 5 min before adding them to the soup; it helps to ensure your filling is cooked thoroughly and keeps your broth clear when you add them to the soup later."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sin"
+            },
+            "reviewBody": "it's a good starting point. but there were important things i felt you left out. you shouldn't moisten the edges with water.. instead, mix in one egg per pound of meat you use in your stuffing prior to stuffing the wontons. it helps to keep everything together",
+            "datePublished": "2006-07-13T13:13:03.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chefjames"
+            },
+            "reviewBody": "This was my first attempt at wonton making, so I really didn’t know what to expect, but the recipe seemed straight forward and simple. I opted to use ground pork instead of chopped, along with the shrimp and other ingredients listed, (only had rice wine vinegar on hand—worked fine), and added some chopped water chestnuts for texture. Don’t be afraid to add the brown sugar—it didn’t make the wontons sweet, but rather complemented the other ingredients. I added one egg to bind everything together as suggested by another commenter, as well as using one tablespoon of flour and water to create a paste to seal the wontons. It worked wonderfully and not a single wonton opened. I would highly recommend boiling the wontons in water for 5 minutes rather than in the broth to prevent the broth from becoming cloudy. Also, I used 5 cups of broth for the soup and simmered one tablespoon of finely chopped scallions in it for about ten minuets which added great flavor to the broth. Portion the broth into bowls, add three or four cooked wontons, and serve! My wife loved it. I will make this again!",
+            "datePublished": "2018-01-15T04:00:49.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cj Hetle"
+            },
+            "reviewBody": "This is a very good recipe. I made it the first time as directed but the pre-made broth was a big turnoff. The 2nd time I made it with homemade chicken stock and to that I added 1 cube of low-sodium chicken base, this is something they always use in chinese restaurants, so if you want that little chinese restaurant flavor, add the chicken base or bouillon cube. I also put in a few slivers of sliced chinese bbq pork sooooo good!",
+            "datePublished": "2018-09-13T17:30:21.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marla Osborne Grosko"
+            },
+            "reviewBody": "yum needed more soy. I went for a vegetable soup rather than just wontons. Sugar snaps, green onions, mushrooms, chopped red and yellow bell pepper and sliced nappa cabbage. Added the wontons after vegetables were tender and cooked for an additional 10 minutes over medium/low heat. Delicious!",
+            "datePublished": "2018-12-30T01:25:05.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Very good. I cooked the wontons in water for about 4 minutes before transferring to the broth as other recommended. I also added 1 tbsp soy sauce and 1/2 tsp toasted sesame oil to the broth.",
+            "datePublished": "2019-03-06T14:00:33.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MAGICDOMINO"
+            },
+            "reviewBody": "Loved this soup -- and I can have as many wontons as I want. :-) It does make a lot more than 24 wontons -- I used up a whole 12 oz package of wrappers.\n\nI used my Kitchenaid mixer's meat grinding attachment to grind up the pork and shrimp (and the onion, but that kind of liquified). I also simmered white pepper, a couple tablespoons of dry sherry and sliced fresh ginger (removed later) in the chicken broth to give it more of an Asian flavor.",
+            "datePublished": "2007-02-20T07:27:57.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wendy R. Hill"
+            },
+            "reviewBody": "I give this recipe 4 stars as it is written; however, after following some of the suggestions of the reviewers, I would give this recipe more than 5 stars if I could! As per the reviews, we added soy sauce, grated fresh ginger, and just a drop of sesame oil to further flavor the broth. Per the reviews, we also boiled the wontons first and then added them to the broth to avoid murkiness. Now that we have made this often, we have tried other ground meats - such as ground turkey or ground chicken and have often omitted the shrimp if we do not have any on hand. We cannot honestly state that we notice a large taste difference without the shrimp. \n\nThis recipe is amazing and just so versatile! We freeze a big bag of these and either use them in broth, sear them in a pan and then finish off steaming them in the same pan to enjoy the wontons as pot stickers (sear on high for one minute - flipping wontons over to brown each side and then add enough water to just cover the bottom of the pan, cover, and reduce heat for 6-7 minutes), or we encourage our teenager to just make her own broth (usually hot water and a Ramen seasoning packet) and just drop a few frozen wontons in as her own meal. Don't let making homemade wontons intimidate you; we conquered this recipe the first time and just watched a simple video on YouTube for folding techniques. Love love love that my family can now make and customize these and freeze them to use them so many different ways. Yum!!",
+            "datePublished": "2015-03-15T13:27:17.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RachelW"
+            },
+            "reviewBody": "Awesome! It was a bit time consuming, however, it was well worth the effort. I used ground veal instead of pork loin, it was what I had. I didn't have rice wine, but I think it turned out alright. In my soup stock, I used almost 5 cups of broth, 3 was simply not enough. I skipped the sugar, I am not big into sweet wontons. I ended up with way more than 24, I made 56. Next time I make it, and I will, I think I will use twice as much shrimp and half the pork (veal) as the flavour was more meaty than shrimpy, which I think I might prefer. I cooked them in boiling water first, which I would recommend. None of my wontons opened during cooking, but I watched a video on youtube to make sure I folded them well, and my wontons were floured, which helped when sealing them. I simmered a whole green onion, some whole cloves of garlic, and some coins of ginger in the broth and removed them prior to adding my wontons. As well, I added shitake mushrooms, which I soaked first, and added the strained water to the broth for flavor. I also threw in some bamboo shoots, which I sliced thinly, some soy sauce, and some bok choy. My boyfriend loved it, and we both had several servings. Even better, I have 4 freezer bags of 10 wontons each waiting for the next time we're in the mood and want something tasty and quick. (I really appreciated the advice of freezing them on a baking sheet, now they're not clumped together!)",
+            "datePublished": "2010-01-18T18:22:48.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cm28"
+            },
+            "reviewBody": "Okay I eat/make A LOT of wonton soup and this is a very, very good base recipe. Let me make some suggestions that will hopefully help someone: 1. add some breadcrumbs (not too many) to mixture and an egg; this will cause the filling to stay together and gives it sealed in flavor. 2. do not use just water to seal the wonton wrapper. Use 1tbs flour and 1tbs water (mix together to form paste) to close wonton wrapper and fold into dumpling shape. Also I suggest definitely boiling the dumplings in water for 4-6 minutes before putting them into boiling broth. I add 1-2 tsp of soy sauce into my broth (this depends on taste). Hope this helps! Love this recipe!!",
+            "datePublished": "2012-04-12T11:01:51.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Talena"
+            },
+            "reviewBody": "I made this recipe as directed and was very happy with the results! I've never attempted wontons before, but this soup tasted like the soup we order at our local Chinese restaurant. I couldn't find wonton wrappers, so I cut eggroll wraps in quarters and that worked perfectly. The recipe yielded way more than 24 wontons so I froze the rest to use later.\n\nUpdate- I put the frozen wontons in boiling water for a few minutes before adding them to chicken broth flavored with sesame seed oil, soy sauce, and fresh ginger. They turned out perfect!",
+            "datePublished": "2016-01-03T17:26:21.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sha R"
+            },
+            "reviewBody": "Notes: Add sesame oil, oyster sauce, fresh garlic, Thai red chili flakes, occasionally fresh thinly sliced carrot, and use an egg in the premix. A bit of cilantro goes a long way for freshness. Broth could use some freshly grilled/seared bok choy. I agree, cook the wontons for 5 minutes BEFORE in a separate pot before adding to the soup.",
+            "datePublished": "2026-09-04T20:31:12.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jacqui"
+            },
+            "reviewBody": "Over all it’s a solid recipe and I love how the wontons taste, as well as their texture. I usually keep batches of potstickers on hand that I’ve made ahead, frozen, and vacuum packed for later, so I often cheat and use some of those in this soup instead of the wontons. It works great! Haven’t tried making large batches of your wontons to freeze ahead but will update when I do. I do add some sesame oil to the wonton recipe and, instead of boiling in the broth, I simmer them gently in water ahead of time to help the broth remain clear. When it’s time to serve I’ll place a few wontons in the bowl with green onion, several drops of sesame oil, thinly slivered pork and a few bits of scrambled egg chiffonade before adding the broth over all.",
+            "datePublished": "2025-12-07T21:34:24.976Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Midolo"
+            },
+            "reviewBody": "Easy",
+            "datePublished": "2025-09-20T22:58:09.294Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "luv2cook"
+            },
+            "reviewBody": "I like to add a little oyster sauce and a chopped rehydrated shiitake mushroom to the pork mixture. A sprinkle of white pepper &amp; sesame oil brings out the flavor.",
+            "datePublished": "2025-05-18T19:43:13.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyCow1858"
+            },
+            "reviewBody": "This was surprisingly easy, especially once I'd gotten the hang of how to fold the wontons (it was my first time making them in this shape). I think the key to this dish is definitely to get a flavorful stock and then you can doctor it up with even more seasonings if you wish. Will be making this again!",
+            "datePublished": "2025-01-29T16:42:34.334Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CalmDate5728"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-29T10:06:20.316Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cyndee"
+            },
+            "reviewBody": "Delicious. I even cheated and made this with premade frozen wontons and it was delicious. 🍲",
+            "datePublished": "2024-12-20T13:29:50.588Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef Cosmo"
+            },
+            "reviewBody": "Your light on the soup ingredients. Just broth? At least throw in some ginger root and garlic.",
+            "datePublished": "2024-01-14T03:07:18.931Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UniqueStew2478"
+            },
+            "reviewBody": "It it really good but it could use a little bit more flavor, but anyone could add that lol",
+            "datePublished": "2023-01-20T20:31:23.691Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13199/wonton-soup/",
+          "name": "Wonton Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

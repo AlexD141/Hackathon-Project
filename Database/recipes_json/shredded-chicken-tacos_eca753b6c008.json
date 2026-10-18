@@ -1,0 +1,445 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/215224/shredded-chicken-tacos/",
+  "extracted_at": "2026-10-18T02:55:33.136989+00:00",
+  "recipes": [
+    {
+      "name": "Goya Shredded Chicken Tacos",
+      "ingredients_raw": [
+        "2 (8 ounce) cans Goya Tomato Sauce",
+        "2 teaspoons Goya White Distilled Vinegar",
+        "2 teaspoons Goya Minced Garlic",
+        "3.5 teaspoons ancho chile powder",
+        "1 teaspoon Goya Ground Cumin",
+        "2 teaspoons Goya Oregano Leaf",
+        "0.5 teaspoon sugar",
+        "2 tablespoons Goya Extra Virgin Olive Oil",
+        "2 pounds bone-in, skin-on chicken breasts",
+        "1 pinch Goya Adobo with Pepper, to taste",
+        "1 (10 ounce) package Goya Corn Tortillas, warmed",
+        "0.25 cup finely chopped white onion",
+        "1 lime, cut into wedges",
+        "2 tablespoons coarsely chopped fresh cilantro",
+        "1 dash Goya Hot Sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In medium bowl, mix together tomato sauce, vinegar, garlic, chili powder, cumin, oregano, and sugar. Season with Adobo; set aside."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in large skillet over medium-high heat. Season chicken with Adobo. Cook chicken, turning once, until light golden brown on both sides, about 5 minutes. Add reserved tomato sauce mixture to pan; bring to a boil (be careful, the tomato sauce can splatter). Lower heat to medium low. Simmer, covered, until cooked through (thermometer will register 170 degrees F when inserted into thickest part of breast), flipping once, about 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Transfer chicken to cutting board; reserve sauce in pan. Remove and discard bones and skin. Using two forks, shred chicken breast. Transfer chicken to skillet with sauce, mixing to combine; continue to cook until sauce reduces and blends into chicken, and mixture begins to caramelize, about 10 minutes more."
+        },
+        {
+          "id": 4,
+          "text": "Transfer chicken mixture to serving bowl. Spoon into warmed corn tortillas. Garnish with lettuce, tomatoes, avocados and/or onions, if desired. Sprinkle with hot sauce, if desired."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Goya Shredded Chicken Tacos",
+        "datePublished": "2010-07-20T18:02:14-04:00",
+        "dateModified": "2023-03-22T08:55:53-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Goya"
+          }
+        ],
+        "description": "Bone and skin are left on the chicken breasts so they&#39;re extra flavorful as they simmer in tomato sauce and a blend of savory seasonings.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Zss_PIDnNX0Lw-B8xYLPCKr0VUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/985319-92e1c383a87f48259078b70789f9add3.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Goya Shredded Chicken Tacos",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "324"
+        },
+        "cookTime": "PT40M",
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "2 (8 ounce) cans Goya Tomato Sauce",
+          "2 teaspoons Goya White Distilled Vinegar",
+          "2 teaspoons Goya Minced Garlic",
+          "3.5 teaspoons ancho chile powder",
+          "1 teaspoon Goya Ground Cumin",
+          "2 teaspoons Goya Oregano Leaf",
+          "0.5 teaspoon sugar",
+          "2 tablespoons Goya Extra Virgin Olive Oil",
+          "2 pounds bone-in, skin-on chicken breasts",
+          "1 pinch Goya Adobo with Pepper, to taste",
+          "1 (10 ounce) package Goya Corn Tortillas, warmed",
+          "0.25 cup finely chopped white onion",
+          "1 lime, cut into wedges",
+          "2 tablespoons coarsely chopped fresh cilantro",
+          "1 dash Goya Hot Sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In medium bowl, mix together tomato sauce, vinegar, garlic, chili powder, cumin, oregano, and sugar. Season with Adobo; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in large skillet over medium-high heat. Season chicken with Adobo. Cook chicken, turning once, until light golden brown on both sides, about 5 minutes. Add reserved tomato sauce mixture to pan; bring to a boil (be careful, the tomato sauce can splatter). Lower heat to medium low. Simmer, covered, until cooked through (thermometer will register 170 degrees F when inserted into thickest part of breast), flipping once, about 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer chicken to cutting board; reserve sauce in pan. Remove and discard bones and skin. Using two forks, shred chicken breast. Transfer chicken to skillet with sauce, mixing to combine; continue to cook until sauce reduces and blends into chicken, and mixture begins to caramelize, about 10 minutes more."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer chicken mixture to serving bowl. Spoon into warmed corn tortillas. Garnish with lettuce, tomatoes, avocados and/or onions, if desired. Sprinkle with hot sauce, if desired."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kori Lavertue"
+            },
+            "reviewBody": "These had to be the BEST chicken tacos I've ever had. The only thing I did different was to use boneless breasts, because it's what I had on hand. The flavor blend in these were spot on, with just the perfect little kick. My family absolutely loved them. I will never make another chicken taco recipe again!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Thompson"
+            },
+            "reviewBody": "I’ve made this a number of times and it is delicious! I used 5 bone-in, skin-on chicken thighs since they have more flavor than breasts and 1.5x the sauce. Though I’ll have to confess, when the directions said Goya adobe with pepper I thought that meant chipotle peppers in a adobe sauce haha I just realized today that they meant the seasoning. But honestly, I don’t think I’ll try the seasoning because the chipotle’s in adobe sauce was SO FLAVORFUL! I chop up the peppers and add it and it’s sauce for some extra heat. This most recent time, I used a slow cooker. I seared the chicken for a few minutes and then put it in the crock pot with the tomato and adobe sauce mixture (I use the whole can of adobe sauce and peppers because we like the heat). I mixed it all up and then set it on high for 3 hours. (I started late in the day or I would have cooked it on low for longer.) After 3 hours, I shredded the chicken and then added it back in the crock pot and mixed it all together. Just taking it out of the crock pot I could already tell how much more tender the chicken was compared to doing this in a pan on the stove. Turned the crock pot to low until I was ready to eat. Other than using the chipotle’s in adobe sauce everything else was the same! Oh, I always add double the garlic with all recipes, because why not? I served with Romain lettuce as the “taco shell” and chopped onions, cilantro, and lime. Bon Appetite!",
+            "datePublished": "2022-08-11T23:58:49.909Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicki Dawson"
+            },
+            "reviewBody": "I used boneless skinless chicken breasts. I just put all of ingredients in a crockpot and cooked for six hours. It was delicious!",
+            "datePublished": "2018-01-13T02:01:18.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "the4taals"
+            },
+            "reviewBody": "We really enjoyed these tacos. I live in Canada and can't get Goya products, I just used the ingredients listed except for the adobo. I made it in the crockpot, I chopped 1/2 an onion and put that on the bottom, I removed the chicken skin then place the chicken on the onion, mixed the sauce ingredients together then poured over the chicken. I cooked on low for 6 hours, removed the chicken, deboned the chicken, strained the sauce then added the chicken back in. Didn't find it as spicy as we liked so I added some red pepper flakes and a squirt of lime juice.",
+            "datePublished": "2013-08-13T16:51:26.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cles92"
+            },
+            "reviewBody": "These were the most juicy, flavor-filled chicken tacos I have ever tasted. Definitely restaraunt quality. I stuck to the ingredients, minus the adobe and I used boneless skinless chicken breast. I also chopped half an onion, and one green bell pepper and added that to the mix. Rather than follow the cooking instructions, I browned my chicken in my pressure cooker for about 5 minutes, threw in the rest of the ingredients, and cooked for 15 minutes. Shredded it, served it, and I had a happy family. Great recipe!!",
+            "datePublished": "2015-09-26T04:37:23.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BarbT"
+            },
+            "reviewBody": "Will never make chicken tacos any other way. We had a leftover uncooked chicken breast from cooking a cut up whole chicken. It was huge, so we cut it in half. This recipe makes the most delicious taco filling. I learned something new - caramelizing the sauce after adding in the chicken. I think it makes a wonderful difference in the amount of flavor. I didn’t have the exact chili powder you listed, but it was easy to play around with the chili powder, chipotle seasoning and Aleppo pepper I had to mimic your flavors. I think I will always work with what I have on hand to vary the flavor. But, this is really good.",
+            "datePublished": "2022-01-25T23:28:54.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "miggy"
+            },
+            "reviewBody": "I made this tonight, all I did different to cut time is a bought a roasted chicken from Costco , shredded it heated it up in olive oil them mixed my sauce, amazing taste, family loved them",
+            "datePublished": "2020-01-29T02:27:50.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charles R Miller III"
+            },
+            "reviewBody": "I turned the recipe into burritos! Just switched the lettuce and tomato for Spanish rice and black beans. Added cheese. Toasted the burrito just like Taco Bell except I just used a frying pan! The kids loved them!",
+            "datePublished": "2017-02-07T22:27:17.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Megan Watts"
+            },
+            "reviewBody": "We adapted this for the slow cooker and would highly recommend! We used four boneless, skinless chicken breasts. Added all ingredients to a bowl to create a sauce and tossed the sauce and chicken in the slow cooker on low for about 6-7 hrs. We did not use the lime or cilantro and used chipotle chili powder because I couldn’t find ancho chili powder. So good!",
+            "datePublished": "2018-09-04T00:37:57.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fatimah Mohamed"
+            },
+            "reviewBody": "Wow! This was great! In terms of spices i didn't change a thing except I didn't have ancho chili powder so I used regular and I cut that back because the crowd I was cooking it for doesn't like things spicy. I also cooked boneless breasts in the slow cooker and couldnt believe how juicey it was. Everyone raved about the flavors. Definitely will make this again.",
+            "datePublished": "2016-01-18T14:32:29.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LITTLEAMAZON"
+            },
+            "reviewBody": "Just amazing! I used a small crockpot and halved the recipe using four boneless chicken breasts and the only ingredient I used differently was chili powder instead of the other pepper. Baked in low as suggested, for six hours. Yummy!",
+            "datePublished": "2015-06-11T19:08:33.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bren R"
+            },
+            "reviewBody": "Flavorful and easy. My husband Liked it. I used boneless thighs and just took them out of sauce and cut chicken lengthwise on cutting board. The client was perfect. Good timing instructions. Will use again.",
+            "datePublished": "2024-06-05T00:17:58.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SappyToast4543"
+            },
+            "reviewBody": "I used less chile and Tajin instead of Adobo",
+            "datePublished": "2023-01-29T01:58:44.981Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "leigheskridge"
+            },
+            "reviewBody": "This was fantastic. I was worried it was not enough sauce but the chicken to seasoning was perfect! I did use boneless and skinless and shredded right in the skillet but followed everything else to a T . I have never used this seasoning before and I was nervous because tasting it alone its super salty- And I LOVE salt. But it was exactly spot on. For sure a keeper! Thank you!",
+            "datePublished": "2022-03-07T00:23:30.169Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ixcortes"
+            },
+            "reviewBody": "Messy but delicious!",
+            "datePublished": "2021-09-08T20:22:45.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yummers"
+            },
+            "reviewBody": "Paired excellently with homemade corn tortillas, salsa cruda, and frijoles. Could have marinated longer but made it pretty straight forward without the Adobo (since I didn’t have any on hand) and it turned out alright — tasty enough for the kids and hubby was happy so long as there was plenty of Tapatio to cover.",
+            "datePublished": "2021-06-21T14:21:03.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kim"
+            },
+            "reviewBody": "Excellent chicken tacos!",
+            "datePublished": "2021-04-20T21:31:23.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine Bennington"
+            },
+            "reviewBody": "Best flavor for chicken tacos. We even use the meat for lunches with rice. A keeper!!",
+            "datePublished": "2021-01-26T16:05:21.323Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lora Wade McKinney"
+            },
+            "reviewBody": "This was a huge hit! So savory, we will make it again. I did not use Goya, that is not necessary, so use what you can find.",
+            "datePublished": "2020-12-17T16:50:26.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nreinho2"
+            },
+            "reviewBody": "These were excellent! Best tacos that I’ve ever made at home. Everyone loved them!",
+            "datePublished": "2020-10-31T20:36:32.037Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/215224/shredded-chicken-tacos/",
+          "name": "Goya Shredded Chicken Tacos",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/82/trusted-brands-recipes-and-tips/",
+                  "name": "Trusted Brands: Recipes and Tips"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16217/trusted-brands-recipes-and-tips/goya/",
+                  "name": "Goya®"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

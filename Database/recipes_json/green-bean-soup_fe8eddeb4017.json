@@ -1,0 +1,446 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13197/green-bean-soup/",
+  "extracted_at": "2026-10-18T01:52:39.073881+00:00",
+  "recipes": [
+    {
+      "name": "Green Bean Soup",
+      "ingredients_raw": [
+        "2 pounds fresh green beans",
+        "1 clove garlic, minced",
+        "1 sprig fresh parsley",
+        "1 pinch salt",
+        "2 slices bacon",
+        "3 tablespoons all-purpose flour",
+        "1 onion, chopped",
+        "1 cup sour cream",
+        "3 tablespoons vinegar"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large pot over medium heat, combine green beans, garlic, parsley, salt and water to cover and cook until beans are tender."
+        },
+        {
+          "id": 2,
+          "text": "Fry bacon until crisp, set aside. Add onion and flour to bacon grease, stirring until smooth and brown. Add some water from the beans, stirring slowly and constantly to prevent lumps."
+        },
+        {
+          "id": 3,
+          "text": "Cook to thicken a bit, then add it to the bean soup and bring to a boil. Stir crisp bacon, sour cream and vinegar."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Green Bean Soup",
+        "datePublished": "1999-03-29T12:22:02-05:00",
+        "dateModified": "2026-03-17T11:58:42-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jamie Elliott"
+          }
+        ],
+        "description": "Green beans are combined with bacon, and sour cream in this thick Transylvanian soup.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/_Ibf9hHMqb05BMwz35TXqvaNRfc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9442382-green-bean-soup-Durrant-4x3-1-f09b05b47d81427286badb86002b97bf.jpg",
+          "height": 900,
+          "width": 1200
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Green Bean Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "45"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "196 kcal",
+          "carbohydrateContent": "18 g",
+          "cholesterolContent": "23 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "111 mg",
+          "sugarContent": "3 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Eastern European"
+        ],
+        "recipeIngredient": [
+          "2 pounds fresh green beans",
+          "1 clove garlic, minced",
+          "1 sprig fresh parsley",
+          "1 pinch salt",
+          "2 slices bacon",
+          "3 tablespoons all-purpose flour",
+          "1 onion, chopped",
+          "1 cup sour cream",
+          "3 tablespoons vinegar"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large pot over medium heat, combine green beans, garlic, parsley, salt and water to cover and cook until beans are tender."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Fry bacon until crisp, set aside. Add onion and flour to bacon grease, stirring until smooth and brown. Add some water from the beans, stirring slowly and constantly to prevent lumps."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook to thicken a bit, then add it to the bean soup and bring to a boil. Stir crisp bacon, sour cream and vinegar."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bitch'n kitchen"
+            },
+            "reviewBody": "I had some green beans to use up so this recipe intrigued me. Other reviewers said it was bland so I made some changes. I used cambells chicken stock instead of water and added potatoes and veal sausage in addition to the bacon. I also used about 1 tbsp cornstarch at the end to thicken it slightly. It was tasty, hearty and enjoyed by all."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SPARKS"
+            },
+            "reviewBody": "I loved this. I had a couple of other veggies in the fridge to use up, and just threw them in with the beans. I changed it some by adding extra bacon, onion, and garlic. I cooked the bacon and onion together, then added in the flour. Poured some bean soup juice into the bacon onion flour mixture, then put it all in together. I used the sour cream as a dollop before I served. These flavors together were just what I was looking for....and believe me, they work together so well. I appreciate so much your grandma's recipe.....even tho I changed it a little, it was truly delicious! Even my husband said so. Thank you. This was exactly what I was looking for when I searched for a green bean soup...and I had all the ingredients on hand. Totally delicious. Thank you. :-)",
+            "datePublished": "2004-12-19T20:09:42.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Rosebrock"
+            },
+            "reviewBody": "I am glad I followed the recommendations from other reviewers! \nMade this with beef broth instead of water.\nadded some cooked bacon to the beans when I cooked them in the instant pot. (7 minutes with 10 min natural release for those interested in using the IP. )\nThankfully I pulled a small trest bowl and added tiny bit of vinegar to it and quickly realized that vinegar absolutely kills this dish. So I omitted the vinegar. This turned out really good!",
+            "datePublished": "2020-10-09T22:42:15.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mictlantecuhtli"
+            },
+            "reviewBody": "We enjoyed this soup a lot. Instead of bacon, I used a ham bone and cooked everything (except the sour cream) in the slow cooker for 8 hours. It needs more than a pinch of salt. Try 1 1/2 tsp. at least. Came out fantastic.",
+            "datePublished": "2010-07-28T08:05:15.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hofs"
+            },
+            "reviewBody": "I have an allotment and had loads of beans so I changed it round a bit to use my soup maker. Beans chopped not cooked, garlic , coriander , salt and pepper , 2 slices chopped cooked bacon , one onion , milk and TSP Butter , all in and machine on . I like my soup thin so diluted a bit with water , delicious use of a glut of spare beans.",
+            "datePublished": "2025-07-22T19:46:49.051Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ellie"
+            },
+            "reviewBody": "I made a half batch, but also added a tsp of salt, added a tsp of dried Italian seasoning and had to thicken with approx. 3/4 c water and 2 T of flour to thicken. I would make it again.",
+            "datePublished": "2020-07-20T23:13:09.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Beck Sain"
+            },
+            "reviewBody": "Made as directed, but did boil in vegetable broth and added potatoes, extra garlic and bacon. Cut the vinegar to one tablespoon. Delicious as when my grandmother made it. Will definitely make again.",
+            "datePublished": "2018-07-31T22:25:26.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Durrant"
+            },
+            "reviewBody": "My Grandmother used to make this soup and our whole family makes it. To add more flavor we use more 6 pieces of bacon instead of 2 and also add kielbasa, I used turkey but my grandmother would use the standard kind. We also add paprika to the rue to add flavor and color.",
+            "datePublished": "2022-01-17T15:24:05.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FROGGYLADY71"
+            },
+            "reviewBody": "I was raised on this soup - my step-father was from Transylvania and made this quite often, especially during the winter. Instead of bacon, he would cook the beans, etc. with smoked ham hocks or shanks (I've even used smoked turkey leg and it turned out wonderful). I also sometimes add a cup of thinly sliced celery. It's the roux and sour cream that make this a wonderful, thick soup - goes great with rye bread!",
+            "datePublished": "2003-11-22T09:36:25.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sweetsally623"
+            },
+            "reviewBody": "My Slovak grandma used to make this for me when I was little. It is one of my favorite soups. She used milk and/or heavy cream in it along with potatoes. It was not bland tasting at all. We would add extra sour cream into our soup bowls too. I'm also half Hungarian so we use sour cream a lot. Plus more vinegar than in this recipe. You have to go by personal taste in that. Plus more bacon. I would use chicken broth before using just water.",
+            "datePublished": "2023-09-17T04:41:41.189Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christy"
+            },
+            "reviewBody": "My mother used to make the soup for us before she passed away. I made it and it tasted exactly like she made it. I added a tiny bit more vinegar. I am German Heritage first generation American and the soup brought back many memories for me.",
+            "datePublished": "2022-02-12T18:51:47.839Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Connie"
+            },
+            "reviewBody": "My mother made this soup all the time. She used a cottage ham which makes a great broth for the soup. I make it all the time and my family loves it. Just remember.....most recipes are a guide and you can tweak them to your own tastes. Happy cooking!",
+            "datePublished": "2026-08-15T18:47:16.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DontSendMeAds!"
+            },
+            "reviewBody": "This is one of the first Allrecipes that I would not necessarily make again (and Allrecipes has been my constant Go-To source for recipes for me for several years...). I'm not a professional cook so take that into account when considering my comments. 1. Really bland. I had to add a LOT of spices to the soup in the end. 2. Most of the recipes suggest cooking times for portions of the preparation. I had to cook the beans for over 2 hours on low-medium heat to get them soft enough--no suggested times were mentioned (this is minutiae but I thought I'd mention it ). 3. I love sour cream but didn't like it added into the soup during prep. 4. Reduce the vinegar. I try to match the suggested amounts exactly--but it was still overly vinegary.... 5. Potatoes. Just thought. I'm used to \"ham and green beans\" with potatoes. Will add some the next time.",
+            "datePublished": "2026-03-18T19:12:27.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gigi"
+            },
+            "reviewBody": "I am going to riff on this recipe but I'll use Better Than (broth flavor unknown.) and I'm going to blend it at the end with something non-dairy. And then top it with some flaked smoked salmon or crumbled cooked sausage..",
+            "datePublished": "2026-03-16T20:23:52.335Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GERRIHU"
+            },
+            "reviewBody": "Loved it",
+            "datePublished": "2021-12-15T14:00:08.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stefani969642"
+            },
+            "reviewBody": "Easy to do and yummy! I didn’t have any bacon, so I skipped that part. I added worcheschire per another reviewer’s suggestion, which gave it a good flavor.",
+            "datePublished": "2019-12-16T00:31:57.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "This was fantastic! I grew up eating this. My grand parents grew green beans in their garden. It one of my favorite soups. They made one similar with wilted lettuce too.",
+            "datePublished": "2019-09-07T23:06:33.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chloe Whitt"
+            },
+            "reviewBody": "Hearty and delicious! I did add potatoes as suggested by many in the comments! My kids and very picky husband all went back for seconds!",
+            "datePublished": "2018-09-21T23:41:28.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kaelyn Marie"
+            },
+            "reviewBody": "When I had completed this recipe step by step it was a bit sour the sour cream and vinegar was overwhelming and I had used smaller portions of both because they are strong flavors. So I added soy sauce, garlic powder, garlic salt, and added more bacon. The taste of the soup was a bit more appealing than it was before but would I make this again, probably not. However, I did enjoy cooking it and the family history behind it.",
+            "datePublished": "2018-07-15T06:16:57.677Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cparamore"
+            },
+            "reviewBody": "Very good! Don't know why folks are complaining about the consistency. Soup (IMHO) should have some \"juice\" otherwise I would call it stew. I made some changes for personal taste but nothing drastic. Basically kept the recipe as is.",
+            "datePublished": "2018-04-26T00:00:47.453Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13197/green-bean-soup/",
+          "name": "Green Bean Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

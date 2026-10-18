@@ -1,0 +1,440 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21487/easy-potato-pancakes/",
+  "extracted_at": "2026-10-18T02:54:21.236516+00:00",
+  "recipes": [
+    {
+      "name": "Easy Potato Pancakes",
+      "ingredients_raw": [
+        "5 medium potatoes, peeled and shredded",
+        "1 medium onion, finely chopped",
+        "2 large eggs, beaten",
+        "3 tablespoons all-purpose flour",
+        "salt and pepper to taste",
+        "3 tablespoons vegetable oil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place shredded potatoes in a clean kitchen towel and squeeze out excess liquid."
+        },
+        {
+          "id": 2,
+          "text": "Combine shredded potatoes, onion, eggs, flour, salt, and pepper in a large bowl; stir until well combined."
+        },
+        {
+          "id": 3,
+          "text": "Heat oil in a large skillet over medium-high heat. Working in batches, drop large spoonfuls of potato batter into the hot skillet. Flatten batter lightly with a spatula and cook until golden brown and crisp on both sides, about 4 minutes per side. Keep finished pancakes warm while cooking remaining batches. Serve hot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Easy Potato Pancakes",
+        "datePublished": "2000-05-20T20:28:08-04:00",
+        "dateModified": "2026-10-01T10:41:32-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Judy B"
+          }
+        ],
+        "description": "These potato pancakes are crispy on the outside, tender inside, and simple to make for breakfast, brunch, or as a side for pork chops and applesauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8hW-Xd94bD2M7oFZTV1vkrqGMTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21487-easy-potato-pancakes-pics-jkim-Beauty-4x3-182efa71f7204b9db0bee3525bfb9a51.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Potato Pancakes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "152"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "291 kcal",
+          "carbohydrateContent": "43 g",
+          "cholesterolContent": "74 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "42 mg",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Breakfast",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Eastern European"
+        ],
+        "recipeIngredient": [
+          "5 medium potatoes, peeled and shredded",
+          "1 medium onion, finely chopped",
+          "2 large eggs, beaten",
+          "3 tablespoons all-purpose flour",
+          "salt and pepper to taste",
+          "3 tablespoons vegetable oil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place shredded potatoes in a clean kitchen towel and squeeze out excess liquid."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine shredded potatoes, onion, eggs, flour, salt, and pepper in a large bowl; stir until well combined."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet over medium-high heat. Working in batches, drop large spoonfuls of potato batter into the hot skillet. Flatten batter lightly with a spatula and cook until golden brown and crisp on both sides, about 4 minutes per side. Keep finished pancakes warm while cooking remaining batches. Serve hot."
+          }
+        ],
+        "recipeYield": [
+          "5",
+          "10 pancakes"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Momboss Cooks"
+            },
+            "reviewBody": "This was a super simple recipe and a definite keeper. The only change I made was to add a little garlic powder. I used my food processor to shred the potatoes and onion. I doubled the batch and made the pancakes small...ended up with about 40 pancakes which was perfect for the party I took them to."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charli"
+            },
+            "reviewBody": "Shred the potatoes extra fine. After the potatoes are shredded you dry them with a kitchen towel by putting them inside and twisting the towel. This will get rid of the excess water in them. Beat the eggs until they are frothy then add the potatoes that have been dried to the eggs mixing them well. .Then add 3 tablespoons of mayonnaise to the recipe (this is the secret my Mutter taught me). Skip the flour as you don't need it with this recipe. If the recipe seems to watery skim the excess water off the top with a paper towel. I don't add salt to the recipe instead I salt them as they fry. I also add a bit of paprika to the mix. If you're using this as a side dish then top with sour cream. As a desert don't add the onions and then top with applesauce (although I can remember eating the pancakes with applesauce along with pork dishes). wunderbare",
+            "datePublished": "2009-02-12T18:28:47.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly Ann Pete"
+            },
+            "reviewBody": "I have been making latkes for 25 years and this recipe is the best one I've ever found. I read the reviews and only added one egg tonight and I had to use a few more tablespoons of oil in the cast iron skillet. I used the food processor as others suggested. After processing the potato and onion together, I put the mixture in a clean dishtowel and squeezed out the moisture before adding the egg and flour. Best latkes ever. Thank you for this deceptively simple and delicious recipe. If I would have septupled the recipe we still would have eaten them all in one sitting!! We had them with sour cream and applesauce. They were perfect.",
+            "datePublished": "2008-12-21T23:00:42.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WALTDOUD"
+            },
+            "reviewBody": "OK, I broke my \"cardinal\" rule of not modifying a recipe when I try it for the first time. I added only maybe 1/4 cup of finely chopped onion, omitted the flour, and also added 3 Tablespoons of mayo (as I saw in another recipe), and a 15 oz can of corn, well drained. I used the ready-made 20 oz package of shredded Hash brown potatoes from the refrigerator section (Simply Potatoes). Mixed everything and it was REALLY wet and loose and I was afraid that it would never hold together. I formed it into 4 large patties about 5 inches in diameter and one inch thick on a heavily buttered pizza pan that fits on my gas grill. Covered it tightly with foil and put on the grill over medium-high setting for 10 minutes, removed the foil and flipped them, then loosely re-covered with foil for 10 minutes. My fear that they wouldn't hold together was completely unfounded. I think the secret to having them stay together is to not try to do ANYTHING until the first side is well browned. They came out looking really great, but they were bland. I think I should have used a whole onion, as the recipe states, and I don't think the mayo did anything significant except add fat calories. I'm going to try this recipe again, only sticking more closely to the instructions as written. Very aesthetic results, just need to jazz up the flavor a bit for my taste. Thanks for a solid recipe, will definitely be going back to this one again, especially to do on the grill for Summer cooking.",
+            "datePublished": "2010-06-26T18:04:44.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robert Shendock"
+            },
+            "reviewBody": "Enjoyed these several times now. Followed the recipe except used less flour. Also divided the residual fluid at the bottom of the bowl, pouring on top of the cakes as the first side fried.",
+            "datePublished": "2020-08-15T13:32:49.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marika"
+            },
+            "reviewBody": "I made these tonight! Very easy to make, I thought I doubled the batch but had to add another two eggs and they cooked up just beautiful and actually stayed together! I used my food processor to shred the potatos and onions then I squeezed it all out by hand (really need to invest in some cheesecloth!) For a husband who is not too fond of potato pancakes, he said these were the best he has had!! Thank you for an awesome recipe! This is a definate keeper! :)",
+            "datePublished": "2011-05-25T18:01:13.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dave MacGee"
+            },
+            "reviewBody": "I opted not to peel the potatoes. I scrubbed them well and shredded them. I soaked the shredded potatoes in cold water for a few minutes to remove some of the starch, then tried in a ckean tea towel.",
+            "datePublished": "2026-08-01T13:25:34.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PlumTuna7282"
+            },
+            "reviewBody": "Really good. I will make this again. I did squeeze the liquid from the shredded potatoes and added garlic powder and paprika, then added a little extra salt while cooking them. Really tasty!",
+            "datePublished": "2025-01-21T17:45:54.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rosie"
+            },
+            "reviewBody": "Thanks for posting this recipe, my family has been making these for years and we still love them. Note for \"Cherry\" the recipe needs the egg and flour to bind it together. Sqeeze some of the water out of the potatoes before adding anything to them, them add the rest. After you place the potatoe pancake in the frying pan gently press it down with a fork like a hamburger pattie to cook through. Hope this helps, it's a great recipe and don't be afraid to add cheese, bacon bits, etc. It's definately great just as it is. Thanks again",
+            "datePublished": "2010-10-17T11:52:49.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margaret"
+            },
+            "reviewBody": "I've made these pancakes for 37 years. My Polish husband loved them. I never measured anything I put in. I use the least amount of flour possible to help bind them. I, personally, never liked tasting the flour. This has always been a favorite Saturday or Sunday breakfast.",
+            "datePublished": "2010-10-17T08:01:38.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sean_roy"
+            },
+            "reviewBody": "This morning we decided we wanted some potato pancakes, as we already had some potatoes cooked, and didn't want to deal with a fussy recipe. And this was just the ticket. We didn't want to make as much as the recipe suggests, so we used two potatoes, a quarter of an onion, and added just a touch of half and half to the batter for texture. We cooked them on a stovetop griddle, and they came out absolutely perfect. We didn't have any applesauce, but we mixed a little candied ginger purée with some apricot-pineapple jam, and also used Trader Joe's Greek-style yogurt as topping. We also made a quick scramble with fresh, home-grown bell peppers, and enjoyed the perfect breakfast! Thanks so much for this wonderful and easy recipe.",
+            "datePublished": "2009-08-13T10:24:53.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FizzyCrab3789"
+            },
+            "reviewBody": "I made a batch of these, they were great. One change, I keep dehydrated potatoes on hand so I used them. Came out GREAT...",
+            "datePublished": "2026-10-17T01:17:13.111Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dana"
+            },
+            "reviewBody": "I put a bit extra flour in mine and garlic with some greek oregano. They turned out great with my homemade sour cream 😋",
+            "datePublished": "2026-09-07T22:50:29.541Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bruce"
+            },
+            "reviewBody": "I like",
+            "datePublished": "2026-03-11T23:51:32.291Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "J Washtock"
+            },
+            "reviewBody": "Add some extra seasonings for bigger flavor.",
+            "datePublished": "2026-03-01T00:54:10.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "joni"
+            },
+            "reviewBody": "Well worth peeling and shredding. Everyone loved them. XO",
+            "datePublished": "2026-02-20T19:18:39.799Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was easy to make and taste great",
+            "datePublished": "2026-01-22T22:08:58.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GentleTray7356"
+            },
+            "reviewBody": "A new favorite here!",
+            "datePublished": "2025-07-05T18:40:12.266Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SillySlaw9142"
+            },
+            "reviewBody": "Was wonderful loved it",
+            "datePublished": "2024-12-15T01:02:57.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gaillens"
+            },
+            "reviewBody": "I made a half recipe and cut back a little more than 1/2 on the onion. I liked it and will make it again.",
+            "datePublished": "2024-11-12T15:17:13.356Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21487/easy-potato-pancakes/",
+          "name": "Easy Potato Pancakes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+                  "name": "Potato"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1545/side-dish/potatoes/potato-pancakes/",
+                  "name": "Pancakes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

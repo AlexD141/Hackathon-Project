@@ -1,0 +1,531 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/215620/country-style-steak/",
+  "extracted_at": "2026-10-18T02:58:19.162059+00:00",
+  "recipes": [
+    {
+      "name": "Country-Style Steak",
+      "ingredients_raw": [
+        "1 cup all-purpose flour",
+        "1 teaspoon cracked black pepper",
+        "1 teaspoon seasoned salt",
+        "0.25 teaspoon garlic powder",
+        "1 pound beef cube steaks",
+        "0.5 cup olive oil",
+        "2 cups beef broth"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Mix flour, black pepper, seasoned salt, and garlic powder together in a shallow bowl. Coat cube steaks thoroughly with flour mixture, patting flour onto steaks to get a good coating."
+        },
+        {
+          "id": 3,
+          "text": "Retain 3 tablespoons of seasoned flour."
+        },
+        {
+          "id": 4,
+          "text": "Heat olive oil in a skillet over medium heat. Pan-fry cube steaks until golden brown on both sides, about 5 minutes per side. Place steaks into a 9x12-inch baking dish."
+        },
+        {
+          "id": 5,
+          "text": "Whisk retained seasoned flour into beef broth until smooth."
+        },
+        {
+          "id": 6,
+          "text": "Pour broth over steaks. Cover the dish with aluminum foil."
+        },
+        {
+          "id": 7,
+          "text": "Bake in the preheated oven until the meat is tender and the gravy has thickened, about 2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Country-Style Steak",
+        "datePublished": "2010-08-24T09:42:33-04:00",
+        "dateModified": "2026-09-05T19:37:26-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "hmclaurin"
+          }
+        ],
+        "description": "This baked country-style steak is a family recipe. Seasoned, pan-fried beef gets a long, slow bake to make delicious, tender steaks with gravy.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/CMLK-2X6qNQDaoi17QQF9g6GETw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-3x4-7796-198409aa4be845e68c65c93614ef6a3e.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/qkjf1IfT-K3AjnAEN.mp4",
+          "description": "In this video, you’ll see how to make chicken-fried steak. It’s a true Southern classic and a family favorite. Beef cube steaks are coated in seasoned flour and quickly pan-fried until golden brown. You’ll finish them in the oven, baking them in a little beef broth until wonderfully tender.",
+          "duration": "PT2M",
+          "name": "Country-Style Steak",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/qkjf1IfT/poster.jpg?width=1280",
+          "uploadDate": "2021-07-14T19:17:54-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Country-Style Steak",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "509"
+        },
+        "cookTime": "PT140M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "355 kcal",
+          "carbohydrateContent": "25 g",
+          "cholesterolContent": "27 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "18 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "656 mg",
+          "sugarContent": "0 g",
+          "fatContent": "20 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Southern"
+        ],
+        "recipeIngredient": [
+          "1 cup all-purpose flour",
+          "1 teaspoon cracked black pepper",
+          "1 teaspoon seasoned salt",
+          "0.25 teaspoon garlic powder",
+          "1 pound beef cube steaks",
+          "0.5 cup olive oil",
+          "2 cups beef broth"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/KRQRpmKQKmtFmGdFeYTTsoi4x6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-Step1-3x4-7713-966ac5f6563d4ae4bc1fd3673a322fbf.jpg"
+              }
+            ],
+            "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CmTlVwBJxcnvzOYxOKhAfbwWTIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-Step2-3x4-7721-0eac3d30b0c94b2391ea75a37664d348.jpg"
+              }
+            ],
+            "text": "Mix flour, black pepper, seasoned salt, and garlic powder together in a shallow bowl. Coat cube steaks thoroughly with flour mixture, patting flour onto steaks to get a good coating."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/idvJHgY4Img40Mj2_ldoCcpjc3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-Step3-3x4-7724-c7aec0c6c3d64579939805e1e7e3de07.jpg"
+              }
+            ],
+            "text": "Retain 3 tablespoons of seasoned flour."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lv4QljkEgT2O-hyYnbl09Co_fQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-Step4-3x4-7733-5eaaf164b37a45879469186f7455848e.jpg"
+              }
+            ],
+            "text": "Heat olive oil in a skillet over medium heat. Pan-fry cube steaks until golden brown on both sides, about 5 minutes per side. Place steaks into a 9x12-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/18HqiQlUZf_Hwc_drw-KCaEdGPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-Step5-3x4-7736-45be9108d02a4e2896b1e65638a1f54b.jpg"
+              }
+            ],
+            "text": "Whisk retained seasoned flour into beef broth until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/BGk7lWmA3LGZgEds1gGhaZdUhIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-Step5-3x4-7739-422793f73d6d45fb889c32d77df6fc9d.jpg"
+              }
+            ],
+            "text": "Pour broth over steaks. Cover the dish with aluminum foil."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CMLK-2X6qNQDaoi17QQF9g6GETw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215620-CountryStyleSteak-ddmfs-3x4-7796-198409aa4be845e68c65c93614ef6a3e.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until the meat is tender and the gravy has thickened, about 2 hours."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT155M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristy Guillotte"
+            },
+            "reviewBody": "Made this for dinner, so good and easy. the only change I made was to slice an onion and lay it on the bottom of the pan then place the steak on top.and I used minced garlic instead of powder. will make this again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "elizstone"
+            },
+            "reviewBody": "Being a Southern girl, I love just about anything \"country-style\" (fried and topped with gravy) and this did not disappoint. You will want more gravy (trust me on this one), so do as others have mentioned and double the retained seasoned flour and beef broth. I upped the ante and added half &amp; half (cream or milk would work too) to the liquid mixture and the gravy was creamy perfection. One other note, check this after about 1 1/2 hours to make sure it is not sticking to the bottom of your pan. If it is, simply lift the pieces of steak to make sure there is gravy underneath them. Keep cooking for the full 2 hours for the most melt-in-your-mouth tender and delicious country-style steak ever. Wonderful over mashed potatoes or rice. Fun fact: Leftovers (if you have any) make a delicious sandwich. A piece of cold steak with a little mayo between two slices of bread is heavenly.",
+            "datePublished": "2012-09-03T13:30:06.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenbeth"
+            },
+            "reviewBody": "Great recipe, my husband loved it. I am not usually a fan of cube steak, but this was moist and tender. I doubled the gravy by increasing the broth to a 32oz box of broth and then adding 5 Tbsp. of the flour mixture. It turned out great!",
+            "datePublished": "2011-01-15T18:45:28.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kellifrey"
+            },
+            "reviewBody": "This was delicious!!!! I was looking for another recipe since the way I was making it the steak would sometimes be tough. I was skeptical about the cook time but it was soooo tender! I atleast doubled the gravy and added some water and milk as this was the way I would normally make my gravy. My husband said it was the best country style steak he had had in his life!!! Will be my new favorite recipe!!!",
+            "datePublished": "2011-01-31T17:33:21.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AnneO"
+            },
+            "reviewBody": "I grew up on this recipe in Eastern KY. My Mother's secret, which she only shared with me, was to stir in a package of brown gravy mix 30 minutes before removing from oven. It thickened the gravy and added wonderful flavor. It will always be one of my family's favorites and a wonderful remembrance of my mother.",
+            "datePublished": "2013-11-10T10:55:03.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam Ziegler Lutz"
+            },
+            "reviewBody": "Great flavor! Next time I will double the gravy (at least) to allow more for topping mashed potatoes. I agree that mashed potatoes and green beans are the perfect side dishes for this comfort food!",
+            "datePublished": "2010-12-13T17:15:44.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holiday Baker"
+            },
+            "reviewBody": "I have only eaten cube steak like once in my life and have never made it before. This recipe had good reviews so I decided to try it. I thought it was pretty good. The cube steak was very tender with the slow oven roasting. And, the gravy had a nice flavor and consistency. I followed the recipe exactly except I left out the black pepper, because I don't care for it. And, for the broth I used one beef boullion cube for the 2 cups of water. If I made again, I would like to cube my own steak so I can buy a leaner cut of meat and probably cut the oil in half. Thanks, interesting recipe.",
+            "datePublished": "2011-02-15T14:42:08.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LawyerChef11"
+            },
+            "reviewBody": "Excellent recipe! I like my gravy really thick so i did a bit of a flour slurry when it came out (removed the steaks, took a couple teaspoons of seasoned flour mixed with some of the hot liquid (mixed in a cup) and then added back to the pan, then added steaks back)",
+            "datePublished": "2011-01-08T17:15:04.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandy Carter Frye"
+            },
+            "reviewBody": "I made this today and loved it, Hubby devoured it. I did tweak it though. I used 2 lean cube steaks and put garlic powder and onion powder and lawrey salt on the meat and pressed it in. Dredged it in flour and used Pam Butter Flavor in pan and fried a couple minutes on high on each side. Used a bit smaller dish than 9x13, sprayed with Pam and layer with large onion slices. Using (no substitutes on this please very important) 2 cans Campbells Beefy Mushroom Soup, pour 3/4 can thinned with 1/4 cup water over the onions. Put the meat in and covered the meat with the rest of the soup. Bake covered at 350 for 2hrs. When done you can thicken the gravy (I didn't)I cut up the onions that were in the bottom and left it in the gravy, it was soooo yummy and plenty of it to go on the mashed potatoes. The meat was very tender and very high on flavor and so easy to make. Will make it often, even for Company.",
+            "datePublished": "2013-11-12T13:37:41.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "newcook"
+            },
+            "reviewBody": "I coated the skillet with oilve oil - then added 1/2 cup cooking wine - to cut down on the 'greasiness'..\nsince this is a southern recipe I served it with cornbread stuffing --- if you put it on top of your head its sooo good your tongue will slap your brains out to get to it!",
+            "datePublished": "2012-02-01T14:04:51.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CookandBakeGirl"
+            },
+            "reviewBody": "This is great! I cooked it in a skillet. Then simmered it in the sauce. Great recipe!",
+            "datePublished": "2011-09-17T10:47:50.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margaret"
+            },
+            "reviewBody": "Great flavor.",
+            "datePublished": "2026-08-03T23:48:22.095Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marie"
+            },
+            "reviewBody": "This is my go to recipe. The meat is tender and gravy is good. This recipe is easy to make and tasty!",
+            "datePublished": "2026-04-29T16:10:46.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Theresa"
+            },
+            "reviewBody": "I needed to add more salt but very tender didn’t need a fork",
+            "datePublished": "2026-02-21T21:16:17.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FrothyStove9421"
+            },
+            "reviewBody": "I love the hands-off method of cooking the steaks. It provides the freedom to attend to other recipes and dessert while the oven produces tender, juicy, tasty steaks and the gravy simultaneously.",
+            "datePublished": "2025-12-25T07:19:45.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AceHerb7415"
+            },
+            "reviewBody": "Added more black pepper freshly ground and Onion powder- organic. Also browned steak in organic bacon fat. Delish!",
+            "datePublished": "2025-09-24T14:00:16.034Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberly Gibson Carter Combs"
+            },
+            "reviewBody": "It’s been so hard to find a good cube steak recipe lately and this one is definitely a keeper. I didn’t change a thing and everyone, from elderly mom to toddlers absolutely loved this dish! It was so easy to make and I’ll never make cubed steak any other way. Mom says this recipe must be on a weekly rotation in our household 🙂",
+            "datePublished": "2025-09-06T15:10:28.925Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gerry nendick"
+            },
+            "reviewBody": "Great. easy recipe. I use 3/4 cup flour (instead of a cup) and add fresh chopped parsley. I also add a little \"Kitchen Bouquet\" to the beef broth to give it a little more flavor.",
+            "datePublished": "2025-08-16T19:51:16.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alic S"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-16T13:42:54.415Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DandyGhee3195"
+            },
+            "reviewBody": "An especially easy way to make the gravy...a can of mushroom soup and a can of beef broth. So good!",
+            "datePublished": "2025-03-13T23:42:37.960Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/215620/country-style-steak/",
+          "name": "Country-Style Steak",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/200/meat-and-poultry/beef/",
+                  "name": "Beef"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/",
+                  "name": "Steaks"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,505 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12760/pasta-with-tuna-sauce/",
+  "extracted_at": "2026-10-18T01:50:35.791527+00:00",
+  "recipes": [
+    {
+      "name": "Pasta with Tuna Sauce",
+      "ingredients_raw": [
+        "1 (16 ounce) package penne pasta",
+        "1 tablespoon olive oil",
+        "1 medium onion, chopped",
+        "2 cloves crushed garlic",
+        "1 (14.5 ounce) can crushed tomatoes",
+        "1 tablespoon capers",
+        "1 tablespoon lemon juice",
+        "1 tablespoon chopped fresh parsley",
+        "0.25 teaspoon red pepper flakes, or to taste",
+        "2 (5 ounce) cans tuna, drained"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Heat oil over low heat in a large skillet. Add onion and garlic; cook and stir until onion is tender, about 5 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in tomatoes, capers, lemon juice, parsley, and pepper flakes. Simmer gently until sauce thickens, about 3 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Fold in tuna and cook until heated through."
+        },
+        {
+          "id": 6,
+          "text": "Drain penne and return to the pot. Pour sauce over pasta and toss to coat."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pasta with Tuna Sauce",
+        "datePublished": "1999-07-07T22:39:22-04:00",
+        "dateModified": "2025-03-13T11:31:21-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Amanda"
+          }
+        ],
+        "description": "This pasta with tuna is perfect for a busy weeknight. Top any pasta shape with canned tuna, tomatoes, garlic, parsley, and lemon juice, and dinner&#39;s done!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/E5Aw2BxftZxzG2nFYMJg5uWUj0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-3x4-d3bbf68b317847449c2d3c7438e2927a.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pasta with Tuna Sauce",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "166"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "384 kcal",
+          "carbohydrateContent": "60 g",
+          "cholesterolContent": "102 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "23 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "174 mg",
+          "sugarContent": "4 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) package penne pasta",
+          "1 tablespoon olive oil",
+          "1 medium onion, chopped",
+          "2 cloves crushed garlic",
+          "1 (14.5 ounce) can crushed tomatoes",
+          "1 tablespoon capers",
+          "1 tablespoon lemon juice",
+          "1 tablespoon chopped fresh parsley",
+          "0.25 teaspoon red pepper flakes, or to taste",
+          "2 (5 ounce) cans tuna, drained"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/wajDRVIXvS4SsvNy-x_Y8Ix1qhU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-step1-3x4-adf4e31505324ec89b1a631e16a6d3ec.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/M7zdY1co2eovl-THJR_u-NTlSjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-step2-3x4-2a6fe3703bf243ab9e6ce06c32a3f81e.jpg"
+              }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/p0Ljbeo_KFiTw4eVk-ZmZwcoKdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-step3-3x4-80f692a9a631402286460096f553444c.jpg"
+              }
+            ],
+            "text": "Heat oil over low heat in a large skillet. Add onion and garlic; cook and stir until onion is tender, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sD1lXxnBT5P9uavnelZQQ7-odN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-step4-3x4-9513fef7779e415c89b7cafea2d66f60.jpg"
+              }
+            ],
+            "text": "Stir in tomatoes, capers, lemon juice, parsley, and pepper flakes. Simmer gently until sauce thickens, about 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OZINsIpAPVDKamreYePhPiFje0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-step5-3x4-67ed84c1c08a455ea113699a0f6aeebd.jpg"
+              }
+            ],
+            "text": "Fold in tuna and cook until heated through."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CvyTuUJ8IcLdIDZ6IMRu94X068A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-12760-pasta-with-tuna-sauce-ddmfs-step6-3x4-1e2a2ad9768045adaa263d1cd8baca9a.jpg"
+              }
+            ],
+            "text": "Drain penne and return to the pot. Pour sauce over pasta and toss to coat."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Busy Dad"
+            },
+            "reviewBody": "Ok...so you already know I rated it four stars. But read on to how I got there. I am surprised and impressed with this dish. It is so simple that I thought, \"How could this possible be good?!\" But if the tough chefs at AllRecipes.com let it be posted that it must have merit; and it does! I prepared it mostly as directly with two exceptions. I used roasted red peppers sliced instead of red pepper and I used diced tomatoes instead of crushed. These were personal preferences and really not enough to change the essence of the dish. If you're looking for quick and surprisingly tasty and filling dish for your family, then click \"Print Recipe\" on this tasty tuna dish and get busy cooking."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TTV78"
+            },
+            "reviewBody": "Thank you for this recipe! I loved it! Very fresh taste and a nice change from the usual heavy pasta dish. I made these changes: used 3 cloves minced garlic, diced tomatoes instead of crushed, added 1 tsp fresh lemon zest and 1 Tbsp fresh sliced basil w/ the parsley to the sauce, salt &amp; pepper to taste, and then added 1/2 cup reserved pasta water and 1 Tbsp fresh chopped parsley when tossing. I like to use linguine (but spaghetti works great in a pinch too!) and top w/ grated fresh parmesan cheese before serving. It is yummy! Will definitely make again!",
+            "datePublished": "2011-01-06T19:24:12.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DOUGBENME"
+            },
+            "reviewBody": "I really liked this! It was easy and has enough flavor for me. I used 8 oz of Farfalle pasta (it was what I had on hand) and it almost overtook the dish. I think next time I do this, I will double the rest of the ingredients and just use 8 oz pasta because I like a saucier pasta. I did use diced tomatoes. I also added a couple of chopped mushrooms. I will be making this again.",
+            "datePublished": "2024-07-27T20:54:10.736Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Community"
+            },
+            "reviewBody": "I made this in the crock pot instead of on the stove. And, because other reviewers said that it came out to dry, I added a 14.5 oz. can of diced tomatoes and used a 13 oz. package of angel hair instead of 16 oz. It came out perfectly--not too dry, not too soupy! It does have a very tomato-y taste, so beware if that's not your thing. Parmesan tastes good with this.",
+            "datePublished": "2009-03-10T13:08:08.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alyssa Allen"
+            },
+            "reviewBody": "I probably tripled most of the spices, added a roasted yellow pepper, fresh basil, salt &amp; pepper. I, also, used fresh tomatoes instead of canned, but I used more than one can's worth of tomatoes. I par cooked a package of whole wheat spaghetti, and then added it, along with approx. 2 cups of the starchy pasta water, to the sauce. I cooked until the pasta absorbed most of the sauce. Before I added more spices, this was very bland and tasted mostly like canned tuna. After, it was ok for a quick &amp; cheap meal, but not great.",
+            "datePublished": "2011-08-09T17:27:45.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHM978"
+            },
+            "reviewBody": "So easy and yummy! Don't let the simple recipe fool you. The flavor comes from the capers and crushed red peppers. I doubled the amount of both for an extra kick. I've also added sautéed veggies to this dish for some variation, but I cook the veggies separately and add together at the end (same time as tuna) to fold it all in as one. Superb! Love it so much that we have incorporated this into our Top 10 rotation that means we have it for dinner every two weeks (we eat leftovers, healthy take out or dine out on weekends).",
+            "datePublished": "2014-11-14T20:59:41.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Penny"
+            },
+            "reviewBody": "I agree with the review that was written regarding lack of sauce. I added half a can more of crushed tomato, 1/4 cup of white wine, reduced the lemon juice to half. I also added more salt and black pepper and a spoonful of sugar to combat the acidity of the crushed tomato. Added extra calories, would have to be counted! I rated the basic recipe, with the extra, I would add another star. My opinion only.",
+            "datePublished": "2017-11-30T16:15:13.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Hissam"
+            },
+            "reviewBody": "This is a \"go to\" meal on busy nights. I use Costco's wild albacore tuna in sea salt (the best canned tuna I've ever eaten), canned organic diced tomatoes, add a little chicken broth, a touch of Italian herbs, and white wine. We love it. Thanks for the recipe.",
+            "datePublished": "2015-10-05T15:38:27.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "This was a wonderful quick meal. My family likes things a little spicy so instead of two cans of tuna, I added two packages of Bumble Bee Spicy Thai Chili tuna, a little basil and a little extra red pepper.",
+            "datePublished": "2016-07-06T16:16:52.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "feeshette"
+            },
+            "reviewBody": "This was very easy and tasty! I modified a bit, hence the 4 stars: I added a big splash of sherry when the onions and garlic were soft, and I stirred in some cream when I put the tuna in. I only had 1/2 pound of angel hair pasta on hand, but it was the perfect amount! I also sprinkled lemon zest and parmesan cheese over my plate.",
+            "datePublished": "2011-01-15T18:39:32.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BARNKITTY"
+            },
+            "reviewBody": "This came out so good! We used Roma's from our garden, instead of canned, and chopped them up in the food processor. No capers or lemon juice and used about 3 cloves of garlic. Used 1T of dried parsley and 1t each of oregano and basil. Cooked it down with the tuna to evaporate most of the water and we had a delicious dinner.",
+            "datePublished": "2009-09-24T03:31:18.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Currier"
+            },
+            "reviewBody": "I liked this recipe alright. The addition of the fresh parsley is a lovely fresh addition. It pairs well with the brightness of the lemon juice and there is just the right amount of kick from the red pepper flakes. I think I may just not be wild about tuna as the protein. It pairs alright with the other flavors and is certainly a healthy enough choice, but something about it is odd and surprising and I'm not sure if its in a good way.",
+            "datePublished": "2026-02-20T19:25:36.458Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andy Giese"
+            },
+            "reviewBody": "Not bad but I should have added some tomato sauce. Needed more flavor",
+            "datePublished": "2024-10-14T22:44:38.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dallas mosque48"
+            },
+            "reviewBody": "I used vegan tuna ( such as tuno lemon flavored)",
+            "datePublished": "2024-08-16T22:47:45.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyMug8786"
+            },
+            "reviewBody": "Used the \"crushed tomatoes\" per recipe and ended up with spaghetti sauce. Will use \"whole tomatotes\" next time for the result shown in pictures",
+            "datePublished": "2023-04-03T22:09:52.998Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charles Mount"
+            },
+            "reviewBody": "Had to scale it back, 6 oz spaghetti, 1 2.6 oz Star Kist Yellowfin Tuna in EVOO and sun-dried tomato pouch. Used AP flour to thicken the sauce using a screen tea-ball to avoid lumps. Also used fresh Roma tomatoes instead of canned. Very good, pantry dinner. Can substitute different fish, like sardines, or clams, or shrimp, or bay scallops so it is a good \"base\" recipe that you can easily adapt to fit the ingredients on hand.",
+            "datePublished": "2022-03-09T02:22:19.372Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alec southgate"
+            },
+            "reviewBody": "So with what the ingredients are, is ok, but something was missing, kinda dry, so what goes with tuna? Mayonnaise, I added 2 tablespoons, or to liking. It gave a creamer taste, and it was good. Give it a try. Cheers !",
+            "datePublished": "2021-04-18T00:07:05.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "robert maxine curley"
+            },
+            "reviewBody": "Easy to make and delicious",
+            "datePublished": "2021-03-27T00:04:25.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diane Stadler"
+            },
+            "reviewBody": "What a wonderful surprise! Had my doubts at first. Cut recipe in half for two, but used the whole can of tomatoes. Absolutely wonderful. Fast, flavorful, filling! I used good quality albacore solid pack tuna in water. Move over tuna noodle casserole, you have a replacement!!",
+            "datePublished": "2018-11-19T17:54:37.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "witchywoman"
+            },
+            "reviewBody": "Made it for 3 servings. Used only 1 can tuna, but, for all other ingredients , used same amounts. For ONCE, I followed the recipe except for substituting crushed tomatoes with petite diced tomatoes. It was so easy, fast and so tasty!",
+            "datePublished": "2018-07-10T12:04:08.580Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12760/pasta-with-tuna-sauce/",
+          "name": "Pasta with Tuna Sauce",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/93/seafood/",
+                  "name": "Seafood"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+                  "name": "Fish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/415/seafood/fish/tuna/",
+                  "name": "Tuna"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

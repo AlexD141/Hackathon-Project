@@ -1,0 +1,460 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14542/spicy-burgers/",
+  "extracted_at": "2026-10-18T02:00:26.234556+00:00",
+  "recipes": [
+    {
+      "name": "Spicy Burgers",
+      "ingredients_raw": [
+        "2 pounds ground beef",
+        "2 teaspoons minced garlic",
+        "2 fresh jalapeno peppers, seeded and minced",
+        "1 small fresh poblano chile pepper, seeded and minced",
+        "1 fresh habanero pepper, seeded and minced",
+        "1 teaspoon crushed red pepper flakes",
+        "2 tablespoons chopped fresh cilantro",
+        "1 teaspoon ground cumin"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat grill for high heat."
+        },
+        {
+          "id": 2,
+          "text": "In a large bowl, mix together the beef, garlic, jalapeno peppers, poblano pepper, habanero pepper, red pepper flakes, cilantro, and cumin. Form into burger patties."
+        },
+        {
+          "id": 3,
+          "text": "Lightly oil the grill grate. Place burgers on grill, and cook for 5 minutes per side, or until well done."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Spicy Burgers",
+        "datePublished": "1999-09-10T03:03:47-04:00",
+        "dateModified": "2026-06-02T11:57:41-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Maryellen"
+          }
+        ],
+        "description": "These burgers are chock full of spicy peppers. When handling the chile peppers be sure to wear gloves, and don&#39;t let the pepper oils come in contact with your eyes. Serve on buns with your favorite toppings.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/roen64cdRR5IpEXHVvliTAqGfdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/875691-bd29da32e47e46a29c4372216e54cd1c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/1zYCgNCR-ma1DlVvV.mp4",
+          "description": "See how to make spicy grilled burgers with a healthy side salad.",
+          "duration": "PT1M49S",
+          "name": "Spicy Burgers with Melon and Jicama Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1zYCgNCR/poster.jpg?width=1280",
+          "uploadDate": "2020-12-03T09:34:47-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spicy Burgers",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "56"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "232 kcal",
+          "carbohydrateContent": "1 g",
+          "cholesterolContent": "70 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "19 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "67 mg",
+          "sugarContent": "0 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds ground beef",
+          "2 teaspoons minced garlic",
+          "2 fresh jalapeno peppers, seeded and minced",
+          "1 small fresh poblano chile pepper, seeded and minced",
+          "1 fresh habanero pepper, seeded and minced",
+          "1 teaspoon crushed red pepper flakes",
+          "2 tablespoons chopped fresh cilantro",
+          "1 teaspoon ground cumin"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat grill for high heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix together the beef, garlic, jalapeno peppers, poblano pepper, habanero pepper, red pepper flakes, cilantro, and cumin. Form into burger patties."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/roen64cdRR5IpEXHVvliTAqGfdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/875691-bd29da32e47e46a29c4372216e54cd1c.jpg"
+              }
+            ],
+            "text": "Lightly oil the grill grate. Place burgers on grill, and cook for 5 minutes per side, or until well done."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JULIE ANNE"
+            },
+            "reviewBody": "I didn't have habernero peppers...used japaleno and hot banana peppers. Also added minced onion. We like things spicy and these fit the bill. Will be making these a lot!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah"
+            },
+            "reviewBody": "Very good! I added a bit of kosher salt to the mix and sprinkled a bit on the outside of the patties before grilling. I was careful to remove all the seeds and ribs and the burger turned out flavorful, but not spicy at all. Next time I'll definitely leave a little of the ribs in for more kick. Having a slap/chop type of tool makes quick work of the peppers (and garlic if using fresh). Thanks for a tasty recipe!",
+            "datePublished": "2011-03-23T16:37:03.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hannahleighk"
+            },
+            "reviewBody": "I loved these sadly I didn't get to use the habanero peppers because my family can't handle the spice. This recipe turned out amazing. I also used pepper jack cheese and onion buns and it made it taste even better!",
+            "datePublished": "2020-05-19T15:16:46.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tclark6262"
+            },
+            "reviewBody": "Ooooooo, wheeeee these are hot...but I love it.\n\nI actually added diced red onion, Ancho Chili Powder, and topped with a pineapple slice and a little sweet BBQ sauce. Good Stuff.",
+            "datePublished": "2012-09-06T09:28:58.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheryl"
+            },
+            "reviewBody": "Not too spicy but awesome flavor. I used 1.5# of ground chuck to make the burgers a little bigger and used half of the other ingredients listed.",
+            "datePublished": "2017-10-16T13:28:04.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "adevine39"
+            },
+            "reviewBody": "I have made these burgers four times now for large cookouts, and they never fail to impress. I have discovered that they are not as hot as they would seem to be by looking at the recipe, so I usually split the meat after mixing and add a second habanero and a couple of jalapenos to half the mixture. This makes my friends and I that really like super-spicy foods much happier.",
+            "datePublished": "2008-12-02T07:46:14.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roy Feezor"
+            },
+            "reviewBody": "Wow! that's a good burger. I followed directions except I added a little more habanero, and sauteed some onions and jalapeno to put on top. I Will be making this often.",
+            "datePublished": "2009-11-08T14:25:50.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bengt"
+            },
+            "reviewBody": "these burgers just saved my marriage. actually, i'm not married, but if i was, i could see their awesomeness having that effect. the habanero is a must (maybe even add extra), and i would highly recommend adding a slice of jalapeno cheese to top it all off. i've been looking for a good burger recipe to experiment with dried bhut jolokia, and i think i'll be substituting the habanero for that next time.",
+            "datePublished": "2009-08-21T17:41:45.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "angelica"
+            },
+            "reviewBody": "I made this for a work cook out. I definitely believe on getting to peoples good side through their stomachs! This was definitely a crowd-pleaser. The guys ate them up! I added a little bread crumbs for a softer texture.",
+            "datePublished": "2015-12-10T17:42:11.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbara"
+            },
+            "reviewBody": "If you like hot and spicy foods then this burger is just for you. My family loves it and I have made it several times. I do add minced onions to the mix.",
+            "datePublished": "2015-09-10T05:07:36.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "just_jam"
+            },
+            "reviewBody": "we really enjoyed this with some minor modifications.. using ground turkey for beef and leaving out the habanero b/c we didn't have any.. also added about 1.5 tsp of kosher salt.. ty for the recipe",
+            "datePublished": "2015-04-21T07:27:36.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy"
+            },
+            "reviewBody": "delicious! I will say that I just used a variety of hot peppers from the garden but tried to estimate a similar amount.",
+            "datePublished": "2021-07-04T23:54:27.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Doyle"
+            },
+            "reviewBody": "Super tasty! I put in all the peppers and included the habanero pepper but I really didn't notice any spice, just really good flavor without the heat. I don't know if I just got dud peppers or if my burgers were too thick or something. Either way, these were delicious!",
+            "datePublished": "2019-06-09T00:30:25.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lee"
+            },
+            "reviewBody": "Only added a pinch of carolina reaper powder family loved it",
+            "datePublished": "2019-05-29T00:14:12.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brandon Erwin"
+            },
+            "reviewBody": "I've made these plenty of times for my family, everybody loves them. I just make sure to add all of the peppers and chop them finely. Nobody has said anything bad about them yet!",
+            "datePublished": "2017-02-19T10:25:20.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Barnish"
+            },
+            "reviewBody": "My husband loves spicy foods, so I tried this recipe and he fell instantly in love. He always asks me to make this for him.",
+            "datePublished": "2016-08-14T01:21:00.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Spicy Adama"
+            },
+            "reviewBody": "Hi there!! These burgers were delicious! Thanks for sharing!!\n\nI have tried them with our Spicy Adama Chile Morita Salsa check it out at http://www.spicyadama.com",
+            "datePublished": "2016-07-18T03:50:44.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RobertG"
+            },
+            "reviewBody": "A great spicy burger. I will make this again. PS to all those who don't like spicy foods... don't make these burgers.",
+            "datePublished": "2015-01-03T05:37:35.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catherine Przytula"
+            },
+            "reviewBody": "It was really easy to make and taste delicious not so spicy for me and my family were used to spicier food. Next time I'm going to try and double on the habanero. But other than that delicious.",
+            "datePublished": "2014-04-28T09:42:45.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "asoom"
+            },
+            "reviewBody": "One of the best",
+            "datePublished": "2014-01-15T09:09:27.970Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14542/spicy-burgers/",
+          "name": "Spicy Burgers",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+                  "name": "Burger Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/473/main-dish/burgers/hamburgers/",
+                  "name": "Hamburgers"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

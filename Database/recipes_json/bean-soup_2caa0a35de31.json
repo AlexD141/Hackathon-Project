@@ -1,0 +1,515 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13346/bean-soup/",
+  "extracted_at": "2026-10-18T01:53:24.439832+00:00",
+  "recipes": [
+    {
+      "name": "Bean Soup",
+      "ingredients_raw": [
+        "1 (16 ounce) package dried navy beans",
+        "7 cups water",
+        "1 ham bone",
+        "2 cups diced ham",
+        "0.25 cup minced onion",
+        "0.5 teaspoon salt",
+        "1 pinch ground black pepper",
+        "1 bay leaf",
+        "0.5 cup sliced carrots",
+        "0.5 cup sliced celery"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Rinse beans; transfer to a large stockpot and add water. Bring to a boil and simmer for 2 minutes; remove from heat, cover, and let stand for 1 hour."
+        },
+        {
+          "id": 3,
+          "text": "Add ham bone, diced ham, onion, salt, pepper, and bay leaf. Bring to a boil; reduce heat to low, cover, and simmer until beans are soft, about 1 hour and 15 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Add carrots and celery; cook until tender, about 10 to 15 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Remove ham bone from the pot and place on a cutting board until cool enough to handle. Remove any meat from the bones and cut into bite-sized pieces."
+        },
+        {
+          "id": 6,
+          "text": "Stir into soup until warmed through. Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Bean Soup",
+        "datePublished": "1999-01-26T08:27:13-05:00",
+        "dateModified": "2025-11-28T08:39:31-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Pat Keene"
+          }
+        ],
+        "description": "This hearty bean soup is made with a ham bone, cubed ham, navy beans, carrots, and celery. It&#39;s so flavorful and tastes even better on the second day!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/pq7Saow60Y0DI1PJLNmylJh1i-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-hero-e67de9a1aefe427c880268a6777044df.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/2RF6TPXB-K3AjnAEN.mp4",
+          "description": "In this video, learn how to make a tasty bean soup with ham, the perfect recipe for chilly winter nights. A ham bone imparts rich flavor to the broth, and diced ham gives the soup a wonderful meaty texture. Use dried navy beans, since they are quite good at absorbing all the savory flavor from the rest of the ingredients. Add this classic soup recipe to your weeknight rotation, and enjoy its memorable flavor all year round.",
+          "duration": "PT57S",
+          "name": "How to Make Bean Soup",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/2RF6TPXB/thumbnails/c6EUolfj.jpg?width=1280",
+          "uploadDate": "2023-01-29T14:22:07-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bean Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "350"
+        },
+        "cookTime": "PT100M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "247 kcal",
+          "carbohydrateContent": "37 g",
+          "cholesterolContent": "17 mg",
+          "fiberContent": "14 g",
+          "proteinContent": "17 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "543 mg",
+          "sugarContent": "3 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) package dried navy beans",
+          "7 cups water",
+          "1 ham bone",
+          "2 cups diced ham",
+          "0.25 cup minced onion",
+          "0.5 teaspoon salt",
+          "1 pinch ground black pepper",
+          "1 bay leaf",
+          "0.5 cup sliced carrots",
+          "0.5 cup sliced celery"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/8YKkf5TS_WaHsyP-R5dZN_rRXBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-ingredients-0067872feafc4a3791bb15a07bce1e19.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/7cwOCxEEwQ69iYCDrO-P-1A5okA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-steps-02-4d3dc49a07504bc38fe939d3508326dd.jpg"
+              }
+            ],
+            "text": "Rinse beans; transfer to a large stockpot and add water. Bring to a boil and simmer for 2 minutes; remove from heat, cover, and let stand for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/IdSsDI0B6O32VyJMK2QGgRzODeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-steps-03-101165e59752439598c203d0d2290f05.jpg"
+              }
+            ],
+            "text": "Add ham bone, diced ham, onion, salt, pepper, and bay leaf. Bring to a boil; reduce heat to low, cover, and simmer until beans are soft, about 1 hour and 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/SXvc8-Op6AVs6usvUSX_Ta6zQng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-steps-04-5fa6c00019f7403bb7af316084a255fc.jpg"
+              }
+            ],
+            "text": "Add carrots and celery; cook until tender, about 10 to 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/jyej3ZYIOcC0bRF-bLZKjEmNhYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-steps-05-b27ad21c4997492ca96d33f5f5d6c28d.jpg"
+              }
+            ],
+            "text": "Remove ham bone from the pot and place on a cutting board until cool enough to handle. Remove any meat from the bones and cut into bite-sized pieces."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/pq7Saow60Y0DI1PJLNmylJh1i-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-13346-bean-soup-ddmfs-4x3-hero-e67de9a1aefe427c880268a6777044df.jpg"
+              }
+            ],
+            "text": "Stir into soup until warmed through. Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT125M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BARB MAXWELL"
+            },
+            "reviewBody": "I am an Appalachian \"kid\" and bean soup was a staple in our family. Here is a little trick I learned. Cover your beans, nothing else added, with cold water, and bring to a solid boil for about 10 minutes. Remove the pan DON'T DRAIN and SET THE PAN IN YOUR SINK. Throw in about 1/4 cup baking soda, (in the hills it's a handful) and stir like crazy until the foam that will appear disappears, (don't worry if the foam looks green). Drain and rinse very well in cold water to remove all the soda flavor, then start recooking according to the directions. Doing this, you won't have to soak the beans, it cuts your cooking time, and removes maybe not all, but most of the \"gas\". More soda, less gas. The reason for setting the pan in the sink is that it will foam quite a bit and could go over the sides of your pan. BTW, never used a bay leaf in my life for bean soup."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MUSIC_MINX"
+            },
+            "reviewBody": "I boil the beans in enough water just to cover them 2x, discarding the water both times. It gets rid of the \"gas\" without adding extra sodium that using baking soda provides. Then I add enough water for the recipe, bring the beans to a boil, and add the ham bone, or ham hocks, or fried &amp; crumbled bacon if I have no ham. Simmer until beans are just tender. Add the carrots and celery, and also try adding a coarsely diced green pepper; cook about 20 minutes more. Meanwhile, I dice the onion as finely as I have patience to do, and fry it up in bacon grease. When it's tender, I add a mixture of flour (about 1/4 cup), paprika (about 3 TBLS) and lots of black pepper. Add this to the soup, and stir and stir - the flour will just barely thicken the soup. This soup gets raves. Contact me for canning instructions.",
+            "datePublished": "2005-05-23T09:22:22.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MAK"
+            },
+            "reviewBody": "I soaked my beans overnight, like I always do. I put all the ingredients into a slowcooker, set it on low and at dinnertime we had bean soup like I remembered! I grew up putting ketchup in my soup and eating it ladled over thick slices of homemade bread! YUM",
+            "datePublished": "2006-02-01T04:14:56.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JUDITH"
+            },
+            "reviewBody": "This is very similar to my recipe for bean soup and it's excellent! The only thing I do differently, is that I cook everything together, rather than adding the veggies later and cook on low for 5-6 hours. Just before serving, I add 1/4 cup of instant potato flakes to slightly thicken the stock. Don't forget to remove the bay leaf before serving!",
+            "datePublished": "2006-04-02T12:00:42.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan Anderson Gleason"
+            },
+            "reviewBody": "Following some other reviewer's suggestions, I made the following changes/ additions: used 4 c. chicken stock and 3 c. water, 1 c. each of carrots and celery. I soaked the beans overnight and then let it all cook in the crock pot all day on low. It's the most delicious soup I've ever made (and I'm 70 years old, so have made more than a few soups!) - Thanks for sharing, Pat!",
+            "datePublished": "2011-10-09T17:00:16.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charly"
+            },
+            "reviewBody": "This has been my basic recipe for 50 years and came from my southern cooking grandmother. The only additions to this recipe are two heaping tablespoons of minced garlic, 1 each of beef and chicken bouillon cubes and a touch of cajun seasoning. I soak the beans about 4 hours with the hock, bay leaf and bouillon then add the onion and carrot (1) before putting the heat under the pressure cooker. 30 min at 15# then into a crock pot for 4 hours. While very hot I add two big tablespoons of instant potatoes for thickening and a touch of potato flavor. Yum Yum.",
+            "datePublished": "2012-07-26T06:56:18.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Douglas Miller"
+            },
+            "reviewBody": "I used pinto beans,\"all I had\"and a ham bone and drippings from when I heated the ham.Added about 3/4 lb. ham pieces 1 cup carrots,1 cup celery,1/2 onion. 2 bay leafs and 1 cup v8 was a little thin so mashed up a 1/3 cup of the beans. Season to taste. Will make it agin the same way. I do not soak my beans. I rinse them in cold water and then just simmer until tender that's when you add the v8. every thing else all goes in the pool right away.",
+            "datePublished": "2018-04-03T20:10:54.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carla Seif-Wilke"
+            },
+            "reviewBody": "After the first boil and soak you should rinse the beans and then start over with fresh liquid, my preference is chicken stock and water, then add ham bone and bring back to a boil then I simmer for an hour and a half, then remove bone and bay leaf, then add prepared veggies and ham, simmer another hour. we like loaded so i add potatoes as well. i also mash a bit for thickening",
+            "datePublished": "2020-10-16T19:05:46.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charlotte Durivage"
+            },
+            "reviewBody": "This is just how I remembered my Nannie making it. During Step 2 I also added 2 more cups of water and 2 chicken bouillon cubes. I then added the celery and carrots after 45 min to omit the 3rd step and let the soup cook for the remaining 30 minutes.",
+            "datePublished": "2021-01-03T20:09:01.237Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karisma"
+            },
+            "reviewBody": "Very simple with beautiful flavor. Like other reviewers, I used chicken broth and increased veggies from half to a full cup. I also used a total of 5 bay leaves, added thyme, and a pinch of savory. I did not have a ham bone, so I just threw in two strips of uncooked bacon for the flavor and fat. (I did use the diced ham.) I omitted the salt since it was in the broth. I threw everything in the pot brought it to a boil for 10 minutes and then low simmer for 1 hour with lid on. After, I took the lid off and let it cook down for added flavor for another 30 mins. Oh before I forget, I just soaked the beans overnight.",
+            "datePublished": "2014-09-19T08:38:05.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ednkirstin2"
+            },
+            "reviewBody": "After years of searching for a great bean soup recipe, I've finally found it! The first time I made this, I used diced ham. It was good, but the second time I made it, I used 4 slices of bacon instead. That's the one I prefer. I put the bacon in raw and took out the large pieces when it was done cooking. I also added just a touch of brown sugar. I put everything in the crock pot on high (about 4 hours for navy beans and 5-6 hours for great northern beans), and didn't need to soak or precook the beans at all. If the beans start looking dry, just add a little more water and they'll be fine. Thank you so much for this recipe!",
+            "datePublished": "2013-01-16T03:39:46.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Frank G"
+            },
+            "reviewBody": "Delicious Recipe. Two alterations: My store didn't keep ham bones so I substituted Pork Neck Bones and seared them first in oil and garlic. They packed quite a bit of meat for $3.09. I also diced 5 small Yukon Gold potatoes that I had left over from Easy Potato and Leek soup, another five-star recipe.",
+            "datePublished": "2026-03-10T22:29:26.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela"
+            },
+            "reviewBody": "Yes. It’s very good but I added a can of tomatoe paste. Delicious",
+            "datePublished": "2025-12-31T19:22:52.751Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuaintSpud2673"
+            },
+            "reviewBody": "My wife and I made this recipe before. The only change we did was double the recipe. I couldn’t get enough the first time. This batch is just as delicious as the last. I got a good chuckle about the woman that made hers in the crockpot. I think that anyone who gave one or two stars shouldn’t be in the kitchen. I wouldn’t even want to eat at their house LOL. This is not a comlex recipe. If you follow it and use good ingredients, then your dish will never be bland bland bland.",
+            "datePublished": "2024-10-12T18:47:04.635Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HandyPeach8319"
+            },
+            "reviewBody": "When I get tired of the soup, I use it to make baked beans. I just add some molasses and BBQ sauce to the leftover soup and put in the oven in a Creuzet and bake it at 250F for a couple of hours. Keep moist with beer. BTW I use a 10-bean mix.",
+            "datePublished": "2024-04-08T14:44:27.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Purplebomshell"
+            },
+            "reviewBody": "Added garlic powder white pepper, a pinch of cayenne, liquid smoke and thickened it a bit.",
+            "datePublished": "2024-04-07T17:50:03.501Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ToastyTofu3699"
+            },
+            "reviewBody": "Might be good, but the pic makes it look awful",
+            "datePublished": "2024-02-28T14:40:47.335Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "beer4me"
+            },
+            "reviewBody": "It reminds me of the bean soup my grandmother used to make.",
+            "datePublished": "2024-01-03T17:43:23.111Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BriefDove5960"
+            },
+            "reviewBody": "Very good soup. You might want to watch the salt a little. The ham already adds a lot of saltiness, the extra is not really needed. I will definitely make this again.",
+            "datePublished": "2023-12-30T21:29:42.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SnappyOkra5371"
+            },
+            "reviewBody": "Yes I added prosuccto instead of ham and omitted the salt and. Celery",
+            "datePublished": "2023-11-02T13:01:35.632Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13346/bean-soup/",
+          "name": "Bean Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/170/soups-stews-and-chili/soup/beans-and-peas/",
+                  "name": "Beans and Peas"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

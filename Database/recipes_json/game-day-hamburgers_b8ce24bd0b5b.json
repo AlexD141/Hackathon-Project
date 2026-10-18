@@ -1,0 +1,446 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14499/game-day-hamburgers/",
+  "extracted_at": "2026-10-18T02:00:10.558202+00:00",
+  "recipes": [
+    {
+      "name": "Game Day Hamburgers",
+      "ingredients_raw": [
+        "1 large potato, peeled and shredded",
+        "1 cup shredded Swiss cheese",
+        "1 cup chopped fresh mushrooms",
+        "2 pounds lean ground beef",
+        "2 (1 ounce) packages dry onion soup mix"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat grill for high heat."
+        },
+        {
+          "id": 2,
+          "text": "In a medium bowl, mix together potato, cheese, and mushrooms."
+        },
+        {
+          "id": 3,
+          "text": "In a large bowl, mix ground beef with onion soup mix. Form into 6 large burger patties. Make a pocket in each burger, stuff with potato mixture, and seal."
+        },
+        {
+          "id": 4,
+          "text": "When ready to grill, brush grate with oil. Cook burgers over high heat for 5 minutes on each side, or until well done. Serve hot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Game Day Hamburgers",
+        "datePublished": "1999-08-26T01:15:46-04:00",
+        "dateModified": "2024-07-24T23:04:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Andy Alcorn"
+          }
+        ],
+        "description": "First the ground beef is mixed with onion soup mix and formed into nice thick patties. Then shredded potato, Swiss cheese, and mushrooms are combined, stuffed into each patty, and sealed for a nifty surprise with that first bite.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/HX74grNe7h79P6nhwTCT5QyMI3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14499game-day-hamburgersSoupLovingNicole4x3V2-d50bbcbc08834cde8383888dcc4fc28b.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Game Day Hamburgers",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "118"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "452 kcal",
+          "carbohydrateContent": "18 g",
+          "cholesterolContent": "115 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "35 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "951 mg",
+          "sugarContent": "1 g",
+          "fatContent": "26 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 large potato, peeled and shredded",
+          "1 cup shredded Swiss cheese",
+          "1 cup chopped fresh mushrooms",
+          "2 pounds lean ground beef",
+          "2 (1 ounce) packages dry onion soup mix"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat grill for high heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, mix together potato, cheese, and mushrooms."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix ground beef with onion soup mix. Form into 6 large burger patties. Make a pocket in each burger, stuff with potato mixture, and seal."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "When ready to grill, brush grate with oil. Cook burgers over high heat for 5 minutes on each side, or until well done. Serve hot."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nana"
+            },
+            "reviewBody": "Okay my husband just adout died over these hamburgers. I used Portabello mushrooms, bacon and monterey jack cheese for the filling. Per another viewer make small hamburgers and press the filling into the hamburger and place another patty on top and seal. In the meat mixture I used 1/3C. bread crumbs, 1 egg (egg beaters), 1 tsp. worchestshire sauce, 1 1/2 tsp. montreal steak seasoning."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary"
+            },
+            "reviewBody": "Thank you! These were excellent and the whole family loved them. I changed it around only because my youngest can't stand swiss cheese or mushrooms. I used shredded cheddar and real bacon, crumbled, not the imitation stuff. I also decided to divide the meat into 12 portions for stuffing. I laid out the first six, topped with the potato/cheese/bacon, then used the remaining six portions to top them off and seal them closed. My other \"cheat\" was to use thawed shredded hash browns instead of shredding my own potato. These burgers will be made again at my house for sure! Thank you very much..",
+            "datePublished": "2010-06-01T07:32:46.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "emi"
+            },
+            "reviewBody": "these were so good! never woulda thought to put potatoes in a burger! i used: 1 lb ground turkey (w/onion soup mixh, egg beaters, splash of worchestershire) to make 4 burgers, 1 small potato, 1/2 wedge of laughing cow swiss cheese light, garlic, and turkey bacon to make it a bit healthier. these were big and juicy and yum! i cooked the potato with garlic before stuffing it between buger halves- i will definitely make again! (i put jalapenos in the ones for my bf... he looooved them!)",
+            "datePublished": "2010-01-19T18:18:27.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Saj"
+            },
+            "reviewBody": "I followed what other reviews suggested and added one egg, some bread crumbs, ketchup, steak seasoning and only one of the onion soup mix packets to the meat. Also, I fried the shredded potatoes and chopped mushrooms with one clove of crushed garlic for 5 minutes prior to stuffing the patties to make sure the potatoes would cook all the way through. I had lots of compliments on these! I will make them again:)",
+            "datePublished": "2011-02-20T21:32:26.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "isaacsmommy"
+            },
+            "reviewBody": "It was heavenly and was a big hit at our bbq. I used frozen shredded potatoes and didn's use mushrooms. Cooked them first of course. I only had a few slices of swiss cheese so i tore them into pieces. I also used shredded mild cheddar which was ok but it wasn't as good as the swiss. For each burger, I shaped the ground beef mixture into two very thin patties, placed the potato/cheese mixture in the middle and sealed the edges by pinching/twisting/tucking. I made the mistake of just pinching the edges and the two patties separated on the grill, so i would suggest even somewhat kneading the edges with your fingers. Prepping these burgers were a little more time consuming than I wished, but IT WAS WORTH EVERY MINUTE. I'm so glad i doubled the recipe and froze extras. It's even tasty with ketchup and rice or mashed potatoes.",
+            "datePublished": "2010-06-24T19:29:38.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aisha"
+            },
+            "reviewBody": "So good I couldn't believe it, I wish I'd found this recipe a long time ago. I grilled the burgers on the stove and bought pre-shredded potatoes and cooked them first. I also made really thin hamburger patties then put the filling on top of them, then placed another thin patty on top of that and sealed it up-way easier than making pockets. I'm sure you could stuff these with just about anything, but try the original first, it's awesome.",
+            "datePublished": "2005-12-06T08:43:36.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mommys04"
+            },
+            "reviewBody": "I seasoned the meat with Weber Chicago steak seasoning and stuffed 3 with Simply Potatoes seasoned hash browns and cheddar cheese. I added portobello mushrooms, the hash browns, and cheddar jack to the other 3. Grilled 5 minutes on each side. Seriously the \"best burger ever\"!",
+            "datePublished": "2013-06-19T18:18:35.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "girlysoxfan"
+            },
+            "reviewBody": "My family really liked this recipe &amp; it was pretty easy to prepare, but quite messy! We don't eat mushrooms, so I subbed in shredded carrots &amp; used colby/jack cheese instead of swiss. Did them on the stove top on my cast-iron grill pan - very good! Also did what others suggested &amp; made 2 thin patties, placed filling between &amp; sealed. Will make again!",
+            "datePublished": "2009-01-21T07:35:12.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bubbasracecar"
+            },
+            "reviewBody": "Just about perfect! Use fresh hash brown packages &amp; cook them to instructions first then follow the recipe, then it is a 5 star! Serve without bun.\nMy wife &amp; kids that \"HATE Swiss cheese &amp; mushroons\" loved these, they even asked for more.",
+            "datePublished": "2006-10-23T23:06:05.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "McEmmy"
+            },
+            "reviewBody": "I used a mushroom soup packet as I'm not a fan of onion. These were pretty tasty, but I found the potato centre to not be fully cooked by the time the meat was done. Will make this again, but will probably quickly fry off the potatoes and mushrooms before putting them in the patties.",
+            "datePublished": "2010-10-05T23:04:11.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krista Rebello"
+            },
+            "reviewBody": "AMAZING!! First, I shredded a potato and fried it along with some mushrooms and a little bit of garlic. I added bread crumbs, an egg, worchestershire sauce and onion powder mix to the ground beef. I did the layered patty as opposed to the stuffed patty and MAN was it good!",
+            "datePublished": "2010-08-25T15:48:37.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "Made as written and these had good flavor. The one thing we both agreed on is that the shredded potato added nothing to this recipe. They got lost in flavor and added nothing to the consistency. Neither my husband or I could figure out how they benefited this dish. Leave the potato out and stick to shrooms and melty cheese. Hard one to photograph to show off the inside but here it is.",
+            "datePublished": "2024-07-23T01:47:55.395Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William Kline"
+            },
+            "reviewBody": "Best burger I have ever made. I got rid of all my other burger recipes. This will be the only burger I ever make. Thanks",
+            "datePublished": "2017-03-14T23:09:09.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judy"
+            },
+            "reviewBody": "Surprisingly good!",
+            "datePublished": "2015-08-11T10:11:48.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "just_jam"
+            },
+            "reviewBody": "we liked these but felt like there was something missing.. i precooked my potato (hashbrown style) and didn't really measure the filling because i was using the Stufz hamburger press.. it makes 1/2 lb burgers.. i halved the onion soup mix b/c i was worried it would be too salty.. also subbed ground turkey for the beef since i don't care much for beef.. the potato seemed to be lost inside the burger.. so it was pretty much unnecessary.. i'm not sure what more i was expecting.. note this is our first time making stuffed burgers",
+            "datePublished": "2015-08-05T18:42:49.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Frank"
+            },
+            "reviewBody": "The raw potato didn't cook well and detracted from the taste. Filling the burgers was a little tricky so I suggest chopping the filling relatively small.",
+            "datePublished": "2014-02-03T06:58:10.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen B"
+            },
+            "reviewBody": "These hamburgers were pretty good, and VERY filling. I loved the cheese and the mushrooms, thought they added good flavor and texture, but I wasn't sure what the point of having the shredded potatoes in the burgers was. I couldn't taste them or see them once everything was cooked so you could probably leave those out and not even notice (and save some time by not having to shred them). They were very good though, and my husband really liked these so I'm sure we will be making them again sometime. Thank you for the recipe, Andy!",
+            "datePublished": "2013-09-22T20:26:36.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori Christopoulos"
+            },
+            "reviewBody": "Very good, I switch out the cheese types for a variety.",
+            "datePublished": "2012-03-26T07:29:13.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chiefnut"
+            },
+            "reviewBody": "This was an amazing recipe. My family loved it and will do it again",
+            "datePublished": "2011-11-03T05:06:24.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yetti 000"
+            },
+            "reviewBody": "Potatoes did not cook through - need to specify what type and how big is a large potato (I used a large Russet). Having an uncooked potato absolutely killed the flavor. Also, may want to go fattier than 92% lean/8% fat.",
+            "datePublished": "2011-08-30T11:23:06.007Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14499/game-day-hamburgers/",
+          "name": "Game Day Hamburgers",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+                  "name": "Burger Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/473/main-dish/burgers/hamburgers/",
+                  "name": "Hamburgers"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

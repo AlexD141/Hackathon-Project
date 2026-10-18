@@ -1,0 +1,466 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14906/cream-cheese-pickles/",
+  "extracted_at": "2026-10-18T02:02:42.637501+00:00",
+  "recipes": [
+    {
+      "name": "Cream Cheese Pickles",
+      "ingredients_raw": [
+        "8 kosher dill pickles, patted dry",
+        "2 (8 ounce) packages cream cheese, softened",
+        "2.5 ounces thin-sliced beef luncheon meat"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Spread or pat cream cheese onto each slice of meat."
+        },
+        {
+          "id": 3,
+          "text": "Wrap 2 sheets of meat around each pickle."
+        },
+        {
+          "id": 4,
+          "text": "Refrigerate pickles overnight, and slice before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Cream Cheese Pickles",
+        "datePublished": "1999-11-30T22:22:15-05:00",
+        "dateModified": "2026-08-30T12:00:51-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Linda"
+          }
+        ],
+        "description": "Like the best part of a sandwich...without the bread! Cream cheese pairs up with sour dills and thin-sliced deli beef.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/SZ9DFxqdfpe70OghGE4Fu_150-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-14906-CreamCheesePickles-ddmfs-3x4-5965-ddba02d86eda4f83acdf501135efb9b7.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cream Cheese Pickles",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "174"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "230 kcal",
+          "carbohydrateContent": "7 g",
+          "cholesterolContent": "66 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "7 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "1995 mg",
+          "sugarContent": "2 g",
+          "fatContent": "20 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 kosher dill pickles, patted dry",
+          "2 (8 ounce) packages cream cheese, softened",
+          "2.5 ounces thin-sliced beef luncheon meat"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Y-9foGpYjYrXh0xMSMxW0TNNkoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-14906-CreamCheesePickles-ddmfs-Step1-3x4-5788-3e2791b6bf0542ae91487b2cd76498a3.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/WXbMhRPuN9tpqA-BKfnL9MWooVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-14906-CreamCheesePickles-ddmfs-Step2-3x4-5791-73da66ee65b64dc195bba86dd6024089.jpg"
+              }
+            ],
+            "text": "Spread or pat cream cheese onto each slice of meat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mPO3uMkraK-2f2pTC3sIObOuLfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-14906-CreamCheesePickles-ddmfs-Step3-3x4-5792-f4e7fc8b87b24afdac23801e91d90458.jpg"
+              }
+            ],
+            "text": "Wrap 2 sheets of meat around each pickle."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/SZ9DFxqdfpe70OghGE4Fu_150-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-14906-CreamCheesePickles-ddmfs-3x4-5965-ddba02d86eda4f83acdf501135efb9b7.jpg"
+              }
+            ],
+            "text": "Refrigerate pickles overnight, and slice before serving."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT480M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shay 74"
+            },
+            "reviewBody": "These are fab! A few tips to make them easier: smear softened cream cheese on the meat (intead of pickle), place wrapped pickles back in fridge for about an hour and then cut. Use a variety of meats, pickles, and cheeses. Sweet pickle with a turkey wrap is tasty. Have fun &amp; play with your food!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan"
+            },
+            "reviewBody": "It is a 5 star with these changes. Beating the softened cream cheese before spreading makes it MUCH easier to spread on the meat. I also used Buddig's corned beef as it imparts more flavor. Be sure to dry the slices before attempting to spread the cream cheese. If using Buddig's, use about 4-5 slices, not just two. Spread cream cheese on each slice. Be sure to chill overnight before attempting to slice.",
+            "datePublished": "2015-12-25T13:11:56.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tony Ashley"
+            },
+            "reviewBody": "One of my favorite appetizers! Spread the cream cheese on the meat, place toothpicks through the meat into the pickle, then cut in between the toothpicks. It won't fall apart on you that way. Pat the pickles and the meat dry. It helps the cream cheese spread easier.",
+            "datePublished": "2020-02-01T06:29:41.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I used (chive flavored) whipped cream cheese to make it more manageable for spreading on the beef slices. I wrapped the beef around a pickle and secured with toothpicks. With a sharp knife these didn't need refrigeration before slicing. This one is a keeper!",
+            "datePublished": "2019-04-13T20:44:33.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rvaccare"
+            },
+            "reviewBody": "This is by far the most popular recipe my family has. For every occasion, people request we bring these. A couple of tips to make sure this is the best - use Claussen (or other high quality refrigerated) pickles, not the shelf-stable varieties, use chipped beef (not the low-sodium/-fat version), and use softened cream cheese blocks (not the whipped cream cheese). Sorry, shortcuts do not work with these. Be careful with whom you share them, because you WILL be asked to bring them all the time in the future.",
+            "datePublished": "2020-01-28T19:49:04.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rubyrae"
+            },
+            "reviewBody": "My family calls these piccadillies. Not sure where the name came from! But we make these for every family get together and they are always a favorite! Here's how I make them.... Warm a block of cream cheese in the microwave for about 30-45 seconds, just until it's soft. Spread on a slice of corned beef or honey ham. Wrap around paper towel dried dill pickle. And repeat one or two more times depending on the size of the pickle. Refrigerate for an hour or overnight. Slice them up (keep the butts for your own snacking because they don't look as pretty!) and arrange in a Tupperware container. We place wax paper between our layers so that the cheese doesn't smear and make a mess.",
+            "datePublished": "2015-03-28T20:20:14.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary"
+            },
+            "reviewBody": "The recipe does not indicate, but you need to dry the pickle with a paper towel before spreading with cream cheese or the cheese does not stick to the pickle. I have made these for years, love them!",
+            "datePublished": "2023-03-03T21:02:19.345Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "thomatuttle"
+            },
+            "reviewBody": "my family has been doing this ever since i was little, so at least 30 years! we use the rectangular shaped ham you get in the grocery store. it's best to pat the ham and pickles dry so they don't slide all over the place. we ALWAYS smear the cream cheese on the ham, NOT the pickle. it would be too difficult that way! we also double the ham, so it goes ham, cream cheese, ham, cream cheese, pickle. it makes for a better ratio of ham to pickle in my opinion. once they're all rolled up together, we stick them in the fridge for a few hours or overnight so that they'll be a lot easier to cut. these are so good!",
+            "datePublished": "2011-10-26T09:56:47.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne Marinaccio"
+            },
+            "reviewBody": "My family has been making a variation of this but with deli ham, pepperoncini and cream cheese. Same principal take the seeds out of pepper first though and drain on paper towel, so good!",
+            "datePublished": "2014-08-05T16:34:51.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SunbirdSue"
+            },
+            "reviewBody": "Five stars because this is simple, good, and a real hit with the football fans. In a hurry tip: soften the cream cheese with a little pickle juice and mustard. This makes the cheese more spreadable onto the ham and eliminates the need to refrigerate overnight. Just make and go. Of course any refrigerating time before the big game is always an added flavor plus.",
+            "datePublished": "2016-01-16T08:46:46.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee Carr Perkins"
+            },
+            "reviewBody": "If you want it to be REALLY easy, chop everything and mix it together. To add a little more flavor, add a packet of dry Italian or ranch dressing mix to the cream cheese mixture. Serve it in a bowl with crackers on the side.",
+            "datePublished": "2020-01-28T19:27:58.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betty Jo Burtnett"
+            },
+            "reviewBody": "I use a food processer and blend the pickle and cream cheese together then spread on the meat then roll up. I also use different meats. Turkey, chicken, beef..",
+            "datePublished": "2026-05-16T20:46:42.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda"
+            },
+            "reviewBody": "These were amazing we used pickle spears and only one piece of meat but we made like 30 something and only had 4 left so definitely a keeper but I do think next time I would like to use more cream cheese and more lunch meat.",
+            "datePublished": "2025-01-02T22:36:06.303Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anne-Marie"
+            },
+            "reviewBody": "Excellent, even for a vegetarian like myself. I used Tofurky peppered faux meat deli slices and no one even questioned me to ask if they were meatless. This is a keeper ❣️",
+            "datePublished": "2024-12-24T02:17:51.296Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Johnson"
+            },
+            "reviewBody": "I used beef bologna and pastrami with garden vegetable cream cheese. Very delicious for a pickle lover.",
+            "datePublished": "2024-07-09T07:59:16.948Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mercrunner19975"
+            },
+            "reviewBody": "My sister turned me on to these with Dried Beef wrapping. Can't Get Enough !!!!!",
+            "datePublished": "2023-12-22T00:52:19.244Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue Girard"
+            },
+            "reviewBody": "I make these every so often. We love them, never any leftovers :)",
+            "datePublished": "2023-09-08T17:52:05.691Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WorthyYam2502"
+            },
+            "reviewBody": "Simple and easy to make. Delish!!!! Will be making these for super bowl",
+            "datePublished": "2022-02-06T20:40:21.499Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MsLewie3-Nancy"
+            },
+            "reviewBody": "In Minnesota these are a favorite. I've not made these with beef before and will definitly try it. To make the job much easier, pat the meat dry and spread the cream cheese on the meat.",
+            "datePublished": "2022-01-29T14:56:36.911Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda Been"
+            },
+            "reviewBody": "I've been making these for 40+ years. They are a family get together staple. I use baby dills for mine.",
+            "datePublished": "2022-01-28T05:42:58.876Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14906/cream-cheese-pickles/",
+          "name": "Cream Cheese Pickles",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/115/appetizers-and-snacks/wraps-and-rolls/",
+                  "name": "Wraps and Rolls"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

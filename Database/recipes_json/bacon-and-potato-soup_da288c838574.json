@@ -1,0 +1,496 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13076/bacon-and-potato-soup/",
+  "extracted_at": "2026-10-18T01:52:06.313277+00:00",
+  "recipes": [
+    {
+      "name": "Bacon and Potato Soup",
+      "ingredients_raw": [
+        "6 thick slices bacon",
+        "1.5 teaspoons olive oil",
+        "0.5 cup chopped onion",
+        "0.5 cup chopped carrots",
+        "1 stalk celery, chopped",
+        "4 cups low fat, low sodium chicken broth",
+        "4 cups cubed potatoes",
+        "0.125 teaspoon cayenne pepper",
+        "0.5 cup shredded Cheddar cheese",
+        "0.5 teaspoon kosher salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook bacon in a 3-quart saucepan over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain on a paper towel-lined plate. Discard bacon grease and wipe the pan thoroughly with a paper towel."
+        },
+        {
+          "id": 2,
+          "text": "Heat olive oil in the same saucepan over medium heat. Sauté onion, carrots, and celery in hot oil until onion is soft but not brown, 3 to 4 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in broth, potatoes, and cayenne pepper; bring to a boil, reduce heat, and simmer, covered, until potatoes are tender, 10 to 15 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in cheese, heating just until melted; do not boil. Chop bacon and add to soup. Season with salt and serve hot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Bacon and Potato Soup",
+        "datePublished": "1999-02-20T10:35:13-05:00",
+        "dateModified": "2026-05-02T13:51:12-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kwollak"
+          }
+        ],
+        "description": "This potato soup features sautéed onion, carrot, and celery cooked in chicken broth and mixed with cheese and crumbled bacon for a hearty winter dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/UxVjzP7xGIBnKTMBGXkEx9-tank=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13076_BaconandPotatoSoup_ddmfs_step4_4x3_2050-a180f3c2bea34a7eb19f12e1a4cf203b.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/SopzPBoy-ma1DlVvV.mp4",
+          "description": "In this video, you’ll see how to make a comforting potato soup with plenty of bacon. Potatoes simmer in chicken broth with onions, carrots, and celery. Top it off with crumbled bacon and Cheddar cheese, for a wonderfully warming soup on a chilly winter’s evening.",
+          "duration": "PT2M31S",
+          "name": "Bacon and Potato Soup",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SopzPBoy/poster.jpg?width=1280",
+          "uploadDate": "2023-02-03T15:34:01-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bacon and Potato Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "499"
+        },
+        "cookTime": "PT35M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "244 kcal",
+          "carbohydrateContent": "29 g",
+          "cholesterolContent": "21 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "12 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "433 mg",
+          "sugarContent": "3 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 thick slices bacon",
+          "1.5 teaspoons olive oil",
+          "0.5 cup chopped onion",
+          "0.5 cup chopped carrots",
+          "1 stalk celery, chopped",
+          "4 cups low fat, low sodium chicken broth",
+          "4 cups cubed potatoes",
+          "0.125 teaspoon cayenne pepper",
+          "0.5 cup shredded Cheddar cheese",
+          "0.5 teaspoon kosher salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/olqNC1fFhgilIf5lZwxYWeqzWgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13076_BaconandPotatoSoup_ddmfs_step1_4x3_2027-453314a62b1840e4ac9f7c1c0941f815.jpg"
+              }
+            ],
+            "text": "Cook bacon in a 3-quart saucepan over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain on a paper towel-lined plate. Discard bacon grease and wipe the pan thoroughly with a paper towel."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_SY9vzO79U56HD0MxixLNN3YLw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13076_BaconandPotatoSoup_ddmfs_step2_4x3_2035-092c41a2a5834c0cbb42f205221d1631.jpg"
+              }
+            ],
+            "text": "Heat olive oil in the same saucepan over medium heat. Sauté onion, carrots, and celery in hot oil until onion is soft but not brown, 3 to 4 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-HPg4RAE1OJy1qw28WIVrHsxiW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13076_BaconandPotatoSoup_ddmfs_step4_4x3_2047-d0602973c96b4de6b6fa6bf869ef8b52.jpg"
+              }
+            ],
+            "text": "Stir in broth, potatoes, and cayenne pepper; bring to a boil, reduce heat, and simmer, covered, until potatoes are tender, 10 to 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/UxVjzP7xGIBnKTMBGXkEx9-tank=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13076_BaconandPotatoSoup_ddmfs_step4_4x3_2050-a180f3c2bea34a7eb19f12e1a4cf203b.jpg"
+              }
+            ],
+            "text": "Stir in cheese, heating just until melted; do not boil. Chop bacon and add to soup. Season with salt and serve hot."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KITTEY"
+            },
+            "reviewBody": "As usual, I read reviews - nearly 6 pgs of them - got tickled that several reviewers didn't really REVIEW; they REVAMPED the soup into something entirely different from Kwollaks original. Suit yourself, but this soup, just as it IS, is wonderful. I made this for a \"Gourmet Group\" and all agreed that it is terrific. Being part of such a group, I actually used fresh chicken broth, made from boiling a real chicken and no-salt added. Thank you-this soup was a HIT!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William E Kusnerik"
+            },
+            "reviewBody": "It was pretty good as written, but why in the world would you get rid of all that yummy bacon grease and replace it with olive oil??? I know it's supposed to be healthier, but my grandparents both lived into their 90's eating bacon fat and/or lard nearly every day!",
+            "datePublished": "2013-01-22T07:30:22.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Willdel"
+            },
+            "reviewBody": "Made separate cheese sauce with 2 Tbs butter 2 Tbs flour and 1/3 cup milk. Heat till thick. Then add 1/2 cup sharp cheddar cheese, 1/4 parmesan cheese and 1/4 cup real bacon bits. Heat till cheese melts and add more milk if needed but keep it thick. Cook everything else in separate pan. Sauté onions and celery till onions are translucent then add the other stuff. When potato’s are done add in the cheese sauce and take off heat, let sit about 5 minutes before serving.",
+            "datePublished": "2021-08-05T18:34:13.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gtyyup"
+            },
+            "reviewBody": "Duh people...this isn't milky and creamy because there isn't any MILK in the ingredient list!! OK, rant over. This soup's ingredient list is perfect as written!!!!!!! I changed the procedure a little bit: I cut the raw bacon into small pieces before frying them in the pan; drained on paper towel. Then I removed all but about 2 tablespoons of the bacon fat and sauteed the veggies in the fat then added the potatoes, stock &amp; pepper. I let the soup simmer for about 45 minutes then used my immersible blender to make it a little smoother, but I did leave a fair amount of potato and carrot pieces. Then I added the bacon pieces. I served it into bowls with cheese on the side to add on the top of the soup. NO salt was added, and I used Knorr Chicken Stock...which was not low-salt. Next time I would use a low-salt stock or broth as the husband and I agreed that it was a bit salty (my own fault). The recipe is a keeper...thank you!",
+            "datePublished": "2015-01-29T10:03:40.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "I am on a low-carb diet so I changed the potatoes to butternut squash which I bought already diced in a 1 pound container which was 4 cups. I also increased the carrots, onions and celery to about 1 cup each and put them in the food processor to really chop finely. I sauteed the veggies in the bacon grease and didn't use EVOO. I added 6 oz of smoked diced ham after sauteeing the veggies and at the end I did use a hand blender to smooth it out and left some chunks of squash. It was yummy and both my husband and I loved it!!!",
+            "datePublished": "2013-01-24T16:26:33.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly BvK"
+            },
+            "reviewBody": "My husband of 54 years is Dutch-Indonesian and we eat rice every day - except when I make this delicious soup! Here’s my variation on the theme: I have arthritic hands and sometimes find chopping vegetables a bit difficult. For that reason, I use new/red potatoes, leave the skins on, and can fairly easily chop them in bite-size chunks. For the celery, onion and carrot, however, I use a container of Trader Joe’s mirepoix, which is about three cups of these vegetables, chopped. That’s more than the recipe calls for, but we like the extra veg and it’s a lifesaver for me. I also use the yummy bacon grease to sauté and flavor the veg. I put the shredded cheese on the side as optional and serve with a huge salad and cheese and crackers. Happy campers!",
+            "datePublished": "2024-02-06T00:09:39.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan W"
+            },
+            "reviewBody": "I will make it again ! I did make some changes. I added the vegetables (carrots, onion and celery ) to about a tablespoon of the bacon fa, along with a small amount of garlic.. After about 7 mins on low I added the potatoes and broth , after 15 mins, I added a 1/4 cup of pumpkin. Then at the end I added about a cup of milk and the cheese and I used the emulsion blender to give some smoothness. Excellent Served with Bacon sprinkled on top and some Italian bread with a salad of dark greens. Yummy ! Family agrees !!",
+            "datePublished": "2018-02-24T00:11:38.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shauna Lynn"
+            },
+            "reviewBody": "I liked the idea but the potatoes definitely need to cook longer. I took the advice of cooking the onion, celery and carrots in the bacon drippings. Saved cleaning the pan and added more flavor. I also added a teaspoon of smoked paprika to elevate the flavor and skipped the cheese.",
+            "datePublished": "2023-12-14T20:22:25.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpeedySieve9454"
+            },
+            "reviewBody": "I have made this several times. It is the most requested dish for our workplace charity potluck lunch. My boss will not let me bring any left overs back home. Today, I am making it with vegetable broth, and adding some cut up Italian sausages to it as well. Time will tell...",
+            "datePublished": "2023-10-08T17:11:30.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mark Adams"
+            },
+            "reviewBody": "I have converted this recipe for the a slow-cooker. In lieu of sauteing the vegetables, I chose to place everything in the crock of my slow cooker raw , and set my timer for 6-8 hours. Gently stir in the cheese, and you will have the perfect velvety texture. Serve with sour cream and chives and a nice dry cornbread!",
+            "datePublished": "2016-10-24T03:21:56.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ananda"
+            },
+            "reviewBody": "I loved this soup, but changed a few things; first I didn't need 6 servings so I lessened the broth, using only 2cups of chicken broth and 1 cup of 2% milk. Had no cayanne pepper so I used paprika instead and also added a chicken bouillon cube for flavor. I only used 3 cups of potatoes and 1/4 cup of onions, I didn't touch the quantity on the vegetables. I did however sautee them in the bacon grease instead of olive oil. I like a hearty broth so I added a 1/2 tsp of cornstarch and removed half of the soup, blended it and then returned to pot and mixed it Back in. I couldn't believe I made a soup that was so good, will definitely be a staple in my winter meals :)",
+            "datePublished": "2012-10-10T13:24:20.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine Brul"
+            },
+            "reviewBody": "I really enjoy this soup and have made it countless times. With the exception of the cayenne pepper I basically add whatever quantity of the veggies my heart desires that day. The only thing I do differently is add the bacon to the bowl and not the pot and the same goes for the cheese. That is just a personal preference. Also as.another poster said why throw out the bacon grease. I cook the vegetables in it, it adds more flavour to the soup.",
+            "datePublished": "2026-02-17T19:38:02.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "graciemarie"
+            },
+            "reviewBody": "This is the third time I’ve made this and had to double the recipe, because it was so good the family complained when there was no leftovers. Changes: I used a pound of bacon when I doubled the recipe, left out the celery, we don’t care for it, I used a full teaspoon of clear jel to thicken and give it some body. Served with corn bread and cheese on the side. Like most hearty soups it is always better the next day, first because of the flavors marrying and second because I don’t have to cook, just heat it up! Yummy! ",
+            "datePublished": "2025-03-29T16:17:05.158Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SweetStraw3427"
+            },
+            "reviewBody": "It was tasty",
+            "datePublished": "2024-12-20T22:11:07.112Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MizSherm"
+            },
+            "reviewBody": "Too many potatoes, watery. The flavor was good and my family liked the taste. Not hearty enough. It's like the base for chicken noodle soup without the chicken or noodles.",
+            "datePublished": "2024-12-05T00:50:43.585Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaringGrill6385"
+            },
+            "reviewBody": "No not really but was it supposed to be not thicker 🤔",
+            "datePublished": "2024-12-01T15:52:23.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy Przybyla"
+            },
+            "reviewBody": "Great recipe, just the way it is. I did not make any changes to the recipe and it turned out excellent. Very good flavor",
+            "datePublished": "2024-11-07T18:32:05.286Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OBOE DAG"
+            },
+            "reviewBody": "Can you make this in the slow cooker?",
+            "datePublished": "2024-09-15T15:29:06.426Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SteadyDate4250"
+            },
+            "reviewBody": "Pretty tasty, added a few spices to spice it up, see what I did there hahaha, but anyways I added some garlic powder, little bit of paprika, some garlic to the onions and celery",
+            "datePublished": "2024-08-14T00:57:52.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TwistyPot1366"
+            },
+            "reviewBody": "I thought the soup was tasty. The cooking time for the potatos was wrong. I like the combination of the bacon, potato’s and veggies.",
+            "datePublished": "2024-02-20T21:11:05.113Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13076/bacon-and-potato-soup/",
+          "name": "Bacon and Potato Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1552/soups-stews-and-chili/soup/vegetable-soup/potato-soup/",
+                  "name": "Potato Soup Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

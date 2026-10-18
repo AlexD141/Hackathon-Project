@@ -1,0 +1,400 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/131438/chicken-fried-venison-steaks/",
+  "extracted_at": "2026-10-18T01:52:26.275759+00:00",
+  "recipes": [
+    {
+      "name": "Chicken-Fried Venison Steaks",
+      "ingredients_raw": [
+        "2 cups seasoned dry bread crumbs",
+        "0.5 cup all-purpose flour",
+        "salt and black pepper to taste",
+        "2 eggs",
+        "2 tablespoons milk",
+        "4 (6 ounce) venison loin steaks, pounded to 1/4 inch thick",
+        "0.5 cup vegetable oil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine bread crumbs, flour, salt, and pepper in a 1-gallon resealable plastic bag. Beat eggs and milk together in a shallow bowl."
+        },
+        {
+          "id": 2,
+          "text": "Dip each steak into the egg mixture, then place into the plastic bag and shake to coat with crumbs."
+        },
+        {
+          "id": 3,
+          "text": "Heat oil in a skillet over medium heat. Add steaks and fry, turning once, until both sides are golden brown, 6 to 8 minutes per side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chicken-Fried Venison Steaks",
+        "datePublished": "2020-06-18T23:26:55-04:00",
+        "dateModified": "2026-06-18T18:42:30-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lori C"
+          }
+        ],
+        "description": "Make tasty chicken-fried venison steaks with thinly pounded venison, egg batter, and seasoned bread crumbs, then fry them up until they&#39;re golden brown.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/J3ZorkOj13uJpamz5yVce7ZUNVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5117942-523a33088cf84c4fb47340a14f45d085.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken-Fried Venison Steaks",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "27"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "731 kcal",
+          "carbohydrateContent": "51 g",
+          "cholesterolContent": "222 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "47 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "496 mg",
+          "sugarContent": "4 g",
+          "fatContent": "37 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 cups seasoned dry bread crumbs",
+          "0.5 cup all-purpose flour",
+          "salt and black pepper to taste",
+          "2 eggs",
+          "2 tablespoons milk",
+          "4 (6 ounce) venison loin steaks, pounded to 1/4 inch thick",
+          "0.5 cup vegetable oil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine bread crumbs, flour, salt, and pepper in a 1-gallon resealable plastic bag. Beat eggs and milk together in a shallow bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Dip each steak into the egg mixture, then place into the plastic bag and shake to coat with crumbs."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over medium heat. Add steaks and fry, turning once, until both sides are golden brown, 6 to 8 minutes per side."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Goliath"
+            },
+            "reviewBody": "This isn't a favorite in our house but it was easy to make and tasted ok. I would recommend marinading it in at least something to get rid of the natural taste of the venison, I found just frying it without a marinade had a very weird taste."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "n1colette"
+            },
+            "reviewBody": "In order to make this more tasty I use shortening instead of vegetable oil. Also, instead of using bread crumbs you only have to season your flour with pepper, garlic salt, red pepper, and any other flavors you like. I coat the venison in the dry mixture, then in the egg wash and then back in the dry mixture. Delicious every time!",
+            "datePublished": "2011-03-14T12:01:21.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renae Young-Henze"
+            },
+            "reviewBody": "This is good but I added Frank’s hot sauce to the egg till it was orange. Gives it just enough flavor without making it spicy. Then I dip in egg and flour twice before frying. My family loves it.",
+            "datePublished": "2020-04-13T20:37:29.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly"
+            },
+            "reviewBody": "Pounded the meat thin, sprinkled generously with garlic powder, salt and pepper. Coated heavily with flour, dipped in beaten egg/milk/splash of hot sauce, coated in bread crumbs.",
+            "datePublished": "2024-12-15T00:03:42.315Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AlexMcG"
+            },
+            "reviewBody": "I love this way to use venison. I discovered it one night when I had forgotten to start marinating the steaks until we were already getting hungry. It's great because it's quick and really, really good.\n\nHowever, I have discovered that the cut is really important; venison steaks are just roasts (or other cuts) that have been cut into slices, so pay attention to which cut the steaks are coming from. This recipe is best with steaks from more tender cuts like the sirloin or eye of round, since there's no marinade to help the tenderizing.\n\nAlso, try a bit of worcestershire on the finished steaks and—this is important—use bacon grease instead of oil. Bacon makes it better \\m/",
+            "datePublished": "2014-02-08T21:02:25.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barry D"
+            },
+            "reviewBody": "Marinated and grilled is the way to go with venison steaks, but if time doesn't allow then this recipe is an excellent alternative. Cut the breadcrumbs at least in half (1 cup) or you will have much wasted. Best feature of this recipe is it took me only 20 minutes from opening fridge to plating dinner. Quick and easy with a good (not excellent, but good) result.",
+            "datePublished": "2015-01-13T17:18:01.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dana"
+            },
+            "reviewBody": "Very good recipe! Venison and Elk tend to be much drier than beef since it's lean so I think Chicken fried is the best way to cook it. I used oryx meat that my husband killed (cooks similar to venison and elk) and this was so tasty and more moist than the restaurant chicken fried steak I've had! Mashed potatoes and white gravy is a must for my family to go with the recipe as well! (I used the drippings to make my gravy). My picker meat eater 2 year old cleaned his plate!!! I will just use plain panko in place of the seasoned bread crumbs next time since the herbs threw the taste off slightly. But this is a keeper recipe for sure!",
+            "datePublished": "2016-01-04T11:51:38.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bucky"
+            },
+            "reviewBody": "Very good recipe. The flour and bread crumbs help to diguise the gaminess of the venison. I used olive oil to cook the venison, and then when I was done frying that, I fried some onion to go with the venison. Deeeeelish!",
+            "datePublished": "2009-12-12T05:22:49.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Turned out very good. Pounded steaks, dipped in flour then did the egg wash then the bread crumb mixture",
+            "datePublished": "2020-12-30T22:40:09.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TVee"
+            },
+            "reviewBody": "This is a good recipe, I add a little garlic powder to the bread crumbs because we love garlic, this works well with tenderized deer steak and tenderized blackstrap, thanks for an easy and tasty recipe. ????????",
+            "datePublished": "2017-12-06T01:04:24.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zipityla"
+            },
+            "reviewBody": "Very good...didn't have bread crumbs so I used crushed up Ranch flavored Doritos, hubby and kids loved it!",
+            "datePublished": "2012-04-15T17:47:15.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MichaeleM"
+            },
+            "reviewBody": "i cut my steaks into strips so the kids would be interested in trying. very very good! thanks",
+            "datePublished": "2011-10-09T10:13:46.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gina Perkovich Baker"
+            },
+            "reviewBody": "Good base recipe...helps me to have breakdown of ratios (breadcrumbs-to-flour, etc.)",
+            "datePublished": "2011-07-08T11:16:06.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jerry C"
+            },
+            "reviewBody": "very tasty and tender",
+            "datePublished": "2011-01-15T06:08:51.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Theresa Wareham Murray"
+            },
+            "reviewBody": "very, very good. I didn't have breadcrumbs but I used Panko crumbs. My husband and I loved the flavor and the tenderness of the steaks.",
+            "datePublished": "2010-11-27T18:43:58.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Hochstein"
+            },
+            "reviewBody": "This was soooooo good. Everyone loved it",
+            "datePublished": "2010-11-22T17:50:04.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "L Monet"
+            },
+            "reviewBody": "Yes! yes! Yes!!!!! My fiance loved his chicken fried steak tonight.. He wanted me to do something different with the steak, I'm not a huge fan of fried foods, but this gets all thumbs up! I'm going to add this to my regular meal recipes!!!! Thanx sooo much!!!!!",
+            "datePublished": "2010-11-15T19:26:31.130Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/131438/chicken-fried-venison-steaks/",
+          "name": "Chicken-Fried Venison Steaks",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/202/meat-and-poultry/game-meats/",
+                  "name": "Game Meats"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/667/meat-and-poultry/game-meats/venison/",
+                  "name": "Venison"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

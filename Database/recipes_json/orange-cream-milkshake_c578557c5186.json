@@ -1,0 +1,398 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20698/orange-cream-milkshake/",
+  "extracted_at": "2026-10-18T02:46:24.889217+00:00",
+  "recipes": [
+    {
+      "name": "Orange Cream Milkshake",
+      "ingredients_raw": [
+        "0.5 cup milk",
+        "4 scoops vanilla ice cream",
+        "3 tablespoons frozen orange juice concentrate, thawed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a blender combine milk, ice cream and orange juice concentrate. Blend until smooth. Pour into glasses, garnish with an orange slice and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Orange Cream Milkshake",
+        "datePublished": "2000-08-07T12:39:45-04:00",
+        "dateModified": "2024-04-07T20:32:53-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Nancy Feist"
+          }
+        ],
+        "description": "Our family loves milkshakes in the summer to cool off. The creamy orange flavor of this shake was a big hit.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ewLNJBZo-ndCMRpXtGmEKVXkZg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20698orange-cream-milkshakelutzflcat-e522f67a4c0d453faa2d0428a8f8c8ab.jpeg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Orange Cream Milkshake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "35"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "157 kcal",
+          "carbohydrateContent": "23 g",
+          "cholesterolContent": "23 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "59 mg",
+          "sugarContent": "22 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup milk",
+          "4 scoops vanilla ice cream",
+          "3 tablespoons frozen orange juice concentrate, thawed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a blender combine milk, ice cream and orange juice concentrate. Blend until smooth. Pour into glasses, garnish with an orange slice and serve."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This is the best recipe on this website and I think it should be put up as the recipe of the day!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jarosie"
+            },
+            "reviewBody": "You may want to try it the Dominican way. There it's called Morir Sonando (English translation 'to die dreaming'.) Use evaporated milk, sugar to taste, freshly squeezed orange juice but you can use regular orange juice, juice of 1 lime, vanilla and a little cinnamon. Blend all the ingredients together with ice. This can either be done in a blender or just putting it in a covered container and shaking it vigorously by hand.",
+            "datePublished": "2017-08-29T23:35:36.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Davep"
+            },
+            "reviewBody": "Tasted exactly like a orange creamsicle!!! Super easy to make, took me 5 minutes. I used 5 scoops of ice cream and 6 tbsp of orange juice instead of the concentrate",
+            "datePublished": "2015-11-01T17:05:36.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TrustyWhey9734"
+            },
+            "reviewBody": "Hello..just use whole milk, orange cream ice cream and some regular orange juice with a teaspoon of vanilla extract..it will come out delicious!!",
+            "datePublished": "2024-06-11T21:04:53.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "laitment"
+            },
+            "reviewBody": "If you want to avoid the extra sugar from the orange juice concentrate, use orange extract.\n\nIt's a pretty standard milkshake recipe, so I don't think you can legitimately say that the texture is bad.\n\nBefore you recommend playing with the amount of milk, do keep in mind that \"scoops\" of ice cream is a very arbitrary measurement. Try starting with a 2:1 ratio of ice cream to milk.",
+            "datePublished": "2007-07-02T12:28:17.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "House of Aqua"
+            },
+            "reviewBody": "It taste a like a creamier version of the orange dream machine at a popular smoothie place. I added in some vanilla extract. My daughter loves this recipe!",
+            "datePublished": "2017-07-04T00:53:15.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peachcake"
+            },
+            "reviewBody": "Very good! Mix half vanilla ice cream and half orange sherbert with milk and it tastes a lot like the Varisty Orange at the Varsity in Atl.",
+            "datePublished": "2009-05-17T11:16:11.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JENNJENN43"
+            },
+            "reviewBody": "my kids loved this!! i want to try it with lemonade too (copycat chick-fil-a frosted lemonade which is sooooo delicious)",
+            "datePublished": "2017-05-26T22:14:13.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "YUM! I didn't use the whole half cup of milk, just a tad and I added a half teaspoon of vanilla extract. Just like a Creamsicle. NOTE: I used Turkey Hill ice cream.",
+            "datePublished": "2011-08-11T02:17:36.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This milkshake is... ok? I would barely call it a milkshake at all since it came out in blobs instead of being smooth, even after I blended it over and over. It turned out way too sweet, since there is only 1/2 a cup milk and the rest is sweet. I tested it out in the middle of the blending process and realised it was too rich with sweetness, so I added another 1/2 cup of milk. After that, it was alright. It made more like 3 servings, instead of 2. Overall- I was not impressed. It wasn't the best milkshake I've had but it was average. I also added whipped cream to the top and it was actually pretty tasty with chocolate chip cookies (yum). I don't think I will make this one again, but I will keep looking for the perfect milkshake recipe.",
+            "datePublished": "2004-03-07T12:59:44.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "My husband is the milkshake lover around here, but I must say that I liked this one, too. There’s nothing NOT to like, good stuff. Brings back memories of eating creamsicles when I was a kid,",
+            "datePublished": "2024-04-05T17:04:58.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Homecooking"
+            },
+            "reviewBody": "It could have been a litter sweeter.",
+            "datePublished": "2017-08-16T21:39:38.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joel Higgins"
+            },
+            "reviewBody": "its so refreshing on a warm summer day.",
+            "datePublished": "2016-07-23T03:55:09.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erica L Ingram"
+            },
+            "reviewBody": "followed it basically to the letter and i didn't find anything was wrong with it. It tasted great to me!",
+            "datePublished": "2012-07-01T17:10:59.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danyel Dille Casselman"
+            },
+            "reviewBody": "This was ok. Definitely has potential with the proper ingredients. I don't think that the orange juice concentrate did much for it. Maybe an orange soda pop or something. Don't think I will be making this one again though.",
+            "datePublished": "2011-03-24T17:00:39.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mominml"
+            },
+            "reviewBody": "Loved it - added a dash of orange extract. Kids had this for a snack and they all enjoyed it.",
+            "datePublished": "2011-03-21T20:29:02.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ebony"
+            },
+            "reviewBody": "yummy a little tart but maybe i added too much orange juice",
+            "datePublished": "2009-10-04T21:54:08.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Traci"
+            },
+            "reviewBody": "not great, wouldn't make it again",
+            "datePublished": "2009-05-02T16:20:16.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mjs9892"
+            },
+            "reviewBody": "really good and refreshing but needed more orange flavor in my opinion..",
+            "datePublished": "2009-04-20T20:17:37.403Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20698/orange-cream-milkshake/",
+          "name": "Orange Cream Milkshake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/137/drinks/shakes-and-floats/",
+                  "name": "Shakes and Floats Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,442 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216865/baked-penne/",
+  "extracted_at": "2026-10-18T03:00:59.368843+00:00",
+  "recipes": [
+    {
+      "name": "Baked Penne",
+      "ingredients_raw": [
+        "0.5 pound extra lean ground beef",
+        "0.5 cup chopped onions",
+        "0.5 cup chopped green peppers",
+        "1 (24 ounce) jar spaghetti sauce",
+        "1 (10 ounce) tub PHILADELPHIA Italian Cheese and Herb Cooking Creme, divided",
+        "1 cup KRAFT Shredded Mozzarella Cheese, divided",
+        "3 cups hot cooked penne pasta"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Heat a large nonstick skillet over medium-high heat. Cook and stir beef, onions, and peppers in the hot skillet until beef is browned and crumbly, 5 to 7 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in spaghetti sauce, 3/4 cup cooking creme, and 1/2 cup mozzarella: cook and stir until mozzarella is melted, 2 to 3 minutes. Mix in cooked pasta until evenly coated."
+        },
+        {
+          "id": 4,
+          "text": "Spoon pasta mixture into a 2-quart casserole dish. Top with remaining cooking creme and mozzarella. Cover the dish with aluminum foil."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven for 15 minutes. Remove the foil and continue baking until heated through, about 5 more minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Baked Penne",
+        "datePublished": "2011-02-25T17:22:54-05:00",
+        "dateModified": "2026-09-05T14:49:22-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Philadelphia"
+          }
+        ],
+        "description": "This version of the Italian-inspired classic dish combines penne pasta with ground beef, peppers, and sautéed onions, baked with Philadelphia Italian Cheese and Herb Cooking Creme, topped with Mozzarella cheese.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/sbRUGayXb9W-Z2lfZCVMMbF_NN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216865bakedpennelevontunes4x3-3450b6dddfa345508da186c22e23a461.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Baked Penne",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "133"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "397 kcal",
+          "carbohydrateContent": "39 g",
+          "cholesterolContent": "64 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "21 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "922 mg",
+          "sugarContent": "11 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "0.5 pound extra lean ground beef",
+          "0.5 cup chopped onions",
+          "0.5 cup chopped green peppers",
+          "1 (24 ounce) jar spaghetti sauce",
+          "1 (10 ounce) tub PHILADELPHIA Italian Cheese and Herb Cooking Creme, divided",
+          "1 cup KRAFT Shredded Mozzarella Cheese, divided",
+          "3 cups hot cooked penne pasta"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat a large nonstick skillet over medium-high heat. Cook and stir beef, onions, and peppers in the hot skillet until beef is browned and crumbly, 5 to 7 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in spaghetti sauce, 3/4 cup cooking creme, and 1/2 cup mozzarella: cook and stir until mozzarella is melted, 2 to 3 minutes. Mix in cooked pasta until evenly coated."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spoon pasta mixture into a 2-quart casserole dish. Top with remaining cooking creme and mozzarella. Cover the dish with aluminum foil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 15 minutes. Remove the foil and continue baking until heated through, about 5 more minutes."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 2-quart casserole"
+        ],
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ljones35"
+            },
+            "reviewBody": "This is a great recipe! I made some changes like I used 1 pound of beef, 1 whole green pepper, 1 whole onion, 1 clove of garlic, half a tub of the cooking creme, and 2 cups of mozzarella cheese. It turns out great I am going to use this recipe a lot Thanks!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kate L"
+            },
+            "reviewBody": "Did this almost exactly as written. The only ingredient I changed was doubling the meat to a total of 1 pound, since that is what I had defrosted. I made this a day in advance and stuck it in the fridge overnight so all we had to do was throw it in the oven for a weeknight meal. Both my husband and my son went back for seconds! So this was a total win. Worked perfect as a make-ahead meal too.",
+            "datePublished": "2013-05-10T17:57:23.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elyse"
+            },
+            "reviewBody": "Used Boursin cheese. Less tomato sauce. Added a shredded zucchini and chopped red pepper to the sauteed onion and garlic, with copious Italian seasoning. Lastly, I doubled the meat. My teenage sons LOVED it. Broiled it for the last two minutes to brown the cheese. YUM",
+            "datePublished": "2026-01-05T01:19:11.886Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lindsay Michelle Hester"
+            },
+            "reviewBody": "Decided to make this for the Mr. Because I was too afraid to make lasagna... don't judge me, I'm a horrible cook. I had to substitute the Philadelphia spread from the recipe because apparently Philly doesn't make it anymore. No problem though, I just got regular cream cheese and Italian seasoning (Something Philadelphia suggested as a replacement) tasted just as good. So I browned the beef, put the onions and peppers in along with salt and pepper and ohhh my goodness it was smelling wonderful. My noodles were almost done as I added my cream cheese and mozzarella cheese. I dumped my noodles into a baking dish and mixed in my beef/cheese mix and added more mozzarella on top then baked it. When it came out it smelled great, I took a bite and... well I was disappointed. I was frustrated and a little upset because it just tasted bland. As I stood in front of my oven wondering how I was going to feed this to my hardworking man I look to my right and realized I did not put the pasta sauce in the meal! y'all the excuses I came up with as to why dinner would be another twenty minutes. I dumped it all back in a pan, added my sauce and then served it to him and it was great!! The recipe, when made properly, is easy and just plain good leftovers as well. I would absolutely make this again and and add a nice salad to go along with it!",
+            "datePublished": "2017-09-05T03:29:19.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy3317"
+            },
+            "reviewBody": "My daughter requested penne and sauce as her last meal before leaving for college. Decided that this sounded like something my husband might like as well since penne usually isn't his thing. Huge hit with both girls (rarely happens) and my husband. I did add some fresh basil and used only half of the cooking creme, chosing not to add it to the top. I actually put it into two smaller pans and froze the second pan for my husband and I after work some night since we are now empty nesters.",
+            "datePublished": "2011-08-29T18:35:09.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachael"
+            },
+            "reviewBody": "This was excellent! I did, however, make a few modifications... my grocery store did not have the Italian Seasoning cooking creme so I substituted the Tomato Basil in its stead (to make it more \"season-y\" I added some added minced garlic and herbs de provence to the meat so the tomato flavor wasn't overwhelming); I used 1.25 lbs of ground turkey instead of a half pound of beef (which came out deliciously); I used the equivalent of dry chopped onions to the fresh chopped onion (2 tbsp); and I used around 4 cups of pasta instead of the 3---and it turned out great. My fiance and I loved it! A caution, though---it makes a ton of leftovers for two people! Which, in the case of this dish's superior deliciousness, I totally did not mind :)",
+            "datePublished": "2012-02-27T15:03:49.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KellieJo"
+            },
+            "reviewBody": "Made this for supper and it was a hit! I made 4 cups ziti noodles with 2lbs beef browned with onion; a jar of drained mushrooms, 8oz of cream cheese (heated/melted), combined with 1 cup of mozzarella, cheddar and a large jar of Prego spaghetti sauce and let it simmer for a few minutes. I added Lawry's, garlic powder, salt/pepper to the meat as it browned for additional flavor. Combined the sauce mixture with the noodles and topped with a cup of mozzarella and sprinkled some parmesan - served it with garlic bread. Will make this again!",
+            "datePublished": "2014-01-26T16:21:30.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lorraine Taylor"
+            },
+            "reviewBody": "Say goodbye to those expensive bag dinners that are similar to this dish! I don't think they even make the cooking cream anymore, but who cares? I used about 8oz of regular cream cheese, 1 can of diced tomatoes (slightly drained), 1 small can of mushrooms, and a pack of mild Italian turkey sausages (removed casing and mashed them up while cooking) instead of ground beef. I also added a bit more seasoning - garlic powder and oregano, a dash of red pepper flakes. I topped it with a bit more mozzarella and WOW! Super easy and delicious. This recipe also keeps well for a couple of days of leftovers on busy nights. This one is a winner!",
+            "datePublished": "2017-11-25T14:03:51.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janna Johnson"
+            },
+            "reviewBody": "love this! family favorite for years!! i use lots of spices and garlic. sub hamburger for sweet italian sausage. i cant find the cooking creme anymore so i make my own with spices , garlic, italian seasoning. my hubby's favorite pasta dish :)",
+            "datePublished": "2019-01-12T03:18:14.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "heatherg"
+            },
+            "reviewBody": "My husband and I loved this recipe. I substituted cream cheese for the Philly cream, used Raos Arrabbiata Pasta Sauce, 1 can diced tomatoes, Italian seasoning, dried parsley, oregano and extra veggies (peppers and onions) as well as added a small amount of parmesan cheese and it was wonderful!",
+            "datePublished": "2015-12-19T18:35:17.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Snowflake"
+            },
+            "reviewBody": "Just finished making this, it was good but I found it a little rich. I wouldn't say it makes 6 servings more like 4 if that. I added 5 cups of pasta instead of 3 &amp; mixed all of the cooking creme in the meal rather than using some on top. I plan on making this again with the following changes: 1 13.25 box whole wheat penne pasta, 1 lb ground beef, 1 cup each chopped onions &amp; green pepper, 2- 24 oz jars tomato sauce, 1 15 oz tub cooking creme, 2 cups of mozzarella cheese.",
+            "datePublished": "2012-02-11T17:02:26.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "danny k"
+            },
+            "reviewBody": "The flavor was spot on.",
+            "datePublished": "2026-10-10T22:40:08.819Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doug"
+            },
+            "reviewBody": "Philadelphia Cream Cheese Italian cooking sauce has been discontinued. You'll need to Google a substitute.",
+            "datePublished": "2025-12-18T16:26:57.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Taravella"
+            },
+            "reviewBody": "I started out following the instructions as given except I couldn’t find the crème. I used garlic and herbs cream cheese. I used a half pound of ground beef and a half pound of mild Italian sausages. As I went along I added more mozzarella because is there a thing as too much cheese?? This was a great recipe and easy to follow even if you deviate from the original recipe. I’m sure it would be great as written.",
+            "datePublished": "2024-10-22T20:05:32.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arlene Joseph"
+            },
+            "reviewBody": "I made it just like the recipe but used elbow pasta. It still taste great. Family loved it.",
+            "datePublished": "2024-08-01T03:04:13.574Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TraciAnn And BB"
+            },
+            "reviewBody": "This recipe was loved by us all. Used regular cream cheese and herbs instead of cooking crème. Good flavor and quicker to put together than lasagna, and we had no leftovers. Will make this often. Thanks for the nice recipe.",
+            "datePublished": "2024-06-02T23:49:54.134Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kathrynanne"
+            },
+            "reviewBody": "I was trying to replicate a baked penne dish from a local restaurant and this came very close. I didn't realize what cooking creme was and misread it as cream cheese. I ended up using neufchatel, and I would do that again but reduce it to 4-6 ounces only. I also made it vegetarian and did not use any meat. Everyone in my family enjoyed it!",
+            "datePublished": "2022-04-17T23:14:51.506Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Packers Fan"
+            },
+            "reviewBody": "My family took 2nd and 3rd helpings! I did make some alterations, like substituting mushrooms for ground beef (made this on Ash Wednesday) and added fresh basil to the mix just before putting it into the casserole dish. I also was unable to find the Italian spread, so I used some Garlic Herb flavor instead along with regular cream cheese. I only put mozzarella cheese to the top and baked it uncovered the entire time. Served it with an Italian salad and garlic bread. Excellent!",
+            "datePublished": "2022-03-08T13:46:19.119Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pman040"
+            },
+            "reviewBody": "Wonderful recipe and the créme addition ups the game of the sauce. The one called for in the recipe was not available at the market so I substituted Philadelphia whipped Garden Cream cheese and added Italian seasoning. All who dined said that this recipe was restaurant quality. Many thanks!",
+            "datePublished": "2020-08-05T22:48:42.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "misspiggy3"
+            },
+            "reviewBody": "This was fast, easy, and delicious! I didn’t have the cooking cream so I just doubled the mozzarella cheese and it turned out great! I used thyme, oregano, basil, and garlic salt for the seasonings and it was very flavorful! My husband isn’t a big pasta fan and he loved it! Will definitely keep this recipe and look forward to pasta night now!",
+            "datePublished": "2020-07-14T14:37:52.610Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216865/baked-penne/",
+          "name": "Baked Penne",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17562/dinner/",
+                  "name": "Dinner"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,483 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/212913/beef-asado/",
+  "extracted_at": "2026-10-18T02:49:39.702629+00:00",
+  "recipes": [
+    {
+      "name": "Beef Asado",
+      "ingredients_raw": [
+        "1 (4 pound) beef chuck roast, quartered",
+        "salt and pepper to taste",
+        "2 tablespoons cooking oil",
+        "1 onion, diced",
+        "2 cloves garlic, crushed",
+        "2 large tomatoes, chopped",
+        "1 onion, quartered",
+        "1 (5 ounce) jar pitted Manzanilla olives",
+        "2 beef bouillon cubes",
+        "2 bay leaves",
+        "1 tablespoon whole peppercorns, crushed",
+        "0.5 cup ketchup",
+        "1 large red bell pepper, sliced",
+        "4 small potatoes, peeled and quartered",
+        "1 tablespoon corn flour",
+        "1 teaspoon water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Season beef with salt and black pepper; set aside."
+        },
+        {
+          "id": 2,
+          "text": "Heat 2 tablespoons oil in a skillet over medium heat; add diced onion and garlic. Cook until softened, about 5 minutes; transfer to a 6-quart pot. Brown beef chunks in the skillet, individually, on all sides; place in the pot."
+        },
+        {
+          "id": 3,
+          "text": "Add tomatoes, quartered onion, olives with brine, bouillon cubes, bay leaves, and crushed peppercorns to the pot; bring to a boil. Stir in ketchup; reduce heat to medium-low and simmer 1 hour."
+        },
+        {
+          "id": 4,
+          "text": "Remove beef from the pot; set aside. Add bell pepper to the pot; simmer 30 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Meanwhile, heat remaining 2 tablespoons oil in the skillet; add potatoes. Cook until golden brown; transfer to the pot."
+        },
+        {
+          "id": 6,
+          "text": "Slice beef against the grain; add to the pot. Stir and cook, 5 minutes. Whisk corn flour and water together in a small bowl; stir into sauce to thicken if its too thin."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Beef Asado",
+        "datePublished": "2020-06-18T23:41:13-04:00",
+        "dateModified": "2026-07-14T09:49:51-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "lola"
+          }
+        ],
+        "description": "This rich Filipino beef asado recipe gains flavor from slowly simmering the beef with tomatoes, Manzanilla olives, onion, bell pepper, and potatoes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/U_GCpT7B8gib-ltI-vGWhT3Q2sQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8134621-5583cbf66a2949cc83064bf1b482392c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Beef Asado",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "28"
+        },
+        "cookTime": "PT100M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "639 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "138 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "40 g",
+          "saturatedFatContent": "14 g",
+          "sodiumContent": "1194 mg",
+          "sugarContent": "10 g",
+          "fatContent": "38 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Filipino",
+          "Mexican",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (4 pound) beef chuck roast, quartered",
+          "salt and pepper to taste",
+          "2 tablespoons cooking oil",
+          "1 onion, diced",
+          "2 cloves garlic, crushed",
+          "2 large tomatoes, chopped",
+          "1 onion, quartered",
+          "1 (5 ounce) jar pitted Manzanilla olives",
+          "2 beef bouillon cubes",
+          "2 bay leaves",
+          "1 tablespoon whole peppercorns, crushed",
+          "0.5 cup ketchup",
+          "1 large red bell pepper, sliced",
+          "4 small potatoes, peeled and quartered",
+          "1 tablespoon corn flour",
+          "1 teaspoon water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Season beef with salt and black pepper; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat 2 tablespoons oil in a skillet over medium heat; add diced onion and garlic. Cook until softened, about 5 minutes; transfer to a 6-quart pot. Brown beef chunks in the skillet, individually, on all sides; place in the pot."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add tomatoes, quartered onion, olives with brine, bouillon cubes, bay leaves, and crushed peppercorns to the pot; bring to a boil. Stir in ketchup; reduce heat to medium-low and simmer 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove beef from the pot; set aside. Add bell pepper to the pot; simmer 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat remaining 2 tablespoons oil in the skillet; add potatoes. Cook until golden brown; transfer to the pot."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Slice beef against the grain; add to the pot. Stir and cook, 5 minutes. Whisk corn flour and water together in a small bowl; stir into sauce to thicken if its too thin."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT125M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "steve2464"
+            },
+            "reviewBody": "good dish! nice twist on a stew with the olives! used top sirloin instead of the chuck and it came out very nice with the leanness of the meat!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elaine Susan Bainbridge"
+            },
+            "reviewBody": "I added some other veg as well that I had, 1/4 white cabbage, 1 carrot, 2 small potatoes, which I also cooked lightly with the onion and garlic. I carefully cut of as much fat as possible, shook the meat cubes and bones into seasoned flour, placed meat on top of veg mixture in slow cooker, added about 1/2 glass of red wine, now going out for the day, can't wait until tonight!",
+            "datePublished": "2015-11-05T07:34:18.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alissahe"
+            },
+            "reviewBody": "Why use ketchup? Commercial ketchup has sugar in it. There's no need for sugar in this recipe. I used pure tomato puree with a tad of boiled water added for the right consistency.\nI used assado instead of chuck roast.\nIt came out great!\nMake it the night before so that you can skim off extraneous fat before re-heating and serving.",
+            "datePublished": "2016-12-08T08:36:01.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "STARDUST_331"
+            },
+            "reviewBody": "If you're wondering what this tastes like, it almost tastes like a soy sauce, but much richer. You don't taste the ketchup at all, it actually was less sweet than I thought this would be. This definitely takes a bit of work and a lot of time but it's soooooo good. The beef wasn't tender after 1 hour and 20 minutes - might try throwing this into the slow cooker next time (and add the veggies at the end). I threw the crushed peppercorns, crushed garlic into a bouquet garni bag which worked great - I don't like eating peppercorns and didn't want to have to fish it out later. I crushed the peppercorns in a Ziploc bag with the meat pounder). Next time I'll throw the bay leaves in there as well - it was annoying to have to fish them out later, especially since one had broken into several pieces during stirring while it was still dry. They're no fun to eat! I can't believe how much sauce this makes - I really wanted bread but decided to serve it over brown rice. Also, instead of using 2 pots, I switched the order, and browned the meat, then the onions/garlic all in the same pot (making sure not to burn them). This way all the goodness and flavor bits all stay together!",
+            "datePublished": "2012-12-10T10:07:26.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynnette1990"
+            },
+            "reviewBody": "Loved this recipe. I used canned tomatoes and used most of the juice as the \"ketchup\" but also added some ketchup for the sweetness. I also added about 1/2 a cup of red wine as suggested by another poster and it really added the depthness I was looking for. I ran out of bullion cubes so I used a few scoops of beef gravy. I let everything simmer together for about 2 hours and served it over brown rice. My bf loved it! We had some toasted garlic bread, a side salad, and some cabernet sauvignon to go with. Perfect !",
+            "datePublished": "2013-06-14T13:37:30.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "loops"
+            },
+            "reviewBody": "Didn't feel like doing all the prep work so I threw all the ingredients in a crock pot, then I followed another reviewers advice to throw in some red wine toward the end of cooking time. I only had port wine on hand so I added 1/4 cup.....and it was AMAZING!!! i also loved the green olives in it!",
+            "datePublished": "2015-10-21T15:01:15.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LydiaP"
+            },
+            "reviewBody": "I made this recipe for lunch today and it was soo... tasty ,just as I expected it to be like my Mom's cooking.\nI modified the cooking time. Instead of simmering for one hour,I pressure cook for 20 minutes only and still followed the instructions from step 3-5.\nThank you.\nLydiaP",
+            "datePublished": "2012-10-28T12:54:27.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "buckroadeats"
+            },
+            "reviewBody": "We will definitely make this again. We made it with a pork roast and added a couple of jalapenos, and ginger to suit our own tastes. Everyone loved it.\r\n\r\nI have now made this several times...it is easily my favorite recipe EVER! It's so easy to substitute to your own veggies and proteins. My brother made it with seafood once!",
+            "datePublished": "2010-12-05T06:46:39.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "erinc"
+            },
+            "reviewBody": "just wonderful! I added 1/2 cup wine, on suggestion from another reviewer. I also left the beef in when I put in the peppers. An amazing beef \"stew\" that would work with egg noodles or rice.",
+            "datePublished": "2012-08-20T11:03:24.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "McCrearyacres"
+            },
+            "reviewBody": "My kids were EXTREMELY reluctant to try this as they helped me pull all of the ingredients together--they kept telling me they didn't think it would turn out well. I also had my doubts (olives, potatoes, and ketchup?!) BUT the eating of the meal was another situation all together! This is delicious! My only 2 suggestions would be to #1 cube the meat before browning because having to cut the meat in the bowl was a bit awkward and #2 give the meat the time to cook that the peppers are--I didn't see any need for leaving the meat out as they cooked and am glad I didn't.",
+            "datePublished": "2011-01-06T18:05:07.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MariaTheSoaper"
+            },
+            "reviewBody": "My husband loved this recipe, he cooked the meat portion for me while I prepped the other ingredients. He added a 1/4c red wine to this .. such a great hearty stew!",
+            "datePublished": "2012-07-02T15:34:23.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "T L Collins"
+            },
+            "reviewBody": "WE loved it! I did omit the olives and added 1/2 cup of wine. I did not remove the beef, just kept it cooking with the veggies, and I put the bell pepper in at the beginning as well.",
+            "datePublished": "2022-08-28T02:58:01.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pc Miller"
+            },
+            "reviewBody": "What a great recipe!! My husband asks for this often, and I make only a couple of modifications. I use beef that Is already cut up and keep it cooking the whole time. I've tried making this various ways but the original recipe is number one. I make this often paired with fresh steamed rice.",
+            "datePublished": "2019-01-04T02:21:19.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Madmomof2"
+            },
+            "reviewBody": "I made it in my pressure cooker. You could cut the beef with a fork. The flavors are great together.",
+            "datePublished": "2014-01-20T16:38:23.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori Christopoulos"
+            },
+            "reviewBody": "Wasn't sure about this one, what a great surprise! Goofed and bought stuffed olives. I started removing the center, and then said to heck with it and left them as is. I may add some crushed red pepper next time, otherwise I wouldn't change a thing. Oh we enjoyed this over rice!",
+            "datePublished": "2013-01-07T06:19:11.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "custom cook"
+            },
+            "reviewBody": "So good! I'm filipino and this is just as good as my dad's!",
+            "datePublished": "2012-09-21T12:40:32.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gwen Wall"
+            },
+            "reviewBody": "flavorful and aromatic. Didn't change the recipe at all. Served it with sticky rice and it was delicious.",
+            "datePublished": "2011-12-15T09:57:01.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "The Ugly Cook"
+            },
+            "reviewBody": "This is a good recipe. If you slice the beef thin and leave out the olives, bell pepers and potatoes you can use this as a filling for gorditas.",
+            "datePublished": "2010-07-24T06:35:46.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HOLLISKAT"
+            },
+            "reviewBody": "Very tasty! I am half Filipino and mom lives too far away to eat at her house. This is great comfort food. Its basically a stew.",
+            "datePublished": "2010-06-07T10:50:08.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Garner"
+            },
+            "reviewBody": "Excellent recipe. My wife is Filipino and we both loved this one.",
+            "datePublished": "2010-05-08T09:35:02.510Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/212913/beef-asado/",
+          "name": "Beef Asado",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/696/world-cuisine/asian/filipino/",
+                  "name": "Filipino"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,518 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221006/cherry-bomb-chicken/",
+  "extracted_at": "2026-10-18T03:12:07.446312+00:00",
+  "recipes": [
+    {
+      "name": "Cherry Bomb Chicken",
+      "ingredients_raw": [
+        "1 quart cold water",
+        "0.5 cup white sugar",
+        "0.33333334326744 cup kosher salt",
+        "1 (4 pound) whole chicken, cut into 4 pieces",
+        "1 pint cherry tomatoes",
+        "3 habanero peppers, seeded",
+        "4 cloves garlic",
+        "0.5 teaspoon ground allspice",
+        "1 tablespoon vegetable oil",
+        "0.5 teaspoon dried thyme",
+        "0.25 teaspoon ground cumin",
+        "0.25 teaspoon ground black pepper",
+        "0.25 teaspoon cayenne pepper",
+        "2 tablespoons prepared Thai sweet chili sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine water, sugar, and kosher salt in a saucepan over low heat; cook until sugar and salt dissolve, 4 to 5 minutes. Set aside until cooled to room temperature."
+        },
+        {
+          "id": 2,
+          "text": "Score skin sides chicken pieces 2 to 3 times, about ⅛-inch deep; place in a large bowl or lidded container."
+        },
+        {
+          "id": 3,
+          "text": "Combine cherry tomatoes, habanero peppers, garlic, and allspice with sugar and salt mixture in a blender; blend until smooth."
+        },
+        {
+          "id": 4,
+          "text": "Pour tomato brine over chicken pieces, making sure all pieces are covered. Cover bowl or container; refrigerate 4 to 6 hours."
+        },
+        {
+          "id": 5,
+          "text": "Remove chicken pieces from brine, shaking off excess; transfer to a plate or baking sheet lined with paper towels. Pat chicken pieces dry with paper towels. Discard brine."
+        },
+        {
+          "id": 6,
+          "text": "Preheat an outdoor grill for high, indirect heat and lightly oil the grate."
+        },
+        {
+          "id": 7,
+          "text": "Combine oil, thyme, cumin, black pepper, and cayenne pepper in a small bowl; brush onto chicken pieces"
+        },
+        {
+          "id": 8,
+          "text": "Cook chicken over direct heat, skin sides down, on the preheated grill for 1 to 2 minutes; flip chicken pieces and move to indirect heat. Cook until well-browned and meat is no longer pink in centers, 30 to 35 minutes. An instant-read thermometer inserted near but not touching the bone should read 165 degrees F (74 degrees C)."
+        },
+        {
+          "id": 9,
+          "text": "Brush chicken pieces with chili sauce; transfer to a plate and rest before serving for 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Cherry Bomb Chicken",
+        "datePublished": "2012-04-05T15:10:23-04:00",
+        "dateModified": "2025-04-21T14:21:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "This cherry bomb chicken recipe uses a hot peppers and cherry tomato brine before grilling until crispy on the outside yet moist and juicy inside.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mEQGdP1Ugzy7G40oGwKkIhnI6_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/873291-9d93d5d4e3354b42afe1560ab43be992.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/EWGq5Kp7-ma1DlVvV.mp4",
+          "description": "0205",
+          "duration": "PT5M26S",
+          "name": "Cherry Bomb BBQ Chicken",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/EWGq5Kp7/poster.jpg?width=1280",
+          "uploadDate": "2021-07-27T18:59:23-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cherry Bomb Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "164"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "490 kcal",
+          "carbohydrateContent": "23 g",
+          "cholesterolContent": "129 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "42 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "5252 mg",
+          "sugarContent": "19 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 quart cold water",
+          "0.5 cup white sugar",
+          "0.33333334326744 cup kosher salt",
+          "1 (4 pound) whole chicken, cut into 4 pieces",
+          "1 pint cherry tomatoes",
+          "3 habanero peppers, seeded",
+          "4 cloves garlic",
+          "0.5 teaspoon ground allspice",
+          "1 tablespoon vegetable oil",
+          "0.5 teaspoon dried thyme",
+          "0.25 teaspoon ground cumin",
+          "0.25 teaspoon ground black pepper",
+          "0.25 teaspoon cayenne pepper",
+          "2 tablespoons prepared Thai sweet chili sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine water, sugar, and kosher salt in a saucepan over low heat; cook until sugar and salt dissolve, 4 to 5 minutes. Set aside until cooled to room temperature."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Score skin sides chicken pieces 2 to 3 times, about ⅛-inch deep; place in a large bowl or lidded container."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine cherry tomatoes, habanero peppers, garlic, and allspice with sugar and salt mixture in a blender; blend until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour tomato brine over chicken pieces, making sure all pieces are covered. Cover bowl or container; refrigerate 4 to 6 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken pieces from brine, shaking off excess; transfer to a plate or baking sheet lined with paper towels. Pat chicken pieces dry with paper towels. Discard brine."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for high, indirect heat and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine oil, thyme, cumin, black pepper, and cayenne pepper in a small bowl; brush onto chicken pieces"
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook chicken over direct heat, skin sides down, on the preheated grill for 1 to 2 minutes; flip chicken pieces and move to indirect heat. Cook until well-browned and meat is no longer pink in centers, 30 to 35 minutes. An instant-read thermometer inserted near but not touching the bone should read 165 degrees F (74 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mEQGdP1Ugzy7G40oGwKkIhnI6_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/873291-9d93d5d4e3354b42afe1560ab43be992.jpg"
+              }
+            ],
+            "text": "Brush chicken pieces with chili sauce; transfer to a plate and rest before serving for 10 minutes."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT340M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wifey1013"
+            },
+            "reviewBody": "Absolutely amazing!!! I must admit I was scared of the habanero peppers so I substituted with jalapenos...BUT next time I am making exactly as the recipe says. Definitely making this again, and again, and again!!!! \n\nUPDATE: Remade with the habanero peppers, DELICIOUS!! Don't change a thing. Also, if you have questions watch Chef John's video on this recipe...it is extremely helpful!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tidalwave"
+            },
+            "reviewBody": "Great recipe! I used 4 chicken breasts instead and wasn't up to firing up the grill so I baked them instead. 450 degree oven 35-40 min depending on the thickness of your chicken. Another tip that I always use is to place a wire rack in my roasting pan. This elevates the chicken for better circulation and produces crispier skin. I am always on the look out for great brine recipes and this one qualifies. Love the allspice flavor.",
+            "datePublished": "2014-07-06T11:54:57.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sregev"
+            },
+            "reviewBody": "This is down right delicious. I don’t use it as a brine,blend all the ingredients, except that I omit the water and use 2tsp kosher salt only. Even my kids eat it",
+            "datePublished": "2021-05-18T01:27:57.037Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kitty Scates"
+            },
+            "reviewBody": "My teenage son and husband loved this chicken on Super Bowl Sunday. I used boneless skinless chicken thighs and broiled them since it is currently winter. I used canned crushed tomatoes and dried habaneros softened in the hot brine, then using a hand immersion blender whipped everything together. The chicken was frozen, but thawed in the brine nicely overnight. I did not score the chicken since it was boneless, and encourage soaking overnight to maximize the flavor. My husband also commented this would be a great restaurant dish.",
+            "datePublished": "2015-02-01T19:30:28.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "valerie160"
+            },
+            "reviewBody": "A favorite of ours! I've been making this recipe for about a year and it's just spectacular. I use chicken leg/thigh quarters and usually keep about one of the habanero pepper's seeds intact for more spicy flavor. I made this for a party with 25+ people and almost everyone commented on how good it was and asked for the recipe. My husband has a habit of charring chicken on the grill, so I initially cook the chicken in the oven until just about done, then I have him throw it on our grill for that grilled taste. YUM!",
+            "datePublished": "2013-07-27T15:52:17.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nicole F"
+            },
+            "reviewBody": "I made this exactly as written x2. The first time I grilled as per the video's instructions. I moved the chicken to the top shelf of my gas bbq (off of the heat) and turned the heat to LOW. I closed the lid and 25 minutes later I had chicken that looked like it came from a volcanic lava field. If it hadn't been for the fact that what chicken hadn't been heat annihilated was actually still moist inside (I'm talking a huge, fat chicken breast) I would not have tried this recipe again. Note to self, do not leave food to cook on a closed grill for 25 minutes without checking on it, no matter whose recipe you're following. Even if there is no smoke and flame shooting out (which there wasn't hence why I didn't realize the chicken was actually transforming into \"coal-bomb-chicken\"). Anyway, I didn't grill the meat the second time. I roasted it in the oven in a glass baking dish for appx 25 minutes (as per a meat thermometer, smaller pieces were ready in just under 20 minutes, very large chicken breasts took 30 min). The chicken came out beautifully. Crispy on the outside, succulent and tasty on the inside. Do not be afraid to use the habanero and cayenne as written. Everyone in the family *loves* this chicken so it will be my 'go to' from now on. The only change being that I will roast, not grill. And this recipe makes a lot of brine, easily enough for seven or eight pieces of chicken so increase the portions!",
+            "datePublished": "2015-01-29T04:15:19.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle B"
+            },
+            "reviewBody": "I was looking for a recipe that would use up my leftover habaneros. I'm so glad I found this one; it was excellent! We didn't notice much spice in the chicken, surprisingly, but it was very good anyway. I used bone-in chicken thighs and cooked it on a cookie rack over a cookie sheet at 450 in the oven. I forgot to use the sweet chili sauce at first and found the chicken doesn't need it, but when I dipped my next bite into the sauce, that raised it to the next level of delicious. The sauce compliments it perfectly!",
+            "datePublished": "2015-03-26T19:32:30.303Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Candy95409"
+            },
+            "reviewBody": "Company good! Don't discard all the habanero seeds to get enough spicy heat for my taste. Double (or more) the thyme-cumin-pepper-cayenne-oil mix to adequately cover all chicken pieces. Increase the cook time by 5-10 minutes more if using bone-in half chicken breast w/thigh cuts. Serve w/ fresh cut lime wedge, pinquito beans, salad, and warm flour tortillas.",
+            "datePublished": "2016-10-17T02:26:57.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Myers"
+            },
+            "reviewBody": "Made this for the first time today. It was fantastic! I took it off the grill, covered it with foil, and held it in a 275 degree oven for about 20 minutes (while I got everything else ready.) The resulting gravy was delicious! Great chicken recipe.",
+            "datePublished": "2015-04-19T16:55:13.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pbair"
+            },
+            "reviewBody": "Delicious, and so moist!!! I used boneless skinless breasts and brined them for about 8 hours. Sadly I discovered at the last minute that we were out of propane for the grill (dang it!), but no worries. I seared them in my cast iron grill pan on the stove and then baked them at 350, uncovered, in the oven for about 20 minutes. They turned out fantastic! So moist with just a little bit of zing from the habeneros. We will definitely make again.",
+            "datePublished": "2012-11-20T06:38:03.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margo"
+            },
+            "reviewBody": "I made it pretty much as is! The only thing I had to change was I used only thighs and baked them at 350 degrees for 1 hour and fifteen minutes. Turned out very moist and wonderful. I didn't have a blender so I used my very small food processor to chop and emulsify the tomatoes, peppers and garlic then I incorporated it into the cooled water, sugar, salt mixture. When summer comes, I will try it on the grill. Thanks John for another lovely dish! Also tasted good without the sweet chile sauce.",
+            "datePublished": "2015-02-04T06:42:18.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robo"
+            },
+            "reviewBody": "This is the best grilled chicken recipe ever! Look no further. Make it exactly as shown and you’ll thank me (and Chef John) later.",
+            "datePublished": "2025-05-12T22:02:34.281Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betsy Domer Nebiolo"
+            },
+            "reviewBody": "Fantastic!! Delicious!! The peppers gave it flavor, and it was not too spicy. Will definitely make it again!",
+            "datePublished": "2023-08-31T22:56:25.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dave Jones"
+            },
+            "reviewBody": "Best chicken I ever made... layers and layers of flavor! I added sriracha to the Thai Sweet chili sauce for an extra layer",
+            "datePublished": "2021-06-11T19:36:06.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Teblejw"
+            },
+            "reviewBody": "We had a lot of habaneros from our garden, so I’ve made this twice. Second time I doubled the habaneros and still not too spicy for my wife, who prefers mild salsa. The marinating results in very moist chicken. Delicious!",
+            "datePublished": "2020-12-22T17:13:28.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "crys"
+            },
+            "reviewBody": "This worked wonders for skinless chicken breast. Never going back to floppy, unbrined grilled chicken ever again. Only thing is that the flavor profile itself could be more pronounced; it didn't lack salt, or even spice necessarily, but I found myself wanting more sweetness and smoke.",
+            "datePublished": "2019-07-05T16:01:22.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat Nugent"
+            },
+            "reviewBody": "Great grilled chicken!!! I added the sweet chili sauce to the thyme mixture. I brushed additional sweet chili sauce on the chicken at the table. I can't imagine grilling chicken any other way now. Thanks Chef John, again!!",
+            "datePublished": "2019-07-01T13:05:01.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TheNali"
+            },
+            "reviewBody": "This is my absolute favorite chicken recipe. Trust the habanero peppers, it's by no means too spicy!",
+            "datePublished": "2019-02-11T17:06:31.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike Haire"
+            },
+            "reviewBody": "Chef John you knocked it out of the park on this one. I left the hot peppers out of the marinade altogether. Excellent and will make again.",
+            "datePublished": "2018-07-16T10:24:54.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "momkelly"
+            },
+            "reviewBody": "Excellent!! Really loved it.",
+            "datePublished": "2018-06-20T22:12:55.230Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221006/cherry-bomb-chicken/",
+          "name": "Cherry Bomb Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/662/meat-and-poultry/chicken/whole-chicken/",
+                  "name": "Whole Chicken Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

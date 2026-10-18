@@ -1,0 +1,521 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/206515/southern-baked-yellow-squash/",
+  "extracted_at": "2026-10-18T02:46:08.560312+00:00",
+  "recipes": [
+    {
+      "name": "Southern Baked Yellow Squash",
+      "ingredients_raw": [
+        "3 pounds yellow summer squash, cut into 1-inch cubes",
+        "0.75 cup dry bread crumbs",
+        "0.5 cup chopped onion",
+        "2 large eggs",
+        "0.5 cup butter, melted",
+        "1 tablespoon white sugar",
+        "1 teaspoon salt",
+        "0.5 teaspoon black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 2-quart baking dish."
+        },
+        {
+          "id": 3,
+          "text": "Place squash into a large saucepan, cover with water, and bring to a boil. Boil until soft, 10 to 15 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Drain squash well, transfer to a large mixing bowl, and mash until slightly chunky."
+        },
+        {
+          "id": 5,
+          "text": "Stir in 1/2 cup bread crumbs, onion, eggs, 1/4 cup melted butter, sugar, salt, and pepper until thoroughly combined."
+        },
+        {
+          "id": 6,
+          "text": "Spread mixture into the prepared baking dish. Drizzle remaining 1/4 cup melted butter over top, then sprinkle with remaining 1/4 cup bread crumbs."
+        },
+        {
+          "id": 7,
+          "text": "Bake in the preheated oven until cooked through and golden brown on top, about 1 hour."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Southern Baked Yellow Squash",
+        "datePublished": "2020-06-18T23:40:18-04:00",
+        "dateModified": "2025-12-17T10:34:05-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Melissa Hamilton"
+          }
+        ],
+        "description": "This baked yellow squash casserole is topped with a buttery bread crumb topping for a delicious savory addition to any summer meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ZAiRUpuVPNij1QFSfaA97OV0R7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-beauty-4x3-BG-15501-752d362f7ec94c8787c8ed8f8f53ace5.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Southern Baked Yellow Squash",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "351"
+        },
+        "cookTime": "PT75M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "162 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "62 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "374 mg",
+          "sugarContent": "2 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Southern"
+        ],
+        "recipeIngredient": [
+          "3 pounds yellow summer squash, cut into 1-inch cubes",
+          "0.75 cup dry bread crumbs",
+          "0.5 cup chopped onion",
+          "2 large eggs",
+          "0.5 cup butter, melted",
+          "1 tablespoon white sugar",
+          "1 teaspoon salt",
+          "0.5 teaspoon black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_O0_vRSwZq6hgmyv4tH_7DXoE1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-step-1-BG-1408-c899af24cdca48f3acb92705561facfe.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 2-quart baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/f6auPAt73qi-w6E3u4VpbpIgf2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-step-2-BG-1415-fcd17ae4a47841c18a22da146b5af99c.jpg"
+              }
+            ],
+            "text": "Place squash into a large saucepan, cover with water, and bring to a boil. Boil until soft, 10 to 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/x_3PM6LNuP8LXKLKM6WFxf8WYv4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-step-3-BG-1425-3493aab17a4a464fa1f35d07ca87003d.jpg"
+              }
+            ],
+            "text": "Drain squash well, transfer to a large mixing bowl, and mash until slightly chunky."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/4usTS3v9iSldmB6P-oOZiTf6_b0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-step-4-BG-1431-f724373fbd434f33b42043df4fbc2129.jpg"
+              }
+            ],
+            "text": "Stir in 1/2 cup bread crumbs, onion, eggs, 1/4 cup melted butter, sugar, salt, and pepper until thoroughly combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-8zK_tFA-pwi9HZSEMQOpKsgvIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-step-6-BG-1437-37bc9c68503340d48a6a33fa3ae621f3.jpg"
+              }
+            ],
+            "text": "Spread mixture into the prepared baking dish. Drizzle remaining 1/4 cup melted butter over top, then sprinkle with remaining 1/4 cup bread crumbs."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ZAiRUpuVPNij1QFSfaA97OV0R7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206515-southern-baked-yellow-squash-DDMFS-beauty-4x3-BG-15501-752d362f7ec94c8787c8ed8f8f53ace5.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until cooked through and golden brown on top, about 1 hour."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "1 (2-quart) casserole"
+        ],
+        "totalTime": "PT95M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GINGERPET"
+            },
+            "reviewBody": "Very good. However, squash has so much water in it already, I would never dilute the flavor by boiling. Simply saute the onions in the butter, add the squash, put a lid on it until its own liquid is released and continue simmering until desired tenderness."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Hosford"
+            },
+            "reviewBody": "Cooked the onion with the squash. I used Ritz crackers instead of bread crumbs. This is really rich so the second time I made it I halved the butter that's mixed into the topping. Everybody asks for this recipe.",
+            "datePublished": "2010-06-27T09:17:42.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol West Tally"
+            },
+            "reviewBody": "I followed recommendations of several others by sauteing the onion with added 1/4 c. diced bell pepper and squash. I beat eggs in a mixing bowl and then added seasonings and 1/4 c. cracker crumbs instead of bread crumbs for crunchier texture, mixing well. I added vegetable mixture to the mixing bowl and stirred well before pouring into greased baking dish. I topped with 1/2 c. shredded cheddar and monterrey jack cheese and then an additional 1/2 c. cracker crumbs. Finally I drizzled 1/4 c. melted butter over cracker crumbs and baked the dish at 350 degrees for 20-30 minutes. It was a big hit with my family and I'll be making it again. Thanks for a great base recipe!",
+            "datePublished": "2019-12-03T22:20:24.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chele1870"
+            },
+            "reviewBody": "I loved this dish. Although I didn't boil my squash. I cut the squash in about 1/2 inch round slices then cut them in half. \n Then I sautéed them and the onions in a cast iron skillet with a little bit of spray pam until the onions were translucent and the squash was tender but not mushy. I didn't mash the squash up either because I like larger pieces of squash in the casserole. I have boiled my squash in the past but it seemed to always make the casserole more watery even when drained for a period of time. I wanted a recipe that didn't use sour cream or cheese, just basic ingredients and the flavor was good as well. It was so good. Everyone loved it.",
+            "datePublished": "2021-12-01T14:37:45.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpeedyMilk3002"
+            },
+            "reviewBody": "Sauteed the squash with the onions instead of boiling it, per one of the comments, and used brown sugar instead of granulated. For the heck of it, tossed some crumbled pretzels in melted butter and fresh garlic to top the casserole. Fantastic!",
+            "datePublished": "2026-05-16T21:50:55.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynn S."
+            },
+            "reviewBody": "I followed the recipe except I added about 1 n 3/4 c of shredded mild cheddar cheese and this was so good I could eat it by itself. Delicious!! 😊",
+            "datePublished": "2024-07-16T13:58:25.908Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HandyPan3674"
+            },
+            "reviewBody": "I agree with reviews that mentioned sautéing squash, onion, and diced bell pepper, and not mashing squash. Before baking stir in diced NM green chile Which adds to the flavor immensely. The jar of 505 Green chile sauce is excellent though you may need to drain the salsa in a small strainer to remove a bit of the liquid. Trader Joe's also sells a Hatch green chile sauce that is quite good. Low carb and nutritious.",
+            "datePublished": "2023-06-30T20:07:03.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KSCooks"
+            },
+            "reviewBody": "This turned out great! I cubed the yellow squash and pan fried it along with the onions in butter for 15 minutes. The rest of the recipe, I followed exactly. For the bread crumbs, I used my food processor to crush up Pepperidge Farm Herb Seasoned Stuffing. I found that 2 teaspoons of sugar was plenty. I will make this often. It was a delicious side dish and very easy.",
+            "datePublished": "2020-08-29T11:27:59.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidi"
+            },
+            "reviewBody": "I've made this a few times. I use my steamer to cook the squash instead, so they don't get too soft. Once I added crumbled bacon just to give it a little savory taste. Another time, I realized too late I didn't have breadcrumbs, so instead I substituted corn bread mix (one box) for the breadcrumbs and sugar, and it came out just as great.",
+            "datePublished": "2025-12-26T16:36:47.984Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sunidais"
+            },
+            "reviewBody": "The first time I made it, I made it as written (4 stars). We enjoyed it but I decided to jazz it up a bit the second time I made it. I did not boil the squash first, added 1 tsp of garlic powder, 1 tsp. of smoked paprika, and 1/4 cup of parmesan cheese. I also cut back the butter for the topping to 2 tblsp. FABULOUS! The smoked paprika was a great addition for us. I also want to make it again as written and add bacon bits. Think that would be a good twist. I like this recipe because it's a great base to play around with.",
+            "datePublished": "2020-04-19T18:50:14.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Tornopilsky"
+            },
+            "reviewBody": "Delicious way to prepare yellow summer squash. I only had one pound of yellow squash, so I added some fresh mushrooms and halved the recipe. I sautéd the onions, squash and mushrooms in a large pan with a little butter for about 7 minutes til tender but not mushy. I added 1tsp fresh minced garlic. I drained them well. I mixed in the bead crumbs",
+            "datePublished": "2020-08-21T00:01:35.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "need2eat2"
+            },
+            "reviewBody": "I didn't change anything. My husband liked it. I will make it again.",
+            "datePublished": "2026-08-21T04:01:02.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lori"
+            },
+            "reviewBody": "Don't boil the squash, roast it instead.",
+            "datePublished": "2026-08-04T22:33:34.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paulette Bergman Laffin"
+            },
+            "reviewBody": "I made it just the way it was written. It. Is awesome! I wouldn’t change a thing.",
+            "datePublished": "2026-07-30T17:28:29.029Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bob"
+            },
+            "reviewBody": "Delicious as is, but I'll try adding shredded cheddar or Ritz crackers to the topping the next time I make it.",
+            "datePublished": "2026-07-18T17:06:41.152Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marylou Dimmick Riddle"
+            },
+            "reviewBody": "Delicious Will make again",
+            "datePublished": "2026-05-24T22:04:24.498Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Micetic"
+            },
+            "reviewBody": "It was very watery when I mashed the squash. I gave it a quick whirl in the food processor, and added a splash of maple syrup.",
+            "datePublished": "2026-04-22T23:49:05.965Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Queenie Waites"
+            },
+            "reviewBody": "I have been looking for a good summer squash recipe without cheese. This one is a keeper. I did not make any changes to the recipe.",
+            "datePublished": "2026-03-23T04:00:37.322Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HappyParm6625"
+            },
+            "reviewBody": "I had to cut the recipe in half as I didn't have enough squash. I followed the ingredients and it came out great. I couldn't believe it tasted so good and was happy to be able to use the little squash that was given to me from a friend's garden. This is a keeper and I have a new side dish to serve! 😊",
+            "datePublished": "2025-09-13T01:22:12.591Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbara Daly"
+            },
+            "reviewBody": "Addictive. I made this without any changes to the recipe and I’ve had to make it twice more because my kid loves it and keeps asking for it. It’s a great way to use the end of the summer deluge of squashes.",
+            "datePublished": "2025-08-28T20:41:08.240Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/206515/southern-baked-yellow-squash/",
+          "name": "Southern Baked Yellow Squash",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16881/side-dish/vegetables/squash/",
+                  "name": "Squash"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/926/side-dish/vegetables/squash/summer-squash/",
+                  "name": "Summer Squash"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

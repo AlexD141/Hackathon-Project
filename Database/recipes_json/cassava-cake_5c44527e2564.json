@@ -1,0 +1,467 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/212941/cassava-cake/",
+  "extracted_at": "2026-10-18T02:49:45.052663+00:00",
+  "recipes": [
+    {
+      "name": "Cassava Cake",
+      "ingredients_raw": [
+        "2 cups grated, peeled yuca",
+        "1 (14 ounce) can coconut milk",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1 (12 ounce) can evaporated milk",
+        "2 large eggs, beaten"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Stir yuca, coconut milk, condensed milk, evaporated milk, and eggs together in a bowl until thoroughly combined."
+        },
+        {
+          "id": 3,
+          "text": "Pour into a 2-quart baking dish."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until set, about 1 hour. Turn the broiler on and bake until top of cake is browned, 2 to 3 minutes. Cool completely in the refrigerator before serving, about 1 hour."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Cassava Cake",
+        "datePublished": "2018-01-23T02:12:16-05:00",
+        "dateModified": "2026-03-31T09:52:03-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "lola"
+          }
+        ],
+        "description": "This cassava cake is a classic Filipino dessert made with few ingredients including fresh cassava root (yuca), coconut milk, condensed milk, and egg.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/cDG11EYFKBzlNCFHqwmivUe-UvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-212941-Cassava-Cake-Recipe-ddmfs-4x3-a06fb073a03c4dd5b5d121030930b2f3.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cassava Cake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "57"
+        },
+        "cookTime": "PT65M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "329 kcal",
+          "carbohydrateContent": "42 g",
+          "cholesterolContent": "60 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "111 mg",
+          "sugarContent": "26 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Filipino"
+        ],
+        "recipeIngredient": [
+          "2 cups grated, peeled yuca",
+          "1 (14 ounce) can coconut milk",
+          "1 (14 ounce) can sweetened condensed milk",
+          "1 (12 ounce) can evaporated milk",
+          "2 large eggs, beaten"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/udiiBvkHV38swnIrOUjaIOstNMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-212941-Cassava-Cake-Recipe-ddmfs-step-1-f8b7f7bfa484432980389514404dc846.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Z6RyGI_gfHLw46kgT0WvkdVfejs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-212941-Cassava-Cake-Recipe-ddmfs-step-2-a9dd7c5a2e704be88a2d847a77d1cedb.jpg"
+              }
+            ],
+            "text": "Stir yuca, coconut milk, condensed milk, evaporated milk, and eggs together in a bowl until thoroughly combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-hMGUbG611Ibz9YcDr7dU3gcEso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-212941-Cassava-Cake-Recipe-ddmfs-step-3-6c1672d00a054552a3f7c367e7d17fa6.jpg"
+              }
+            ],
+            "text": "Pour into a 2-quart baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/emqlzHRvLQMseKLcLrOkYH_PC0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-212941-Cassava-Cake-Recipe-ddmfs-step-4-aba7b0c935bf40bfb0df34f6ac24e0ee.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until set, about 1 hour. Turn the broiler on and bake until top of cake is browned, 2 to 3 minutes. Cool completely in the refrigerator before serving, about 1 hour."
+          }
+        ],
+        "recipeYield": "10",
+        "totalTime": "PT145M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ajaderecio"
+            },
+            "reviewBody": "For all the first time makers, let me tell you... the more cassava added, the thicker the cake. The less, it will be more softer and fluffy more custard like. 4 cups make a thick cake. 2 cups will make it really fluffy. When grating fresh cassava, one pound will yield about 1.5 cups and the grated product will have a mushy consistency. I added 1/2 cup of dried sweetened coconut flakes. It is better to add jarred macapuno strings, or fresh coconut. It is also better to reserve a couple tablespoons of condensed milk and coconut milk to add as a topping at the last 15 minutes of baking. Thanks so much for the formula my friend. Very delish."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim"
+            },
+            "reviewBody": "This turned out really well! Based on the other comments about texture, I added 1/2 cup (unsweetened) coconut flakes and baked it in a l0x13 pan so it would be thinner and cook through. I also added some of the condensed and coconut milk to the top for the last 15 minutes. The texture of the cake was firm, but it tasted super coconutty and sweet...next time I will probably do 3 cups of yucca and no coconut flakes. Thank you!",
+            "datePublished": "2020-12-05T18:15:19.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathryn"
+            },
+            "reviewBody": "This was an excellent recipe. I used frozen root from the local Asian market. It's much easier than grating, and tastes more consistent that fresh grated root. I wouldn't add less than 2 cups of the root (1-16oz package of the frozen). You can play on the consistency with arrowroot (cornstarch if no arrowroot). I added 1 teaspoon of arrowroot and it was perfect. My fiance is Filipino, and I know authentic cassava cake has toasted cheese on top. I used a little grated cheddar, a couple tablespoons of reserved coconut milk and condensed milk, and browned on broil for 3-5 minutes. It was absolutely delicious and decadent. Add coconut flakes to the batter if you like. I like to eat mine warm, but my fiance prefers room temp or cold.",
+            "datePublished": "2018-02-19T05:32:45.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin Sweets Melgar"
+            },
+            "reviewBody": "Super delicious! Used 3 packs of frozen cassava, drained in a colander for 30 minutes. Yielded 1:9x13 and 1: 8x8. Used the same amount of can products. Added 1 jar of macapuno (young coconut in syrup) did not drain. Lined pans with Parchment paper for easy cleanup. Baked for 1 hr 45 mins @350 degrees. Last 20 minutes added a thin layer of condense milk. Super easy and freaking delicious!!",
+            "datePublished": "2019-11-16T16:27:42.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kc"
+            },
+            "reviewBody": "I am always tempted to buy the bakery items at the Asian grocery store, but are too afraid to eat them for sanitary reasons. Don't know how old they are and how long they have been sitting at room temperature at the store. Also, all the food color we don't need to consume. \n\nThis recipe allows me to enjoy Asian desert made simply at home. It stays soft and chewy warm or cold. I was able to get a bag (2lb./32oz) of frozen yucca at a local Indian grocery store. I thawed, rinsed and drained the yucca in a colander. In a blender, I placed the yucca, 12 oz of water instead of evaporated milk, coconut milk and process until smooth. If you do not have a large blender (Vitamix), you may need to do two batches. In a large bowl, whisk together the egg and condensed milk. I also added 1/4 cup of sugar and 1/2 cup of unsweetened coconut flakes. Pour the yucca mixture into the bowl and blend them together well. Coat a 3 quart casserole pan with non-stick spray. Bake for 1 hour and 10 mins. until the edge is golden. Will make this again, can't stop eating until my stomach is bloated.",
+            "datePublished": "2013-02-05T13:55:22.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ray Crisostomo"
+            },
+            "reviewBody": "As an experienced Baker, it came out perfectly although I set my oven at 300 degrees and baked an hour. I couldn't find macapuno coconut so I used 1 bag of coconut and 1 tablespoon of vanilla.",
+            "datePublished": "2020-04-01T02:53:34.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "autumness"
+            },
+            "reviewBody": "I used turbo broiler for this. It works just as perfectly. This recipe is so easy and very cheap. I grated the cassava myself. Since there's so much water I squeezed out the excess liquid to make two cups of dried grated cassava. I also added 1 cup of coconut meat to give it more texture. Heavenly. I've been making it for pot lucks and my family and friends love it!",
+            "datePublished": "2014-04-04T23:37:59.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "martyward"
+            },
+            "reviewBody": "You have the ingredients wrong. You say 2 cups of cassava, but for that much liquid you need 4 cups.",
+            "datePublished": "2010-12-11T15:45:27.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MightyMeMMC"
+            },
+            "reviewBody": "Great easy recipe; not too sweet, perfect consistency with these adjustments: used a 28oz. bag of cassava, and a 12oz. jar of macapuno (young coconut strings). Baked for 1 hour 15 mins in a greased 13x9 glass rectangle. Broiled the top the last 5 mins &amp; cooled down overnight. DELISH! Thanks for sharing!",
+            "datePublished": "2017-10-24T15:34:36.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jemima Benjamin"
+            },
+            "reviewBody": "I made this recipe twice from scratch and then my flip friend told me they sold grated cassava in the frozen section of some asian grocery stores. So much easier now. The problem with buying the roots too was that sometimes I would end up with bad roots. Apparently you're not supposed ot use them if they have black spots when you cut them open. Most of the time, I'd have to buy 3x the amount I wanted to use because i'd end up throwing out 2/3 of it.\n\nI'm only able to find the liquid ingredients in cans that were ±1-2 oz what the recipe called for but they totalled to the same amount of liquid. I'm still really happy with the taste.",
+            "datePublished": "2016-06-12T14:46:48.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Edwin"
+            },
+            "reviewBody": "I stuck with the recipe butI used three cups instead of two or four of grated yucca and the cake had a nice consistency-any more would have been too much. Also, I baked it for 90 minutes in order for it to set. Next I’ll experiment with panela and grated coconut and maybe do one in chocolate...",
+            "datePublished": "2019-09-25T22:00:26.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wendy"
+            },
+            "reviewBody": "Love it easy and great tast I added raisins and it was amazing",
+            "datePublished": "2026-05-09T06:01:35.742Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PerkyRice8396"
+            },
+            "reviewBody": "Being a hopeless cook/baker &amp; my 1st attempt at making kassava cake, for me the recipe was so simple &amp; clearly explained. No jargon that I didn't understand since I'm not Filipino. Blindly followed the steps. Waited for the results/end product &amp; oohlala...it was a winner!!! I couldn't be more pleased. Shared the kassava cake with my family who loved it. They didn't believe I had made it &amp; I couldn't be more proud of myself. Thanks to your recipe. I'm now proudly acknowledged as a certified baker!🤩🌟",
+            "datePublished": "2023-07-03T06:09:25.569Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "D Plaza"
+            },
+            "reviewBody": "As always I love the consistency of the cake and the creaminess. I let it bake for an hour and ten minutes, but it depends if I want a firmer cake. Love it. And I also add coconut flakes at times for something different.",
+            "datePublished": "2023-04-27T18:11:52.621Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CalmAle4922"
+            },
+            "reviewBody": "Double the grated cassava and it’ll be perfect",
+            "datePublished": "2022-06-01T23:36:13.151Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tanya"
+            },
+            "reviewBody": "It's Perfect",
+            "datePublished": "2020-10-14T11:25:17.377Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Johnny Johnny"
+            },
+            "reviewBody": "The recipe is WRONG! Use 4 cups of grated cassava instead of 2 for this recipe. The recipe told me to use 2 cups of cassava and now the cassava cake doesn't even look like cassava case... it looks like leche flan.",
+            "datePublished": "2020-09-18T06:53:09.487Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tigerlilly b"
+            },
+            "reviewBody": "Pretty easy cake to make. My mom loved it! And so did my coworkers. It was not to sweet, but it was delicious.",
+            "datePublished": "2020-08-08T16:52:19.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pmw fotos"
+            },
+            "reviewBody": "i made the recipe with the said ingredients it came out perfect, if you want to add more casava you could too",
+            "datePublished": "2020-03-22T18:25:50.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dette Hughes"
+            },
+            "reviewBody": "Made as recipe said and hubby liked it...thought it could be a bit sweeter. Made one with jackfruit and coconut strings (Macapuno) and topping (perfect).",
+            "datePublished": "2019-09-26T03:31:35.830Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/212941/cassava-cake/",
+          "name": "Cassava Cake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/696/world-cuisine/asian/filipino/",
+                  "name": "Filipino"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

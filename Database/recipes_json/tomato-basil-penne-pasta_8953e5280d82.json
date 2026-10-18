@@ -1,0 +1,519 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/193187/tomato-basil-penne-pasta/",
+  "extracted_at": "2026-10-18T02:34:13.297568+00:00",
+  "recipes": [
+    {
+      "name": "Tomato Basil Penne Pasta",
+      "ingredients_raw": [
+        "1 (8 ounce) package penne pasta",
+        "1 tablespoon basil oil",
+        "1 tablespoon olive oil",
+        "3 cloves garlic, minced",
+        "1 pint grape tomatoes, halved",
+        "1 cup shredded pepper Jack cheese",
+        "1 cup shredded mozzarella cheese",
+        "0.25 cup grated Parmesan cheese",
+        "1 tablespoon minced fresh basil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Bring a large pot of water to a rolling boil over high heat. Cook pasta in boiling water until cooked through but still firm to the bite, about 10 minutes. Drain and set aside."
+        },
+        {
+          "id": 3,
+          "text": "Heat both oils in a large skillet over medium-high heat. Add garlic and cook until soft, 1 to 2 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Add tomatoes, reduce heat to medium, and simmer for 10 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Stir in pepper Jack, mozzarella, and Parmesan cheese."
+        },
+        {
+          "id": 6,
+          "text": "When cheese begins to melt, mix in cooked penne pasta."
+        },
+        {
+          "id": 7,
+          "text": "Season with fresh basil."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Tomato Basil Penne Pasta",
+        "datePublished": "2019-04-02T02:51:50-04:00",
+        "dateModified": "2026-03-09T12:40:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Elisa Stamm"
+          }
+        ],
+        "description": "This penne pasta is made with sweet grape tomatoes slow-simmered with garlic, then mixed with 3 cheeses to create a Mediterranean-style pasta dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/cSL5VdXjGxAREOK7FuRvsV17G44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Beauty-4x3-fe8a68f4b54049b0b17a6bdf3f85a5c0.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/GnUiool1-K3AjnAEN.mp4",
+          "description": "This classic dish is perfect for when you’re craving a pasta dinner. ",
+          "duration": "PT1M",
+          "name": "Tomato Basil Penne Pasta ",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GnUiool1/thumbnails/gKIemV1Y.jpg?width=1280",
+          "uploadDate": "2020-10-21T04:42:17-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tomato Basil Penne Pasta",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "260"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "502 kcal",
+          "carbohydrateContent": "47 g",
+          "cholesterolContent": "58 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "24 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "462 mg",
+          "sugarContent": "2 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mediterranean Inspired"
+        ],
+        "recipeIngredient": [
+          "1 (8 ounce) package penne pasta",
+          "1 tablespoon basil oil",
+          "1 tablespoon olive oil",
+          "3 cloves garlic, minced",
+          "1 pint grape tomatoes, halved",
+          "1 cup shredded pepper Jack cheese",
+          "1 cup shredded mozzarella cheese",
+          "0.25 cup grated Parmesan cheese",
+          "1 tablespoon minced fresh basil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oe3r1JqVXQe1Ehs6DS0gMNr-JfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-001-f217edb900114849a5cef4f40f6628db.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YewLcD7ucJKwlyuWunijhwY1gXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-002-f0f0ea0c4ea742b384ad2c6825b7fe54.jpg"
+              }
+            ],
+            "text": "Bring a large pot of water to a rolling boil over high heat. Cook pasta in boiling water until cooked through but still firm to the bite, about 10 minutes. Drain and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6USe5IImjkUQPAHO4ubUxiLqsQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-003-a37000fc289b44b187d8ccddf8310321.jpg"
+              }
+            ],
+            "text": "Heat both oils in a large skillet over medium-high heat. Add garlic and cook until soft, 1 to 2 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/81jhN10ISG967_zOG6WM6Yg9YNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-004-804a90d319fa42b9a3a7483a2275cfe0.jpg"
+              }
+            ],
+            "text": "Add tomatoes, reduce heat to medium, and simmer for 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/DqrqJFhQGvzYVsAvZULxmMenF_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-005-055be24392e14760be73a60effaac6b6.jpg"
+              }
+            ],
+            "text": "Stir in pepper Jack, mozzarella, and Parmesan cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/5-J2zkWBWwsAyM2jwj_SQ-JkGRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Step-006-cda9876c9875431fadf92dc7e3ff738e.jpg"
+              }
+            ],
+            "text": "When cheese begins to melt, mix in cooked penne pasta."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cSL5VdXjGxAREOK7FuRvsV17G44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-193187-tomato-basil-penne-pasta-Beauty-4x3-fe8a68f4b54049b0b17a6bdf3f85a5c0.jpg"
+              }
+            ],
+            "text": "Season with fresh basil."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "stella_illuminata"
+            },
+            "reviewBody": "So delicious and very versatile! I made this last night for dinner modifying it to fit what I had on hand. I had tons of fresh basil, a half a pint of grape tomatoes, and 5 pounds of mozzarella on hand left over from a charity event we made baked ziti for. Since I only had half the amount of tomatoes called for, I added an 8 oz. can of tomato sauce I found in the pantry, and loaded the sauce up with fresh basil instead of just adding it at the end. I used two cups of mozzarella in place of the pepper jack and served this over ravioli instead of penne. Usually I stick to a recipe the first time I make it but I wanted a quick dinner using ingredients I already had, so I changed this a little bit and it came out great. Definitely try this recipe, and don't be afraid of doing a little experimentation. I will be certainly be making this again. Next time I'm going to try the recipe exactly as written, but I'm sure it's great either way!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "plates4u"
+            },
+            "reviewBody": "I liked the ingredients from the beginning but ended up not really loving the recipe nor the process either. The way it is written, the cheese ends up clumpy which is not that great. I also made it for 2 people and honestly the proportions seemed off. I had fresh basil and flat leaf parsley. The latter I used it for decoration. Still, ended up with a bland kind of pasta with clumpy bits of cheese. I will definitely add flavor with a bit of chopped sun dried tomatoes, add more basil, especially to the tomatoes while cooking instead of at the end. I would mix the penne with the blistered tomatoes and add the mozarella in two batches: a bit on the pan and the rest divided on each serving and let it melt with the residual heat. Honestly, the recipe is not bad is just the procedure and proportions that seem a bit off. Feel free to add more basil and tomatoes if you feel or see it might not be enough. I will use more tomatoes next time definitely. The idea of adding a bit of tomato sauce is actually not bad...it might also make up for the extra tomatoes it might still need. I only had mozzarella and parmesan so I replaced the jack cheese for mozzarella. Another way to get the kick without the jack cheese would be to sprinkle dried chili flakes to the tomatoes while they simmer. The recipe makes good for a meatless pasta day!",
+            "datePublished": "2019-08-06T03:32:27.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Clarkston RN"
+            },
+            "reviewBody": "Great Tasting Dish! Never thought my husband would go for it because its meatless, but he actually loved how flavorful it was. I think it was the pepperjack cheese that did the trick of so much flavor. Definitely yummy. I didn’t have basil oil so I used all olive oil but because I’d spent the money on the fresh basil and had so much of it I actually minced up a heaping tablespoonful and cooked it along with the garlic . At the end I still garnished with additionl fresh basil, as is called for in the recipe, and hoped it wasn’t too much. Nope, the taste was awesome ! Wonderful, wonderful.",
+            "datePublished": "2018-10-01T00:46:21.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janice Reeves"
+            },
+            "reviewBody": "Have made this a few times and love the recipe, but like the others, I'm not a fan of the clumpy cheese that results as you follow the recipe. Decided to try something different so I sauteed the garlic in with a Tbl of butter and some olive oil...added a couple tablespoons of flour to make a roux, and then a bit of milk and some broth. I then added all the cheese to this and got a very nice creamy sauce to add to the pasta and tomatoes and basil with no clumps!",
+            "datePublished": "2017-01-05T21:38:41.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsHughes"
+            },
+            "reviewBody": "My kids LOVE this! Having 2 with celiac disease in the fam, this is super simple to do gluten free (just swap the pasta!). We modified after the first time making. I use garlic butter and olive oil to cook the tomatoes in. Add shrimp a few minutes before the cheese is added. Sometimes a splash of heavy cream or milk to thin the cheese (if I was a bit heavy handed). We probably make this once or twice a month. Super simple to do on a busy day!",
+            "datePublished": "2024-09-29T14:02:06.456Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Scorp"
+            },
+            "reviewBody": "This recipe was delicious with a couple modifications. Didn’t have any fresh basil so I added some dry basil to my olive oil and added a little pesto. I used 1/2 cup of chicken broth to tomato’s when simmering. Added in some spinach, chicken and crushed red pepper",
+            "datePublished": "2021-01-22T02:40:44.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maureen Karamales"
+            },
+            "reviewBody": "Hubby and I loved this! I did make some adjustments. I used about a Tbsp of olive oil, total. I sliced up some turkey kielbasa and fried that out first, drained, set aside. Then along with the garlic I added some chopped red onion and proceeded with the rest of the recipe. I did follow another's suggestion and tossed the pasta in with the tomato mixture, THEN added the cheese and mixed it all up . I didn't have pepper jack, just used some white queso shredded cheese that I had on hand, in addition to the mozzarella. \nBefore serving, I found it necessary to pop the individual bowls into the microwave for 30 seconds on high to get everything sufficiently hot. \nServed with a slice of crusty garlic bread and a glass of red wine. Total yum!",
+            "datePublished": "2018-10-13T04:04:51.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christy"
+            },
+            "reviewBody": "Used 2 pints tomatoes, puréed some in my nutribullet, added 1 link sweet Italian sausage and cooked in my instapot on high pressure 5 mins. Then I added my cooked penne pasta and cheeses. Also added more basil and more Parmesan. Served with homemade crusty artisan bread. My version was much better!",
+            "datePublished": "2019-03-05T22:37:35.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DanielleLyn"
+            },
+            "reviewBody": "This was so delicious and the hubby loved it as well! We ate it as a side dish to chicken. But this would also be great to add in sliced chicken to make it as a main meal. The recipe name does make it sound like this would be a \"lighter\" dish. But like many other reviewers have stated, this is a heavier and very cheesy dish. I added a healthy splash of milk/cream at the end of cooking to thin it out into a sauce. I also added in some diced onion to sautee in with it. The only change I would make next time would be to double the tomato and double the fresh basil. Also save that pasta water! You can add in a splash at the end to pull it together when adding in the pasta. I cannot tell you how good it smelled in the kitchen when the basil oil, garlic, onions, and tomatoes were simmering together! YUM! It inspired me to make a rendition of this recipe by lightening it up with less cheese and to simmer some white wine with the basil, tomato, garlic mixture. Thanks for this great recipe! It for sure is a keeper and will be made again and again!",
+            "datePublished": "2016-05-19T21:23:51.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy"
+            },
+            "reviewBody": "I loved it. I made mine like this-\nBrought water to boil and added penne. Started sauce when put pasta in water.\nSautéed garlic in olive oil with some basil flakes for about 2 minutes, added the tomatoes, pinch salt and pepper to taste for about 3-4 minutes, then added a little vegetable stock and cooked additional 3-4minutes. \nDrained pasta, poured sauce over pasta , added cheese and did not have fresh basil in store so bought basil paste and put about 1 1-2 T in and stirred. It was stringy but we thought delicious with a little heat from pepper jack to give the dish a little pop.\nI think you could add anything to this dish- spinach, veggies, meat or seafood and all variations could be delicious. Thanks for a great recipe and hope you try it as it is quick and delicious recipe. \n\nOh and Earlier in day cut cheeses and put in fridge and washed and sliced tomatoes, even put pot of water on stove with lid on it so when time to cook I just cooked- no having to take time to do all that so made for really quick and easy last minute meal",
+            "datePublished": "2016-04-29T07:23:34.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "d Wellington"
+            },
+            "reviewBody": "First, let me say, I used the recipe as a guide only. I didn't use fresh tomatoes because I didn't have any; instead, I used 1 can of Diced Tomatoes. To create a sauce with the simmering tomatoes, I added Red Wine...and, if needed, water from the cooked pasta; oh, I added Red Pepper Flakes for a bit of spice. Finally, I mixed the cheeses into the pasta and sauce, and BROILED it until slightly brown..and finished it with a drizzle of Basil Infused Olive Oil (any Olive Oil would do). This was really a good dish. I am able to usually just look at a recipe, and know what I want to add (or subtract). So, to be fair, I must say, that following the recipe AS IS would have probably been just as good.l; I just preferred to make it my own. Thank you for sharing!",
+            "datePublished": "2023-09-04T22:52:53.959Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brittany"
+            },
+            "reviewBody": "I making this again and again",
+            "datePublished": "2026-07-14T02:22:54.755Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DandyFlan7091"
+            },
+            "reviewBody": "This may be the least flavourful Penne dish I ever cooked. Just a gloopy heese mess and a nightmare to glean the dishes. Not worth the time and effort, sorry!",
+            "datePublished": "2025-06-28T16:40:07.474Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PKC303"
+            },
+            "reviewBody": "Excellent. Followed directions, but had to use colby jack and sharp cheddar, because it was what I had on hand, and regular tomatoes chopped. Turned out really well.",
+            "datePublished": "2025-05-09T01:21:19.835Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunPita2800"
+            },
+            "reviewBody": "I thought I ruined this dish when the cheese didn’t melt right away and was a rubbery mess. I had the flame on its lowest setting and walked away for a couple of minutes. When I came back the cheese had melted and incorporated nicely into the rest of the ingredients. I didn’t have any basil oil, so I added more fresh and stirred the basil into the mixture. The dish was flavorful. I added a chicken breast, cubed in 1 inch pieces for some protein, that I had browned up first and added in at the end. My husband said he would have it again.",
+            "datePublished": "2025-04-04T18:17:26.986Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charmain Brown"
+            },
+            "reviewBody": "I loved it added a pinched red pepper flakes,pinch of salt and a pinch of Tony's Creole seasoning. I did not have basil oil,shredded jack cheese but it turned out amazing...t6",
+            "datePublished": "2024-08-04T22:59:04.759Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TastyBowl2422"
+            },
+            "reviewBody": "Really easy and tasty for 2 amateur cooks :) We didn't have basil oil or pepper Jack, so we just used olive oil and mozzarella. It still turned out pretty nice! We also added a little bit of milk near the end. ^^",
+            "datePublished": "2024-07-12T04:52:16.128Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpryYak8348"
+            },
+            "reviewBody": "Yo, I made this for my family and they loved it.",
+            "datePublished": "2024-05-29T19:11:07.719Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lupe"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-07T16:43:18.435Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GiftedScale6418"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-07T14:59:38.702Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/193187/tomato-basil-penne-pasta/",
+          "name": "Tomato Basil Penne Pasta",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

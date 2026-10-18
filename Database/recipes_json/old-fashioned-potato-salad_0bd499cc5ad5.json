@@ -1,0 +1,521 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/",
+  "extracted_at": "2026-10-18T02:22:50.679081+00:00",
+  "recipes": [
+    {
+      "name": "Old-Fashioned Potato Salad",
+      "ingredients_raw": [
+        "5 potatoes",
+        "3 eggs",
+        "1 cup chopped celery",
+        "0.5 cup chopped onion",
+        "0.5 cup sweet pickle relish",
+        "0.25 cup mayonnaise",
+        "1 tablespoon prepared mustard",
+        "0.25 teaspoon garlic salt",
+        "0.25 teaspoon celery salt",
+        "ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Drain, cool, peel, and chop potatoes."
+        },
+        {
+          "id": 4,
+          "text": "While potatoes cook, place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Remove eggs from hot water; cool, peel, and chop into chunks."
+        },
+        {
+          "id": 6,
+          "text": "Combine potatoes, eggs, celery, onion, relish, mayonnaise, mustard, garlic salt, celery salt, and pepper in a large bowl. Mix together until well combined."
+        },
+        {
+          "id": 7,
+          "text": "Chill potato salad in the refrigerator before serving for best flavor results. Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Old-Fashioned Potato Salad",
+        "datePublished": "2000-02-21T17:49:32-05:00",
+        "dateModified": "2026-01-21T15:27:40-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "jewellkay"
+          }
+        ],
+        "description": "This classic potato salad recipe makes a creamy potato salad with hard-boiled eggs, celery, and relish. Perfect for summer BBQs, picnics, or potlucks.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/cK8OWxFpiM6mGtd9lBBIcFmFumw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-old-fashioned-potato-salad-DDMFS-4x3-3e270b1b82744aa6ac355fef41a5a43c.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/7CKlIHX3-K3AjnAEN.mp4",
+          "description": "The potato salad in this video is served the old-fashioned way, with eggs, celery and relish. And the recipe is surprisingly good served with chili!",
+          "duration": "PT52S",
+          "name": "How to Make Old Fashioned Potato Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7CKlIHX3/thumbnails/amFHpFAm.jpg?width=1280",
+          "uploadDate": "2022-07-08T11:08:27-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Old-Fashioned Potato Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "1441"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "206 kcal",
+          "carbohydrateContent": "31 g",
+          "cholesterolContent": "72 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "335 mg",
+          "sugarContent": "6 g",
+          "fatContent": "8 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "5 potatoes",
+          "3 eggs",
+          "1 cup chopped celery",
+          "0.5 cup chopped onion",
+          "0.5 cup sweet pickle relish",
+          "0.25 cup mayonnaise",
+          "1 tablespoon prepared mustard",
+          "0.25 teaspoon garlic salt",
+          "0.25 teaspoon celery salt",
+          "ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ijHLsHdg6dBxY8b4JlzH7uSzay4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-Old-Fashioned-Potato-Salad-DDMFS-Step1-d6bdd225929247299cb4ef5e20c52e2b.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/88R3vdsGOmFr2oPoXlKss63-TtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-Old-Fashioned-Potato-Salad-DDMFS-Step2-f1301928f63e4f7090ed35e1ab1c122f.jpg"
+              }
+            ],
+            "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/WPqVKfwL8ynAaVvW72eSQJ4jzu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-old-fashioned-potato-salad-mfs-step2-117-f9eecc62bcfc493d8bec57a336385127.jpg"
+              }
+            ],
+            "text": "Drain, cool, peel, and chop potatoes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/EdrZ8ObnippC2dVMKcIYpw7tSjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-Old-Fashioned-Potato-Salad-DDMFS-Step4-198acd2d328047e6bfaad64b5676325d.jpg"
+              }
+            ],
+            "text": "While potatoes cook, place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/0vfdiCXftWtelxGYDjqtBNB2yto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-old-fashioned-potato-salad-mfs-step3-118-9da88bd0703745789327cc31663db4ba.jpg"
+              }
+            ],
+            "text": "Remove eggs from hot water; cool, peel, and chop into chunks."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ViLGAj00aLOATBl2Ut8EkpsAQE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-old-fashioned-potato-salad-mfs-step_44958-d2ab9502cbac4653b7885df930c7ea59.jpg"
+              }
+            ],
+            "text": "Combine potatoes, eggs, celery, onion, relish, mayonnaise, mustard, garlic salt, celery salt, and pepper in a large bowl. Mix together until well combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cK8OWxFpiM6mGtd9lBBIcFmFumw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16729-old-fashioned-potato-salad-DDMFS-4x3-3e270b1b82744aa6ac355fef41a5a43c.jpg"
+              }
+            ],
+            "text": "Chill potato salad in the refrigerator before serving for best flavor results. Enjoy!"
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jettyw78"
+            },
+            "reviewBody": "I really enjoyed this recipe. I did make some minor changes--I added extra mayo to make it less dry, I used dill pickles that I cut up instead of the sweet relish, and I cut up the potatoes prior to cooking to cut down on the cooking time. I will definitely make this again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WAMMER25"
+            },
+            "reviewBody": "My husband was craving potato salad so after looking at a few different recipies I tried this one. It was really good! It is better the next day so make it a day in advance if possible. I added more mayo so it wasn't dry. It definately is a classic picnic potato salad. I will definately make this recipe again.",
+            "datePublished": "2006-03-20T11:07:26.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue"
+            },
+            "reviewBody": "This is so good! I used about two pounds of red potatoes, cut in quarters, and boiled the recommended 15 minutes. Added the eggs to the boiling potatoes, removed after 12 minutes, and chilled in ice water. Pulled the skins off the cooled potatoes, returned them to the cooking kettle, and chopped with the eggs, celery, red onion, and 1/2 cup red pepper. Made the dressing in a separate bowl, increasing the mayonnaise to 3/4 cup, used a heaping 1/2 cup sweet pickle relish and a heaping tablespoon Dijon ground mustard. The rest of the seasonings as per recipe. Taste tested b4 adding to the potato mixture. If too dry, add more mayonnaise. Easy to make and cleanup. Is my new favorite potato salad.",
+            "datePublished": "2022-08-04T17:26:35.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SturdyMango1317"
+            },
+            "reviewBody": "I add about half a cup of green pepper to mine. I cook 3 pounds of diced spuds and six eggs in an Instapot for 7 minutes. While those are cooking, I mix my mayo, celery, onion, sweet pickle relish, green pepper, mustard, and seasonings in a separate bowl. Peel and chop eggs in the Ninja food processor and add them to the mix. Mix with a spatula and refrigerate for at least an hour.",
+            "datePublished": "2024-05-26T01:02:18.093Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynn Sirrine"
+            },
+            "reviewBody": "This is very close to the potato salad my mom taught me how to make as a teenager in the mid-sixties. We use dill pickles instead of sweet pickle relish, we use green onion instead of regular onion, but the biggest change is the dressing. I use a bit more mayonnaise than this recipe and add pickle juice or vinegar to the dressing to thin it as needed. I only chop the whites of the eggs to add to dry ingredients and use the mashed egg yolks to start the dressing.",
+            "datePublished": "2024-05-25T23:05:46.534Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beverly Hampton Blackwelder"
+            },
+            "reviewBody": "We Southern folks like a mushy potato salad. So, peel and cut up your potatoes and cook till very done. Up the mayo to at least 1/2 cup, and the mustard to 2-3 tablespoons, for some tartness. Mix up your mustard, mayo, onions, chopped dill pickles (no sweet ones, for goodness sakes!!), chopped eggs, salt, pepper and celery seed well, then add potatoes and stir well,...yes, very well. And then you got some good Southern potato salad! There will be no leftovers! With above changes, a 5-star recipe.",
+            "datePublished": "2024-03-27T19:53:59.693Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelly"
+            },
+            "reviewBody": "Awesome, so easy and Deelish! To make it easy after removing the potatoes use same hot water to boil the eggs ( I used 3). Fresh parsley is a must and I used Mt Olives Dill Reslish. I used 3 Yukon Gold &amp; 3 Reds and left skin on for texture and color.",
+            "datePublished": "2023-09-07T17:59:22.904Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IndigoRibs3899"
+            },
+            "reviewBody": "Wow, The best. Forget about the waxy potatoes. All in on the baking potato. Peeled and cubed prior to boiling. They came out like little puffs of heaven. No on the sweet relish, just dill. I like the dry nature of the salad, it is not all mayoey and potatoes come through.",
+            "datePublished": "2024-04-18T00:57:01.066Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuickKelp5094"
+            },
+            "reviewBody": "I have made a similar recipe for years. I use small unpeeled Yukon Golds to lessen the cooking &amp; cutting time. I do not add garlic salt or celery salt. I use stone ground mustard instead of prepared, and I add more mayo to make it creamier.",
+            "datePublished": "2023-08-31T19:42:06.784Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ernest Loyer"
+            },
+            "reviewBody": "I didn't add/remove a thing. However, I soaked the onions in water to tame the flavor. It was perfect. Better served chilled overnight.",
+            "datePublished": "2026-03-16T04:32:26.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BoldLadle5085"
+            },
+            "reviewBody": "Only make Hellmans classic recipe. Don’t use celery salt garlic powder or salt or relish or mustard. More mayo less onion 2 Tbs vinegar 1 tsp sugar very thinly sliced celery little S&amp;P. Best ever. Also potatoes should not be cooked al dente. They harden when cool. Should be tender not crunchy",
+            "datePublished": "2024-03-06T16:27:35.494Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Esther"
+            },
+            "reviewBody": "fresh herbs is best . I like dill and herbs above. i use wickels in mine . I use red potoes only removing any spots . I cut them up . I add some chicken stock and filtered water to boil them . Its a favorite any time! my family doesn't like eggs in theirs so I leave those out . And we are southern but dont like eggs in potato salad Thank you for broad recipe!",
+            "datePublished": "2026-10-12T19:17:12.579Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cha"
+            },
+            "reviewBody": "Added tomato and bacon garnish on top. Along with mom's papriks sprinkle. Delicious.",
+            "datePublished": "2026-09-24T14:00:29.979Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OkTulsa"
+            },
+            "reviewBody": "This is a keeper!",
+            "datePublished": "2026-09-24T10:00:25.178Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LankySquid5562"
+            },
+            "reviewBody": "Very similar to my Mother’s recipe which I have making for years. This time I decided to try something different. The only thing I did not put in was the garlic salt. It was the first time I added sweet relish which added so much flavor. This is a keeper.",
+            "datePublished": "2026-09-06T19:31:20.784Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "It's perfect except it's missing my secret ingredient. Can't tell u. It's my Mom's secret.",
+            "datePublished": "2026-08-20T17:35:24.468Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen O"
+            },
+            "reviewBody": "Very tasty, added a peck of horseradish. So good",
+            "datePublished": "2026-08-16T21:47:48.926Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberly"
+            },
+            "reviewBody": "This was great, just needed a bit more salt and a bit more cooking time on the potatoes.",
+            "datePublished": "2026-08-03T02:53:01.835Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Young"
+            },
+            "reviewBody": "Just needed more mayonnaise. Otherwise just like mom use to make.",
+            "datePublished": "2026-07-30T20:48:04.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mjb"
+            },
+            "reviewBody": "Easy to follow. I don't like relish so I skipped it and added chives. I just finished it so I haven't tasted it yet. Looks good.",
+            "datePublished": "2026-07-20T15:13:21.960Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/",
+          "name": "Old-Fashioned Potato Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

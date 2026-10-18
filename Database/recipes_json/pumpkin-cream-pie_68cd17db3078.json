@@ -1,0 +1,472 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12382/pumpkin-cream-pie/",
+  "extracted_at": "2026-10-18T01:49:09.299733+00:00",
+  "recipes": [
+    {
+      "name": "Pumpkin Cream Pie",
+      "ingredients_raw": [
+        "2 cups cold milk",
+        "1 cup pumpkin puree",
+        "1 cup frozen whipped topping, thawed",
+        "2 (3.5 ounce) packages instant vanilla pudding mix",
+        "1 teaspoon pumpkin pie spice",
+        "1 (9 inch) baked pie crust"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine cold milk, pumpkin puree, whipped topping, pudding mix, and pumpkin pie spice in a deep, narrow-bottomed bowl. Beat with an electric mixer on the lowest speed until well blended, about 1 minute."
+        },
+        {
+          "id": 3,
+          "text": "Pour into the baked pie crust. Cover and refrigerate until set, about 3 hours."
+        },
+        {
+          "id": 4,
+          "text": "Serve with whipped topping and crushed pecans if desired."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pumpkin Cream Pie",
+        "datePublished": "1998-08-25T11:26:56-04:00",
+        "dateModified": "2026-01-22T08:10:29-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "JJOHN32"
+          }
+        ],
+        "description": "Light, creamy, and delicious, this easy to make pumpkin cream pie is an tasty, no-bake dessert for any holiday or special occasion. Chills in just 3 hours.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/vMp76r_hHD37cJ2fprmnUlsbmjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-12382-pumpkin-cream-pie-VAT-hero-4x3-dac78d54851c4e3f83dac417193c8a2f.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pumpkin Cream Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "93"
+        },
+        "cookTime": "PT180M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "243 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "5 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "556 mg",
+          "sugarContent": "25 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 cups cold milk",
+          "1 cup pumpkin puree",
+          "1 cup frozen whipped topping, thawed",
+          "2 (3.5 ounce) packages instant vanilla pudding mix",
+          "1 teaspoon pumpkin pie spice",
+          "1 (9 inch) baked pie crust"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/BY-1Q3u4SpDPXX1nTCroiLiWAGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-12382-pumpkin-cream-pie-VAT-4x3-step-01-b87c287ec63f43e1920cea85ee67ba0c.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/XBhWHvT0KKtJ73t3cKWlFFdzLRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-12382-pumpkin-cream-pie-VAT-4x3-step-02-a083a04f1ecb44dda1c670fedc845aec.jpg"
+              }
+            ],
+            "text": "Combine cold milk, pumpkin puree, whipped topping, pudding mix, and pumpkin pie spice in a deep, narrow-bottomed bowl. Beat with an electric mixer on the lowest speed until well blended, about 1 minute."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zPattxB3yeRluWdlGzlBxXb8apU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-12382-pumpkin-cream-pie-VAT-4x3-step-03-736cd209054e403e93d98956c63afd0d.jpg"
+              }
+            ],
+            "text": "Pour into the baked pie crust. Cover and refrigerate until set, about 3 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/FbVpsBuTG5EGIowm_DA77TRt_DU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-12382-pumpkin-cream-pie-VAT-4x3-step-04-774816bf315e4f1fbfb5a75f4ad8fcba.jpg"
+              }
+            ],
+            "text": "Serve with whipped topping and crushed pecans if desired."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 9-inch pie"
+        ],
+        "totalTime": "PT185M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HRS"
+            },
+            "reviewBody": "Tasty! I used 1 1/2 c milk, because of other reviewers saying it was runny. I also used one pkg french vanilla pudding and one pkg cheesecake pudding. Mmmmm. I think with less milk it helped. Mine wasn't runny or soupy."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deborah Porter"
+            },
+            "reviewBody": "I made a version of this tonight. I love to experiment so I doubled the filling part (8 egg yolks, 4cups whole milk, 1tsp vanilla, 1/2 cup corn starch, 1 cup sugar, 1 tsp p.p. spice,2 tbsp butter, 2 1/2 cup pumpkin. I placed this cooked and thickened into a gingersnap crust in a 9\"springform pan and letting it set overnight. Next I will top with whip cream and sprinkled nutmeg.",
+            "datePublished": "2011-08-25T19:29:53.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I really liked this pie. I did the following to prevent it from being runny: - Reduced milk to one cup - Half can of condensed milk - One small packet of Knox gelatin dissolved in 1 cup of hot water To make it more flavorful, I added two tablespoons of pumpkin pie spice mix. I used a graham pie crust and refrigerated it overnight. It held its shape even after zapping in the microwave!",
+            "datePublished": "2009-11-18T05:42:45.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dori"
+            },
+            "reviewBody": "I followed the recommendations of others and cut down the milk to 1 cup and used the whole can of pumpkin. I increased the spices by taste and the pie filling was great! Because I was making this for a potluck dinner, I piped the filling into graham cracker tarts. They were quite a hit!",
+            "datePublished": "2023-11-13T18:34:15.071Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Retith"
+            },
+            "reviewBody": "So easy to put together...I used a graham cracker crust and\n 1 1/4 cup of milk . The consistency is much firmer and the taste is yummy!",
+            "datePublished": "2018-12-24T18:05:24.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "finator"
+            },
+            "reviewBody": "I'm not a big pumpkin pie fan, but I made this for Thanksgiving (tomorrow). I used 12 mini graham cracker crusts to make individual pies. I mixed up all the ingredients with the Kitchen Aid stand mixer, and it started to thicken up right away (not soupy, even with the 2c milk). I only licked the spatula, but based on that I'll gladly give this recipe 5 stars.\n\nUPDATE - everyone else loved the pies, too! And the mini size meant they could be taken home easily!",
+            "datePublished": "2011-11-23T12:32:38.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nrgizrbune41"
+            },
+            "reviewBody": "I have made this 3 times. I used only 1 cup milk! This time I used caramel sauce &amp; chopped pecans on the whip cream topping around the pie edges. I also sprinkled a few pecans on my crust along with a 1 Tbsp. of caramel sauce drizzled over the pecans before pouring in the filling.. It was wonderful &amp; decadent!",
+            "datePublished": "2010-12-02T19:20:39.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lindalee"
+            },
+            "reviewBody": "The secret to this awesome pie is to combine the pudding and cold milk first. The pudding will be thick. Then add the pumpkin and spices. If you serve the topping on the side, this looks like (and cuts like) a normal pumpkin pie and tastes like one too! What a great lo-cal version with sugar-free pudding mix!",
+            "datePublished": "2010-11-26T09:22:13.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Galex7471"
+            },
+            "reviewBody": "This was very delicious and easy. I live in a dorm and toaster ovens are not allowed, so this was a perfect solution for Thanksgiving. I halved the recipe, omitted the whipped topping, increased the pumpkin by 50% and doubled the pumpkin pie spice. I put it in 6 mini pie tart crusts and let it sit in the fridge overnight.",
+            "datePublished": "2008-11-28T20:27:37.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jessica M"
+            },
+            "reviewBody": "I also found the pumpkin mixture to be a bit runny for pie filling so I adjusted the cream to 2 cups and used twice as much canned pumpkin pie filling. I ditched the whole pie idea and will be serve it in custard dishes with whip cream on top. Mmmmmm! A new fall favorite!",
+            "datePublished": "2008-11-25T12:50:10.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gamma penny"
+            },
+            "reviewBody": "Used 1.5 cups of milk and whipped pudding and milk first, then added pumpkin and spices. Then folded in cool whip. Made enough for one deep dish pie and one graham wafer pie but would have been better with two smaller crusts rather than the deep dish one.",
+            "datePublished": "2018-03-31T19:10:34.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lovedoc1975"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-15T03:47:13.625Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Burnett"
+            },
+            "reviewBody": "I've made a lot of pies and for some reason never considerd a Pumpkin Cream so I, made this one, easiest I've ever made of course none of them are hard but i really like this one I'll be making this again",
+            "datePublished": "2023-12-25T14:35:21.742Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DapperGrape7046"
+            },
+            "reviewBody": "First pie was too runny, made the second pie with 1-1/4 cup milk and a 2x more pumpkin spice. Much better!",
+            "datePublished": "2023-10-15T15:50:37.159Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "reverendessinger"
+            },
+            "reviewBody": "Made it like a cheesecake with no side crust.",
+            "datePublished": "2022-11-13T21:04:17.589Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jadyn"
+            },
+            "reviewBody": "It was so good! Although in order to get the pie to the right consistency, I had to let it chill for an extra day.",
+            "datePublished": "2020-12-04T04:44:57.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FrackFamily5 CACT"
+            },
+            "reviewBody": "I’m going to preface this rating with I am not a fan of pumpkin pie. That being said this tasted just like a pumpkin pie. The added vanilla and cream made it lighter but the pumpkin flavor did show up. I used one full can of pumpkin because what am I going to do with the other half? And because of that I reduced the milk to 1 C.",
+            "datePublished": "2020-11-30T13:26:22.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Haydee Vaughan"
+            },
+            "reviewBody": "Really easy and delicious ! I also added vanilla, and used 1.5 cups of coolwhip instead of 1 cup. After following the recipie I think next time I will use more pumpkin pie spice to give it some more flavor.",
+            "datePublished": "2018-06-27T16:21:21.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Kinsley"
+            },
+            "reviewBody": "Nice creamy pie but needs more spice for my taste and graham cracker crust sets it off. In my opinion triple the spice, go with 1.5 cups milk (as others have said), and go with graham crust and you have 5 star pie.",
+            "datePublished": "2017-09-24T23:58:21.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marymogusu"
+            },
+            "reviewBody": "we loved this. we tend to use more whole food ingredients, so we made whipped cream from scratch and used it in the place of cool whip. delicious! the 4 stars, instead of 5, is just for all the premade ingredients. otherwise, it was great.",
+            "datePublished": "2017-07-18T17:53:13.690Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12382/pumpkin-cream-pie/",
+          "name": "Pumpkin Cream Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/807/desserts/pies/custard-and-cream-pies/",
+                  "name": "Custard and Cream Pies"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,415 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12920/chinese-egg-soup/",
+  "extracted_at": "2026-10-18T01:51:18.593222+00:00",
+  "recipes": [
+    {
+      "name": "Chinese Egg Soup",
+      "ingredients_raw": [
+        "4 cups seasoned chicken broth",
+        "0.5 cup frozen green peas",
+        "1 egg, beaten"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring chicken broth and peas to a boil in a large saucepan."
+        },
+        {
+          "id": 2,
+          "text": "Slowly add egg to the boiling broth, stirring constantly. Serve hot, garnished with chopped green onions."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chinese Egg Soup",
+        "datePublished": "1999-01-21T14:56:00-05:00",
+        "dateModified": "2018-04-12T23:00:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "akhowell"
+          }
+        ],
+        "description": "In this simple soup, a beaten egg is slowly poured into a pot of simmering chicken broth with peas. Serve with sliced green onions.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/w3O-gBwkY1Tz3kTMYoZ4mXZdRm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6237635-343fb100c7ec4e37af7ff778d812eb34.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chinese Egg Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "39"
+        },
+        "cookTime": "PT13M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "35 kcal",
+          "carbohydrateContent": "3 g",
+          "cholesterolContent": "31 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "639 mg",
+          "sugarContent": "1 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT2M",
+        "recipeCuisine": [
+          "Chinese"
+        ],
+        "recipeIngredient": [
+          "4 cups seasoned chicken broth",
+          "0.5 cup frozen green peas",
+          "1 egg, beaten"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring chicken broth and peas to a boil in a large saucepan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Slowly add egg to the boiling broth, stirring constantly. Serve hot, garnished with chopped green onions."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Keith E"
+            },
+            "reviewBody": "Quick and simple, but still has that restaurant quality."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rochelle_fetters"
+            },
+            "reviewBody": "This is definitely a good starter but I, like others, prefer a different egg to broth ratio. I actually used 1 egg for every two cups of broth and might put even more in next time. I also was not a fan of the peas so next time I won't put those in. Also, I would whisk the eggs before putting them in the broth, to combine the yoke and the egg white.",
+            "datePublished": "2012-01-09T15:45:41.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I played around a bit and came to the following conclusions:\r\n1) 2 cups chicken broth (plain) to one egg\r\n2) add about two teaspoons of soy sauce\r\n3) forget the peas\r\n4) green onion is nice if you have it\r\n\r\nAn Easter-egg blower makes it easy to add the egg slowly to the boiling broth.",
+            "datePublished": "2002-11-09T21:21:16.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rover"
+            },
+            "reviewBody": "This recipe was good. I probably changed it so much it is a whole new recipe. I used 2 cans (14 ounces each) of chicken broth, 1/8 of a teaspoon sesame oil, 1 cup of peas and carrots instead of just peas, and 2 eggs. The recipe as written is 4 stars, as made 5.",
+            "datePublished": "2010-12-04T15:59:57.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jade"
+            },
+            "reviewBody": "This turned out pretty well for me. I used 4 cups of stock and 4 eggs because I have chickens and needed to use up as many eggs as I could. I also added tofu for something different.",
+            "datePublished": "2012-02-03T11:40:00.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carly13"
+            },
+            "reviewBody": "I absolutely loved it! \nI had no idea what to do with my extra bag of split peas, so when I saw this, I was very happy ! \nIt turned out really good. \nI'm going to use a Tbsp. of sesame oil and a Tbsp of grated ginger in it next time :D",
+            "datePublished": "2011-03-19T15:39:23.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "A very easy soup to make. I halved the recipe but still used a whole egg. I also used my homemade chicken broth.",
+            "datePublished": "2019-01-08T19:54:10.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AshMiller1017"
+            },
+            "reviewBody": "I was suprised at how good this was because its SO easy!. I did cut the broth in half though. I boiled 2 cups of water, tossed in a knorr's chicken bouillon cube then when that dissolved I slowly added the egg. I think 1 egg for 2 cups of broth was perfect for me. I skipped the peas and the green onion (because we are out) I dont think it needs the peas but would be even better with the green onion. After cooking I just added a dash of white pepper and that was it. My husband did not want to try it at first because he has tried the egg drop soup at chinese restuarants before and never liked it. When he tried this, he didn't want to stop eating it! My 2 year old also really liked it. Thank you for this recipe, I think I will be making it a lot.",
+            "datePublished": "2010-07-06T08:01:21.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZAKKIE"
+            },
+            "reviewBody": "This was easy but needed more taste. Thanks to the reviewer for suggesting soy sauce. Adding another egg, doubling the veggies and a drop of sesame seed oil really did wonders.",
+            "datePublished": "2010-12-04T16:31:11.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "whittneyshoots"
+            },
+            "reviewBody": "Just made this because I was curious how easy it would be. Though I HATE the kind in the chinese resturants this was AMAZING! I was out of peas and green onions but its perfect just like it is! My 3 kids ages 7,6 and 2 were fighting over it! I tried it with chicken bullion and broth and both ways were yummy :) Just make sure your broth is BOILING when you put the eggs in or it will turn slushy. Weve eaten this 3 times in 2 days, even for breakfast! Pefect to sip and the protein is AWESOME!",
+            "datePublished": "2012-06-25T15:00:37.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jacquie Garel"
+            },
+            "reviewBody": "I really enjoyed this. It was simple, quick, and tasty. The only difference I made was to use ~1c. frozen mixed veggies. (This was because I didn't have just peas frozen and didn't want to use canned peas, and then forgot to look back at the recipe to verify adding the right amount. :P) The veggies give the soup a mild sweetness to it to accent the saltiness of the broth.",
+            "datePublished": "2011-02-08T16:05:13.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelie Jones"
+            },
+            "reviewBody": "Very good and super easy. Next time, I may just use the eggwhite, though.",
+            "datePublished": "2015-02-01T12:28:14.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Surfdad"
+            },
+            "reviewBody": "Great soup. I made this tonight accompanied with Marian Collins' Baked Teriyaki Chicken and Jostrander's Fried Rice. Absolutely excellent and much cheaper than going out for Chinese food. I followed the recipe exactly as written and it was fantastic, and oh so easy to prepare. Thanks \"akhowell\" a for sure keeper!",
+            "datePublished": "2012-12-30T18:22:36.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "member007"
+            },
+            "reviewBody": "Very good soup! Because I was out of chicken broth, I made my own using two bullion cubes (if you want less salt, just use one). And since I'm not a pea lover, a can of corn sufficed. \n\nDefinitely a fast recipe!",
+            "datePublished": "2011-12-30T18:03:31.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joy Dauterman"
+            },
+            "reviewBody": "This was a very easy, very good soup. I used two eggs and liked that very much. I didn't have the green onion, but wish I did; I will next time.",
+            "datePublished": "2011-12-29T10:04:53.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bigdaddy"
+            },
+            "reviewBody": "we have been drinking this soup from coffee cups the past 2 mornings as a great breakfast soup in a cup takes all of 5min to make pour in a cup and go my wife hates eggs but loves this",
+            "datePublished": "2011-07-31T04:42:50.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NMLady"
+            },
+            "reviewBody": "I made this soup two times and both times it was just missing something. I made it with the peas, and I made it without the peas.",
+            "datePublished": "2011-07-29T09:36:35.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Coles"
+            },
+            "reviewBody": "I was surprised. It is quite good and so easy to make. Will surely do it again.",
+            "datePublished": "2011-05-29T17:46:51.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "christ06"
+            },
+            "reviewBody": "Super simple and tasty.",
+            "datePublished": "2011-02-05T18:07:45.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ness_the_Recipe_Conqueror"
+            },
+            "reviewBody": "Simple and yummy, I added plain instant noodles (supernoodles) to bulk it up a bit more",
+            "datePublished": "2010-01-15T07:39:02.473Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12920/chinese-egg-soup/",
+          "name": "Chinese Egg Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

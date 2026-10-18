@@ -1,0 +1,478 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/218573/tater-tot-taco-casserole/",
+  "extracted_at": "2026-10-18T03:05:50.877888+00:00",
+  "recipes": [
+    {
+      "name": "Tater Tot Taco Casserole",
+      "ingredients_raw": [
+        "cooking spray",
+        "1 pound ground beef",
+        "1 (16 ounce) bag frozen whole-kernel corn with red and green bell peppers",
+        "1 (12 ounce) can black beans, rinsed and drained",
+        "1 small onion, diced",
+        "1 clove garlic, minced",
+        "1 (1 ounce) packet taco seasoning mix",
+        "1 (12 ounce) bag shredded Mexican cheese blend",
+        "1 (16 ounce) package frozen bite-sized potato nuggets (such as Tater Tots®)",
+        "1 (12 fluid ounce) can enchilada sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 375 degrees F (190 degrees C). Prepare a 9x13-inch baking dish with cooking spray."
+        },
+        {
+          "id": 2,
+          "text": "Cook ground beef in a skillet over medium heat until completely browned, 5 to 7 minutes. Add in frozen corn, black beans, onion, garlic, and taco seasoning mix to ground beef; cook and stir another 10 minutes. Set aside to cool slightly."
+        },
+        {
+          "id": 3,
+          "text": "Combine ground beef mixture in a large bowl with about 3/4 of the Mexican cheese blend and the potato nuggets; stir to combine."
+        },
+        {
+          "id": 4,
+          "text": "Pour about 1/3 of the enchilada sauce into the bottom of the prepared baking dish. Add the tater tot mixture to the baking dish; lightly pat the mixture down into a solid, even layer. Pour remaining enchilada sauce over the potatoes."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven for 40 minutes. Sprinkle remaining cheese over the casserole and return to the oven until the cheese is melted and bubbly, about 5 minutes more."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Tater Tot Taco Casserole",
+        "datePublished": "2020-02-26T00:51:08-05:00",
+        "dateModified": "2026-08-05T12:39:32-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mama Smith"
+          }
+        ],
+        "description": "This Mexican-inspired taco Tater Tot casserole is a fun and tasty twist on taco night. It’s easy to make with ingredients you would normally have on hand.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/DM9lnn7EXOBXpX-6TYV4M6K9wvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218573-tater-tot-taco-casserole-VAT-Beauty-4x3-1083d257b2914c23a374307b9f18f9a3.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/64C42YCe-K3AjnAEN.mp4",
+          "description": "Melted cheese, crisp tater tots, ground beef, beans, and yummy taco seasonings blend together to form a delightful and rich meal. Don’t pass up potatoes, melted cheese, and enchilada sauce for an easy meal that will please adults and the grandkids! ",
+          "duration": "PT1M40S",
+          "name": "Tater Tot Taco Casserole",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/64C42YCe/poster.jpg?width=1280",
+          "uploadDate": "2021-07-04T21:44:29-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tater Tot Taco Casserole",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "970"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "477 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "76 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "25 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "1305 mg",
+          "sugarContent": "2 g",
+          "fatContent": "27 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "cooking spray",
+          "1 pound ground beef",
+          "1 (16 ounce) bag frozen whole-kernel corn with red and green bell peppers",
+          "1 (12 ounce) can black beans, rinsed and drained",
+          "1 small onion, diced",
+          "1 clove garlic, minced",
+          "1 (1 ounce) packet taco seasoning mix",
+          "1 (12 ounce) bag shredded Mexican cheese blend",
+          "1 (16 ounce) package frozen bite-sized potato nuggets (such as Tater Tots®)",
+          "1 (12 fluid ounce) can enchilada sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C). Prepare a 9x13-inch baking dish with cooking spray."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook ground beef in a skillet over medium heat until completely browned, 5 to 7 minutes. Add in frozen corn, black beans, onion, garlic, and taco seasoning mix to ground beef; cook and stir another 10 minutes. Set aside to cool slightly."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine ground beef mixture in a large bowl with about 3/4 of the Mexican cheese blend and the potato nuggets; stir to combine."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour about 1/3 of the enchilada sauce into the bottom of the prepared baking dish. Add the tater tot mixture to the baking dish; lightly pat the mixture down into a solid, even layer. Pour remaining enchilada sauce over the potatoes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/DM9lnn7EXOBXpX-6TYV4M6K9wvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218573-tater-tot-taco-casserole-VAT-Beauty-4x3-1083d257b2914c23a374307b9f18f9a3.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven for 40 minutes. Sprinkle remaining cheese over the casserole and return to the oven until the cheese is melted and bubbly, about 5 minutes more."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT75M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jrbrown"
+            },
+            "reviewBody": "This is very easy to make and very tasty. Very good."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KARENVG"
+            },
+            "reviewBody": "Guess I'm a little late to the party! Amazing recipe and thanks to all the cooks before me, I made some 'tweeks' that I believe made this extra delicious. \n\nFollowing breakfast tater tot recipes to keep the tater tots crispy, I baked the tater tots for 10 minutes while browning the meat. I too added a can of mild diced chills and used my own taco seasoning mix to control the sodium. Onions and diced red peppers were sautéed with the meat to create additional flavor. And, just like a lasagna, I layered: Enchilada sauce (Hatch's green enchilada sauce), meat mixture, cheese and then the tater tots. I topped the tots with the remaining enchilada sauce and cheese. Family really enjoyed this comfort casserole! Thanks for the recipe.",
+            "datePublished": "2020-05-29T14:49:46.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SmallTownTexasGirl"
+            },
+            "reviewBody": "I hate to say I made this, because I changed it so much, but I had left overs I needed to get rid of. It turned out really good. And I will definitely make it again. First of all, I did not have any tater tots so I used up some russet potatoes that were getting old by shredding them and layering them in a flat pan. I baked them at 375 for about 30 minutes until they were crispy. I then ground up some left over rib eye steak and pork roast and used these instead of the hamburger. Because this meat was already cooked, I did not need to cook in step 2. I just put a tablespoon or 2 of vegetable oil in a skillet and cooked the onions and garlic, along with some chopped red, green and yellow bell peppers until they were soft. Mixed it all together as called for in the recipe. It turned out great. This would probably be really good with jalapenos for those that can tolerate hot and spicy.",
+            "datePublished": "2023-04-11T21:07:06.139Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FrackFamily5 CACT"
+            },
+            "reviewBody": "Winner!! I did not add the beans but kept the remainder of the recipes the same. I opted to build this like one of the most helpful reviews shared. \nI used an oven proof skillet to cook the beef, onion, corn, spice mixture and added 1/3 of the sauce. Then I’m sprinkled half of the cheese on top of that, followed by the tots. Drizzled the remaining sauce and cheese. Then baked for 30 minutes. The tots come out crisp and the bottom is cheesy and delicious. Served with sour cream and picked jalapeños. Great Party dish.",
+            "datePublished": "2021-01-01T18:12:58.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam"
+            },
+            "reviewBody": "Like many easy casserole recipes, I find this one to be an excellent canvas on which to build. You can add sliced scallions/green onions, chopped jalapeno, sour cream, diced tomatoes, or black olives atop the casserole when serving. Instead of enchilada sauce, you can use up some salsa which has been in the refrigerator a while or use a tomato-based sauce on the bottom and queso on top. Use the leftover casserole to fill burritos and smother them in green chili. The possibilities with this recipe are practically endless!!",
+            "datePublished": "2025-10-23T17:42:44.481Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "This was very good! I did not add the onion and used a little dried minced onion as the beef was cooking instead as I don't care for a lot of onion. I also saw from the reviews that some people thought the tots got soggy and/or lost in the mix so I tossed some into the beef mixture but then layered the rest on top. That gave the tots the nice crispiness I think a lot of people were missing. This is something I'll add to my stock of \"things that should reheat well so I can make a batch and eat it for work lunches for a few days\" repertoire.",
+            "datePublished": "2020-10-06T07:06:29.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "slaughtermelon"
+            },
+            "reviewBody": "My boyfriend and I liked this. I sautéed half an onion and a bunch of cloves of garlic as well as half a bell pepper that needed to be used up. ( I didn’t tell him that . It’s hard to get that guy to eat veggies.) I added it to the meat mixture. Then I split a some of the tots and threw them into the mixture as well. I put most of the tots on top with cheese under them and over them as well as some black olives. It’s nothing special but it’s good, filling comfort food. Works well as leftovers/ take to work for lunch kinda thing and like I said you can hide veggies in it if you have picky eaters!",
+            "datePublished": "2021-07-04T01:57:19.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DeeDeep"
+            },
+            "reviewBody": "Delicious and easy. I did make one change. On top of the casserole, I spread a can of Black Refried Beans. Then I put the Enchelada Sauce and Cheese on top of that. Not necessary, but I love the taste of black refried beans. This is a quick and easy recipe. You can easily easily swap out the black beans and corn for whatever vegetables you have on hand and use different cheeses.",
+            "datePublished": "2026-08-17T19:09:51.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TABZ"
+            },
+            "reviewBody": "For a vegetarian option, I substituted ground beef with Gardein Ultimate Frozen Ground Be'f Crumbles and it was amazing! My family and I couldn't taste the difference. I topped it with a little sour cream and it was a big hit. Will add this to our regular rotation since it's so easy and tastey",
+            "datePublished": "2024-05-18T13:50:03.428Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chenro57"
+            },
+            "reviewBody": "This was good. Easy and tasty. I put the tater tots on top, then enchilada sauce, &amp; shredded cheese because I wanted the tots to be crispy, which I doubted if they were mixed in with the beef &amp; veggies.",
+            "datePublished": "2023-04-18T22:54:12.009Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dale"
+            },
+            "reviewBody": "Made a few minor changes. Added onion, cumin, when I browned the meat. I used a can of pinto beans instead of black beans &amp; I baked the tater tot’s on top of the casserole. It was easy, economical, and a hit at my house. Thank you for the recipe!",
+            "datePublished": "2026-08-26T23:26:06.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Don Drake"
+            },
+            "reviewBody": "Very good with a little sour cream and even some Fritos.",
+            "datePublished": "2026-10-02T15:28:47.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deli Yum Yum44"
+            },
+            "reviewBody": "Actually really good. I seared, then simmer steak bite pieces instead of ground beef so they go further. Then add the corn. We used medium fresh chunky salsa it was great. For us we used shredded cheddar and pepper 🌶 jack and Ore Reda \"crispy crowns\" . Family loved ❤️ it. The potato crowns got really crunchy.",
+            "datePublished": "2026-09-22T15:43:28.554Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MerryAle3260"
+            },
+            "reviewBody": "Disgusting. The whole point of tater tots is the crunch. Mixing then into the beef and sauce ruins them. Make the beef, veg and cheese my picture and pour into casserole. Cover with tots. Bake nearly all the way, adding more shredded cheese on top the last 10 minutes. You won't be sorry. You WILL BE if you make the original slop.",
+            "datePublished": "2026-08-25T16:48:59.939Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GiftedSpud9056"
+            },
+            "reviewBody": "Loved it and so did the family",
+            "datePublished": "2026-08-24T20:55:56.006Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bevann"
+            },
+            "reviewBody": "Great flavor and easy",
+            "datePublished": "2026-02-24T01:56:41.956Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Victori_A"
+            },
+            "reviewBody": "Super delicious 😋 my daughters loved it! Definitely a new recipe worth keeping!",
+            "datePublished": "2026-02-06T03:58:26.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PuffyAle9782"
+            },
+            "reviewBody": "This will be on my regular rotation of meals. I used a large 24 oz can of enchilada sauce instead of 10 oz and it was perfect. I also used hash browns instead of tots as that is what I had. I mixed it all together with 1/2 the cheese and baked covered for 1/2 hr and then uncovered and top with remainder of cheese and topped with crushed chili corn chips and cooked another 15 minutes. Perfect. My adult grandson had seconds and asked to take a couple more servings home. It was a winner 😀",
+            "datePublished": "2026-02-04T19:48:30.401Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "A."
+            },
+            "reviewBody": "My picky-eater kids gobbled it up! That says a lot. It's refreshing not to have any complaining from the kiddos when it's dinner time. Delicious!",
+            "datePublished": "2026-01-23T16:00:25.632Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yolande"
+            },
+            "reviewBody": "I made this recipe as it was except I swapped out black beans for chili beans. We loved it and will eat it again.",
+            "datePublished": "2025-12-04T02:04:02.768Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/218573/tater-tot-taco-casserole/",
+          "name": "Tater Tot Taco Casserole",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

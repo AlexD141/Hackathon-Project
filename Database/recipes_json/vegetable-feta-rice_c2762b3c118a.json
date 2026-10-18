@@ -1,0 +1,434 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16880/vegetable-feta-rice/",
+  "extracted_at": "2026-10-18T02:23:28.434547+00:00",
+  "recipes": [
+    {
+      "name": "Vegetable Feta Rice",
+      "ingredients_raw": [
+        "1.5 cups uncooked long-grain white rice",
+        "3 cups water",
+        "1 cup chopped red onion",
+        "1 cup chopped celery",
+        "1 cup chopped cucumber",
+        "4 ounces feta cheese",
+        "1 tablespoon olive oil",
+        "2 tablespoons red wine vinegar"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place rice and water in a medium-size pot. Bring water to a boil, when boiled reduce heat to a simmer, cover pot and let rice cook until tender."
+        },
+        {
+          "id": 2,
+          "text": "In a large mixing bowl, combine red onion, celery, and cucumber. Crumble the feta into the bowl. Cover the vegetable mixture with cooked rice, cover and let sit for 5 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Toss vegetable and feta with oil and vinegar, and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Vegetable Feta Rice",
+        "datePublished": "2000-01-26T16:33:30-05:00",
+        "dateModified": "2022-08-08T11:36:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "danielle"
+          }
+        ],
+        "description": "A dish of white long grain rice, feta cheese, celery, red onion, and cucumber.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/phK-JcfB1HC0Pj5NOJId7CWsMfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131323-0bd9f0736010449cbb05368f2a4c8512.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Vegetable Feta Rice",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "49"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "384 kcal",
+          "carbohydrateContent": "63 g",
+          "cholesterolContent": "25 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "10 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "344 mg",
+          "sugarContent": "4 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeIngredient": [
+          "1.5 cups uncooked long-grain white rice",
+          "3 cups water",
+          "1 cup chopped red onion",
+          "1 cup chopped celery",
+          "1 cup chopped cucumber",
+          "4 ounces feta cheese",
+          "1 tablespoon olive oil",
+          "2 tablespoons red wine vinegar"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place rice and water in a medium-size pot. Bring water to a boil, when boiled reduce heat to a simmer, cover pot and let rice cook until tender."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large mixing bowl, combine red onion, celery, and cucumber. Crumble the feta into the bowl. Cover the vegetable mixture with cooked rice, cover and let sit for 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Toss vegetable and feta with oil and vinegar, and serve."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KIMAR"
+            },
+            "reviewBody": "This recipe definitely needs some enhancement as it was rather bland! I added salt and oregano. I would decrease the amount of red onion (was overpowering) and possibly increase the oil and vinegar. If you do all of this, I think you'll be much better satisfied with the results. I'll make it again, but only by enhancing it as I've stated here."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bette"
+            },
+            "reviewBody": "I give this 5 stars *with* the following changes. \r\n\r\nChanges to ingedients: Use about 1/4 C red onion. Add a couple cloves of garlic. Add some red/yellow/organge bell pepper (maybe 1/2 of one). Consider increasing the feta to 6 oz (also, I used plain feta and added maybe 1/2 tsp of Italian seasoning and that worked well). Consider adding a little fresh cilantro (1 - 2 T chopped) and a couple of squirts of lemon juice. Do not use any vinegar. \r\n\r\nChanges to the procedure: Saute the red onion, celery, pepper, and garlic in olive oil before putting into the large mixing bowl. You can add the lemon juice (if you decide to use it) to the mixing bowl. Add the cilantro (if you use it) to the rice when it's almost done. After the five minutes of sitting in the bowl under hot rice, just toss and serve (skip the olive oil and vinegar).\r\n\r\nMade this way, it's delicious! And if you feel it still needs a little something, try adding a little soy sauce (try it first on a small amount).",
+            "datePublished": "2012-06-19T16:54:20.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly K"
+            },
+            "reviewBody": "Great idea if you want to try something new with rice. I always end up tweaking recipes. Here's what I did: Cooked the rice in chicken broth with a little butter and minced onion. Then afterward I added a bunch of oregano, some garlic powder, salt and pepper and a little bit of Tomato, Basil and Garlic Mrs. Dash. I didn't use celery and cooked my onion first and it was really good. I also had some leftover pork roast that I decided to throw in at the last minute and it actually worked really well our main dish. The cucumber and feta reminded me of greek salad, so next time I think I'll try adding tomatoes.",
+            "datePublished": "2009-06-23T19:13:24.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary G"
+            },
+            "reviewBody": "Boring as written, much improved with the addition of olives. I can see that garlic-herb feta would be good, too, or any strongly flavored additions, such as fresh dill and lemon zest.",
+            "datePublished": "2021-07-11T21:07:03.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SweetBasil"
+            },
+            "reviewBody": "Excellent!! Cooked rice in chicken broth. I used lemon juice instead of vinegar as others have suggested. Only addition was minced fresh parsley and lemon basil. Will make this often. So fresh and light!!",
+            "datePublished": "2009-06-09T05:23:08.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Didn't like it the first time I made it but with a few changes it was transformed into a dish worthy of a four star rating.\r\nReduce the onion by at least half. Saute onion and celery just until tender before adding to cucumber and feta. Add a few greek olives to jazz it up. Cut preparation time way down by cooking rice in microwave. Has a great feta taste which was hidden by all the raw onion in original recipe. \r\nI served this with \"Grecian Pork Tenderloin\" for a lovely Greek-style meal.",
+            "datePublished": "2002-10-26T18:15:43.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Creative Chris"
+            },
+            "reviewBody": "A pleasant twist on rice &amp; veggie dishes. I used sweet onion and also sauteed the onion and celery. Makes a good base recipe that you can tweak with other vegetables and herbs. Other reviews gave me ideas for next time; this is a keeper.",
+            "datePublished": "2011-09-01T13:17:22.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "blueshell2"
+            },
+            "reviewBody": "I didn't have onion or celery, so I used onion powder and threw in cherry tomatoes instead. I also threw in some spinach with the rice while it cooked, so there'd be some cooked spinach at the end. Definitely add salt at the end. This makes a lot, so I only did 2/3 the recipe.",
+            "datePublished": "2010-08-31T19:20:24.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lizzie Qualls McCrory"
+            },
+            "reviewBody": "Loved this! I sauteed the onion and celery and used only 1/2c of onion. I used garlic/herb feta. Excellent!",
+            "datePublished": "2004-07-12T07:43:32.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LovefoodinPA"
+            },
+            "reviewBody": "This was very good! It did need a few changes though. As per other reviewers I added half the onion called for. Instead of vinegar, I used fresh squeezed lemon juice and added fresh, chopped cilantro, minced garlic and basil to taste. Between the warmth of the rice, the tang of the feta, the crunch of the vegetables and the fresh herbs and lemon..there was a party going on in my mouth! Thank you Danielle for a great basic recipe.",
+            "datePublished": "2008-07-25T14:25:06.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jules_4584"
+            },
+            "reviewBody": "Everyone in my family loved this. I hate celery so i added some chopped green capsicum and that tasted really nice. If you are using as a side dish for a family of four a would recommend only using one cup of rice. This is definity a keeper!",
+            "datePublished": "2006-01-11T20:50:17.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "msccar"
+            },
+            "reviewBody": "Yummy!! Great side for grilled chicken. I used white wine vinegar, and served the feta cheese on the side for the non- feta fans. Also, I did not use as much celery, onion, or cucumber as the recipe called for...I just guesstimated.",
+            "datePublished": "2016-07-06T03:47:19.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa24"
+            },
+            "reviewBody": "Made this rice dish to accompany the Indian Style Sheekh Kabob. Nice touch!!",
+            "datePublished": "2014-05-26T16:23:59.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamhouse80"
+            },
+            "reviewBody": "this was yummy, you can't go wrong with feta, but I think next time i'll use half the onions, or maybe green onions.....",
+            "datePublished": "2013-02-14T07:15:33.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cln714"
+            },
+            "reviewBody": "We loved it! :D",
+            "datePublished": "2012-05-29T10:39:41.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VIVNIDHI"
+            },
+            "reviewBody": "Loved it, of course with the addition of salt and oregano.",
+            "datePublished": "2008-03-19T11:50:25.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WENDILASSITER"
+            },
+            "reviewBody": "Great change for a side dish. The cucumbers were interesting but delicious. I will prepare this again.",
+            "datePublished": "2006-06-12T16:43:56.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ellen J"
+            },
+            "reviewBody": "I sauteed the onions and celery in butter, but not for too long. I still wanted the vegetables to have a little crunch. Otherwise very good!",
+            "datePublished": "2006-03-15T02:38:45.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OLIVIAC15163"
+            },
+            "reviewBody": "I did not care for this at all. I ended up throwing the whole thing away. I definitely would not recommend this, BUT if you are thinking about trying it, I would offer these tips: sautee the onions and celery and make sure you don't cook the rice too long.",
+            "datePublished": "2005-11-22T08:07:31.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Denise Ellen Pedroza"
+            },
+            "reviewBody": "I addapted this recpipe by leaving out the cucumbers and switching the feta for mexican cheese with a similar crumbly texture. Still yummy!!",
+            "datePublished": "2005-01-17T08:19:31.247Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16880/vegetable-feta-rice/",
+          "name": "Vegetable Feta Rice",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/224/side-dish/rice/",
+                  "name": "Rice Side Dish Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

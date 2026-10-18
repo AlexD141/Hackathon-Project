@@ -1,0 +1,395 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11713/the-cheese-thing/",
+  "extracted_at": "2026-10-18T01:47:16.923367+00:00",
+  "recipes": [
+    {
+      "name": "The Cheese Thing",
+      "ingredients_raw": [
+        "1 (16 ounce) package penne pasta",
+        "0.25 cup low fat margarine",
+        "2.5 cups shredded reduced fat Colby cheese",
+        "1 (28 ounce) can diced tomatoes with green chile peppers",
+        "1 tablespoon white sugar",
+        "0.5 teaspoon salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 400 degrees F (205 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Cook pasta according to package directions. Drain."
+        },
+        {
+          "id": 3,
+          "text": "Stir together pasta, margarine, cheese, diced tomatoes, sugar, and salt. Place in a 9x13-inch pan."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven for 40 to 60 minutes, until hot and bubbly and the pasta on top is lightly browned. Cover loosely with aluminum foil if the top begins to brown too quickly."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "The Cheese Thing",
+        "datePublished": "1999-02-08T18:07:28-05:00",
+        "dateModified": "2026-10-12T09:13:02-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chris"
+          }
+        ],
+        "description": "Juicy diced tomatoes with mild green chilies are mixed with boiled penne, Colby Jack cheese, margarine, salt and a dash of sugar to make an easy, cheesy baked casserole.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/VIqcdtE7mO4sz4t8zg-nmlTEePk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11713-the-cheese-thing-DDMFS-Beauty-4x3-2ec378f3a5144f79a673ed6e35f63c6f.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "The Cheese Thing",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "14"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "339 kcal",
+          "carbohydrateContent": "42 g",
+          "cholesterolContent": "18 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "18 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "679 mg",
+          "sugarContent": "3 g",
+          "fatContent": "12 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) package penne pasta",
+          "0.25 cup low fat margarine",
+          "2.5 cups shredded reduced fat Colby cheese",
+          "1 (28 ounce) can diced tomatoes with green chile peppers",
+          "1 tablespoon white sugar",
+          "0.5 teaspoon salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/SCaqLvnHiyngjCkiWy90pFgFBMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11713-the-cheese-thing-DDMFS-step-01-80f96fc9ff844b9ea9e1cd0082e29484.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 400 degrees F (205 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Si-k9fZubgoueM7XODJylOoIBng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11713-the-cheese-thing-DDMFS-step-02-5b6db2a33ebd471ead213546940b2726.jpg"
+              }
+            ],
+            "text": "Cook pasta according to package directions. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cNe2MStSVA6Eu6aa2608OXowK_Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11713-the-cheese-thing-DDMFS-step-03-45ced601eeca4578b10c8629ef2f02a5.jpg"
+              }
+            ],
+            "text": "Stir together pasta, margarine, cheese, diced tomatoes, sugar, and salt. Place in a 9x13-inch pan."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-9dIZhzVNon6wuazPnZtgIOdXAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11713-the-cheese-thing-DDMFS-step-04-693a94d59b434194a38af0e83a0aa95b.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven for 40 to 60 minutes, until hot and bubbly and the pasta on top is lightly browned. Cover loosely with aluminum foil if the top begins to brown too quickly."
+          }
+        ],
+        "recipeYield": [
+          "9",
+          "1 (9x13-inch) casserole"
+        ],
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catjaq"
+            },
+            "reviewBody": "The first time I made this according to recipe and my family of picky eaters loved it. But then I sprinkled southwest seasoning on chicken breast and cooked and cut into bite-sized pieces, added it to the mix and added extra cheese on top, and they devoured it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AEMAZA"
+            },
+            "reviewBody": "Excellent, fast and easy. I added some salsa to make it a bit more saucy, chunked the cheese and used a bit of Pepper Jack too, since we like more cheese and spicy foods...awesome. I'll be sending this recipe to my son in college who needs some easy recipes...this is a DEFINITE keeper.",
+            "datePublished": "2012-10-12T17:45:32.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bill Howard"
+            },
+            "reviewBody": "I made some tweaks including use of butter instead of margerine, draining some juice from the tomatoes, use of Goya Adobo instead of salt and increasing the amount to 1 tsp, upped the cheese to about 3 cups (no one sells 2 1/2 C packages), and greasing the pan. I assembled the dish by tossing the penne with the butter to coat, then added the tomatoes, then the sugar and adobo seasoning and finally the cheese. I'm with the others to cook this for 30 minutes. I sprinkled some additional cheese on the finished dish. I had 4C on hand. Next time, I'll rethink the seasoning as adding sugar made no sense to me. Also go with more cheese (4 cups).",
+            "datePublished": "2025-10-09T19:45:04.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ArtsyAhi6429"
+            },
+            "reviewBody": "I added a jar of salsa, minced onion, crushed Doritos on top. Next time,I will bake 30 minutes,not 40. I won't use foil on top. It's ok, needs onion for flavor. I added two cans white chicken for protein.",
+            "datePublished": "2025-05-29T21:17:03.884Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie"
+            },
+            "reviewBody": "Loved it! Used 1/2 crushed tomatoes and 1/2 medium salsa. Xtra old white cheddar and flavored with garlic powder, chili powder and Italian seasoning. Penne pasta of course.",
+            "datePublished": "2025-09-22T19:22:01.345Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kellieann"
+            },
+            "reviewBody": "This was really good. Next time I'm only going to bake it for 30 minutes.",
+            "datePublished": "2012-11-15T12:13:34.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Just Jackie"
+            },
+            "reviewBody": "I added three cans of chicken and a jar of salsa, because it's flavorless otherwise. Added chicken for protein.",
+            "datePublished": "2025-07-31T15:30:22.448Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ash-Li Kudra"
+            },
+            "reviewBody": "The recipe sounded like it would taste too plain so I added chicken with oregano and cayenne and some left over spaghetti sauce I had (about a jar full). It was so good the fam got seconds.",
+            "datePublished": "2016-10-27T23:35:10.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MICKE"
+            },
+            "reviewBody": "Great easy dish. I used diced tomatoes with chili flavour and a combination of shredded cheddar and mozzarella cheeses. Delicious",
+            "datePublished": "2014-12-05T15:50:51.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SOUPQUEEN"
+            },
+            "reviewBody": "a little spicy but the family loved it! this is also good if you cook about a 1lb or less of ground beef with taco seasoning and mix it in. Delicious!",
+            "datePublished": "2000-12-02T09:46:18.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cookin'gal"
+            },
+            "reviewBody": "I tried this dish because it was easy and I was surprised how good it was! Hubby didn't care for it but it is a good weekday meal and one I feel the grandchildren would love. Definitely try it. The leftovers are good too.",
+            "datePublished": "2013-03-16T14:35:19.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GL Brewer"
+            },
+            "reviewBody": "Loved it!",
+            "datePublished": "2012-10-22T17:32:32.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Blaster144"
+            },
+            "reviewBody": "Yummy. Everyone who tried it loved it.",
+            "datePublished": "2012-03-21T15:33:41.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AndrewS"
+            },
+            "reviewBody": "I'm a young guy with limited kitchen experience. This was about as simple as it gets and turned out fantastic. I loved it and everyone else did too.",
+            "datePublished": "2012-01-18T12:45:35.033Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11713/the-cheese-thing/",
+          "name": "The Cheese Thing",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/249/main-dish/casseroles/",
+                  "name": "Casserole Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1005/main-dish/casseroles/noodles/",
+                  "name": "Noodles"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

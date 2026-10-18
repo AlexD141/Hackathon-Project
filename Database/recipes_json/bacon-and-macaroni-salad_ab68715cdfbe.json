@@ -1,0 +1,437 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/166880/bacon-and-macaroni-salad/",
+  "extracted_at": "2026-10-18T02:22:34.292315+00:00",
+  "recipes": [
+    {
+      "name": "Bacon and Macaroni Salad",
+      "ingredients_raw": [
+        "1 pound sliced bacon",
+        "1 (16 ounce) package elbow macaroni",
+        "1 cup mayonnaise",
+        "0.5 cup sour cream",
+        "0.25 cup white sugar",
+        "0.25 cup cider vinegar",
+        "2 tablespoons prepared yellow mustard",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "4 hard-cooked eggs, chopped",
+        "3 tomatoes, seeded and chopped",
+        "1 large cucumber, peeled and chopped",
+        "0.5 cup chopped celery",
+        "0.5 cup sliced green olives"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until crisp and evenly browned, about 10 minutes. Drain on paper towels. Crumble; set aside."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and rinse with cold water."
+        },
+        {
+          "id": 3,
+          "text": "Whisk mayonnaise, sour cream, sugar, vinegar, mustard, salt, and black pepper together in a large bowl until sugar dissolves. Add bacon, macaroni, eggs, tomato, cucumber, and celery; gently fold until evenly coated in dressing. Sprinkle with sliced olives; serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Bacon and Macaroni Salad",
+        "datePublished": "2020-06-18T23:35:55-04:00",
+        "dateModified": "2025-04-30T16:56:32-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "readycooker"
+          }
+        ],
+        "description": "This recipe elevates classic macaroni salad with bacon. It&#39;s an easy, flavorful side, with savory and refreshing flavors. Perfect for BBQs or picnics.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PaYi-rGMJWBNY8mw9u-40ogV3ug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228179-a1a29f61a32c49409b0ffcd1bcd8bbe0.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bacon and Macaroni Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "118"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "422 kcal",
+          "carbohydrateContent": "36 g",
+          "cholesterolContent": "96 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "723 mg",
+          "sugarContent": "7 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound sliced bacon",
+          "1 (16 ounce) package elbow macaroni",
+          "1 cup mayonnaise",
+          "0.5 cup sour cream",
+          "0.25 cup white sugar",
+          "0.25 cup cider vinegar",
+          "2 tablespoons prepared yellow mustard",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon ground black pepper",
+          "4 hard-cooked eggs, chopped",
+          "3 tomatoes, seeded and chopped",
+          "1 large cucumber, peeled and chopped",
+          "0.5 cup chopped celery",
+          "0.5 cup sliced green olives"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until crisp and evenly browned, about 10 minutes. Drain on paper towels. Crumble; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and rinse with cold water."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk mayonnaise, sour cream, sugar, vinegar, mustard, salt, and black pepper together in a large bowl until sugar dissolves. Add bacon, macaroni, eggs, tomato, cucumber, and celery; gently fold until evenly coated in dressing. Sprinkle with sliced olives; serve."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Diaz"
+            },
+            "reviewBody": "Loved this salad. I only made half a recipe with just a few changes. I reduced the sugar to just a tablespoon for the diabetics in my guest list. I usded white balsamic vinegar to put back some of the sweetness. I also used those tiny grape tomatoes cut in half and didn't bother with cutting out the seeds (much fast prep work). I made this salad the day before without the tomatoes and bacon. On the day of the dinner, I tossed in the grape tomato halves and served the salad out of an oblong glass baking dish using the crisp bacon (that I fried up that day) on top as a garnish. This way the bacon didn't get soft and soggy, and yet every bite had bacon in it because the salad was spread out in the oblong baking dish rather than heaped into a deep dish."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Coulter"
+            },
+            "reviewBody": "Made this for a family BBQ. Adult and kids all loved it. I made a couple changes: used grape tomatoes (no seeding required), omitted olives (1/2 family doesn't like them, would have made a nice addition), added green pepper. At first I didn't add all the dressing, after refrigerated overnight, it was a bit dry. I added remaining dressing, perfect. The more veggies the better.",
+            "datePublished": "2014-01-29T09:24:52.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "POETICUNIVERSE"
+            },
+            "reviewBody": "I really liked this recipe, it was simple to make and the whole family really liked it. The only thing I did different was cut the sugar in half and used minced onion instead of olives to fit my family's taste. The apple cider vinegar was a great addition, I think I'll start using it in the other pasta salads I like to make. I definitely recommend making this a day ahead of serving to let it get really cold and to allow the flavors to meld. I made sure my bacon was very crisp so I didn't have a problem with the bacon getting soggy, not even 36 hours later.",
+            "datePublished": "2016-05-01T20:47:31.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandi"
+            },
+            "reviewBody": "This salad is delicious and got lots of raves!! I made just a few changes - added a green pepper, used just a bit less of the cider vinegar. In addition, I did not add tomatoes or bacon, but followed another rater which suggested having those on the side to add. That way bacon was crisp, and tomatoes did not have to be seeded. Will make again. Really yummy!!",
+            "datePublished": "2016-08-02T00:06:55.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "michelle"
+            },
+            "reviewBody": "This is the best pasta salad I have ever made. I have tried it the way it was written (omitting the olives as I don't like them) and it was very good but its even better when you add diced red onion. The egg I have found is optional. Use whatever pasta you have in the house - it all works, I think shells are my favorite. Note: this needs to sit in order for the flavors to blend, at first I thought the cider vinegar had ruined it but after it sat for a couple hours it was delicious! Thanks for the great recipe, I've never received so many compliments on a pasta salad!",
+            "datePublished": "2013-05-28T08:49:20.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pais"
+            },
+            "reviewBody": "I made this today and I have to say I have really enjoyed it. I cut up the bacon first with scissors which made it easier to cook and less work. I used cucumber, celery, green onion and marble cheddar cheese. I cubed the cheese and the veggies I cut up to bite sized pieces. I took the advice of some other reviewers and cut back on the amount of dressing and halved the sugar I put in. I enjoyed the recipe and its a good summer lunch item. I also think it would taste good with chicken in it as well. Thanks for the recipe",
+            "datePublished": "2009-04-11T15:01:03.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Beth McHargue"
+            },
+            "reviewBody": "Absolutely delicious! Of course, I made a couple of changes as follows: I used honey instead of sugar; I only had rice vinegar instead of apple cider vinegar; and I omitted the olives.",
+            "datePublished": "2019-05-30T02:07:22.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynne"
+            },
+            "reviewBody": "I only gave it 4 stars because I changed two things. Instead of using cucumbers, I chopped up 1/2 c green onions, and used black olives instead of green, encircling the top edge of the dish to accommodate anyone who might not like them. It turned out great, and will make again!",
+            "datePublished": "2022-08-12T14:49:45.791Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jasmine"
+            },
+            "reviewBody": "Thank you for a great recipe. I liked the dressing as it was a bit more tangy than your normal macaroni salad dressing. I did not have celery but like another reviewer added celery seed instead. I layered egg slices on top instead of mixing in and omitted olives didn't have any. You could add or omit veggies according to your taste. the only thing was the bacon was a tad bit soggy the next day. Thank you for a great recipe.",
+            "datePublished": "2008-06-06T06:14:54.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne"
+            },
+            "reviewBody": "A huge hit in my family!!! I use bacon bits (the real bacon kind) instead of cooking up bacon; a big time saver. I haven't tried it warm but my son likes his pasta salads warm and he says it is delicious warm too.",
+            "datePublished": "2015-06-12T10:54:50.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Audrey"
+            },
+            "reviewBody": "This is great. I made a few minor modifications; used fat free plain yogurt in place of the mayo (I don't like the plain yogurt by itself and I really like mayo but mixed in with other things it is hard to tell a difference), no olives, added cilantro, used turkey bacon, and just because my husband likes spicy food I diced up a fresh hot red chili pepper. I started out added the dressing slowly as other suggested but ended up using it all. Also as others suggested I didn't add the bacon and egg until ready to serve. Very good, will defiantly make again.",
+            "datePublished": "2011-01-19T04:25:16.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Victoriaren"
+            },
+            "reviewBody": "Wanted something different from my old standby. This fit the bill. Everyone loved the dressing with the slight vinegar tang. Added frozen peas and corn for color. I’d put more olives in next time. Delicious.",
+            "datePublished": "2021-03-06T16:10:14.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Grable"
+            },
+            "reviewBody": "I made this during the quarantine so I didn’t have all the ingredients; no sour cream or cucumber. But it was still delicious. I will definitely make it again.",
+            "datePublished": "2020-04-22T16:28:28.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JDIAZ"
+            },
+            "reviewBody": "Good, but Togo wet",
+            "datePublished": "2019-07-09T22:41:53.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Selina Santillan"
+            },
+            "reviewBody": "Everyone loved it but i think next time i will make it without the sugar.",
+            "datePublished": "2019-05-30T22:17:21.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "torian0319"
+            },
+            "reviewBody": "I have made this many times over the past few years and it's always a hit. I do need to double the sauce as it will become dry. Superb recipe!",
+            "datePublished": "2019-04-06T17:50:41.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rachel"
+            },
+            "reviewBody": "A little less vinegar &amp; some garlic salt",
+            "datePublished": "2018-07-07T02:01:55.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela Martinez"
+            },
+            "reviewBody": "I was asked to bring a macaroni salad to a potluck Easter celebration. I had never made one before. I made the night before &amp; it was a huge hit. It was only dish that was completely gone. I saw family members going back for seconds &amp; it made me so happy to be able to say I made this dish. Thanks!!!",
+            "datePublished": "2018-06-25T18:53:09.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William Beamish"
+            },
+            "reviewBody": "I left out the olives and I will make it again",
+            "datePublished": "2018-05-28T21:24:07.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "travelingal"
+            },
+            "reviewBody": "great recipe - better than Mom's. I am more of a guess-measurer, but all the ingredients together worked! In fact, I added a few shredded carrots, a tiny bit of chopped celery....whatever you have sitting in your produce drawer. All good! Great dressing on this!",
+            "datePublished": "2018-05-13T12:27:24.740Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/166880/bacon-and-macaroni-salad/",
+          "name": "Bacon and Macaroni Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

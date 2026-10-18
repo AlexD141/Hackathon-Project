@@ -1,0 +1,451 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222513/chai-tea-latte/",
+  "extracted_at": "2026-10-18T03:15:55.911685+00:00",
+  "recipes": [
+    {
+      "name": "Chai Tea Latte",
+      "ingredients_raw": [
+        "0.75 cup boiling water",
+        "1 chai tea bag",
+        "1.5 teaspoons honey",
+        "1 teaspoon white sugar",
+        "0.75 cup milk"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Pour boiling water over chai tea bag in a mug; let steep 4 to 6 minutes. Remove and discard tea bag."
+        },
+        {
+          "id": 3,
+          "text": "Stir honey and sugar into tea to dissolve. Stir milk through tea to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chai Tea Latte",
+        "datePublished": "2020-06-18T23:49:32-04:00",
+        "dateModified": "2026-02-18T15:13:07-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "greatbaker12"
+          }
+        ],
+        "description": "Make your own milky chai tea lattes with this homemade recipe that uses boiling water, milk, sugar, honey, and a chai tea bag. Delicious hot or iced!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/MCdBf6nSW7JVmpdFbc8LeaxWYAQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222513-chai-tea-latte-ddmfs-3x4-13181362-b0a92ea6efb442a4b8b7c240a7bfa9f4.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chai Tea Latte",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "50"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "145 kcal",
+          "carbohydrateContent": "23 g",
+          "cholesterolContent": "15 mg",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "81 mg",
+          "sugarContent": "22 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "0.75 cup boiling water",
+          "1 chai tea bag",
+          "1.5 teaspoons honey",
+          "1 teaspoon white sugar",
+          "0.75 cup milk"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/8qL8LSXnVk-LDTEq4tTlI3MomjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222513-chai-tea-latte-ddmfs-Step1-13181346-c39211548f584242b8327ed93ff86759.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oWTI7SbA8H0XnUI91-5_iqE1E_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222513-chai-tea-latte-ddmfs-Step2-13181347-84557320c9814af8829735db0fedee88.jpg"
+              }
+            ],
+            "text": "Pour boiling water over chai tea bag in a mug; let steep 4 to 6 minutes. Remove and discard tea bag."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/y-i3T1xxocxYCBnsrIuBgYYDtUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222513-chai-tea-latte-ddmfs-Step3-13181348-cf5b59b5174a4bd7a6aa95b9ea4eff81.jpg"
+              }
+            ],
+            "text": "Stir honey and sugar into tea to dissolve. Stir milk through tea to serve."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Penelope"
+            },
+            "reviewBody": "I tried this for the first time using Tazo Organic Chai Tea and following the instructions except for the amount of milk. And I believe I used too much hot water. I'll need to try it as stated next time. Pretty good and a whole lot more affordable than the coffee chain variety"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kyle Johnson"
+            },
+            "reviewBody": "This is exactly what I was looking for!! I love the Oregon chai concentrate but wanted more control over my drink &amp; also didn’t want to fork over $6 at Starbucks for one (today anyway ??). I used Pukka chai, let it steep for 5 mins, then added sugar and honey. Then some soy milk (only 1/2 cup), ice cubes, and put some cinnamon on top. Yum.",
+            "datePublished": "2020-08-05T22:40:29.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SunnyDip9800"
+            },
+            "reviewBody": "It was delightful! I used only 1/2 cup of soy instead of a 3/4 cup. I used my espresso machine frother for the milk! If you want to taste the chai tea more I recommend using 2 tea bags, honey and sugar to your liking depending how sweet you like it. Garnished with nutmeg and cinnamon.",
+            "datePublished": "2023-04-09T13:21:49.078Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "the4taals"
+            },
+            "reviewBody": "My son had tried a Chai Tea Latte and loved it, wanted to make at home, happy to find this recipe! I used Tetley Chai Tea bags, 1 tsp honey and omitted the sugar as it was sweet enough, 1/2 cup 1% milk frothed was enough as well. Thanks for the recipe!\nTo froth milk without a frother, fill an 8 oz jar half full with milk, heat in the microwave for 45 seconds, place lid on jar tightly, shake for 60 to 90 seconds, voila! frothy milk.",
+            "datePublished": "2016-04-04T16:18:52.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeMilk6788"
+            },
+            "reviewBody": "This is the perfect recipe, but I suggest putting 1/2 cup of milk instead of 3/4. My cup of tea was a little bit milked down. I would put a little at a time in until you finding your perfect amount.",
+            "datePublished": "2022-11-05T19:59:33.071Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jazmine Tranique"
+            },
+            "reviewBody": "Good recipe. However, I added cinnamon and nutmeg. It came out a little too sweet so I boiled it and then I blended it in my blender to thicken it up. It came out perfectly!!!",
+            "datePublished": "2014-12-07T11:20:55.113Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "This was a tasty and quick way to make Chai. I read the others' comments about the milk cooling down the tea, so this is how I made mine. I put the milk in a mug and warmed it in the microwave. I then placed the tea bag into the milk and poured the boiling water into the mug and let the tea steep. I added the sugar and honey at the end. It was slightly too sweet for my tastes, so I cut back a bit on the sugar and honey the next time I made it. I also made it again using Splenda and coconut/almond milk with great results.",
+            "datePublished": "2013-11-03T15:44:31.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nadia Himmelwright"
+            },
+            "reviewBody": "The recipe that I used was mostly the same except for I substituted out the honey with a tablespoon of Simply Nature's Organic Light Blue Agave Syrup and it was absolutely delicious! I also used 2% milk just because it was the first thing I saw in the refrigerator. The cold milk is probably one of the reasons why this is so quick to make; you don't have to wait on the tea to cool down because either way, the drink will cool down with the milk in it. Another thing that I did differently was that I used 1 teaspoon and a half of cane sugar instead of white sugar. The tea bag I used was Bigelow's Vanilla Chai Black Tea and the results were amazing! It was very good!",
+            "datePublished": "2020-05-15T18:08:22.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "annpacheco1centurylinknet"
+            },
+            "reviewBody": "I made this using the Stash Double Spice Chai tea, I decreased the amount of honey which sweetened it enough for me, and I whipped some low-fat milk in the blender, but I think that whole milk would have been better.",
+            "datePublished": "2016-11-06T15:25:52.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made this using the Stash Double Spice Chai tea, I decreased the amount of honey which sweetened it enough for me, and I whipped some low-fat milk in the blender, but I think that whole milk would have been better.",
+            "datePublished": "2016-11-06T15:25:52.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jazmine Smith"
+            },
+            "reviewBody": "So for starters I used vanilla cahi black tea. I don't know the brand but it wasn't Tazo or anything fancy from teavana, just the regular grocery store variety. I boiled my tea bag in the water and cut back on the milk after reading other reviews. Also I only used sugar instead of honey and simply used a few teaspoons instead of one and added a dash of cinnamon. I would use two tea bags instead of one for a stronger chai flavor and definitely cut back on the amount of milk, but this is a great starting point for a chai tea latte.",
+            "datePublished": "2014-11-06T08:01:54.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ellie"
+            },
+            "reviewBody": "It was pleasant, it was flavorful and delicious! would recommend if you do the right measurements.",
+            "datePublished": "2025-09-08T00:42:56.041Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cryssi83"
+            },
+            "reviewBody": "I haven't had chai tea in a while. Today I decided to give making it myself a shot! I followed SunnyDep9800 for the throthing option! I used my French Press for throthing my milk. I think I may use just a little more sugar and honey next time. 😁❤️",
+            "datePublished": "2025-05-05T14:02:59.489Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldenGrape8822"
+            },
+            "reviewBody": "Easy to follow, I didn’t measure the ingredients🤷🏻‍♀️ I measured with my heart and it tastes just like when I get it from the coffee shop",
+            "datePublished": "2025-04-09T13:25:33.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kayla Cameron"
+            },
+            "reviewBody": "5/5. I added an extra tea bag and only used 3/4 cup of milk since I like my tea strong.",
+            "datePublished": "2025-03-14T18:20:03.305Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JovialBagel7834"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-04T13:48:53.036Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melanie Gorham"
+            },
+            "reviewBody": "I really like these recipes, simple and easy directions. Thank you so much!!",
+            "datePublished": "2025-01-07T05:14:19.126Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HotStir4964"
+            },
+            "reviewBody": "I used 1/4 milk for a slightly stronger brew.",
+            "datePublished": "2024-11-27T01:16:20.654Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ToughBrie6161"
+            },
+            "reviewBody": "What recipe? Take a tea bag and put it in water. Big deal! I was looking for a recipe for Real Chai Tea with Star Anise, Whole Cloves, etc. I wanted to give no stars, but then I wouldn't have been able to leave this review.",
+            "datePublished": "2024-10-18T02:06:09.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenn"
+            },
+            "reviewBody": "I used Tazo organic tea bag, and oat milk, but my first try needed a bit more warm spice for my taste, so added ginger and a bit of cinnamon next time, it was delicious. Love that it can be adjusted to individual preferences and mood each time..",
+            "datePublished": "2024-10-11T09:08:24.290Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222513/chai-tea-latte/",
+          "name": "Chai Tea Latte",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/233/world-cuisine/asian/indian/",
+                  "name": "Indian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,458 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11698/goat-cheese-and-arugula-over-penne/",
+  "extracted_at": "2026-10-18T01:47:14.979917+00:00",
+  "recipes": [
+    {
+      "name": "Goat Cheese and Arugula over Penne",
+      "ingredients_raw": [
+        "5.5 ounces goat cheese",
+        "2 cups coarsely chopped arugula, stems included",
+        "1 cup quartered cherry tomatoes",
+        "0.25 cup olive oil",
+        "2 teaspoons minced garlic",
+        "0.5 teaspoon ground black pepper",
+        "0.5 teaspoon salt",
+        "8 ounces penne pasta"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook pasta in a large pot of boiling salted water until al dente."
+        },
+        {
+          "id": 2,
+          "text": "Crumble goat cheese into a large serving bowl. Add arugula, cherry tomatoes, olive oil, garlic, salt, and pepper."
+        },
+        {
+          "id": 3,
+          "text": "Drain pasta; toss with goat cheese mixture until well combined."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Goat Cheese and Arugula over Penne",
+        "datePublished": "1999-02-14T19:43:40-05:00",
+        "dateModified": "2026-06-16T09:36:53-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Christine L"
+          }
+        ],
+        "description": "Combine goat cheese with arugula, cherry tomatoes, olive oil, and garlic; toss with hot penne pasta for an absolutely delicious, yet simple summertime dish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ZmDwVYMxYR2Dj4vVVhgJnTV11pc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/684993-29a02fe9a3654df4befbe78b39177b6c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/MnBjdutO-ma1DlVvV.mp4",
+          "description": "AR_JAN_0014",
+          "duration": "PT1M18S",
+          "name": "Goat Cheese and Arugula over Penne",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MnBjdutO/poster.jpg?width=1280",
+          "uploadDate": "2021-07-22T16:13:10-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Goat Cheese and Arugula over Penne",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "329"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "317 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "21 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "334 mg",
+          "sugarContent": "2 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "5.5 ounces goat cheese",
+          "2 cups coarsely chopped arugula, stems included",
+          "1 cup quartered cherry tomatoes",
+          "0.25 cup olive oil",
+          "2 teaspoons minced garlic",
+          "0.5 teaspoon ground black pepper",
+          "0.5 teaspoon salt",
+          "8 ounces penne pasta"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook pasta in a large pot of boiling salted water until al dente."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Crumble goat cheese into a large serving bowl. Add arugula, cherry tomatoes, olive oil, garlic, salt, and pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ZmDwVYMxYR2Dj4vVVhgJnTV11pc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/684993-29a02fe9a3654df4befbe78b39177b6c.jpg"
+              }
+            ],
+            "text": "Drain pasta; toss with goat cheese mixture until well combined."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I thought this recipe was good. I give it 5 stars for being quick and easy to make and 3 stars for overall taste (4 stars overall). Next time I make it (and I will make it again)I will:\r\n\r\n(1) Sauté the garlic. I am a huge garlic fan but the fresh garlic taste in this recipe was overpowering and did not mix well with the other ingredients. I think the flavor would be better if it were sautéed for a few minutes.\r\n\r\n(2) Add a few more vegetables...perhaps mushrooms and sun dried tomatoes. You could even sauté the mushrooms and the garlic together.\r\n\r\n(3) Add some freshly grated parmesan cheese. The goat cheese was good but I think the added tang of some parmesan would be delicious.\r\n\r\nI re-heated this recipe the next day and it did not work well. It still tasted good, but it was not the same. This is not necessarily a bad thing though! A recipe like this, full of fresh ingredients, shouldn't be saved for leftovers.\r\n\r\nOverall, this was a very tasty dish...thanks!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bob Seale"
+            },
+            "reviewBody": "This is a fantastic side dish for any meat. Everyone loves it. The secret is to QUARTER the tomatoes that give it a zing, and finely mince the garlic. I put everything together except the pasta and let it sit for 30 minutes so the flavors combine before cooking the pasta. I also added 4 TBS of hot pasta water to the dish. Last time I made this I added a teaspoon of lemon zest and that really added flavor. Instead of the baked potato, this was terrific with a perfectly grilled filet mignon.",
+            "datePublished": "2017-09-20T19:07:12.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lamarcaro"
+            },
+            "reviewBody": "I have made this recipe several times and always an entire box of penne pasta using an 8 oz goat cheese log in the recipe. I do add a diced onion, sliced mushrooms and sliced red peppers that I first cook in the olive oil. Last time I also added a finely chopped small dried jalapeño and it was quite good. Just enough heat lingering on the tongue. I also add pasta water to make the sauce more creamy and adhere well.",
+            "datePublished": "2017-01-15T12:36:07.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darryl Atwood"
+            },
+            "reviewBody": "I sautéed some mushrooms and garlic (doubled the garlic) mixed everything together in the pan with the mushrooms and garlic .and added a little reserved pasta water. It was very delicious and easy to prepare. I will be making it again for sure.",
+            "datePublished": "2023-04-05T22:02:42.361Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MNMom"
+            },
+            "reviewBody": "I added in about 1/4 cup good parmesan and used 1/2 cup reserved pasta water when making the sauce (or adding the goat cheese really).\nI think the subtle nuttiness of the parmesan took the flavor up a notch and the pasta water made it very creamy.\nI added lots more tomatoes as I like them and the cooked ones kind of disappeared.\nWill most definitely make again as I stated here. Nummy",
+            "datePublished": "2017-03-03T17:40:42.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JLB"
+            },
+            "reviewBody": "I added a few mushrooms, a little onion and sun dried tomatoes and sauteed them beforehand with the garlic. I also added a little pasta water, lemon juice, white wine and cayenne as suggested by previous reviews. We really enjoyed it!",
+            "datePublished": "2021-02-09T00:41:01.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristiaz21"
+            },
+            "reviewBody": "I actually made this is a hot dish, sautéed the garlic in olive oil with the salt and pepper (I probably used about 4 cloves) and added about 3-4 cups of arugula and about a cup of spinach and then added the tomatoes. I let that sauté until the leaves wilted and then added the goat cheese and melted that until it covered the ingredients. When the pasta was done and drained, I added that to the sauce and made sure the sauce covered the pasta completely. This was really yummy on both the first day and heated up. Thanks for the recipe!",
+            "datePublished": "2014-05-03T11:14:26.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MirthThyme3047"
+            },
+            "reviewBody": "The recipe, with these ratios, turns out way too dry. The retro Weight Watchers recipe I suspect it's based on uses 4 times the amount of tomatoes this one recommends. If you want to make the goat cheese into a creamy sauce like in the picture, throwing in a little pasta water when you toss everything together will do that. That's what i do, then put some more goat cheese crumbles on top to serve.",
+            "datePublished": "2023-02-09T14:51:07.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gammaray"
+            },
+            "reviewBody": "Wonderful! Changed it a bit . . . I started by sauteing some red onion in some of the olive oil. I added baby spinach to the arugula for a total of 4 cups, which I added to the onions to \"wilt.\" I felt like I didn't have enough greens after that, and added a little more spinach and about 2 more cups arugula to the pasta. My package of goat cheese was 4 oz, so I was a little short on goat cheese - but I don't think it made a big difference. I did add maybe 1/2 cup shredded parmesan. And I used grape tomatoes. Will enjoy this for work dinners for the rest of the week! Yum! (Oh! I did not bother to chopped the greens . . . )",
+            "datePublished": "2011-09-20T16:16:20.377Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lou"
+            },
+            "reviewBody": "Love it !! One of our fav's... we do add a package of feta to the goat cheese and warm it slightly in the pot after all mixed together at the end. Gives us a creamy cheese finish at the end still keeping the freshness of the arugala",
+            "datePublished": "2017-12-02T22:32:36.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacey Fossum"
+            },
+            "reviewBody": "Easy to make and very flavorful. This was a hit with everyone who tried it. I used 3 largish cloves of fresh garlic and mixed the garlic, salt, pepper and olive oil together about an hour before to let the garlic flavor come through.",
+            "datePublished": "2018-07-08T00:40:12.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Doody"
+            },
+            "reviewBody": "Good. I used a high protein pasta so it was a complete meal. I should have kept back some pasta water to thin it out. I'll make it again, maybe with spinach and Alouette cheese.",
+            "datePublished": "2026-05-26T21:33:54.659Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kevin"
+            },
+            "reviewBody": "Extremely easy to make and creamy. Needs a protein like chicken and it's perfect.",
+            "datePublished": "2026-01-12T01:57:12.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trisha"
+            },
+            "reviewBody": "Yay! So glad to add this to my easy and nutritious go-to meals! I made half the recipe, used Walmart Marketplace goat chz and an air-fried frozen chicken breast. I have three meals for less than $5 total. Thank you!",
+            "datePublished": "2025-07-21T16:52:18.602Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cutteegurl"
+            },
+            "reviewBody": "Added lots of salt and pepper, also added garlic butter shrimp. I thought it was just ok but my partner liked it.",
+            "datePublished": "2024-10-31T13:18:25.448Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trinka"
+            },
+            "reviewBody": "I added some sautéed shrimp, but I’m sure it would be good with roasted or poached chicken. This is delicious! I love the tangy goat cheese. Oh, it’s also a very quick recipe!",
+            "datePublished": "2023-05-28T21:18:38.581Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tombt"
+            },
+            "reviewBody": "keeper dish. Excellent. Used goat cheese with honey and added shrimp cooked in butter and garlic to make it a complete meal (with garlic bread). Healthy and packed with taste.",
+            "datePublished": "2022-09-13T23:26:01.065Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Terri Leedy"
+            },
+            "reviewBody": "Easy to make fast prep work, great flavor",
+            "datePublished": "2022-08-08T22:08:59.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuickCup5433"
+            },
+            "reviewBody": "I modified by using sun dried tomatoes, toasted the pine nuts and sautéed the garlic along with the sun dried tomatoes. Used feta cheese. Excellent recipe.",
+            "datePublished": "2022-06-12T19:30:01.006Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "N Fulcher"
+            },
+            "reviewBody": "Added a bit of cream cheese and added shrimp that I cooked on the stove top in a garlic butter - yum !",
+            "datePublished": "2021-09-24T03:24:56.820Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11698/goat-cheese-and-arugula-over-penne/",
+          "name": "Goat Cheese and Arugula over Penne",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+                  "name": "Vegetarian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/264/everyday-cooking/vegetarian/side-dishes/",
+                  "name": "Side Dishes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

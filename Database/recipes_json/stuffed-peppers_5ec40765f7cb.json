@@ -1,0 +1,570 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16330/stuffed-peppers/",
+  "extracted_at": "2026-10-18T02:20:25.992018+00:00",
+  "recipes": [
+    {
+      "name": "Stuffed Peppers",
+      "ingredients_raw": [
+        "1 cup cold water",
+        "0.5 cup uncooked long grain white rice",
+        "1 tablespoon vegetable oil",
+        "1 pound ground beef",
+        "6 medium green bell peppers",
+        "16 ounces tomato sauce, divided",
+        "1 tablespoon Worcestershire sauce",
+        "0.25 teaspoon garlic powder",
+        "0.25 teaspoon onion powder",
+        "salt and ground black pepper to taste",
+        "1 teaspoon Italian seasoning"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients, and preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Bring water and rice to a boil in a covered saucepan. Reduce heat to low and simmer until rice is tender, about 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, heat oil in a skillet over medium heat. Add ground beef and cook until evenly browned and crumbly, 7 to 9 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Hollow out bell peppers by removing and discarding the tops, seeds, and membranes. Slice the bottoms of the peppers if necessary to make sure they stand up straight."
+        },
+        {
+          "id": 5,
+          "text": "Arrange peppers in a baking dish with the hollowed sides facing upward."
+        },
+        {
+          "id": 6,
+          "text": "Prepare filling by mixing cooked beef, cooked rice, 1/2 of the tomato sauce, Worcestershire sauce, garlic powder, onion powder, salt, and pepper. Spoon an equal amount of filling into each hollowed pepper."
+        },
+        {
+          "id": 7,
+          "text": "Mix remaining tomato sauce and Italian seasoning in a bowl, and pour over the stuffed peppers."
+        },
+        {
+          "id": 8,
+          "text": "Bake in the preheated oven, basting with sauce every 15 minutes, until peppers are tender, about 1 hour."
+        },
+        {
+          "id": 9,
+          "text": "Serve hot and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Stuffed Peppers",
+        "datePublished": "1999-12-30T15:17:08-05:00",
+        "dateModified": "2026-03-24T11:38:02-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "BDEGER"
+          }
+        ],
+        "description": "Stuffed peppers filled with savory beef, rice, and herby tomato sauce are baked until the bell peppers are tender for an easy dinner full of flavor.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/gPWzaZnRR_DsYQUK9JNfn2CEZM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-DDMFS-3x4-d0d60d745ad945edb796c43eaf342078.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/kzpxMSCp-K3AjnAEN.mp4",
+          "description": "AR0949",
+          "duration": "PT2M11S",
+          "name": "Stuffed Peppers My Way",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kzpxMSCp/thumbnails/CLYih0WY.jpg?width=1280",
+          "uploadDate": "2023-03-19T17:21:05-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Stuffed Peppers",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "1999"
+        },
+        "cookTime": "PT85M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "248 kcal",
+          "carbohydrateContent": "26 g",
+          "cholesterolContent": "46 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "16 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "564 mg",
+          "sugarContent": "6 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup cold water",
+          "0.5 cup uncooked long grain white rice",
+          "1 tablespoon vegetable oil",
+          "1 pound ground beef",
+          "6 medium green bell peppers",
+          "16 ounces tomato sauce, divided",
+          "1 tablespoon Worcestershire sauce",
+          "0.25 teaspoon garlic powder",
+          "0.25 teaspoon onion powder",
+          "salt and ground black pepper to taste",
+          "1 teaspoon Italian seasoning"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/th6nvVlK3b_flniax8GGgrCui70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-mfs-STEP-001-0c24b7c7780743ed84c5cfc7b81054f4.jpg"
+              }
+            ],
+            "text": "Gather all ingredients, and preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/EYq1xbvr4AzgXi9eg7hcNLYPICE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-DDMFS-Step2-078b660bb3ee41289d4b4f2dbbd1833f.jpg"
+              }
+            ],
+            "text": "Bring water and rice to a boil in a covered saucepan. Reduce heat to low and simmer until rice is tender, about 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cQO319L8qrv75U67LetDR4fkGuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-mfs-STEP-006-dd8507c773434b6dacff08d7a50893d7.jpg"
+              }
+            ],
+            "text": "Meanwhile, heat oil in a skillet over medium heat. Add ground beef and cook until evenly browned and crumbly, 7 to 9 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_YQM2JB7yt-RgO0mtod1FJcZ2fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-DDMFS-Step4-8cbd825fcf1e425aa9c81a02b4fb5e31.jpg"
+              }
+            ],
+            "text": "Hollow out bell peppers by removing and discarding the tops, seeds, and membranes. Slice the bottoms of the peppers if necessary to make sure they stand up straight."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CM4_WbLrdi2SOh8oBMQSZsGvMX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-mfs-STEP-015-3bd1d7980cbd4e998353f9e1c64cf7c9.jpg"
+              }
+            ],
+            "text": "Arrange peppers in a baking dish with the hollowed sides facing upward."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PtkyqX3ML-AUTCIy_Ov76dZ_Ryk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-mfs-STEP-018-5356258c4bbe4982be9ffe93f7757605.jpg"
+              }
+            ],
+            "text": "Prepare filling by mixing cooked beef, cooked rice, 1/2 of the tomato sauce, Worcestershire sauce, garlic powder, onion powder, salt, and pepper. Spoon an equal amount of filling into each hollowed pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/EmcOpWu3AVw8eNQk2IsOtTDolqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-mfs-STEP-021-791e7a7d48804e6295f76c23c58f86a1.jpg"
+              }
+            ],
+            "text": "Mix remaining tomato sauce and Italian seasoning in a bowl, and pour over the stuffed peppers."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RyqOh7Lz1b0nr9KloT6v6BBT7i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-mfs-STEP-024-812c58e78eb5489789d1d1c6dfd661ff.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven, basting with sauce every 15 minutes, until peppers are tender, about 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gPWzaZnRR_DsYQUK9JNfn2CEZM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16330-Stuffed-Peppers-DDMFS-3x4-d0d60d745ad945edb796c43eaf342078.jpg"
+              }
+            ],
+            "text": "Serve hot and enjoy!"
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 stuffed peppers"
+        ],
+        "totalTime": "PT90M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This is almost exactly how I make stuffed peppers. Except that I brown and season the meat before hand, pour off the oil , mix in the remaing ingredients,stuff the peppers, and then cover during baking. I never baste...the steam does the basting for me. The last five minutes of baking remove cover and sprinkle grated mozzarella or cheddar over each pepper for added flavor if you like."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Panda"
+            },
+            "reviewBody": "This was excellent! I did change things somewhat. I used an Instant-pot. Put a cup of water in the metal pot, then add a trivet which will hold the peppers. I only used one yellow pepper which I split in half before stuffing it. I browned the meat, onions and mushrooms (optional) before adding all the other ingredients.",
+            "datePublished": "2021-05-18T02:12:29.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vayeight"
+            },
+            "reviewBody": "I'd never prepared this meal before but after 2 tries I perfected it, it's very delicious. A couple of tips for preparation: don't limit yourself to green peppers, use the various colors to create a colorful dish. Mix the seasonings in while cooking the ground meat, it will taste a lot better. Don't limit yourself to only ground beef, I tried ground pork and chicken and each was delicious in a different way with the ground pork being more flavorful so far. I cannot wait to try different ground meats I haven't tried before. Don't only use white rice, try various types of rice. I just tried yellow rice and it works even better because of the seasonings used in preparation of the yellow rice. This recipe is now on my prepare at least twice monthly rotation.",
+            "datePublished": "2026-02-07T03:47:49.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cmosk06"
+            },
+            "reviewBody": "This was big hit with my two daughters (4, 11) and my husband who said it was the best stuffed pepper he'd ever eaten! I followed the recipe almost exactly - but I had started following a different recipe first (then learned it was using condensed tomato soup - 2 cans!? so I quit)...I had already chopped about a 1/2 cup of vidalia onion and cooked it while browning the beef...Then, I used a bit more than 1/4 tsp garlic and onion powder - I never measure that stuff...I just sprinkle around the top of whatever Im making then mix it in...Also, I boiled the peppers for about 3-5 min before stuffing them - bake time gets reduced to about 30 min. I also sprinkled the top with parmesan cheese after I poured the sauce/Italian seasoning over all the stuffed peppers, just before baking. I also forgot to baste but I don't think it impacted the taste or moisture level...Lastly, I did not discard the tops! I chopped them up (except the stems, haha) and put it in the freezer for tacos, soups, or otherwise...Enjoy!\n\nMade it again tonight - added a chopped up fresh Roma tomato and a handful of spinach (that I allowed to wilt in the bowl after adding browned meat), and my husband and I like food with a kick so I chopped up 1 jalepeno pepper and added it to the mix (after stuffing the peppers for the girls). YUM",
+            "datePublished": "2021-10-26T23:24:20.113Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Racquel Augat"
+            },
+            "reviewBody": "Used fresh garden tomatoes and fresh onions and garlic-cooked with the ground beef. Used a few of other reviewer's suggestions: added paprika and boiled the peppers before assembling/cooking. Cooked 30 minutes. I also sprinkled shredded mozzarella on the tops and cooked another 10 minutes. Good base recipe for a pretty tasty dish.",
+            "datePublished": "2024-09-12T03:14:46.839Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather VanDyken Liming"
+            },
+            "reviewBody": "I cut the peppers in half and blanched them. Added a can of diced tomatoes and more garlic. I used minute rice because I had some I needed to use up. I covered in cheese and baked covered with foil for the first 45 minutes. Then uncovered for 15 minutes. I didn’t need to baste because of the foil. I only used half a can of tomato sauce instead of the whole can to pour over the stuffed peppers before adding cheese. I also added all seasoning to the sauce as well.",
+            "datePublished": "2021-10-25T01:14:04.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nick Merucci"
+            },
+            "reviewBody": "I found this recipe much tastier with red bell peppers. Also I needed to increase the ground beef to 1 1/2 pounds and the uncooked rice to 3/4 of a cup, with 1 1/2 cups of water in order to fill the peppers to the top. Mixing in a 15 oz. can of crushed tomatoes with the browned beef and rice instead of just tomato sauce?? added more to the filling. No need to baste for blanche! Put in a 350° oven uncovered for one hour and you are all set!",
+            "datePublished": "2021-05-07T04:14:31.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "judy"
+            },
+            "reviewBody": "I've been making stuffed peppers for years ! I've tweaked the recipe by pre cooking the peppers a little by either par boiling or microwave them slightly. This time I tried the air fryer . As they are still cooking I can't tell you the results yet. I will update after trying them. Also I didn't have any tomato sauce so I made some with tomato paste. Not a deal breaker. The hardest part is sitting here waiting for them to be done!",
+            "datePublished": "2025-08-10T19:10:30.415Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "barbchiz"
+            },
+            "reviewBody": "Delicious recipe but I cheated a lot, instead of stuffing the bell peppers I cut them in large pieces and added to the mixture (fried them together with the onions and meat) also added fresh garlic instead of powdered and added Italian seasonings for more flavor, added all to the frying pan including rice and tomatoe sauce. Spread the mixture in a casserole, topped with Italian cheeses and baked for 30 minutes. Fantastic, the whole family LOVED it.",
+            "datePublished": "2021-09-27T00:28:08.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Howland"
+            },
+            "reviewBody": "My wife who doesn’t like peppers loved it. My 26 year old son had 4 peppers and wants me to make it more often. It was super easy to make but bake it longer than the recipe calls for if you like softer peppers and to allow the flavors to blend more. I used 1/2 a pound of mild Italian sausage and 1/2 a pound of ground chicken to add flavor without making it greasy. I also topped and broiled it at the end with mozzarella sliced from the chunk cheese. It was amazing.",
+            "datePublished": "2025-02-13T04:11:02.281Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Martinenko"
+            },
+            "reviewBody": "1 pound ground beef ½ cup uncooked short grain brown rice 6 green bell peppers TRY ROASTING FIRST OILED UNDER BROILER UNTIL LIGHTLY TOASTED USE FRESH 4 GARLIC CLOVES USE FRESH 2 small onions PARSLEY THYME salt and pepper to taste SAUCE 1/2 cup beef broth and 1/2 cup chicken broth 1 jar strained tomatoes SALT PEPPER THYME BASIL PARSLEY SMALL AMOUNT OF SUGAR",
+            "datePublished": "2023-11-11T12:11:14.686Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jane"
+            },
+            "reviewBody": "It was very tasty and easy to make. I didn't do the basting. I just poured the tomato sauce over each pepper and baked. It was still good, but I avoided the up and down exercise.",
+            "datePublished": "2026-09-06T04:04:45.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MLT"
+            },
+            "reviewBody": "I love this recipe. I simply just make more stuffing than it calls for because we’re Italian and we always do extra! I didn’t have enough peppers this time, so I cut what I had up, placed them on the bottom of the pan with the insides up, put some water in the bottom with the mixture on top. I covered them with foil and popped ‘em in. I’ll take them out at about 40 minutes, add more sauce and some cheese overtop and put it back in for a few more minutes. I anticipate it will be delicious.",
+            "datePublished": "2026-08-15T22:12:31.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NancyLee"
+            },
+            "reviewBody": "The only change i made was putting the peppers into a covered dish which eliminated the basting. It was previously recommended by another person. This is easy and delicious and a great way to use the peppers grown in our garden.",
+            "datePublished": "2026-08-03T13:03:50.722Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jerry Weinstein"
+            },
+            "reviewBody": "Very easy to make and I added a little more seasoning, sauté the onions and the garlic in the meat added cheese halfway into the pepper. 👌🏼",
+            "datePublished": "2026-06-25T21:07:04.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "old fashion cooker"
+            },
+            "reviewBody": "This is a good base recipe, but I believe it should be tweaked to suit your palate and cooking preferences. I used 4 large peppers from my garden and the stuffing barely filled the last pepper even though I put in a cup of rice. No one mentioned that! I also used fresh onion and garlic and cooked them with my meat and spices. Everything else was fairly consistent with the recipe. I also added an 1/8 tsp of my dried hot peppers for some additional flavor. Since it was a warm day I cooked them in the slow cooker for 2 hours on high and the peppers were cooked perfectly. I will make again, but I will add a light filler to bind the meat a little, maybe some Italian bread crumbs. Flavor was good. I will be experimenting with my next batch.",
+            "datePublished": "2026-06-05T23:58:59.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joel Soukup"
+            },
+            "reviewBody": "I made this recipe as written and found it to be very good; the meat/rice/sauce ratios are spot on, and the cooking time softens the pepper without turning it to mush. Given the results, I'll definitely make it again. I did, however, find the flavor a little bland for my taste and will probably up the ante with pepperjack cheese and more assertive seasoning in the rice mixture - I'm thinking maybe adding taco seasoning and some diced jalapenos.",
+            "datePublished": "2026-05-12T15:51:26.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robin Weiss"
+            },
+            "reviewBody": "My mouth waters when I think of this stuffed peppers recipe! I think that says it all. I don't baste it like the recipe says. And I put hats on them... Never waste peppers!",
+            "datePublished": "2026-01-25T22:52:42.409Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyPie6296"
+            },
+            "reviewBody": "This was definitely a different version of stuffed peppers than I'm used to, which is more of a meatloaf-type stuffed pepper. This recipe was very liquid-y and needed a long time to reduce down. That said, it was a very good and different version and I would definitely make again. I actually think my husband preferred this one because the peppers weren't pre-cooked and kept their texture without becoming kind of mushy.",
+            "datePublished": "2025-11-15T16:51:49.126Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gigi"
+            },
+            "reviewBody": "I used different color peppers rather than the green. I also used wagu beef (it was on special). Delicious",
+            "datePublished": "2025-10-23T09:12:07.735Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16330/stuffed-peppers/",
+          "name": "Stuffed Peppers",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/",
+                  "name": "Stuffed"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13289/main-dish/stuffed-main-dishes/stuffed-bell-peppers/",
+                  "name": "Stuffed Bell Pepper Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

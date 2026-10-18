@@ -1,0 +1,461 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15089/broiled-pork-chops/",
+  "extracted_at": "2026-10-18T02:04:05.691060+00:00",
+  "recipes": [
+    {
+      "name": "Broiled Pork Chops",
+      "ingredients_raw": [
+        "0.75 cup ketchup",
+        "0.75 cup water",
+        "2 tablespoons distilled white vinegar",
+        "1 tablespoon Worcestershire sauce",
+        "2 teaspoons brown sugar",
+        "1 teaspoon salt",
+        "0.5 teaspoon paprika",
+        "0.5 teaspoon chili powder",
+        "0.125 teaspoon ground black pepper",
+        "6 (3/4 inch) thick pork chops"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine ketchup, water, vinegar, Worcestershire sauce, brown sugar, salt, paprika, chili powder, and pepper in a medium saucepan. Bring to a boil. Reduce heat to low; simmer, stirring occasionally, until slightly thickened, about 5 minutes. Set aside 1/2 of the sauce for serving."
+        },
+        {
+          "id": 2,
+          "text": "Preheat the oven broiler. Place an oven rack 4 inches from heat."
+        },
+        {
+          "id": 3,
+          "text": "Brush both sides of chops with sauce, then place on a broiling pan rack."
+        },
+        {
+          "id": 4,
+          "text": "Broil chops for 4 minutes on each side. Brush with more sauce. Continue broiling, turning and basting every 3 to 4 minutes, until juices run clear. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+        },
+        {
+          "id": 5,
+          "text": "Serve pork chops with reserved sauce."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Broiled Pork Chops",
+        "datePublished": "1999-12-12T18:20:54-05:00",
+        "dateModified": "2026-04-30T15:18:56-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jan Taylor"
+          }
+        ],
+        "description": "Broiling pork chops is easy to do with this delicious recipe that uses a tangy sauce to add fantastic flavor to succulent pork chops as they cook.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/jjNASjv44LphHMuE8QqUJ1nUmAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9109302-broiled-pork-chops-Karin-Ashby-4x3-1-79162c358774432cabe134444262475c.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Broiled Pork Chops",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "232"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "183 kcal",
+          "carbohydrateContent": "10 g",
+          "cholesterolContent": "59 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "24 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "816 mg",
+          "sugarContent": "9 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.75 cup ketchup",
+          "0.75 cup water",
+          "2 tablespoons distilled white vinegar",
+          "1 tablespoon Worcestershire sauce",
+          "2 teaspoons brown sugar",
+          "1 teaspoon salt",
+          "0.5 teaspoon paprika",
+          "0.5 teaspoon chili powder",
+          "0.125 teaspoon ground black pepper",
+          "6 (3/4 inch) thick pork chops"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine ketchup, water, vinegar, Worcestershire sauce, brown sugar, salt, paprika, chili powder, and pepper in a medium saucepan. Bring to a boil. Reduce heat to low; simmer, stirring occasionally, until slightly thickened, about 5 minutes. Set aside 1/2 of the sauce for serving."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven broiler. Place an oven rack 4 inches from heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Brush both sides of chops with sauce, then place on a broiling pan rack."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Broil chops for 4 minutes on each side. Brush with more sauce. Continue broiling, turning and basting every 3 to 4 minutes, until juices run clear. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Serve pork chops with reserved sauce."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AIINGEL"
+            },
+            "reviewBody": "I actually pan-fried my pork chops with the sauce, and the doneness was perfect. Pan-frying, especially for beginners, is the easiest way to ensure that the pork is not overdone (you can poke at the meat to feel when it's cooked). I also marinated the chops with some of the sauce for half-an-hour before frying it - don't leave it marinating for too long, or the vinegar will denature the meat. Changes to sauce: cut back the ketchup a little, double the Worcestershire sauce and halve the vinegar, add more brown sugar (this cuts down on the sourness and helps the sauce to caramelise and become sticky). Make more sauce, you'll find it disappearing as you baste. You may want to fry some garlic before adding the chops. This sauce is reminiscent of a bbq sauce, as others have pointed out, but it's lighter and doesn't smother the meat like bbq sauce can. With the changes, it's superb with pork. I'm definitely noting it down."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ben Ericson"
+            },
+            "reviewBody": "My girlfriend and I used this method with a different sauce. We used 2 Tbsp Cholula hot sauce per half cup of Sweet Baby Ray's BBQ sauce, brushed onto pork and broiled for 4 minutes/ side. We also flipped and brushed sauce onto chops after each 4 minute interval. Flipped and brushed 5 times for 1\" chops. Chops were tender and juicy!",
+            "datePublished": "2015-10-12T16:22:20.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AURIE81"
+            },
+            "reviewBody": "I loved this, but I made a few changes: used 1/4 c. ketchup, 1/4 c. BBQ sauce, 1 c. water (we like a lot of gravy), 1 TBSP brown sugar, and a bit of honey. I marinated my boneless pork loin chops for 1/2 hour, softened some onion slices with butter on my pan, cooked the chops right on the pan and I added the sauce. When they were cooked (which was pretty fast), I removed them from the pan, and thickened the sauce with 2 TBSP of cornstarch dissolved on a bit of water, for an excellent gravy. Sounds like a lot of work, but it really wasn't! We all loved them!!!",
+            "datePublished": "2006-04-04T16:01:14.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Milo"
+            },
+            "reviewBody": "I tweaked this recipe a little, but it was a good base!! My husband and I aren't big fans of ketchup, so I used 1/4 cup of ketchup and 1/2 cup of Budweiser brand BBQ sauce. We tasted it while the sauce was simmering, and found it to be too acidic, so I added even more brown sugar, and that helped mellow it out. \nI used thin (maybe 1/4\"?) pork chops, and I believe they took a total of 12 minutes to cook. They came out very tender, juicy, and my picky husband told me 3 times how good they were, so that's a winner in my book!! Thanks! :)",
+            "datePublished": "2011-07-18T20:34:06.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ARF"
+            },
+            "reviewBody": "I used Open Pit original barbecue sauce instead of ketchup, skipped the black pepper, and used thick bone-in chops. Took 18 minutes in toaster over of broiling/basting/turning. But was moist and delicious. In fact, hubby, who eats but rarely comments, did both :-). Served with Bavarian style sauerkraut. Yummy!",
+            "datePublished": "2020-08-27T14:23:16.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pickettclan"
+            },
+            "reviewBody": "I did what many others suggested and used 1/2 cup ketchup and 1/4 cup KC Masterpiece BBQ sauce. I also accidentally forgot to add the water, and the sauce was actually perfect for basting! I grilled the chops and basted as suggested, and they were a big hit! Will do these again.",
+            "datePublished": "2007-08-15T18:38:21.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andrew Maioli"
+            },
+            "reviewBody": "Broiled on high (electric) second rack from the broiler. Used a foil lined baking dish. 8 Minutes on one side, 7 minutes on the other. The pork was brined before cooking. And I used ah-so sauce rather than the one listed here.",
+            "datePublished": "2018-08-30T12:28:07.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CheekyOnion1859"
+            },
+            "reviewBody": "My pork chops were thinner than 3/4 inches thick, so it took only 8 mins on one side. I wish I cooked them a couple of mins less bc they came out more well done than I’d prefer but the taste is good!",
+            "datePublished": "2023-07-11T16:27:25.432Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "C Cline"
+            },
+            "reviewBody": "Tasted great! Moist and tender. Prepared as directed with two exceptions with ingredients I had on hand . . . Apple cider instead of white vinegar and then bottled hot sauce instead of chili powder. Chops were about 3/4\" thick, bone in. Overall broiled about 22-24 minutes, basting and turning as directed. Will absolutely make again.",
+            "datePublished": "2017-08-05T00:40:32.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bordeaux"
+            },
+            "reviewBody": "These were delicious! I only had 3 chops and the amount of sauce was good for that as I put them in the slow cooker for 4 hours. I also added a generous amount of Sriracha Hot Sauce for some kick.",
+            "datePublished": "2010-02-18T15:02:43.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "karinchu"
+            },
+            "reviewBody": "Pretty good. I used smoked salt, smoked paprika and chipoltle chili pepper. Tasted like it was grilled but very moist and tender. I think that is the most impressive thing about broiling vs. other techniques. Reeeeeally most and nice. I think it needs to be thin like this. If you used bbq sauce, that would burn before the chop is cooked.",
+            "datePublished": "2011-09-18T16:55:29.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maria Allison"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-03T01:00:21.415Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pippidel"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-11-02T19:48:24.019Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Father Goose's Kitchen"
+            },
+            "reviewBody": "Followed the instructions to the letter. Pork chops came out moist and tasty. Recipe was quick and easy. This one's a winner any night of the week!",
+            "datePublished": "2022-04-15T05:13:31.928Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Samanthale40"
+            },
+            "reviewBody": "The whole family loved it. The sauce was amazing, and I will use it on other meats as well in the future.",
+            "datePublished": "2021-04-27T10:39:14.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda Bender"
+            },
+            "reviewBody": "Yum!!",
+            "datePublished": "2020-11-30T01:36:25.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kurt Lightner"
+            },
+            "reviewBody": "Best pork chops I’ve ever made or eaten. The key was strict timing, temperature, and the sauce. Just brilliant!!",
+            "datePublished": "2020-10-14T14:28:54.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlene"
+            },
+            "reviewBody": "Very good, will make again. I didn't turn the chops over every 3-4 minutes, just one time. The sauce was really good, didn't really tasted like bar-b-q sauce.",
+            "datePublished": "2020-04-18T19:38:47.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlene"
+            },
+            "reviewBody": "Very good, will make again. I didn't turn the chops over every 3-4 minutes, just one time. The sauce was really good, didn't really tasted like bar-b-q sauce.",
+            "datePublished": "2020-04-18T19:38:47.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kyle Pitchford"
+            },
+            "reviewBody": "Wasn’t sure about sauce when I measured the ketchup and my nose started to complain. But, it is actually very good.Making the sauce I had no chili powder, so subbed paprika 1/4c, onion powder 1T, garlic powder 1T (was out too so did garlic salt), and 2tsp. Cumin.",
+            "datePublished": "2019-02-28T02:41:04.380Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15089/broiled-pork-chops/",
+          "name": "Broiled Pork Chops",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/673/main-dish/pork/",
+                  "name": "Pork"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/674/main-dish/pork/pork-chops/",
+                  "name": "Pork Chop Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

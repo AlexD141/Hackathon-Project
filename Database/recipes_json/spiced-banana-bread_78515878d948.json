@@ -1,0 +1,466 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/164205/spiced-banana-bread/",
+  "extracted_at": "2026-10-18T02:20:55.045375+00:00",
+  "recipes": [
+    {
+      "name": "Spiced Banana Bread",
+      "ingredients_raw": [
+        "2 cups flour",
+        "1.5 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "4 very ripe bananas",
+        "1 cup sugar",
+        "2 large eggs",
+        "1 teaspoon cinnamon",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon nutmeg",
+        "0.25 teaspoon ground cloves",
+        "0.5 cup melted butter",
+        "1 teaspoon vanilla extract"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 8x3-inch loaf pans."
+        },
+        {
+          "id": 2,
+          "text": "Whisk together flour, baking powder, and baking soda; set aside."
+        },
+        {
+          "id": 3,
+          "text": "Mash bananas, sugar, eggs, cinnamon, salt, nutmeg, and cloves together in a large bowl with a fork until well combined. Stir in melted butter and vanilla, then fold in flour mixture until a batter forms and no dry lumps remain. Pour into the prepared loaf pans."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Cool in the pan for 10 minutes, then remove from the pan, and allow to cool completely on a wire rack."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spiced Banana Bread",
+        "datePublished": "2020-06-18T23:35:32-04:00",
+        "dateModified": "2026-03-09T13:30:29-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jennifer Walsh"
+          }
+        ],
+        "description": "This banana bread with spices is loved by all who try it because of its rich flavor and moist texture. The spices include cinnamon, nutmeg, and clove.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/svZvzl-2ZPHUSLev73Vk66ouxlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7245486-edacaee9d8ec49429dcc170c6e69155b.jpg",
+          "height": 1286,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spiced Banana Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "223"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "193 kcal",
+          "carbohydrateContent": "32 g",
+          "cholesterolContent": "39 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "247 mg",
+          "sugarContent": "16 g",
+          "fatContent": "7 g",
+          "servingSize": "2 (8x4-inch) loaf pans",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Snack"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 cups flour",
+          "1.5 teaspoons baking powder",
+          "1 teaspoon baking soda",
+          "4 very ripe bananas",
+          "1 cup sugar",
+          "2 large eggs",
+          "1 teaspoon cinnamon",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon nutmeg",
+          "0.25 teaspoon ground cloves",
+          "0.5 cup melted butter",
+          "1 teaspoon vanilla extract"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 8x3-inch loaf pans."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together flour, baking powder, and baking soda; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mash bananas, sugar, eggs, cinnamon, salt, nutmeg, and cloves together in a large bowl with a fork until well combined. Stir in melted butter and vanilla, then fold in flour mixture until a batter forms and no dry lumps remain. Pour into the prepared loaf pans."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cool in the pan for 10 minutes, then remove from the pan, and allow to cool completely on a wire rack."
+          }
+        ],
+        "recipeYield": "16",
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I went looking for a new banana bread recipe for a change from what I usually make. I was hoping that I could find one that I could add diced pears to, as I couldn't find a Pear/Banana Bread recipe. This was the one. What I did was half the amount of the bananas and add a can of drained, diced pears. I also used pumpkin pie spice instead of using the different spices called for in this recipe. Yum. This impressed my husband, who normally dosen't care for banana bread. I'll for sure be making this again. Thanks for posting the recipe."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shannon"
+            },
+            "reviewBody": "Finally, a banana bread recipe which calls for SPICES that, in my opinion, are definitely lacking in more traditional banana bread recipes. I mixed all my dry ingredients together, including spices, and then mashed my 4 small, overripe bananas with a couple pinches of brown sugar, vanilla, a few shakes of cinnamon, and about 1/4c applesauce. After combining the eggs, I added a combo of 1/2 brown and 1/2 white sugars. In lieu of melted butter, I opted for 1/4c canola oil and 1/4c applesauce and whisked well. I then added my dry ingredients slowly, using a mixer. I also tossed in some pumpkin pie spice just for good measure. Using a single greased 9x5\" loaf pan, the batter fit perfectly. The only downside was that at 350 for 45 minutes, it browned too quickly, so I had to use tented foil to ensure a non-burnt loaf. However, the middle still wasn't done, so I popped the loaf in for another 15 minutes, and turned the heat down to 325 and used the tented foil again. Next time, I'll just bake at 325 since my oven runs a little hot and increase the time a bit, watching closely that it doesn't brown too quickly. I love spices in quick breads and this one was really good!",
+            "datePublished": "2012-11-03T15:27:53.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Audra Brown"
+            },
+            "reviewBody": "Yes I made changes. \nI used 5 banana's and only just mash them so about pea size bits in the batter, soft butter not melted and coconut palm sugar instead of regular sugar. I doubled the cinnamon and nutmeg plus added a 1/4 tsp of ginger.\nI then made regular muffins, bite-size muffins and with what I had left over I baked in my 6\" cast iron frying pan. \nI'm now freezing some to take to my parents. YUMMY!!!",
+            "datePublished": "2019-02-03T23:46:49.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I was ready to toss two overripe bananas, but I'm happy that I came across this recipe instead! I halved it using one 8x4 pan. I also added about 1/3 cup chopped walnuts, reserving some for a topping prior to baking. Since all ovens run different, I always check something earlier than the time indicated. I checked mine at 35 min, and it was ready. This had great texture and flavor. The spice combination is wonderful. (I'd even try increasing them just a tad.) With the fall season ready to start, this was especially good. Jennifer, thanks for this super recipe.",
+            "datePublished": "2018-09-11T22:42:34.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mmc"
+            },
+            "reviewBody": "Delicious banana bread! I also used 1/2 brown sugar and 1/2 white sugar, and topped one loaf with walnuts. My pans were 9x5 so it made 2 shorter loaves, and they were done in about 35 minutes. My son loved it with peanut butter in the morning. Will definitely make again!",
+            "datePublished": "2017-08-28T14:55:14.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MintLox7143"
+            },
+            "reviewBody": "Love! I used brown sugar since the recipe doesn't specify the type of sugar to use. I like extra spice, so I increased the quantities and then baked it in muffin tins. The family loves it! I've been searching for a banana bread recipe for years, and none of them were quite right. I think this is \"the one.\"",
+            "datePublished": "2023-02-12T02:48:36.902Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim Johnson"
+            },
+            "reviewBody": "Delicious recipe I’ve made before. I used 1/2 cup brown sugar and 1/2 cup sugar this time. Also added 1/2 cup nestles chocolate chips… wow!",
+            "datePublished": "2023-02-10T02:52:13.585Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TwistyScone1561"
+            },
+            "reviewBody": "I used brown sugar and topped with a butter-brown sugar-cinnamon glaze it turned out fantastic, thank you.",
+            "datePublished": "2023-11-03T01:52:21.516Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Mollison"
+            },
+            "reviewBody": "Turned out moist, fragrant. Cooked to perfection in 35minutes. Substituted brown sugar for white. Added 1 cup chopped pecans",
+            "datePublished": "2019-12-29T20:37:27.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly Murray"
+            },
+            "reviewBody": "I halved the recipe and put it in two (ceramic) dishes to bake, so it only took 25 minutes. I also added a splash of water to the batter because it seemed dry. And added mini semi-sweet chocolate morsels (bc why not?) \nWas delicious with these changes",
+            "datePublished": "2021-05-07T16:14:12.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Popi B"
+            },
+            "reviewBody": "I added one cup of roasted, chopped black walnuts. I could not find the bread pans, so an 8\"x11\" baking dish was used. 15 minutes additional baking time was needed. The bread was so moist &amp; delicious. Definitely a make again recipe.",
+            "datePublished": "2020-02-11T17:22:21.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Florence"
+            },
+            "reviewBody": "No changes, perfect the way it is!! I gift it to family and friends especially at Christmas 🎄 Everyone raves about it's moist, deliciousness!! Thanks for such a great recipe!!",
+            "datePublished": "2026-07-14T14:16:03.754Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TackyTuna2242"
+            },
+            "reviewBody": "So it calls for Baking soda and powder but no acid to make it rise, and mine did not really. I didn't think about adding anything acidic when I was making it and mine turned out quite dense and took forever to cook. Made me wonder if the recipe was missing something like a splash of buttermilk or something, lemon ?",
+            "datePublished": "2025-11-08T19:29:31.289Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Simran"
+            },
+            "reviewBody": "My favourite banana bread recipe, it is so foolproof (as long as you can follow instructions haha) and is moist and flavourful every single time! Everyone i've made it for loves it. Also pretty easy to add things like chocolate chips + nuts without changing anything else in the recipe",
+            "datePublished": "2025-09-25T18:27:17.854Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marcia"
+            },
+            "reviewBody": "It may be my quirky stove or the fact I used canola oil instead of butter, but the crust was super hard after half an hour, but it was not even close to being baked fully.",
+            "datePublished": "2025-09-03T05:32:11.681Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TastyYolk4636"
+            },
+            "reviewBody": "Added some walnuts - perfection!",
+            "datePublished": "2025-05-12T01:37:20.714Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lyndap"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-02T23:02:03.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BriefCurd5937"
+            },
+            "reviewBody": "This is one of the best banana bread recipes that I have ever tried. It ended up being super moist and tasty.",
+            "datePublished": "2025-02-21T13:48:21.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GlitzyPulp2355"
+            },
+            "reviewBody": "Our favorite. We do add allspice too!",
+            "datePublished": "2024-11-19T15:28:06.436Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyMelon4244"
+            },
+            "reviewBody": "I'm no chef but one thing seems missing; a way to activate the baking soda? I added a teaspoon lemon juice to take care of that and was perfect. Also, I only had 2 large nana's so I reduced the flour to 1 3/4. Came out fantastic!!",
+            "datePublished": "2024-10-05T16:56:18.096Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/164205/spiced-banana-bread/",
+          "name": "Spiced Banana Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/156/bread/",
+                  "name": "Bread"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+                  "name": "Quick Bread Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/359/bread/quick-bread/fruit-bread/",
+                  "name": "Fruit Bread Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/343/bread/quick-bread/fruit-bread/banana-bread/",
+                  "name": "Banana Bread"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17274/eggs-and-spaghetti/",
+  "extracted_at": "2026-10-18T02:25:32.445508+00:00",
+  "recipes": [
+    {
+      "name": "Spaghetti and Eggs",
+      "ingredients_raw": [
+        "4 ounces spaghetti",
+        "2 tablespoons butter",
+        "2 eggs",
+        "2 teaspoons garlic powder",
+        "2 teaspoons ground black pepper",
+        "1 tablespoon minced onion",
+        "1 tablespoon dried rosemary",
+        "grated Parmesan cheese, to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, melt butter in a large skillet over medium heat; cook eggs sunny-side up, or until whites are just about set and yolks still quite runny and not broken. Sprinkle garlic powder, ground black pepper, onion, and rosemary on eggs while cooking."
+        },
+        {
+          "id": 3,
+          "text": "Place hot pasta in a deep plate or pasta bowl; top with fried eggs and stir together to allow eggs to continue cooking and broken yolks to create a sauce. Serve immediately, with grated Parmesan if you like."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spaghetti and Eggs",
+        "datePublished": "2000-03-09T18:43:28-05:00",
+        "dateModified": "2026-05-14T09:18:56-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "pkelley"
+          }
+        ],
+        "description": "This simple pasta and eggs dish serves perfectly seasoned sunny-side up fried eggs on top of hot spaghetti for a quick and delicious weeknight meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/rIYVZ7_uyPQizmn7DaoluCBgT38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2371809-91fdca579fa643bf949e4d94c608b592.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spaghetti and Eggs",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "30"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "806 kcal",
+          "carbohydrateContent": "94 g",
+          "cholesterolContent": "433 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "29 g",
+          "saturatedFatContent": "18 g",
+          "sodiumContent": "316 mg",
+          "sugarContent": "6 g",
+          "fatContent": "35 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 ounces spaghetti",
+          "2 tablespoons butter",
+          "2 eggs",
+          "2 teaspoons garlic powder",
+          "2 teaspoons ground black pepper",
+          "1 tablespoon minced onion",
+          "1 tablespoon dried rosemary",
+          "grated Parmesan cheese, to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt butter in a large skillet over medium heat; cook eggs sunny-side up, or until whites are just about set and yolks still quite runny and not broken. Sprinkle garlic powder, ground black pepper, onion, and rosemary on eggs while cooking."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place hot pasta in a deep plate or pasta bowl; top with fried eggs and stir together to allow eggs to continue cooking and broken yolks to create a sauce. Serve immediately, with grated Parmesan if you like."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOLLE888"
+            },
+            "reviewBody": "This is really good. The egg yolks make a great creamy sauce. I will omit the rosemary next time, however... the texture of it doesnt go with the creamyness of the pasta. Really good!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beckerkorn"
+            },
+            "reviewBody": "I liked this. I could get into the yolk sauce (granted, I dumped all of the butter onto the spaghetti along with the eggs!) I used an Italian seasoning blend (the kind that is sold in its own grinder) and extra black pepper and garlic powder. Next time I will use real diced onions for more flavor. I also want to try more vegetables, such as bell peppers or asparagus. Perhaps some cheese as well, or alternatively, sprinkling some lemon juice over the top. Tabasco sauce would also be a nice change of pace.... (I could go on, and on, and on...) --- PS: I forgot to mention how *easy* this is.",
+            "datePublished": "2006-12-21T01:49:15.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "This was awesome. I really didn't expect much and was blown away by this simple dish. I used a bit less than the spices called for as I sprinkled them over the top and didn't measure just eyeballed them. I used onion powder instead of fresh. The rosemary gave this a wonderful italian flavor. So easy, so delicious, and so easy on the budget too! Thanks for sharing this little gem.",
+            "datePublished": "2010-12-09T11:25:15.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ita"
+            },
+            "reviewBody": "This is such a quick and easy dinner for one! I used a fresh garlic clove to flavor the butter, then removed it before frying the eggs. Yum!",
+            "datePublished": "2024-02-29T12:23:38.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shel"
+            },
+            "reviewBody": "Very tasty &amp; so easy. Saved some pasta water to add more volume &amp; thicken like others said. Worked nicely. Think I’ll add chopped green onions next time. Maybe some chopped fresh spinach or basil too. Throw it in right at the end &amp; let it just get warm.",
+            "datePublished": "2019-11-11T23:06:55.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BigShotsMom"
+            },
+            "reviewBody": "Genius idea! I did make a few tweaks. I used green onion and increased it to whatever one whole (green and white part) yields. I used white pepper because I think it has more flavor and I added freshly grated Parmesan. I also threw my rosemary in my spice grinder to eliminate those sharp leaves so I'm sure I used more than stated. I had homemade coleslaw as a side. Fast and very tasty. Thank you pkelley.",
+            "datePublished": "2014-08-20T17:27:04.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cathpdx"
+            },
+            "reviewBody": "This was pretty good with some modifications: I used half butter, half olive oil, sauteed a little garlic on low heat before adding eggs (on top), strained spaghetti over a little big of baby spinach, added salt/pepper and Italian spice blend. It wasn't awesome, but it did the trick on a budget. What it really needed was a little bit of good Italian cheese!",
+            "datePublished": "2013-05-21T19:18:13.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carpenter115"
+            },
+            "reviewBody": "I've done this a few times (great minds &amp; thin wallets think alike LOL) sometimes with a few slices of cooked bacon finely chopped &amp; fresh Parm grated on it as a \"one-man pasta carbonara\". To hose who think it sounds unappetizing, please try before you judge, You wont regret it! Yolk makes such a lovely sauce :)",
+            "datePublished": "2011-12-23T12:23:58.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard"
+            },
+            "reviewBody": "I used Dash brand salt free seasoning, plus a little salt, and plant-based spread instead of butter, and made half with spaghetti and half with small elbow macaroni. Everyone (four adults) liked both!",
+            "datePublished": "2020-12-02T03:48:46.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JNB"
+            },
+            "reviewBody": "Oh my goodness this was sooooo good!! I used a bit of Spicy Red Pepper Roasted Garlic olive oil to fry my egg and also added a couple teaspoons of the pasta cooking water to the dish to stretch the \"sauce\". I also added grated parm on top. This is going to be one of my go to lunches or quick dinners, I can tell!!",
+            "datePublished": "2011-07-06T15:35:15.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "missyv225"
+            },
+            "reviewBody": "Very good with a couple of slight changes. I used three cloves of roasted garlic instead of garlic powder. I diced the onions and increased them to a slight one fourth cup, and, since I only had ground rosemary, I reduced it to about half or so. \nAs a quick note, I was only going to give this recipe 4 stars but considering the quick prep time and common \"on hand\" ingredients used, I decided it really did rate a qualified 5 stars.",
+            "datePublished": "2014-01-02T11:48:42.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pwirtz"
+            },
+            "reviewBody": "We didn't care for this receipe. I doubled the recipe using the directions and felt that it had some heat, but without the parmesan it didn't have much flavor.",
+            "datePublished": "2025-12-14T02:10:25.979Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mark"
+            },
+            "reviewBody": "This sounds like an easy version of spaghetti carbonara",
+            "datePublished": "2021-09-16T20:05:24.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diana Velasco"
+            },
+            "reviewBody": "It worked, and it's dead easy to cook. I made it with rice noodles and added a bit of soy sauce. I suggest to not use much rosemary because of the texture when you eat it.",
+            "datePublished": "2020-05-26T23:11:40.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "radj554"
+            },
+            "reviewBody": "its good thx for the recipe",
+            "datePublished": "2020-03-21T23:23:48.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ribalyen Lora"
+            },
+            "reviewBody": "I added some garlic and olive oil to the pasta and boom, it was magic :) Thanks!",
+            "datePublished": "2019-06-23T23:50:05.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CANDIYA"
+            },
+            "reviewBody": "This is one of my favorite comfort meals. I make it without the garlic, onion, and rosemary. Just salt, pepper, and good quality parmesan. Yum!",
+            "datePublished": "2017-02-28T02:10:38.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Don"
+            },
+            "reviewBody": "I loved this meal. I, however, would not add any of the spices (and also not much butter).",
+            "datePublished": "2016-03-29T15:35:26.113Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becca"
+            },
+            "reviewBody": "I do like it. However, I believe I had too much black pepper for me. It put too much In it. But it was so good.",
+            "datePublished": "2015-02-25T16:21:16.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "joda421"
+            },
+            "reviewBody": "I liked this recipe but recommend using half the butter, and only a few sprinkles of pepper, garlic, and rosemary.\n\nI used green onions instead of regular - because that's what I had - and I don't recommend that change. I also used freshly ground black pepper so you may want more than a sprinkle if you're not grinding it fresh.",
+            "datePublished": "2013-06-27T10:22:04.623Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17274/eggs-and-spaghetti/",
+          "name": "Spaghetti and Eggs",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1947/everyday-cooking/quick-and-easy/",
+                  "name": "Quick and Easy"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17515/everyday-cooking/quick-and-easy/main-dishes/",
+                  "name": "Quick and Easy Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17740/everyday-cooking/quick-and-easy/main-dishes/pasta/",
+                  "name": "Pasta"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

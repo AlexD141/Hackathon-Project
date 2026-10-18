@@ -1,0 +1,410 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/109876/western-style-baked-beans/",
+  "extracted_at": "2026-10-18T01:44:53.059678+00:00",
+  "recipes": [
+    {
+      "name": "Western-Style Baked Beans",
+      "ingredients_raw": [
+        "1 pound ground beef",
+        "2 (28 ounce) cans baked beans with pork",
+        "1 pound bacon, cooked and crumbled",
+        "0.5 pound cooked ham, chopped",
+        "0.25 cup ketchup",
+        "0.25 cup packed brown sugar",
+        "2 tablespoons minced onion",
+        "1 tablespoon chili powder",
+        "1 tablespoon molasses",
+        "0.25 cup water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Crumble ground beef into a large skillet over medium-high heat. Cook and stir until no longer pink, 5 to 10 minutes. Drain off grease and transfer beef to a 4-quart or larger slow cooker."
+        },
+        {
+          "id": 2,
+          "text": "Stir baked beans with pork, bacon, ham, ketchup, brown sugar, onion, chili powder, and molasses into beef in the slow cooker until well combined. If mixture seems thick, stir in water until incorporated."
+        },
+        {
+          "id": 3,
+          "text": "Cover and cook on Low for 6 to 8 hours or High for 3 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Western-Style Baked Beans",
+        "datePublished": "2020-03-05T00:00:18-05:00",
+        "dateModified": "2024-12-30T12:15:35-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Michelle Bomgaars"
+          }
+        ],
+        "description": "My husband does not like baked beans but can&#39;t get enough of this Western-style dish, loaded with meats and a touch of molasses, and brown sugar.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mBrOv7Np1lnx6I-6sopekK2vkAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77012-22c02ba8b01f485b842cf6ce6962ba6f.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Western-Style Baked Beans",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "21"
+        },
+        "cookTime": "PT185M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "186 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "32 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "12 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "617 mg",
+          "sugarContent": "7 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound ground beef",
+          "2 (28 ounce) cans baked beans with pork",
+          "1 pound bacon, cooked and crumbled",
+          "0.5 pound cooked ham, chopped",
+          "0.25 cup ketchup",
+          "0.25 cup packed brown sugar",
+          "2 tablespoons minced onion",
+          "1 tablespoon chili powder",
+          "1 tablespoon molasses",
+          "0.25 cup water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Crumble ground beef into a large skillet over medium-high heat. Cook and stir until no longer pink, 5 to 10 minutes. Drain off grease and transfer beef to a 4-quart or larger slow cooker."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir baked beans with pork, bacon, ham, ketchup, brown sugar, onion, chili powder, and molasses into beef in the slow cooker until well combined. If mixture seems thick, stir in water until incorporated."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cover and cook on Low for 6 to 8 hours or High for 3 hours."
+          }
+        ],
+        "recipeYield": [
+          "32",
+          "1 gallon"
+        ],
+        "totalTime": "PT200M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jackie Clonan"
+            },
+            "reviewBody": "AS A BAKED BEANAHOLIC, I CAN SAY THESE WERE ABSOLUTELY DELICIOUS! I FOLLOWED THE RECIPE TO THE T [CAN'T UNDERSTAND CHANGING A RECIPE UNTIL YOU'VE TRIED IT]&amp; IT WAS EASY, DELICIOUS, &amp; MAKES A LOT. IT IS INDEED A MEAL IN ITSELF, &amp; A SLICE OF FRESH BREAD/BUTTER MAKES IT TRUE COMFORT FOOD! THANKS FOR A TRUE KEEPER!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "peculiarmike"
+            },
+            "reviewBody": "I added a bag of \"bean meat\", leftover scraps of smoked brisket and smoked pork butt I always save and freeze after slicing a brisket or pulling a butt for pulled pork. Then I cooked these on my smoker with pecan, stirring frequently to impart nice smokey flavor. GOOD EATS MAYNARD!!!",
+            "datePublished": "2011-04-10T11:35:00.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Strprr212"
+            },
+            "reviewBody": "These are soooo delish!!! I have made these several times &amp; I always get so many compliments on them! I have used smoked sausage and ham, in addition to the bacon &amp; ground beef. Just so yummy!",
+            "datePublished": "2009-06-29T05:08:18.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "the framer"
+            },
+            "reviewBody": "The first time I made this, my family found it too sweet, so I omitted the sugar and my family loves when I make this dish. I also add a can of chick peas and a can of kidney beans.",
+            "datePublished": "2019-09-26T17:01:40.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GodivaGirl"
+            },
+            "reviewBody": "LOVED this recipe!! I did make one substitution and that was for the ham (didn't have). I used finely chopped bbq pork. For the ground beef, I had some leftover hot dog sauce (Grandpa' Classic Coney Dog Sauce recipe) that I used. I've made many baked beans recipes and my guests and I really liked the flavors this dish had. It's almost a meal by itself. I had always cooked my beans in the oven for at least an hour prior to this recipe. I really liked the ease of putting all the ingredients into the crockpot and letting cook on high for 2 hours. Next time, I will add the water as needed after stirring occasionally for a thicker sauce. Can't wait to make these again for our next big BBQ bash!",
+            "datePublished": "2008-05-10T21:09:07.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Blossom"
+            },
+            "reviewBody": "WOW--- wow, wow, wow!!!! What a dish! I followed it to the letter....except, I had smoked a beef brisket yesterday, and couldn't resist chopping and adding some to these beans! These are delicious! My husband will go crazy when he tastes these! It really is a meal in itself. I think I am going to make some coleslaw and good crusty bread or Texas toast to go with it! This will feed a crowd! I have tried similar meat and bean recipes, but this recipe 'rocks'!! I'll make this again and again!!! Thank you so much to the person who posted this!!!",
+            "datePublished": "2011-07-04T09:27:54.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Not a Cook"
+            },
+            "reviewBody": "First, I am not a cook and love this site for all of the help the reviews give me for recipes. I thought this recipe sounded like a lot of work and it was but after following a recipe once it always is easier for me the second time. Because it was an experiment I only made 15 servings. My mistake should of made more. 2nd I myself am not a big baked bean fan. That said I went ahead and made these for 4th of July Bar-B-Q. Vanished before my eyes... I tried to scrape out the slow cooker to save some for my bean eating spouse. An adult niece came looking for them and they were GONE!!! I will absolutely make these again. And if it is for a event will double the recipe. Yes, I liked them too!",
+            "datePublished": "2011-08-07T11:39:14.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MICHELLEK0806"
+            },
+            "reviewBody": "I now have a fave bean recipe.. made a couple small changes.. used a small bottle of KC Masterpiece bourban bbq sauce, and a bit more brown sugar..yummy!",
+            "datePublished": "2011-07-05T06:12:31.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lucille"
+            },
+            "reviewBody": "Didnt add the meats.. and added bit of mustard.. excellent",
+            "datePublished": "2016-07-20T01:48:39.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda Wood Martin"
+            },
+            "reviewBody": "It was great! Added a little orange bell pepper and more brown sugar.",
+            "datePublished": "2014-02-17T16:12:06.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bj"
+            },
+            "reviewBody": "This was terrific , cooked in slow cooker, house smelled wonderful and beans were delicious, will use for Memorial Day cook out",
+            "datePublished": "2013-05-22T10:19:59.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "STRESS007"
+            },
+            "reviewBody": "Just mixed these up for a family reunion tomorrow and they are a piece of cake to make...no crazy ingredients. I did drain the beans. I will let you all know how they went over tomorrow! Thanks ElvisB for sharing this easy recipe. I am giving it 5 stars for ease of prep will rate on taste tomorrow.",
+            "datePublished": "2012-07-28T16:09:35.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diane Barrett"
+            },
+            "reviewBody": "Absolutely delicious. Anyone know if you can freeze extra beans for later?",
+            "datePublished": "2011-07-07T17:49:56.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "becky"
+            },
+            "reviewBody": "awesome! very easy to make. However, I didnt use ham and reduced the molasses, I was afraid to put entire amount of molasses. I used 1/2 tablespoon. Next time I will use all of the molasses and ham. Everyone loved them!",
+            "datePublished": "2011-07-04T09:37:02.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "B Folkes"
+            },
+            "reviewBody": "Very good recipe. i was asked to make this by my oldest son, and it turned out to be a delicious hearty meal. Makes quite a bit too!",
+            "datePublished": "2010-01-20T18:35:43.667Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gena Greene"
+            },
+            "reviewBody": "Very disappointing. I followed the recipe exactly and it still tasted like beans right out of the can---with a lot of meat added. Very time consuming and not at all worth the effort.",
+            "datePublished": "2009-05-10T14:25:22.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mrsdoris"
+            },
+            "reviewBody": "This was very good..tho next time I will add sliced sausage as the ham was dry and not very tasty. Will definatly make again.",
+            "datePublished": "2008-07-27T10:25:31.407Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/109876/western-style-baked-beans/",
+          "name": "Western-Style Baked Beans",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/220/side-dish/beans-and-peas/",
+                  "name": "Beans and Peas"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1673/side-dish/beans-and-peas/baked-beans/",
+                  "name": "Baked Bean Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

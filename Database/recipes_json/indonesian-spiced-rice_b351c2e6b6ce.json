@@ -1,0 +1,439 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18307/indonesian-spiced-rice/",
+  "extracted_at": "2026-10-18T02:30:19.208699+00:00",
+  "recipes": [
+    {
+      "name": "Indonesian Spiced Rice",
+      "ingredients_raw": [
+        "3 tablespoons vegetable oil",
+        "1 large onion, chopped",
+        "2 jalapeno peppers, seeded and minced",
+        "2 cloves garlic, crushed",
+        "1 teaspoon ground turmeric",
+        "0.5 teaspoon ground cinnamon",
+        "2 cups uncooked long-grain white rice",
+        "2 (14.5 ounce) cans chicken broth",
+        "1 cup water",
+        "1 bay leaf",
+        "2 green onions, chopped"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large, heavy pan over medium heat. Stir in onion, jalapeños, and garlic. Sauté until onion is translucent; about 6 to 8 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Stir in turmeric and cinnamon. Add rice; cook and stir for 2 minutes. Mix in chicken broth, water, and bay leaf; bring to a boil. Reduce heat to low, cover, and cook for 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Turn off the heat and let sit for 5 minutes. Garnish with chopped green onion."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Indonesian Spiced Rice",
+        "datePublished": "2000-06-14T16:11:53-04:00",
+        "dateModified": "2022-09-09T08:22:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Andi"
+          }
+        ],
+        "description": "This colorful, spicy rice side dish is flavored with garlic, turmeric, cinnamon, and jalapeños. Pairs perfectly with lamb kabobs.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/glKBXJt3H2BG8Je-d-GRqoJCJB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8187586-edb1276706ad4ef7a9ae417c5d44085c.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Indonesian Spiced Rice",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "47"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "226 kcal",
+          "carbohydrateContent": "40 g",
+          "fiberContent": "1 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "4 mg",
+          "sugarContent": "1 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Indonesian"
+        ],
+        "recipeIngredient": [
+          "3 tablespoons vegetable oil",
+          "1 large onion, chopped",
+          "2 jalapeno peppers, seeded and minced",
+          "2 cloves garlic, crushed",
+          "1 teaspoon ground turmeric",
+          "0.5 teaspoon ground cinnamon",
+          "2 cups uncooked long-grain white rice",
+          "2 (14.5 ounce) cans chicken broth",
+          "1 cup water",
+          "1 bay leaf",
+          "2 green onions, chopped"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large, heavy pan over medium heat. Stir in onion, jalapeños, and garlic. Sauté until onion is translucent; about 6 to 8 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in turmeric and cinnamon. Add rice; cook and stir for 2 minutes. Mix in chicken broth, water, and bay leaf; bring to a boil. Reduce heat to low, cover, and cook for 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Turn off the heat and let sit for 5 minutes. Garnish with chopped green onion."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fondukes"
+            },
+            "reviewBody": "This was amazing. I was afraid my picky husband and son would not eat it, especially with the strong aroma. But they gobbled it up and even went back for seconds. I used brown rice, so I had to cook it for about 45 minutes and then let it rest for another 10-15. In addition to the green onions, I topped it off with cilantro and a few mint leaves. This will be a regular at my house, but as another reviewer suggested, I too would cut the amount in half. My small family liked it, but I'm sure they don't want to eat the leftovers for a whole week."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maggie Riley"
+            },
+            "reviewBody": "This was tasty - I modified it a bit to make it more pilaf-y. I used brown basmati (\"Texmati\" American Basmati) rice, which took longer to cook - 30 minutes would be the minimum cook time, and maybe a bit longer. I sort of combined this with the Risi-Bisi recipe, adding toasted pine nuts, peas, and my own addition, raisins. I didn't have turmeric so I used curry, and I cut the recipe in half but kept the spices as they were, so the ratios were doubled (since some said it was bland). It was delicious! I highly recommend adding raisins! The 4 stars are only because of the cooking time issue. This dish reminded me of some of the better pilafs I've purchased frozen from Trader Joe's or in a box - very tasty.",
+            "datePublished": "2007-11-26T19:31:49.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah"
+            },
+            "reviewBody": "I made it this way and liked it so much that I started making a version of it for \"Mexican night\". Just used chili powder instead of cinnamon and virtual the veggies diced up the onion along with a green chili (no seeds) and a half of a red bell pepper. I also only use enough oil to cook the onion, no more than a tbsp. Easy peasy and family approved!",
+            "datePublished": "2014-10-05T14:32:37.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsChmerkovskiy"
+            },
+            "reviewBody": "Used sesame oil, no jalapeños, brown rice, red pepper flakes, chicken bouillon, and more water than what was required. I didn't have any scallions so I left that off. Also used two bay leaves. It was very very good! Highly recommend.",
+            "datePublished": "2015-04-09T19:04:24.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sueb"
+            },
+            "reviewBody": "This smells so good when cooking! I used the spray oil instead of vegetable oil, brown rice instead of white rice, and omitted the chicken broth, using water instead. This is delicious!",
+            "datePublished": "2011-07-23T12:59:54.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anne-Marie Villeneuve"
+            },
+            "reviewBody": "OMG!! This rice was to DIE for!! I only had one jalapeño but it worked great. I’d put a second one another time (and there WILL be another time and then some)! Don’t skimp on the onion either! I didn’t have chicken stock so I used water and bouillon cubes. I was a bit sceptical about using cinnamon but I think it’s a must and it was not overbearing in taste.",
+            "datePublished": "2019-08-14T23:19:13.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mermaid"
+            },
+            "reviewBody": "This was wonderful! I made it tonight along with an indonesian pork tenderloin. My husband and I loved it. I added a tsp of cinnamon instead of 1/2; just didn't think the 1/2 gave it enough zing. Paired it with sliced carrots &amp; onions sauteed in butter and sprinkled with cinnamon.",
+            "datePublished": "2009-07-23T18:27:02.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meredith"
+            },
+            "reviewBody": "I was looking for a recipe to use jalapenos I stupidly picked up at the farmers' market... stupid because I had no idea what to do with them, they were just pretty. This recipe looked easy and I had all the ingredients. Well, it is delicious! My only change was to use only one jalapeno, since I didn't know how hot they were. Good thing, because one was way enough for us. So good and so easy. I will make this again for sure. I may add peas or something, it just seems like something else of vegetable form would be good.",
+            "datePublished": "2010-07-23T08:54:01.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "collegechef08"
+            },
+            "reviewBody": "Delicious! I cut the recipe in half since other reviewers noted that it makes a lot. Since I am vegetarian I used veggie broth rather than chicken broth, but I kept everything else the same. This rice dish is spicy, but not so much that it masks the other flavors...and that's just how I like it. Thanks for this one, it's a keeper :)",
+            "datePublished": "2010-09-29T16:38:14.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "erinspice"
+            },
+            "reviewBody": "I modified this recipe to more closely match rice I had at an Iraqi restaurant by eliminating the tumeric, adding more cinnamon, and adding about a tablespoon of sugar. Wonderful!",
+            "datePublished": "2007-03-16T17:35:41.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IMVINTAGE"
+            },
+            "reviewBody": "I scaled the recipe down to 4 servings &amp; I used brown basmati rice. I also used curry powder for the turmeric. It was a very nice accompaniment to Spicy Chicken Curry....thansk Andi!",
+            "datePublished": "2006-08-25T09:40:56.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChillyDill5177"
+            },
+            "reviewBody": "I halved the ingredients for three of us, and we ate every grain alongside satay chicken and Cap Chay.",
+            "datePublished": "2024-05-31T20:21:19.366Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gourmette"
+            },
+            "reviewBody": "I added butter. It was perfect.",
+            "datePublished": "2023-10-05T00:52:25.405Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Duane Smelser"
+            },
+            "reviewBody": "Followed recipe exactly. Loved it. Healthy and delicious.",
+            "datePublished": "2020-05-30T23:06:13.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy Collins"
+            },
+            "reviewBody": "Delicious. I added extra stock powder and used crushed chillies.\nHusband said it could be hotter!",
+            "datePublished": "2017-10-24T06:21:56.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Riskell"
+            },
+            "reviewBody": "The rice cooked up well but was week in flavor. If I were to make it again I would use all broth, no plain water, more turmeric and possibly some salt, we had to salt it on the plate. This was my husbands comment while eating, \"does this have cinnamon in it?\"",
+            "datePublished": "2015-01-13T16:38:11.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "meia3808"
+            },
+            "reviewBody": "This was great!!",
+            "datePublished": "2013-06-25T19:36:31.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "andrea92fl"
+            },
+            "reviewBody": "Could have been better if more stock was added. My rice came out too dry!",
+            "datePublished": "2011-10-13T12:25:12.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BadLittleChef"
+            },
+            "reviewBody": "This truly was a colorful and spicy dish. I served it with kebabs. My kebabs didn't turn out so my rice saved me. A unique and delicious dish.",
+            "datePublished": "2011-07-21T19:10:23.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jesageroma"
+            },
+            "reviewBody": "Loved it. I've made several variants on this dish and they all turn out satisfactory.",
+            "datePublished": "2011-06-13T21:01:55.880Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18307/indonesian-spiced-rice/",
+          "name": "Indonesian Spiced Rice",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/224/side-dish/rice/",
+                  "name": "Rice Side Dish Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

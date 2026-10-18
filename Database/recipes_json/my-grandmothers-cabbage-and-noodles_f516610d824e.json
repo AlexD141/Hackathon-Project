@@ -1,0 +1,407 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220720/my-grandmothers-cabbage-and-noodles/",
+  "extracted_at": "2026-10-18T03:11:04.257620+00:00",
+  "recipes": [
+    {
+      "name": "My Grandmother&#39;s Cabbage and Noodles",
+      "ingredients_raw": [
+        "3 cups water",
+        "2 tablespoons butter",
+        "1 (12 ounce) package bacon, chopped",
+        "1 head cabbage, cored and chopped",
+        "1 (8 ounce) package egg noodles",
+        "salt and ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place water and butter in a large, deep skillet and bring to a boil; stir in bacon and return to a boil."
+        },
+        {
+          "id": 2,
+          "text": "Stir cabbage into the bacon mixture; simmer until the thickest pieces of cabbage are fork-tender and the liquid has almost evaporated, about 20 minutes. Drain."
+        },
+        {
+          "id": 3,
+          "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in egg noodles and return to a boil. Cook noodles uncovered, stirring occasionally, until tender but still slightly firm, about 5 minutes. Drain well."
+        },
+        {
+          "id": 4,
+          "text": "Lightly toss egg noodles with bacon and cabbage; season to taste with salt and black pepper."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "My Grandmother&#39;s Cabbage and Noodles",
+        "datePublished": "2019-04-03T23:51:54-04:00",
+        "dateModified": "2024-12-12T11:37:00-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "brycensmommy"
+          }
+        ],
+        "description": "A vintage recipe for cabbage and noodles adds bacon for a savory flavor.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/W98eP8c-tW6bXTPZZcEkWTWFBT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1954976-ddb2af223e804934a4c84bd655e82ed5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "My Grandmother&#39;s Cabbage and Noodles",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "18"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "491 kcal",
+          "carbohydrateContent": "57 g",
+          "cholesterolContent": "93 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "758 mg",
+          "sugarContent": "11 g",
+          "fatContent": "20 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "3 cups water",
+          "2 tablespoons butter",
+          "1 (12 ounce) package bacon, chopped",
+          "1 head cabbage, cored and chopped",
+          "1 (8 ounce) package egg noodles",
+          "salt and ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place water and butter in a large, deep skillet and bring to a boil; stir in bacon and return to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir cabbage into the bacon mixture; simmer until the thickest pieces of cabbage are fork-tender and the liquid has almost evaporated, about 20 minutes. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in egg noodles and return to a boil. Cook noodles uncovered, stirring occasionally, until tender but still slightly firm, about 5 minutes. Drain well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Lightly toss egg noodles with bacon and cabbage; season to taste with salt and black pepper."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Firedancer"
+            },
+            "reviewBody": "I make this all the time, it is so good. your going to love it.. I do fry the bacon though. the best of comfort food. I have made this using only 3 slices of bacon and it was great."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rkm4"
+            },
+            "reviewBody": "I love cabbage and noodles, but it is way better if you take the blanched cabbage, bacon and the cooked noodles and saute them in butter until the the cabbage starts to brown and some of the noodles start to crisp. My kids devoured it. Use noodles like pot pie squares that will stand up to tossing around in the pan. Onions are also a good addition.",
+            "datePublished": "2022-02-28T00:02:32.336Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Grannycan"
+            },
+            "reviewBody": "I learned it as haluski. Saute cabbage and onions together until tender, add cooked bacon, or ham, and cooked egg noodles stir and cook until noodles on bottom get browned and crispy. Delicious! It was a peasant dish in Austria and meat wasn't always available.",
+            "datePublished": "2023-01-22T17:30:34.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shezeree Cokonougher-Gallardo"
+            },
+            "reviewBody": "The only changes I made was to fry and crumble the bacon first (a texture issue with boiled bacon) and I added a Tbl of caraway seeds (you can't go wrong with caraway and cabbage). I increased the amount of noodles to 12 oz (to increase the number of servings). it was really good. thanks for the starter recipe",
+            "datePublished": "2016-09-10T15:34:50.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "julie"
+            },
+            "reviewBody": "We are not cabbage-eaters! My family (4adults) was very pleasantly surprised with this tasty dish, and all ate more than 1 serving. Changes: I fried and crumbled the bacon and added 2 T. bacon grease, and increased the egg noodles to a 12 oz pkg. Frying and crumbling. the bacon added crunch and color (I think any food is tastier with bacon!) Changing the amount of noodles made little difference, except to increase the number of servings. I wonder if the \"distinct\" aroma of cooking cabbage may keep some people from eating it (myself included)! After it is prepared, the taste and smell of this dish is completely different than while cooking - amazing!",
+            "datePublished": "2013-09-26T02:31:57.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubysMom"
+            },
+            "reviewBody": "Really good as is. I did saute up some chopped apples and add it to the mixture - yummy!!",
+            "datePublished": "2021-11-30T01:11:43.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Capps Lepp"
+            },
+            "reviewBody": "Super easy! DELICIOUS! I served with slice tomatoes and rolls. Really no changes except I added a touch of ginger and garlic in the cabbage water. Salted the egg noodle water, too! So Cheap...",
+            "datePublished": "2015-01-16T13:12:36.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DaringMango6021"
+            },
+            "reviewBody": "Used turkey kielbasa instead of bacon",
+            "datePublished": "2024-09-29T15:03:09.639Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SillyAhi2512"
+            },
+            "reviewBody": "Added a small diced sauteed onion, a small amount of Cajun spice &amp; garlic salt. Very tasty and easy to make!",
+            "datePublished": "2024-09-02T16:17:22.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Misty"
+            },
+            "reviewBody": "My grandma was from Czechoslovakia and we ate this as kids when I was little. Except she cooked onions and garlic and added that to it as well! But it’s crazy how a dish can bring you right back to childhood",
+            "datePublished": "2026-03-21T14:07:21.292Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WorthyPeas1451"
+            },
+            "reviewBody": "This recipe is easy and delicious. My children even love it and eat the cabbage. I make this often as my family requests it!",
+            "datePublished": "2022-09-20T02:15:17.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elwanda MsDivaa Vereen"
+            },
+            "reviewBody": "I fried the bacon first and than cooked the cabbage with the bacon grease. Other than that I did what was in the recipe.",
+            "datePublished": "2022-09-11T17:22:53.488Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lloyd Tennison"
+            },
+            "reviewBody": "Bland.",
+            "datePublished": "2022-08-13T01:40:55.159Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marilynwierbicki"
+            },
+            "reviewBody": "Delicious and who could pass up anything with bacon in it yum!",
+            "datePublished": "2022-07-14T17:31:13.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ccyndilou"
+            },
+            "reviewBody": "This has been in our family for years !! We love it",
+            "datePublished": "2021-01-03T06:05:48.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Smith"
+            },
+            "reviewBody": "This was a fantastic dish. I will make it again for sure. It was soooo good.",
+            "datePublished": "2020-11-02T17:58:45.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "emily"
+            },
+            "reviewBody": "Good as is, though I wish I had added onions for a bit deeper flavor.",
+            "datePublished": "2017-02-15T12:18:03.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peggy Tucker"
+            },
+            "reviewBody": "very easy and good.",
+            "datePublished": "2016-10-04T21:28:44.140Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220720/my-grandmothers-cabbage-and-noodles/",
+          "name": "My Grandmother&#39;s Cabbage and Noodles",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

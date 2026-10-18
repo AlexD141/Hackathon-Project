@@ -1,0 +1,448 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21503/salmon-loaf/",
+  "extracted_at": "2026-10-18T02:54:57.920306+00:00",
+  "recipes": [
+    {
+      "name": "Salmon Loaf",
+      "ingredients_raw": [
+        "1 (14.75 ounce) can salmon, undrained",
+        "0.5 cup crushed saltine crackers",
+        "0.5 cup milk",
+        "1 large egg, beaten",
+        "2 tablespoons melted butter",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Combine salmon, crushed crackers, milk, egg, melted butter, salt, and pepper in a mixing bowl. Mix thoroughly."
+        },
+        {
+          "id": 3,
+          "text": "Press the salmon mixture into a lightly greased 9x5-inch loaf pan."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven for 45 minutes or until done."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Salmon Loaf",
+        "datePublished": "2000-04-18T17:16:59-04:00",
+        "dateModified": "2025-12-17T13:44:23-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gloria"
+          }
+        ],
+        "description": "This is a simple and tasty salmon loaf recipe with just a few ingredients including salmon, crackers, milk, egg, and butter, baked together in a loaf.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/5Rb31ynjgA9W_5AaDCnPhsISnZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21503salmon-loafChefMo4x3-dde26ad8b1184a23bec896b2b447faf2.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Salmon Loaf",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "219"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "293 kcal",
+          "carbohydrateContent": "8 g",
+          "cholesterolContent": "110 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "536 mg",
+          "sugarContent": "2 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (14.75 ounce) can salmon, undrained",
+          "0.5 cup crushed saltine crackers",
+          "0.5 cup milk",
+          "1 large egg, beaten",
+          "2 tablespoons melted butter",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine salmon, crushed crackers, milk, egg, melted butter, salt, and pepper in a mixing bowl. Mix thoroughly."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Press the salmon mixture into a lightly greased 9x5-inch loaf pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 45 minutes or until done."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "1 loaf"
+        ],
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MIZDIZ"
+            },
+            "reviewBody": "My family thought this was good when cooked following the recipe. The only thing I would change would be baking it in muffin tins so that there are more crispy edges, and adding a little bit of minced onion for flavor. Otherwise this is a really good, really easy recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "There was nothing about this recipe I didn't like. It was quick and easy with a minimum of ingredients, though I did add some minced onion, dash of salt and a little pepper. It made a wonderful salmon loaf just like my Mom used to make. My grandkids, ages 4 through 16 loved it served with creamed peas and fried potatoes. I will be using this recipe from now on.",
+            "datePublished": "2002-04-01T16:12:22.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Austin"
+            },
+            "reviewBody": "I've been using this recipe as a guide. I usually double it, and instead of canned salmon, I use 2 lbs of skinless frozen salmon from Walmart. I also add garlic and dill to the butter before melting it. I use low sodium tamari instead of salt, and throw about 1/8 cup of vermouth to make it interesting. If you want to make it more of a \"rib sticker \", just add 1/8 cup of Quaker quick barley. I'll put in in the microwave with equal parts of chicken bone broth, and cook it first on low for 2 minutes. I also change up the crackers. I use wheat crackers, butter crackers, or even flavored croutons broken up in a bowl with a potato masher. I've been doing this for years.. No complaints.",
+            "datePublished": "2021-03-01T02:52:29.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pattisuttoncomcastnet"
+            },
+            "reviewBody": "Delicious! I made it as directed, for the most part. As another reviewer suggested I crushed up 14 saltines. Omitted the butter, was going to add olive oil, but it already looked moist enough so I skipped that part. For the salt&amp;pepper I used fresh ground lemon pepper. Couldn’t find my loaf pan but I remembered a tip from America’s Test Kitchen - they recommend not using a pan because it traps grease, fat, etc., and can make the loaf soggy. So I just shaped the mixture into a loaf shape on a parchment-lined baking sheet. Came out with a nice crusty edge and so moist! Like tasting salmon loaf my mum used to make. Hubby really enjoyed it. Going into menu plan rotation. Thanks so much for sharing this with us!",
+            "datePublished": "2018-07-11T11:27:58.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tina"
+            },
+            "reviewBody": "This is the same recipe my great aunt has made for years and I love it but......\nI don't see where the cucumber sauce recipe that goes with this loaf?\nThe cucumber sauce recipe is a MUST for this loaf and its simple and easy to make. So, here it is:\n1/4 cup mayonaise\njuice of 1 lemon ( I used bottled )\n1/2 cup sour cream\n1/4 cup cucumber (with peeling) chopped fine\nput all ingredients in blender and refridgerate.\nI have to double this recipe because my husband makes a pig of himself when I serve the salmon loaf. Also, it doesn't compete with the flavor of the salmon itself like tartar sauce would.",
+            "datePublished": "2012-06-15T06:11:50.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "betsieletterle"
+            },
+            "reviewBody": "Super EASY and DELICIOUS! I added some finely chopped onion and red bell pepper plus a couple of dashes of cayenne. We like a \"bright\" finish so I sprinkled some 'True Lemon' brand crystallized lemon on top before serving. Dinner was accompanied by gently steamed asparagus and a citrus fruit cup.",
+            "datePublished": "2023-05-09T22:26:20.454Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cmkoske1"
+            },
+            "reviewBody": "Didn't use butter or oil as used Deming's Red Wild Caught now marketed under Double \"Q\" ( Walmart carries it) Sockeye Alaskan Salmon, added lemon juice, lemon zest, dried dill, thin sliced spring onions, tops and all, and topped with ground pepper and dill, no added salt. Really want to zazz it up? Sprinkle top with Spice Island Ground Chilpolte Chili powder. Terrific!! Made it numerous times. Family and friends love it! Loaf Quick, Easy, and tasty. Put in parchment paper in my loaf pan. Awesome-no cleanup! Top with Opadipity Greek Lite Greek Yogert dip made by Lite House. Great straight from the oven to the table or cold. My go-to meal when we want something special! Also can \"glam\" it up with a fresh sprig of dill!",
+            "datePublished": "2016-06-01T00:06:55.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PEARLIE5"
+            },
+            "reviewBody": "Good, but needed more flavor in my opinion. The first time I made it as written. Second time I added diced onion as others had and a little garlic. Also, the second time I sliced an 8 ounce package of Neufachtel cheese into thirds lengthwise and put a length in the middle of the loaf- we liked that. But, without that it is still a very nice recipe! And so easy! Thank you!",
+            "datePublished": "2023-08-31T22:05:48.645Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DJL"
+            },
+            "reviewBody": "I added diced onion , garlic &amp; Celery sautéed before adding Seasoning I added creole, paprika ,basil, tarragon &amp; Dill I used Ritz crackers instead about one sleve PERFECT",
+            "datePublished": "2026-05-28T22:23:08.628Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Delicious! I made it as directed, for the most part. As another reviewer suggested I crushed up 14 saltines. Omitted the butter, was going to add olive oil, but it already looked moist enough so I skipped that part. For the salt&amp;pepper I used fresh ground lemon pepper. Couldn’t find my loaf pan but I remembered a tip from America’s Test Kitchen - they recommend not using a pan because it traps grease, fat, etc., and can make the loaf soggy. So I just shaped the mixture into a loaf shape on a parchment-lined baking sheet. Came out with a nice crusty edge and so moist! Like tasting salmon loaf my mum used to make. Hubby really enjoyed it. Going into menu plan rotation. Thanks so much for sharing this with us!",
+            "datePublished": "2018-07-11T11:27:58.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa"
+            },
+            "reviewBody": "I added diced onion, diced celery, fresh lemon juice, and some Dijon mustard. It turned out fabulous 👌",
+            "datePublished": "2026-01-08T23:09:55.809Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Godsofwall"
+            },
+            "reviewBody": "Pour cambells mushroom soup over it before baking. Makes great gravy sauce for baked potato",
+            "datePublished": "2026-06-11T20:25:14.658Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Noreen K"
+            },
+            "reviewBody": "My family has always made salmon loaf. This is a great basic recipe that you can modify to your liking. We always make a white sauce with diced up hard boiled eggs to pour over it. Sometimes I make extra sauce so that we have leftover sauce and I can add dry chipped beef to it and we have that over toast as another hearty meal.",
+            "datePublished": "2026-01-15T17:16:30.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steve Sanders"
+            },
+            "reviewBody": "I followed the recipe except I added two eggs. Then after mixing I added more crushed soda crackers to get the right consistency. I came out perfectly and sliced cleanly. Next time I may add some tarragon.",
+            "datePublished": "2025-11-12T19:01:55.538Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie"
+            },
+            "reviewBody": "Added diced onions, basil, paprika.",
+            "datePublished": "2025-10-09T18:19:42.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TidyBrew6921"
+            },
+            "reviewBody": "I added a teaspoon of onion powder.",
+            "datePublished": "2025-05-18T17:44:47.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DapperJelly7270"
+            },
+            "reviewBody": "I added a small jalapeno and some chopped red pepper for color. Used bread crumbs instead of crackers. Had to add a little more crumbs than the 1/2 cup it called for as the mixture was a little watery. Turned out really well",
+            "datePublished": "2025-04-10T03:27:27.106Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SereneMango6731"
+            },
+            "reviewBody": "I added some Tobasco and minced onion.",
+            "datePublished": "2025-04-01T12:10:31.556Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SneakyBrew5771"
+            },
+            "reviewBody": "I added black olives and put green olives on top before baking. I also put lemon slices on the top.",
+            "datePublished": "2025-03-26T20:56:53.224Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "5pointpublishing"
+            },
+            "reviewBody": "Boring. Not worth it. Fried is best for me.",
+            "datePublished": "2025-03-13T20:43:19.775Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21503/salmon-loaf/",
+          "name": "Salmon Loaf",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13290/main-dish/seafood/",
+                  "name": "Seafood Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/13293/main-dish/seafood/salmon/",
+                  "name": "Salmon"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15846/main-dish/seafood/salmon/baked-salmon/",
+                  "name": "Baked Salmon Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

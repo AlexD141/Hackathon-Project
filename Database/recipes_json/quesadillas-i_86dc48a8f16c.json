@@ -1,0 +1,468 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14847/quesadillas-i/",
+  "extracted_at": "2026-10-18T02:02:19.196537+00:00",
+  "recipes": [
+    {
+      "name": "Easy Quesadillas ",
+      "ingredients_raw": [
+        "10 (6 inch) corn tortillas",
+        "2 cups shredded mozzarella cheese",
+        "1 (2 ounce) can sliced black olives",
+        "2 avocados - peeled, pitted and sliced",
+        "2 teaspoons hot pepper sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Heat a large frying pan or griddle over a medium heat. Place one tortilla flat on the frying pan. Cook for 1 minute, then flip the tortilla over."
+        },
+        {
+          "id": 3,
+          "text": "Sprinkle a little more than 1/4 cup cheese on top of tortilla, followed by some olives, avocado, and hot pepper sauce. Place another tortilla on top to make a sandwich; cover with a lid. Cook for 1 minute, then flip the quesadilla. Cook until cheese has melted on the inside; transfer quesadilla to a plate. Repeat with remaining ingredients."
+        },
+        {
+          "id": 4,
+          "text": "Cut the quesadillas into triangles and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Easy Quesadillas ",
+        "datePublished": "1999-11-06T17:30:58-05:00",
+        "dateModified": "2025-11-04T14:18:28-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Cody"
+          }
+        ],
+        "description": "Learn how to make quesadillas with this easy recipe that melts cheese, hot sauce, and avocados inside crunchy tortilla triangles for a cheesy treat.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/d9gAhqkY5ntx-gMEHSC01AHAyU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14847-quesadillas-i-ddmfs-beauty-4x3-17283-e21f6c127c0442b0b27da07ec4fb52df.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Quesadillas ",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "42"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "390 kcal",
+          "carbohydrateContent": "32 g",
+          "cholesterolContent": "35 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "15 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "457 mg",
+          "sugarContent": "2 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Appetizer"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "10 (6 inch) corn tortillas",
+          "2 cups shredded mozzarella cheese",
+          "1 (2 ounce) can sliced black olives",
+          "2 avocados - peeled, pitted and sliced",
+          "2 teaspoons hot pepper sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/H6czIuo26JNOahfndqBBEBDly6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14847-quesadillas-i-ddmfs-01-17214-bcc83f7f62604eb18bfed3008665d2ca.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3shfwJAc_uifWqPFmItrUaUL47c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14847-quesadillas-i-ddmfs-02-17220-a86c14d3dc244147a57d26d13c5ac4a5.jpg"
+              }
+            ],
+            "text": "Heat a large frying pan or griddle over a medium heat. Place one tortilla flat on the frying pan. Cook for 1 minute, then flip the tortilla over."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/9xSIvENQhqbZyb9bvyX93VZr8dw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14847-quesadillas-i-ddmfs-05-17227-5b4b28794bd84172a4b8535cc286a486.jpg"
+              }
+            ],
+            "text": "Sprinkle a little more than 1/4 cup cheese on top of tortilla, followed by some olives, avocado, and hot pepper sauce. Place another tortilla on top to make a sandwich; cover with a lid. Cook for 1 minute, then flip the quesadilla. Cook until cheese has melted on the inside; transfer quesadilla to a plate. Repeat with remaining ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/HE-NKAghasvXgwPV1ylvO5UJ2a4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14847-quesadillas-i-ddmfs-05-17231-611b6ae50dba418b926a5c9f90aba8af.jpg"
+              }
+            ],
+            "text": "Cut the quesadillas into triangles and serve."
+          }
+        ],
+        "recipeYield": "5",
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DIGBUGSGIRL"
+            },
+            "reviewBody": "This was really good. I used Mexican cheese mix instead of the mozzarella, green chiles instead of the jalapenos and advocado, and taco seasoning instead of the red pepper. It was very kid friendly this way and delicious."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CLOVERDALE1"
+            },
+            "reviewBody": "The taste is almost there I added shredded chicken that I spiced up. what a big difference",
+            "datePublished": "2003-05-02T15:30:26.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "These are great with a little tweaking. Mozzerella isn't exactly traditional mexican cheese. I used colby jack and added lots more fresh veggies and I baked it instead of frying. Great comfort snack food.",
+            "datePublished": "2003-03-04T07:04:12.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BABSKITCHEN"
+            },
+            "reviewBody": "These were very good and very easy to make. I used Mexican cheese instead of mozzarella and jalapeño peppers instead of hot pepper sauce. I found that 1 avocado was enough. I served this with salsa and sour cream. I served this as a main dish and probably should have doubled the recipe. It didn't go quite far enough for 4 people. Would make a great appetizer! Thanks, Cody!",
+            "datePublished": "2003-03-30T16:08:39.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I added ground beef flavored with taco seasoning for an added bonus to this recipe. This was so easy to make, and it was a nice change from the same ole tacos! Yumm!",
+            "datePublished": "2003-07-08T05:52:56.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristin"
+            },
+            "reviewBody": "Very good! I ommited the olives, and added 1 diced tomato and 1/4 of an onion instead. I mixed the avacado, tomato and onion in a bowl with salt and pepper before adding to quesadilla. It came out delicous! Will definitely be making these again!",
+            "datePublished": "2011-01-17T21:02:27.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wilemon"
+            },
+            "reviewBody": "I used flour tortillas, didn't have corn, mixed the mozzarella with Monterey Jack and sharp cheddar, add green onions and green chili peppers, sprinkled with garlic salt, left out the avocados altogether, then grilled with the griddle on high for about 2 1/2 minutes per side. They turned out perfectly browned. Do let them sit a couple of minuets before cutting them so the cheese won't ooze out.",
+            "datePublished": "2003-12-08T07:51:39.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Great, easy recipe. You can add some sort of bean to it, too.",
+            "datePublished": "2001-02-03T18:52:46.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SARAHGRACESC"
+            },
+            "reviewBody": "I changed the recipe a bit. First I used flour tortillas. I used cheddar instead of mozz. I used green olives diced instead of black olives. I didn't have any avocados, so that was omitted. I used taco sauce instead of pepper sauce. And I added some black beans. I simply put the tortilla down on the hot (med heat) skillet, and put all of the fixings on that. Then I topped with the second tortilla and flipped it over, letting that side crisp up. They were delicious! I dipped in sour cream.",
+            "datePublished": "2008-06-23T16:40:37.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Good recipe. I substituted jalapenos for the hot sauce. They are great dipped in salsa.",
+            "datePublished": "2002-12-08T12:59:04.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary"
+            },
+            "reviewBody": "They were delicious! I followed everything in the recipe but I also tried mixing the mozzarella cheese with shredded cheddar cheese and shredded parmesan cheese. Any shredded cheese tasted fine!",
+            "datePublished": "2011-01-12T17:13:19.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "C A"
+            },
+            "reviewBody": "I love the flavors. The kids weren’t loving the olives, but I did 👍",
+            "datePublished": "2026-02-07T01:41:07.732Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Foley"
+            },
+            "reviewBody": "Easy to follow and add more ingredients to customize for individual palates.",
+            "datePublished": "2025-08-30T17:23:04.601Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Grayson"
+            },
+            "reviewBody": "Hey Smosh... Currently watching culinary crimes and wanted to make a snack... So...I switched out the corn tortilla's for tomato slasa torrilla's I had in my cupboard... I switched out the shredded mozzarella for lactose free pizza mozzarella...I didn't have black olives so I used canned corn instead... I had some bacon maple bacon left over from breakfast that I chopped up and put in there for some protein... All my avocados were bad so I skipped that.... To dip I have some greek yogurt that I mixed with some hot sauce to dip... 10/10 would recommend",
+            "datePublished": "2024-11-27T22:00:11.418Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HonestSlaw6141"
+            },
+            "reviewBody": "Delicious and easy to make. I used marscapone, honey, vanilla and cinnamon. Dusted the triangles with powdered sugar.",
+            "datePublished": "2024-05-17T17:26:45.118Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OldSole1845"
+            },
+            "reviewBody": "It tastes so yummy 😋 thank you for the recipe,I loved the Quesadillas!",
+            "datePublished": "2024-01-08T20:47:33.065Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaItLiN"
+            },
+            "reviewBody": "It was really good, but it stuck to the pan a little, so I reamend useing a bit of butter at the start.",
+            "datePublished": "2023-07-05T16:35:52.916Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I‘d say very very good for the least part of it, and it’s easy to make too!",
+            "datePublished": "2023-05-03T15:39:15.006Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HealthyCollegeCook"
+            },
+            "reviewBody": "Worked out well enough, but you might have to increase cooking time to get a nice crispy outside. There's lots of flexibility with this recipe, too. You can change the filling, but use this recipe as a guide to make sure you aren't under- or overfilling your quesadillas. This is a good starting point for someone who hasn't made them before.",
+            "datePublished": "2020-10-21T21:25:43.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy Lynn"
+            },
+            "reviewBody": "Making quesadillas in a frying pan is my preferred way to make. I spray the pan with just a little cooking spray. If using larger flour tortillas, fold them in half and place two in the pan, and they are easier to flip. I usually use Mexican blend cheese, but I love using half mozzarella and half cheddar. The submitter's idea of putting in a dash of hot sauce inside the tortilla is great. I prefer to put olives, salsa and avocado on the side.",
+            "datePublished": "2016-05-06T02:21:45.270Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14847/quesadillas-i/",
+          "name": "Easy Quesadillas ",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1905/world-cuisine/latin-american/mexican/main-dishes/quesadillas/",
+                  "name": "Quesadilla Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

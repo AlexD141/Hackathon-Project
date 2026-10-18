@@ -1,0 +1,204 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/108660/tutu-dutch-antilles-bean-porridge/",
+  "extracted_at": "2026-10-18T01:44:17.618080+00:00",
+  "recipes": [
+    {
+      "name": "Tutu (Dutch Antilles Bean Porridge)",
+      "ingredients_raw": [
+        "2 cups dried black-eyed peas",
+        "1 tablespoon vegetable oil",
+        "0.5 onion, finely chopped",
+        "3 cloves garlic, minced",
+        "1 cup all-purpose flour",
+        "5 cups water",
+        "2 teaspoons ground nutmeg",
+        "2 tablespoons white sugar"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cover black-eyed peas with water, and soak overnight."
+        },
+        {
+          "id": 2,
+          "text": "Heat vegetable oil in a large saucepan over medium heat. Stir in garlic and onion, and cook until softened, about 4 minutes. Stir in flour until evenly combined with onion. Add water, nutmeg, and sugar. Drain peas, and add to saucepan. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the black-eyed peas are tender, about 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tutu (Dutch Antilles Bean Porridge)",
+        "datePublished": "2020-06-18T23:13:46-04:00",
+        "dateModified": "2020-06-18T23:13:46-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Linda"
+          }
+        ],
+        "description": "This sweet and savory porridge made of black eyed peas is eaten for dinner.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8xcUvrKJEbmtvR9pUw2BrWB4VIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5070373-ecfe3a4c1fb84b9e86d6bed7ce40452b.jpg",
+          "height": 1422,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tutu (Dutch Antilles Bean Porridge)",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3",
+          "ratingCount": "4"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "256 kcal",
+          "carbohydrateContent": "48 g",
+          "fiberContent": "5 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "5 mg",
+          "sugarContent": "10 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast",
+          "Side Dish"
+        ],
+        "recipeIngredient": [
+          "2 cups dried black-eyed peas",
+          "1 tablespoon vegetable oil",
+          "0.5 onion, finely chopped",
+          "3 cloves garlic, minced",
+          "1 cup all-purpose flour",
+          "5 cups water",
+          "2 teaspoons ground nutmeg",
+          "2 tablespoons white sugar"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cover black-eyed peas with water, and soak overnight."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat vegetable oil in a large saucepan over medium heat. Stir in garlic and onion, and cook until softened, about 4 minutes. Stir in flour until evenly combined with onion. Add water, nutmeg, and sugar. Drain peas, and add to saucepan. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the black-eyed peas are tender, about 30 minutes."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT540M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sueb"
+            },
+            "reviewBody": "Great taste! Just make sure to turn heat to simmer once everything is in the pan with the beans, or this will stick to the bottom of the pan!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoralBasil1700"
+            },
+            "reviewBody": "I loved the texture because I love bean poridge. I just added different spices black pepper, oregano and poultry seasoning.",
+            "datePublished": "2026-08-17T21:04:44.332Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rame"
+            },
+            "reviewBody": "Should you make this the short answer is no. The long answer is noooooooooooooooooooooooooooooooooooooooo.",
+            "datePublished": "2008-12-31T11:14:43.020Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/108660/tutu-dutch-antilles-bean-porridge/",
+          "name": "Tutu (Dutch Antilles Bean Porridge)",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/220/side-dish/beans-and-peas/",
+                  "name": "Beans and Peas"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

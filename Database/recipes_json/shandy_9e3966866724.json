@@ -1,0 +1,193 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/149943/shandy/",
+  "extracted_at": "2026-10-18T02:03:18.155570+00:00",
+  "recipes": [
+    {
+      "name": "Shandy",
+      "ingredients_raw": [
+        "1 (12 ounce) bottle lager-style beer",
+        "0.5 cup prepared lemonade"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Pour beer into a pint glass; top with lemon-lime soda."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Shandy",
+        "datePublished": "2014-01-31T18:32:39-05:00",
+        "dateModified": "2024-04-04T06:00:14-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chocoholic"
+          }
+        ],
+        "description": "A shandy is simply a lager beer topped with lemon-lime soda to make a fruity and refreshing drink perfect for summertime or a lighter drink anytime.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/oMTmG1ieajiRa63Xh36VyKM8QUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103119-89f70f4374dd431ba3a83a7617cb7986.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Shandy",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "7"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "Uk And Ireland",
+          "British"
+        ],
+        "recipeIngredient": [
+          "1 (12 ounce) bottle lager-style beer",
+          "0.5 cup prepared lemonade"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Pour beer into a pint glass; top with lemon-lime soda."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "britchick"
+            },
+            "reviewBody": "Hi we drink this in england all the time. But what we call lemonade is not the same as american lemonade, it is a lemon and lime soda like sprite or seven up. I can't imagine this would be good with american lemonade so give it a try with the soda, you won't be disapointed."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debster"
+            },
+            "reviewBody": "This is a nice summer quencher. One of our local breweries makes a \"Summer Shandy\" beer but I find this recipe more to my liking.",
+            "datePublished": "2013-06-22T08:35:26.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I drink this all the time; very refreshing! I use Fresca, less calories :)",
+            "datePublished": "2013-06-21T14:36:57.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cjbbrussels"
+            },
+            "reviewBody": "I have made my own and have had them in England. They are not made with American lemonade, but with 7up, fanta, sprite or another lemon lime soda.",
+            "datePublished": "2013-06-21T02:38:15.357Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/149943/shandy/",
+          "name": "Shandy",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/186/everyday-cooking/seasonal/",
+                  "name": "Seasonal"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/630/everyday-cooking/seasonal/summer/",
+                  "name": "Summer"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2777/everyday-cooking/seasonal/summer/drinks/",
+                  "name": "Drinks"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

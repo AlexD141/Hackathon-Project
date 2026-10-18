@@ -1,0 +1,447 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13849/oven-roasted-red-potatoes/",
+  "extracted_at": "2026-10-18T01:55:21.892490+00:00",
+  "recipes": [
+    {
+      "name": "Oven Roasted Red Potatoes",
+      "ingredients_raw": [
+        "2 pounds red potatoes, halved",
+        "0.33333334326744 cup olive oil",
+        "1 (1 ounce) envelope dry onion soup mix"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Combine red potatoes, olive oil, and soup mix in a large resealable plastic bag; seal bag and shake until potatoes are fully coated. Pour potatoes into a medium baking dish."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven, stirring occasionally, until potatoes are tender, about 40 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Oven Roasted Red Potatoes",
+        "datePublished": "1999-11-14T08:27:18-05:00",
+        "dateModified": "2026-06-01T16:26:09-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Donna Lasater"
+          }
+        ],
+        "description": "Red potatoes seasoned with onion soup mix are roasted in a hot oven until crispy. This tasty potato side dish is ready to serve in less than an hour!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/nEkd7eLzgWnrP6nVaNuUC-YlHhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13849-oven-roasted-red-potatoes-VAT-Beauty-4x3-e712c2a5e485480c8b52a149a2b84b22.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/My043WHY-ma1DlVvV.mp4",
+          "description": "AR0200",
+          "duration": "PT2M2S",
+          "name": "Oven-Roasted Red Potatoes",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/My043WHY/thumbnails/pEAAoLdp.jpg?width=1280",
+          "uploadDate": "2021-06-30T10:23:20-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Oven Roasted Red Potatoes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "1402"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "171 kcal",
+          "carbohydrateContent": "20 g",
+          "fiberContent": "2 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "317 mg",
+          "sugarContent": "2 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds red potatoes, halved",
+          "0.33333334326744 cup olive oil",
+          "1 (1 ounce) envelope dry onion soup mix"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine red potatoes, olive oil, and soup mix in a large resealable plastic bag; seal bag and shake until potatoes are fully coated. Pour potatoes into a medium baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/nEkd7eLzgWnrP6nVaNuUC-YlHhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13849-oven-roasted-red-potatoes-VAT-Beauty-4x3-e712c2a5e485480c8b52a149a2b84b22.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven, stirring occasionally, until potatoes are tender, about 40 minutes."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AMY LAMPERT"
+            },
+            "reviewBody": "I took the advice that my fellow chefs offered and did the following: I mixed about 3/4 chunked red potatoes and 1/4 baby carrots; I used garlic oil instead of olive oil; I roasted them on heavy duty foil sprayed with Pam on a cookie sheet; I added fresh garlic, salt and pepper to the marinade; I marinated the veggies for a while first in the refrigerator; I sprinkled the top with seasoned salt and fresh ground pepper before I put it in the oven; I baked it at 350 for an hour tossing halfway through. I didn't even realize that I had pulled out and opened a savory garlic and herb mixture instead of onion soup until I dumped it into the bag, but it was really good this way and worked really well with the meat I was serving. My only complaint that it was a little wet still after an hour. I might cut down on the oil next time, but I'm definitely making this all the time and experimenting with my flavors. Yum! Quick, easy and mess-free with foil. We loved this. NOTE: From now on when I make this I cook it for the first half hour at 350 degrees and then for 20 more minutes at 400 degrees. It helps to make the potatoes nice and crispy, sweetens up the carrots and helps me get dinner on the table a little bit faster. I've made this with the onion soup mix too. My husband prefers that oniony taste, but we both love any version of this. I make it all the time now. SO EASY!!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "These potatoes are sooo good! Instead of using a baking dish, I spread them out on a cookie sheet. They came out crispy on the outside, and cooked perfectly. Try these!",
+            "datePublished": "2002-11-28T13:47:10.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SilverTimer9891"
+            },
+            "reviewBody": "Wonderful. Made these for an after Christmas party / white elephant gift exchange for 12 people. They were a hit (along with a salad, a vegetarian chili and beef brisket for meat eaters). I made a few minor changes. With 12 mouths to feed, I upped the weight of the red potatoes to 3 lbs and used 1/2 cup of olive oil. The recipe says that the potatoes are \"halved\". Not a good idea ... I had a mix of small fingerlings and more normal-sized red potatoes. The small fingerlings were halved but the normal size potatoes were cut into eighths. I stayed with the single pouch of dry onion soup mix. Mixed the ingredients in a large metal bowl (instead of the suggested bag) and popped them into a 5 Qt (11\" x 15\" x 2\") glass baking dish. The 3 lbs of cut up red potatoes covered the bottom of the baking dish pretty much in a single layer (they were not spaced apart, but were touching each other). I liked using the metal bowl to mix the potatoes as I could use a flexible spatula to move unadhered bits of the onion soup mix onto the layer of potatoes. Baked at 450 F as suggested. One reviewer said that temperature is too high and said that the something got burned. Thankfully that did not happen to me as I was making this recipe for the first time. The bits of onion ended up being lightly caramelized, but that is part of the goodness of these potatoes. Guests asked me for this recipe. I know that my oven runs on average a bit cool ... when set to 450 it averages around 435 or 440 F. Not enough to make a big difference. I didn't pay a lot of attention to the length of time they were in the oven. Guests were showing up about the time I popped the baking dish into the oven and you know how that goes. But if I over baked them it wasn't by much and these potatoes were very forgiving of my lack of attention to the clock. Maybe I lucked out and got the time just right. I'll make these potatoes again and again. A nice simple recipe with a great outcome.",
+            "datePublished": "2023-12-30T20:31:00.609Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lauri J"
+            },
+            "reviewBody": "The beauty of this website is you can read the recipe as written and then read the reviews and see what worked and what didn't for different people, This is what I did. I boiled the potatoes first just till I could stick a fork in them, then drained them. Coated them with 1/3 cup of olive oil. Then sprinkled garlic salt, oregano, onion powder, and pepper all over them. Baked them in a 400 degree oven for 20 minutes, then turned it down to 350 and baked another 20 minutes. Pulled them out of the oven and cut them in half and covered the tops with freshly grated parmesan cheese. Baked them till the cheese melted. They were really yummy! Yes its a little work, but definitely worth it!",
+            "datePublished": "2021-01-31T21:56:57.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "paula bains"
+            },
+            "reviewBody": "These potatoes were spectacular! I used the baby reds and cut in half. Mushed up Knorr's soup mix with olive oil in a plastic bag until dissolved. Added 2 piches of crushed up Rosemary. Put the potatoes in and rolled around until covered and let it sit about 30 minutes. I pre-heated the oven at 400 with a large cast iron pan. Put the potatoes and liquid in the pan, back in the oven for 20 minutes, flipped over and gave it another 25 until crispy. My husband and guest raved about them!",
+            "datePublished": "2013-03-16T05:33:40.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eman"
+            },
+            "reviewBody": "I quartered the potatoes and tossed with 1/4 C diced onions + 2 minced cloves garlic + salt/pepper + drizzle of olive oil. Roasted at 450 for 35-40 minutes.",
+            "datePublished": "2020-08-17T22:47:12.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Hacker"
+            },
+            "reviewBody": "I know most people say if you alter it, it's not the recipe. I disagree. Here you have a foundation recipe. I used hidden valley ranch seasoning and garlic powder. I also cute my potatoes smaller and went with 350 with the potatoes spread on a sprayed cookie sheet for 30 minutes. Stirred them around a bit, upped the temp to 400 and baked 20 more minutes. My 11 year old daughter was upset that she had to eat a few of them for dinner. Turns out it was her favorite part of the meal and I had served a delicious flank stank to go along with it! Seriously superb foundation recipe!",
+            "datePublished": "2019-06-10T23:43:19.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mrs_vinita"
+            },
+            "reviewBody": "Made this tonight and loved it! I wanted something a little different to do with our baby red potatoes that would go well with our sandwiches and this was it. After reading other reviews I went ahead and quartered my potatoes and added sliced carrots. To the marinade I added garlic powder (yumm) and pepper. Baked in a foil lined cookie sheet (sprinkled lightly with kosher salt before popping in the over) @ 350 for a half hour, turned, finished baking @ 400 for another 15 minutes. So yummy! Will be making again.",
+            "datePublished": "2012-09-17T18:36:59.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rob Parr"
+            },
+            "reviewBody": "Like so many others, DO NOT bake these potatoes any higher than 375 degrees. No reason to. Give them an extra 25 minutes or so and nothing burns such as the onions. I, like another commenter, used a garlic/white wine marinade versus onion soup mix and threw in some baby carrots. Yeah...guess that completely changed the outcome but it was very good.",
+            "datePublished": "2023-04-12T01:15:25.444Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "seablue2u"
+            },
+            "reviewBody": "Great idea to use Onion Soup mix to coat. We made this, w/added onion, zuchinni, &amp; cauliflower--marinaded for a while with olive oil and onion soup mix. Followed the above reviewers advice, and cut oven time to 350 for 30 mins, then removed the cauliflower and zuchinni. Turned oven up to 400 for 20 more mins for the red potatoes, and BOY was it delish!!! Yum, yum, yum!!! Will DEFINITELY make again. Might even become a fav of the family!",
+            "datePublished": "2012-05-17T18:00:25.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie Wiederhold"
+            },
+            "reviewBody": "This was so easy to make. Thank you for the great starting point. I added garlic powder, dried rosemary and parsley. I lowered the temperature to 350 degrees and cooked for an hour. This will be made again for sure as both my husband and I loved it.",
+            "datePublished": "2024-10-12T23:29:57.448Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie B"
+            },
+            "reviewBody": "Everyone loved them!",
+            "datePublished": "2026-02-15T22:08:47.838Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Manon"
+            },
+            "reviewBody": "Super easy to prepare and the entire family love it...we add tick slice of carottes to the mix and it's great",
+            "datePublished": "2025-06-10T22:42:06.688Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "J3nnif3r"
+            },
+            "reviewBody": "Easy &amp; tasty!!!",
+            "datePublished": "2025-05-24T21:18:22.866Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KevinJD"
+            },
+            "reviewBody": "Added a little salt &amp; pepper. Was good!",
+            "datePublished": "2025-02-12T22:26:31.209Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadRib3017"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-25T21:53:30.526Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Armstrong"
+            },
+            "reviewBody": "Cooked at 350 with my meatloaf for an hour. Perfect.",
+            "datePublished": "2024-09-30T23:07:14.314Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vicdic"
+            },
+            "reviewBody": "I made it, the only change is I added a little garlic powder. They taste great and couldn't be easier.",
+            "datePublished": "2024-09-10T20:49:49.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "laddeugene"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-08-18T18:01:54.428Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DreamyWheat4602"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-30T17:15:52.605Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13849/oven-roasted-red-potatoes/",
+          "name": "Oven Roasted Red Potatoes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+                  "name": "Potato"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1458/side-dish/potatoes/roasted-potatoes/",
+                  "name": "Roasted Potato Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

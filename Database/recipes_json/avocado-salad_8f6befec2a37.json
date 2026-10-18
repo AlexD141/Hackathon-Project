@@ -1,0 +1,463 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/19960/avocado-salad/",
+  "extracted_at": "2026-10-18T02:41:31.231073+00:00",
+  "recipes": [
+    {
+      "name": "Avocado Salad",
+      "ingredients_raw": [
+        "2 avocados - peeled, pitted and diced",
+        "1 sweet onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 large ripe tomato, chopped",
+        "0.25 cup chopped fresh cilantro",
+        "0.5 lime, juiced",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine avocados, onion, bell pepper, tomato, cilantro, and lime juice in a large bowl."
+        },
+        {
+          "id": 3,
+          "text": "Gently toss until evenly coated. Season with salt and pepper."
+        },
+        {
+          "id": 4,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Avocado Salad",
+        "datePublished": "2000-07-03T12:23:37-04:00",
+        "dateModified": "2026-01-22T17:24:09-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Endresen"
+          }
+        ],
+        "description": "This avocado salad with sweet tomatoes, onion, cilantro, and rich and creamy avocados is dressed with lime juice for a refreshingly easy summer salad.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/OrtJTuzMCKTXe2wiZKFcR4wWDuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19960-avocado-salad-VAT-001-4x3-64241afdc3b04d00a9372e1573eac6f7.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/JzcYUomV-K3AjnAEN.mp4",
+          "description": "Dive into the world of freshness with our captivating video on how to make Avocado Salad! In this mouthwatering tutorial, we guide you through crafting a vibrant salad that celebrates the creamy goodness of avocados. Discover easy steps, essential ingredients, and a homemade dressing that elevates the flavors. This simple recipe promises a healthy and delicious salad, perfect for any meal. ",
+          "duration": "PT22S",
+          "name": "How to Make Avocado Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/JzcYUomV/thumbnails/y3Sd4uj5.jpg?width=1280",
+          "uploadDate": "2023-12-19T10:34:01-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Avocado Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "343"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "126 kcal",
+          "carbohydrateContent": "10 g",
+          "fiberContent": "6 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "9 mg",
+          "sugarContent": "3 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 avocados - peeled, pitted and diced",
+          "1 sweet onion, chopped",
+          "1 green bell pepper, chopped",
+          "1 large ripe tomato, chopped",
+          "0.25 cup chopped fresh cilantro",
+          "0.5 lime, juiced",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/WNkyD8e0aNr8pHpUrTiNxQTjUcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19960-avocado-salad-VAT-003-step-01-402e8380437b4bb597f2fc5e0c405410.jpg"
+              }
+            ],
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Q0DKJwcgxprjnmRRXeZ_BfzISe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19960-avocado-salad-VAT-004-step-02-aa1034d82e844755a65949f84bd15870.jpg"
+              }
+            ],
+            "text": "Combine avocados, onion, bell pepper, tomato, cilantro, and lime juice in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/LGEJbC4LMm4c8wHF47rmCS-kEUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19960-avocado-salad-VAT-005-step-03-7e946ca990be4b9797c2d06ec496208c.jpg"
+              }
+            ],
+            "text": "Gently toss until evenly coated. Season with salt and pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OrtJTuzMCKTXe2wiZKFcR4wWDuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19960-avocado-salad-VAT-001-4x3-64241afdc3b04d00a9372e1573eac6f7.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDA MCLEAN"
+            },
+            "reviewBody": "Wonderful salad John. I used red onion, red bell pepper for color, lemon instead of lime, parsley instead of cilantro (hate it) my usual garlic and onion powders and served it over some baby spinach. Read how someone rated this low due to under ripe avacados? Don't quite get that, however, just so no one else makes the same mistake, the avacado should be dark and give a bit when you press it. A couple of days in a paper bag on your counter (not in the fridge) will ripen them nicely. Thanks for a great recipe John!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LIZCANCOOK"
+            },
+            "reviewBody": "Delicious! If you cut your avocado in large enough chunks then even the leftovers won't remind you of quacamole. I used a orange bell pepper to add more color, extra lime juice, dried cilantro (sorry, its all I had!) and added 2T of olive oil.",
+            "datePublished": "2008-06-06T07:04:17.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MIGHTYMOMMA"
+            },
+            "reviewBody": "I usually do not save left over salad. But this one I did!!! I really loved this one!!The only thing I changed with this recipe was to add some red pepper along with the green pepper!",
+            "datePublished": "2005-09-29T23:47:23.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jane Lightle"
+            },
+            "reviewBody": "This sounded like a good idea and I had lots of ripe avos to use. I added 1/2 cup of feta cheese, 1 cup of diced chicken breast, 10 strawberries, 3 chopped scallions, on chopped Fijian apple and some grapes. Served it as a meal on top of fresh spring lettuce. Very tasty. The avo becomes like a creamy dressing when you stir the salad.",
+            "datePublished": "2007-09-16T13:08:27.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BUCKYS"
+            },
+            "reviewBody": "This recipe is a keeper! It is halfway between a salad and a fresh salsa and is a delicious sidedish for grilled meat. I did not have sweet onion on hand so I substituted 1/4 finely chopped red onion. The color was gorgeous and the flavor was excellent. This is the type of recipe where you can make endless variations and it will still taste great. Thanks for sharing it!!",
+            "datePublished": "2004-03-23T07:43:58.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherri"
+            },
+            "reviewBody": "I made this for dinner last night. It made enough for three nice sized salads. I used a red onion and orange bell pepper. Salad was very pretty and just fresh lime juice makes it very refreshing. I find when making a lime dressed salad, it is best to let it sit for about 30 minutes before serving, then give a nice toss...brings out the flavors of each vegetable and the lime isn't overpowering.",
+            "datePublished": "2012-03-04T09:21:59.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becca Gleichman"
+            },
+            "reviewBody": "I love this salad! I double it. I add 4 ears of fresh corn, cut off the cob. A jalapeño if I have one, red pepper instead of green, a container of cherry tomatoes, and a little minced garlic. Heavy on the cilantro. Delicious.",
+            "datePublished": "2022-11-19T04:16:49.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bonnie Lee Bobbs"
+            },
+            "reviewBody": "We thoroughly enjoyed this salad—simple but very satisfying. We whisked together the lime juice with cilantro paste (in place of fresh), salt and pepper then added a few dashes of green Tabasco sauce. Perfect punch!",
+            "datePublished": "2024-04-19T10:28:35.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MARATHONMOMM"
+            },
+            "reviewBody": "Delicious. Cut all the vegetables except onion into bigger pieces so that it was less of a \" chopped salad\". Added boiled shrimp tossed in lime, crushed red pepper flakes. So fresh and healthy.",
+            "datePublished": "2010-07-19T21:00:12.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ILOVEBEINGAMAMA"
+            },
+            "reviewBody": "I loved this recipe! Being that I'm a huge fan of lime and cilantro, I doubled those ingredients. I served this to company at my home along with chili, black bean salad, Mexican-style cornbread, and Corona beer with limes. All the recipes with the exception of the chili were found on this website. And all were great! The whole meal was enjoyed by all.",
+            "datePublished": "2005-01-27T14:48:46.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mommyluvs2cook"
+            },
+            "reviewBody": "Delicious!! Had to use an orange bell and added some chopped serrano peppers. Perfect and refreshing!",
+            "datePublished": "2011-02-25T10:24:59.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joli Ballard"
+            },
+            "reviewBody": "First, I need to ask how to keep the avocado from getting smooshy after adding the lime juice and tossing. BUT let me tell you! My little Hates raw onions, and tomatoes that do not come from our garden as well as raw green peppers. He DEVOURED this and went back for seconds! Our family of 4 paired this with smoked salmon…. Ended up with zero leftovers…. Made exact recipe.",
+            "datePublished": "2026-07-30T17:33:31.935Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin"
+            },
+            "reviewBody": "It was a easy recipe to do for dinner",
+            "datePublished": "2026-07-28T01:11:24.995Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheryl Woods"
+            },
+            "reviewBody": "Very fresh and crunchy!",
+            "datePublished": "2026-05-21T23:25:39.085Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zhenzhou"
+            },
+            "reviewBody": "it was bad very bad",
+            "datePublished": "2026-03-05T18:38:05.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Daisy"
+            },
+            "reviewBody": "it was soooo easy to make and it was soooo goood",
+            "datePublished": "2026-03-04T22:50:09.888Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "anitawarren"
+            },
+            "reviewBody": "I added oil. I added a lot of salt. At the end I added a few garbanzo beans. I'm glad I tried it but there are so many recipes I like--I won't be making this again.",
+            "datePublished": "2025-11-04T15:50:08.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie"
+            },
+            "reviewBody": "Easy and quick, a great side for salmon.",
+            "datePublished": "2025-09-26T21:40:23.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trillian"
+            },
+            "reviewBody": "This salad is so fresh and flavorful! I like serving this with pollo con crema or the wonderful taco casserole (both on this site). If I have it, I like to grill corn on the cob and use that in the salad for a smoky flavor, but frozen corn works just as well. I like to add some chopped green onion and sometimes I use shallots or red onions. I add some minced garlic and about 1/8 tsp cumin and sub a yellow or orange pepper for added color. I want the flavors to meet and have a chance for a brief conversation, so I rest the salad in the fridge for at least an hour before serving. Thanks for a great recipe!",
+            "datePublished": "2025-09-17T15:09:47.475Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carolnab"
+            },
+            "reviewBody": "Wonderful colorful salad for lunch or a side for dinner! The only real change I made was adding lemon juice because I couldn’t find my lime juice, but then I found my lime juice so the salad got both. I also bought the onions, green peppers and red peppers already pre-chopped in a package from the supermarket, so the only chopping I did was for the avocado and the cherry tomatoes. can’t wait to make this again!",
+            "datePublished": "2025-06-23T19:23:47.347Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/19960/avocado-salad/",
+          "name": "Avocado Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

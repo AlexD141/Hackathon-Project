@@ -1,0 +1,438 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221304/perfect-breakfast/",
+  "extracted_at": "2026-10-18T03:13:13.515301+00:00",
+  "recipes": [
+    {
+      "name": "Perfect Breakfast",
+      "ingredients_raw": [
+        "2 teaspoons butter",
+        "2 eggs",
+        "1 slice sourdough bread, toasted",
+        "Dijon mustard",
+        "0.5 avocado - peeled, pitted, and sliced",
+        "2 tablespoons grated Parmesan cheese, or more to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Melt butter in a skillet over medium heat. Add eggs and cook until whites are mostly firm. Break yolks and continue cooking until eggs are set and no longer runny, 2 to 3 more minutes."
+        },
+        {
+          "id": 2,
+          "text": "Spread one side of toasted sourdough with Dijon mustard. Arrange avocado slices on bread and top with cooked eggs. Sprinkle with Parmesan cheese."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Perfect Breakfast",
+        "datePublished": "2017-06-21T09:02:39-04:00",
+        "dateModified": "2025-01-27T17:37:19-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Britty"
+          }
+        ],
+        "description": "Start your day with the perfect breakfast — a delicious open-face sandwich with fried eggs, creamy avocado, Dijon mustard, and Parmesan cheese.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ku0wtc1dR8TEWNL-nFWdJWemRsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2269682-33c6903a209641988b99024246683a4c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/wh0Lseg5-ma1DlVvV.mp4",
+          "description": "Eggs, avocado, Parmesan cheese, and toasted bread come together to make a simple, savory breakfast.",
+          "duration": "PT1M50S",
+          "name": "Perfect Breakfast",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wh0Lseg5/poster.jpg?width=1280",
+          "uploadDate": "2021-07-23T09:17:25-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Perfect Breakfast",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "94"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "501 kcal",
+          "carbohydrateContent": "26 g",
+          "cholesterolContent": "402 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "770 mg",
+          "sugarContent": "2 g",
+          "fatContent": "36 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Breakfast",
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 teaspoons butter",
+          "2 eggs",
+          "1 slice sourdough bread, toasted",
+          "Dijon mustard",
+          "0.5 avocado - peeled, pitted, and sliced",
+          "2 tablespoons grated Parmesan cheese, or more to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Melt butter in a skillet over medium heat. Add eggs and cook until whites are mostly firm. Break yolks and continue cooking until eggs are set and no longer runny, 2 to 3 more minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ku0wtc1dR8TEWNL-nFWdJWemRsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2269682-33c6903a209641988b99024246683a4c.jpg"
+              }
+            ],
+            "text": "Spread one side of toasted sourdough with Dijon mustard. Arrange avocado slices on bread and top with cooked eggs. Sprinkle with Parmesan cheese."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "I love eggs and I love avocados, so I just had to make this! I sauteed some onion, red pepper and a little garlic and scrambled the eggs. Once the egg mixture was done I topped it over the toast. I used some shredded cheddar cheese vs. Parmesan as I had a little left on hand. I made two of these and mine was fabulous all by itself, but to my husband's I added a couple of strips of bacon to take it over the top (plus it was a good way to get my husband to give it a try)! This really is a delicious combination of flavors and \"perfect\" for a hearty breakfast!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jansinsav"
+            },
+            "reviewBody": "You should really try this sandwich! This has become my all-time favorite sandwich. Everybody that I’ve made it for loves it too! You can change it up many different ways. The first time I made it, I went by the recipe. Since then, I’ve changed it up a bit depending on what I have available in the kitchen. Here’s how I’m eating it today - might be my best one yet:\nToast your bread (any bread will do, you don’t have to go out and buy a certain bread), spread with Dijon mustard (again, use your favorite mustard, whatever you have in the fridge), I had homemade pimiento cheese that I spread on top of the mustard, I had some leftover sautéed mushrooms, onions and red bell pepper that went right on top of the pimento cheese, fried egg (I use 1 per sandwich) seasoned with salt and pepper and sprinkled with shredded Parmesan cheese went on top of the veggies and topped off with sliced avocados. Oh my word!!! Be prepared to adore this open-faced sandwich!! PS. My husband prefers his with some kind of meat, so I put a couple slices of ham or turkey sandwich meat or bacon on his and he also prefers another piece of toast on top instead of open-faced. The variations are endless! Thanks for the recipe!",
+            "datePublished": "2018-06-21T16:30:22.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KrispyKallieKooking"
+            },
+            "reviewBody": "Really enjoyed this. \n\nI cooked the eggs overeasy leaving the yokes runny. Also I took another reviewers suggestion and added bacon which I heartily recommend. All in all a healthy and filling breakfast.",
+            "datePublished": "2012-05-28T06:26:01.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patricia Barnes Milland"
+            },
+            "reviewBody": "We loved it. I took some suggestions such as adding sliced (fresh local grown) tomato, used grated cheddar, buttered the toast (garlic/herb sourdough) and added equal amounts of Dijon and Mayonaise, 1/2 avocado, with organic bacon on the side. Delicious, fast and easy - and flexible.",
+            "datePublished": "2017-07-30T20:08:50.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa Kilgore"
+            },
+            "reviewBody": "When it comes to all things kitchen, I'm a novice, so I wouldn't have thought to put these together. Bread and eggs, yes, but not the avocado, and I was especially skeptical of the mustard. \nI ended up scrambling my eggs, and used quality stoneground deli mustard (it was all I had on hand), and added bacon, then ate it as a sandwich (broke my sourdough piece in half so I wasn't eating a monster sized sandwich). \n\nReally good. I tried the same concoction on toasted, buttered sourdough toast, and while still good, the flavor profile was not as complex. The mustard definitely DOES add something, tho if you spread it lightly you dont actually taste it.",
+            "datePublished": "2018-05-26T16:34:20.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Morgan Propper"
+            },
+            "reviewBody": "Delicious! This has become my favorite east breakfast. I would have never thought to put Dijon mustard with eggs but it totally works. I did change it a little bit due lack of ingredients. Here's what I did: I used whole wheat toast instead of sourdough. I spread butter into the Dijon then mashed the avocado onto the toasted bread. Fried egg on top of that then put a couple slices of bacon and sprinkled feta cheese on top instead of parmesan . I made this for a friend and she absolutely loved it.",
+            "datePublished": "2017-09-06T16:08:30.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AtLeastChinese"
+            },
+            "reviewBody": "This was amazing. I had to substitute ingredients to use what I had on hand. I made two servings and only used 3 eggs. Substituted items were: Sourdough to whole wheat bread, mustard to cilantro dressing from Trader Joes, and parmesan to feta cheese. I sprinkled some pink salt on the avocado. And I used half an avocado on each slice of toast. I didn't scramble up the eggs and I loved how it turned out. I sprinkled some pepper and dried oregano on top.",
+            "datePublished": "2016-08-06T21:24:59.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cass"
+            },
+            "reviewBody": "Very tasty breakfast dish. I used only one egg (sautéed in a bit of olive oil) for each sandwich, and added a slice of Canadian bacon between the avocado and the egg.",
+            "datePublished": "2013-06-02T08:48:42.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bestamjo"
+            },
+            "reviewBody": "Hub raved! I also added heated ham slices &amp; slightly cooked tomato slices. Another suggestion would be to use a sandwich thick slice of bread otherwise it's too tall when serving.",
+            "datePublished": "2020-04-12T18:48:16.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Whitney"
+            },
+            "reviewBody": "Excellent! I served it with eggs lightly scrambled on deli cut rye bread, with tomatoes added and bacon on the side. Loved, loved, loved it.",
+            "datePublished": "2020-01-07T06:17:58.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holiday Baker"
+            },
+            "reviewBody": "I thought this was okay. To bring it to the 300 calorie range I halved all of the ingredients but the avocado. My issue was the dijon mustard didn't really seem to go with this. I think, it is better suited to a lunch sandwich. I also didn't love the parmesan and think cheddar or a softer cheese would have went better with this. I can see reworking this so it all comes together better. It just seemed like a lot of separate components. Maybe, scrambled eggs, mashed avocado, a softer cheese, and get rid of the spicy dijon, would be my changes. I like that this breakfast has 2 sources of protein and it was a break from my usual toast, English muffin, or low-cal muffin with coffee. Note: Video adds mayo, bacon, and tomato. May be the trick to this open faced sandwich/breakfast sandwich.",
+            "datePublished": "2015-01-23T11:41:43.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "StrongFlour2913"
+            },
+            "reviewBody": "Totally ruined by avocado. Why use it?",
+            "datePublished": "2023-06-22T14:25:15.826Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "The Dijon mustard and Parm cheese adds a great twist to avocado toast! Who knew!?! You do need to add S&amp;P to eggs and/or avocado. I also think could be done with one egg. Either way!? Delicious! Thanks Britty!",
+            "datePublished": "2023-01-02T19:40:17.791Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IcyMeal6602"
+            },
+            "reviewBody": "OMG this was the best ever!!!!!!!",
+            "datePublished": "2022-09-15T13:31:58.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LynnZ"
+            },
+            "reviewBody": "AMAZING Quick, easy and delicious! Don’t underestimate the mustard, made a difference! Will add to my favorites. Thank you to your Mom.",
+            "datePublished": "2022-08-06T12:41:29.706Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lizzie"
+            },
+            "reviewBody": "Really good! I made a handful of substitutions because of what ingredients I had on hand and just personal preference, so that was:\nRegular white bread instead of sourdough\nSpicy mustard instead of dijon\nLess butter\nLess parmesan\n1 egg\nSeasoned with salt &amp; pepper\nAdded bacon pieces (would have done slices but all I had was pieces)\nNo avocado (I think this caused my sandwich to be a bit dry. Only reason I didn't add it was because I didn't have any. Otherwise, you should definitely add it)\nDefinitely going to make again.",
+            "datePublished": "2021-04-11T15:42:31.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jtcoosbay"
+            },
+            "reviewBody": "Very tasty way to wake up in the morning! I made it as directed.",
+            "datePublished": "2021-02-09T15:26:49.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Glazed Ham"
+            },
+            "reviewBody": "Delicious, I changed the parmesan cheese with mozzeralla",
+            "datePublished": "2021-01-01T21:55:31.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeanie morrison"
+            },
+            "reviewBody": "Absolutely perfect savory breakfast! I served it with figs on the side and my picky eater guy raved. When I speculated about adding tomatoes he suggested them as a side. A permanent addition to my breakfast repertoire",
+            "datePublished": "2020-08-28T15:57:51.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lim"
+            },
+            "reviewBody": "I did the mayo/mustard combo and toasted rye bread for my wife and I. We both enjoyed it and I'll likely vary the ingredients (bacon &amp; tomato shown in the video sounds good!) when I make it again.",
+            "datePublished": "2020-06-06T20:56:22.360Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221304/perfect-breakfast/",
+          "name": "Perfect Breakfast",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                  "name": "Sandwich Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

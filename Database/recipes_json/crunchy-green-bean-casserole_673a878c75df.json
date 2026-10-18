@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13751/crunchy-green-bean-casserole/",
+  "extracted_at": "2026-10-18T01:54:50.586201+00:00",
+  "recipes": [
+    {
+      "name": "Crunchy Green Bean Casserole",
+      "ingredients_raw": [
+        "4 slices bacon",
+        "2 (15 ounce) cans green beans, drained",
+        "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "1 (8 ounce) can water chestnuts, drained and chopped",
+        "0.75 cup milk",
+        "ground black pepper to taste",
+        "1.3333300352097 cups French-fried onions"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside."
+        },
+        {
+          "id": 3,
+          "text": "Mix green beans, condensed soup, water chestnuts, crumbled bacon, milk, and black pepper together in a 1 1/2-quart casserole dish."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until heated through, about 30 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Stir casserole and top with French fried onions. Bake until onions are golden brown, about 5 minutes more."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Crunchy Green Bean Casserole",
+        "datePublished": "1999-10-05T13:25:44-04:00",
+        "dateModified": "2026-08-25T14:12:35-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Becky Twitchell"
+          }
+        ],
+        "description": "This green bean casserole recipe adds water chestnuts and crispy crumbled bacon to give this classic green bean casserole some added crunch.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/pr9T-DswPlIpiPUx9VEyLY4Gw3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4504877-0e5f5d2542ad4b7199d2d18c51ade037.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Crunchy Green Bean Casserole",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "102"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "506 kcal",
+          "carbohydrateContent": "36 g",
+          "cholesterolContent": "15 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "1322 mg",
+          "sugarContent": "5 g",
+          "fatContent": "37 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 slices bacon",
+          "2 (15 ounce) cans green beans, drained",
+          "1 (10.75 ounce) can condensed cream of mushroom soup",
+          "1 (8 ounce) can water chestnuts, drained and chopped",
+          "0.75 cup milk",
+          "ground black pepper to taste",
+          "1.3333300352097 cups French-fried onions"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix green beans, condensed soup, water chestnuts, crumbled bacon, milk, and black pepper together in a 1 1/2-quart casserole dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until heated through, about 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir casserole and top with French fried onions. Bake until onions are golden brown, about 5 minutes more."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Helen"
+            },
+            "reviewBody": "I always use cheddar cheese soup instead of mushroom when i make green bean casserole-so i used cheddar cheese soup and the bacon was a really big hit-something different than same old casserole-will make it again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lolo the want-to-be cook"
+            },
+            "reviewBody": "Made recipe as suggested and no one liked the water chest nuts (sorry), but they ate it up. \n\nNext time added 1/2 can French fried onion ring to mix and added thick slices of Velveeta chees on top. When baked, added the rest of the can as directed on top. For a kick, tried con casa salsa and added dollops on top instead of Velveeta. Yum",
+            "datePublished": "2021-05-06T16:13:48.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHEZASMITTY"
+            },
+            "reviewBody": "I loved the addition of bacon and water chestnuts. I also added a jar of sliced mushrooms, and put into a crockpot to bring to work as a potluck dish for Thanksgiving. Of course, it did not cook all day, but for just about 2 hours to heat up. I also used frozen beans as I love the color and texture. Thanks for the great recipe! It's fun to change things up a little big once in a while on a traditional dish such as this!",
+            "datePublished": "2006-11-23T06:12:37.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie"
+            },
+            "reviewBody": "10 stars! Today I left the recipe out for my husband to make while I worked. He states the only changes he made was to add more bacon (6 strips) and used SMOKY MAPLE bacon. He used fresh cut (or whole cut green beans - not French style). Was awesome!!!!!!! a new favorite!",
+            "datePublished": "2011-10-30T20:50:01.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RonGoings"
+            },
+            "reviewBody": "Added 1/4 lb of pork sausage instead of the bacon. Added extra mushrooms. Tasted great!",
+            "datePublished": "2024-09-21T01:36:04.608Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "misdmom"
+            },
+            "reviewBody": "This is awesome,but I added a can of cream of celery,used canned milk,and bacon bits.Also,used 1/2 canned and 1/2 fresh green beans and doubled water chestnuts and fried onions.Everyone raved over it!!",
+            "datePublished": "2011-12-23T07:03:58.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Camzmom"
+            },
+            "reviewBody": "This is the best green bean casserole. I got lots of compliments at Thanksgiving yesterday. Everyone loved the water chestnuts. I made a few tiny changes. I mixed about half the onions into the casserole, added a little more bacon and also crumbled some bacon on the top. Yummy!",
+            "datePublished": "2007-11-23T17:11:12.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IMVINTAGE"
+            },
+            "reviewBody": "I uesd real bacon bits to save time &amp; although I chopped the water chestnuts very small, my family didn't like them. Everybody agreed that the bacon was a good addition though. I used 3 cans of seasoned french style green beans, two cans of soup &amp; omitted teh milk. Thanks Becky Twitchell!",
+            "datePublished": "2006-11-27T11:44:49.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hldragonlim"
+            },
+            "reviewBody": "I made this for Easter dinner. Everyone loved the crunch of the waterchestnuts and the flavor of the bacon with the green beans. This recipe is so much better than the traditional green bean casserole I used to make. Here are the changes I made: a little less milk, used a 5 ounce can of waterchestnuts, added plenty of french fried onions and bacon on the inside and on top of the casserole. Thanks for the easy and tasty recipe!",
+            "datePublished": "2010-04-05T06:39:17.457Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jessu"
+            },
+            "reviewBody": "Pretty darn great! The bacon flavor overwhelmed the the green bean flavor, which my mom disliked, my dad loved, and I was neutal about. I used one bag of frozen french cut green beans, Campbells cream of mushroom with garlic, and added, I dunno, maybe like a teaspoon of onion powder.",
+            "datePublished": "2015-11-23T11:22:07.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "deepee"
+            },
+            "reviewBody": "I have been making this recipe for years only with more bacon and frozen petite green beans. It is always a hit.",
+            "datePublished": "2015-11-29T18:24:00.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "melmanmor"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-27T17:54:40.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "auneekgirl2"
+            },
+            "reviewBody": "The bacon is something new the rest of it I've been making with my mother since I was a kid at Thanksgiving. The water chestnuts is common for me and I absolutely love this recipe! The bacon was a nice extra!",
+            "datePublished": "2021-11-26T05:47:29.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlowerGal"
+            },
+            "reviewBody": "This is THE green bean casserole that I enjoy best. The water chestnuts and bacon make all the difference as compared to all the recipes without them. Making it tomorrow again for Thxgiving. Thanks for a great recipe!",
+            "datePublished": "2020-11-26T08:58:33.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry"
+            },
+            "reviewBody": "This was the best green bean casserole. Loved the crunch of the water chestnuts.",
+            "datePublished": "2019-11-29T01:38:31.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jimmy Monday"
+            },
+            "reviewBody": "Added a little shredded cheddar with the onions, turned out excellent!",
+            "datePublished": "2017-11-03T02:56:56.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cookinmama"
+            },
+            "reviewBody": "You had me at bacon :) I left out the water chestnuts because I didn't have any on hand. Other than that, yum!",
+            "datePublished": "2016-11-22T06:03:02.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "iluv2cook"
+            },
+            "reviewBody": "Didn't have bacon so omitted and still tasted great. The water chestnuts added a good crunch to the usual dish!",
+            "datePublished": "2014-12-24T17:47:12.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Rose Stumphf"
+            },
+            "reviewBody": "This was okay, but didn't quite make the cut for Christmas dinner. Only about half of them got eaten.",
+            "datePublished": "2014-01-09T17:57:25.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheryl"
+            },
+            "reviewBody": "I made the original recipe, but revised it a bit when I doubled it for Thanksgiving. Doubled everything, but limited the milk to 1 cup, only used the 1 8oz can of water chestnuts, and just enough of the French fried onions to scatter over the top. Also reserved a few bacon bits to sprinkle over the top. Cutting back on the proportion of milk made it a bit thicker. It was a hit!",
+            "datePublished": "2012-12-02T08:34:35.990Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13751/crunchy-green-bean-casserole/",
+          "name": "Crunchy Green Bean Casserole",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/222/side-dish/casseroles/",
+                  "name": "Casseroles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14357/side-dish/casseroles/green-bean-casserole/",
+                  "name": "Green Bean Casserole Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

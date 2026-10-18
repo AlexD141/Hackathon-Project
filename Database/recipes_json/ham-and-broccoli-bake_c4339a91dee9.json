@@ -1,0 +1,476 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/211166/ham-and-broccoli-bake/",
+  "extracted_at": "2026-10-18T02:48:03.851971+00:00",
+  "recipes": [
+    {
+      "name": "Ham and Broccoli Bake",
+      "ingredients_raw": [
+        "14 ounces whole wheat rotini pasta",
+        "1 (10 ounce) package frozen broccoli",
+        "1 tablespoon olive oil",
+        "2 cups diced fully cooked ham",
+        "1 (15 ounce) jar Alfredo sauce",
+        "0.5 cup 2% milk",
+        "ground black pepper to taste",
+        "1 cup shredded Colby-Monterey Jack cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+        },
+        {
+          "id": 2,
+          "text": "Bring a large pot of lightly salted water to a boil; cook the pasta in the boiling water, stirring occasionally, until tender but not mushy, about 10 minutes. Drain."
+        },
+        {
+          "id": 3,
+          "text": "Thaw the broccoli in a microwave oven until you can break it apart into small pieces."
+        },
+        {
+          "id": 4,
+          "text": "Heat the olive oil in a large skillet over medium heat; cook and stir the diced ham in the hot oil until the edges start to brown, about 10 minutes. Stir in the broccoli and cook and stir until any excess water has cooked away and the ham and broccoli are hot. Pour in the jar of Alfredo sauce and the milk; stir to blend, sprinkle with pepper, and add the cooked pasta. Stir everything together to coat the pasta with sauce and bring to a simmer."
+        },
+        {
+          "id": 5,
+          "text": "Spread the bubbling pasta mixture into the prepared baking dish, top with shredded Colby-Monterey jack cheese, and bake in the preheated oven until the casserole is hot and the cheese is melted and starting to brown, about 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Ham and Broccoli Bake",
+        "datePublished": "2019-04-02T02:52:24-04:00",
+        "dateModified": "2026-05-22T15:00:04-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "mrsembee"
+          }
+        ],
+        "description": "You can come home on a cold day after work, and have this creamy pasta, ham, and broccoli casserole on the table in one hour. It&#39;s made with frozen broccoli, whole wheat rotini, cooked ham, and a jar of Alfredo sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/C0D_YWyubi_v4i1LNuoWQJB-Qpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1432305-ham-and-broccoli-bake-Sugarplum-1x1-1-170f8402f2a04fc880b0ca62e8eaf0a1.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/ls8cs2l3-K3AjnAEN.mp4",
+          "description": "This one’s sure to rise to classic status on your weekly rotation with its pleasing cheesiness and ease of prep. First boil some whole wheat rotini, then thaw some frozen broccoli. Cooked diced ham in a skillet with some hot oil and add the broccoli. Pour in Alfredo sauce, milk and black pepper, then stir in cooked pasta. Spread into a baking dish and top with shredded Colby-Monterey Jack cheese and bake until bubbly and the family can wait no longer!",
+          "duration": "PT1M1S",
+          "name": "Ham and Broccoli Bake",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ls8cs2l3/poster.jpg?width=1280",
+          "uploadDate": "2021-07-20T05:36:35-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Ham and Broccoli Bake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "279"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "649 kcal",
+          "carbohydrateContent": "51 g",
+          "cholesterolContent": "77 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "17 g",
+          "sodiumContent": "1464 mg",
+          "sugarContent": "5 g",
+          "fatContent": "40 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "14 ounces whole wheat rotini pasta",
+          "1 (10 ounce) package frozen broccoli",
+          "1 tablespoon olive oil",
+          "2 cups diced fully cooked ham",
+          "1 (15 ounce) jar Alfredo sauce",
+          "0.5 cup 2% milk",
+          "ground black pepper to taste",
+          "1 cup shredded Colby-Monterey Jack cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil; cook the pasta in the boiling water, stirring occasionally, until tender but not mushy, about 10 minutes. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Thaw the broccoli in a microwave oven until you can break it apart into small pieces."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat the olive oil in a large skillet over medium heat; cook and stir the diced ham in the hot oil until the edges start to brown, about 10 minutes. Stir in the broccoli and cook and stir until any excess water has cooked away and the ham and broccoli are hot. Pour in the jar of Alfredo sauce and the milk; stir to blend, sprinkle with pepper, and add the cooked pasta. Stir everything together to coat the pasta with sauce and bring to a simmer."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/C0D_YWyubi_v4i1LNuoWQJB-Qpw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1432305-ham-and-broccoli-bake-Sugarplum-1x1-1-170f8402f2a04fc880b0ca62e8eaf0a1.jpg"
+              }
+            ],
+            "text": "Spread the bubbling pasta mixture into the prepared baking dish, top with shredded Colby-Monterey jack cheese, and bake in the preheated oven until the casserole is hot and the cheese is melted and starting to brown, about 30 minutes."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debi"
+            },
+            "reviewBody": "If I could I would give this 4 &amp; 1/2 stars. I save 5 stars for super exceptional stuff. My husband loved this and I have to say it was quite good. First I used regular linguini pasta instead of whole wheat rotini. I used 1 (10 oz) container of Buitoni regular alfredo sauce and 1 (10 oz) container of Buitoni light alfredo sauce from the cold case at the grocery store. I have used the jarred varieties of alfredo sauce before and have never been satisfied with the taste of any of them so I thought I would try the more fresh version. I personally think that it was hands down much better than the jarred. I upped the milk to 3/4 cup intead of 1/2 and used 16 ozs of pasta. Then I used Kraft 2% Colby Jack Monterey but used 2 cups so it was a little cheesier. I found the recipe easy to follow and quick to put together. Definetely a keeper. In the future I will make it with shrimp or chicken as well as the ham. Thanks for sharing the recipe mrs. embee."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SunnyDaysNora"
+            },
+            "reviewBody": "What an excellent, easy recipe! I did make a number of small changes but stayed true to the heart of the recipe. I switched out cavatappi for rotini because I have an undying love for cavatappi. I sautéed half an onion and a heaping tablespoon of minced garlic along with the ham. I upped the milk to a full cup and both added all of the Colby-jack to the Alfredo sauce and added a 1/2 cup each of Velveeta and Gouda (what I had on hand). I didn’t cook the broccoli with the sauce since I didn’t want it to get mushy, I just defrosted it and mixed it in with the sauce and pasta at the last minute. I made sure not to smooth out the top before baking since I wanted plenty of crispy bits and texture. After the dish had been in the oven for 15 minutes I sprinkled shaved Parmesan and panko over the top and cooked for another 15 minutes. I decided that I wanted the crispy hits to be a little crispier so I finished it off under the broiler for a couple of minutes. Excellent and easy- and honestly my changes, though plentiful, really were just little adjustments that took this dish from an acceptable weeknight meal to an excellent one the family couldn’t get enough of!",
+            "datePublished": "2018-06-06T20:06:05.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CubbieGirl"
+            },
+            "reviewBody": "This recipe was an excellent, and tasty, use of my leftover Easter ham. Prior to making it I read many of the reviewers suggestions. I cut back on the amount of noodles made to around 10 ounces. I had a scallion left so I thinly sliced it a sautéed it in the olive oil prior to adding fresh broccoli and then the ham. I also used half and half instead of the milk for a slightly creamier taste. As another reviewer suggested, I sprinkled some garlic powder as well as some paprika prior to adding some shredded Swiss cheese (the only cheese I had in the fridge) and then topped it with some panko bread crumbs. All in all fairly fast, tasty meal and the best part was I had basically all the needed ingredients on hand so no need to run to the grocery store..yaa for me!",
+            "datePublished": "2017-04-19T01:39:29.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jayne Niederkorn"
+            },
+            "reviewBody": "The recipe is good, but like others who reviewed it, it needs more sauce and cheese, less pasta. I added two cups of cheese instead of one after reading multiple reviews and my husband made extra homemade alfredo sauce but it wasn't enough to offset all the noodles you are supposed to put in the recipe. I also added extra broccoli and put panco breadcrumbs on top right before putting it in the oven. I addd garlic, onions, espelette ( a type of red pepper ), everyday seasoning without salt, and a few of my own secrets. It tasted great but like I mentioned earlier, it either needed less pasta or more sauce. But I would definitely make it again with the recommended changes. It is a keeper.",
+            "datePublished": "2019-04-27T15:39:23.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JessieG"
+            },
+            "reviewBody": "Super easy and delicious recipe. My oldest (10yr) has seconds and my two little ones ate without argument so that’s a win in my house!! •I do agree it needs 2 jars of sauce instead of 1. I used two based on other reviews and it was perfect. •I used fresh-steam in the bag broccoli because that has less water than the frozen. •I added a little garlic powder and Parmesan to the ham/broccoli/sauce portion and melted it in before adding pasta. •And totally agree covering with foil for the first 25 minutes to keep it from drying out worked great. I then uncovered for the last 5 minutes to get that nice top cheese melty. Will absolutely make again!!!",
+            "datePublished": "2019-11-14T02:56:58.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Suzie"
+            },
+            "reviewBody": "This was a hit and will be made again. \nI made the Alfredo sauce from scratch (Quick and Easy Alfredo Sauce) instead of using the jar only because I didn’t want to go to the grocery store. That added a bit more time to the preparation. And, I used vegetable flavored egg noodles which added a bit more flavor and definitely more color. We had a bit of garden flavored cream cheese left which I mixed with the regular cream cheese that was called for in then Alfredo sauce.\nI cut the recipe in half and it still made a generous amount.",
+            "datePublished": "2018-04-03T01:08:05.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Just Joe"
+            },
+            "reviewBody": "It came out great but there's no need to do the 9x13 part. I just topped with cheese and put it under the broiler until the cheese was brown, then dusted with smoked paprika. 30min from start to finish.",
+            "datePublished": "2026-01-15T00:22:32.379Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lora Jansen Van Ryswyk"
+            },
+            "reviewBody": "I used a little less pasta and a little more broccoli. Delicious! I would recommend covering with foil to hold in moisture during baking. My nine year old and I both called it a family favorite.\nI have to add a bit to my review. We have made this several times but tonight we used some fresh asparagus that I roasted in the oven a few minutes. Wow!!!",
+            "datePublished": "2018-04-04T23:22:32.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "This was really good and a great thing to make with leftover ham. I'm not a huge fan of jarred alfredo sauce and when I opened a jar that we had opened a few weeks ago, I had to toss it due to age. So I made the Alfredo Sauce from this site with roughly 3k likes and it worked like a charm, although I did double it. I also used shells, rather than rotini, as that is our preference in this house when making mac and cheese, added mushrooms and onions, and blanched fresh broccoli in the pasta water for the last two minutes, before adding it to the mix. I also added some pepper, used mozzarella because that's the only type I had on hand. Highly recommend this. Thank you so much!",
+            "datePublished": "2020-12-29T13:43:25.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy Roemen Oldaker"
+            },
+            "reviewBody": "I sautéed onion with the ham and added some dried basil, garlic powder and a pinch of cayenne to the dish. This helped kick it up a bit! I also mixed the cheese in rather than on top and covered with foil to bake to keep from drying out.",
+            "datePublished": "2018-12-27T17:02:58.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doug Stranahan"
+            },
+            "reviewBody": "I made it with shrimp...fully cooked. I finished with blended Italian cheese and used fresh broccoli that I blanched. Came out very nice..will do again and likely add some pepper flake to take it up a notch.",
+            "datePublished": "2018-09-11T21:35:54.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sherry"
+            },
+            "reviewBody": "THIS was so good! Anew favorite!!",
+            "datePublished": "2026-04-25T17:53:03.025Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Jill Sheffield"
+            },
+            "reviewBody": "This was really good! I made a few changes by using regular macaroni noodles and fresh broccoli and I used half and half instead of milk and reduced fat cheddar cheese on top. It came out delicious and I will be making again and again.",
+            "datePublished": "2026-02-02T14:37:39.466Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maggie"
+            },
+            "reviewBody": "Very good! Tweaked a bit for flavor. My husband loved it. Will make again",
+            "datePublished": "2025-05-02T16:31:40.245Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda B"
+            },
+            "reviewBody": "YUM",
+            "datePublished": "2025-03-27T22:44:02.686Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Salocowen"
+            },
+            "reviewBody": "I had to add salt so next time I think I'll add 1 tsp of salt to the mix. Other than that, it was delicious and easy to make.",
+            "datePublished": "2025-03-15T10:20:52.658Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Juliet"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-28T17:03:32.816Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "petefam"
+            },
+            "reviewBody": "we were so surprised how good it wer'",
+            "datePublished": "2024-12-23T08:02:23.651Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marla Canales"
+            },
+            "reviewBody": "This is an awesome recipe. I was looking for an alternative recipe for leftover ham. (I love ham). This is easy and quick. My family ate every bit with no leftovers. I used wide egg noodles because that's what I had on hand. I also used frozen broccoli cuts to cut down on prep time.",
+            "datePublished": "2024-09-03T11:43:20.999Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dcrow"
+            },
+            "reviewBody": "It was good! BUT I cut the pasta to 8 oz/3 cups dry and added an extra cup of ham. Next time I will double the broccoli.",
+            "datePublished": "2024-04-12T02:04:13.659Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/211166/ham-and-broccoli-bake/",
+          "name": "Ham and Broccoli Bake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/673/main-dish/pork/",
+                  "name": "Pork"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/670/main-dish/pork/ham/",
+                  "name": "Ham"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

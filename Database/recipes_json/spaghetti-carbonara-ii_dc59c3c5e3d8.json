@@ -1,0 +1,512 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11973/spaghetti-carbonara-ii/",
+  "extracted_at": "2026-10-18T01:48:01.163420+00:00",
+  "recipes": [
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients_raw": [
+        "1 pound spaghetti",
+        "2 tablespoons olive oil, divided, or as needed",
+        "8 slices bacon, diced",
+        "1 onion, chopped",
+        "1 clove garlic, minced",
+        "0.25 cup dry white wine",
+        "4 large eggs, beaten",
+        "0.5 cup grated Parmesan cheese",
+        "salt and black pepper to taste",
+        "2 tablespoons chopped fresh parsley",
+        "2 tablespoons grated Parmesan cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain, toss spaghetti with 1 tablespoon olive oil, and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Place diced bacon in a large skillet over medium heat; cook and stir until evenly browned, about 10 minutes. Drain bacon on paper towels, reserving 2 tablespoons bacon fat in the skillet."
+        },
+        {
+          "id": 3,
+          "text": "Add 1 tablespoon olive oil to bacon fat in the skillet. Add chopped onion and cook over medium heat until onion is translucent. Add minced garlic and cook until fragrant, about 1 minute. Add wine and cook 1 minute more."
+        },
+        {
+          "id": 4,
+          "text": "Return cooked bacon to the skillet; add cooked spaghetti. Toss to coat and heat through, adding more olive oil if it seems dry or sticks together. Add beaten eggs and cook, tossing constantly with tongs or a large fork, until eggs are barely set. Quickly add 1/2 cup Parmesan cheese and toss again. Season with salt and pepper (remember that bacon and Parmesan are very salty)."
+        },
+        {
+          "id": 5,
+          "text": "Serve warm with chopped parsley sprinkled on top and extra Parmesan cheese at the table."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Spaghetti Carbonara",
+        "datePublished": "1999-03-06T14:15:19-05:00",
+        "dateModified": "2026-09-15T17:55:31-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "SABRINATEE"
+          }
+        ],
+        "description": "This spaghetti carbonara recipe is a classic pasta dish that cooks in 20 minutes with spaghetti and crispy bacon in a creamy Parmesan and egg sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/xM55aJc0-K3AjnAEN.mp4",
+          "description": "This Italian dish is quick-and-easy and has an ingredient that’ll make you want it for breakfast, lunch, or dinner. In this video, Nicole makes spaghetti carbonara with pancetta. First, she explains what pancetta is and what kind of flavor it adds to the dish. See as she uses an egg and cheese mixture, combined with the pancetta and spaghetti noodles, to make a meal that’s fancy enough for when you have company or as you get off work on a weeknight.",
+          "duration": "PT3M24S",
+          "name": "How to Make Spaghetti Carbonara with Pancetta",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xM55aJc0/thumbnails/nelCk8SC.jpg?width=1280",
+          "uploadDate": "2023-03-10T15:02:44-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spaghetti Carbonara",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "2049"
+        },
+        "cookTime": "PT20M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "444 kcal",
+          "carbohydrateContent": "45 g",
+          "cholesterolContent": "118 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "16 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "369 mg",
+          "sugarContent": "2 g",
+          "fatContent": "21 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American",
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 pound spaghetti",
+          "2 tablespoons olive oil, divided, or as needed",
+          "8 slices bacon, diced",
+          "1 onion, chopped",
+          "1 clove garlic, minced",
+          "0.25 cup dry white wine",
+          "4 large eggs, beaten",
+          "0.5 cup grated Parmesan cheese",
+          "salt and black pepper to taste",
+          "2 tablespoons chopped fresh parsley",
+          "2 tablespoons grated Parmesan cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/LPSIsZWpsdooUOxhOIa7HMnhF9E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-II-mfs-036-90ec51f0e7754de6adda908795492517.jpg"
+              }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain, toss spaghetti with 1 tablespoon olive oil, and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gCRgTro_s3HqQNxfy8nwqBH_yG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-II-mfs-037-20aab3a66699487794b61fb034ca15e1.jpg"
+              }
+            ],
+            "text": "Place diced bacon in a large skillet over medium heat; cook and stir until evenly browned, about 10 minutes. Drain bacon on paper towels, reserving 2 tablespoons bacon fat in the skillet."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/rDmqR-Jh5_p73Ldq7s90wsId4v8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-II-mfs-038-abf13f0bd4ad4019aef1ec61032b73f1.jpg"
+              }
+            ],
+            "text": "Add 1 tablespoon olive oil to bacon fat in the skillet. Add chopped onion and cook over medium heat until onion is translucent. Add minced garlic and cook until fragrant, about 1 minute. Add wine and cook 1 minute more."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/x2kLQUknNSEYQCRVQGQxiT7cAfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-II-mfs-041-fc5a6d44a85640d2805c111224a93060.jpg"
+              }
+            ],
+            "text": "Return cooked bacon to the skillet; add cooked spaghetti. Toss to coat and heat through, adding more olive oil if it seems dry or sticks together. Add beaten eggs and cook, tossing constantly with tongs or a large fork, until eggs are barely set. Quickly add 1/2 cup Parmesan cheese and toss again. Season with salt and pepper (remember that bacon and Parmesan are very salty)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg"
+              }
+            ],
+            "text": "Serve warm with chopped parsley sprinkled on top and extra Parmesan cheese at the table."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mystonique"
+            },
+            "reviewBody": "It's a great recipe with some modifications.\n\nAn Italian friend of mine who cooks told me that the proper way to make smooth Carbonara sauce is to combine the beaten eggs with the grated parmesan, and then to pour that mixture onto the spaghetti once the spaghetti has cooled slightly (so that it's still hot, but so that the eggs don't cook and the cheese melts seamlessly into the eggs and pasta). I tried that, and the sauce was unbelievably creamy!\n\nA few other changes I made - I used less pasta, pancetta instead of bacon, and grated a brick of fresh Parmigiano-Reggiano for a sharper flavour - so that was about 3 cups of grated cheese instead of 1 cup. The final product was full of flavour and my guests wanted seconds - and no need to add salt. I didn't use wine because I didn't have any at the moment, but next time I will - it will probably add some interesting dimension.\n\nAlso tips on reheating in microwave - if it's on a high setting, it will cook the egg and the pasta will solidify. I reheat mine on medium heat so the sauce stays creamy."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "SandyT. here -- thanks for all the positive reviews! This recipe is a home adaptation of one from Angeli Restaurant in Los Angeles (where I was pastry chef for four years). The original recipe used cured, unsmoked Italian pancetta bacon (which is delicious if you can find it). Myself, I use applewood smoked American bacon, and usually double the amount in the recipe. All your suggestions (adding cream, peas, mushrooms, etc., or omitting things) are great, because cooking should constantly evolve, depending on the cook. Please continue to let your personal tastes be your guide!",
+            "datePublished": "2002-12-07T16:40:02.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "This is a near perfect and flawless recipe for the classic Spaghetti alla Carbonara. And even it it wasn't, who cares? It's darn good, which is really the only thing that matters. Traditionally this is made with pancetta (an Italian style bacon) but I actually prefer it this way, with regular ol' bacon! Just one suggestion--to ensure a creamy, silky sauce, mix the cheese and beaten eggs together before stirring into the pasta, off heat. Really nothing else to fiddle with or change here, because this is just delicious stuff!",
+            "datePublished": "2008-03-09T20:18:23.487Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LemonLush"
+            },
+            "reviewBody": "My husband is a carbonara snob and loved this - I did use pancetta, however. I think ideas to modify a recipe are very flattering to the Chef who presented it. It's good enough to make it someone elses dish - which is wonderful about this website. Definitely the cream and yes nutmeg, but adding sausage? It is no longer traditional carbonara, but hey... whatever floats your gondola!",
+            "datePublished": "2008-05-23T14:18:45.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "brett7994"
+            },
+            "reviewBody": "Made this for dinner and the whole family loved it! It will be a regular staple in our household from now on it. The only thing I did differently was to add a little more olive oil than what it called for as the last time I made spaghetti carbonara (a different recipe) it had come out a little dry. Also kept back a 1/4 cup of the pasta water to pour over it after all the ingredients were mixed in, as well.",
+            "datePublished": "2023-01-22T19:39:51.708Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Henry"
+            },
+            "reviewBody": "Here's my way... don't use bacon, use pancetta . Also, when using the eggs, you can use the whole egg, but I find separating the three egg yolks works better. Don't forget to use some of that pasta water (a mug full).",
+            "datePublished": "2022-10-15T15:24:02.079Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeremy"
+            },
+            "reviewBody": "My husband made this a few months back and it was just okay ( 2 star rating), BUT then I tried it again and merely followed the advice of one of the reviewers who stated, \"An Italian friend of mine who cooks told me that the proper way to make smooth Carbonara sauce is to combine the beaten eggs with the grated Parmesan, and then to pour that mixture onto the spaghetti once the spaghett has cooled slightly (so that it's still hot, but so the eggs don't cook (that was our problem last time making it dry and sticky) and the cheese melts seamlessly into the eggs and pasta)...\". I followed this to a \"T\" and it was INCREDIBLY CREAMY!!! 5 STAR PLUS!!!!! Here is my husband's previous review (what you can expect when you don't allow the spaghetti to cool): This pasta is just a little bland and dry for my tastes, but I am largly ignorant of what Spaghetti Carbonara is supposed to taste like. That being said, our company loved the dish and said it reminded them of the food they ate while living in France which apparently tends to have a little less zing than American recipes. Maybe I'll try preparing it next time with some salmon mixed in rather than bacon.",
+            "datePublished": "2020-10-18T00:08:40.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen Goltz"
+            },
+            "reviewBody": "This is absolutely delicious. I made it according to the recipe the first time and loved it, but my husband complained it was too dry. So the second time I made it, I added a small bit (2-3 tbsp) of heavy whipping cream with the garlic, onions and bacon and let it thicken for a moment before adding back the pasta. I dispersed the sauce over the noodles- it was not heavy, but very light. Then I combined the parmesan cheese and eggs together as mentioned in another comment and added it to the noodles while still warm. It was a lot less dry and sticky this time and the cream added another dimension of flavor. I will be making this regularly! Thanks for the recipe",
+            "datePublished": "2019-06-16T00:30:53.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeffrey MacNair"
+            },
+            "reviewBody": "Came out delicious. Used the pound of pasta. Had more bacon precooked so it was all in. Used filtered bacon fat that we save in the refrigerator. Came together fast. Used 1/4 Cup sauvignon blanc. Made it in a heavy high walled cast iron pan so when it was time to turn the eggs in with tongs it was on residual heat sitting on the stove. Transferred to large serving bowl that wasn't hot and at that point worked and the parm in so it struck to the hot food not the wall. Had to eat before the salad it was too good to wait!",
+            "datePublished": "2020-07-15T21:50:35.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Raquel Mcfetridge"
+            },
+            "reviewBody": "The flavor was great, but the pasta was a little sticky with not enough sauce, and my husband didn't like it much. Here's what I would do next time: use less pasta (1 lb. is way too much); mix the parmesan with the eggs before stirring into the sauce; add more liquid, whether it's pasta water or wine or cream. I will make it again with these changes, and will review again.",
+            "datePublished": "2017-12-02T03:21:12.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "r1alviar"
+            },
+            "reviewBody": "This is a family favorite and easy to make. I always add a little more wine and Parmesan cheese.(1/2 cup wine and 1 cup cheese). So delicious!!! I also, on occasion, add boneless skinless chicken breasts sliced and cooked separately with a little bacon grease and Italian seasonings for extra something when my husband wants more meat than just bacon. Definitely a crowd pleaser and a keeper!!!",
+            "datePublished": "2020-07-26T23:52:57.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deanna"
+            },
+            "reviewBody": "I have made this recipe several times. It's one of the first Italian dishes I learned how to make as a young girl. It has also become a family favorite in my home",
+            "datePublished": "2026-06-20T14:54:48.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jgnagy"
+            },
+            "reviewBody": "Absolutely delicious. Followed recipe as written, with the exception of pre-mixing the beaten eggs with the parmesan, as someone had suggested. I will definitely be making this again. Thanks for the recipe!",
+            "datePublished": "2026-03-17T23:13:51.528Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maddy"
+            },
+            "reviewBody": "The egg mixture scrambled on me. The taste was good, as everything with bacon is, but what I realized is 4 eggs beaten should be 4 egg yolks beaten. Not the whites. Save the whites to make skinny fries later on. I should of turned off the heat on the pasta, added the bacon and onion mixture and then quickly add in the egg yolks with the cheese, ( egg yolks and cheese mixed together, with a little bacon grease), for a nice sauce , rather than the cooked egg that I ended up with.",
+            "datePublished": "2025-09-20T12:59:41.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eileen"
+            },
+            "reviewBody": "YUMMY 😋",
+            "datePublished": "2025-08-26T22:29:25.354Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Ray"
+            },
+            "reviewBody": "One critical step to improve texture, is to RETURN cooked spaghetti to the pot of boiling water. Dip, drain, &amp; join spaghetti with bacon/onion mixture.",
+            "datePublished": "2025-07-21T10:37:21.989Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat Weiser"
+            },
+            "reviewBody": "This is the best carbonara recipe since we were in Italy! Most definitely a keeper. I'm not crazy about red sauce, so while my husbaand was in hog heaven, I had to find something to eat. Carbonara saved the day for me. I have eaten it in restaurants in the US, but it was never as good as this.",
+            "datePublished": "2025-06-14T03:58:45.934Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuickHoney1391"
+            },
+            "reviewBody": "Firstly - classic carbonara is to be made with guanciale which is hard to find in the U.S. Pancetta and bacon can substitute. Also while the classic carbonara is to be made with pecorino romano, I personally prefer it with parmigiano reggiano. Lastly - this should NEVER be made with garlic. There is zero garlic in classic carbonara.",
+            "datePublished": "2025-06-04T16:58:22.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyFig9824"
+            },
+            "reviewBody": "I used bacon, and I didn't have any white wine, so I just reserved more pasta water. Terrific recipe. Fast and easy..",
+            "datePublished": "2025-05-26T00:14:53.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "J2muw66"
+            },
+            "reviewBody": "Tastes great! I saved a cup of water from the pasta and added it in to keep it creamy. Didn’t have white wine, so used red. And added 3T of cream. I left the mostly cooked bacon in the pan when I added in the onion and garlic. I only had a couple Tbs of onion. I used just a small dab of olive oil when cooking bacon, since bacon grease has lots of flavor. Didn’t drain any grease out, and didn’t add additional olive oil. Just used all the bacon grease that was in the pan! Sauted the onion and garlic in with the bacon. Added the red wine. And then the noodles. After pouring in the egg and cream mixture, I added the pasta water, and then the Parmesan. My eggs curdled a bit, so I may have had it all to hot when I poured the egg/cream mixture in. It tasted great!",
+            "datePublished": "2025-05-22T00:53:05.134Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11973/spaghetti-carbonara-ii/",
+          "name": "Spaghetti Carbonara",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17540/main-dish/pasta/pasta-carbonara/",
+                  "name": "Pasta Carbonara Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

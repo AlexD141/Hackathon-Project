@@ -1,0 +1,473 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11728/italian-lasagna/",
+  "extracted_at": "2026-10-18T01:47:20.217763+00:00",
+  "recipes": [
+    {
+      "name": "Italian Lasagna",
+      "ingredients_raw": [
+        "9 thick slices bacon, diced",
+        "1 medium onion, chopped",
+        "2 (28 ounce) cans tomato sauce",
+        "1.5 teaspoons Italian seasoning",
+        "1 teaspoon fennel seed",
+        "1 teaspoon dried oregano",
+        "2 pounds Italian sausage links",
+        "2 pints part-skim ricotta cheese",
+        "0.33333298563957 cup milk",
+        "2 large eggs",
+        "2 teaspoons chopped fresh parsley",
+        "1 teaspoon dried oregano",
+        "1 (16 ounce) package uncooked lasagna noodles",
+        "8 slices provolone cheese",
+        "6 cups shredded mozzarella cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Make the sauce: Brown bacon and onion in a large pan over medium heat until bacon is crisp and onion is translucent, 7 to 9 minutes. Stir in tomato sauce, Italian seasoning, fennel seed, and oregano. Reduce the heat to low, cover, and simmer until thick, 4 to 6 hours."
+        },
+        {
+          "id": 2,
+          "text": "Cook the sausage: When the sauce is almost ready, brown sausage links in a large skillet. Drain on paper towels and cut into 1-inch pieces."
+        },
+        {
+          "id": 3,
+          "text": "Make the lasagna: Mix ricotta cheese, milk, eggs, parsley, and oregano together in a medium bowl."
+        },
+        {
+          "id": 4,
+          "text": "Spread 1 cup sauce over the bottom of a 9x13-inch pan. Layer with 1/3 of the lasagna noodles, 1/2 of the ricotta mixture, 1/2 of the sausage pieces, 2 cups mozzarella, 4 slices provolone, and 1/3 of the sauce. Repeat layers once more, then top with remaining noodles. Spread remaining sauce over noodles and sprinkle with remaining mozzarella."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven for 1 1/2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Italian Lasagna",
+        "datePublished": "1999-02-06T23:37:57-05:00",
+        "dateModified": "2022-10-11T07:42:48-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "ItalianKitty"
+          }
+        ],
+        "description": "This meaty Italian lasagna is full of bold flavor thanks to a long-simmered tomato sauce, chunks of Italian sausage, and a trio of Italian cheeses.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ptGvhpGWFdZQQ55wMCs-XhcpdAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4378426-fd49e356662348bab2376d6369b374f4.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Italian Lasagna",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "107"
+        },
+        "cookTime": "PT340M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "944 kcal",
+          "carbohydrateContent": "43 g",
+          "cholesterolContent": "195 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "50 g",
+          "saturatedFatContent": "29 g",
+          "sodiumContent": "2127 mg",
+          "fatContent": "64 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "9 thick slices bacon, diced",
+          "1 medium onion, chopped",
+          "2 (28 ounce) cans tomato sauce",
+          "1.5 teaspoons Italian seasoning",
+          "1 teaspoon fennel seed",
+          "1 teaspoon dried oregano",
+          "2 pounds Italian sausage links",
+          "2 pints part-skim ricotta cheese",
+          "0.33333298563957 cup milk",
+          "2 large eggs",
+          "2 teaspoons chopped fresh parsley",
+          "1 teaspoon dried oregano",
+          "1 (16 ounce) package uncooked lasagna noodles",
+          "8 slices provolone cheese",
+          "6 cups shredded mozzarella cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Make the sauce: Brown bacon and onion in a large pan over medium heat until bacon is crisp and onion is translucent, 7 to 9 minutes. Stir in tomato sauce, Italian seasoning, fennel seed, and oregano. Reduce the heat to low, cover, and simmer until thick, 4 to 6 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook the sausage: When the sauce is almost ready, brown sausage links in a large skillet. Drain on paper towels and cut into 1-inch pieces."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Make the lasagna: Mix ricotta cheese, milk, eggs, parsley, and oregano together in a medium bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread 1 cup sauce over the bottom of a 9x13-inch pan. Layer with 1/3 of the lasagna noodles, 1/2 of the ricotta mixture, 1/2 of the sausage pieces, 2 cups mozzarella, 4 slices provolone, and 1/3 of the sauce. Repeat layers once more, then top with remaining noodles. Spread remaining sauce over noodles and sprinkle with remaining mozzarella."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 1 1/2 hours."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 9x13-inch lasagna"
+        ],
+        "totalTime": "PT370M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kjstrom"
+            },
+            "reviewBody": "Wow, this is fabulous. Couple pieces of advice, though. Firstly, just use regular sausage. I don't understand why you'd want to use link sausage in a lasagna recipe. Secondly, DO NOT try to fit all of this into a 9x13 pan. Go out and buy yourself a bigger pan - you'll be very thankful you did. I followed the advice of others and made more sauce, which I did the day before in the crockpot so that I wouldn't have to babysit it. I also assembled the lasagna early in the day and popped it in the oven right before my party. This makes enough to feed a small army. Enjoy!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Liser522"
+            },
+            "reviewBody": "I made this recipe for a holiday party and the ladies all loved it! I think the sauce is what makes the lasagna extraordinary. I was at first hesitant to add bacon but it makes all the difference with the flavor. I did what others suggested and doubled the sauce (actually just added an extra can of tomato sauce). I did not use link sausage but used the other you break up into pieces. I didn't have any fennel either so didn't add it (still good without it). I used all cottage cheese instead of ricotta (too rich for me). I also used the \"oven-ready\" lasagna which made it so much easier (just have to take into account extra baking time). I also cut down on the milk (1/4 cup) since the cottage cheese is runnier than the ricotta. You may not even need the milk. I used parmesan cheese instead of provolone (sprinkled it on top of the mozzarella cheese). To make it somewhat a little healthier I added a layer of fresh spinach! I also used a bigger pan (not that much deeper) to get all of the layers to fit. I ended up baking it for a little longer than the 1 1/2 hours. Served it with a green salad and homemade breadsticks. YUM!",
+            "datePublished": "2011-01-03T22:51:48.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Coach P"
+            },
+            "reviewBody": "Delicious! I used no bake noodles, ground mild Italian sausage, 2 cans of crushed tomatoes instead of sauce, and added small curd cottage cheese to the ricotta (Momma used to do this), and used a x-large foil pan. I also put foil tented over the pan to avoid burning. Removed the foil with 30 minutes left. My guests raved and took home leftovers.",
+            "datePublished": "2017-11-04T19:59:58.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Snowflake"
+            },
+            "reviewBody": "I cut this recipe down to 8, it was impossible to cut in half. I only simmered the sauce about an hour due to time, it was delicous (didn't use fennel-didn't have any). I boiled the noodles &amp; cooked the lasagna for 45 mins. It filled up the 13x9 in pan. This was very good. Might try it again sometime with beef. Thanks. Edit: I made only the sauce today. I cooked the bacon, meanwhile I chopped the onions. I put the bacon on a paper towel lined plate to drain after it was cooked. I then drained out some grease &amp; cooked the onions, chopped up the bacon meanwhile. I put the onions &amp; the bacon in a crockpot. I cooked 1 lb of ground beef in the skillet, drained &amp; added it to the crockpot. I added the sauce &amp; herbs to the crockpot &amp; turned it to low &amp; let it simmer for 8 hours. I served it over spaghetti with bread &amp; butter on the side. This sauce is fantastic!",
+            "datePublished": "2007-07-05T11:31:38.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Abby Urbanek"
+            },
+            "reviewBody": "Personally, I love this recipe. It was the best (and first) lasagna I ever made. I made it for my boyfriend because lasagna is his favorite dish and he said it is the best he has ever had. The only changes I made were I doubled the amount of sauce the recipe called for and I used my favorite pasta sauce instead of tomato sauce. I also partially cooked the noodles before baking. I took the advice of one of the other reviews and didn't add the top layer of cheese until half way in to baking. I can't imagine what the cheese would have looked like if I hadn't. I would recommend waiting to add the cheese. I'm a beginning cook. Very new to this art and I managed to pull this off without any setbacks. Great recipe!",
+            "datePublished": "2011-07-13T16:11:53.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PavloPiccaso"
+            },
+            "reviewBody": "Excellent recipe! My modifications included adding wine (1/3 cup) &amp; garlic (4 chopped cloves) to the tomato sauce, and using a full pound of bacon. It all fits into a 9 x 13 pan - but if you add the extra can of tomato sauce, I can see that it wouldn't. If you are concerned, use the same trick as for baking pies - use aluminum foil around the edges of the pan (I actually used foil from the bottom &amp; up the sides of the pan to ensure no leaking). I am making &amp; freezing some of these lasagnas for guests at our upcoming wedding - they are so good! Thanks for an excellent recipe. :-)",
+            "datePublished": "2011-04-01T06:39:23.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BUSYMOM8"
+            },
+            "reviewBody": "This was the best lasagne ever !! The bacon added a new flavor which was a great addition .. I added 1 lb. turkey and 1/2 lb. ground beef as well to the meats as my husband prefers a meatier sauce .. (browned first of course) .. this made enough for well over 8 people .. I used the larger aluminum pan (don't use 9 x 12) .. and clean up was a breeze .. just toss the pan !! Thanks for a fabulous recipe : ) This is a keeper ...",
+            "datePublished": "2009-05-17T09:27:34.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ALLICAT1998"
+            },
+            "reviewBody": "I was pleased with this recipe. I took the advise of other reviewers and added an extra can of tomato sauce. I also used some crushed garlic and increased the herbs in the sauce. The bacon is an absolute must! You don't really taste the pieces in the finished product, but it makes the sauce so much better. I had 8 cups of mozzarella and ended up using all of it! This definitely makes way more than what can fit into a regular pan. Be prepared to use 2 or a huge roasting pan.\n\nThe final result was pretty good after the modifications. I think it would have been way too dry with the original sauce proportions as I almost ran out even with the extra can. I do think that there was something missing that I just couldn't put my finger on. Next time I will try parmesan instead of the provolone. Though it is a little time-consuming, I will definitely keep this recipe!",
+            "datePublished": "2011-06-18T22:21:29.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peggylee Willoby"
+            },
+            "reviewBody": "PHENOMENAL! \nWe used a bigger pan 15X11 inches and it fit perfect! We also used used ground Italian sausage and the flavor it’s outstanding, we cooked it covered with Aluminum foil. A family of 4-6 will be very satisfied with this amount.",
+            "datePublished": "2019-07-20T20:08:17.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vanessajbaca"
+            },
+            "reviewBody": "This recipe was fantastic. I did add some garlic to the onion at the start, about a tablespoon of red chile pepper flakes (because I like spicy food) and about a half-cup of red wine to the tomato sauce when it was simmering. I used spicy Italian sausage, which gave it a little extra kick, and it won raves.",
+            "datePublished": "2010-08-02T11:39:25.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie-Marisa Anderson"
+            },
+            "reviewBody": "Bacon is the secret",
+            "datePublished": "2025-01-23T22:41:41.775Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestLox6263"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-03-06T20:55:19.431Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "desire51"
+            },
+            "reviewBody": "Would add some veggies but it was good!",
+            "datePublished": "2018-12-07T13:17:36.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nichole Howell"
+            },
+            "reviewBody": "Loved it. To piggy back on t bgg e comments earlier use ground sausage, get bigger pan or do less layers and make extra sauce. Over all great.",
+            "datePublished": "2018-06-28T23:45:41.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mark"
+            },
+            "reviewBody": "Came out of the oven great initially. The leftovers were a little dry when reheated in a microwave. I did not use the bacon.",
+            "datePublished": "2018-06-09T09:05:15.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lyn"
+            },
+            "reviewBody": "I made the sauce in a slow cooker.\nAll the other ingredients were decreased to 2/3.\nI would cover it in future so the top was not so brown",
+            "datePublished": "2017-04-27T03:15:35.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roger Collingwood"
+            },
+            "reviewBody": "I loved this. But I thought it was just a little on the salty side. I think I will use 1lb hamburger and 1lb of sausage next time (I used bulk). But it is a keep of a recipe!",
+            "datePublished": "2014-12-22T14:21:12.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becca Rouco"
+            },
+            "reviewBody": "My husband and I really LOVE this recipe. I now use the sauce part (adding the sausage to it) for additional Italian recipes such as stuffed shells, manicotti, etc. People really love this sauce and ask me all the time about it! (Even people who aren't \"sauce fans\"!) It is definitely a staple in my recipe box. Thank you!",
+            "datePublished": "2014-12-22T12:14:44.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Rose Stumphf"
+            },
+            "reviewBody": "This recipe makes ALOT! It was good, but I should have added more spices, it turned out a little bland.",
+            "datePublished": "2014-09-18T07:24:52.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bill flanagan"
+            },
+            "reviewBody": "great great great. YUMMY",
+            "datePublished": "2014-03-24T17:00:37.300Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11728/italian-lasagna/",
+          "name": "Italian Lasagna",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/502/main-dish/pasta/lasagna/",
+                  "name": "Lasagna Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,455 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13082/tortellini-soup-i/",
+  "extracted_at": "2026-10-18T01:52:09.995916+00:00",
+  "recipes": [
+    {
+      "name": "Hearty Tortellini Soup ",
+      "ingredients_raw": [
+        "1 pound Italian sausage",
+        "1 cup chopped onion",
+        "2 cloves garlic, minced",
+        "5 cups beef broth",
+        "0.5 cup water",
+        "0.5 cup dry red wine",
+        "8 ounces fresh tortellini pasta",
+        "1 cup sliced carrots",
+        "2 cups stewed tomatoes",
+        "0.5 teaspoon dried basil",
+        "0.5 teaspoon dried oregano",
+        "8 ounces tomato sauce",
+        "1.5 cups sliced zucchini",
+        "2 green bell peppers, seeded and cubed",
+        "3 tablespoons chopped fresh parsley"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Remove casings from sausage. Brown sausage and cook until crumbly. Remove meat from pot. Reserve 1 tablespoon drippings."
+        },
+        {
+          "id": 2,
+          "text": "Cook onion and garlic in the drippings until tender. Add broth, water, wine, carrots, tomatoes, basil, oregano, tomato sauce, and the cooked sausage. Bring to a boil; reduce heat and simmer uncovered 30 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Add zucchini, green peppers, parsley, and tortellini. Simmer another 25 minutes, covered, for fresh tortellini, or 45 minutes, covered, for frozen tortellini. Serve with fresh parmesan cheese sprinkled over the top."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Hearty Tortellini Soup ",
+        "datePublished": "1999-02-25T13:59:46-05:00",
+        "dateModified": "2024-09-09T07:31:18-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Donna"
+          }
+        ],
+        "description": "Italian sausage and tortellini are paired in this beef broth based soup with carrots, celery and zucchini. Serve with grated Parmesan cheese.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/4Ne35aZ7V87k2Hy2BPnRjsnlODA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tortellini-Soup-I-My-Hot-Southern-Mess-4x3-1-f0fe497f2bff491285085668b63eba78.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Hearty Tortellini Soup ",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "287"
+        },
+        "cookTime": "PT90M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "240 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "36 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "932 mg",
+          "sugarContent": "5 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 pound Italian sausage",
+          "1 cup chopped onion",
+          "2 cloves garlic, minced",
+          "5 cups beef broth",
+          "0.5 cup water",
+          "0.5 cup dry red wine",
+          "8 ounces fresh tortellini pasta",
+          "1 cup sliced carrots",
+          "2 cups stewed tomatoes",
+          "0.5 teaspoon dried basil",
+          "0.5 teaspoon dried oregano",
+          "8 ounces tomato sauce",
+          "1.5 cups sliced zucchini",
+          "2 green bell peppers, seeded and cubed",
+          "3 tablespoons chopped fresh parsley"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Remove casings from sausage. Brown sausage and cook until crumbly. Remove meat from pot. Reserve 1 tablespoon drippings."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook onion and garlic in the drippings until tender. Add broth, water, wine, carrots, tomatoes, basil, oregano, tomato sauce, and the cooked sausage. Bring to a boil; reduce heat and simmer uncovered 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add zucchini, green peppers, parsley, and tortellini. Simmer another 25 minutes, covered, for fresh tortellini, or 45 minutes, covered, for frozen tortellini. Serve with fresh parmesan cheese sprinkled over the top."
+          }
+        ],
+        "recipeYield": "10",
+        "totalTime": "PT110M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This has to be one of the best soups I've ever made. It has a great flavour, but I did find a pound of sausage to be too much. I will cut the meat down at least by half. I used fairly spicy italian sausage. I omitted the peppers and didn't have parmesan cheese. My husband has already asked for it again!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidirs"
+            },
+            "reviewBody": "Fantastic soup and very open to experimentation. I used turkey sausage and wasn't worried about grease so I just dumped the onions and garlic in with it. No straining at all. I also didn't skin the sausage, just chopped it up finely. A lot less work that way. I used canned carrots, so I didn't do the first 30mins of simmering, just dumped all the ingredients into the pot and simmered for 45mins. I didn't have tortellini, so I used a bag of cheese ravioli. I cut up regular tomatoes instead of stewed. I only had 2Tbs of parsley left. If I made it again, I think I would still only use 2Tbs. I'm worried the parsley might be overpowering with 3. The whole soup turned out fantastic. The broth is delicious.",
+            "datePublished": "2013-07-21T15:17:09.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pampalone"
+            },
+            "reviewBody": "AMAZING base recipe! I doubled parts of the recipe to load it up with lots of veggies and cooked it all in my Dutch oven. I omitted the water and bell pepper. I used sweet Italian turkey sausage instead of pork. I sautéed 4 cloves of minced garlic (we love garlic) with the onion. I added 5 cans of beef broth along with broccoli that needed to be used, carrots, one 12oz can of Hunts whole tomatoes (used kitchen shears to cut them up), one can of fire roasted diced tomatoes, one small can of garlic tomato sauce, added the herbs, and simmered it in the Dutch oven uncovered for 30 min. I then added a package (8oz) of spinach tortellini and a package (8oz) of prosciutto tortellini, diced up one zucchini and two squash. I also sautéed up diced crimini mushrooms and added with the tortellini. Lastly, I substituted dry sherry for red wine (didn’t have any red wine). As the day went on I continued to add cans of beef broth to accompany all the yummy veggies. The juice was one of the best parts of this stew! My husband raved this was the best stew he has ever had…. I must agree. It will become a staple in our household.",
+            "datePublished": "2010-01-17T16:13:18.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen"
+            },
+            "reviewBody": "I've streamlined the recipe a bit to cut down on dishes and ingredients. I brown the sausage in the pot with a little olive oil, 2 Tbsp rehydrated minced onion and 1 tsp jarred minced garlic. When the meat is done, I pour one large can of beef broth over the undrained meat and skip the water and red wine. The rest of the recipe I use as is, sometimes adding chopped spinach or arugala in place of the parsley. This soup is always a hit at our house.",
+            "datePublished": "2008-03-24T05:42:11.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shanda1847"
+            },
+            "reviewBody": "This was great! I used smoked turkey sausage, chicken broth instead of beef, added 1 cup chopped celery, 2 T. tomato paste and 1/2 teaspoon red pepper flakes. Sauteed all veggies in oil, then added tomatoes, broth, tomato paste, pasta &amp; simmered.We loved it. To make it quicker, I plan to cut all veg up &amp; place in one freezer bag. probably wld be good w/orzo pasta too.",
+            "datePublished": "2011-10-28T16:47:06.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GochisosamaDeshita"
+            },
+            "reviewBody": "Hearty, flavorful, healthy... One of those soups that \"hits the spot\". My family loves this! Fabulous recipe as written, but after making this many times, I make a few changes that are purely personal preference. I leave out the water and use 3 cups beef and 3 cups vegetable broth, chop up the stewed tomatoes so there aren't huge chunks (or my kids would never eat it), *julienne* carrots (really does something for the texture), double the zucchini, and omit the bell peppers or halve the amount (too bitter for my liking, I guess), and I like to add a can of kidney beans (drained &amp; rinsed). Fantastic paired with garlic bread sticks!",
+            "datePublished": "2010-06-24T08:03:50.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PAT79"
+            },
+            "reviewBody": "Wonderful flavor, but I found it to be too thick, more like stew. The Tortellini seems to take up quite a bit of the broth. I used 2 cups of beef broth and two cups of chicken broth, plus a cup of water to make up the difference in the total of 5 cups broth. Next time I will add an additional cup or more of water as I found the broth to be plenty rich. I only used a half of a bell pepper, and since I had green beans in my garden, I added some of them. It could use more carrots. Will definitely make again.....",
+            "datePublished": "2009-09-07T13:25:37.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amyhjorg"
+            },
+            "reviewBody": "Wonderful flavor! I used 1 lb. hot sausauge- very good, and an additional can of crushed tomatoes, a 15 oz. can of tomato sauce &amp; stewed tomatoes. I only used 1 large green pepper and it seemed enough for my tastes. I also used dry tortellini and cooked it only half the time reccommended on the packaging. Even better the next day!!! Will definately make this again!",
+            "datePublished": "2009-01-21T14:15:43.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DLWAGNER"
+            },
+            "reviewBody": "I made this recipe for a sick friend and it went over very well. I used ground turkey instead of sausage and yellow pepper instead of green. I used three cheese Buitoni tortellini and added it to the pot about a half hour before serving. Awesome",
+            "datePublished": "2009-01-19T08:03:28.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HAYNIE13"
+            },
+            "reviewBody": "Excellent! I used 2 boxes (32 oz each) of the beef broth with 3/4 cup red wine. I added celery and omitted the bells. I also did it all in one pot. I started to cook the ground pork and when it was 1/2 cooked, I added the onion, celery and garlic. When it was ready, I followed the recipe. I like more tortellini, so that is why I added extra broth. I used 2 cups of uncooked torellini. Excellent recipe! The whole family, including the kids, love it!",
+            "datePublished": "2007-11-11T14:32:43.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jenna4jc"
+            },
+            "reviewBody": "This was a great recipe. I made a few changes though. I left out the wine and water and instead added an extra cup of beef broth. I also used Italian seasoned stewed tomatoes. Instead of bell peppers, I had some whole green beans leftover from dinner the night before and tossed those in during the last 25 minutes. This turned out to be a rich and hearty soup. Yummy!",
+            "datePublished": "2013-03-01T09:22:27.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marygrier"
+            },
+            "reviewBody": "Easy light summer meal. I omitted the green peppers. Added a can of mixed vegetables. And topped with fresh chopped basil.",
+            "datePublished": "2026-08-01T23:55:14.096Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracie"
+            },
+            "reviewBody": "Really good. I used a spicy sausage and it was excellent.",
+            "datePublished": "2026-06-24T18:45:28.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicki"
+            },
+            "reviewBody": "I adapted the ingredients I had on hand, and it turned out perfectly!",
+            "datePublished": "2026-01-24T18:29:41.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ryan"
+            },
+            "reviewBody": "This is one of our go to soups on a cold night. Delicious.",
+            "datePublished": "2026-01-19T17:59:13.942Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joni Barbre"
+            },
+            "reviewBody": "Always a family favorite!",
+            "datePublished": "2026-01-01T17:55:51.076Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "techstu63"
+            },
+            "reviewBody": "This was wonderful, the basic broth and seasonings were great. I used canned diced tomatoes and skipped the carrots (we just don't care for them) and wine but added chopped kale to try and increase the vegetables a little. Alot of reviewers tweaked the recipe and it still turned out wonderful, which shows just how versatile the recipe is.",
+            "datePublished": "2024-11-25T22:11:03.484Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cmach"
+            },
+            "reviewBody": "I made 1/4 of this delicious soup. I prepared and cooked it exactly as written and it was perfect! Thanks!",
+            "datePublished": "2024-03-06T13:49:04.875Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rhelmig"
+            },
+            "reviewBody": "Delicious! Make it as written and you will not be disappointed.",
+            "datePublished": "2024-01-15T00:04:40.244Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betty"
+            },
+            "reviewBody": "I have been making this soup for my family for years! Thank you Donna it is always a hit in the winter time with my family.",
+            "datePublished": "2023-12-21T14:12:40.781Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13082/tortellini-soup-i/",
+          "name": "Hearty Tortellini Soup ",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

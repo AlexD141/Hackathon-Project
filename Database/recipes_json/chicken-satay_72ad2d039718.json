@@ -1,0 +1,451 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17511/chicken-satay/",
+  "extracted_at": "2026-10-18T02:26:41.647079+00:00",
+  "recipes": [
+    {
+      "name": "Chicken Satay",
+      "ingredients_raw": [
+        "2 tablespoons creamy peanut butter",
+        "0.5 cup soy sauce",
+        "0.5 cup lemon or lime juice",
+        "1 tablespoon brown sugar",
+        "2 tablespoons curry powder",
+        "2 cloves garlic, chopped",
+        "1 teaspoon hot pepper sauce",
+        "6 skinless, boneless chicken breast halves - cubed",
+        "wooden skewers, soaked in cold water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "To make the marinade: Combine peanut butter, soy sauce, lime juice, brown sugar, curry powder, garlic, and hot pepper sauce in a mixing bowl. Add chicken breasts, toss to coat, cover, and refrigerate for 2 to 4 hours."
+        },
+        {
+          "id": 2,
+          "text": "Preheat an outdoor grill to high heat; lightly oil the grate."
+        },
+        {
+          "id": 3,
+          "text": "Remove chicken from marinade and shake off excess. Thread marinated chicken onto skewers; discard remaining marinade."
+        },
+        {
+          "id": 4,
+          "text": "Cook on the preheated grill until chicken is cooked through and no longer pink inside, about 5 minutes per side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chicken Satay",
+        "datePublished": "2000-04-20T19:05:42-04:00",
+        "dateModified": "2026-01-26T07:05:40-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "BROWNYN"
+          }
+        ],
+        "description": "Grilled chicken satay skewers made with tender chicken marinated in a delicious homemade peanut sauce flavored with ginger, garlic, and curry powder.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/xOpTwqYX47baUVc9-GANnF7fCas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245250-chicken-satay-CookinBug-4x3-1-4c272e493a494a628eb768a3b7a1ef74.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken Satay",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "575"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "162 kcal",
+          "carbohydrateContent": "4 g",
+          "cholesterolContent": "68 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "29 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "694 mg",
+          "sugarContent": "2 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Thai"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons creamy peanut butter",
+          "0.5 cup soy sauce",
+          "0.5 cup lemon or lime juice",
+          "1 tablespoon brown sugar",
+          "2 tablespoons curry powder",
+          "2 cloves garlic, chopped",
+          "1 teaspoon hot pepper sauce",
+          "6 skinless, boneless chicken breast halves - cubed",
+          "wooden skewers, soaked in cold water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "To make the marinade: Combine peanut butter, soy sauce, lime juice, brown sugar, curry powder, garlic, and hot pepper sauce in a mixing bowl. Add chicken breasts, toss to coat, cover, and refrigerate for 2 to 4 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill to high heat; lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken from marinade and shake off excess. Thread marinated chicken onto skewers; discard remaining marinade."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook on the preheated grill until chicken is cooked through and no longer pink inside, about 5 minutes per side."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT145M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MAGGIE MCGUIRE"
+            },
+            "reviewBody": "With the addition of 2 more tablespoons of peanut butter or \"PBoy\" as my 3yr old niece says, this marinate was truly delicious I pounded boneless skinless chicken breasts to 3/8in, marinated them overnight in this mixture, then baked them at 350 degrees for 35 minutes. Served with rice pilaf and asian coleslaw.The family thoroughly enjoyed this one. Its definitely a keeper,Kiera. Thank you."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CSANDST1"
+            },
+            "reviewBody": "I was surprised at how tasty this was. I altered it a bit and left out the garlic and hot sauce. Marinated the chicken about 5 hours then sauteed the chicken in the marinade. The marinade thickened and clung to the chicken. The only complaint I have using my version is the chicken was a tad salty even though I used low salt soy sauce. My husband declared it one of his favorites and I'll make this again!",
+            "datePublished": "2001-10-19T05:17:15.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brittygreeneyes"
+            },
+            "reviewBody": "This is amazing!! I would give it a 4 as written but here are the changes I have made to make it even better! (combination of suggestions of others and my own instinct): -Double the p.b. (4 tbsp) -Half the curry (1 tbsp) -Reduce the soy sauce to 1/3 cup (down from 1/2c.) -Add extra garlic (I usually do 4 cloves) YUM!!! I've done it grilled but I'm going to see if I can get to taste just as good baked.",
+            "datePublished": "2010-10-27T14:15:46.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DOUGBENME"
+            },
+            "reviewBody": "Wonderful! loved by all family members. Took the advice of others and made slight modifications - 1/3 c soy sauce, 1/3 cup lemon juice (from concentrate here), and 1 tbsp curry, extra garlic. Used red curry paste instead of powder. Doubled the marinade and peanut butter. Peanut butter was the kind with honey (accidental purchase) but it gave an extra sweetness. Marinade was thick and rich so I left it on the chicken as I skewered it. Only marinated 30 min, broiled in oven 5min each side, still wonderful. Made extra marinade for veggie dip and kids couldn't eat enough raw carrots, celery, broccoli. Will definately make over and over.",
+            "datePublished": "2011-03-21T16:49:28.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LatinaCook"
+            },
+            "reviewBody": "This is one of the most amazing things I've ever tasted. I'm serious. This chicken is SO good. I doubled the peanut butter, cut the chicken in strips and broiled the skewers. It is perfect.",
+            "datePublished": "2012-04-10T18:32:29.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dionne Brown"
+            },
+            "reviewBody": "Really good. Substituted 1/2 tsp red pepper flakes for the hot sauce and added 2 tbsp minced ginger to round out the flavor profile. Tasted restaurant-quality and will remain in my entertaining lineup.",
+            "datePublished": "2020-09-27T16:55:48.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoolBran1649"
+            },
+            "reviewBody": "I'd add more pb like people say, or instead you can make peanut dipping sauce (creamy peanut butter mixed with warm water and hoisin sauce). I also cut up some colored bell peppers and threaded those on the skewers along with the chicken. The photo is cut off the skewer on Calrose rice",
+            "datePublished": "2024-07-25T00:40:48.785Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ckelly89"
+            },
+            "reviewBody": "Very tasty!\nI marinated the chicken overnight and cooked in the oven at 350 for 25 min since I don't have a grill.\nI used 4 tbsp peanut butter, and the curry was still a bit overpowering, so next time I would halve the amount of curry (like others have suggested in their reviews). I will probably also decrease the amount of soy sauce and lemon juice and skip the hot sauce. Overall I enjoyed it and will definitely make it again!",
+            "datePublished": "2014-08-26T19:12:00.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather Kelley"
+            },
+            "reviewBody": "easy and tasty. some complain the peanut taste doesn't come through. I used natural peanut butter (no added salt or sugar) and the recipe came out great. after marinating, I threw the whole thing, chicken and sauce, into a pyrex dish and baked it at 350 until a thermometer declared it done. simple and fabulous. thanks for the recipe!",
+            "datePublished": "2017-11-15T12:17:34.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CT C"
+            },
+            "reviewBody": "A big success with my family! Following the advice of others, I doubled the peanut butter and garlic, and reduced the soy sauce by a third. We really loved it and will definitely make again.",
+            "datePublished": "2021-04-26T00:48:57.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tscarisbrick"
+            },
+            "reviewBody": "I followed the recipe exactly as written. The flavor was great; however, I think the 1/2 cup of lime juice affected the texture of the chicken - we found it to be a bit mushy. Next time I may omit the lime juice in the marinade and just squeeze lime wedges (to taste) on the skewers once pulled off the grill.",
+            "datePublished": "2023-01-04T17:10:38.671Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeff Redmon"
+            },
+            "reviewBody": "Chicken Satay is Great! But why is the top Photo showing a Chicken Kabob with Veggies. That is NOT Chicken Satay!",
+            "datePublished": "2025-06-09T20:38:04.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KeenClove6217"
+            },
+            "reviewBody": "I doubled the peanut butter, used the juice of one lime, and slightly less than a half cup of reduced sodium soy sauce based on recommendation. Turned out excellent.",
+            "datePublished": "2025-03-24T08:16:20.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pam-i-am"
+            },
+            "reviewBody": "I cut up a whole chicken and marinated it in this. Only change I made was to use honey instead of br sugar and I added about 1/4 cup yogurt. Amazing flavor!!",
+            "datePublished": "2025-02-02T02:43:16.102Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SJA"
+            },
+            "reviewBody": "Loved it as did my family. I used chicken. Tenders and threaded them on skewers to grill. Scrumptious.",
+            "datePublished": "2024-08-15T16:58:04.015Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Adam"
+            },
+            "reviewBody": "Is was a nice change for my family. I was a little concerned about the curry but it wasn't over powering. I like spicy, so I may increase the Hot Pepper Sauce a but. I used a recommendation about using less Lime juice, but I think I will increase what I did use. But otherwise, it was really tasty. Nice flavors. I made this was Asparagus and Rice.",
+            "datePublished": "2024-07-19T16:27:25.391Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestNaan7945"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-14T04:56:01.466Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sherrington"
+            },
+            "reviewBody": "Use an extra Tbls of peanut butter",
+            "datePublished": "2024-02-13T01:51:00.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SAMDANCE88"
+            },
+            "reviewBody": "This is a great recipe!!!! Perfect for a gathering that requires finger food. The flavor is just right, you're in for a big treat when you make this dish! The only pain is putting the meat on the skewers. Make sure you allow PLENTY of time to marinate the chicken, and spend the couple of extra pennies on GOOD QUALITY spices...my friend tried to make this recipe after having it at my house, and used \"cheaper\" spices...she ended up tossing the whole thing",
+            "datePublished": "2022-12-01T21:48:13.964Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristine Harley"
+            },
+            "reviewBody": "Because the chicken did not get cooked through on the coals I also sauteed it in the rest of the marinade. The marinade was so good I didn't want to waste it. Delicious!",
+            "datePublished": "2021-08-01T02:12:52.960Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17511/chicken-satay/",
+          "name": "Chicken Satay",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/702/world-cuisine/asian/thai/",
+                  "name": "Thai"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

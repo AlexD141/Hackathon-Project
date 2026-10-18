@@ -1,0 +1,223 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217071/carob-fudge-brownies/",
+  "extracted_at": "2026-10-18T03:01:43.013687+00:00",
+  "recipes": [
+    {
+      "name": "Carob Fudge Brownies",
+      "ingredients_raw": [
+        "2 cups whole spelt flour",
+        "1 cup carob powder",
+        "1 teaspoon salt",
+        "2 teaspoons baking powder",
+        "1.5 cups honey",
+        "1 cup strong brewed vanilla hazelnut tea (such as Yogi®)",
+        "0.5 cup heavy cream",
+        "0.5 cup vegetable oil",
+        "2 eggs"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an oven to 350 degrees F (175 degrees C). Mix the spelt flour, carob powder, salt, and baking powder together in a large bowl."
+        },
+        {
+          "id": 2,
+          "text": "Stir the honey, brewed tea, cream, vegetable oil, and eggs together in a separate bowl. Add the honey mixture into the flour mixture, and stir to thoroughly combine; pour into an 8x11-inch baking dish."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center comes out gummy rather than wet, about 45 minutes. Allow to cool before refrigerating overnight for best results."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Carob Fudge Brownies",
+        "datePublished": "2018-06-08T09:58:07-04:00",
+        "dateModified": "2018-06-08T09:58:07-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "cmsa3"
+          }
+        ],
+        "description": "These brownies feature neither sugar nor chocolate, rather they are sweetened with honey and use carob powder and brewed tea to give flavor.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/SoHgYoXZDZ_4NtAuMiVRdJLsGII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/952551-8399f4d7a4cf403aa313f599dd56593b.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Carob Fudge Brownies",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "4"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "205 kcal",
+          "carbohydrateContent": "34 g",
+          "cholesterolContent": "27 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "178 mg",
+          "sugarContent": "24 g",
+          "fatContent": "8 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Lunch",
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "2 cups whole spelt flour",
+          "1 cup carob powder",
+          "1 teaspoon salt",
+          "2 teaspoons baking powder",
+          "1.5 cups honey",
+          "1 cup strong brewed vanilla hazelnut tea (such as Yogi®)",
+          "0.5 cup heavy cream",
+          "0.5 cup vegetable oil",
+          "2 eggs"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 350 degrees F (175 degrees C). Mix the spelt flour, carob powder, salt, and baking powder together in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir the honey, brewed tea, cream, vegetable oil, and eggs together in a separate bowl. Add the honey mixture into the flour mixture, and stir to thoroughly combine; pour into an 8x11-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out gummy rather than wet, about 45 minutes. Allow to cool before refrigerating overnight for best results."
+          }
+        ],
+        "recipeYield": [
+          "20",
+          "20 servings"
+        ],
+        "totalTime": "PT545M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lorrie Henry"
+            },
+            "reviewBody": "It is hard to make a moist, good, and good for you brownie but this recipe is wonderful. The addition of brewed tea really adds to the flavor."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "McEmmy"
+            },
+            "reviewBody": "These were edible and my girls certainly enjoyed them, but I found these to be more cake than brownie. I thinking the baking powder needs to be reduced so it doesn’t puff up like a cake. I’d also reduce the cooking time so it was more fudgey - I pulled mine out 5 minutes early and it was still over done. I might try this again but I will doctor it some if I do.",
+            "datePublished": "2021-01-19T10:03:36.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sueb"
+            },
+            "reviewBody": "I used soy milk instead of cream and I cut the honey amount down to 1/2 cup. These were worth making! I'll be making them again!",
+            "datePublished": "2013-01-09T11:36:47.493Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217071/carob-fudge-brownies/",
+          "name": "Carob Fudge Brownies",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+                  "name": "Brownie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1562/desserts/cookies/brownies/chocolate-brownies/",
+                  "name": "Chocolate Brownie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

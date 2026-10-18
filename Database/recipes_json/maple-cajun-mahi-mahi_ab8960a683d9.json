@@ -1,0 +1,446 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220120/maple-cajun-mahi-mahi/",
+  "extracted_at": "2026-10-18T03:09:18.383328+00:00",
+  "recipes": [
+    {
+      "name": "Maple Cajun Mahi Mahi",
+      "ingredients_raw": [
+        "1 tablespoon olive oil",
+        "2 tablespoons maple syrup",
+        "1 tablespoon Cajun seasoning",
+        "0.5 teaspoon garlic powder",
+        "2 (4 ounce) fillets mahi mahi fillets, rinsed and patted dry"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat the olive oil in a pan over medium-high heat."
+        },
+        {
+          "id": 2,
+          "text": "Stir the maple syrup, Cajun seasoning, and garlic powder together in a small bowl."
+        },
+        {
+          "id": 3,
+          "text": "Brush the maple syrup mixture over the mahi mahi fillets."
+        },
+        {
+          "id": 4,
+          "text": "Cook the mahi mahi in the hot oil until the fish flakes easily with a fork, 3 to 5 minutes per side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Maple Cajun Mahi Mahi",
+        "datePublished": "2020-03-19T06:50:02-04:00",
+        "dateModified": "2022-11-25T23:26:28-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Janell Kendall"
+          }
+        ],
+        "description": "Sweet from the maple syrup and spicy from the Cajun seasoning, this mahi mahi recipe is quick and easy to prepare.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Ztb-ml9yL2mkpGDa3HKNHcnAhrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9310716-maple-cajun-mahi-mahi-Beckie-4x3-1-27c809f205304c3e84f8eafcb4ed99ed.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Maple Cajun Mahi Mahi",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "286"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "219 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "82 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "21 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "811 mg",
+          "sugarContent": "12 g",
+          "fatContent": "8 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Cajun"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon olive oil",
+          "2 tablespoons maple syrup",
+          "1 tablespoon Cajun seasoning",
+          "0.5 teaspoon garlic powder",
+          "2 (4 ounce) fillets mahi mahi fillets, rinsed and patted dry"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat the olive oil in a pan over medium-high heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir the maple syrup, Cajun seasoning, and garlic powder together in a small bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Brush the maple syrup mixture over the mahi mahi fillets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook the mahi mahi in the hot oil until the fish flakes easily with a fork, 3 to 5 minutes per side."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NmStutz"
+            },
+            "reviewBody": "I was looking for a quick and easy recipe and stumbled across this. I only had cod, but it worked perfectly. I followed the recipe (almost) exactly. It was spicy and delicious. Highly recommended."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ava J"
+            },
+            "reviewBody": "Even though I made minor changes to this recipe, it is likely the best fish I have had in a very long time. A friend gave me the mahi-mahi with the skin on. I removed that. I added 2 tbs of butter to the olive oil. Also, I doubled the garlic powder and used Tony Chachere's original Cajun seasoning (having spent 35 years in Louisiana, I use this on almost everything I cook). When the fish was cooked, I deglazed the pan with 1/2 cup of chardonnay and poured that over the fish. This dish is so easy and so delicious.",
+            "datePublished": "2020-03-27T19:26:42.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon H"
+            },
+            "reviewBody": "This was a nice change for fish. I followed the recipe other than using 3tbs maple syrup because I had 3 pieces of fish. The fish did start to burn a bit with the syrup but it gave a nice crust. If the fish is thick you might need to cook it a bit before brushing the sauce on.",
+            "datePublished": "2024-07-03T00:40:18.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JJOYB53"
+            },
+            "reviewBody": "This was very good, but I did change the cooking method - thus only four stars. I used one of the creole seasoning mixes from this site (please don't ask which one because I have made several different ones, and can't remember which one this was!), and instead of frying it on the cooktop, I baked it in the oven - preheated to 400 degrees, for about 15 minutes (our filets were rather thin) on a baking sheet that had a very light coating of avocado oil (better for cooking at high temperatures, so I've read). Perfect, without the extra oiliness I seem to get when frying fish. My husband thought it was very good too - his only request was that when we make this again (and we will), was to brush both sides of the fish with the maple glaze. Thanks for a great recipe - I never would have thought of a maple glaze for fish; however, having had this I'm going to try one of the salmon recipes from this site that includes maple syrup!",
+            "datePublished": "2016-01-08T18:18:10.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kar"
+            },
+            "reviewBody": "The flavor of this dish heavily depends on the Cajun seasoning you use. I didn't have any on hand so I made the \"Simple Cajun Seasoning\" recipe from this site. It was a little too spicy for us. But the main problem with the dish is frying the fish with maple syrup. I should have known it would burn. Next time, I will reduce the amount of cajun seasoning and bake it. This will take longer to cook but will hopefully not burn. If that doesn't work, I'll try using the cajun seasoning as a dry rub and drizzling over the maple syrup, because I do like the flavor combination and this recipe is incredibly easy to assemble and cook.",
+            "datePublished": "2024-05-29T13:57:26.531Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "theresa22m6"
+            },
+            "reviewBody": "Wow This was delish! I used McCormick Cajun seasoning and heated oil on stove-added other ingredients till bubbly. Put on top of mahi mahi fillets @ baked til it flaked. It was outstanding! It had a mild sweetness but a spicy heat to it. Highly recommend. This would be a quick and delicious meal to impress friends for dinner. Lol.",
+            "datePublished": "2020-03-16T23:11:28.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GreenPlum7572"
+            },
+            "reviewBody": "Delicious but a bit salty ( that was the cajun seasoning will find a low-sodium recipe for it next time) cut the saltiness by making a pineapple salsa with fresh pineapple, red onion, and orange bell pepper. This addition made it PERFECT!) DEFINATLY A KEEPER. served with buttered rice and steamed Normandy mixed veggies.",
+            "datePublished": "2023-01-01T17:38:16.376Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tom Frazier"
+            },
+            "reviewBody": "This was very good. I used Cod, because that is what I had, plus I had no maple syrup, so I used dark corn syrup, and added a little cayenne pepper with the cajun seasoning. It went on like a paste so I only applied to one side and added the rest to the oil in skillet to cook the unseasoned side. A perfect blend of sweet and spice.",
+            "datePublished": "2020-10-28T01:01:41.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Grace Hill"
+            },
+            "reviewBody": "This is one of the BEST fish recipes I've ever made. Just the right amount of everything. I did use sugar-free maple syrup because I wanted to save calories and sweetness and added 1/4 tsp. black pepper. Unbelievably GREAT. Thank you for this super easy and fantastic recipe.",
+            "datePublished": "2023-01-28T05:08:42.701Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dkwangok"
+            },
+            "reviewBody": "So easy and perfect for mahi but I will definitely try on other fish. I cooked it for 3 minutes both sides in frying pan then baked for 5 minutes at 400 degrees in my little Breville oven.",
+            "datePublished": "2019-01-02T23:24:29.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Minabobina"
+            },
+            "reviewBody": "I had high hopes, but the maple didn’t come through at all, just spice. Tried again with more maple and less spice (and fresh garlic), and still meh. This time I ultimately heated a little maple syrup and drizzled on the mahi - better, definitely tasted the maple, but wasn’t spectacular.",
+            "datePublished": "2019-06-01T23:45:21.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heathbar"
+            },
+            "reviewBody": "Used my own spices. Really easy and great taste.",
+            "datePublished": "2025-07-27T23:29:31.084Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedTaro7376"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-20T13:55:07.899Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Helen"
+            },
+            "reviewBody": "I made my own Cajun spice mix. But followed the recipe otherwise &amp; it was delicious served on top of pearl couscous.",
+            "datePublished": "2025-01-08T23:48:20.539Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Khollier1"
+            },
+            "reviewBody": "We are Cajuns and love this easy meal!",
+            "datePublished": "2024-11-02T22:54:19.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SillySalt5641"
+            },
+            "reviewBody": "Probably make extra maple syrup mixture It cooked down.",
+            "datePublished": "2024-10-30T23:30:06.449Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eric Engwall"
+            },
+            "reviewBody": "About as easy as it gets. Will probably use a tad less maple syrup next time - only because 2 tbsp is more than we needed. Will use this recipe again.",
+            "datePublished": "2024-09-29T15:43:57.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedDip3208"
+            },
+            "reviewBody": "So easy! I made twice now. Careful not to overcook the mahi mahi. It's now on our rotation :)",
+            "datePublished": "2024-06-11T21:00:35.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bryan Friendshuh"
+            },
+            "reviewBody": "The flavor was fantastic, would like the sauce to stick more to the fish. Might try and turn it into a light breading next time!",
+            "datePublished": "2024-03-23T22:50:01.385Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TastyCup3612"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-03-10T02:02:32.029Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220120/maple-cajun-mahi-mahi/",
+          "name": "Maple Cajun Mahi Mahi",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/93/seafood/",
+                  "name": "Seafood"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+                  "name": "Fish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/422/seafood/fish/mahi-mahi/",
+                  "name": "Mahi Mahi"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

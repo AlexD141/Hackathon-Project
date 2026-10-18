@@ -1,0 +1,436 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14157/tomato-cucumber-salad/",
+  "extracted_at": "2026-10-18T01:57:30.127056+00:00",
+  "recipes": [
+    {
+      "name": "Tomato Cucumber Salad",
+      "ingredients_raw": [
+        "2 tomatoes, chopped",
+        "1 cucumber, peeled and diced",
+        "1 onion, chopped",
+        "1 tablespoon lemon juice",
+        "salt to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine tomatoes, cucumber, and onion in a salad bowl. Sprinkle with lemon juice and season with salt and black pepper; toss until well combined."
+        },
+        {
+          "id": 3,
+          "text": "Cover and chill salad in the refrigerator until ready to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tomato Cucumber Salad",
+        "datePublished": "1999-07-26T13:03:19-04:00",
+        "dateModified": "2026-03-13T20:09:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sowmya"
+          }
+        ],
+        "description": "This tomato cucumber salad is easy to make in minutes with summer tomatoes, diced cucumber, and onion tossed with lemon juice instead of vinegar.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/GXZiC6ZO37e1MYZ44FyJm_X-H5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14157-tomato-cucumber-salad-VAT-001-4x3-84753f54a06f4bf0a182d5b865e66a92.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tomato Cucumber Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "162"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "46 kcal",
+          "carbohydrateContent": "10 g",
+          "cholesterolContent": "0 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "10 mg",
+          "sugarContent": "6 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 tomatoes, chopped",
+          "1 cucumber, peeled and diced",
+          "1 onion, chopped",
+          "1 tablespoon lemon juice",
+          "salt to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/jCu0VIYs5J1qGC18f6QozmwGdeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14157-tomato-cucumber-salad-VAT-005-step-01-61e755b12371471a80c221726afe5944.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-DNp91Hbfu_4MjnVSffVEM3iI-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14157-tomato-cucumber-salad-VAT-006-step-02-3faa161085be4e9987465f70dd7eb5ad.jpg"
+              }
+            ],
+            "text": "Combine tomatoes, cucumber, and onion in a salad bowl. Sprinkle with lemon juice and season with salt and black pepper; toss until well combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ufEO0wCJVyvLRMUPBIqP4A0PRlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14157-tomato-cucumber-salad-VAT-007-step-03-f54532765b61472a9880f7e7c071c081.jpg"
+              }
+            ],
+            "text": "Cover and chill salad in the refrigerator until ready to serve."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VD711"
+            },
+            "reviewBody": "I do a slight variation on this recipe, which I learned from my 1/4 Lebanese roommate! First, \"gut\" the tomatoes before they are chopped so they don't have all those seeds and runny juices! Second, use red onion, and only 1/4 to 1/2 an onion depending on size. Third, in addition to the fresh-squeezed lemon, add a drizzle of extra virgin olive oil. And finally, I season with a dash of dried basil, kosher salt, pepper, and a generous sprinkle of dried (or fresh would be fine) parsley! Chill before serving. This dish is great with chicken and rice, or as a light lunch salad!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arizona Desert Flower"
+            },
+            "reviewBody": "I used 2 roma tomatoes and 1 large cucumber (peeled). I removed the seeds from the cucumber and tomatoes, then sprinkled with salt to remove the excess moisture. I eyeballed the lemon juice and added a splash of garlic infused olive oil, a dash of dried italian seasoning and pepper as stated. I used 1/2 of a green onion (I prefer a lighter onion flavor). I let it sit overnight and ended up eating the ENTIRE thing for breakfast because I couldn't get enough of it. This will be made often--OUTSTANDING!",
+            "datePublished": "2009-08-18T09:56:23.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IrishTriplets"
+            },
+            "reviewBody": "This is my favorite salad. A friend made it for me and I went crazy over it! The only things I would change in this recipe is to add a 12 oz can(pitted) whole black olives - medium size. I keep them whole. Drain and rinse olives before adding to mix. I actually use the juice from 2 lemons and use about 1/2 cup or more of olive oil. For those who think the salad is bland... I'm guessing that you did not add enough salt &amp; pepper - please try it again - you will surprise yourself! It is fresh tasting and everyone goes nuts over it every time I make it. I usually chill it 30 minutes so the juices can marinate the veggies. I cannot wait to make this again!",
+            "datePublished": "2008-04-28T19:37:15.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolyn Schwarte"
+            },
+            "reviewBody": "We loved the salad and it used our fresh garden vegetables. I did add a small amount of lemon flavored olive oil, garlic wine vinegar, and a dash of erythritol.",
+            "datePublished": "2022-09-11T21:52:02.094Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christy Ratto-Bixby"
+            },
+            "reviewBody": "Loved this salad, great flavor, added thinly chopped spinach cause I had some on hand that I didn't want to spoil. It was so yummy!!! Will make this again and again!!",
+            "datePublished": "2022-07-02T05:36:13.711Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Southern Belle"
+            },
+            "reviewBody": "YUM! I could live on these summer salads. This is so good, so easy. I used fresh lime juice because that’s what I prefer. sorry, I’m not about to “gut,“ my tomatoes. If I’m using store-bought tomatoes, that’s the only thing that makes them edible, and if I’m using homegrown tomatoes, I’m not wasting a speck of that flavor.For a different variation, next time I may chop celery into tiny pieces to add.",
+            "datePublished": "2025-06-15T13:49:12.851Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Palmquist Bixler"
+            },
+            "reviewBody": "I used about 1/2c sweet onion, most of an English cucumber, and 2 tomatoes. I added 1 Tbsp of meyer lemon infused olive oil to the lemon juice, and topped with some parsley. It made a great summer salad, and was both easy and healthy. I may try adding a stalk of celery next time....",
+            "datePublished": "2020-06-04T13:26:00.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rascalgirl"
+            },
+            "reviewBody": "A great recipe as is or to use as a starting point to match your favorite tastes. After reading other reviews, I added 1 T. each of garlic infused olive oil as well as Tuscan Herb olive oil, and 1/2 tsp dried Italian seasoning. Unfortunately, my lemon was far beyond any possible use and I resorted to using bottled lemon juice. The recipe was very forgiving and still tasted absolutely wonderful. I added the salt and pepper needed just prior to serving so as to give the other flavors a chance to blend first.",
+            "datePublished": "2019-09-19T23:18:15.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mirquat"
+            },
+            "reviewBody": "Added 1 tablespoon of EVO. And 1 tsp red wine vinegar. Otherwise it may have been a 4 star.",
+            "datePublished": "2018-12-01T12:15:54.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "forhealth"
+            },
+            "reviewBody": "I've had this salad a few times before. It's also great with a dressing of 1/4 c. oil, 2 T. red wine or balsamic vinegar, one T. of water (optional), a bit of salt and a clove of minced garlic. Add the pepper if you want. Let the dressing sit for while. Sprinkle feta on top of the salad.",
+            "datePublished": "2015-09-18T12:31:05.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoolPork5639"
+            },
+            "reviewBody": "I followed the recipe but used scallions instead of onion and added a splash of olive oil and white vinegar! So refreshing!",
+            "datePublished": "2026-04-26T21:17:53.335Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "Simple and refreshing!",
+            "datePublished": "2026-07-03T23:23:34.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Frank Jackson"
+            },
+            "reviewBody": "This is a great recipe, easy to make and no sugar needs to be added. VD711's suggestions were great. Fresh peppers from the garden were a good addition also.",
+            "datePublished": "2025-07-27T18:26:23.375Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FairWater7789"
+            },
+            "reviewBody": "I make this often. I also add a little olive oil, lemon, parsley and mint.",
+            "datePublished": "2025-06-12T23:58:27.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim"
+            },
+            "reviewBody": "I was prepared to try this and say \"it needs X-Y-Z added to jazz it up\", but boy was I wrong! The ingredients and flavors are so simple--but so delicious. I mean you could add things like a splash of olive oil or some herbs, and they wouldn't hurt a thing--but the salad is also quite nice as-is. It's light, refreshing, and goes well with just about any entree you can think of. Plus, it's really fast and easy to make! Thank you for sharing your recipe!",
+            "datePublished": "2025-05-27T16:20:59.815Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CozyPizza2283"
+            },
+            "reviewBody": "Fun &amp; quick to make!",
+            "datePublished": "2024-08-25T21:07:19.192Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nikki Simich"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-07-06T17:34:04.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ndisneync"
+            },
+            "reviewBody": "I didn’t change anything. I used the tomato, cucumber, and onion from my garden. I’ve made tomato cucumber salad many times, but wanted to try a different way. I’d never used lemon juice before. I’ve always used oil and vinegar in the past.",
+            "datePublished": "2023-07-21T19:52:59.509Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CopperPita7902"
+            },
+            "reviewBody": "Awesome",
+            "datePublished": "2023-07-10T17:51:26.249Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth"
+            },
+            "reviewBody": "Exceptionally good, will make again.",
+            "datePublished": "2021-01-30T04:11:04.390Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14157/tomato-cucumber-salad/",
+          "name": "Tomato Cucumber Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

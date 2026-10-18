@@ -1,0 +1,436 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/189123/ruby-drive-sloppy-joes/",
+  "extracted_at": "2026-10-18T02:32:38.185320+00:00",
+  "recipes": [
+    {
+      "name": "Ruby Drive Sloppy Joes",
+      "ingredients_raw": [
+        "1 pound ground beef",
+        "1.5 cups ketchup",
+        "1 cup chunky salsa",
+        "2 tablespoons brown sugar",
+        "1 tablespoon Worcestershire sauce",
+        "2 tablespoons white vinegar",
+        "2 tablespoons Dijon mustard",
+        "1 teaspoon hot sauce",
+        "6 potato rolls"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat a large skillet over medium-high heat and stir in the ground beef. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease."
+        },
+        {
+          "id": 2,
+          "text": "Stir in ketchup, salsa, brown sugar, Worcestershire sauce, white vinegar, Dijon mustard, and hot sauce. Bring to a simmer and cook, stirring occasionally, over low heat 20 to 30 minutes. Serve on potato rolls."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Ruby Drive Sloppy Joes",
+        "datePublished": "2020-03-05T00:06:35-05:00",
+        "dateModified": "2022-01-14T01:28:02-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "LV"
+          }
+        ],
+        "description": "Sloppy Joes are extra saucy, extra spicy with the addition of chunky salsa. They&#39;re scrumptious served on soft potato rolls.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/3c0vorM3K2afNP1Rs3o_muVMgEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/975237-d927607640444717b4a70a8bf5a28107.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Ruby Drive Sloppy Joes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "296"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "382 kcal",
+          "carbohydrateContent": "46 g",
+          "cholesterolContent": "46 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "17 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "1338 mg",
+          "sugarContent": "20 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner",
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "1 pound ground beef",
+          "1.5 cups ketchup",
+          "1 cup chunky salsa",
+          "2 tablespoons brown sugar",
+          "1 tablespoon Worcestershire sauce",
+          "2 tablespoons white vinegar",
+          "2 tablespoons Dijon mustard",
+          "1 teaspoon hot sauce",
+          "6 potato rolls"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat a large skillet over medium-high heat and stir in the ground beef. Cook and stir until the beef is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in ketchup, salsa, brown sugar, Worcestershire sauce, white vinegar, Dijon mustard, and hot sauce. Bring to a simmer and cook, stirring occasionally, over low heat 20 to 30 minutes. Serve on potato rolls."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 sandwiches"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "Other than sauteing an onion and a good amount of garlic in butter with the meat and adding a little liquid smoke, this is hands down the best sloppy joe filling I've ever had. I topped this with shredded sharp cheddar and toasted the buns a bit to make them hold up a little better. This is my new sloppy joe recipe. Even my husband who loves that nasty canned junk loved this. AWESOME. NOTE: If you don't like all that ketchup, think about cutting the ketchup in half and using either chili sauce or BBQ sauce."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katy's Collections"
+            },
+            "reviewBody": "We both liked this very much. I never had it as a kid - my OH had the kind that came from a mix. I cooked the ground beef (and some onions) at lunch time and put it and everything else in the crockpot, alternating between Low and Keep Warm. Because I was using the crockpot, I reduced the ketchup to 1 C (also 1.5 C of ketchup seemed like an awful lot.) Because I reduced the ketchup, I also reduced the vinegar to 1 T. (And used ACV because I prefer that for this sort of dish.) Will make again.",
+            "datePublished": "2018-08-08T02:33:51.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth"
+            },
+            "reviewBody": "This was outstanding!!! I did make some adjustments after reading several reviews, and I'm glad I did!! So if anyone plans to make this for the very first time it is advised to read the reviews. I used 2 lbs of ground beef instead of just one. I cut the ketchup way down to only a fourth of a cup as many reviewers thought that 1.5 cups made it too sweet. I left the salsa at one cup, I added an extra tablespoon of brown sugar, (so a total of 3 tablespoons), I omitted the white vinegar, and I'm glad I did! Also after reading a few reviews I did add some diced onion and pressed garlic when browning the ground beef. It added a little extra flavor. That being said, it was probably one of the best sloppy joes I've ever had!! Will never go back to the canned Manwich sauce again!!",
+            "datePublished": "2018-09-28T01:31:20.487Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RJK"
+            },
+            "reviewBody": "I omitted the vinegar because my ketchup was already very tangy. I added a teaspoon of McCormick Montreal Steak seasoning to the hamburger while browning. I used just under 2 pounds of hamburger and it was still plenty saucy. I didn't have buns, so I served the meat mixture over oven-baked french fries and sprinkled with cheddar cheese. Delicious!",
+            "datePublished": "2019-10-19T21:07:11.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MzEvans"
+            },
+            "reviewBody": "This was amazing! I have a 14 yr old who doesn’t like veggies! Soooo, I put salsa, ketchup, onion, bell pepper into my ninja! Added the remaining ingredients and he never knew it was packed full of delicious veggies! Lol so much better than the canned stuff! Definitely will make again, probably try ground turkey for healthy version...",
+            "datePublished": "2018-08-07T21:08:15.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "I followed the suggestions from others. I too, thought that was too much catsup, especially not being a fan of catsup, so I did half chili sauce. I definitely upped the amount of meat to 2 LBS. Next time I will only add 1 TBL of brown sugar. I like spice so I upped the hot sauce to 3 tsp. I love the flavor liquid smokes so I added 2 tsp. of it. (as suggested) Another suggestion was white wine vinegar, I already had some in my pantry so I used it instead of plain vinegar. (I wouldn't go out and buy it though, use what is on hand!) I wanted to keep the recipe simple so I did not sautee onions or peppers, I think there is enough in the chunky salsa. I appreciate the basic concept of Ruby's recipe and I am glad it was shared. I loved the idea of the potato rolls/buns. I had never tried them before and they are very good!!",
+            "datePublished": "2018-08-19T16:05:47.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Scot v"
+            },
+            "reviewBody": "This recipe had great flavor. I followed the advice of another reviewer and added onion, garlic and liquid smoke. This probably also needs another 1/2-1 additional pound of beef. Otherwise, this was an amazing recipe!",
+            "datePublished": "2021-01-29T02:09:17.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fayth"
+            },
+            "reviewBody": "These were pretty good! Sweet and tangy. I used mild salsa, and I did take the advice of other reviewers and reduced the ketchup to one cup and halved the amount of vinegar. Also left out the hot sauce as I can't eat anything really spicy. Other than that, I left everything the same. Will definitely be making again. So much better than manwich (which I do like).",
+            "datePublished": "2014-05-21T15:04:37.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "K Gillette"
+            },
+            "reviewBody": "This was delicious! Easy and great tasting! Mind blowing on how quick this was. I did follow advice and sautéed onions prior to beef, and added a bit less ketchup (1cup). The secret is the chunky salsa, we used mild. Thank you for sharing recipe.",
+            "datePublished": "2018-08-08T03:08:41.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robyn Beck-Warren"
+            },
+            "reviewBody": "Fabulous and easy. I added some extra onion, omitted tabasco because I used spicy salsa and cut back on ketchup, salsa &amp; vinegar because I didn't want it quite so saucy. It was really, really good.",
+            "datePublished": "2019-02-21T00:51:21.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jeremy"
+            },
+            "reviewBody": "I’ve made this a few times the only thing I did differently was added a little roasted garlic and Habanero",
+            "datePublished": "2019-03-10T20:21:25.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim"
+            },
+            "reviewBody": "No.. it's fine the way it is",
+            "datePublished": "2025-08-19T23:11:35.345Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kat541"
+            },
+            "reviewBody": "I've been making this exactly as written for about a decade, now. You absolutely have to allow it to simmer the entire 20-30 minutes or it won't come out right!",
+            "datePublished": "2024-05-26T00:03:33.924Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue Osterhout"
+            },
+            "reviewBody": "We enjoyed this! I had 1.5 lbs of ground sirloin, the sauce looked like a bit more than needed so I added 2 heaping teaspoons of cornstarch before adding to beef. It thickened up beautifully and was a big hit with entire fam! I loved the idea of using salsa instead of all that chopping and additional time to cook. Thanx for posting!!",
+            "datePublished": "2023-06-12T04:17:32.301Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vickielee63"
+            },
+            "reviewBody": "I liked it just fine. My husband said it was way too tomatoey, and my daughter said just a little to much tomato. Next time I'll cut back on the ketchup! I used mild salsa and a few shakes of hot sauce. I could kick it up to medium and a little more hot sauce.",
+            "datePublished": "2022-05-11T01:28:42.342Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lpace"
+            },
+            "reviewBody": "Made as is . Loved the recipe. My go to for sloppy joes!",
+            "datePublished": "2021-12-07T02:39:25.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jsaydal"
+            },
+            "reviewBody": "It was easy, but it just tasted like meat with ketchup to my family. also too much sauce for just a pound of meat. I won't be making it again. Better recipe's out there.",
+            "datePublished": "2021-06-15T18:06:35.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Missyhh"
+            },
+            "reviewBody": "This is a delicious receipe. I didn't have enough ketchup so I added a half cup of bbq sauce and that did the trick! And it past the husband test.",
+            "datePublished": "2021-02-17T00:51:12.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SColson782"
+            },
+            "reviewBody": "Excellent recipe!",
+            "datePublished": "2020-11-27T14:50:44.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Matthew L Hays"
+            },
+            "reviewBody": "OK, this was amazing. I didn't use exactly what was on the recipe but it worked out every well all the same. Thanks for offering up for others to make.",
+            "datePublished": "2020-08-25T18:58:45.953Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/189123/ruby-drive-sloppy-joes/",
+          "name": "Ruby Drive Sloppy Joes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                  "name": "Sandwich Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14930/main-dish/sandwiches/sloppy-joes/",
+                  "name": "Sloppy Joe Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,472 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222205/pasta-fazoolander/",
+  "extracted_at": "2026-10-18T03:14:57.630223+00:00",
+  "recipes": [
+    {
+      "name": "Pasta Fazoolander",
+      "ingredients_raw": [
+        "1.5 tablespoons olive oil",
+        "1 teaspoon tomato paste",
+        "1 anchovy fillet, chopped",
+        "4 cups chicken broth",
+        "1 cup dry cheese tortellini",
+        "1 (15 ounce) can white beans, rinsed and drained",
+        "1 pinch red pepper flakes",
+        "1 pinch dried oregano",
+        "salt and ground black pepper to taste",
+        "2 cups baby spinach leaves",
+        "0.25 cup grated Parmesan cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large saucepan over medium heat. Stir in tomato paste and anchovy fillet; cook until fragrant and the color deepens, 2 to 3 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Pour in chicken broth and bring to a boil. Stir in tortellini and beans; cook until tortellini are cooked through but still firm to the bite, about 10 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in red pepper flakes, oregano, salt, and pepper. Add spinach; cook and stir until just wilted, 2 to 3 minutes. Remove from the heat."
+        },
+        {
+          "id": 4,
+          "text": "Ladle into bowls and garnish with red pepper flakes and grated Parmesan cheese."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Pasta Fazoolander",
+        "datePublished": "2012-05-04T16:39:50-04:00",
+        "dateModified": "2024-11-20T03:52:31-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "This pasta fazoolander recipe is a hearty soup featuring cheese tortellini, white beans, and spinach in a rich broth. It&#39;s perfect for a cold winter day!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/-W3KgadZNs7u0uVGqQYwh29oiFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6111448-b18e92eef5a24eb69b7e04624549cae4.jpg",
+          "height": 1225,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/54B93z2G-ma1DlVvV.mp4",
+          "description": "0266",
+          "duration": "PT4M10S",
+          "name": "Pasta Fazoolander",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/54B93z2G/poster.jpg?width=1280",
+          "uploadDate": "2021-07-25T16:28:18-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pasta Fazoolander",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "74"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "278 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "19 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "199 mg",
+          "sugarContent": "1 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.5 tablespoons olive oil",
+          "1 teaspoon tomato paste",
+          "1 anchovy fillet, chopped",
+          "4 cups chicken broth",
+          "1 cup dry cheese tortellini",
+          "1 (15 ounce) can white beans, rinsed and drained",
+          "1 pinch red pepper flakes",
+          "1 pinch dried oregano",
+          "salt and ground black pepper to taste",
+          "2 cups baby spinach leaves",
+          "0.25 cup grated Parmesan cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large saucepan over medium heat. Stir in tomato paste and anchovy fillet; cook until fragrant and the color deepens, 2 to 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour in chicken broth and bring to a boil. Stir in tortellini and beans; cook until tortellini are cooked through but still firm to the bite, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in red pepper flakes, oregano, salt, and pepper. Add spinach; cook and stir until just wilted, 2 to 3 minutes. Remove from the heat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-W3KgadZNs7u0uVGqQYwh29oiFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6111448-b18e92eef5a24eb69b7e04624549cae4.jpg"
+              }
+            ],
+            "text": "Ladle into bowls and garnish with red pepper flakes and grated Parmesan cheese."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Fletcher"
+            },
+            "reviewBody": "So, I did a a few subs on this. I think I made it more like Pasta Faxanadu! Instead of an anchovy filet (because, let's face it, yuck!) I used an Italian turkey sausage, and to avoid wasting most of a can of tomato paste (I had nothing else planned to use it in) I threw in a whole can instead of just a teaspoon. Vavoom! It was AWESOME! I made my own beans in the crockpot with some chopped red onion added in. AWESOME!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lorelei"
+            },
+            "reviewBody": "placed 3 cloves minced garlic in oil &amp; sauteed and then \nI used 3 tblsp of tomato paste- instead of 1 tsp\nI used a little over a tsp of anchovy past - not chopped anchovies\nI used small Bertolli dry tortellini\nI put red peper flakes in the soup - but it would have made a good garnish\nIt was getting kind of thick so I added about another cup of chicken borth at the end",
+            "datePublished": "2019-10-22T18:50:57.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "wolfcoop"
+            },
+            "reviewBody": "I read the other reviews and made these additions to the original one . I browned 1# of hot Italian sausage to a doubled recipe. I added the whole 6oz can of tomato paste, the anchovy paste, minced garlic to taste(about 4-5 cloves) and a tbs of Italian seasoning blend . I omited the hot pepper flakes as the sausage added plenty of heat. I used 18 oz of fresh three cheese tortallini. The whole family gave it the thumbs up.",
+            "datePublished": "2016-11-21T00:29:52.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "newmexjags"
+            },
+            "reviewBody": "This soup is so delicious, and filling! I followed the recipe except I used 1/2 tin of anchovies and used some of the anchovy oil. They dissolve into the sauce and add a lovely richness. DOn't be afraid to use them! You won't taste \" fishy\" at all. I also added some onions and garlic. Cooked everything in the crock pot except the tortellini and spinach. I used fresh tortellini, threw it in and turned the crock pot to warm. When they were done I threw in the spinach and turned the crock pot off. Perfect!",
+            "datePublished": "2018-09-30T14:56:02.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leo McLean"
+            },
+            "reviewBody": "Have not tried yet, but have a comment. Like others, when I buy tomato paste of anchovy filets, I use a bit, then have to toss the rest when it dries out or spoils. Try anchovy and tomato pastes that come in tubes.",
+            "datePublished": "2015-06-04T09:08:23.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dollie Steele Hoag"
+            },
+            "reviewBody": "I made the soup without the anchovy paste. I used carrot, onion and celery into the pot w the olive oil for flavor, along with a bit of garlic. I also used one entire small can of tomato paste. This along with the chicken broth and added basil turns the base of the soup into a \nTomato Basil Tortellini Soup. Fabulous!!",
+            "datePublished": "2019-01-22T14:00:40.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunkyWrap5076"
+            },
+            "reviewBody": "I made this recipe twice in a very short time...It is perfection. I made it exactly as written with the exception of the tortellini. Instead of dry, I had some frozen tortellini , cooked it separately , then added it to the pot. That actually made the preparation time even faster. I appreciate the hint from another Allrecipes fan who suggested freezing the leftover tomato paste by Tbs. This soup is delicious, fast and easy. My favorite soup has always been chicken noodle, now it's a tie with this one!",
+            "datePublished": "2024-01-29T19:06:29.709Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richmond Deborah"
+            },
+            "reviewBody": "Excellent. I did increase the number of anchovies, and the red pepper flakes. I also added carrots which, if nothing else made it prettier. I will definitely make it again. BTW, I doubled the recipe and froze leftovers. It froze just fine.",
+            "datePublished": "2022-10-09T13:38:47.558Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Kahn"
+            },
+            "reviewBody": "Simple but delicious, in-a-pinch soup. I only had frozen spinach, but it worked just fine. Oh an I subbed a few generous shakes of Worcestershire sauce for the anchovies. And I did not have any tomato paste. Again, still came out good. I hate it when people redo a recipe and then rate it, but I think these changes were minor and it's still wonderful!",
+            "datePublished": "2022-10-06T23:24:11.554Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Casey M"
+            },
+            "reviewBody": "Very pleased w/ how my adjustments turned out. I had recently made a great seafood broth and used a lot of that w/ some unsalted chicken stock. I love celery/carrot/onion in soup and used refrigerated RANA cheese tortellini's. Garlic usually goes into many of my recipes and this was no exception. I also added a 1lb bag of TJ's Turkey Meatballs for added protein. Another lunch (or 3 after doubling recipe) for my 98 yo Dad.",
+            "datePublished": "2018-10-25T05:25:13.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mammycooker"
+            },
+            "reviewBody": "Loved it. Easy and quick. Anchovy paste and tomato paste both come in a squeeze tube and last forever. Don't leave the anchovy; it gives a small nutty taste not fishy at all. No one knows it's in there. To add additional protein I cooked some ground turkey and threw it in. My German ancestors taught me to always have some kind of soup on hand at all times--not canned--and no one would go hungry.",
+            "datePublished": "2015-06-04T07:33:14.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris S Spence"
+            },
+            "reviewBody": "Followed the recommendation of another review and substituted turkey sausage for the anchovies, and used the whole can of tomato paste. Wish I had used less tomato paste (it became too tomato soupy that way), but that's on me. I'll try again without so much tomato paste and if it changes my rating, I'll edit and update.",
+            "datePublished": "2026-10-11T21:31:49.281Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen"
+            },
+            "reviewBody": "This soup is amazing! It is my go-to for a quick, easy, delicious meal. I use vegetable stock instead of chicken stock and omit the anchovy altogether (vegetarian husband!). I often use chopped kale instead of spinach but we love it either way.",
+            "datePublished": "2025-07-02T23:13:18.242Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GWilly"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-11T00:00:55.014Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FairTray2069"
+            },
+            "reviewBody": "The recipe looks delicious. I will definitely make it. The video was fun to watch. Great sense of humor, John",
+            "datePublished": "2024-09-10T11:53:01.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Farley Scrimenti"
+            },
+            "reviewBody": "This is a keeper! I planned to follow the recipe exactly but found my tortellini had bugs and had to toss. Used some italian leaf-shaped pasta instead and added some chopped beef sausage for protein. Didnt have fresh spinach but added chopped spring mix. Otherwise, followed exactly and it was delicious!! Definitely will make again.",
+            "datePublished": "2024-01-25T05:25:29.806Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "morgan"
+            },
+            "reviewBody": "This recipe is great as is, and really easy to make your own. The first time I made it following the recipe exactly, as I never like to tweak a recipe the first time I make it. I was very happy with the end result. I did however decide to play with the recipe after that, to use up different things in the fridge, and give it a little more personality, and I find some little additions here and there really make this soup shine. The anchovy is not optional IMO, as it adds an amazing umami to the soup, and doesn’t lend a fishy flavor whatsoever. If you’re feeling under the weather, or particularly lazy, this soup checks all of the boxes, but it’s even better with some crusty bread slathered with butter. If you add a salad, you’ve got an entire meal in no time. For people worried about how to use anchovies, buy them in a jar with oil. Once opened you can keep them in the fridge for quite some time. As for the tomato paste, I always buy the tubes and keep a few in my pantry, as I find it much more convenient, and I never end up wasting any. In any event, even if you buy the tinned anchovies or tomato paste, you can find several ways to use both up rather quickly, before they go bad.",
+            "datePublished": "2023-11-10T18:27:52.139Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cooking42"
+            },
+            "reviewBody": "I even substituted Kale for the Spinach and it was perfect!",
+            "datePublished": "2023-10-21T21:02:06.065Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MysticDiva"
+            },
+            "reviewBody": "Fantastic soup. Just add some nice Italian bread and a salad and you have a fantastic comfort meal. I double the recipe and add a bit more spinach cause it shrinks down quite a bit. A little bit of imported Romano seals the deal. And for those who are substituting or not using the anchovy – then you are not making the recipe. It’s umami, and you cannot taste the fishiness at all. Give your taste buds a different experience and make the recipe exactly as is. This is definitely a keeper.",
+            "datePublished": "2023-03-21T20:46:58.319Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susie Foster"
+            },
+            "reviewBody": "I think this may be the first recipe of Chef John that I discovered, and since then I have made it dozens of times. It is a wonderful, easy, and healthy recipe! Very satisfying and filling. I also usually add one clove of minced garlic but sometimes I don't. This is a favorite and in fact I'm making it tonight! also great the next day. Thanks so much Chef John!",
+            "datePublished": "2023-01-20T18:07:35.702Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222205/pasta-fazoolander/",
+          "name": "Pasta Fazoolander",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/181/soups-stews-and-chili/soup/noodle-soup/",
+                  "name": "Noodle Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

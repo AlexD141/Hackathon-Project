@@ -1,0 +1,453 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217069/energy-bars/",
+  "extracted_at": "2026-10-18T03:01:42.351485+00:00",
+  "recipes": [
+    {
+      "name": "Energy Bars",
+      "ingredients_raw": [
+        "2 eggs",
+        "1 large ripe banana, mashed",
+        "1 cup quick-cooking rolled oats",
+        "0.5 cup unsalted raw sunflower seeds",
+        "0.5 teaspoon ground cinnamon",
+        "0.5 cup nonfat dry milk powder",
+        "0.5 cup chopped pitted dates",
+        "0.5 cup raisins",
+        "0.5 cup chopped walnuts",
+        "0.5 cup chopped dried apricots",
+        "0.5 cup toasted wheat germ",
+        "0.33333334326744 cup pure maple syrup",
+        "0.25 cup whole-wheat pastry flour"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an oven to 350 degrees F (175 degrees C). Lightly oil a 9x13-inch baking dish."
+        },
+        {
+          "id": 2,
+          "text": "Mix the eggs, banana, oats, sunflower seeds, cinnamon, milk powder, dates, raisins, walnuts, apricots, wheat germ, maple syrup, and whole-wheat pastry flour together in a large bowl until thoroughly combined; spread the mixture evenly into the prepared baking dish."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven for 20 minutes; set aside to cool. Cut into 9 bars and wrap with plastic to store."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Energy Bars",
+        "datePublished": "2015-11-19T02:12:48-05:00",
+        "dateModified": "2015-11-19T02:12:48-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Hungry in Vermont"
+          }
+        ],
+        "description": "These bars are packed with dates, raisins, apricots, banana, and walnuts for a grab-and-go snack you can enjoy anytime.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/13oMKlZAtIZLOtX9eJOi9RDUprk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/734665-3f54a18a93cd42e6adada64df5399d51.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Energy Bars",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "28"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "309 kcal",
+          "carbohydrateContent": "47 g",
+          "cholesterolContent": "43 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "56 mg",
+          "sugarContent": "28 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Snack",
+          "Appetizer",
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "2 eggs",
+          "1 large ripe banana, mashed",
+          "1 cup quick-cooking rolled oats",
+          "0.5 cup unsalted raw sunflower seeds",
+          "0.5 teaspoon ground cinnamon",
+          "0.5 cup nonfat dry milk powder",
+          "0.5 cup chopped pitted dates",
+          "0.5 cup raisins",
+          "0.5 cup chopped walnuts",
+          "0.5 cup chopped dried apricots",
+          "0.5 cup toasted wheat germ",
+          "0.33333334326744 cup pure maple syrup",
+          "0.25 cup whole-wheat pastry flour"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 350 degrees F (175 degrees C). Lightly oil a 9x13-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix the eggs, banana, oats, sunflower seeds, cinnamon, milk powder, dates, raisins, walnuts, apricots, wheat germ, maple syrup, and whole-wheat pastry flour together in a large bowl until thoroughly combined; spread the mixture evenly into the prepared baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 20 minutes; set aside to cool. Cut into 9 bars and wrap with plastic to store."
+          }
+        ],
+        "recipeYield": [
+          "9",
+          "9 bars"
+        ],
+        "totalTime": "PT95M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "runningcook"
+            },
+            "reviewBody": "I was looking for an energy bar to replace the store brands and WOW! I found it! I made them just as the recipie says without any additions or subtractions. These things are delish and pack a serious energy punch! I made a second batch for the runners in my running group and they were a big hit. Have had to share the recipie and will probably never buy the store brands again! LOVE THEM!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Oongawaa"
+            },
+            "reviewBody": "This is a very easy recipe with great results. So far I have made it twice. I agree with other reviewers that a little salt (1/4 teaspoon) improves the flavor. Very flexible recipe. \n\n I substitute the wheat germ with ground flax seed and plain whole grain wheat flour as the pastry flour was hard to find. These keep well in the refrigerator and actually the flavor improves after a few days as the dry ingredients take on more of the moisture. I use them when I travel as they are light, easy to pack and filling. Just the thing for a long flight when peanuts are the only thing being served. \n\nFor the second batch I made I substituted mango for apricots and added some dried coconut and used pecans instead of walnuts. (I had these left over from making fruitcakes) I also added 1 tsp vanilla. Tasty. \n\nI lined the pan with wax paper and baked at 325 for 30 minutes. My oven runs hot and this kept it from being over cooked. \n\nDefinitely a keeper in my favorites folder.",
+            "datePublished": "2016-02-17T09:02:20.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanne"
+            },
+            "reviewBody": "VERY TASTY... however I did not have all the ingredients as listed. I had no dried milk (used nothing in replace of), apricots (used dried cherries), wheat germ (used Bran Buds) no whole wheat flour\n(used white)",
+            "datePublished": "2011-10-26T10:39:01.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chad Hamsterstyle Lohmeyer"
+            },
+            "reviewBody": "Mine turned out a bit \"bready\", not sure why. I used an 8\"x8\" pan instead of the 9\"x13\" so it was thicker and I baked it for a total of 40 minutes (20 minutes in, rest for 10, then another 20 minutes in the oven). I added 1/8-1/4 cup of chia seeds in lieu of some of the other items. I see pictures others posted that look similar and others that actually look like a \"bar\" which is what I was after. Still, very tasty and easy to substitute items for personal flavors/wants.",
+            "datePublished": "2019-09-11T19:30:36.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "M Rose"
+            },
+            "reviewBody": "What I love about this recipe is its versatility and \"forgiveability\" :) We are a gluten-free and caesin-free family so finding and developing recipes everyone can not only eat but love is hard. This recipe fits the bill perfectly. Even though there are supposed GF oats available my family can not tolerate them so I just substituted various nuts for the weight value and used our GF all-purpose flour blend. I also read the other reviews and added 1/4 tsp of salt, peanut butter and vanilla. Wow - a huge hit in our family. Never buying \"Lara\" bars again :)",
+            "datePublished": "2016-04-07T06:32:10.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bakingmama"
+            },
+            "reviewBody": "These were awesome! My kids devoured them. Moist, sweet and packed with good things. I made minor substitutions: regular rolled oats, more apricots instead of dates, unsweetened coconut instead of walnuts, honey instead of maple syrup. I love that they have no refined sugar. No peanut butter means they can be sent as a school snack.",
+            "datePublished": "2014-03-18T16:10:04.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Scott Simmons"
+            },
+            "reviewBody": "Excellent. I didn't have sunflower seeds, so I substituted finely ground pecans. I forgot the salt that other reviewers recommended, but I'll remember next time. I also added 2 tablespoons of black strap molasses to the maple syrup and used dried cranberries instead of raisins. I only had cake flour, not pastry flour, but it did the trick and was not \"cakey\" in the slightest. That is what makes this recipe so good. It's versatile!",
+            "datePublished": "2013-06-04T19:39:02.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "khjones"
+            },
+            "reviewBody": "I put all the ingredients in the food processor to hopefully disguise the dried fruit and seeds, then baked it in a 7x11 inch pan. It came out to a dense muffin consistency. The kids still didn't like them (mostly because they read the recipe and knew what was in them), but I think they are tasty. Next time I might add a little peanut butter and maybe a FEW small chocolate chips.",
+            "datePublished": "2011-10-05T21:38:43.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "linda2d"
+            },
+            "reviewBody": "I'll admit to a few subs, which is hard not to do with this many ingredients. I don't like raisins so used craisins instead. I had to eliminate the eggs so used the flax/water sub for those. Last two subs: I used the flour on hand (white whole wheat) and chopped sliced almonds for the sunflower seeds that went missing. These are not the texture I hoped for (maybe in part to due to the flour and egg) but are tasty, healthy, and easy to play with to suit your taste. They are a little more moist than I thought so I would likely try baking them a little longer next time. I made the 9 x 13 as stated, baked for 25 minutes at which point they had a springback similar to brownies, and cut them into 12 equal bars. With the subs and the extra bars I calculated it at about 210 calories per bar.",
+            "datePublished": "2013-09-20T13:59:00.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Sue"
+            },
+            "reviewBody": "I added a half teaspoon salt. I didn't have any of the dried fruits so just subbed dried cherries. I made a few other substitutions and these turned out fine. This recipe is an easily adaptable one.",
+            "datePublished": "2020-10-25T21:19:57.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Foodie4life"
+            },
+            "reviewBody": "I added 1/4 tsp salt and 2 Tbsp molasses as another reader suggested. I substituted prunes for dates and pecans for the walnuts. I felt this could still use a bit of sweetness. Might add some cinnamon and more fruit next time. Dried mango perhaps. 4 stars because of it's versatility. With a bit of tweeking, anyone can make this recipe to suit their personal taste!",
+            "datePublished": "2019-07-10T22:49:29.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyBeef1559"
+            },
+            "reviewBody": "I've made these a number of times and now I improvise on the ingredients. So great for a grab and go for after my run.",
+            "datePublished": "2023-03-09T23:55:17.934Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lyle"
+            },
+            "reviewBody": "We liked these a lot, following the recipe exactly. I am especially intrigued with how versatile this recipe is just by swapping out some ingredients. I agree with some other reviews that it would be even better with a little salt.",
+            "datePublished": "2017-02-27T22:21:31.353Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vickygloz"
+            },
+            "reviewBody": "Very Good! My mixture was a little \"loose\", so I thought it wasn't going to bake well, but it did. Instead of maple syrup, I used Agave nectar. Also, I added some coconut and a few chocolate chips. This recipe is very versatile! Delicious!",
+            "datePublished": "2015-04-13T18:53:49.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristine L"
+            },
+            "reviewBody": "I was looking for a healthy energy boost for my kids to eat before swimming practice and this was perfect. It's is a versatile base you can switch up to your own liking. I made a few modifications: dark chocolate chips instead of walnuts (due to food allergy), dried cranberries instead of raisins (because they go great with dark chocolate), and agave syrup instead of maple. These were also very easy to make--dump everything into a bowl, mix, spread, bake. Just what's needed for a go-to recipe.",
+            "datePublished": "2013-05-12T09:44:03.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rita Temple"
+            },
+            "reviewBody": "Loved them! They didn't last long in this house.",
+            "datePublished": "2013-05-01T13:06:16.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I really like this recipe! I've been looking for recipes to use to start making my own energy bars because the store-bought ones do not have the right selection in my area. I made some changes to these due to the availability of ingredients: I changed to wheat germ for flaxseed meal, changed the sunflower seeds to almonds, and I had almost no dried fruit in my house so all I put in was a single serving box of raisins! Next time I will definitely add more dried fruit, but this was a great base to work off of! Will be adding this to my recipe box",
+            "datePublished": "2013-04-28T06:39:54.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "filly999comcastnet"
+            },
+            "reviewBody": "I really like this recipe! I've been looking for recipes to use to start making my own energy bars because the store-bought ones do not have the right selection in my area. I made some changes to these due to the availability of ingredients: I changed to wheat germ for flaxseed meal, changed the sunflower seeds to almonds, and I had almost no dried fruit in my house so all I put in was a single serving box of raisins! Next time I will definitely add more dried fruit, but this was a great base to work off of! Will be adding this to my recipe box",
+            "datePublished": "2013-04-28T06:39:54.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bellaskitchen"
+            },
+            "reviewBody": "These are pretty good! Instead of sunflower seeds I used pepitas and 1/4 cup each oat bran and ground flaxseed for the wheat germ. I agree with the other reviewer that these had a cake-like texture - not bad, just different. I think they needed some salt. I'll add 1/2 tsp. next time.",
+            "datePublished": "2011-09-05T13:13:33.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tryintomakedinner"
+            },
+            "reviewBody": "This is good, but room for improvement. These were more cake-like than I expected, it could have been that I used normal wheat flour instead of wheat pastry flour. Although I have to say the next day they were a little less cakey so that was good, and my husband loved them. I might add a little salt next time.",
+            "datePublished": "2011-08-14T13:29:26.930Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217069/energy-bars/",
+          "name": "Energy Bars",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+                  "name": "Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15327/appetizers-and-snacks/snacks/granola-bars/",
+                  "name": "Granola Bar Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

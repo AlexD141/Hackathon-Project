@@ -1,0 +1,481 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12730/grilled-tuna/",
+  "extracted_at": "2026-10-18T01:50:27.690580+00:00",
+  "recipes": [
+    {
+      "name": "Grilled Tuna",
+      "ingredients_raw": [
+        "4 (6 ounce) albacore tuna steaks, 1 inch thick",
+        "3 tablespoons extra virgin olive oil",
+        "salt and ground black pepper to taste",
+        "1 lime, juiced",
+        "0.5 cup hickory wood chips, soaked"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Place tuna steaks and olive oil in a large resealable plastic bag. Seal, and refrigerate for 1 hour."
+        },
+        {
+          "id": 3,
+          "text": "Preheat the grill for medium heat. When coals are very hot, scatter a handful of hickory or mesquite wood chips over them for flavor."
+        },
+        {
+          "id": 4,
+          "text": "Lightly oil grill grate. Season tuna with salt and pepper, and cook on the preheated grill approximately 6 minutes, turning once."
+        },
+        {
+          "id": 5,
+          "text": "Transfer to a serving platter, and drizzle with freshly squeezed lime juice. Serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Grilled Tuna",
+        "datePublished": "1999-07-16T08:04:15-04:00",
+        "dateModified": "2025-12-30T10:57:11-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gordon Holland"
+          }
+        ],
+        "description": "This grilled tuna, cooked over coals and wood chips, is simply seasoned with olive oil and lime juice to let the wonderful flavor of this fish shine.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ZLjq7oNEmoE2MHCCESF1qCtsKAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12730-grilled-tuna-VAT-001-4x3-222ec177c2ec4e909659298ca24eb9e8.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grilled Tuna",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "54"
+        },
+        "cookTime": "PT6M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "281 kcal",
+          "carbohydrateContent": "2 g",
+          "cholesterolContent": "77 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "40 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "644 mg",
+          "sugarContent": "0 g",
+          "fatContent": "12 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 (6 ounce) albacore tuna steaks, 1 inch thick",
+          "3 tablespoons extra virgin olive oil",
+          "salt and ground black pepper to taste",
+          "1 lime, juiced",
+          "0.5 cup hickory wood chips, soaked"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hzzVH01ntKUUfC4a5QUqjlHLW50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12730-grilled-tuna-VAT-005-step-01-5ff69a51a6a34ac99c81fe9de1a9b91b.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6ANr1peK9aGpTvXoxDSDGXhzn9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12730-grilled-tuna-VAT-006-step-02-9b9ef0afb2a349f28bd3607fb2a2f0fd.jpg"
+              }
+            ],
+            "text": "Place tuna steaks and olive oil in a large resealable plastic bag. Seal, and refrigerate for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/O7jp4SbP4KstZ004-sLXgvcqvug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12730-grilled-tuna-VAT-007-step-03-9a109272a3b04354a04444cce84966e4.jpg"
+              }
+            ],
+            "text": "Preheat the grill for medium heat. When coals are very hot, scatter a handful of hickory or mesquite wood chips over them for flavor."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ziGCLs4zPCwmEKSe2FbHLCLBr-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12730-grilled-tuna-VAT-008-step-04-df36edb553494ea9a13a77f759bd8376.jpg"
+              }
+            ],
+            "text": "Lightly oil grill grate. Season tuna with salt and pepper, and cook on the preheated grill approximately 6 minutes, turning once."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/84IS2veMDptEi5kCQ6T7mS83Wyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12730-grilled-tuna-VAT-009-step-05-6cf25f5fc90946aba8711f6254aef091.jpg"
+              }
+            ],
+            "text": "Transfer to a serving platter, and drizzle with freshly squeezed lime juice. Serve immediately."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT76M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SKEATER"
+            },
+            "reviewBody": "I have made this once before - the first time we had tuna steaks. Very simple, yet very flavorful. I will be making this again tomorrow. We love it. I just throw the steaks on our gas grill and they come out perfect. I also add a little garlic powder when I am seasoning with salt and pepper. Very yummy. There are never any leftovers."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dennis Rhodes"
+            },
+            "reviewBody": "A super easy recipe that's incredibly delicious! My daughter flipped out over this recipe. My fresh tuna was cut in 2 1/2 - 3inch thick triangle steaks. As I have a gas grill I did not use soaked hickory wood chips. I marinated it for 2 hours in EVOO. Then covered it with Garlic Salt, Garlic Pepper &amp; Garlic Powder. I grilled it over high heat for 5 minutes on each side. Then I tented it in aluminum foil until I got inside and squeezed the fresh lime juice over the tuna.",
+            "datePublished": "2013-06-28T21:36:36.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kitwmit"
+            },
+            "reviewBody": "Easy, fast and basic recipe tasty! I made it for 2 people and added hickory smoke (not smoke chips) old bay &amp; another fish seasoning. Turned out perfect cooked 3 min on each side on gas grill. Will make again!",
+            "datePublished": "2023-03-18T00:52:23.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jsubman"
+            },
+            "reviewBody": "Fast, easy and absolutely delicious!!! \n\nAmazing how so few ingredients could be so tasty. Be sure to use high quality tuna like Ahi or Yellow Fin and don't over cook the tuna. I kept my grill cover open to sear the fish without overcooking it.",
+            "datePublished": "2017-05-20T16:06:16.353Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christian"
+            },
+            "reviewBody": "Who doesn't love seared tuna? I found this recipe and added virgin/original margarita mix to the marinade and let the steaks sit for about 45 min to let them soak up some of the citrus. DO NOT cook them for more than 2 1/2-3 1/2 min per side. They'll become chewy and not good at all. HIGH HEAT and LOW COOK TIME and you'll be alright.",
+            "datePublished": "2015-06-02T07:09:42.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valarie Bedell Bell"
+            },
+            "reviewBody": "Made this last night to take out on the boat . Marinaded in olive oil and 4 crushed garlic cloves. Cooked 2 min per side. Put it in foil , kept it in an aluminum pan next to grilled salmon. Used a \" keep warm or cold\" bag I got at grocery . We ate it 2hrs later Delicious!! Topped both tuna &amp; salmon with Dijon dill sauce OMG. Here's dill sauce recipe 1/2 cup plain yogurt\n1/4 cup Dijon mustard\n1 tablespoon honey\n1/4 cup fresh lemon juice\n3 tablespoons chopped fresh dill. Mix all together &amp; chill for about an hour.",
+            "datePublished": "2016-07-03T11:57:15.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AcaCandy"
+            },
+            "reviewBody": "This recipe is sooooo good. I've made it a few times now, and yesterday sprinkled some Herbs de Provence on top --- the flavor was FABULOUS! One thing to keep in mind, DO NOT OVERCOOK Tuna - pretend that you are cooking a fillet and cook accordingly to your liking.",
+            "datePublished": "2012-01-12T10:23:54.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chuck in Northern MI"
+            },
+            "reviewBody": "This was a great meal. I used sushi-grade red salmon and wanted it rare-medium rare but cooked it too long (6 min total) and it was barely pink in the center. The real treat was the salsa!",
+            "datePublished": "2017-10-18T03:17:45.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "stephaniestennes"
+            },
+            "reviewBody": "so my dad came home with a bunch of fresh albacore tuna and i had no idea what to do with it. this was a great starter. i marinated it in the olive oil for an hour and then cut it into little pieces (about 3 inches) and seasoned them with salt and garlic pepper. and then drizzled with fresh squeezed lime juice. it was amazing!",
+            "datePublished": "2008-09-14T21:30:44.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TCapri"
+            },
+            "reviewBody": "Drizzled olive oil on the 2 pound loin, sprinkled with salt and pepper (didn't have the wood chips) and oven baked 500 degrees for 8-9 min, then squeezed 1/2 lime. Yummy!!",
+            "datePublished": "2011-08-27T22:11:40.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VeggieMan"
+            },
+            "reviewBody": "Given the tiny amounts of prep/cooking time, there is HUGE returns in flavor &amp; presentation! 2nd time out I put a level TSP of finely minced fresh tarragon into the oil for the tuna to absorb... WOW!!",
+            "datePublished": "2013-09-18T15:43:50.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyCow1858"
+            },
+            "reviewBody": "Delicious and also one of the first grilled tuna recipes I've tried where the fish doesn't just stick and burn to the grill (probably because of the olive oil marinade ahead of time). Don't skip the squeeze of lime at the end, it adds a nice zing.",
+            "datePublished": "2025-05-24T14:16:18.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "twsmalt"
+            },
+            "reviewBody": "So simple and a great, easy addition for following a Mediterranean type diet. Excellent",
+            "datePublished": "2018-08-09T00:28:28.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "funbake"
+            },
+            "reviewBody": "A nice easy tasty recipe.",
+            "datePublished": "2018-06-23T00:56:22.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Sandlin Rowell"
+            },
+            "reviewBody": "I used rosemary infused olive oil. This was absolutely delicious!!! The lime juice really made it!",
+            "datePublished": "2017-06-19T22:44:42.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Traci Humphries"
+            },
+            "reviewBody": "This was delicious! The only thing is that I didn't have the wood chips to use so I followed the rest of the recipe along with adding a little garlic powder as others suggested. Simple, easy and delicious would definitely make it again!",
+            "datePublished": "2017-05-05T13:08:46.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jolissi"
+            },
+            "reviewBody": "There is nothing better than a great tasting meal that only takes a few minutes to cook and prep. Added garlic to recipe. You better believe I will make this again. Thanks for the recipe",
+            "datePublished": "2016-06-11T11:53:02.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "julie"
+            },
+            "reviewBody": "Amazing and healthy. The only change I made was to add garlic in the marinade.",
+            "datePublished": "2016-05-09T23:50:21.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynne"
+            },
+            "reviewBody": "Perfect!!!",
+            "datePublished": "2015-08-03T13:19:37.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rayaddas"
+            },
+            "reviewBody": "OMG!",
+            "datePublished": "2015-05-16T07:55:05.193Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12730/grilled-tuna/",
+          "name": "Grilled Tuna",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/93/seafood/",
+                  "name": "Seafood"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+                  "name": "Fish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/415/seafood/fish/tuna/",
+                  "name": "Tuna"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,468 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/172671/breakfast-sausage-casserole/",
+  "extracted_at": "2026-10-18T02:25:29.444477+00:00",
+  "recipes": [
+    {
+      "name": "Breakfast Casserole",
+      "ingredients_raw": [
+        "1 pound breakfast sausage",
+        "6 eggs",
+        "2 cups milk",
+        "0.75 teaspoon dry mustard powder",
+        "0.5 teaspoon salt",
+        "8 slices bread, cubed",
+        "4 cups shredded Cheddar cheese",
+        "1 (10.75 ounce) can condensed cream of mushroom soup"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Grease a 9x13-inch baking dish."
+        },
+        {
+          "id": 2,
+          "text": "Cook sausage in a large skillet over medium-high heat until evenly browned, crumbly, and no longer pink in the center, 7 to 9 minutes. Drain and discard any excess grease."
+        },
+        {
+          "id": 3,
+          "text": "While the sausage is cooking, whisk eggs in a mixing bowl until smooth. Whisk in 2 cups milk, mustard powder, and salt until evenly blended."
+        },
+        {
+          "id": 4,
+          "text": "Spread bread cubes into the prepared dish; sprinkle sausage over top, then Cheddar cheese. Pour egg mixture over the entire dish. Cover and refrigerate, 8 hours to overnight."
+        },
+        {
+          "id": 5,
+          "text": "When ready to bake, preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+          "id": 6,
+          "text": "Remove casserole from the refrigerator and uncover. Whisk condensed soup and remaining 1/2 cup milk together in a bowl; pour mixture over casserole."
+        },
+        {
+          "id": 7,
+          "text": "Bake in the preheated oven until firm and golden brown, about 1 1/2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Breakfast Casserole",
+        "datePublished": "2019-04-02T02:50:55-04:00",
+        "dateModified": "2026-07-27T10:34:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Heather Franks"
+          }
+        ],
+        "description": "This overnight breakfast casserole with cream of mushroom soup, breakfast sausage, eggs, and Cheddar cheese is a hearty way to start your day.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/E0tNeizIggaIsjC1ZdYtiypoXYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/172671breakfast-sausage-casserolefabeveryday4x3-93a82f9045224b38859e579e03450942.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Breakfast Casserole",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "126"
+        },
+        "cookTime": "PT100M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "451 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "190 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "25 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "1202 mg",
+          "sugarContent": "5 g",
+          "fatContent": "32 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound breakfast sausage",
+          "6 eggs",
+          "2 cups milk",
+          "0.75 teaspoon dry mustard powder",
+          "0.5 teaspoon salt",
+          "8 slices bread, cubed",
+          "4 cups shredded Cheddar cheese",
+          "1 (10.75 ounce) can condensed cream of mushroom soup"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Grease a 9x13-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook sausage in a large skillet over medium-high heat until evenly browned, crumbly, and no longer pink in the center, 7 to 9 minutes. Drain and discard any excess grease."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "While the sausage is cooking, whisk eggs in a mixing bowl until smooth. Whisk in 2 cups milk, mustard powder, and salt until evenly blended."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread bread cubes into the prepared dish; sprinkle sausage over top, then Cheddar cheese. Pour egg mixture over the entire dish. Cover and refrigerate, 8 hours to overnight."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "When ready to bake, preheat the oven to 300 degrees F (150 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove casserole from the refrigerator and uncover. Whisk condensed soup and remaining 1/2 cup milk together in a bowl; pour mixture over casserole."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until firm and golden brown, about 1 1/2 hours."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "1 (9x13-inch) casserole"
+        ],
+        "totalTime": "PT600M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BLUEROADS"
+            },
+            "reviewBody": "Used to love this and lost the recipe. Thanks for posting it. The only difference between your recipe and mine was instead of bread cubes, my recipe calls for 2 bags of croutons. Herb and garlic croutons add a nice taste. I also am not fond of mustard, so leave that out. Thanks again! Gonna make it for breakfast this weekend!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fabeveryday"
+            },
+            "reviewBody": "This was absolutely delicious!! I made a few small changes after reading the reviews. First, I added a little garlic powder, onion powder, and pepper to both the egg mixture and the soup mixture (to taste). Then I baked for 30 minutes covered with foil, and about 50 minutes uncovered (I checked around 45 minutes to make sure it wasn’t getting overdone). It was cooked through and the texture perfect (not soggy), which browned edges but not burnt. I’d make this again for sure.",
+            "datePublished": "2024-09-03T15:04:31.326Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AceCurd9413"
+            },
+            "reviewBody": "Recently got this recipe from my mother in law it’s absolutely delicious reminds me a lot of cheese burger casserole I might try it with bisquick next time I make it. My family loved it. It’s perfect for serving a crowd for holiday breakfast. I’ll definitely be making it again and using bacon on half of it. One tip that I will add for anyone who is making it for the first time is that it needs additional seasoning I added some garlic salt, a pinch of cayenne, onion powder and pepper to the egg mixture and did the same for the cream of mushroom soup and milk mixture and it was delicious",
+            "datePublished": "2023-12-29T02:10:38.334Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WrenskiBaby"
+            },
+            "reviewBody": "You can use those little precooked brown-n-serve sausages in this, just slice into disks. This was good.",
+            "datePublished": "2011-04-26T12:08:13.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherri Staton Volkert"
+            },
+            "reviewBody": "Update: I've made this before and raved about it, then my husband asked me to make a pan to take to work. After digging thru the freezer I found 6 buns and mild Italian sausage, so that's what I used. I took the sausage out of the casing and fried it up, threw it together last night and finished it this morning. He got there at 7:00 with a hot pan and he called me at 9:30 saying it was already gone. Everyone loved it. I did add some cut up fresh mushrooms I needed to use up (was going to add to the meat but forgot). Baked @ 325 on convection for an hour. It still turned out great. For those complaining it's too salty, it might be the soup you're using. I will only use Campbell's; other brands I have tried were too salty for my taste. I'd rather spend the extra money than ruin an entire meal over a few cents.",
+            "datePublished": "2012-01-17T09:52:59.387Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made this a day ahead of time. I also just mixed the eggs, milk, and can of mushroom soup all together. This made it so much easier with less steps. This turned out amazing. Everyone that came over loved this. Including every picky eating kid. Lol.",
+            "datePublished": "2021-12-29T16:33:10.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katwyn"
+            },
+            "reviewBody": "A great casserole! I usually use Unsalted cream of mushroom soup when making most things—unsalted cream soups and broths are now available at most grocery stores. It is also good made with diced ham or crisped bacon instead of sausage—for those who have difficultly digesting sausage. Add some par cooked red peppers or other vegetables if the spirit moves you to get fancy. Can’t go wrong with this one!",
+            "datePublished": "2025-09-17T20:00:42.041Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JPLong"
+            },
+            "reviewBody": "My family absolutely loved this breakfast casserole!! So easy to make too! I followed this recipe but made a few changes.... I used 10 slices of bread instead of 8, used 3 cups of shredded cheddar cheese instead of 4, used 8 eggs instead of 6, and cooked it at 325 degrees for 1:20 minutes. It was delicious!!",
+            "datePublished": "2013-03-18T19:18:27.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CheekyRum2802"
+            },
+            "reviewBody": "Made this using frozen hash brown Pattie’s instead of bread. Thought about tater tots but didn’t have any at the time. Gave it that breakfast feel.",
+            "datePublished": "2023-08-27T12:31:03.886Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ljday"
+            },
+            "reviewBody": "Followed recipe as written, but it was too salty for us. I would recommend omitting the salt in the egg mixture.",
+            "datePublished": "2026-01-24T21:59:04.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anne Hix"
+            },
+            "reviewBody": "It was good and easy to make. It took about 1hr, and 40 minutes to bake at 300 degrees. This was the first time I had used bread instead of hashbrowns. Mild flavor, it could use some bacon added. My brother-in-law added salsa on the side.",
+            "datePublished": "2023-11-04T15:17:57.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RonGoings"
+            },
+            "reviewBody": "I used deer burger as I didn't have sausage, otherwise pretty good.",
+            "datePublished": "2026-10-17T20:05:27.798Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jill"
+            },
+            "reviewBody": "I have made a gluten free version and it was delicious -just as the original. Everyone can enjoy!",
+            "datePublished": "2026-10-04T20:28:55.868Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donnajm"
+            },
+            "reviewBody": "I live this recipe. Been making it for years. It is delicious and yes it does have to make a long time. I also use flavored croutons",
+            "datePublished": "2026-09-17T14:49:59.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paul"
+            },
+            "reviewBody": "Awesome",
+            "datePublished": "2026-09-17T14:44:47.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DAVE CABERNET"
+            },
+            "reviewBody": "Family tradition every Christmas morning!",
+            "datePublished": "2025-12-25T18:03:18.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Claire"
+            },
+            "reviewBody": "Really good will definitely make again",
+            "datePublished": "2025-11-23T22:12:05.995Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ebob"
+            },
+            "reviewBody": "Will leave out the added salt next time and add 2/3C milk and 1more egg to the egg mixture.",
+            "datePublished": "2025-11-15T18:24:47.479Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jean"
+            },
+            "reviewBody": "I love this recipe. I did use croutons instead of the bread and I added some chopped red and green peppers . I love the cream of mushroom soup and the addition of dried mustard.",
+            "datePublished": "2025-11-13T17:31:50.394Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brushjl"
+            },
+            "reviewBody": "So delicious! Inspired recipe. Make sure you use quality sausage, bread and cheese, the difference between ok and great.",
+            "datePublished": "2025-11-01T14:15:30.594Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/172671/breakfast-sausage-casserole/",
+          "name": "Breakfast Casserole",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/144/breakfast-and-brunch/breakfast-casseroles/",
+                  "name": "Breakfast Casserole Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

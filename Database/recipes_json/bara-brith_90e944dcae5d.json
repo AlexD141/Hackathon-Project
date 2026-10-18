@@ -1,0 +1,371 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220531/bara-brith/",
+  "extracted_at": "2026-10-18T03:10:34.464129+00:00",
+  "recipes": [
+    {
+      "name": "Bara Brith",
+      "ingredients_raw": [
+        "1 cup hot brewed tea",
+        "0.75 cup dried currants",
+        "0.75 cup golden raisins",
+        "0.75 cup demerara sugar",
+        "1.25 cups self-rising flour",
+        "1 egg, beaten"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Pour hot tea over currants and raisins in a bowl; soak 8 hours to overnight."
+        },
+        {
+          "id": 2,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and line a 2-pound loaf pan."
+        },
+        {
+          "id": 3,
+          "text": "Stir demerara sugar into tea and fruit mixture until dissolved completely; mix in flour and egg until completely integrated into a batter. Spread batter evenly into the prepared pan."
+        },
+        {
+          "id": 4,
+          "text": "Bake in preheated oven until golden-brown and a toothpick inserted into the center comes out clean, about 40 minutes. Cool in the pan briefly before transferring to a rack to cool completely."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Bara Brith",
+        "datePublished": "2019-04-02T02:56:33-04:00",
+        "dateModified": "2026-06-03T19:29:13-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Femmie London"
+          }
+        ],
+        "description": "Bara brith is a traditional Welsh tea bread that&#39;s moist, sweet, and rich with dried fruit. It is simply delicious, thickly sliced with butter!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/1p8bG-Q-J5nuG41w7jA19Ys6cWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220531bara-brithReneePaj4x3-e6fcb7d224684b398f64fba6c0f95822.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bara Brith",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "16"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "189 kcal",
+          "carbohydrateContent": "43 g",
+          "cholesterolContent": "23 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "261 mg",
+          "sugarContent": "25 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Bread"
+        ],
+        "recipeCuisine": [
+          "Welsh",
+          "British"
+        ],
+        "recipeIngredient": [
+          "1 cup hot brewed tea",
+          "0.75 cup dried currants",
+          "0.75 cup golden raisins",
+          "0.75 cup demerara sugar",
+          "1.25 cups self-rising flour",
+          "1 egg, beaten"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Pour hot tea over currants and raisins in a bowl; soak 8 hours to overnight."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and line a 2-pound loaf pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir demerara sugar into tea and fruit mixture until dissolved completely; mix in flour and egg until completely integrated into a batter. Spread batter evenly into the prepared pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven until golden-brown and a toothpick inserted into the center comes out clean, about 40 minutes. Cool in the pan briefly before transferring to a rack to cool completely."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 (2-pound) loaf"
+        ],
+        "totalTime": "PT530M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsSmitty"
+            },
+            "reviewBody": "Delicious and easy. Making it for the second time!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bmcdsings"
+            },
+            "reviewBody": "Perfection! Can easily be doubled! Don't over steep your tea, but do make it nice and strong to carry the flavor. \nI've done the recipe just as is and it comes out great. I've also made changes with equal success!\nMy changes:\n*used Barry's Gold tea\n*same amount of regular white sugar\n*made my own self rising flour (only had all purpose on hand!)\n*used a combo of regular raisin, dried cranberries and dried blueberries \n*made in mini loaf pans \n\nAll that being said, I think this is an extremely good recipe and is adaptable to your tastes without losing the integrity of it.",
+            "datePublished": "2019-01-03T03:04:46.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa Goff"
+            },
+            "reviewBody": "With just a few ingredients, this recipe was a hit with me, my son &amp; hubby both said, it was good. And since they are more the picky eaters in the house, I tried it on them 1st. The method of the steeping the fruit in tea was totally new to me and that's what drew me in to make this recipe. I used my Kuerig Vue, to brew 8 oz of Sweet Tea(it's rather stout and not very sweet at all). And my only dilemma was, that I tried locating some currants but couldn't find any available. I recieved some help from members of AR that have eaten currants to help with the flavor to sub with. I chose to sub with a half and half with regular raisins &amp; cranberries. Kept the golden raisins the same. The whole recipe process was very easy. I even followed the parchment paper in the loaf pan. And had the correct sugar on hand as well, which is bakers sugar or sugar in the raw brand of sugar. This recipe totally will be made again. The sweetness from the tea and fruit were a surprise and it really is a nice change to regular raisin bread. It's very dense, like a soda bread. However, I loved the sweet &amp; tart raisin taste, even the crust of the bread was nicely sweet. You have to try it least once. I'll make again, and can see using other fruit combinations as well. TY very much.",
+            "datePublished": "2013-01-03T15:39:32.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FairBean9901"
+            },
+            "reviewBody": "Loved this recipe. I always change it a little with different types of dried fruit. I use strong Chai tea and mixed spice (nutmeg, cinnamon, ginger). Today, it was cooked on the Weber BBQ.",
+            "datePublished": "2024-01-20T07:44:20.569Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jec"
+            },
+            "reviewBody": "love this it's so simple. try changing the dried fruit to dried cranberries and soaking in half orange juice half boiling water. add some orange peel and 1tsp cinnamon. easy cranberry and orange loaf.",
+            "datePublished": "2016-03-13T01:48:56.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "????Arthur"
+            },
+            "reviewBody": "I found this to be delicious! I did change the recipe slightly though, I only used Raisins ( as that was all i had in my cupboard ) I added no sugar as i found the raisins to be sweet enough and i made my own self raising flour out of wholemeal flour and baking powder. I'm not sure if it is suppose to be moist on the inside but it came out the oven slightly moist which in my opinion gave it more flavour and texture. 10/10",
+            "datePublished": "2019-08-03T22:44:30.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle"
+            },
+            "reviewBody": "Very simple recipe that yields a very moist and tasty bread. Picky eaters love it. I make this recipe about 5-6 times a year. It's mostly requested in the cooler months. I add a teaspoon of cinnamon when I remember. The recipe is good either way. I've also substituted regular raisins when I ran out of golden at home. My family likes the tea flavor, which adds the moisture to the bread. I typically brew 2 to 3 tea bags and let the tea cool before adding the raisins and currents.",
+            "datePublished": "2017-11-23T15:35:28.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TrendyFlour3067"
+            },
+            "reviewBody": "I made this with gluten free self raising for guests with coeliacs who loved it. So easy to make and compatible with GF flour. The recipe is now going to Australia. Ideal for sharing as It's GF, &amp; LF, Vegetarian and delicious.",
+            "datePublished": "2023-07-14T15:07:23.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ReneePaj"
+            },
+            "reviewBody": "This is delicious. I wasn't sure what to expect, having never had this Welsh favorite before but I was pleasantly surprised. Great flavor and easy preparation. I couldn't find demerara sugar, so I used dark brown sugar as a substitute and it worked well. Next time I may add cinnamon and nutmeg or experiment with different flavored teas. A keeper!",
+            "datePublished": "2024-08-27T20:04:48.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LankyBay8615"
+            },
+            "reviewBody": "This is a really nice quickbread to add to your rotation. I didn't have currants so I used raisins and dried tart cherries, which was excellent. I'll get currants for next time to try for variety.",
+            "datePublished": "2025-05-26T16:00:09.262Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MarzipanTurtle"
+            },
+            "reviewBody": "Fabulous. I made this mainly as an excuse to use up ingredients in the house, so instead of demerara sugar, raisins and currants I used plain brown sugar, sultanas and dried cranberries, which I soaked in regular black tea. I'm a first generation Australian, but am getting into my Welsh culture so was really pleased that this worked out so well, even with the dabbling. Will definitely make it next time Mam comes to visit.",
+            "datePublished": "2013-03-16T04:08:44.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sudarat Poonapirat"
+            },
+            "reviewBody": "Love this recipe. The ingredients are easy to have on hand. It is a quick and delicious fruit bread my family and friends have enjoyed! Thank you!",
+            "datePublished": "2025-11-27T01:09:09.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoolWhey1126"
+            },
+            "reviewBody": "Not quite as I remember the Welsh stuff, but EXCELENT. Easy to make and as a new guy at this game; if I can do it then anyone can. Believe me, it's worth it.",
+            "datePublished": "2023-07-17T04:47:38.285Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "elmyraemilie"
+            },
+            "reviewBody": "The bread is delicious! However, next time I will bake it in a 9\"X9\" pan. After 40 minutes, the outside of the loaf was brown and beautiful, but the edges were overdone and the center was barely cooked at all. We cut away the edible parts and threw out the middle. Too bad! Will try it again, though.",
+            "datePublished": "2013-10-14T14:05:04.123Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220531/bara-brith/",
+          "name": "Bara Brith",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/704/world-cuisine/european/uk-and-ireland/",
+                  "name": "UK and Ireland"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/708/world-cuisine/european/uk-and-ireland/welsh/",
+                  "name": "Welsh"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

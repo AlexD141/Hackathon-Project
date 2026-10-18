@@ -1,0 +1,229 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/143005/grape-walnut-salad/",
+  "extracted_at": "2026-10-18T01:58:45.270807+00:00",
+  "recipes": [
+    {
+      "name": "Grape-Walnut Salad",
+      "ingredients_raw": [
+        "1 pound seedless green grapes, rinsed and patted dry",
+        "6 ounces roughly chopped walnuts",
+        "0.5 cup blue cheese dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place grapes in a large bowl. Stir in the walnuts. Pour the blue cheese dressing over the grape mixture and stir until everything is evenly coated. Chill until ready to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Grape-Walnut Salad",
+        "datePublished": "2011-12-15T15:32:58-05:00",
+        "dateModified": "2022-01-28T14:13:47-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Adrienne"
+          }
+        ],
+        "description": "Seedless green grapes, chopped walnuts and blue cheese dressing are all you need for this quick fruit salad.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mrdLrVAe3Exj8lQFHCUsssXCdZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/860998-38e8344cb3a54659b22d83b4a6e0f0f3.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grape-Walnut Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.4",
+          "ratingCount": "7"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "269 kcal",
+          "carbohydrateContent": "14 g",
+          "cholesterolContent": "5 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "150 mg",
+          "sugarContent": "11 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "1 pound seedless green grapes, rinsed and patted dry",
+          "6 ounces roughly chopped walnuts",
+          "0.5 cup blue cheese dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place grapes in a large bowl. Stir in the walnuts. Pour the blue cheese dressing over the grape mixture and stir until everything is evenly coated. Chill until ready to serve."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joby"
+            },
+            "reviewBody": "What a refreshing salad! My store didn't have green grapes, so I used red. With the blue cheese dressing and walnuts, everyone raved about it. Next time, I would add blue cheese chunks to give it an extra kick."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "No. This was not good at all. I love grapes. I love walnuts. I can tolerate Blue Cheese dressing and actually like it in the right setting. This was not a good combination. Sorry this did not work for me. I didn't need a second bite to confirm. I think the grapes and walnuts are fine, it's that strong sour blue cheese dressing that isn't working in this dish.",
+            "datePublished": "2026-01-20T19:19:01.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Weaver"
+            },
+            "reviewBody": "Sweet, savory, and great. This will be a part of every special brunch I host in perpetuity.",
+            "datePublished": "2017-10-28T21:27:02.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nobugging"
+            },
+            "reviewBody": "I used red grapes. I made the mistake of pouring dressing directly into the salad instead of measuring, and I over-poured. It was too rich like that and I didn't have enough grapes and walnuts to double the recipe, so I added some diced celery. Turned out lovely looking and tasting!",
+            "datePublished": "2014-10-27T09:27:02.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kellieann"
+            },
+            "reviewBody": "We didn't care for this, especially the walnuts.",
+            "datePublished": "2012-07-11T18:10:52.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Table for Two"
+            },
+            "reviewBody": "I liked these. I used red grapes and some left over toasted walnuts. I also tried pecans and pistachios. I didn't care much for the pistachios but thought the pecans were every bit as good as the walnuts. These were fun to make, fun to eat. Not a repeat for Hubs though.",
+            "datePublished": "2011-03-07T16:15:37.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jessica"
+            },
+            "reviewBody": "Made this for a potluck and got rave reviews. Might try adding craisins the next time around! Definitely will make again.",
+            "datePublished": "2009-09-18T08:07:43.767Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/143005/grape-walnut-salad/",
+          "name": "Grape-Walnut Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

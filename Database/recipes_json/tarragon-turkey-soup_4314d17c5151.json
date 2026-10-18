@@ -1,0 +1,440 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/158711/tarragon-turkey-soup/",
+  "extracted_at": "2026-10-18T02:17:38.759561+00:00",
+  "recipes": [
+    {
+      "name": "Tarragon-Turkey Soup",
+      "ingredients_raw": [
+        "1 tablespoon olive oil",
+        "1 pound ground turkey",
+        "0.5 cup diced onion",
+        "0.25 cup diced green bell pepper",
+        "1 (48 fluid ounce) can chicken broth",
+        "2 tablespoons dried tarragon",
+        "3 carrots, peeled and thinly sliced",
+        "5 small red potatoes, diced with peel",
+        "salt and pepper to taste",
+        "0.75 cup quick-cooking barley"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat olive oil in a large pot over medium-high heat. Add ground turkey; cook and stir until the turkey has crumbled and begun to brown, 3 to 4 minutes. Stir in the onion and green pepper, and continue cooking until the onion softens and turns translucent, about 3 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Pour in the chicken broth, and add the tarragon, carrots, and red potatoes. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the potatoes soften, about 20 minutes, stirring occasionally. Season to taste with salt and pepper, then stir in barley. Continue simmering until the barley is tender, about 15 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tarragon-Turkey Soup",
+        "datePublished": "2018-06-08T09:50:11-04:00",
+        "dateModified": "2025-02-26T15:59:29-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "smarti"
+          }
+        ],
+        "description": "This is a quick, yummy soup perfect for a cool evening.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/UuLQB5eBXKV77dujdJzWyl79nPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2428352-10764f0e393e4b2da6151fca81493d8f.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tarragon-Turkey Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "53"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "271 kcal",
+          "carbohydrateContent": "36 g",
+          "cholesterolContent": "46 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "17 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "912 mg",
+          "sugarContent": "4 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon olive oil",
+          "1 pound ground turkey",
+          "0.5 cup diced onion",
+          "0.25 cup diced green bell pepper",
+          "1 (48 fluid ounce) can chicken broth",
+          "2 tablespoons dried tarragon",
+          "3 carrots, peeled and thinly sliced",
+          "5 small red potatoes, diced with peel",
+          "salt and pepper to taste",
+          "0.75 cup quick-cooking barley"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large pot over medium-high heat. Add ground turkey; cook and stir until the turkey has crumbled and begun to brown, 3 to 4 minutes. Stir in the onion and green pepper, and continue cooking until the onion softens and turns translucent, about 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour in the chicken broth, and add the tarragon, carrots, and red potatoes. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the potatoes soften, about 20 minutes, stirring occasionally. Season to taste with salt and pepper, then stir in barley. Continue simmering until the barley is tender, about 15 minutes."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "2 quarts"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Olivia"
+            },
+            "reviewBody": "added a clove of garlic. very good. can use rice instead of barley if you prefer."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kirkwall1"
+            },
+            "reviewBody": "Made this soup in my Instant Pot. It was very flavorful and I will make it again. I had a turkey breast in my freezer which I had cooked and I used the leftovers from that instead of ground turkey. I also made my own turkey stock in the Instant Pot using the turkey bones. Also, I added the turkey meat at the end as it was already fully cooked. Used rice in place of the barley. I would definitely recommend using the 2 tablespoons of tarragon as it gives the soup a lovely flavor. Highly recommend.",
+            "datePublished": "2018-08-10T22:24:38.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChristineM"
+            },
+            "reviewBody": "This came out pretty good, but I think it would be even better with leftover turkey instead of ground turkey (but then again, I'm just not a fan of ground meats in soups). I probably doubled the onion, added two cloves of garlic and used my homemade vegetable stock. I hate when I'm rolling through a recipe only to find I'm missing key ingredients, but subbing sweet potato for red potato worked beautifully, and instead of barley I had about 1/2 cup of red lentils to use up. Love the tarragon aroma and flavor - used the full 2 tbsp and it was perfect. Can't wait for the next turkey dinner so I can try this with chopped cooked turkey instead of ground!",
+            "datePublished": "2011-09-20T05:51:15.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrs A"
+            },
+            "reviewBody": "My husband and I love this soup recipe. So much that today I decided to join AllRecipes ! This is the third time I made this soup. Like most others, I added a few more ingredients/spices. I added 2 cloves of fresh garlic to the turkey mixture. I also added about a pinch poultry seasoning, ground blk pepper &amp; Herbs De Provence &amp; sea salt. After adding the chicken broth I also added in about 1 stalk of chopped celery. I used small russet potatos which I peeled and diced. And finally I used 1 bag of brown Success rice, which I added once the soup had started to boil. Seasoned w/ small amount of sea salt &amp; pepper if needed and done!",
+            "datePublished": "2012-02-06T15:51:58.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katherine"
+            },
+            "reviewBody": "I was looking for a quick, easy and yummy soup recipe for the end of a busy day, this soup was fantastic!! I did make a few changes such as, I made it with 2 pounds of ground turkey, I also added kidney beans, white beans, corn, green beans and omitted the barley. I also added 2 cloves of garlic, 2 teaspoon of savory seasoning, an extra 2 teaspoons of tarragon. 1 teaspoon garlic salt, 1 teaspoon crushed dried bay leaf, 1 more 8pz can of broth and 2 Chicken bouillon cubes.",
+            "datePublished": "2015-07-27T19:28:10.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ikes bites"
+            },
+            "reviewBody": "Great rainy day springtime soup!! Thank you! Added a can of northern beans, brown rice, two cloves of garlic, and 32 more fl oz of broth. It made a lot for just me and my wife. I thought i would have some to freeze but it's almost gone!",
+            "datePublished": "2014-05-02T11:20:02.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debra Gertz"
+            },
+            "reviewBody": "Loved it on a cold winter's night after Christmas. I used leftover turkey breast instead of ground turkey, brown rice instead of barley and a half bag of frozen (microwaved first) mixed veggies. Was yummy with my grandma's recipe for (no sugar added) white corn meal cornbread.",
+            "datePublished": "2012-12-29T15:02:25.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth"
+            },
+            "reviewBody": "SOOOO good! My 1 yr old, 5 yr old, and husband loved it. I used leftover turkey meat from thanksgiving meal and turkey broth I'd made from the turkey carcass. Also I used cooked brown rice instead of barley. It tasted a little off in the end and it took a while to figure out what was missing... garlic powder made it PERFECT so next time I'll do crushed garlic with the onions and green peppers. Amazing! So good and so good for you!",
+            "datePublished": "2009-12-03T18:27:25.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie Rhea"
+            },
+            "reviewBody": "We all really enjoyed this recipe. I had lots of leftover turkey from Christmas, so I cut that up and used it in place of the ground turkey. I didn't have barley, so I used regular white rice and it was quite yummy. I also added a couple of sweet potatoes, cubed. Made the soup very colorful and tasty. Easy and delicious. I will make this again!",
+            "datePublished": "2014-01-01T14:08:51.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "redreo"
+            },
+            "reviewBody": "Very easy and tasty. I was hesitant to use 2 T of tarragon, but it tasted wonderful that way. Everyone seemed to love it. Tasted better the next day. I changed it slightly - I added a bit of garlic, used russet potatoes, and rice instead of barley. A squeeze of lemon juice and dash of hot sauce upon serving brightened it up. Will probably make it again, considering it uses simple ingredients I usually have on hand.",
+            "datePublished": "2010-04-07T15:50:01.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly A"
+            },
+            "reviewBody": "I always like more spices... so I added white pepper, marjoram, garlic salt, 2 cloves of garlic, and sage. very tasty. I also added more potatoes, bell peppers, and water. I will definitely make it again! THX!",
+            "datePublished": "2009-09-30T18:34:07.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan N"
+            },
+            "reviewBody": "This is a perfect soup for left over turkey from thanksgiving! Hearty and simply delish!",
+            "datePublished": "2019-01-07T00:58:41.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Iona"
+            },
+            "reviewBody": "Not HJ was the",
+            "datePublished": "2018-12-29T16:12:28.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gina"
+            },
+            "reviewBody": "loved it",
+            "datePublished": "2018-04-07T01:13:16.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bryandevans1979"
+            },
+            "reviewBody": "Yummy!! Delicious recipe especially on one of the few rainy days we get in Las Vegas. I used whole wheat rotini instead of barley and added two garlic cloves and celery. Absolutely delicious.",
+            "datePublished": "2015-01-11T16:29:38.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monica Schweinfurth"
+            },
+            "reviewBody": "This recipe was delicious and easy. I did substitute the barley with rice, and the whole family really liked it (and for once the leftovers didn't go in the trash!) I did use a full pound of turkey, but think that the next time I make it, it will be with country style ground pork instead (less healthy, more tasty!)",
+            "datePublished": "2013-11-24T19:15:35.863Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "joliesusanna"
+            },
+            "reviewBody": "this is one of the most flavorful soups I have ever made! I've used this recipe for a while now and still love it! The tarragon is a perfect compliment to the turkey and veggies!",
+            "datePublished": "2013-01-13T14:16:22.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margo Barron"
+            },
+            "reviewBody": "Just so-so. I love tarragon so I thought it would be really tasty. Probably won't make this again.",
+            "datePublished": "2011-02-27T10:46:49.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "silverlining"
+            },
+            "reviewBody": "Didn't have barley. But I added some chopped up Chard that I had on hand, and it tasted pretty good nonetheless. Oh, I didn't add bell peppers either (don't really like 'em).",
+            "datePublished": "2010-04-16T17:10:21.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LYNLOR"
+            },
+            "reviewBody": "Interesting combination of flavors, but something tastes a bit off. There's almost a metallic aftertaste, which is disappointing. I probably won't make this again, unless it all comes together after sitting overnight and being reheated (as other reviewers have said it has). The potential is there for this soup to be an amazing \"comfort food\", but this aftertaste is killing me right now. :(",
+            "datePublished": "2010-04-12T12:21:14.433Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/158711/tarragon-turkey-soup/",
+          "name": "Tarragon-Turkey Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/692/soups-stews-and-chili/soup/turkey-soup/",
+                  "name": "Turkey Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

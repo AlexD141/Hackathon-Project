@@ -1,0 +1,511 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15456/sour-cream-chicken-paprika/",
+  "extracted_at": "2026-10-18T02:15:30.759895+00:00",
+  "recipes": [
+    {
+      "name": "Sour Cream Chicken Paprika",
+      "ingredients_raw": [
+        "1.5 tablespoons vegetable oil",
+        "4 skinless, boneless chicken breast halves",
+        "1 cup chopped onion",
+        "1.5 tablespoons butter",
+        "2 tablespoons paprika",
+        "0.5 teaspoon salt",
+        "2 cups chicken stock",
+        "1 (8 ounce) container sour cream",
+        "1 teaspoon all-purpose flour"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in a large skillet over medium-high heat. Add chicken and pan-fry until cooked through and juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove chicken from skillet and set aside."
+        },
+        {
+          "id": 3,
+          "text": "Cook onion in butter in the same skillet until translucent but not brown, about 5 to 8 minutes. Season with paprika and salt."
+        },
+        {
+          "id": 4,
+          "text": "Pour chicken stock into the pan and bring to a boil."
+        },
+        {
+          "id": 5,
+          "text": "Reduce heat to simmer; mix sour cream with flour until smooth, then whisk into chicken stock."
+        },
+        {
+          "id": 6,
+          "text": "Place chicken in skillet; simmer until chicken is heated through and sauce has thickened."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sour Cream Chicken Paprika",
+        "datePublished": "1999-09-05T18:53:26-04:00",
+        "dateModified": "2023-05-12T10:53:10-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "DEME"
+          }
+        ],
+        "description": "This one-skillet chicken with sour cream sauce is a family-favorite. Paprika lends gentle flavor and color to chicken and onion cooked in sour cream.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/rn8LgMGpyGG-DRQL7dDPwArAwy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-beauty-4x3-BG-7649-309783b35cf1488fa534292899ccda3d.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sour Cream Chicken Paprika",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "280"
+        },
+        "cookTime": "PT30M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "363 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "105 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "30 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "431 mg",
+          "sugarContent": "2 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.5 tablespoons vegetable oil",
+          "4 skinless, boneless chicken breast halves",
+          "1 cup chopped onion",
+          "1.5 tablespoons butter",
+          "2 tablespoons paprika",
+          "0.5 teaspoon salt",
+          "2 cups chicken stock",
+          "1 (8 ounce) container sour cream",
+          "1 teaspoon all-purpose flour"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bMYRykiyMNUBJfBqm4t2TWde0vA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-step-1-BG-7563-f950d994c65e4d91a584d35fc141d3ba.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sV-Mx4B4Rcx4s7gK5_0_ztKD5-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-step-2-BG-7572-506b9854313b45f5abe9eddcf2434b10.jpg"
+              }
+            ],
+            "text": "Heat oil in a large skillet over medium-high heat. Add chicken and pan-fry until cooked through and juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove chicken from skillet and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/25Mkw4g3rSeBaxACM_s_LlUUbmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-step-5-BG-7579-0a822645af7642e5a035b9004c646d21.jpg"
+              }
+            ],
+            "text": "Cook onion in butter in the same skillet until translucent but not brown, about 5 to 8 minutes. Season with paprika and salt."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/SUOAQgKlZ1OW096nP_2JTXNxOcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-step-6-BG-7585-1a58e62d78584b21af5a909fab4b48e0.jpg"
+              }
+            ],
+            "text": "Pour chicken stock into the pan and bring to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lBLFtgWhLFw2bpcGHt7DJKX479Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-step-7-BG-7591-39e74534d068414f988663ad23b4ccf9.jpg"
+              }
+            ],
+            "text": "Reduce heat to simmer; mix sour cream with flour until smooth, then whisk into chicken stock."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/IQ2NyGnbl47LQaw_VKOSZPMUZ7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15456-sour-cream-chicken-paprika-DDMFS-step-8-BG-7602-73c67d63db904d53b32ec38a09ccbdd7.jpg"
+              }
+            ],
+            "text": "Place chicken in skillet; simmer until chicken is heated through and sauce has thickened."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MIXMOMMA"
+            },
+            "reviewBody": "I'm rating this dish again because so many people feel the need to change it. I agree that it does seem a little bland. I promise you all....replace 1 Tbs with Emeril's Essence Original. This is the only change I needed to perk up the flavor without changing the overall taste of the dish. The sauce is not meant to be a gravy it is more of a sauce. It also thickens upon standing. I use brown rice. I have 2 VERY picky kids. I mean it PICKY!!! They will eat this any day of the week, probably even for breakfast! OOPS FORGOT....ALSO CHOP THE CHICKEN. IT DOES WONDERS FOR THE FLAVOR!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb"
+            },
+            "reviewBody": "This is actually an old farm recipe that's been in my family for 4 generations! I use corn starch and water to thicken before adding sour cream. You can use any form of chicken. My family prefers boneless skinless chicken thighs.",
+            "datePublished": "2023-05-20T14:14:47.289Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jhalldc"
+            },
+            "reviewBody": "I saw all of the good reviews and was highly disapointed. Bland Bland Bland. A little experimentation yields much better results. First, don't use a non-stick pan. Make sure you have all that residue in the pan from the browning and use 1/4 of white wine to deglaze. Second, Use Smoked Hungarian Paprika, not the typical supermarket fare. This dish will only be as good as the paprika used. Once you have a good paprika, use twice as much as called for. Also add 1/2 teaspoon each of Black and Hot Pepper of choice. Finally, mix 1 cup of flour and 2 cups of chicken stock before adding to the pan. I mix them is a sports bottle making sure the flower is well dissolved. This makes for a thick and consistant sauce. BTW, my favorate source for the paprika is Auntie Arwen. Google it.",
+            "datePublished": "2011-01-12T16:37:54.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "yavie"
+            },
+            "reviewBody": "I'll be honest, the reviews that say this recipe is a bit bland and watery are right. Here's how I fixed it:\n1) Slice the chicken breasts, pat dry, and then coat with a mixture of flour, paprika, salt, pepper, and garlic powder before pan-frying it. Briefly brown both sides of the chicken but don't cook through, this will add a lot of flavor without the chicken getting overcooked and tough when you add it back to the sauce.\n2) After sauteeing the onions in butter and adding the paprika, sprinkle the flour directly into the pan (instead of mixing it into the sour cream) and cook for about a minute, stirring constantly, to create a roux. This will give the sauce a much better consistency, as it will now thicken properly.",
+            "datePublished": "2018-12-11T13:47:14.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JumpyDosa1293"
+            },
+            "reviewBody": "Outstanding! Because others mentioned it could be a bit bland, note the following:\n1. Use bite sized pieces of chicken (more browned suraces!)\n2. Salt and pepper chicken\n3. use 1/2 cup onion instead of 1 cup, but add a large chopped shallot and 2 (or more to taste) finely chopped garlic cloves (don't burn garlic, add to pan just before chicken stock.)\n4. ADD CUP OF FROZEN PEAS at the same time you add the chicken back into pan.\n5. Toss this sauce with one pound short pasta (gemelli, bowties, penne etc) remember to reserve a cup of pasta water ...add a few spoonfuls to the pasta while tossing, reserve the rest in case it dries out.\n6. TOP WITH GRATED PARMESAN OR ROMANO cheese...use the good stuff!\nNO LEFTOVERS!",
+            "datePublished": "2016-09-10T19:38:53.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Outstanding! Because others mentioned it could be a bit bland, note the following:\n1. Use bite sized pieces of chicken (more browned suraces!)\n2. Salt and pepper chicken\n3. use 1/2 cup onion instead of 1 cup, but add a large chopped shallot and 2 (or more to taste) finely chopped garlic cloves (don't burn garlic, add to pan just before chicken stock.)\n4. ADD CUP OF FROZEN PEAS at the same time you add the chicken back into pan.\n5. Toss this sauce with one pound short pasta (gemelli, bowties, penne etc) remember to reserve a cup of pasta water ...add a few spoonfuls to the pasta while tossing, reserve the rest in case it dries out.\n6. TOP WITH GRATED PARMESAN OR ROMANO cheese...use the good stuff!\nNO LEFTOVERS!",
+            "datePublished": "2016-09-10T19:38:53.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine"
+            },
+            "reviewBody": "My family has made a version of this my whole life. The differences I think make ours taste much better. First no oil... Bacon grease!!! Cook the onions in bacon grease!!! Then brown the chicken right in the same pan while the onions are cooking. Use bone in with skin and remove after cooking if you don't like!! Ads so much flavor!!!! We add flour directly to the pan with the onion and bacon grease to make a roux and then add water. Only brown the outside of the chicken. Before this.. because you cover and cook your chicken in that mix. Season with salt pepper and a good Hungarian paprika!! My family is Hungarian so I'm biased! Add your door cream after the chicken is cooked!! The sauce this makes is amazing!!Then serve over spaetzle!!!! Delicious!!!!!",
+            "datePublished": "2026-01-26T14:04:48.336Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lilraggle"
+            },
+            "reviewBody": "Listen. I have literally NEVER reviewed anything on any recipe site (although I cook often), but I literally, and actually literally, not the popular figuratively literally, created this account to review this to tell you all to follow another user's advice here about adding the packet of onion soup mix, whisked into one cup boiling water, in lieu of the chicken broth. It adds a phenomenal umami flavor that I would imagine is exactly what the other reviewers said was missing from the original. It adds a ton of flavor, so if you wanna go easier on that salty, savory taste, maybe try half or 3/4 of a packet of mix to the one cup of water, but TRUST ME. Just do it. I gave the recipe four stars just because this addition is, to me, vital. Otherwise, I also added minced garlic right when the onion started to soften and did NOT make up for the additional liquid it calls for (meaning the one cup of soup mix soup was all I added). I served it over orecchiette pasta as that's what I happened to have. Insanely delicious.",
+            "datePublished": "2018-02-14T02:06:15.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MountainLovinGal"
+            },
+            "reviewBody": "Being of Eastern European descent, I was hoping for a nice Hungarian Paprikash recipe. To do so, the sauce must be thick. I replaced the oil with unsalted butter. I used 2 T good quality Hungarian paprika. I added 1/2 cup dry white wine to the sautéed onions, then reduced down. I added only 1 C of chicken stock (reduced sodium, organic). I increased the flour to 2 tsp. Delicious! My hubs is very picky, and he loved it. Will make again.",
+            "datePublished": "2015-04-06T19:54:17.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyDove5403"
+            },
+            "reviewBody": "followed the lead of a couple other commenters...cut back the broth, chunked and seasoned the chicken before frying, used the flour to make a roux in the sauteed onions vs stirring into the sour cream...wow.",
+            "datePublished": "2025-02-18T01:23:38.434Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gretchen"
+            },
+            "reviewBody": "Great recipe, but I agree that it would be bland without a little more love added. I added the chicken bouillon as recommended, 1/4 teaspoon of red pepper flakes, as well as 2 T of flour and 2 T of corn starch with 1/4 cup of water mixed together and added to thicken.",
+            "datePublished": "2016-01-28T16:56:31.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RonGoings"
+            },
+            "reviewBody": "I also followed the idea of cutting the bacon up into bits. I also cook the chicken separately and not with the soup and cheese mixture in the center of a filleted chicken.",
+            "datePublished": "2026-10-12T18:33:05.891Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katwyn"
+            },
+            "reviewBody": "We love Chicken Paprikash! Sliced red bell peppers go great in this, and it can be made with various cuts of chicken, both skinless and skin on, though with the skin on it’s a bit greasier than with skinless, and has a bit more flavor too. Do season the chicken well before cooking. It’s mostly known for pairing with noodles, but also goes great with rice, and mashed potatoes too. I’ve even served it with pan-fried polenta on occasion. It’s a versatile dish.",
+            "datePublished": "2026-02-23T20:36:51.542Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaringHen2304"
+            },
+            "reviewBody": "It just didn't wake up my taste buds even though I seasoned my chicken with salt and pepper, garlic and onion powder as well as paprika before cooking. Even so, it was just bland. I was trying to figure out which herb marries well with paprika and may try a different approach if I make it again, but I probably won't. I'm sorry :(",
+            "datePublished": "2025-09-27T19:36:25.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danielle Kline"
+            },
+            "reviewBody": "It's always a ground rule to season meat as you cook it, but otherwise the sauce had DELICIOUS flavor. I used smoked paprika instead of just paprika which gave it a bit of a campfire flavor but I loved it. I think I accidentally used too much oil which kept the sauce from thickening but it still tasted amazing!",
+            "datePublished": "2025-02-04T16:42:44.244Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Currier"
+            },
+            "reviewBody": "This was a pretty good recipe. I used smoked paprika which gave it a bit more interest than regular. It's tasty and good, but a bit plain. Just feels like it's lacking something or not too exciting.",
+            "datePublished": "2024-10-02T21:04:23.699Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandi Palmer-Sipe"
+            },
+            "reviewBody": "A great go-to recipe when I have no idea what to make for dinner.",
+            "datePublished": "2024-06-14T05:29:34.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Orletta Caldwell"
+            },
+            "reviewBody": "The recipe doesn't mention to put seasonings on the chicken before cooking it. Please do!",
+            "datePublished": "2024-02-25T01:10:43.064Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "This is so great! I wish I had this recipe when I was a new cook and/or a new mom and frazzled or too overwhelmed to do meal planning. Chicken, broth, sour cream and paprika! Check, check, check and done! The flavors - while I didn’t personally grow up with them, feel very cozy and homey. I did have to add a little more flour/water paste to thicken to our preference but that’s minor (3 TBLS cold water and 1 TBLS flour or cornstarch). I could see mushrooms also being a nice add. Thanks DEME! Will make again!",
+            "datePublished": "2023-11-30T03:33:30.111Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "It's everyone in my family favourite.",
+            "datePublished": "2023-09-23T23:13:30.211Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15456/sour-cream-chicken-paprika/",
+          "name": "Sour Cream Chicken Paprika",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                  "name": "Chicken Breast"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1981/meat-and-poultry/chicken/chicken-breasts/pan-fried/",
+                  "name": "Pan-Fried Chicken"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

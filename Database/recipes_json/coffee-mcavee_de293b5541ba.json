@@ -1,0 +1,152 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/150065/coffee-mcavee/",
+  "extracted_at": "2026-10-18T02:03:24.085058+00:00",
+  "recipes": [
+    {
+      "name": "Coffee McAvee",
+      "ingredients_raw": [
+        "11 (1.5 fluid ounce) jiggers coffee flavored liqueur",
+        "0.25 cup white sugar",
+        "10 (1.5 fluid ounce) jiggers 151 proof rum",
+        "5 cups vanilla ice cream",
+        "5 cups hot, brewed coffee"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Pour 2 jiggers of coffee flavored liqueur into a saucer. Spread sugar out on a separate saucer. Dip each glass into the liqueur and then into the sugar to coat the rim."
+        },
+        {
+          "id": 2,
+          "text": "Pour 1 jigger of rum into each glass. Light the rum on fire using a long match and allow it to burn the sugar around the rim of the glass until it has turned to caramel, about 1 minute."
+        },
+        {
+          "id": 3,
+          "text": "Extinguish the fire in each glass with a 1/2 cup sized scoop of ice cream. Pour 1 jigger of coffee liqueur over the ice cream, and top off the glass with hot coffee."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Coffee McAvee",
+        "datePublished": "2020-06-18T23:32:33-04:00",
+        "dateModified": "2022-09-25T20:40:59-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Puzzler"
+          }
+        ],
+        "description": "Warm yourself by the fire with this exciting coffee drink that can also be served as a showstopping dessert!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/t4TcFmNKPyYlc-aArv6ku7tedXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4503766-0c6539625a02486fa6469945e633daa1.jpg",
+          "height": 1853,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Coffee McAvee",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "11 (1.5 fluid ounce) jiggers coffee flavored liqueur",
+          "0.25 cup white sugar",
+          "10 (1.5 fluid ounce) jiggers 151 proof rum",
+          "5 cups vanilla ice cream",
+          "5 cups hot, brewed coffee"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Pour 2 jiggers of coffee flavored liqueur into a saucer. Spread sugar out on a separate saucer. Dip each glass into the liqueur and then into the sugar to coat the rim."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour 1 jigger of rum into each glass. Light the rum on fire using a long match and allow it to burn the sugar around the rim of the glass until it has turned to caramel, about 1 minute."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Extinguish the fire in each glass with a 1/2 cup sized scoop of ice cream. Pour 1 jigger of coffee liqueur over the ice cream, and top off the glass with hot coffee."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "10 drinks"
+        ],
+        "totalTime": "PT15M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/150065/coffee-mcavee/",
+          "name": "Coffee McAvee",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/134/drinks/coffee/",
+                  "name": "Coffee Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

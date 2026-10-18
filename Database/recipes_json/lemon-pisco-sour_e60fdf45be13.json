@@ -1,0 +1,187 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/102082/lemon-pisco-sour/",
+  "extracted_at": "2026-10-18T01:41:13.173921+00:00",
+  "recipes": [
+    {
+      "name": "Lemon Pisco Sour",
+      "ingredients_raw": [
+        "1 tablespoon white sugar, or to taste",
+        "1 fluid ounce fresh lemon juice",
+        "2 fluid ounces Pisco",
+        "ice cubes"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a small cup, dissolve the sugar in the lemon juice. Pour the lemon juice and sugar and Pisco into a cocktail shaker. Add ice, cover and shake until the outside is frosty, about 30 seconds. Strain into a cocktail glass and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Lemon Pisco Sour",
+        "datePublished": "2020-06-18T23:13:26-04:00",
+        "dateModified": "2025-02-01T16:48:22-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rupert B"
+          }
+        ],
+        "description": "Pisco Sour is a popular drink in Chile and Peru made with Pisco and lemon juice.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mec8QNZ0OSqGKAyJPdf-tRM33PM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2062372-78785819217447d798527dfa2dcdf18a.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Lemon Pisco Sour",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "3"
+        },
+        "prepTime": "PT2M",
+        "recipeCategory": [
+          "Drink",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "Peruvian",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon white sugar, or to taste",
+          "1 fluid ounce fresh lemon juice",
+          "2 fluid ounces Pisco",
+          "ice cubes"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a small cup, dissolve the sugar in the lemon juice. Pour the lemon juice and sugar and Pisco into a cocktail shaker. Add ice, cover and shake until the outside is frosty, about 30 seconds. Strain into a cocktail glass and serve."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 drink"
+        ],
+        "totalTime": "PT2M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bordois"
+            },
+            "reviewBody": "This recipe is certainly tastey, but not exactly how it is made in Perú. While living there I've always seen it made with Pisco, I don't remember whether it was lemon or lime, sugar, and blended with egg whites to make the foam on top. plus a tiny spot of bitters on top."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Martinez"
+            },
+            "reviewBody": "Easy &amp; delish.",
+            "datePublished": "2018-04-25T02:17:05.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim's Cooking Now"
+            },
+            "reviewBody": "Tasty drink!",
+            "datePublished": "2015-02-14T15:36:40.933Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/102082/lemon-pisco-sour/",
+          "name": "Lemon Pisco Sour",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/730/world-cuisine/latin-american/south-american/",
+                  "name": "South American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1277/world-cuisine/latin-american/south-american/chilean/",
+                  "name": "Chilean"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

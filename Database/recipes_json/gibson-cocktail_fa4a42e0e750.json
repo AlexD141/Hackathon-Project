@@ -1,0 +1,195 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222413/gibson-cocktail/",
+  "extracted_at": "2026-10-18T03:15:42.194119+00:00",
+  "recipes": [
+    {
+      "name": "Gibson Cocktail",
+      "ingredients_raw": [
+        "2.5 fluid ounces gin",
+        "0.5 fluid ounce dry vermouth",
+        "1 cup ice",
+        "2 pickled pearl onions, drained"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine gin and vermouth in a cocktail mixing class. Add ice and stir until chilled. Strain into a chilled cocktail glass."
+        },
+        {
+          "id": 2,
+          "text": "Garnish with pearl onions."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Gibson Cocktail",
+        "datePublished": "2015-09-14T14:02:18-04:00",
+        "dateModified": "2015-09-14T14:02:19-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Allrecipes"
+          }
+        ],
+        "description": "A variation on the classic martini, the Gibson mixes gin and dry vermouth together and garnishes the cocktail with a cocktail onion.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/6YjuQgVWuEZqdd97Sub9mSChjuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1760637-62236cc576744deca776cb5416f07b34.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/PfW8dUd4-K3AjnAEN.mp4",
+          "description": "See how to mix the best Gibson cocktail.",
+          "duration": "PT1M18S",
+          "name": "Gibson Cocktail",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PfW8dUd4/poster.jpg?width=1280",
+          "uploadDate": "2021-07-20T09:51:59-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Gibson Cocktail",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "3"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "207 kcal",
+          "carbohydrateContent": "2 g",
+          "fiberContent": "0 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "47 mg",
+          "sugarContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "2.5 fluid ounces gin",
+          "0.5 fluid ounce dry vermouth",
+          "1 cup ice",
+          "2 pickled pearl onions, drained"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine gin and vermouth in a cocktail mixing class. Add ice and stir until chilled. Strain into a chilled cocktail glass."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6YjuQgVWuEZqdd97Sub9mSChjuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1760637-62236cc576744deca776cb5416f07b34.jpg"
+              }
+            ],
+            "text": "Garnish with pearl onions."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 cocktail"
+        ],
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jesse El Negro Chavez"
+            },
+            "reviewBody": "I like an extra onion in mine."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aronblue"
+            },
+            "reviewBody": "In the corresponding video (nicely done, AllRecipes!), JJ the bartender specifically says an ounce and a half of vermouth, not half an ounce. This is a pervasive problem among martini/gibson drinkers. If they're not drinking sweet goo in a martini glass, they're drinking straight gin (or vodka). JJ over on Park Avenue is exactly right-- a good martini is a proper mix of vermouth and gin. \n\nOn the other hand, the recipe tells you to stir and not shake, which is preferable. Why is this so important? Because when you shake the ice, you break the ice. This means little pieces of ice will melt into your martini, watering it down slightly. Bartenders need to shake for presentation-- a part of the job is to put on a little show, but at home you can safely stir.",
+            "datePublished": "2012-11-09T16:13:26.893Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222413/gibson-cocktail/",
+          "name": "Gibson Cocktail",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

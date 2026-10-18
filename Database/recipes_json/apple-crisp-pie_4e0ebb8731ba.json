@@ -1,0 +1,442 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216022/apple-crisp-pie/",
+  "extracted_at": "2026-10-18T02:58:59.716185+00:00",
+  "recipes": [
+    {
+      "name": "Apple Crisp Pie",
+      "ingredients_raw": [
+        "0.5 cup butter, softened",
+        "2 ounces cream cheese, softened",
+        "1.25 cups all-purpose flour",
+        "2 tablespoons white sugar",
+        "0.25 teaspoon salt",
+        "6 cups Granny Smith apples - peeled, cored and thinly sliced",
+        "1 tablespoon lemon juice",
+        "0.25 cup brown sugar",
+        "2 tablespoons all-purpose flour",
+        "0.5 teaspoon ground cinnamon",
+        "0.25 teaspoon ground nutmeg",
+        "0.125 teaspoon ground ginger",
+        "0.25 cup brown sugar",
+        "2 tablespoons all-purpose flour",
+        "10 tablespoons quick cooking oats",
+        "6 tablespoons butter"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 400 degrees F (200 degrees C). Spray a 9-inch pie dish with cooking spray."
+        },
+        {
+          "id": 2,
+          "text": "To make the crust, beat 1/2 cup of butter with cream cheese in a mixing bowl with an electric mixer until thoroughly combined; scrape the sides of mixing bowl occasionally to incorporate all the butter and cream cheese. Beat in 1 1/4 cups flour, the white sugar, and salt on medium-low speed until the mixture looks like coarse cornmeal, about 20 seconds. Increase the speed to medium-high, and beat until the dough begins to clump together, about 30 more seconds."
+        },
+        {
+          "id": 3,
+          "text": "Lay out a 24-inch piece of waxed paper on a work surface, and scoop the dough out onto the left half of the paper. Form it into a ball, and flatten it into a 6-inch disk; fold the right side of the paper over the dough disk, covering the dough. With the rolling pin on top of the paper, gently roll the dough out into a round crust about 1/8-inch thick; peel off the top half of the waxed paper, turn the dough out onto the prepared pie dish, and fit the dough into the dish. Peel of the remaining portion of waxed paper."
+        },
+        {
+          "id": 4,
+          "text": "To make the filling, mix together the apples and lemon juice in a bowl. In a small bowl, mix 1/4 cup of brown sugar, 2 tablespoons of flour, the cinnamon, nutmeg, and ginger together until thoroughly combined, then mix the flour mixture with the apples. Pour the apple filling into the crust."
+        },
+        {
+          "id": 5,
+          "text": "To make the topping, combine 1/4 cup of brown sugar, 2 tablespoons of flour, and the oats; with a pastry cutter, cut in 6 tablespoons of butter, until the mixture looks like coarse crumbs. Spoon the topping evenly over the apple filling."
+        },
+        {
+          "id": 6,
+          "text": "Bake in the preheated oven until the apple filling is bubbling and the topping is golden brown, about 40 minutes. If the crust begins to look brown after about 20 minutes of baking, cover the crust edge with a strip of aluminum foil."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Apple Crisp Pie",
+        "datePublished": "2020-06-18T23:43:37-04:00",
+        "dateModified": "2020-06-18T23:43:37-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Beth"
+          }
+        ],
+        "description": "A tender butter and cream cheese shortbread crust forms the bottom of this apple crisp pie, stuffed full of tart Granny Smith apples, brown sugar, cinnamon, nutmeg, and ginger. It&#39;s all topped with a buttery oat streusel.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/9nHa-JU7PBDtxQz1UnFeH4XpHOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4138609-9e667f2820944804abfa09738bc1ab99.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Apple Crisp Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "30"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "419 kcal",
+          "carbohydrateContent": "51 g",
+          "cholesterolContent": "61 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "14 g",
+          "sodiumContent": "242 mg",
+          "sugarContent": "26 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT40M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "0.5 cup butter, softened",
+          "2 ounces cream cheese, softened",
+          "1.25 cups all-purpose flour",
+          "2 tablespoons white sugar",
+          "0.25 teaspoon salt",
+          "6 cups Granny Smith apples - peeled, cored and thinly sliced",
+          "1 tablespoon lemon juice",
+          "0.25 cup brown sugar",
+          "2 tablespoons all-purpose flour",
+          "0.5 teaspoon ground cinnamon",
+          "0.25 teaspoon ground nutmeg",
+          "0.125 teaspoon ground ginger",
+          "0.25 cup brown sugar",
+          "2 tablespoons all-purpose flour",
+          "10 tablespoons quick cooking oats",
+          "6 tablespoons butter"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C). Spray a 9-inch pie dish with cooking spray."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "To make the crust, beat 1/2 cup of butter with cream cheese in a mixing bowl with an electric mixer until thoroughly combined; scrape the sides of mixing bowl occasionally to incorporate all the butter and cream cheese. Beat in 1 1/4 cups flour, the white sugar, and salt on medium-low speed until the mixture looks like coarse cornmeal, about 20 seconds. Increase the speed to medium-high, and beat until the dough begins to clump together, about 30 more seconds."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Lay out a 24-inch piece of waxed paper on a work surface, and scoop the dough out onto the left half of the paper. Form it into a ball, and flatten it into a 6-inch disk; fold the right side of the paper over the dough disk, covering the dough. With the rolling pin on top of the paper, gently roll the dough out into a round crust about 1/8-inch thick; peel off the top half of the waxed paper, turn the dough out onto the prepared pie dish, and fit the dough into the dish. Peel of the remaining portion of waxed paper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "To make the filling, mix together the apples and lemon juice in a bowl. In a small bowl, mix 1/4 cup of brown sugar, 2 tablespoons of flour, the cinnamon, nutmeg, and ginger together until thoroughly combined, then mix the flour mixture with the apples. Pour the apple filling into the crust."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "To make the topping, combine 1/4 cup of brown sugar, 2 tablespoons of flour, and the oats; with a pastry cutter, cut in 6 tablespoons of butter, until the mixture looks like coarse crumbs. Spoon the topping evenly over the apple filling."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the apple filling is bubbling and the topping is golden brown, about 40 minutes. If the crust begins to look brown after about 20 minutes of baking, cover the crust edge with a strip of aluminum foil."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 9-inch pie"
+        ],
+        "totalTime": "PT80M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lady Skorski"
+            },
+            "reviewBody": "Love the use of oats for the crumble topping. Was delicious!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MountainLady"
+            },
+            "reviewBody": "I love apple crisp and its so easy but this was fun! I cut the sugar in half and used whole wheat flour. I cooked it a little slower, as suggested, and it turned out fine. Thanks for this recipe, it is a keeper!",
+            "datePublished": "2010-12-04T15:07:26.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aries480"
+            },
+            "reviewBody": "Perfect mix! I suggest cooking at a lower temp however. I think I'll try 375 next time. Def a keeper.",
+            "datePublished": "2010-12-02T21:05:37.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hezzy"
+            },
+            "reviewBody": "I doubled the topping, used a regular crust, and baked about 50 mins. I also used Mcintosh apples. It turned out delicous!!",
+            "datePublished": "2013-10-28T15:20:16.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AJdog"
+            },
+            "reviewBody": "This Is Probably The Best Pie I've Ever Had. It Is So Crisp And Chewy. The Only Problem With It Is The Topping. That Was Much Too Sweet.",
+            "datePublished": "2017-11-11T21:14:37.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pattidrvc"
+            },
+            "reviewBody": "I pressed the crust into the pie pan to cover the bottom and most of the inside. Easy! It was absolutely delicious !",
+            "datePublished": "2017-11-27T00:12:00.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Liz Z"
+            },
+            "reviewBody": "I used a frozen, deep-dish pie crust instead of making my own and it came out beautifully!",
+            "datePublished": "2019-03-04T15:59:43.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cliff G"
+            },
+            "reviewBody": "I used the filling and topping but did use a store bought pie crust.",
+            "datePublished": "2016-11-16T21:57:17.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gigi Kahr"
+            },
+            "reviewBody": "Perfect!!! Yummy!!!!",
+            "datePublished": "2023-10-13T16:13:23.792Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jeroenvandenakker411"
+            },
+            "reviewBody": "I didn't get the crumble on the topping and accidentally mixed it in the apples and did lattice on top..\nDunno how its gonna be? but the ingredients are good! Usually do a heavy layer of sugar butter crumble and this seems healthier.",
+            "datePublished": "2021-11-14T03:08:12.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Hebert"
+            },
+            "reviewBody": "No changes at all, This was really great tasting! All the tips on the Wax usage for the Bottom Crust worked excellent!",
+            "datePublished": "2019-10-15T15:39:07.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meghan Simington"
+            },
+            "reviewBody": "Made everything and realized I was missing cinnamon. Ended up using Quaker quick oats with Apple Cinnamon as a substitute and it surprisingly worked perfectly.",
+            "datePublished": "2019-04-24T16:41:32.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Daryl Hershberger"
+            },
+            "reviewBody": "I made this twice and it was excellent!",
+            "datePublished": "2019-03-22T21:42:44.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel Ann Pluchino"
+            },
+            "reviewBody": "The crispy layer add an almost caramelized feel and taste to regular apple pie",
+            "datePublished": "2018-12-30T01:34:41.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "barbbarchi"
+            },
+            "reviewBody": "My favorite new pie that I have come across. I wish I had taken my own picture because it came out beautiful and delicious. The crust is very different and melts in your mouth. I would make this again in a heartbeat!",
+            "datePublished": "2018-03-01T05:50:51.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KBC2012"
+            },
+            "reviewBody": "This was my first apple pie. It was amazing. Everyone loved it!!! I plan to make two more this weekend for another event. Thank you for sharing your recipe Beth!",
+            "datePublished": "2017-11-25T16:45:32.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joseph Radlinger"
+            },
+            "reviewBody": "I have had many pies in my life, this was my first.. a healthy new respect for adults who make pies.. on the super bright side though, it was the best pie I ever had. Thanks Beth!",
+            "datePublished": "2017-11-24T01:07:08.910Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216022/apple-crisp-pie/",
+          "name": "Apple Crisp Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/788/desserts/pies/apple-pie/",
+                  "name": "Apple Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

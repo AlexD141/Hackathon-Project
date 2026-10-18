@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/206503/dads-asian-slaw/",
+  "extracted_at": "2026-10-18T02:46:08.162968+00:00",
+  "recipes": [
+    {
+      "name": "Asian Slaw",
+      "ingredients_raw": [
+        "1 (3 ounce) package beef flavor ramen noodles with seasoning packet",
+        "1 (3 ounce) package roasted sunflower seed kernels",
+        "1 (3 ounce) package sliced almonds",
+        "1 bunch green onions, chopped",
+        "1 cup bottled oil and vinegar salad dressing (such as Newman's Own®)",
+        "0.5 cup white sugar",
+        "1 (16 ounce) package coleslaw mix"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Crush ramen noodles in a bowl. Stir in seasoning packet, sunflower seeds, almonds, green onions, oil and vinegar dressing, and sugar; mix until sugar is dissolved."
+        },
+        {
+          "id": 3,
+          "text": "Place slaw mix into a large salad bowl; pour dressing mixture on top and toss lightly to combine well."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Asian Slaw",
+        "datePublished": "2020-06-18T23:40:18-04:00",
+        "dateModified": "2026-01-05T14:45:54-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Tray_H"
+          }
+        ],
+        "description": "This amazing Asian slaw recipe is super easy to make with prepared slaw mix, crunchy ramen noodles, almonds, green onions, and a zesty vinaigrette.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/oNpMiqFxJ7dgQCL-_E-eYhRR5EQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206503-dads-asian-slaw-VAT-4x3-1-62680121e8e14c42ad396f72411ba7f3.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Asian Slaw",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "141"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "308 kcal",
+          "carbohydrateContent": "41 g",
+          "cholesterolContent": "5 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "712 mg",
+          "sugarContent": "23 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired",
+          "Asian"
+        ],
+        "recipeIngredient": [
+          "1 (3 ounce) package beef flavor ramen noodles with seasoning packet",
+          "1 (3 ounce) package roasted sunflower seed kernels",
+          "1 (3 ounce) package sliced almonds",
+          "1 bunch green onions, chopped",
+          "1 cup bottled oil and vinegar salad dressing (such as Newman's Own®)",
+          "0.5 cup white sugar",
+          "1 (16 ounce) package coleslaw mix"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/keUrF0QpwpMWt3Rt5bjEKg0k2ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206503-dads-asian-slaw-VAT-step-01-1-29c64cf8c26a482693bba4f82d4313fd.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/KdqUdGSXCS8seebjgFFboihuQw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206503-dads-asian-slaw-VAT-step-02-01-1-e9774036bfec495f86ee145598c6899d.jpg"
+              }
+            ],
+            "text": "Crush ramen noodles in a bowl. Stir in seasoning packet, sunflower seeds, almonds, green onions, oil and vinegar dressing, and sugar; mix until sugar is dissolved."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hxatN3rTOUIcs8vxabClfhbZEew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206503-dads-asian-slaw-VAT-step-03-1-316cddad52fe4b318ae80eb8f75819fd.jpg"
+              }
+            ],
+            "text": "Place slaw mix into a large salad bowl; pour dressing mixture on top and toss lightly to combine well."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carmen"
+            },
+            "reviewBody": "I love the idea of using bottled dressing! I have made this for years and used 3/4C vinegar, 3/4C sugar, and 1T of oil which works but the dressing is a nice shortcut. I also had always used chicken flavor noodles but love the beef ones too. Great recipe and always a crowd favorite."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peg Haessly"
+            },
+            "reviewBody": "I just finished making this. OMG-wonderful flavor!! I used Newmans Own Lowfat Seasame Ginger dressing and 2 bags coleslaw(plenty of dressing for both bags)3/4 c.chopped Wasabi Almonds(Blue Diamond brand)Toasted the Ramen/onion/almonds a bit...FANTASTIC!!!!! Thank you so much for sharing!! I can't wait to try this on fish tacos---chicken/steak,,the possiblilites are endless..YUMMO!!!",
+            "datePublished": "2010-04-18T22:24:04.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristy Hopkins"
+            },
+            "reviewBody": "I give this 5 stars with my changes....instead of using bottled dressing, you can inexpensively make your own dressing: heat in a saucepan over medium heat 1/2 cup sugar, 1/2 cup oil, 1/2 cup vinegar, and the seasoning packets from the ramen noodles.(I use 2 packages of noodles). I omit the sunflower seeds. You can toss all together &amp; let sit for 10 minutes before serving. Also you can make this a main dish by adding a can of chicken breast. SO yummy!!",
+            "datePublished": "2011-01-06T18:42:51.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mrsxmiaxwallce"
+            },
+            "reviewBody": "I made this exactly as the recipe called for it, but it loses points for 1.) using a bottled salad dressing – I hate that weird tangy taste you always get from bottled dressing, 2.) Not enough ramen noodles, and 3.) instructions to marinade. This salad/cole slaw should be crunchy! If it marinades it all becomes much softer. My humble suggestion would be to substitute 1/3 cup red wine vinegar and 1/3 cup oil for the bottled salad dressing, add an extra packet of ramen noodles (oriental, not beef), and toss together the dressing and salad right before serving. It’s still good after it has sat, but it’s best served immediately.",
+            "datePublished": "2010-09-02T13:31:00.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bibi"
+            },
+            "reviewBody": "I followed Peg's advice and used Newman's Own Lowfat Sesame Ginger dressing, but I used only 1/2 c. and 1/4 c. sugar. These were the only changes I made to the recipe. The whole family loved this sweet, crunchy salad. Next time, I will reduce the dressing down to 3/8 c. and the sugar down to 2 Tbs., and I will crumble the noodles over the top of each serving. That way, if there are any leftovers, the noodles won't be soggy. Way better if they are crunchy!",
+            "datePublished": "2011-05-20T08:36:57.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dee"
+            },
+            "reviewBody": "I have made a version of this for years, but using the salad dressing makes this so easy. I used Paul Newman's Sesame Ginger. It was delicious. This is going to be my new go-to recipe for whenever I need to bring a salad.",
+            "datePublished": "2021-12-10T18:39:29.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sara"
+            },
+            "reviewBody": "I made this with a few changes. Just a 1/4 of a cup of sugar and half the salad dressing. It was fantastic and will make this more often.",
+            "datePublished": "2018-06-03T14:35:47.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cassiesmommy"
+            },
+            "reviewBody": "I used 1/2 cup rice wine vinegar &amp; 1/2 cup sesame oil. I didn't use sunflower seeds just the almonds but I toasted them first. This kept them crunchy &amp; gave extra flavor.",
+            "datePublished": "2010-05-09T07:59:26.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alr516"
+            },
+            "reviewBody": "I absolutely LOVE this recipe. There were a few things that I changed according to my taste such as using broccoli slaw, raspberry vinagrette(1/2 C.) and canola oil (1/2 C.), and I also added in a little bit of edamame and leftover chicken that I needed to use. I was out of green onions so I simply used minced onions from my spices and this turned out beautifully. I'm sure that the regular version is just as good. I would recommend putting in the ramen noodles JUST before you serve this as another review recommended. They get too moist if they are put in to the salad and then left over night.",
+            "datePublished": "2010-07-17T12:15:52.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jennjenn"
+            },
+            "reviewBody": "I was pretty happy with this with the following mods: halved the amount of dressing to 1/2 cup (used Paul Newman's Olive Oil and Vinegar, which worked well) and may even cut that down next time I make it; cut sugar to 1/4 cup; added some shredded carrots; used toasted sunflower seeds; used Oriental ramen packet instead of beef (because it's what I had around). DH is a PITA when it comes to fresh foods and he liked it.\n\nOverall easy and tasty. Next time will try with peanuts instead of almonds and sunflowers, less dressing (got soggy after 2 days), and adding more veggie options (kale? extra red cabbage? sweet radish?) \n\nUPDATE: Made again using peanuts and cut dressing to 1/4 cup. Even better.",
+            "datePublished": "2016-12-23T16:16:11.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aubriek"
+            },
+            "reviewBody": "Made it several ways. Always good. Used 1/4 cup sugar, 1/2 cup seasoned rice vinegar, And 1/4 cup oil.",
+            "datePublished": "2016-08-07T21:05:49.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christianne"
+            },
+            "reviewBody": "Made my own dressing of 1/3 cup apple cider vinegar, 1/4 cup white sugar, 1 Tbsp sesame oil, 2 Tbsp canola oil, 1/2 tsp Dijon mustard, red pepper flakes and Italian seasoning. Seasoning packet from ramen noodles. Blended. Used pumpkin seeds and added radishes also.",
+            "datePublished": "2026-04-15T23:06:03.241Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ktwncook"
+            },
+            "reviewBody": "Dad👍🏼!! Taste and texture exceeds expectations and I mixed according to directions except didn’t have green onions. I did pick up a bag of baked Vidalia sweet onion petals to garnish. It’s chilling now. I love this recipe.",
+            "datePublished": "2025-08-19T18:57:19.801Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "I used to make a similar version years ago using homemade dressing. Using the bottled dressing was just as good and a time saver. I accidently bought low-sodium beef ramen, but it was plenty salty. I agree with others that less sugar would probably work better, and I would do that next time as it's a touch sweet. It keeps well in the fridge so you could easily make this ahead. Perfect to bring to a BBQ or potluck.",
+            "datePublished": "2025-05-15T13:06:33.145Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "LOVE LOVE LOVED this! I did make one change which I felt necessary but am still giving 5 stars. The sugar needs reduced in half or to our liking anyways. When it came to the nuts, I don't feel the almonds added anything. The sunflower seeds were the star of the show. Save yourself some money and just go with the sunflower seeds. Last but not least, I highly recommend using the Newman's own dressing the recipe calls for. I typically make my own oil and vinegar but not for this. It was perfect! Recipe title is Asian Slaw but this would be well received for a BBQ served along grilled/smoked meat. I highly recommend this recipe. The sugar just needs reduced is all.",
+            "datePublished": "2025-01-13T01:26:48.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kevin"
+            },
+            "reviewBody": "A decent basic coleslaw vinaigrette with an interesting crunchy topping. Definitely fun and new. Very inventive.",
+            "datePublished": "2023-02-02T23:26:36.404Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "guyrwhite301"
+            },
+            "reviewBody": "Best Slaw I've ever made. I mixed the ramin beef mix with the sugar and dressing before including other ingredients. This lets the sugar and beef seasoning desolve before adding it to the rest of the mix. This also gave me better control on the amount of dressing to use.",
+            "datePublished": "2022-02-13T18:03:37.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard White"
+            },
+            "reviewBody": "Followed the recipe and it's great. Mixed the dressing with the sugar prior to stirring it into the nut/ noodle, green onion mix. Added this to the slaw mix and chilled for 60 minutes. It's wonderful.",
+            "datePublished": "2021-07-11T20:30:21.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Audrey B"
+            },
+            "reviewBody": "Wow! This was really really good. I did not have Ramen noodles or green onions. I’ve had it with both before and yes it is better with them, but it’s still good even without. I added a very light drizzle of sesame oil and that made the flavor a little bit richer. But be careful not to overdo it. I added red onion since I was out of green onions. Love this recipe!",
+            "datePublished": "2020-08-02T21:36:11.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeremy"
+            },
+            "reviewBody": "I think I should have used homemade oil and vinegar dressing, as called for. I used an Asian flavored oil and vinegar dressing from the store, and it was too saucy and heavy. I guess I like my slaw a little more crisp. Mine got a little saturated. Next time, I'll make this just as it says, except maybe cut the sugar a bit. It was still really tasty.",
+            "datePublished": "2020-07-23T21:00:32.610Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/206503/dads-asian-slaw/",
+          "name": "Asian Slaw",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

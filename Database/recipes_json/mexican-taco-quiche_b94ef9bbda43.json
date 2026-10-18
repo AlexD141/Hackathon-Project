@@ -1,0 +1,466 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217153/mexican-taco-quiche/",
+  "extracted_at": "2026-10-18T03:02:02.284246+00:00",
+  "recipes": [
+    {
+      "name": "Mexican Taco Quiche",
+      "ingredients_raw": [
+        "5 large eggs, beaten",
+        "2 cups milk",
+        "1 (8 ounce) jar chunky salsa",
+        "0.5 green bell pepper, chopped",
+        "0.5 onion, chopped",
+        "1 (16 ounce) package shredded Mexican-style cheese blend",
+        "salt and black pepper to taste",
+        "1 pound ground beef",
+        "1 (1 ounce) packet taco seasoning mix",
+        "1 (9 inch) unbaked deep dish pie crust"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Whisk together eggs, milk, salsa, bell pepper, onion, and cheese in a bowl. Season with salt and pepper. Set aside."
+        },
+        {
+          "id": 3,
+          "text": "Heat a large skillet over medium-high heat and stir in ground beef. Cook and stir until beef is crumbly, evenly browned, and no longer pink, 8 to 10 minutes. Drain and discard any excess grease. Stir in taco seasoning."
+        },
+        {
+          "id": 4,
+          "text": "Spread meat mixture into pie crust placed in a 9-inch pie dish. Pour egg mixture over beef."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven until a knife inserted into the center of the quiche comes out clean, 45 minutes to 1 hour. Cool for 10 minutes before serving warm."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mexican Taco Quiche",
+        "datePublished": "2020-02-26T00:51:05-05:00",
+        "dateModified": "2026-06-03T20:26:52-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "RockingItCountryStyle"
+          }
+        ],
+        "description": "Make this Mexican-inspired quiche for your next brunch party. A taco-inspired quiche with ground beef, salsa, and cheese is easy and sure to be a hit.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/IIVwor13z0nMJr4wP1e456GmZGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7006939-6801adc8f6cc42679a985e6981775ec8.jpg",
+          "height": 2000,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mexican Taco Quiche",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "33"
+        },
+        "cookTime": "PT55M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "528 kcal",
+          "carbohydrateContent": "21 g",
+          "cholesterolContent": "197 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "30 g",
+          "saturatedFatContent": "19 g",
+          "sodiumContent": "1011 mg",
+          "sugarContent": "5 g",
+          "fatContent": "36 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Brunch"
+        ],
+        "recipeCuisine": [
+          "American",
+          "Mexican",
+          "Fusion"
+        ],
+        "recipeIngredient": [
+          "5 large eggs, beaten",
+          "2 cups milk",
+          "1 (8 ounce) jar chunky salsa",
+          "0.5 green bell pepper, chopped",
+          "0.5 onion, chopped",
+          "1 (16 ounce) package shredded Mexican-style cheese blend",
+          "salt and black pepper to taste",
+          "1 pound ground beef",
+          "1 (1 ounce) packet taco seasoning mix",
+          "1 (9 inch) unbaked deep dish pie crust"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together eggs, milk, salsa, bell pepper, onion, and cheese in a bowl. Season with salt and pepper. Set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat a large skillet over medium-high heat and stir in ground beef. Cook and stir until beef is crumbly, evenly browned, and no longer pink, 8 to 10 minutes. Drain and discard any excess grease. Stir in taco seasoning."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread meat mixture into pie crust placed in a 9-inch pie dish. Pour egg mixture over beef."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a knife inserted into the center of the quiche comes out clean, 45 minutes to 1 hour. Cool for 10 minutes before serving warm."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 9-inch quiche"
+        ],
+        "totalTime": "PT85M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I played with this recipe a bit to help it to fit into one pie crust. I cut the milk back by almost half and I used about a half pound of seasoned taco meat instead of a full pound. I did use salsa verde and red bell pepper instead of green. Cutting those ingredients back, I had no issue with an overfull crust. I served this with oven roasted home fries. My husband and I thought this was okay, my two boys loved it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "foodie forever"
+            },
+            "reviewBody": "Make it G.F.! I took corn tortillas and cut-to-fit a 7 X 11 glass pan. Brush both sides of tortillas with evo or in my case I used bacon fat (yes, not low cal), but great flavor. Bake crust for 5-6 min. In medium mixing bowl briefly whip eggs &amp; milk(I used 4 eggs and 1/4 c. milk). Into beaten egg mixture, I added the prepared taco meat, 5 oz's. bottled salsa with queso(heated slightly so it could be stirred into the mixture), we like things hot--so I added 2 T. fire-roasted tomatoes. Pour this into crust and top with 1/4 c. shredded extra-sharp cheddar cheese and place a sliver of jalapeno pepper above where each serving will be. Out of the oven offer chilled toppings of diced tomato, shreds of lettuce &amp; sour cream if desired...Yum! I only baked it 14 min at 400.",
+            "datePublished": "2014-08-10T06:38:15.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ocean"
+            },
+            "reviewBody": "I used the 2x recipe. Made it without crusts in a large roasting pan on greased parchment paper. I cooked it for 45 minutes at 350. And then another 35-45 minutes at 375. It browned to a deep brown, which had a bit of crust on it, which was lovely. I didn't have enough salsa, so I threw in a tin of diced tomatoes and some epicure salsa spice. I didn't have TexMex, so mixed grated white jalapeño cheddar cheese into the ingredients - didn't place any on top - &amp; used red bell peppers. Meat - I had cooked meat for a taco salad the night before with this recipe in mind, so used the leftovers: I used 3 onions that I fried with the ground beef. I added a bit of garlic powder, seasoning salt, and a glug of soya sauce along with Taco seasoning (Just added to taste because I have bulk, not packets), pepper, &amp; salsa. Absolutely delicious. I cut it up and placed into individual sandwich bags and then into a large freezer bag for easy hubby breakfast meals. I'll definitely make with my tweaks again. The image shown for the top of the recipe looks pretty much like mine looked, including the pan style. Mine was slightly browner.",
+            "datePublished": "2026-03-23T19:31:45.485Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbend"
+            },
+            "reviewBody": "I made it gluten-free by making a layer of cooked brown rice mixed with a couple of eggs instead of a crust, and made it more healthy by adding more vegetables (onions, zucchini and extra peppers). I used unsweetened almond milk in place of the regular milk with 6 eggs, and because of the quantity of rice and extra veggies, I baked it in a 9x13 pan. Everyone loved it!",
+            "datePublished": "2017-07-29T01:01:22.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Kemper"
+            },
+            "reviewBody": "This was so delicious! My kids loved it too and so easy to make. Instead of using pie crusts and to make it more gluten free, I tore up pieces of corn tortillas and placed on the bottom and up the sides. It does make a lot of filling so I put mine in a 9x13 and baked at 325 for 40 minutes. It didn't need a whole hour to bake. My kids kept coming downstairs asking what smelled so good and couldn't wait to eat. My guests loved it as well. it is a keeper!",
+            "datePublished": "2012-08-24T13:37:16.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Megan88"
+            },
+            "reviewBody": "This was amazing!! I left out the pie crust and didn't use all the cheese. I also used green salsa and red and yellow peppers. I made a pan of small muffin quiches and the rest fit in a 4 x 4 pan. It was delicious!!!!!!",
+            "datePublished": "2016-02-08T18:38:36.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jami Baker"
+            },
+            "reviewBody": "I used the handy change serving link and adjusted the recpie. I only had 1 pie crust and a lot of reviewers said there was way too mch filling. I cut the recipe in half to 4 servings and my crust was filled to the top. instead of using ground beef, I used 1 can of black beans and 1 can of pinto beans, added a packet of taco seasoning, a few tablespoons of water and heated it until the taco seasoning was mixed in. Turned out pretty good. My 6 year old loved it!",
+            "datePublished": "2012-12-13T16:17:43.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LauraBienz"
+            },
+            "reviewBody": "I found this recipe when looking for something to do with a pie crust and left-over taco meat. I sent it today with my husband to work and he and his co-workers devoured it. He said it was \"a big hit\". I followed other reviewers advise and scaled down the ingredients. I used 3 eggs, 1 cup milk, kept the green pepper the same at 1/2 c., used 1/4 large onion, about 1.5 c. cooked taco meat, 2 handfuls shredded cheddar (didn't have mex cheese blend on hand), and 1/2 tomato chopped (instead of salsa which I also did not have). I baked it in a deep 9\" pie plate in my gas oven for 50 minutes. It sure looked pretty and smelled great coming out of the oven. If I wasn't trying to loose my extra holiday weight, I would have had a slice.",
+            "datePublished": "2012-01-06T15:09:37.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Thomas"
+            },
+            "reviewBody": "Very easy and tasty. I make a crustless version by spraying a 9x13 glass baking pan with canola spray and then sprinkling parmesan cheese on the bottom. (Freshly shredded, not the kind from a can!)",
+            "datePublished": "2015-11-13T06:00:38.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cardinal"
+            },
+            "reviewBody": "This makes a huge amount. More than will fit in a 9 inch deep dish pie crust. I used half the meat, half the cheese and still had way too much for the largest pie pan I had which is 11 inches across &amp; l 1/2 inches deep. There was a lot of the egg/milk mixture left over. It makes a tasty quiche but halve the recipe &amp; use a large pie dish.",
+            "datePublished": "2011-04-25T07:46:17.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hazel Cristan"
+            },
+            "reviewBody": "I wish I had read the reviews before I made this recipe. I needed a recipe for a crustless taco quiche because my BF likes to eat as low-carb as possible so I just followed this recipe, omitting the crust. I should have followed my instincts and reduced the amount of milk in this recipe. I baked this quiche for 45 minutes and it was not set in the center. I put it back in the oven for another 15 minutes. After cooling for 15 minutes I tried to slice the quiche but it was really not sliceable. I ended up scooping it out of the pan like a cobbler. The flavor was very good but I didn't care for the consistency of the end product. *IF* I should decide to make this again I would definitely split the meat and the egg mixture between two pie plates and maybe reduce the crazy amount of milk. My boyfriend liked the flavors a lot and the soft consistency didn't bother him at all.",
+            "datePublished": "2019-12-31T02:36:55.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PAMYOUNG11"
+            },
+            "reviewBody": "It’s more of a meat pie than a quiche. I might try using 5-6 eggs and a cup of cream next time and eliminating the water and cream cheese to see if that is more like a quiche. It was well received and I served it with salsa and sour cream and cut up nectarines and zucchini bread.",
+            "datePublished": "2022-08-22T17:26:11.001Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LA ESPOSA"
+            },
+            "reviewBody": "There is no way the filling, as written, could fit into one pie crust. I always make 2 quiches and freeze one. Also, I have made this recipe with green pepper and without, and my family prefers it without the green pepper. Otherwise, great recipe.",
+            "datePublished": "2018-04-23T18:14:20.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cynthia"
+            },
+            "reviewBody": "Excellent! I like my food spicy, so added a layer of jalapeños on top of the beef. Used a quiche pan and a little less milk, and it was still full to the bursting! But oh so very good. Thanks for the recipe!",
+            "datePublished": "2016-09-20T01:23:51.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Flory"
+            },
+            "reviewBody": "We made two pies with the same amount of ingredients. Delicious!",
+            "datePublished": "2016-06-05T18:13:51.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kkesh"
+            },
+            "reviewBody": "Great recipe....everyone loves it!",
+            "datePublished": "2016-04-17T09:00:35.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine Kindlesparger"
+            },
+            "reviewBody": "It was perfect. Very tasty. I didn't have any green peppers so just left them out and it was really good.",
+            "datePublished": "2015-11-23T16:19:40.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Colleen Woodcock"
+            },
+            "reviewBody": "This was awesome! I thought it might be way too much liquid but it was prefect. Used a bigger then 9 inch pie plate a deep glass pie pan. This had a great flavor and wouldn't change a thing but I think next time I might add some mushrooms and a some olives.",
+            "datePublished": "2015-04-09T17:42:30.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carol"
+            },
+            "reviewBody": "it tasted good, but 45 min. at 400 browned it too dark, but didn't burn it, and it still wasn't done. \nmaybe my oven cooks too hot. next time i'll try 350 for 1 hr.",
+            "datePublished": "2015-01-22T14:03:58.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ELIZ735"
+            },
+            "reviewBody": "Vegetarian Version - replace the beef with a package of defrosted frozen spinach. Otherwise the same. It was delicious!",
+            "datePublished": "2014-06-13T14:48:39.973Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217153/mexican-taco-quiche/",
+          "name": "Mexican Taco Quiche",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+                  "name": "Eggs"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/153/breakfast-and-brunch/eggs/quiche/",
+                  "name": "Quiche"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

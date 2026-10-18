@@ -1,0 +1,496 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221089/grilled-five-spice-chicken/",
+  "extracted_at": "2026-10-18T03:12:25.767798+00:00",
+  "recipes": [
+    {
+      "name": "Grilled Five Spice Chicken",
+      "ingredients_raw": [
+        "1 (5 pound) whole chicken, cut in half",
+        "3 cloves garlic, crushed",
+        "0.5 lime, juiced",
+        "1 tablespoon fish sauce",
+        "1 tablespoon seasoned rice vinegar",
+        "1 tablespoon Chinese five-spice powder",
+        "2 teaspoons hot chile paste (such as sambal oelek)",
+        "2 teaspoons grated fresh ginger",
+        "1 teaspoon soy sauce",
+        "0.33333334326744 cup seasoned rice vinegar"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Score skin side of each piece of chicken 2 to 3 times, about 1/8-inch deep. Set aside."
+        },
+        {
+          "id": 2,
+          "text": "Whisk garlic, juice of 1/2 lime, 3 teaspoons fish sauce, 1 tablespoon rice wine vinegar, Chinese five-spice powder, 2 teaspoons hot chile paste, ginger, and soy sauce together in a medium bowl until well combined; pour marinade into a resealable plastic bag. Add chicken, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 6 hours."
+        },
+        {
+          "id": 3,
+          "text": "Preheat an outdoor grill for medium-high, indirect heat and lightly oil the grate."
+        },
+        {
+          "id": 4,
+          "text": "Remove chicken from marinade, shake off excess, and transfer to a plate or baking sheet lined with paper towels. Pat chicken dry with paper towels. Reserve marinade in a small bowl."
+        },
+        {
+          "id": 5,
+          "text": "Whisk together 1/3 cup rice wine vinegar, remaining juice of 1/2 lime, remaining 1 teaspoon fish sauce, and remaining 1 teaspoon hot chile paste in a small bowl until well combined. Set vinegar-lime mixture aside."
+        },
+        {
+          "id": 6,
+          "text": "Grill chicken, skin-sides down, on the preheated grill for 2 minutes. Flip chicken, brush with reserved marinade, and move to indirect heat. Continue grilling, brushing with marinade, and flipping every 10 to 15 minutes, until browned and meat is no longer pink in the center, about 45 minutes total. An instant-read thermometer inserted into the thickest part of the thigh, near but not touching the bone, should read 165 degrees F (74 degrees C)."
+        },
+        {
+          "id": 7,
+          "text": "Drizzle vinegar-lime juice mixture over chicken to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Grilled Five Spice Chicken",
+        "datePublished": "2012-04-10T15:00:45-04:00",
+        "dateModified": "2026-05-13T13:00:19-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "Chef Johns&#39; grilled chicken is seasoned with Chinese 5-spice powder, garlic, lime juice, fish sauce, chili paste, rice vinegar, ginger, and soy sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/1w0wwAnQf5aq0d8cRhUfKkT7FJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4541388-207943ee703c4178b2acf9c0baede579.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/ICJ2IWdc-ma1DlVvV.mp4",
+          "description": "0295",
+          "duration": "PT3M54S",
+          "name": "Five Spice Grilled Chicken",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ICJ2IWdc/poster.jpg?width=1280",
+          "uploadDate": "2021-07-17T02:41:42-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grilled Five Spice Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "76"
+        },
+        "cookTime": "PT50M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "484 kcal",
+          "carbohydrateContent": "4 g",
+          "cholesterolContent": "166 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "53 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "458 mg",
+          "sugarContent": "1 g",
+          "fatContent": "27 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American",
+          "Chinese"
+        ],
+        "recipeIngredient": [
+          "1 (5 pound) whole chicken, cut in half",
+          "3 cloves garlic, crushed",
+          "0.5 lime, juiced",
+          "1 tablespoon fish sauce",
+          "1 tablespoon seasoned rice vinegar",
+          "1 tablespoon Chinese five-spice powder",
+          "2 teaspoons hot chile paste (such as sambal oelek)",
+          "2 teaspoons grated fresh ginger",
+          "1 teaspoon soy sauce",
+          "0.33333334326744 cup seasoned rice vinegar"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Score skin side of each piece of chicken 2 to 3 times, about 1/8-inch deep. Set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk garlic, juice of 1/2 lime, 3 teaspoons fish sauce, 1 tablespoon rice wine vinegar, Chinese five-spice powder, 2 teaspoons hot chile paste, ginger, and soy sauce together in a medium bowl until well combined; pour marinade into a resealable plastic bag. Add chicken, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 6 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high, indirect heat and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken from marinade, shake off excess, and transfer to a plate or baking sheet lined with paper towels. Pat chicken dry with paper towels. Reserve marinade in a small bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together 1/3 cup rice wine vinegar, remaining juice of 1/2 lime, remaining 1 teaspoon fish sauce, and remaining 1 teaspoon hot chile paste in a small bowl until well combined. Set vinegar-lime mixture aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grill chicken, skin-sides down, on the preheated grill for 2 minutes. Flip chicken, brush with reserved marinade, and move to indirect heat. Continue grilling, brushing with marinade, and flipping every 10 to 15 minutes, until browned and meat is no longer pink in the center, about 45 minutes total. An instant-read thermometer inserted into the thickest part of the thigh, near but not touching the bone, should read 165 degrees F (74 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/1w0wwAnQf5aq0d8cRhUfKkT7FJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4541388-207943ee703c4178b2acf9c0baede579.jpg"
+              }
+            ],
+            "text": "Drizzle vinegar-lime juice mixture over chicken to serve."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT420M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yvonne Kristensen"
+            },
+            "reviewBody": "Note*\nThe written recipe has omitted the crushed ginger that John mentions in his video. It DOES make a difference, so add a 1/2 tsp of ginger for the perfect taste he intended. I didn't have the fish sauce on hand, so I used oyster sauce instead and it was so good that when I made it again, I was afraid to change the ingredient. Thanks Chef John, it's wonderful."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "paulanthony"
+            },
+            "reviewBody": "This is really good. Note fish sauce is very pungent. Good for marinade but did not include in finishing sauce which came out great with out. Breast meat w bone and skin took forever too cook! I thought my digital thermometer was broken. Took 50 min or so! Next time I will butterfly breast and grill with thigh meat. Boneless skinless healthier and easier to cook. Still get great flavor from marinade and sauce. Love the 5 spice. Thx chef John for the 411 on this. Also excellent on grilled or steamed zucchini and asparagus!.",
+            "datePublished": "2017-04-23T19:10:46.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amrita Waraich"
+            },
+            "reviewBody": "I had never used Chinese 5 spice before and now I’m hunting for more recipes!! This was delicious. I actually used chicken breast cut into cube instead of whole chicken. I marinated the chicken for 2 hours on the counter since I was on a time crunch. Also kept an eye on how the acid cut through the meat to not over process before cooking. I skewered them and grilled on high heat to get a good sear! My husband didn’t talk the entire time he was eating haha I guess he liked it too! Thank you I’ll be making this again.",
+            "datePublished": "2018-02-23T04:42:36.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dano"
+            },
+            "reviewBody": "I made this five spice chicken for the first time and found my five spice powder had expired back in summer 2017. Still smelled fine and worked beautifully. It's rainy and humid outside so I used Chef John's broiler cooking method. I've only eaten the wings and a small bite of the breast so far but it came out great. I made a second batch of the marinade to baste with since I've always heard its dangerous to use the original marinade for basting.",
+            "datePublished": "2018-08-13T02:57:08.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Miller"
+            },
+            "reviewBody": "Great recipe!  Very straightforward and easy to follow, although I changed it a bit as follows: I didn't score the skin, I increased the low sodium soy sauce to 1 Tbsp. for the marinade, and I didn't have fresh ginger on hand so used 3/4 tsp. dried/ground, which worked out great.  We also did not brush with any additional marinade while grilling and, coming straight off the grill, we didn't think the additional lime juice mixture was needed, so we ate it \"as is\" and it was perfect.  Can't wait to do this with chicken wings next time!",
+            "datePublished": "2021-02-03T03:51:20.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lml"
+            },
+            "reviewBody": "I forgot to get lime so just added a little more rice vinegar. Was a little sceptical with the marinade at the beginning but it turned out great. We fried it in the pan first and then put it in the oven for about 30-40 mins. Then we used the juice to make gravy by adding some sugar and cornstarch. It was fabulous!",
+            "datePublished": "2012-06-25T04:15:32.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melodylane"
+            },
+            "reviewBody": "My family loved this chicken. I had to adapt some ingredients based on what I had on hand. I used 10 boneless skinless thighs (they were on the small side). I used oyster sauce instead of fish sauce and red curry paste instead of hot chile paste. Marinated 6 hours then grilled. So tender and juicy with a indian like flavor. Served this with jasmine rice and steamed spinach seasoned with vinegar. I didn't make the basting sauce or add the ginger that was not listed in the ingredients but used in the video. Next time I will try using the ginger, but keeping the other ingredients the same. It's a keeper.",
+            "datePublished": "2012-06-20T04:33:06.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SturdyBagel4315"
+            },
+            "reviewBody": "Very good. Used 5 chicken thighs cooked in oven on convection roast at 375 temp.",
+            "datePublished": "2024-08-19T01:01:14.549Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pat Nugent"
+            },
+            "reviewBody": "At 180 degrees internal, it would have been way to dry. New standards say 165 degrees internal. This is a great 5 star recipe I will make again with the adjustment in temp. Never a need to guess with cooking times again. When your device alarm goes off, pull it off the grill.",
+            "datePublished": "2018-07-12T13:24:53.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RV Living"
+            },
+            "reviewBody": "Made it as written and we loved it. Too windy to grill and I had to roast it in the convection oven that only goes to 425: took nearly an hour to cook to temp but was delicious.\n\nUsed a FoodSaver marinater and was ready to roast in about 20 minutes. Delish.\n\nThanks, Chef John. Will do this again soon! Had everything on hand, including the 5 Spice! Yum.",
+            "datePublished": "2019-06-03T04:35:11.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "epicurious_11"
+            },
+            "reviewBody": "I made this yesterday and it turned out great! I omitted the fish sauce from both the marinade and finishing sauce. While I love fish and seafood, the combination with chicken just did not sound appealing. Also, I did not care for the finishing sauce. The chicken was tasty w/o it. I also threw some mesquite chips on top of the briquets for a little smoke. Make sure you use indirect heat otherwise you risk burning it.",
+            "datePublished": "2012-06-04T17:24:09.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kdonahue"
+            },
+            "reviewBody": "I made it exactly as described including fresh ginger but I had to use chicken breast which wasn't the best choice. We ended up not grilling it which was also a mistake. Everyone enjoyed the food but this needs to be grilled and used chicken thighs or chicken legs. I marinated it overnight and served it over rice. i'm thinking next time to reduce the Five Spice by a little",
+            "datePublished": "2025-08-29T08:16:53.946Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fgodghlmpx"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-28T22:20:00.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CleverNori1331"
+            },
+            "reviewBody": "Very good",
+            "datePublished": "2023-06-29T00:46:10.712Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael Buckley"
+            },
+            "reviewBody": "Excellent, 5 spice has a cinnamon like flavor. Fish sauce not to strong. All the flavors work very well together. I did not find the prep to be that much. Must have again",
+            "datePublished": "2023-05-27T14:54:38.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "onlyyorkies4me"
+            },
+            "reviewBody": "Excellent recipe. I did deviate but only in the fact that I used chicken thighs and cooked them with an air fryer instead of a grill. Will definitely be making again.",
+            "datePublished": "2020-05-30T23:52:05.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeannette"
+            },
+            "reviewBody": "Wow! Not sure why I didn’t find this recipe sooner and boy was it good. We used the marinade on thigh/leg quarters and wings. Both were fabulous! Sure to become a family favorite.",
+            "datePublished": "2020-05-15T02:59:22.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brian's"
+            },
+            "reviewBody": "Delicious!!! I pretty much stick to legs and thighs when grilling and this recipe is one that will impress your guests. It is a versatile dish that can be served with almost any style of cuisine. Personally, I love to serve this chicken with Vietnamese Garlic noodles and grilled veg.",
+            "datePublished": "2020-03-29T02:21:58.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindi"
+            },
+            "reviewBody": "Absolutely no changes are necessary (do include the ginger, that the written recipe omits]. The blend of these flavours is absolutely perfect and my boyfriend raved and raved and raved about this. We actually turned the leftovers into tacos the next day! What an interesting change with some cabbage and a nice yogurt/mayo sauce on a corn tortilla. This is a keeper recipe, for sure!",
+            "datePublished": "2019-04-29T22:55:33.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacy Martin Alexander"
+            },
+            "reviewBody": "This was really good. I baked chicken thighs @350 for almost an hour instead of grilling, but otherwise followed the recipe as written. I didn't make the dipping sauce, but I am not sure it is necessary. I will make it next time, and see what we think. If you have never cooked with Chinese 5 spice before, the aroma and flavors may not be what you are expecting as it contains cinnamon, cloves, fennel, and star anise. Keep an open mind though, because it really is delicious, just a completely different flavor from a lot of Chinese dishes.",
+            "datePublished": "2019-03-30T14:39:04.280Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221089/grilled-five-spice-chicken/",
+          "name": "Grilled Five Spice Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

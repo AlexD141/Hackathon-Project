@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13393/long-soup/",
+  "extracted_at": "2026-10-18T01:53:36.555907+00:00",
+  "recipes": [
+    {
+      "name": "Long Soup",
+      "ingredients_raw": [
+        "1.5 tablespoons vegetable oil",
+        "0.25 small head cabbage, shredded",
+        "4 ounces lean pork tenderloin, cut into thin strips",
+        "0.5 teaspoon minced fresh ginger root",
+        "6 cups chicken broth",
+        "2 tablespoons soy sauce",
+        "8 fresh green onions, chopped",
+        "4 ounces dry Chinese egg noodles"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large skillet or wok over medium-high heat. Add cabbage and pork; stir-fry until pork is no longer pink inside, about 5 minutes. Stir in ginger."
+        },
+        {
+          "id": 2,
+          "text": "Add chicken broth and soy sauce to the skillet; bring to a boil. Reduce heat to low; simmer for 10 minutes, stirring occasionally."
+        },
+        {
+          "id": 3,
+          "text": "Stir in onions and add noodles. Cook until noodles are tender, 2 to 4 minutes more."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Long Soup",
+        "datePublished": "1999-08-17T21:11:46-04:00",
+        "dateModified": "2026-08-17T17:03:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "CORWYNN DARKHOLME"
+          }
+        ],
+        "description": "Thinly sliced pork, fresh ginger, green onions, and Chinese-style egg noodles star in this quick and easy recipe for long soup.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PRU13oWcsE2QMmupWP6hnt69TPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1778584-long-soup-cookiecat-4x3-1-e4717bdfbe2f446aadae6469259308cc.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Long Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "90"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "256 kcal",
+          "carbohydrateContent": "28 g",
+          "cholesterolContent": "18 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "18 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "1623 mg",
+          "sugarContent": "3 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "Chinese"
+        ],
+        "recipeIngredient": [
+          "1.5 tablespoons vegetable oil",
+          "0.25 small head cabbage, shredded",
+          "4 ounces lean pork tenderloin, cut into thin strips",
+          "0.5 teaspoon minced fresh ginger root",
+          "6 cups chicken broth",
+          "2 tablespoons soy sauce",
+          "8 fresh green onions, chopped",
+          "4 ounces dry Chinese egg noodles"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet or wok over medium-high heat. Add cabbage and pork; stir-fry until pork is no longer pink inside, about 5 minutes. Stir in ginger."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add chicken broth and soy sauce to the skillet; bring to a boil. Reduce heat to low; simmer for 10 minutes, stirring occasionally."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in onions and add noodles. Cook until noodles are tender, 2 to 4 minutes more."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SCHOI"
+            },
+            "reviewBody": "Thoroughly enjoyed this light and easy to make soup. I changed a few things. First adding some very thinly sliced carrots (lengthwise) and thinly sliced mushrooms. I sauteed all the veggies including the green onions and the ginger with the pork. Turned out delicious!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jah"
+            },
+            "reviewBody": "5 star after I made some changes! I used about a pound of pork tenderloin, added some flavor to the broth by frying the meat in sesame oil and chile oil. I added garlic with the minced ginger and added fish sauce to the broth. I shredded the cabbage finely and added it raw, along with raw green onions finely chopped and some thin sliced jalapeño peppers. With some extra punch it was awesome!",
+            "datePublished": "2017-11-11T03:35:18.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "will"
+            },
+            "reviewBody": "I substituted a rotisserie chicken for the pork and added 1/2 tbsp of garlic and 1/2 tbsp of crushed red peppers for a little heat. I couldn't find Chinese noodles so I used lo mein.\nthis recipe is fantastic and will definitely go into my favorites list.",
+            "datePublished": "2018-01-31T22:50:58.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MN Girl"
+            },
+            "reviewBody": "This soup was easy to make and pretty good. We added 7 large fresh mushrooms (thinly sliced), 3 serrano peppers (for heat), 3 cloves of garlic, and extra cabbage. Instead of decreasing noodles as other reviewers suggested, we increased the amount of chicken broth and added 1 TBS fish sauce and increased soy sauce to about 4 TBS. This made the soup much more flavorful.",
+            "datePublished": "2010-09-16T05:16:23.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marsha"
+            },
+            "reviewBody": "This is my new favorite soup! After reading reviews I took some advice and added 1/4 tsp sesame oil, 1 Tbl fish sauce, 1 tsp dry mustard, 1 1/2 tsp lemon zest, and 1 1/2 c sliced mushrooms, . It has a lot of noodles but I liked that (I used Pad Thai rice noodles). Definitely top it with some fresh thai basil and cilantro.",
+            "datePublished": "2016-06-02T06:28:04.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BECCA123"
+            },
+            "reviewBody": "I put my own spin on this excellent recipe. I omitted the noodles, added a ton of garlic and yellow onions and carrot slivers, more soy sauce and i used ginger powder, because that's what I had. I sauteed all the vegetables except the carrot before putting them in the stock--this gave them extra flavor. If I'd had it, I would have added dark sesame oil, as one user suggested. This was intensely delicious. Yay!",
+            "datePublished": "2011-09-24T12:40:24.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kkcooks"
+            },
+            "reviewBody": "I changed this up a little bit, reducing the chicken broth and thickening it to make it a sauce and adding crushed red pepper flakes for heat. Excellent!",
+            "datePublished": "2013-01-24T18:06:47.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Big Al"
+            },
+            "reviewBody": "The thing I like about Allrecipes is people give you an idea &amp; because our tastes all vary, you can modify to suit your palette. This recipe is good for a base for us &amp; we took the recommendation of several of the reviews &amp; made a great soup. We added mushrooms, carrots, sesame oil, a little celery &amp; I always use home made chicken stock. Hands down one of the tastiest soups we've had.",
+            "datePublished": "2017-11-18T22:00:42.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aspiring Chef Rita"
+            },
+            "reviewBody": "A keeper - quick and easy to prepare. I had a few slices of leftover roast pork from dinner the other night so I made this recipe exactly as called for except for the pork part. I sliced the already cooked pork into slivers and added it to the soup at the end of cooking. I also added a tablespoon of chinese garlic chili sauce to give it an extra kick - but that was only a preference. Now I have a great, easy recipe to put together when there is a small amount of pork leftover. Thanks submitter!",
+            "datePublished": "2006-02-11T10:16:12.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AkronJoya"
+            },
+            "reviewBody": "Terrific recipe! I accidentally let the soup boil vigorously for several minutes and the pork remained tender despite my lack of attention! I added 5 cloves of garlic and some julienne carrots--just my preference, and I thought the carrots added some color. I served with egg rolls and salad--an easy weeknight meal that all five of my family members enjoyed. Thanks, Corwynn!",
+            "datePublished": "2014-02-06T08:30:05.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidi"
+            },
+            "reviewBody": "I followed the directions and the result was not good. The seasoning is way off (needed so much more soy/salt, and it still tasted bland after I added more). If I were to redo this recipe, I'd lightly cook the pork separately with generous seasoning so it doesn't overcook when trying to fry the vegetables. Also, cabbage is so bland and sad looking. Bok choy would be a much better choice. Or pretty much anything green and fresh. And as for the seasonings, this needed way more ginger, more soy, a bit of garlic, and a sweet component like honey (or even carrots) to compliment the soy and ginger. Just SOMETHING to give it some depth of flavor. Beef broth also seems like a more flavorful choice than chicken. Definitely never making this again.",
+            "datePublished": "2015-01-28T10:41:33.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DoctorV"
+            },
+            "reviewBody": "Just OK. Lacking in flavor. I added carrots and mushrooms as other reviewers suggested.",
+            "datePublished": "2021-01-02T21:16:57.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donald Blair"
+            },
+            "reviewBody": "We really liked this soup! It was a great new addition to our “Soup Sunday” ritual.",
+            "datePublished": "2020-12-12T22:55:57.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rolande"
+            },
+            "reviewBody": "Awesome quick and easy way to use up leftovers. The results are always a success despite substitutions. I like how it reminds me of Phõ soups.",
+            "datePublished": "2019-09-29T23:31:20.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janis"
+            },
+            "reviewBody": "A bit bland. Needs more/better seasoning.",
+            "datePublished": "2019-02-24T01:32:40.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ragga1"
+            },
+            "reviewBody": "Delicious soup, but noticed the recipe forgot about adding the ginger.",
+            "datePublished": "2019-01-12T23:01:21.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patti"
+            },
+            "reviewBody": "Nice, mildly flavored soup.",
+            "datePublished": "2019-01-12T19:42:03.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wendy Wright"
+            },
+            "reviewBody": "This was a good soup base, to tweak to your liking. Thank you!",
+            "datePublished": "2017-03-05T22:21:35.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "angel25"
+            },
+            "reviewBody": "This is really easy to make and tastes delicious. My brothers loved it. I followed the recipe on this one but after having tried it I think you could add a lot of different veggies and it would still be really good. I did add the onions in earlier with the chicken broth so that it could build more flavor in the broth. It's a really hearty soup for fall and doesn't take long to make.",
+            "datePublished": "2016-10-15T00:50:17.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kyra Grimm"
+            },
+            "reviewBody": "Just made this tonight, chunked the pork instead of strips, used lo mein noodles, it tasted amazing!!",
+            "datePublished": "2016-07-14T23:16:52.347Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13393/long-soup/",
+          "name": "Long Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

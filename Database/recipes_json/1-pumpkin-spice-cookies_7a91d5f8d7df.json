@@ -1,0 +1,398 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/205189/1-pumpkin-spice-cookies/",
+  "extracted_at": "2026-10-18T02:45:31.833576+00:00",
+  "recipes": [
+    {
+      "name": "#1 Pumpkin Spice Cookies",
+      "ingredients_raw": [
+        "2.5 cups all-purpose flour",
+        "1 cup rolled oats",
+        "4 teaspoons baking powder",
+        "1.5 teaspoons ground cinnamon",
+        "0.5 teaspoon ground nutmeg",
+        "1 teaspoon pumpkin pie spice",
+        "0.5 teaspoon ground ginger",
+        "0.25 teaspoon salt",
+        "2 tablespoons butter",
+        "1.3333333730698 cups light brown sugar",
+        "2 eggs",
+        "1 teaspoon vanilla extract",
+        "1 (15 ounce) can pumpkin",
+        "0.5 cup apple butter",
+        "1 cup chopped walnuts"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an oven to 375 degrees F (190 degrees C). Grease 2 baking sheets."
+        },
+        {
+          "id": 2,
+          "text": "Stir the flour, oats, baking powder, cinnamon, nutmeg, pumpkin pie spice, ginger, and salt in a bowl."
+        },
+        {
+          "id": 3,
+          "text": "Beat the butter and brown sugar with an electric mixer in a large bowl until smooth. Add 1 egg and allow it to blend into the mixture before adding the other along with the vanilla. Add the pumpkin and apple butter; continue beating. Mix in the flour mixture until just incorporated. Fold in the walnuts, mixing just enough to evenly combine. Drop spoonfuls of the dough 2 inches apart onto the prepared baking sheets."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until the edges are golden, about 12 minutes. Allow the cookies to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "#1 Pumpkin Spice Cookies",
+        "datePublished": "2020-03-05T00:06:49-05:00",
+        "dateModified": "2022-02-18T14:42:36-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lisa H"
+          }
+        ],
+        "description": "This recipe uses apple butter in addition to a handful of spices to make a delicious cookie. Perfect for reminders of the holidays any time of year.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/0xWOuPKa9XFyv4_a-BRxLTfLjuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8526320-183b07ce81a040fb990a3e64d13daff7.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "#1 Pumpkin Spice Cookies",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "47"
+        },
+        "cookTime": "PT12M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "74 kcal",
+          "carbohydrateContent": "13 g",
+          "cholesterolContent": "8 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "1 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "71 mg",
+          "sugarContent": "6 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "2.5 cups all-purpose flour",
+          "1 cup rolled oats",
+          "4 teaspoons baking powder",
+          "1.5 teaspoons ground cinnamon",
+          "0.5 teaspoon ground nutmeg",
+          "1 teaspoon pumpkin pie spice",
+          "0.5 teaspoon ground ginger",
+          "0.25 teaspoon salt",
+          "2 tablespoons butter",
+          "1.3333333730698 cups light brown sugar",
+          "2 eggs",
+          "1 teaspoon vanilla extract",
+          "1 (15 ounce) can pumpkin",
+          "0.5 cup apple butter",
+          "1 cup chopped walnuts"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 375 degrees F (190 degrees C). Grease 2 baking sheets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir the flour, oats, baking powder, cinnamon, nutmeg, pumpkin pie spice, ginger, and salt in a bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat the butter and brown sugar with an electric mixer in a large bowl until smooth. Add 1 egg and allow it to blend into the mixture before adding the other along with the vanilla. Add the pumpkin and apple butter; continue beating. Mix in the flour mixture until just incorporated. Fold in the walnuts, mixing just enough to evenly combine. Drop spoonfuls of the dough 2 inches apart onto the prepared baking sheets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the edges are golden, about 12 minutes. Allow the cookies to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely."
+          }
+        ],
+        "recipeYield": [
+          "56",
+          "56 cookies"
+        ],
+        "totalTime": "PT28M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MEGSMIAMIU"
+            },
+            "reviewBody": "Yummy, moist and healthy! I didn't have apple butter so per another user's suggestion, I used applesauce instead. These turned out great! The spices are just the right amount. And only 1 point if you're a WW person :)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sally Platt"
+            },
+            "reviewBody": "I'm totally obsessed with these cookies! Warmed for a few seconds in the microwave, they make a super delicious bedtime snack. In addition to walnuts, I also add dried cranberries. As well, I make large cookies, so this recipe ends up making about 28. Baking time in my oven is about 14 min (instead of 12), but not all ovens are the same.",
+            "datePublished": "2020-01-19T18:21:25.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sweetnector40"
+            },
+            "reviewBody": "These were ok..they weren't sweet and the flavors were subtle so before i was done baking the batch I was already tweeking the rest. Had some apple pie filing so I cut the apples into smaller pieces, added more brown sugar, nutmeg and pumpkin spice and they were great..made cream cheese frosting to top it off and they were great!",
+            "datePublished": "2016-11-30T00:04:21.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kenneth Herbert"
+            },
+            "reviewBody": "Mine turned out a little dry. I used Quaker Oats (slow cooking type), the oats were a little leathery, but the taste was wonderful! Because they were dry, and kind of tall, I sliced them and filled them with butter cream frosting (with pumpkin spice). I called the.",
+            "datePublished": "2018-09-23T23:27:12.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cookingamerica"
+            },
+            "reviewBody": "These cookies were fabulous! They were easy to make, and reminded me of the fall season. I used pecans instead of walnuts, and I used more pumpkin spice, instead of ginger and nutmeg. The only downfall to these cookies is that they grew a sticky residue on the outside of them. Other than that, they were delicious!",
+            "datePublished": "2012-09-02T06:51:11.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tirzah Evangelista"
+            },
+            "reviewBody": "TASTEY!! It's the end of August and I pulled out a pkg of pumpkin puree (AR's Pumpkin Puree) I had in the freezer... and then goodness happened:) As I was adding the spices I got an excited flutter in my stomach reminding me of Fall and all things autumn. Thanks for an excellent recipe. I changed a couple things out of necessity(didn't have on hand or allergy) but I'm sure it didn't change the main objective or flavor/texture, it came out as described. Changes: whole wheat instead of all purpose flour, allspice instead of pumpkin pie spice, applesauce instead of apple butter and chocolate chips instead of walnuts(allergy). Very good recipe!!!",
+            "datePublished": "2010-10-16T19:26:34.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Harrison"
+            },
+            "reviewBody": "I finally found my recipe!",
+            "datePublished": "2023-11-18T19:02:14.449Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Hyde Dopson"
+            },
+            "reviewBody": "Cake-like cookies that are very good! I used Truvia in place of the light brown sugar and it worked out perfectly.",
+            "datePublished": "2021-01-03T00:08:08.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "michlynn"
+            },
+            "reviewBody": "Delicious! As with all spice cookie recipes, I doubled the spices and everyone enjoyed them. Thanks for sharing!",
+            "datePublished": "2018-10-14T01:37:33.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Homegrown"
+            },
+            "reviewBody": "Theses are really good! My brothers who don't like pumpkin liked these. I followed the recipe exactly and they turned out perfectly!",
+            "datePublished": "2016-02-22T17:28:37.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erica Stunner North"
+            },
+            "reviewBody": "Excellent, even out of season! Thanks!",
+            "datePublished": "2015-02-19T00:35:33.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steven Yellen"
+            },
+            "reviewBody": "This recipe did not work for me.",
+            "datePublished": "2014-12-14T09:18:17.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann_pa"
+            },
+            "reviewBody": "Made these for the third time tonight to take to a meeting in the morning. Everyone loves these. I followed the recipe to the T but this time added raisins to half the dough, they were yummy with them as well. Thank you for the great recipe Lisa",
+            "datePublished": "2014-12-07T19:44:28.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AMWoerner"
+            },
+            "reviewBody": "I am so surprised. These were very bland. Odd, chewy texture. I followed the recipe exactly. I wasn't surprised that they were chewy, but I was surprised that they tasted awful. I'm not a fan of wasting food, so we made a ginger spiced glaze that has at least made these edible. We will not be making this recipe again.",
+            "datePublished": "2014-11-14T13:21:15.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Krystle Disney"
+            },
+            "reviewBody": "These were not great. I felt adding the pumpkin pie spice was redundant, as it is made of several of the other ingredients already on this list. They are very bland to me, and a little heavy on the walnuts. Because of the blandness, I had to give it three stars. Maybe chocolate chips would bring them to another level.",
+            "datePublished": "2014-10-11T15:20:36.737Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/205189/1-pumpkin-spice-cookies/",
+          "name": "#1 Pumpkin Spice Cookies",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/857/desserts/cookies/spice-cookies/",
+                  "name": "Spice Cookie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

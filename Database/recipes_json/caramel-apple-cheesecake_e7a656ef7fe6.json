@@ -1,0 +1,459 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/179716/caramel-apple-cheesecake/",
+  "extracted_at": "2026-10-18T02:28:41.097005+00:00",
+  "recipes": [
+    {
+      "name": "Apple and Caramel Cheesecake",
+      "ingredients_raw": [
+        "1 (21 ounce) can LUCKY LEAF® Premium Apple Fruit Filling",
+        "1 (9 inch) graham cracker crust",
+        "2 (8 ounce) packages cream cheese, softened",
+        "0.5 cup sugar",
+        "0.25 teaspoon vanilla extract",
+        "2 eggs",
+        "0.25 cup caramel topping",
+        "12 pecan halves",
+        "2 tablespoons chopped pecans"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Reserve 3/4 cup apple filling; spoon remaining apple filling into graham crust and set aside."
+        },
+        {
+          "id": 3,
+          "text": "Beat together cream cheese, sugar, and vanilla in a large bowl until smooth. Beat in eggs until well combined. Pour over apple filling in crust."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven until the center of cheesecake is set, about 35 minutes. Cool to room temperature."
+        },
+        {
+          "id": 5,
+          "text": "Combine reserved apple filling and caramel topping in a small saucepan over medium heat. Stir until mixture is spreadable, about 1 minute. Spoon over cheesecake and spread evenly. Decorate edges with pecan halves and sprinkle the top with chopped pecans. Refrigerate cheesecake for at least 2 hours, or until ready to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Apple and Caramel Cheesecake",
+        "datePublished": "2008-10-22T19:35:10-04:00",
+        "dateModified": "2024-08-19T09:19:08-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lucky Leaf Fruit Filling"
+          }
+        ],
+        "description": "This apple and caramel cheesecake uses canned apple pie filling and melted caramel to make a sublime topping. Garnish with pecans for pure indulgence.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/y_TyKv6VxTP36i3EBDaJ0z9ScAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/386197-4d6f59b860fc4c779300ec2e24ab5e13.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Apple and Caramel Cheesecake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "82"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "361 kcal",
+          "carbohydrateContent": "40 g",
+          "cholesterolContent": "72 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "283 mg",
+          "sugarContent": "26 g",
+          "fatContent": "21 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (21 ounce) can LUCKY LEAF® Premium Apple Fruit Filling",
+          "1 (9 inch) graham cracker crust",
+          "2 (8 ounce) packages cream cheese, softened",
+          "0.5 cup sugar",
+          "0.25 teaspoon vanilla extract",
+          "2 eggs",
+          "0.25 cup caramel topping",
+          "12 pecan halves",
+          "2 tablespoons chopped pecans"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Reserve 3/4 cup apple filling; spoon remaining apple filling into graham crust and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat together cream cheese, sugar, and vanilla in a large bowl until smooth. Beat in eggs until well combined. Pour over apple filling in crust."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until the center of cheesecake is set, about 35 minutes. Cool to room temperature."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine reserved apple filling and caramel topping in a small saucepan over medium heat. Stir until mixture is spreadable, about 1 minute. Spoon over cheesecake and spread evenly. Decorate edges with pecan halves and sprinkle the top with chopped pecans. Refrigerate cheesecake for at least 2 hours, or until ready to serve."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT170M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ALYSSA"
+            },
+            "reviewBody": "DELICIOUS!!!!! I used 1 jar of home canned apples and made it into \"apple pie filling\" by following the recipe called Apple Pie Filling (skipped cooking the apples as mine were already cooked). This made enough filling for TWO cheesecakes. I also made my own graham cracker crust and added chopped pecans to the crust. It was an easy recipe to follow. If followed exactly, it will not fail! The pecans in the crust AND mixed into the caramel topping were the two things I added that made this even more outstanding than as written! Seriously, use pecans!! The best part is this cheesecake doesn't have to set overnight! It was ready to eat 2 hours after coming out of the oven. 1 hr to cool to room temperature, add topping, cool in fridge 1 more hour, DONE."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "This is a terrific recipe. Folks ask for it any season of the year. I eventually modified my version just a little. I toast the pecans (chopped) then put some butter and salt on them as they come out of the oven. I crumble some ginger snap cookies in the bottom layer of the crust, add a sprinkle of cinnamon, and some of the toasted nuts - then the apples. As for the apples, the Lucky Brand is my favorite - try it. I do remove some of the sauce while chopping the apples. Sometimes I throw a Tbsp of the sauce into the cream cheese; or just throw it away. The amount of vanilla is good, but I double it and add a drop or two of fresh lemon juice if one is nearby. After baking, I add the remaining toppings plus extra chopped pecans, more crumbled gingersnap cookies, loads of the caramel drizzled into a pattern... then top with a little coarse sea salt. My family goes crazy for this. Thank you for the recipe. My changes sound like a lot, but they're just little adjustments from a terrific combination.",
+            "datePublished": "2020-11-26T00:52:14.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Garnet B"
+            },
+            "reviewBody": "I made this into a regular springform style CC....\nI made my own crust with a mixture of ground up churro cinnamon almonds and sea salt cashews...unsalted butter and crushed vanilla wafers... I reserved some of the ground nut mix to decorate edges of top just before I \"de-ringed\" it! I also used an old fashion tater masher on the apple filling before used it, made the chucks smaller and much prettier as a finished top...",
+            "datePublished": "2019-11-02T00:23:42.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KindBran6991"
+            },
+            "reviewBody": "Added a little cinnamon , allspice, and pepper (for a little kick) to the cheesecake. Instead of pecans, I substituted for some granola. Just melt some butter in a pan, tossed in the granola, a little nutmeg and then added the apples. I drizzled the caramel sauce on top🤌🏾 Chef's Kiss 💕 everyone at work wants the recipe now",
+            "datePublished": "2024-11-01T02:37:02.272Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joelene Young"
+            },
+            "reviewBody": "I am dairy intolerant and gluten intolerant so I needed to make a few adjustments but I am happy to report that this is a great recipe. I substituted soy \"cream cheese\" and made a gluten-free graham cracker crust. Did need to increase the baking time to 45min but it turned out spectacular! Thank you for sharing.",
+            "datePublished": "2013-11-29T20:39:23.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cassie"
+            },
+            "reviewBody": "Awesome! My 9 year old daughter &amp; I made this Cheesecake for a party this week. Everyone at the party raved about how perfect and yummy this dessert was. They said it was better than restaurant quality and I would have to agree. The recipe and the tips were easy to follow. The 2 comments or instructions I would add : Do not use a mixer when mixing the cream cheese mixture it starts to curdle; we stopped the mixer and used a whisk which did break down most of the curdles and smoothed out the mixture. We also placed a glass dish with 2 inches of water in the rack underneath the cheesecake when it was in the oven to keep the cheesecake top from cracking which I lis a technique that came from cooks country. This cheesecake is a winner and a keeper!",
+            "datePublished": "2014-03-28T04:04:05.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bonnie Zook"
+            },
+            "reviewBody": "For my diabetic husband I make this with home made pie filling using sugar substitute and Smuckers sugar free caramel topping. It is delicious.",
+            "datePublished": "2010-03-09T13:52:12.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lga703"
+            },
+            "reviewBody": "Made this recipe into muffin size to take to a potluck dinner. Eliminated all the cutting and serving. They were we a huge hit! Mission accomplished ... not one to take home to tempt me",
+            "datePublished": "2018-08-17T16:26:41.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LorraineinBC"
+            },
+            "reviewBody": "This was a hit! I did make a couple of adjustments though... I used the Sauteed Apples recipe from this board instead of canned - just can't bring myself to used canned more than necessary. I also toasted my pecans first, and only put strategic blobs of topping on the top of the pie rather than cover the whole thing. Lastly, I melted a few caramels and added a tsp. or two of milk, to make the caramel drizzle for the top. This is a rich and delicious dessert!",
+            "datePublished": "2011-10-29T08:43:42.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nevonne Mensah"
+            },
+            "reviewBody": "First time making this and it came out Awesome. I had friends over and they loved it. I did make some changes, I made 3. 8oz cream cheese instead of 2, I wanted it very rich. Added ground cinnamon to the mix. Also added evaporated milk to caramel sauce! I will make it again, it did have a crack in it but when I added the filling it wasn't noticeable.",
+            "datePublished": "2017-07-04T14:20:08.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HOLLY9000"
+            },
+            "reviewBody": "Super good! Added some chopped pecans to my Carmel topping and sprinkled some on top. Delicious. So easy to make! This was a huge hit at the office.\n\nI've been making this cheesecake for a year now and I now make my own crust and caramel. I also make caramel frosting and use that on the sides. Everyone loves this whenever I make it.",
+            "datePublished": "2015-11-25T11:06:45.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda MzUnderstood Poole"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-01-23T06:40:49.008Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HOlly Gonsalves"
+            },
+            "reviewBody": "",
+            "datePublished": "2023-12-21T02:25:02.696Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim Shaw"
+            },
+            "reviewBody": "Everyone loved it!",
+            "datePublished": "2023-01-10T04:17:26.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "n6kxkq4rm4"
+            },
+            "reviewBody": "Sorry.. no photo… it was gone too quickly! This is an amazingly delicious cheesecake! My only variation was I didn’t decorate with whole pecans.",
+            "datePublished": "2021-12-26T11:24:34.877Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Clara"
+            },
+            "reviewBody": "I decided to make this for my daughter's 16th birthday since she requested cheesecake. I didn't have apples so substituted pears. I decided to make my own graham cracker crust, since I had crumbs in the pantry and I used a springform pan. Turned out amazing.",
+            "datePublished": "2021-08-02T20:21:07.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Reinmaker"
+            },
+            "reviewBody": "Fantastic and easy recipe! I omitted the canned filling and made my own spiced apples on the stove and it's worked beautifully! Thank you for posting! I had a very happy fiancee on her birthday!",
+            "datePublished": "2021-02-04T20:47:19.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jerrijohnson"
+            },
+            "reviewBody": "This is a fantastic recipe. Followed the recipe exactly and it was great. After the first time I added a bit more caramel and more pecans as we love nuts. It is a good recipe for those who like pies and those who like cheesecakes.",
+            "datePublished": "2020-05-10T19:05:57.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kitty Kat"
+            },
+            "reviewBody": "No changes. I will most certainly make it many more times",
+            "datePublished": "2019-12-30T01:08:34.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Margaret"
+            },
+            "reviewBody": "i made this for a holiday party and it was a big disappointment. i i added 10 minutes of baking time (which was unusual because my oven tends to run hot) and even though the cheesecake seemed to be set, ithe middle had a runny consistency. it looked pretty with the topping on it but the taste was off. i followed the recipe exactly.",
+            "datePublished": "2019-12-21T00:42:33.243Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/179716/caramel-apple-cheesecake/",
+          "name": "Apple and Caramel Cheesecake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/276/desserts/cakes/",
+                  "name": "Cakes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/387/desserts/cakes/cheesecake/",
+                  "name": "Cheesecake Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

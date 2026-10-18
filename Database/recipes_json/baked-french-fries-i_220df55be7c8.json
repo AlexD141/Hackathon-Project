@@ -1,0 +1,493 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20849/baked-french-fries-i/",
+  "extracted_at": "2026-10-18T02:46:59.452648+00:00",
+  "recipes": [
+    {
+      "name": "Baked French Fries",
+      "ingredients_raw": [
+        "1 large baking potato",
+        "1 tablespoon olive oil",
+        "0.5 teaspoon paprika",
+        "0.5 teaspoon garlic powder",
+        "0.5 teaspoon chili powder",
+        "0.5 teaspoon onion powder"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients. Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Cut potato into thick wedges."
+        },
+        {
+          "id": 3,
+          "text": "Mix olive oil, paprika, garlic powder, chili powder, and onion powder together in a medium bowl. Add potato wedges and toss to coat evenly; arrange on a baking sheet."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven, turning once or twice, until golden brown and crispy, about 45 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Baked French Fries",
+        "datePublished": "2000-09-02T21:58:10-04:00",
+        "dateModified": "2026-03-31T11:52:08-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Ashlee"
+          }
+        ],
+        "description": "This baked French fries recipe uses olive oil and seasons the potatoes with paprika, garlic powder, onion powder, and chili for a fantastic flavor!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/U1sEkJUK1t6Fwus20EKUx002TaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20849-baked-french-fries-i-ddmfs-4377-4x3-beauty-0b5c6bf1153e4d4f93257d503a469242.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/9kwJ8d7f-ma1DlVvV.mp4",
+          "description": "AR0412",
+          "duration": "PT2M19S",
+          "name": "Baked French Fries I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9kwJ8d7f/thumbnails/8orOWktu.jpg?width=1280",
+          "uploadDate": "2021-07-01T02:28:17-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Baked French Fries",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "1788"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "357 kcal",
+          "carbohydrateContent": "55 g",
+          "fiberContent": "5 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "27 mg",
+          "sugarContent": "5 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 large baking potato",
+          "1 tablespoon olive oil",
+          "0.5 teaspoon paprika",
+          "0.5 teaspoon garlic powder",
+          "0.5 teaspoon chili powder",
+          "0.5 teaspoon onion powder"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/TYToFRhQYd-gxyPu7xYsZZqp4QI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20849-baked-french-fries-i-ddmfs-4349-4x3-step-01-be6e397313f144069abad1a1a3a385de.jpg"
+              }
+            ],
+            "text": "Gather the ingredients. Preheat the oven to 450 degrees F (230 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/dRUTuCvEJLOeFRwxlTujpWyA6ao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20849-baked-french-fries-i-ddmfs-4350-4x3-step-02-8bb2111597c24794892a1bfe927ede5c.jpg"
+              }
+            ],
+            "text": "Cut potato into thick wedges."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/dzfmXMaXmnIycX3x9bbqxiXcQuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20849-baked-french-fries-i-ddmfs-4352-4x3-step-03-7283b21d64834c5c9a4866d1968daa11.jpg"
+              }
+            ],
+            "text": "Mix olive oil, paprika, garlic powder, chili powder, and onion powder together in a medium bowl. Add potato wedges and toss to coat evenly; arrange on a baking sheet."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YIrYnB7BcJc3jyaZ6k4PLOunw6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20849-baked-french-fries-i-ddmfs-4364-4x3-step-04_2-543737ca62ba4918b99b30114e05702d.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven, turning once or twice, until golden brown and crispy, about 45 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/U1sEkJUK1t6Fwus20EKUx002TaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20849-baked-french-fries-i-ddmfs-4377-4x3-beauty-0b5c6bf1153e4d4f93257d503a469242.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BandE"
+            },
+            "reviewBody": "Incredible fries! Important -- bake at 400 degrees, for 40-45 minutes, and turn at least once during the baking. If you use the 450 degrees in the recipe, the fries will burn. I mixed everything in a gallon size ziploc bag. For the spices, I used freshly minced garlic (no onion powder), paprika, cumin, cayenne pepper, and chili powder. I used 6 potatoes (4 russet, 2 sweet) and 1/3 cup oil. Delicious!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Serena"
+            },
+            "reviewBody": "These were phenomenally good! Quick and easy - and much tastier than the frozen variety. \n\nCooking time and temperature will vary greatly on how thick you cut the wedges. I followed the recommendations of others and reduced the cooking time and temp to 425°F. However, after 30 min it was not ready. I had to increase the temperature to 475°F in order to ensure they would be ready in time for dinner. So, if you cut your wedges small and thin - you will need to cut the temp and cooking time. But if you cut true (thick) wedges - follow the recipes directions (although I strongly encourage flipping the potatoes halfway through the process). For a super easy cleanup - I poured the oil and spices into a gallon size Ziploc bag and mixed it all together until well blended - then I added the cut potatoes and kneaded and shook the bag until all the potatoes were well and evenly coated. Then poured it into a 9x13 glass baking dish lined with foil. \n\nMinor adjustments: I used paprika, garlic powder, salt, freshly ground black pepper, a pinch of chili powder - mine is exceptionally potent, and cumin)... The second time making this recipe I added fresh minced onion - and that was a very tasty addition too!",
+            "datePublished": "2008-03-12T13:50:42.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miya"
+            },
+            "reviewBody": "This is a great recipe! The only reason I can't give it 5 stars is because it needs the tweaking that other posters mentioned: a little salt, lower temperature (400degrees), less cook time (30min), and they need to be turned 1/2way through. Thanks for posting this!",
+            "datePublished": "2007-06-27T16:59:50.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Megs"
+            },
+            "reviewBody": "This was great, pretty easy, and I had everything on hand. I made a few tweaks based on other reviews... I used minced garlic, and added salt (could have added more). I made a ton... used 7 med russets, and so I used around 1/3 cup oil, and 1 2/3 tsp of each ingredient (other reviews mentioned upping the seasonings and I upped the portions anyhow)...and I mixed everything in a ziplock freezer bag. I followed other suggestions to bake at 400 for 15, turn, and another 15 minutes. I think my wedges were on the thicker side, I could have used a higher temp and longer time to get them crispier on the outside... but they’re great - great base recipe that could be tweaked with adding more garlic and Parmesan or cutting the potatoes thinner to fit whatever you making with it! Will definitely do this again!",
+            "datePublished": "2020-01-24T21:38:06.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori"
+            },
+            "reviewBody": "I corrected the directions. I only cooked these for 20 min. and turned them after 10 minutes. Otherwise they burn. I love these. I just had to add salt. These are so delish and better for you then fried. I already made them twice in 2 days. I used red potatoes.",
+            "datePublished": "2021-06-06T19:43:18.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Skip"
+            },
+            "reviewBody": "I went on line to find the temperature to bake my fries at and came across this recipe. I had already planned to spice it up with the suggested spices but added cayenne pepper...LOTS of cayenne pepper (I'm a \"heat-aholic!). I used 6 small - medium Russet potatoes and cut them in a 1/4 inch french fry; skins on. I used a generous amount of Canola Oil and put all my spices, oil and potatoes right on the baking sheet and mixed there. I divided the potatoes in 2 batches so they would all lay in a single layer. the first batch came out perfect at 450 degrees and 45 minutes cooking time (large batch approximately 3 small to medium potatoes). Second batch, a smaller batch, I did not add extra oil but added extra spices; cooked them for 40 minutes and they nearly burned. Keep in mind I like my fries on the well-done side and the first batch had many small edges of potato/skin pieces that were crunchy little morsels of goodness.\n\nLessons learned: Temperature is fine. Less potatoes, less baking time and I think more oil is better.\n\nI hope this helps people who felt the times and temps were wrong. You have to experiment.",
+            "datePublished": "2019-01-16T05:27:41.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alexism1216"
+            },
+            "reviewBody": "I made these tonight and they were AMAZING! I too lowered the temperature to 400 and baked them for 35-40 minutes , turning them at the 20 minute mark. I did not have chili powder, but I had the next best thing .......SIRACHA !!!!!! I drizzled a lot on top and mixed them up before baking , for some reason it made them even taste cheesy but I wasn’t complaining , everyone loved them even my dad who is super picky about spicy things !!",
+            "datePublished": "2017-10-05T03:06:58.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori"
+            },
+            "reviewBody": "I soaked my fries in water to lessen the starch. dried, Then olive oil, and some Maria Adorenetto's seasoning, which has all the ingredients listed basically. Salt, garlic, pepper, sugar, paprika onion, turmeric. These were yummy!!",
+            "datePublished": "2017-05-24T15:28:06.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bobbie"
+            },
+            "reviewBody": "Not a huge french fries lover but these were awesome! And the Hubby loved them. After reading the revues, I baked at 400 for 10 minutes and turned potatoes, then baked another 15 minutes. They were perfect. But I must admit I didn't do 'wedges' so they weren't maybe as thick as the recipe called for. YUM!",
+            "datePublished": "2023-05-29T14:45:33.066Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "natchin1999"
+            },
+            "reviewBody": "I think the heat is too high. I should have used about 350. I had to only keep it in for about 30 minutes because I noticed them really burning. I used way more than a spoon of oil. I covered them completely with oil and half way through, I flipped them and covered them again. They were good, but definitely burned.",
+            "datePublished": "2018-11-25T18:01:47.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cinda Coe"
+            },
+            "reviewBody": "Wonderful! I did change the cooking temp to 400 for 40-45 and added 1/2 teaspoon of salt as other reviewers suggested and they came out perfect.",
+            "datePublished": "2017-08-11T22:19:25.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LindaB"
+            },
+            "reviewBody": "I only had sunflower oil in hand, so used that, and prepared this with 5 potatoes. I put the seasoning in a plastic bag and coated the potatoes. Then I cut onion into 1/2-1” wedges and shook it with the remaining seasoning in the bag. Baked at 400 for 45 minutes, and drained, with coffee filters between layers.",
+            "datePublished": "2026-04-04T17:48:11.185Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HeartySnap4311"
+            },
+            "reviewBody": "I've been making these potato wedges for years, and they're a family favorite! For those that burned your potato wedges, please keep an eye on them. 450°, at least for our oven, is an appropriate temp for this recipe. However, all ovens vary. The end result should be crisp outsides and tender insides. In our house, tater wedges and a great green salad is a regular on our rotation : )",
+            "datePublished": "2026-04-04T14:25:01.526Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheryl Anderson"
+            },
+            "reviewBody": "My family liked these potatoe wedges. They were crispy outside and tender inside. I followed the ingredient list as written, but I baked them at 400 degrees for about 45 minutes. I turned them 3 times and then put them under the broiler for 2 minutes per side to crisp them up. They were a bit greasy so I drained them on paper towels before serving them. We'll definitely make them again.",
+            "datePublished": "2024-04-05T00:56:32.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PABS"
+            },
+            "reviewBody": "I followed the recipe as written and planned my meal around the 45 minutes cooking time. Darn! They were burned and dried out before the rest of the meal was ready! I agree with the person that said the recipe needs edited so that you don't HAVE to read the reviews!",
+            "datePublished": "2024-02-12T17:13:01.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debra Powell"
+            },
+            "reviewBody": "I love these! However I baked them at 400, turning after 10 minutes. Thanks allrecipes! I always come here first",
+            "datePublished": "2022-10-13T23:17:49.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IndigoBran5066"
+            },
+            "reviewBody": "Quick &amp; Easy!",
+            "datePublished": "2022-04-10T00:20:59.999Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dhrmqgj2dr"
+            },
+            "reviewBody": "I loved this recipe i just added cheese bacon and sausage but on a side note thank you I’m in love with it",
+            "datePublished": "2022-02-26T18:29:02.346Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cynthiaaustad"
+            },
+            "reviewBody": "I use recipes from allrecipes frequently. Sometimes I read the review suggestions; sometimes I don’t have time. BUT, the suggestions should not be necessary to make a good recipe! They should be helpful modifications! The oven temp is much too high. After turning the potatoes at 15 minutes, they were starting to burn. Also…no salt? The couple that avoided being charred had such a bitter flavor.",
+            "datePublished": "2022-02-10T02:03:04.485Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fredrick"
+            },
+            "reviewBody": "I added in some carrots and everyone loved it. This recipe is a keeper for sure.",
+            "datePublished": "2021-09-09T00:01:33.063Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20849/baked-french-fries-i/",
+          "name": "Baked French Fries",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15466/side-dish/fries/",
+                  "name": "Fries Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15467/side-dish/fries/french-fries/",
+                  "name": "French Fries Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15469/side-dish/fries/french-fries/baked-french-fries/",
+                  "name": "Baked French Fries"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

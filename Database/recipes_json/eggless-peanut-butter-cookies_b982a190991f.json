@@ -1,0 +1,449 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11214/eggless-peanut-butter-cookies/",
+  "extracted_at": "2026-10-18T01:45:47.734321+00:00",
+  "recipes": [
+    {
+      "name": "Eggless Peanut Butter Cookies",
+      "ingredients_raw": [
+        "1 cup shortening",
+        "1 cup creamy peanut butter",
+        "1 cup white sugar",
+        "1 cup packed brown sugar",
+        "0.5 cup buttermilk",
+        "2.5 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1.5 teaspoons baking soda",
+        "0.5 teaspoon salt"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease cookie sheets."
+        },
+        {
+          "id": 2,
+          "text": "Mix the shortening, peanut butter, white sugar, brown sugar and buttermilk until smooth and fully combined."
+        },
+        {
+          "id": 3,
+          "text": "Add the flour, baking powder, baking soda and salt to the peanut butter mixture and mix until well blended."
+        },
+        {
+          "id": 4,
+          "text": "Drop cookies 2 inches apart on lightly greased cookie sheet. Flatten with a fork that has been dipped in flour. Bake at 375 degrees F (190 degrees C) for 10 to 12 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Eggless Peanut Butter Cookies",
+        "datePublished": "2020-06-18T22:56:26-04:00",
+        "dateModified": "2022-07-20T11:06:48-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "L J Bryan"
+          }
+        ],
+        "description": "I am allergic to eggs and I&#39;ve been using this recipe for over 40 years.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/OMVmhjSgsEWTaWKbSKex3GFnLwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3674889-b298c870d0f642318773cc65935681a2.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Eggless Peanut Butter Cookies",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "232"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "255 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "0 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "205 mg",
+          "sugarContent": "19 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "1 cup shortening",
+          "1 cup creamy peanut butter",
+          "1 cup white sugar",
+          "1 cup packed brown sugar",
+          "0.5 cup buttermilk",
+          "2.5 cups all-purpose flour",
+          "1 teaspoon baking powder",
+          "1.5 teaspoons baking soda",
+          "0.5 teaspoon salt"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease cookie sheets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix the shortening, peanut butter, white sugar, brown sugar and buttermilk until smooth and fully combined."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add the flour, baking powder, baking soda and salt to the peanut butter mixture and mix until well blended."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drop cookies 2 inches apart on lightly greased cookie sheet. Flatten with a fork that has been dipped in flour. Bake at 375 degrees F (190 degrees C) for 10 to 12 minutes."
+          }
+        ],
+        "recipeYield": [
+          "24",
+          "4 dozen"
+        ],
+        "totalTime": "PT0M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "These cookies are fabulous! I substituted butter for the shortening and 2% milk for the buttermilk and they turned out perfectly."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "merriwoman"
+            },
+            "reviewBody": "I looked for this recipe because we often do not have eggs in our kitchen, but we had baking supplies left from the holidays (sugar, flour, etc). I substituted 3/4 of a stick of butter for the shortening and whole organic milk for the buttermilk, and these turned out to be AMAZING! Because I don't have baking trays at the moment, I split the dough in half and cooked it spread out into two all metal skillets for about 15-20 minutes (my oven does not heat well). This allowed for just the right amount of crisp browness on the edges and bottom but moist chewy centers...plus it's fun to cut into it like little pieces if pizza or cake. Great for an ice cream sundae! Thank you so much for sharing this,recipe!!",
+            "datePublished": "2014-01-08T06:49:47.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tina Stevens"
+            },
+            "reviewBody": "I made a half batch, and put all the dough into a 12 inch cast iron skillet, to make one big cookie. I cooked it for 18 min at 350degrees . I also added 1 cup chocolate chips. It turned out thick and crumbly. They are yummy, I will make these again.",
+            "datePublished": "2016-09-25T00:00:57.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "oceanspitfire"
+            },
+            "reviewBody": "Took a chance on a random googled recipe. Was craving something to nosh on with my tea, however I had no eggs, oh ick, I discovered I also had no peanut butter. However I have lots of diff nuts in the fridge so eeny meeny miney mo I grabbed brazil nuts and ground them up in the Nutri Bullet- so I didn't get consistency of peanut butter, was more like almond paste. But that actually worked. Didn't flatten them before baking cause I really love thick chewy cookies. Also only baked for approx 8 min. I'm at 6,000 feet in the Rockies, so high altitude and dry. (these things affect outcome always). Nice sized recipe too. I doubled and rolled the dough into balls and froze so I bake off a few every few days.",
+            "datePublished": "2021-11-14T19:43:53.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CooKatie"
+            },
+            "reviewBody": "I'm giving 4 stars only because I adulterated this recipe a bit to make it almost completely vegan. So I'm not giving an entirely accurate review of the given recipe. First, I cut the recipe in half which still makes about 24 smallish cookies. I replaced the shortening with 1/4 refined coconut oil and 1/4 cup peanut butter (to make it extra peanut buttery). I lessened the called for white sugar by an 1/8 of a cup. I also replaced the buttermilk with almond milk. I added chopped up Hershey's kisses (the only thing not vegan) and some walnut pieces I wanted to use. I pressed down the tops of the cookies with a fork. My version of the cookies didn't spread out much at all so next time I will probably flatten them more before baking. I also used parchment paper and baked for about 14 minutes with the given baking temp. They turned out soooo delicious! Probably the best vegan cookie I have made to date. Will definitely use this recipe as a starting point again!",
+            "datePublished": "2014-11-17T10:37:23.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "grey"
+            },
+            "reviewBody": "Very nice recipe! I split the dough in half, added 2 heaping Tablespoons of dark chocolate cocoa powder to half of the dough. I made the cookies with a pinch of each dough, rolling them together in my hands making a \"duo\" cookie - half dark choc and half peanut butter. Also to make them vegan, I used 1/2 cup of almond milk instead of buttermilk, and used Earth Balance spread instead of shortening. I added 2 pics to show how they look.",
+            "datePublished": "2017-04-02T14:41:18.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andi K"
+            },
+            "reviewBody": "Without a doubt, these are the best peanut butter cookies! Made 4 dozen for our school bake-sale... Best seller! Used 1 cup sour cream to replace buttermilk. Cut the cooking time down to 8 minutes in convection oven. A 1.5 inch ball makes a 3 inch cookie. Thank you for such a wonderful recipe!",
+            "datePublished": "2007-05-09T17:30:12.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah95662"
+            },
+            "reviewBody": "Like many others, I wanted to make cookies but had no eggs. So I used this recipe, added vanilla, used half shortening and half butter for the fats and used regular milk instead of butter milk because that's all I had. They are the best peanut butter cookies I've ever had. Light and buttery and crispy with just the right inner texture after 12 minutes. For a little more tender go 10 minutes but I like the crisp. I did not however pay attention to the yield on this recipe. It made a LOT of cookies (which isn't a problem if you've got a house full of peanut butter lovers) but I would halve this recipe for future use. Also, these ones spread out during baking a bit more than usual PB cookies, so don't flatten them out as much with the fork tines and spread them out well. Yum!!",
+            "datePublished": "2009-12-07T20:52:20.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jnelmil"
+            },
+            "reviewBody": "Yummy! We’ve made this several times. We used butter and milk/cream with vinegar instead of buttermilk. This time we added about 3/4 cup of oatmeal and 1/4 cup of powdered sugar before the flour. Also added a touch of vanilla. It made them even yummier. We dip our fork in sugar with a bit of salt mixed in before we press the cookie dough.",
+            "datePublished": "2020-05-21T00:16:11.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LadyTMarie"
+            },
+            "reviewBody": "I added 1/4 cup of flour to thicken the dough and used butter instead of shortening. The extra salt made the peanut butter flavor stand out. I only made a half portion of the cookie dough and there was a lot of it!!! I made 1\" sized balls for the cookies that I then flatten with a fork (see attached before baking pic). I placed 6 cookies in a 13x9 baking dish and the cookies were touching each other when the baking was done. I will make smaller balls next time",
+            "datePublished": "2014-01-07T17:14:51.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pinga"
+            },
+            "reviewBody": "This is a great cookie! I've never eaten, let alone made, peanut butter cookies before, but these are brilliant and easy to make. They taste peanut buttery, but light and unusually for eggless cookies there is no baking soda aftertaste!\nI used margarine instead of shortening, semi-skimmed milk + 1 tsp vinegar [for buttermilk] and only half the salt. I baked at 180C for 11mins in a fan oven and they came out chewy in the middle and crispy at the edges. I also froze half the mix to bake later as it made about 50 cookies.\nNext time I might try it with crunchy peanut butter.\nI'm going to add a photo so you can see how they came out.",
+            "datePublished": "2006-10-24T08:08:35.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alison McKenzie Williams"
+            },
+            "reviewBody": "Great I added a pinch of vanilla..I also substituted buttermilk for can milk 1/2 milk 1/2 water .Best eggles cookies I ever tried. Also had Lard no shortening but the edges turned out nice and crisp.",
+            "datePublished": "2023-05-20T16:47:04.474Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DizzyFlour9531"
+            },
+            "reviewBody": "This turned out great, but don't be like me and forget to put the butter in! I was so confused why the dough was too dry, and added another half cup of my Buttermilk replacement, which was sour cream and milk. They turned out delicious anyway, and I am proud to send them to my uncle in law for his birthday. They taste great and have the perfect chewy texture. I will definitely make this again, maybe next week, WITH the butter, and I expect excellence. Thanks!",
+            "datePublished": "2023-05-18T05:07:38.404Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissa Mae"
+            },
+            "reviewBody": "Good. Didn't have any eggs but wanted to make cookies anyway. Tried this recipe only changes were *Used heavy whipping cream instead of buttermilk because that's what I had, added vanilla extract and espresso chips.",
+            "datePublished": "2022-05-09T06:12:35.975Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bree Reed"
+            },
+            "reviewBody": "Theses cookies are fantastic! Like many other commenters, buttermilk just isn't something I keep on hand so I used milk + vinegar. Otherwise, this recipe is 10/10 fantastic. A true peanut butter cookie, and not a sugar cookie trying to be a peanut butter cookie. I'm saving this and will be making it regularly now. Thank you.",
+            "datePublished": "2022-04-10T01:58:18.589Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gatewavejojo"
+            },
+            "reviewBody": "I only had pastry flour and they really swelled up into a wonderful cakey kinda thingy. Loved by all!",
+            "datePublished": "2022-01-02T01:39:10.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tee Po"
+            },
+            "reviewBody": "I thought these were pretty good. I used two sticks of butter instead of shortening. I also added vanilla. My daughter loved them!",
+            "datePublished": "2019-12-16T01:11:01.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nicole Marie Doherty"
+            },
+            "reviewBody": "These came out pretty good, everyone at my job and at my home loved them. I added chocolate chips to some of them.",
+            "datePublished": "2019-09-26T23:54:08.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nathan Reed"
+            },
+            "reviewBody": "I used a vegan butter in place of shortening, and plain soy milk instead of buttermilk. They are a dream!",
+            "datePublished": "2018-12-18T22:48:28.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alexandria Bovee"
+            },
+            "reviewBody": "I did not have eggs on hand and I had a craving for peanut butter cookies and this recipe was THE BEST find ever. \n\nI made 4 sheets of cookies with this recipe with 8-12 cookies per sheet. \n\nThe taste is WONDERFUL. I used organic natural pb for this recipe and it turned out amazing.",
+            "datePublished": "2018-07-21T18:36:22.110Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11214/eggless-peanut-butter-cookies/",
+          "name": "Eggless Peanut Butter Cookies",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/852/desserts/cookies/peanut-butter-cookies/",
+                  "name": "Peanut Butter Cookie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

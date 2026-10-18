@@ -1,0 +1,430 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/173699/bbq-pork-pizza/",
+  "extracted_at": "2026-10-18T02:26:03.833262+00:00",
+  "recipes": [
+    {
+      "name": "BBQ Pork Pizza",
+      "ingredients_raw": [
+        "1 (13.8 ounce) package refrigerated pizza dough",
+        "1 (18 ounce) container barbequed pulled pork",
+        "0.25 red onion, thinly sliced",
+        "0.5 cup dill pickle slices",
+        "2 cups shredded mozzarella cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 425 degrees F (220 degrees C). Grease a 9x13 inch baking pan."
+        },
+        {
+          "id": 2,
+          "text": "Roll the dough out into the prepared pan. Top the dough with the barbecued pork. Sprinkle with the red onions, and layer on the dill pickle slices. Sprinkle mozzarella cheese evenly over the top."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until crust is golden and cheese is melted, about 18 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "BBQ Pork Pizza",
+        "datePublished": "2019-04-02T02:50:59-04:00",
+        "dateModified": "2026-06-26T20:57:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rachel Staloch"
+          }
+        ],
+        "description": "Use refrigerated pizza dough and prepared barbequed pulled pork to make a delicious pizza in minutes, topped with dill pickles and mozzarella cheese.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/YugRz-22rpVoHNHRjMKt2ZgtZHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/173699bbq-pork-pizzaSherri4x3-884088d815754937969cfe89d8071aa2.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "BBQ Pork Pizza",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "38"
+        },
+        "cookTime": "PT18M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "671 kcal",
+          "carbohydrateContent": "66 g",
+          "cholesterolContent": "104 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "44 g",
+          "saturatedFatContent": "11 g",
+          "sodiumContent": "1884 mg",
+          "sugarContent": "19 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 (13.8 ounce) package refrigerated pizza dough",
+          "1 (18 ounce) container barbequed pulled pork",
+          "0.25 red onion, thinly sliced",
+          "0.5 cup dill pickle slices",
+          "2 cups shredded mozzarella cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 425 degrees F (220 degrees C). Grease a 9x13 inch baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Roll the dough out into the prepared pan. Top the dough with the barbecued pork. Sprinkle with the red onions, and layer on the dill pickle slices. Sprinkle mozzarella cheese evenly over the top."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until crust is golden and cheese is melted, about 18 minutes."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT28M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marcella"
+            },
+            "reviewBody": "This was a very good way to use up leftover pork. I see in the reviews that some people did not use the dill pickles. Use them! I actually wish I would have put a few more on, because they added to the flavor of this dish. Easy to make, too."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie Watson McKay"
+            },
+            "reviewBody": "We have had this pizza twice in two years and it was given 5 stars by my family each time. I chopped up BBQ pork chops that we grilled the day before as the topping of this pizza. I put down a layer of BBQ sauce first on the crust, then I added pineapple to the mix as well as colored peppers and dill pickles. I made my pizza dough in the breadmaker beforehand. I get best results when I use a cookie sheet and bake pizza at 500 degrees for about 15 minutes. This makes the crust crunchy. Loved it. Will make again.",
+            "datePublished": "2017-12-08T00:29:07.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Made my own pulled pork from leftover roast, added some roasted garlic, and OH MAH GAWD, my family went nuts! Needed more pickles but, We love it!!!",
+            "datePublished": "2023-07-19T12:41:30.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherri"
+            },
+            "reviewBody": "After having this recipe in my box forever I finally tried it. I used leftover pulled pork I had and did try the dill pickles on half and pickled jalapeños slices on the other half. They were both good but we preferred the jalapeños. The BBQ on pizza dough was a terrific idea. Next time I might try some pineapple tidbits along with the jalapeños. And there will be a next time for this delicious pizza.",
+            "datePublished": "2012-02-23T12:30:32.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NancyW"
+            },
+            "reviewBody": "Very good, but add some BBQ sauce to the crust and then lightly spread with shredded cheddar before placing the pork and other toppings.",
+            "datePublished": "2012-05-29T17:26:17.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shana McSunas"
+            },
+            "reviewBody": "I used left over pork chalupa, so I made it with a Mexican flair. I added the chalupa, mozzarella, jalapeños, and sliced onion. When I removed it from the oven, I garnished with cilantro, diced tomatoes, and romaine lettuce. It was delicious! Must try!",
+            "datePublished": "2015-05-20T16:00:51.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trish-the-Dish"
+            },
+            "reviewBody": "I made my own crust, added spices to the dough. Used BBQ sauce as the base for the toppings, added pineapple and serrano peppers to the listed toppings. Pre-baked the crust for 5 min., then added toppings and finished the baking. We liked it, I may make it again, but I like other pizzas better.",
+            "datePublished": "2023-06-16T03:26:15.254Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kimberbrn"
+            },
+            "reviewBody": "This was a fantastic dinner. I bought a premade pizza crust and added some thinly sliced granny smith apples and pineapple tidbits. It was great! I didn't put the pickles on the pizza, but tried them along side the pizza. I would put them on next time! Thanks",
+            "datePublished": "2011-06-20T21:16:21.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "Loved this! So simple and delicious. I used pre-cut pizza's because we like thin and crispy and they worked great. I do recommend using a plain pulled pork and then adding your favorite BBQ sauce of choice. My choice is Gates (R) because we don't like sweet but again, use BBQ sauce of choice. Great weeknight dinner that I highly recommend.",
+            "datePublished": "2025-04-01T03:37:05.664Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "reviewBody": "YUMMY! I did use leftover 'Bourbon Mango Pulled Pork' that I had in the freezer and made my own crust, but followed the directions otherwise. This was really delicious and the pickles did make this extra tasty...I couldn't have imagined leaving them off. This was a great new way to use up leftover pulled pork, and one that I will be making again! Thanks for sharing. :)",
+            "datePublished": "2012-01-13T15:03:57.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "limecloud"
+            },
+            "reviewBody": "I've made this before (new year's eve party- I sliced it into small bite-sized pieces) and used cheddar cheese , no pickles and garnished with some chopped green onions. It was a huge hit- I only made it as a last minute \"extra\" appetizer but it was soo good I'll be making this again.",
+            "datePublished": "2010-09-21T10:16:16.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Walker Watson"
+            },
+            "reviewBody": "Leftover pulled pork usually becomes carnitas here, but I was out of tortilla so last night it became this. THIS was an unexpected hit with ALL the family members! The only reason for the four stars instead of five is that while I quite liked it, it blew the heads off the rest of the family. Oh, the h*ll with it, I’ll change it to 5. Well done! 💜",
+            "datePublished": "2025-04-08T10:22:31.144Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ginamarez5663"
+            },
+            "reviewBody": "I wish I would have put more red onion. Very good pizza!",
+            "datePublished": "2023-04-13T16:50:32.829Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MXcin"
+            },
+            "reviewBody": "Delicious. Added bbq sauce as others had recommended. and jalapeños. Do not skip the pickles!",
+            "datePublished": "2021-01-11T23:34:17.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "smarsten"
+            },
+            "reviewBody": "Followed the recipe exactly and it was AWESOME! I also used a recipe for pizza crust that I found on this site as well.",
+            "datePublished": "2018-09-13T20:05:58.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry"
+            },
+            "reviewBody": "The pickels are a must. I never would have thought of this. What a great pizza.",
+            "datePublished": "2016-08-12T01:43:46.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisa"
+            },
+            "reviewBody": "This was just okay. I made my own pizza dough but other than that I made the pizza as written except that I put BBQ sauce on one half of the pizza before adding the other ingredients. The side with the BBQ sauce was A LOT better than the side without, it added flavour to an otherwise quite bland pizza. If I make it again I might add some cooked bacon, or pickled jalapenos as some other reviewers used - just to give it some more flavour,",
+            "datePublished": "2014-10-04T20:24:49.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "coleebear"
+            },
+            "reviewBody": "This is one of those dishes you can't really decide how you feel about it but can't stop eating either. I made exactly as stated above but used a pre formed uncooked pizza crust. Changes we have discussed for next time is heating the pork bbq a bit before it is but on the pizza. Mostly we just feel that the cheese and other items didn't get long enough to cook since it was on top of the cold pork. For everyone that doesn't think pickles will work. Try them on it. For some reason it just does. I found myself wishing there was maybe a few more. Also in my cheese loving house there were complaints about not being enough cheese but more a personal thing than a need addition.",
+            "datePublished": "2013-07-11T08:41:21.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robin Monks"
+            },
+            "reviewBody": "I replaced pickles with diced tomatoes, perfect pizza!",
+            "datePublished": "2012-12-22T08:37:31.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CookinCarrie"
+            },
+            "reviewBody": "I enjoyed this pizza, and it was a great way to use the rest of my pulled pork. I spread the dough with some extra BBQ sauce before I put the pork on. My husband wasn't a big fan of the pickles, but I liked them.",
+            "datePublished": "2012-08-05T16:50:25.460Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/173699/bbq-pork-pizza/",
+          "name": "BBQ Pork Pizza",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/250/main-dish/pizza/",
+                  "name": "Pizza Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

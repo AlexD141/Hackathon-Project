@@ -1,0 +1,466 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16048/chocolate-caramel-brownies/",
+  "extracted_at": "2026-10-18T02:18:43.028161+00:00",
+  "recipes": [
+    {
+      "name": "Chocolate Caramel Brownies",
+      "ingredients_raw": [
+        "14 ounces caramels",
+        "0.5 cup evaporated milk",
+        "1 (18.25 ounce) package German chocolate cake mix",
+        "0.33333334326744 cup evaporated milk",
+        "0.75 cup butter, melted",
+        "0.25 cup chopped pecans",
+        "2 cups milk chocolate chips"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Peel caramels and place in a microwave-safe bowl. Stir in 1/2 cup evaporated milk. Heat and stir until all caramels are melted."
+        },
+        {
+          "id": 2,
+          "text": "Preheat oven to 350 degrees F (175 degrees C) Grease a 9x13 inch pan."
+        },
+        {
+          "id": 3,
+          "text": "In a large mixing bowl, mix together cake mix, 1/3 cup evaporated milk, melted butter, and chopped pecans. Place 1/2 of the batter in prepared baking pan."
+        },
+        {
+          "id": 4,
+          "text": "Bake for 8 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Place the remaining batter into the fridge. Remove brownies from oven and sprinkle chocolate chips on top. Drizzle caramel sauce over chocolate chips. Remove brownie mix from refrigerator. Using a teaspoon, make small balls with the batter and smash flat. Very carefully, place on top of the caramel sauce until the top is completely covered."
+        },
+        {
+          "id": 6,
+          "text": "Bake for an additional 20 minutes. Remove and let cool."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chocolate Caramel Brownies",
+        "datePublished": "1999-11-17T00:19:51-05:00",
+        "dateModified": "2026-04-24T12:51:03-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Barbara Hodge"
+          }
+        ],
+        "description": "My aunt gave me this chocolate caramel brownie recipe. It is a little effort, but they will be the best brownies you&#39;ll ever eat.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/wi4oONL0LV1vk0ge5He7pPX71sI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1027839-2b674a3e53db4494953f347f8cec172f.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chocolate Caramel Brownies",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "355"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "460 kcal",
+          "carbohydrateContent": "64 g",
+          "cholesterolContent": "35 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "398 mg",
+          "sugarContent": "48 g",
+          "fatContent": "22 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "14 ounces caramels",
+          "0.5 cup evaporated milk",
+          "1 (18.25 ounce) package German chocolate cake mix",
+          "0.33333334326744 cup evaporated milk",
+          "0.75 cup butter, melted",
+          "0.25 cup chopped pecans",
+          "2 cups milk chocolate chips"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Peel caramels and place in a microwave-safe bowl. Stir in 1/2 cup evaporated milk. Heat and stir until all caramels are melted."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C) Grease a 9x13 inch pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large mixing bowl, mix together cake mix, 1/3 cup evaporated milk, melted butter, and chopped pecans. Place 1/2 of the batter in prepared baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake for 8 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place the remaining batter into the fridge. Remove brownies from oven and sprinkle chocolate chips on top. Drizzle caramel sauce over chocolate chips. Remove brownie mix from refrigerator. Using a teaspoon, make small balls with the batter and smash flat. Very carefully, place on top of the caramel sauce until the top is completely covered."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake for an additional 20 minutes. Remove and let cool."
+          }
+        ],
+        "recipeYield": [
+          "15",
+          "15 brownies"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ATLMICHELLE"
+            },
+            "reviewBody": "These are excellent. I have made them 4 times and had success 3 times. DO NOT USE A GLASS PAN. They did not cook through all the way and were very bad. \n\nI used a metal 9X11 pan the next 3 times and they turned out perfect. Very moist and chocolately."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "simplelittlecheffie"
+            },
+            "reviewBody": "OMG!! I have made these about 1000 times. Actually am making them again tonight. This is absolutely excellent and my hubby..my hubbys friends and coworkers ask for these all the time. \nAll I have to say is DO AS INSTRUCTED! (Although I do have to say I put more batter on the bottom of the pan than top, seems to work out better)Do not make the cake mix (as on the back of the box) Do exactly as the instructions say to do in THIS recipe and it will turn out perfectly!! \nThe only thing I would change is: if your husband KNOWS you are making these: HIDE THEM!!",
+            "datePublished": "2007-12-18T13:57:12.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LaFemme83"
+            },
+            "reviewBody": "This recipe is bar none one of the best brownie recipes I've ever encountered! I'm usually a from-scratch purist, but I'll happily make an exception for this great recipe. Still making one 9x13 pan, for a thicker brownie, I doubled the batter recipe, using one box of German chocolate cake mix and one box of Dark chocolate fudge cake mix. I used semi-sweet chocolate chips instead of milk chocolate. I also quadrupled the pecans, adding half to the batter, and the other half minus a few tablespoons (which I sprinkled on top with drizzled chocolate and caramel) to the caramel layer. As other reviewers have suggested, I used a metal pan for baking, and instead of individually flattening pieces, I just dumped all the chilled batter between big pieces of parchment paper, rolled it flat, and broke pieces as needed to cover the caramel layer. Because the brownies were thicker, I lengthened the initial cook time to about 18 minutes, and lengthened the second cook time to about 25 minutes. The brownies turned out great, but I definitely could have cooked them for longer; the edge pieces were the best consistency. I would absolutely make this yummy recipe again!!!",
+            "datePublished": "2014-12-11T01:07:03.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jessica Lani"
+            },
+            "reviewBody": "I figured out a hack to make this so much easier and faster. Y’all, I’ve been making this recipe for almost 20 years and it’s an absolute hit every time. One change is to add a strong sprinkle of salt both before and after the caramel - I’ve yet to figure out just how much, but it always wants more. Another is that I add about 3Tbl of flour, 1Tbl of cocoa powder, and 1/4 tsp of baking powder. This just adds a bit more volume to the batter, making it easier to cover the top and bottom. Anyway, onto the hack: 1. Line the pan with parchment. 2. Spread the batter onto the bottom of the pan. This will be the top layer. 3. Gently lift the batter out with the edges of the parchment, making sure it is well-supported and transfer to a baking sheet. 4. Place the baking sheet and top layer in the fridge. 5. Continue the recipe as normal, spread the bottom layer into the pan, par-bake, add chocolate chips, salt, caramel, and salt. 6. Take the top layer from the fridge and place atop the caramel. The method of applying the layer depends on how cold and rigid the layer has become. I am often able to peel back the parchment and place the top down in one piece, but it may be easier to split it in two, or ask for help from someone else if you really wish to keep it complete. 7. Finish baking as usual.",
+            "datePublished": "2025-01-30T19:03:39.996Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "USER"
+            },
+            "reviewBody": "I doubled the recipe, used semi-sweet chips, and two 10oz. bags of caramels mixed with 3/4c. evaporated milk. I put a little more than half in each 10x10\" square pan that I sprayed with Pam, lined with parchment paper, and then sprayed again (with extra over-hang for easy lift-out). I baked for eight minutes, took them out, sprinkled with the chocolate chips and coconut, then poured the caramel sauce over that. I randomly dropped the remaining brownie mixture onto the tops, not trying to completely cover the tops. Took them into work, and everyone went CRAZY over them! I had folks begging me to let them pay me to make them, and others begging for the recipe! Next time I'd use mini chips, so they melt more, more coconut, and caramel sundae topping instead of having to unwrap all those caramels. Great recipe! Would be great with vanilla ice cream. Will absolutely make again.",
+            "datePublished": "2014-10-02T09:44:28.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "robin b"
+            },
+            "reviewBody": "These brownies turned out perfect and I have had so many requests to make them again. I’ve read other reviews and hope this helps. I have used both glass and metal pans...both worked perfectly. I also used a smaller 8 x8 pan for thicker brownies (they were extra gooey because we did not add any cooking time. We loved it that way (adjust accordingly based on your personal preference. Finally, I had to sub out the nuts with chopped peanuts the last time I made them. The salted peanuts did a phenomenal job complimenting the chocolate and the Carmel sauce!! Yum.. I am going to need to make the substitution again soon. I mentioned it to let you know you can try your favorite nuts as it will work nicely with the recipe. Hope this helps if you want to try some modifications. For the record: this is definitely a 5 star dessert!!",
+            "datePublished": "2018-12-08T23:21:42.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rosenicole"
+            },
+            "reviewBody": "I can’t get out of making these for potlucks and family parties, everyone always wants these! If you don’t want them to stick to the pan, just place parchment paper on the bottom only if the pan and they come out fine. Waiting until they are completely cool is key. After making these several times, I did add a few tweaks: add a tablespoon of instant coffee to the cake mix and a teaspoon of vanilla to the caramel; rather than mix the pecans into the batter, increase to 1/2 cup and sprinkle over the top after adding the second layer of batter, just looks more special and the nuts get nicely toasted.",
+            "datePublished": "2021-03-14T14:42:36.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "copetenn"
+            },
+            "reviewBody": "These turned out excellent. Used aluminum pan, as one reviewer said not to use glass. Here are some helpful hints to make these turn out stellar: (1) use the ingredients only listed in the recipe. Do not make the german choc cake per the back side of the cake box, (2) one reviewer talked about them being super grainy. Use the evaporated milk (liquid) which comes in a can, not non-fat evaporated dry milk powder in a box, (3) to melt the caramels, put in a 1100 watt microwave for 1 min 35 seconds, stir, then another 1 min 35 seconds, stir well. This should do it, (4) when you're putting the top layer of batter on top, keep a bowl of water nearby. Either moisten your fingers to then flatten the batter super thin before placing over caramel/choc chip layer, or you can dip each spoonful of batter very quickly/briefly into the water before flattening out with your fingers. Either way, the moisture makes it much easier to work w/ the batter, and the extra moisture doesn't at all affect the outcome of the baking. \n\nI also elected to put a fudge icing on top. 1 c sugar, 1/4 c milk, 1/4 c butter, 2 t vanilla. In a pan, bring to a boil for 1 minute. Remove from heat, beat icing w/ mixer 3 min or until thickens to desired consistency to spread over completely cooled brownies.\n\nMakes a delectable 13 x 9 batch of brownies! Two taste testers so far, two rave reviews. This one takes some time to make (unwrap caramels, flatten the top layer), but well worth it.",
+            "datePublished": "2016-04-07T06:39:59.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MkbSudbury"
+            },
+            "reviewBody": "These are very good and very rich. I used the little caramel balls that are made for use in recipes but only melted them about 95% so there were a few small caramel pieces. I also lined my pan (used a glass pan) with foil and cooled them (in refrigerator) which made the removing and cutting really easy. Cut them small -- a little piece goes a long way.",
+            "datePublished": "2014-01-27T17:20:43.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadSpam7584"
+            },
+            "reviewBody": "The caramel came in 11oz bag so I used a little less evaporated milk while melting. I used an 8x11 pan and just added 2 minutes time in the first step and 5 minutes during the final bake.",
+            "datePublished": "2025-08-03T04:17:37.101Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy"
+            },
+            "reviewBody": "Make this all the time. My daughter likes it better if I use devils food cake mix and white chochlate chips instead. No matter what combo you use these always turn out delicious! One trick I learned is to cut these into small squares and away from edges of pan while still warm then once completely cooled recut. It will make it much easier to get out of pan.",
+            "datePublished": "2017-01-05T18:08:38.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ProPulp4237"
+            },
+            "reviewBody": "I've been making these decadent brownies for many years but always add a layer of coconut. They are always the first to go. Don't tell anybody that they call your name when you pass by the freezer. Ssshh.",
+            "datePublished": "2026-07-30T17:12:47.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ellen"
+            },
+            "reviewBody": "It was amazing! We loved it",
+            "datePublished": "2026-02-02T20:58:57.331Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda"
+            },
+            "reviewBody": "These were phenomenal!",
+            "datePublished": "2025-10-31T22:28:45.812Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rhonda"
+            },
+            "reviewBody": "Every time I bake this and take it to a party, the pan is licked completely clean. Everyone loves this so much! It is really yummy.",
+            "datePublished": "2025-08-06T16:04:37.796Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KindFish3073"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-03T20:49:48.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jane"
+            },
+            "reviewBody": "Very good, but I did have a hard time fitting the batter into the pan. I may try doubling it in the 9x13 size next time, but you can't beat that great taste!!",
+            "datePublished": "2024-10-20T00:00:57.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "claudred"
+            },
+            "reviewBody": "Sometimes I use more chocolate chips on this layer. My family and friends absolutely love these brownies! Don’t over bake!",
+            "datePublished": "2024-07-03T17:09:26.759Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BubblyClove2386"
+            },
+            "reviewBody": "Have been making these since 1992 and has always been a favorite of ours. It is crazy how the cake mixes have gotten smaller and we have to adjust that part of the recipe.",
+            "datePublished": "2024-01-09T14:37:25.428Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bergies"
+            },
+            "reviewBody": "Make these for my son and his co-workers. They say they are the best brownies ever!",
+            "datePublished": "2023-03-05T16:17:14.868Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16048/chocolate-caramel-brownies/",
+          "name": "Chocolate Caramel Brownies",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+                  "name": "Brownie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

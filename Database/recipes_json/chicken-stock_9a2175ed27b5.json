@@ -1,0 +1,453 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13075/chicken-stock/",
+  "extracted_at": "2026-10-18T01:52:06.004007+00:00",
+  "recipes": [
+    {
+      "name": "Chicken Stock",
+      "ingredients_raw": [
+        "4 pounds chicken",
+        "7 cups water",
+        "1 large onion, halved",
+        "3 carrots, cut into 2 inch pieces",
+        "3 stalks celery",
+        "1 teaspoon grated fresh ginger",
+        "1 bay leaf",
+        "salt to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place chicken in a large stockpot; add enough water to cover. Bring to a boil over high heat; reduce to medium-low. Simmer for 1 hour."
+        },
+        {
+          "id": 2,
+          "text": "Remove chicken from the pot; let cool. Remove skin and bones from meat. Return skin and bones to the pot; reserve meat for another use. Add onion, carrots, celery, ginger, bay leaf, and salt. Continue simmering, 3 to 4 hours."
+        },
+        {
+          "id": 3,
+          "text": "Strain and cool stock, uncovered."
+        },
+        {
+          "id": 4,
+          "text": "Defat stock. Use immediately or freeze."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chicken Stock",
+        "datePublished": "1999-01-17T18:15:29-05:00",
+        "dateModified": "2026-09-14T12:31:58-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Margaret Price"
+          }
+        ],
+        "description": "Slices of fresh ginger and bay leaves season this chicken stock to use as a base for soups and sauces.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/VzFlhdmmbUxAKoNNNgJIfbNXMIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1596222-b0e01c480572438c9326fae351200fd8.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken Stock",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "128"
+        },
+        "cookTime": "PT240M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "252 kcal",
+          "carbohydrateContent": "3 g",
+          "cholesterolContent": "87 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "27 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "101 mg",
+          "sugarContent": "1 g",
+          "fatContent": "14 g",
+          "servingSize": "7 or 8 cups",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 pounds chicken",
+          "7 cups water",
+          "1 large onion, halved",
+          "3 carrots, cut into 2 inch pieces",
+          "3 stalks celery",
+          "1 teaspoon grated fresh ginger",
+          "1 bay leaf",
+          "salt to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place chicken in a large stockpot; add enough water to cover. Bring to a boil over high heat; reduce to medium-low. Simmer for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken from the pot; let cool. Remove skin and bones from meat. Return skin and bones to the pot; reserve meat for another use. Add onion, carrots, celery, ginger, bay leaf, and salt. Continue simmering, 3 to 4 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Strain and cool stock, uncovered."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Defat stock. Use immediately or freeze."
+          }
+        ],
+        "recipeYield": [
+          "14",
+          "8 cups"
+        ],
+        "totalTime": "PT285M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AMANDALSNYDER"
+            },
+            "reviewBody": "Best chicken stock we have ever made! The smell of your chicken in the winter time is amazing. We put them in muffin pan's and freeze them. When they are frozen we pop them out and put them in a ziplock bag. They will stay fresh for 6 months and you can easily add them to other recipes."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Grits"
+            },
+            "reviewBody": "I converted this for the instant pot and it was amazing. I added no salt and it was really delicious. I used a 6 qt. Instant Pot. \n\nAs suggested by someone else, I added half a bunch of parsley, 1 tsp peppercorns and 5 cloves of garlic unpeeled but cut in half. My chicken was about 5 lbs and I also added 4 chicken thighs although I might not next time as I would have gotten a little more broth had I not added more meat. I also added about 50% more spices and veggies. \n\nI first cooked the chicken for 30 minutes in high pressure with the water filled to the max line with a 10 minute natural release. I think I might reduce to 28 minutes and a longer natural release next time. \n\nAfter removing the meat from the bones, I added the bones back to the pot along with the spices and veggies and filled the pot to the max line. I cooked on high pressure for 45 minutes. I might do a full hour next time as was suggested in another recipe. I did a 10 minute natural release. \n\nThis yielded about 9 cups of broth. I wish I had an 8qt. Instant pot.",
+            "datePublished": "2020-11-28T19:50:53.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mark Kishbaugh"
+            },
+            "reviewBody": "Outstanding!!! I'm in total agreement. The calcium from the bone adds nutrition. The bone marrow adds flavor. The cartridge adds a creamy/smooth texture. Unfortunately, store-bought products add a measure of flavor . . . nothing else. As a tip (time permitting): after the pot cools a bit, put the pot in the refrigerator overnight. The cold air causes the \"fats\" to rise to the top and solidify. EZ to scrape off any undesirable fats. Enjoy!!!!",
+            "datePublished": "2023-03-06T23:28:51.558Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MakeItWork"
+            },
+            "reviewBody": "Pretty simple and you can change it up quite easily. I don't use a whole chicken for this. Instead I freeze bones/skins/tidbits from roasting a chicken and other chicken meals when bones present. Why not use that up versus tossing out? Onwards: In the summer/fall I add fresh thyme/rosemary/parsley from my herb garden. I do use dried when fresh isn't available. Also, whole peppercorns, coriander seeds &amp; lightly smashed garlic cloves. Minimal salt. If my oven is being used for something else, I roast veg before adding. Otherwise I go with raw state but chopped smaller. The ginger is a great addition. After 1st straining, I add a beaten egg white mixed with water plus the egg shell crushed up. Bring to boil, shut off heat and let sit until a \"raft\" forms. Strain again using cheesecloth. This clears up the stock. I freeze in 1C containers and use when needed. Nice base you can toy with for your own tastes.",
+            "datePublished": "2011-03-19T09:03:37.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jerak"
+            },
+            "reviewBody": "Just made this stock, and wow! I am very amazed at what a little ginger will do to a recipe. I actually used a stewing hen. Didn't cut it up right away, just the legs to start off with. I sauted the carrots, celery and garlic added the chicken and water and boiled for 1 1/2 hours (longer b/c it was whole). I then took out the chicken and cut it up into quarters, took off the chicken breast and put the whole thing back into the water with some bay leaves, a little salt and the ginger. boiled it for another 2-3 hours. I didn't have onion, but i put in some green winter onion instead and it was amazing even still! I will never make stock any other way again. Thanx for an amazing recipe!",
+            "datePublished": "2009-09-23T14:11:25.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Johanna WISHES she were a"
+            },
+            "reviewBody": "I used this as a base and it's great! I bought 2 rotisserie chickens on sale, shredded the meat and froze it, then stewed the bones and the meat that was left on, along with an onion and its skin, 3 stalks celery, 12 baby carrots, a few stalks of baby kale, and covered the chicken bones with water. I let it simmer for 2 hours, then chilled the broth so I could scrape off the fat. Then I saved it in 1-cup portions of freezer ziplock bags, freezing flat to save space. I'll use the broth for rice, mashed potatoes, or soup.",
+            "datePublished": "2011-03-09T13:14:08.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "f1shst1x"
+            },
+            "reviewBody": "Instead of using the chicken, I usually just use the leftover \"skeleton\" from a roasted chicken, and whatever herbs and spices I used to roast the chicken add another dimension of flavor. Also, I add a couple cloves of garlic.",
+            "datePublished": "2011-05-12T08:09:55.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bake Until Golden"
+            },
+            "reviewBody": "I've been using this recipe for stock for a couple of years now, and it is wonderful. I love that we get the benefit of the stock AND the meat with minimal waste. Fastest way I have found to cool the stock is to fill the sink halfway with ice water and set a large metal pot or bowl in it. I strain the stock into the pot in the sink, and it's cool enough to store within 5 minutes. I've taken to freezing all of my stocks, sauces, and ground meat flat in quart size bags. Once frozen, I stand them upright in a clean plastic shoe box in the chest freezer like files in a file cabinet. Makes it super easy to find things quickly, and the flat bags thaw in minutes!",
+            "datePublished": "2015-09-16T15:23:00.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LILPHOTON"
+            },
+            "reviewBody": "i really enjoy the ginger in this chicken stock recipe, which is the one thing that really separates it from other chicken stocks i've made. i generally follow the recipe, except that i at least double the ginger, and i add more water (10 cups), too, because 7 cups for 4lbs of chicken (backs) seems too little. (and i'm cheap.) also, i recommend using a large yellow onion, and placing the peel in the stock while it's simmering. this give a rich yellow color. really tasty recipe!",
+            "datePublished": "2008-01-16T18:13:25.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JaJireh"
+            },
+            "reviewBody": "Ok, I confess. I'm a chicken broth snob. Disenchanted with homemade stock after homemade stock, I've now a small slice of ownership in Swanson's . . . Well, with my back up against the wall the other day, I decided to prepare some shredded chicken, which led to me determining to make a stock for the freezer as well. I began with an Alton Brown recipe, but wasn't satisfied, so I kept looking, and found this one. The catch? The ginger. Now fully intrigued, my pot ended up looking like the recipe here, plus parsley, garlic, and peppercorns. On my own merit, I added in two whole cloves and a teaspoon of salt. The result?\n\n7 cups of a full bodied-aroma broth/stock with a surprising bit of hearty to the flavor! Not quite Swanson's, but I think I\"m going to play and tweak this one some more. I rated four stars, because I did add the additional items via Alton, and I do believe they complimented the mix.\n\nThank you, Margaret, for the marvellously clever idea of ginger! I am convinced this is/was one key ingredient I've been missing all these years! :D",
+            "datePublished": "2011-04-27T21:18:47.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aputler"
+            },
+            "reviewBody": "I too use reserved chicken carcass parts (lots of them) along with 8 cups water. I have found that by bringing this to a boil with bones that have previously been cooked, creates a more cloudy stock. If you simply mix your parts with the other ingrediants listed and bring and hold a simmer for 3 - 4 hours, you will have a darker, less cloudy stock.",
+            "datePublished": "2012-08-23T15:07:34.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CookQuest2425"
+            },
+            "reviewBody": "Exactly the recipe for homemade chicken stock/ broth. You adjust the salt content as needed. I would cook the chicken until easily pull off the skin and bones. Throw the bones away. Return the meat to the simmering pot",
+            "datePublished": "2024-11-17T03:22:17.951Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robbie Jean Bates"
+            },
+            "reviewBody": "Have it on the stove as we speak! Kinda tweaked it due to the fact all I had was 3 lbs of boneless thighs. Just threw it all in the pot, pretty much making a soup. Can’t wait to try it though! Update coming!",
+            "datePublished": "2024-11-14T01:41:02.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janis Neill"
+            },
+            "reviewBody": "No ginger",
+            "datePublished": "2023-12-29T15:32:09.672Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maritia Brickbealer"
+            },
+            "reviewBody": "Very yummy stock for all kinds of dishes!",
+            "datePublished": "2023-06-20T06:44:12.821Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChillyWater7864"
+            },
+            "reviewBody": "My go-to stock recipe these days. I also add a small amount of broccoli stalks and mushroom stalks if I have them, it’s very near a soup in and of itself.",
+            "datePublished": "2022-12-14T19:41:13.151Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BoldSeed6946"
+            },
+            "reviewBody": "I love this recipe. I always just add the chicken back in for the last 30 minutes and remove the bones and skin and eat like soup instead of stock. I add 1 tsp of vinegar.",
+            "datePublished": "2022-05-12T12:31:56.906Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bill Shea"
+            },
+            "reviewBody": "It was quick and easy to put together and came out great used it fo the base of my pepper soup and that cake out awesome",
+            "datePublished": "2019-11-25T02:05:57.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "theoriginalkim"
+            },
+            "reviewBody": "This recipe is super simple and I couldn't have been more pleased with the outcome",
+            "datePublished": "2018-09-18T21:57:33.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Connie Kidd"
+            },
+            "reviewBody": "I haven't used it yet, but this stock is so rich I'm going to try using it with half water in soups. I'm going to can it in quarts for soup this first time. I also made an awesome chicken casserole from the meat.",
+            "datePublished": "2017-10-12T22:31:23.953Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13075/chicken-stock/",
+          "name": "Chicken Stock",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/171/soups-stews-and-chili/broth-and-stocks/",
+                  "name": "Broth and Stock Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15928/soups-stews-and-chili/broth-and-stocks/chicken-stock/",
+                  "name": "Chicken Stock Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,442 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/128554/tzatziki-sauce-yogurt-and-cucumber-dip/",
+  "extracted_at": "2026-10-18T01:50:55.653148+00:00",
+  "recipes": [
+    {
+      "name": "Tzatziki Sauce (Yogurt and Cucumber Dip)",
+      "ingredients_raw": [
+        "1 (16 ounce) container low-fat plain yogurt",
+        "1 cucumber, peeled, seeded, and grated",
+        "1 tablespoon chopped fresh parsley",
+        "1 tablespoon chopped fresh mint",
+        "1 tablespoon fresh lemon juice",
+        "1 clove garlic, minced",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Line a colander with two layers of cheesecloth; place over a medium bowl. Place yogurt in cheesecloth-lined colander; cover colander with plastic wrap. Drain yogurt in the refrigerator, 8 hours to overnight."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, place grated cucumber on a paper-towel-lined plate; drain 1 to 2 hours."
+        },
+        {
+          "id": 3,
+          "text": "Combine yogurt, cucumber, parsley, mint, lemon juice, garlic, salt, and black pepper in a bowl. Refrigerate before serving, at least 2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tzatziki Sauce (Yogurt and Cucumber Dip)",
+        "datePublished": "2006-10-28T02:17:55-04:00",
+        "dateModified": "2025-05-21T13:26:48-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lobbylady"
+          }
+        ],
+        "description": "Drain low-fat yogurt to make this yummy yummy tzatziki sauce (yogurt and cucumber dip) recipe. Top grilled chicken or eat as a dip for veggies and pita chips.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Bv2fw2RfV9dNKLpwGMmqex05odU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/208345-06c9849793394e39aa051928ec6e3a8c.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tzatziki Sauce (Yogurt and Cucumber Dip)",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "167"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "21 kcal",
+          "carbohydrateContent": "3 g",
+          "cholesterolContent": "2 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "45 mg",
+          "sugarContent": "2 g",
+          "fatContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Sauce",
+          "Condiment"
+        ],
+        "recipeCuisine": [
+          "Greek"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) container low-fat plain yogurt",
+          "1 cucumber, peeled, seeded, and grated",
+          "1 tablespoon chopped fresh parsley",
+          "1 tablespoon chopped fresh mint",
+          "1 tablespoon fresh lemon juice",
+          "1 clove garlic, minced",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Line a colander with two layers of cheesecloth; place over a medium bowl. Place yogurt in cheesecloth-lined colander; cover colander with plastic wrap. Drain yogurt in the refrigerator, 8 hours to overnight."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, place grated cucumber on a paper-towel-lined plate; drain 1 to 2 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine yogurt, cucumber, parsley, mint, lemon juice, garlic, salt, and black pepper in a bowl. Refrigerate before serving, at least 2 hours."
+          }
+        ],
+        "recipeYield": [
+          "16",
+          "2 cups"
+        ],
+        "totalTime": "PT615M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristin"
+            },
+            "reviewBody": "Yummy! I used Greek-style non-fat yogurt instead of messing around with straining regular yogurt (Greek-style yogurt is already strained)."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lobbylady"
+            },
+            "reviewBody": "I wrote this recipe and love all the variations that everyone has tried. Honestly, have tried all of them myself. I do like DILL in the recipe and I'm loopy over fresh parsley. If you like that Middle-Eastern taste try it that way too. You can also substitute dry herbs if needed. Some people like the mint others don't- it's just personal preference. What's funny is when I wrote the recipe ALL RECIPES edited out to substitute coffee filters for cheese cloth. Everyone figured that out on their own! Cheese cloth is not a standard stock item in my pantry either. I take two filters in my small tupperware strainer and overlap them. When rushing I put a weight over the yogurt while it's draining (a can of soup) and it helps speed up the process. ALSO, as someone else suggested you can squeeze the water out of the cucumbers. I almost always do that after I peel, scoop out the seed prior to grating. I do prefer the greek yogurt that comes strained already - it is a HUGE time saver. If your local market doesn't have it, try a local health food store. For those that are budget conscious (if the Greek stuff isn't on sale) I use the Plain store brand yogurt and just drain it the night before. Enjoy!!!",
+            "datePublished": "2009-10-20T13:36:54.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmberP"
+            },
+            "reviewBody": "Tastes GREAT! I did use Greek-style yogurt, because I didn't want to mess with straining and draining. It turned out awesome. The only thing I added was a bit of finely chopped dill,and it turned out excellent. Also, because I used really thick Greek yogurt, I didn't even make a big deal out of straining the cucumber. I did pat it down a bit after I grated it, and used a hothouse(English cucumber), so maybe that made a difference. If you use real Greek yogurt, you can't really go wrong. Just add ingredients to your taste. You'll be glad you did! Tastes fresh and better than most restaurants!",
+            "datePublished": "2014-08-23T17:13:08.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zero Minute"
+            },
+            "reviewBody": "This was excellent. I have made this recipe several different ways. My favorite is to use Icelandic Skyr, triple the mint and parsley, double the cucumber, add a little lemon zest, and use a food processor.",
+            "datePublished": "2015-09-25T10:52:27.677Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "puerca83"
+            },
+            "reviewBody": "This was a very yummy sauce! I, too, used non-fat Greek yogurt and it gave it a nice, thick consistency without draining. I doubled this recipe because I was using two large English cucumbers and watch out, it makes a ton. I also used minced garlic and lemon juice and added some more for extra flavor, but left out the mint and the parsley because I wanted to use dill instead. Overall, very refreshing and great on grilled chicken and rice!",
+            "datePublished": "2012-09-16T17:50:31.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim Smith-Brock"
+            },
+            "reviewBody": "This was fantastic. I did use the greek yogurt, did not strain it. chopped up cucumber and patted it and salted it. DELICOUS.",
+            "datePublished": "2014-03-16T14:19:06.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy Ball"
+            },
+            "reviewBody": "Joined Weight Watchers so constantly on the look out for a low point recipe. This totally met my GREEK side! I took the advice of other reviewers and used Greek Non-fat yogurt (so no need to strain) and added the dill weed, pinch of sugar and onion powder and was ABSOLUTELY thrilled with this dip!!",
+            "datePublished": "2014-11-05T11:58:06.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHADOWCONN"
+            },
+            "reviewBody": "It definitely has a sour bite to it. I took a recommendation from below and added half a teaspoon of sugar to it. I didn't use the mint, salt or pepper. I think the big difference between this and what I've tasted in commercial restaurants is that there might be based with ranch dressing and this is the real thing. For all those stating they don't like the overnight wait, I did my yogurt in the morning and waited 6 hours. I also used paper towels for everything and it turned out fine. Now I'm just waiting on the 2 hour chill time. So I started this at 11:30 this morning and I should be able to eat by 7pm.",
+            "datePublished": "2010-07-22T14:15:56.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "elsa"
+            },
+            "reviewBody": "Great Recipe! I left out the mint (personal preference) and added dill, used Greek yogurt to speed up the process (didn't have to drain anything), and squeezed my shredded cucumber in between towels to get rid of excess water - hadn't allowed myself enough time to do the draining part. However, the tzaziki was great and everyone at the dinner party loved it! Will definitely continue to use this recipe.",
+            "datePublished": "2013-07-30T05:34:23.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carrieh82"
+            },
+            "reviewBody": "Thanks SO much for this recipe!! I can't believe how authentic it tastes. I couldn't find my cheesecloth anywhere so I took others advice to use three coffee filters and it worked perfectly draining only an hour. I also added garlic salt and onion powder although I'm sure it would be just as good without. I also skipped the cucumber draining and just pressed it between two paper towels, it was perfect! I let it sit in the refrigerator for two hours before dinner and my DH went crazy over this sauce on the turkey gyro recipe from this site!!",
+            "datePublished": "2008-07-29T16:48:50.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike Schoenbacher"
+            },
+            "reviewBody": "Here's another vote for Greek style yogurt! Drained it in a coffee filter for @ an hour anyway. Doubled the garlic, too. Used coarsest side of box grater for cuke. Was wonderful, I put this on shredded leftover lamb shank from elsewhere on this site!",
+            "datePublished": "2009-12-29T11:20:48.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisak7001"
+            },
+            "reviewBody": "I made this and it was very good. I substituted fresh dill for fresh parsley and also used the fresh mint. It was delicious.",
+            "datePublished": "2022-08-04T00:28:51.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GYPSY_DANCER"
+            },
+            "reviewBody": "It was good. No parsley so I added a little more mint.",
+            "datePublished": "2022-03-16T01:37:44.696Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cgm"
+            },
+            "reviewBody": "I loved this! I halved the recipe but still used a whole cloves of garlic. I also added about a teaspoon of dried dill. It was delicious.",
+            "datePublished": "2020-06-15T03:23:31.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Skoros"
+            },
+            "reviewBody": "A-MAZ-ING!! This is by far my favorite go-to for a refreshing nutritious snack. I served freshly baked pita chips with the dip. I spread a little garlic and rosemary-infused olive oil on top, add some sea salt and bake at 350 for 10 minutes.",
+            "datePublished": "2020-06-04T21:11:50.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marsha L"
+            },
+            "reviewBody": "This was wonderful with lamb kabobs! I added a little tahini also to give it a little more flavor.",
+            "datePublished": "2020-03-31T16:17:02.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mitchell Williams"
+            },
+            "reviewBody": "It was good would have been better had I not forgotten the dill",
+            "datePublished": "2019-06-10T21:15:46.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael"
+            },
+            "reviewBody": "substituted dill for the mint.",
+            "datePublished": "2019-02-07T22:37:08.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Loonesca"
+            },
+            "reviewBody": "I used grrek yoghurt and instead of parsley a half cup of finely chopped dill. Delicious :-)",
+            "datePublished": "2016-08-16T22:02:26.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ginao"
+            },
+            "reviewBody": "Fantastic accompaniment to grilled herb chicken. Greek yogurt is definitely the better option instead of draining, if you have it. Added just a teaspoon of dill to round out the herbiness. My partner and I love this recipe!",
+            "datePublished": "2016-07-22T22:34:31.850Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/128554/tzatziki-sauce-yogurt-and-cucumber-dip/",
+          "name": "Tzatziki Sauce (Yogurt and Cucumber Dip)",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                  "name": "Sauces"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17565/side-dish/sauces-and-condiments/sauces/tzatziki/",
+                  "name": "Tzatziki"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

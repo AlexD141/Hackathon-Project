@@ -1,0 +1,511 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11808/creamy-pesto-shrimp/",
+  "extracted_at": "2026-10-18T01:47:35.355319+00:00",
+  "recipes": [
+    {
+      "name": "Creamy Pesto Shrimp",
+      "ingredients_raw": [
+        "1 pound linguine pasta",
+        "0.5 cup butter",
+        "2 cups heavy cream",
+        "0.5 teaspoon ground black pepper",
+        "1 cup grated Parmesan cheese",
+        "0.33333334326744 cup pesto",
+        "1 pound large shrimp, peeled and deveined"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather ingredients together."
+        },
+        {
+          "id": 2,
+          "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in linguine and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes; drain."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, melt butter in a large skillet over medium heat. Stir in cream and season with pepper; cook, stirring constantly, for 6 to 8 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir Parmesan cheese into cream sauce until thoroughly mixed. Stir in pesto and cook until thickened, 3 to 5 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Stir in shrimp and cook until they turn pink, about 5 minutes. Serve sauce over hot linguine."
+        },
+        {
+          "id": 6,
+          "text": "Serve hot and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Creamy Pesto Shrimp",
+        "datePublished": "1999-02-28T19:41:57-05:00",
+        "dateModified": "2026-03-17T10:50:22-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Loretta Buffa"
+          }
+        ],
+        "description": "This easy pesto shrimp pasta recipe features linguine and shrimp in a luxuriously creamy sauce made with butter, cream, Parmesan cheese and pesto. Yum!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/kUSw-v_Tqc4WUrqVqxxJgut1fig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-beauty-1560-4x3-f45231b50a62405cb7649367f3fc433e.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/x2kK0a5J-K3AjnAEN.mp4",
+          "description": "In this video, we'll show you how to make a creamy pasta dish that's perfect for weeknight dinners. Cooked linguine is tossed with a 5-ingredient creamy pesto sauce. To take this another notch up, peeled large shrimp are poached in the sauce making this one tasty and rich dinner.",
+          "duration": "PT1M4S",
+          "name": "Creamy Pesto Shrimp",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/x2kK0a5J/thumbnails/hlFR6QLq.jpg?width=1280",
+          "uploadDate": "2021-07-15T11:35:49-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Creamy Pesto Shrimp",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "1481"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "646 kcal",
+          "carbohydrateContent": "43 g",
+          "cholesterolContent": "210 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "23 g",
+          "saturatedFatContent": "24 g",
+          "sodiumContent": "437 mg",
+          "sugarContent": "0 g",
+          "fatContent": "43 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 pound linguine pasta",
+          "0.5 cup butter",
+          "2 cups heavy cream",
+          "0.5 teaspoon ground black pepper",
+          "1 cup grated Parmesan cheese",
+          "0.33333334326744 cup pesto",
+          "1 pound large shrimp, peeled and deveined"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zvjS-8m9awSZYq_kqH2hpHEx13s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step1-1482-4x3-cf6881d8c7e64ebb90f0c64f2ddefea0.jpg"
+              }
+            ],
+            "text": "Gather ingredients together."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/TLb4CPtBHbCC5o-nOjTXlNVGopA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step2-1545-4x3-9352069c66d24c7a8961293ce3d4e826.jpg"
+              }
+            ],
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in linguine and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, melt butter in a large skillet over medium heat. Stir in cream and season with pepper; cook, stirring constantly, for 6 to 8 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/e3FdJ8PP2CnK84uQI_FZacrLBBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step3-1549-4x3-069b8e8855924cf5b451a4baa47bee5f.jpg"
+              }
+            ],
+            "text": "Stir Parmesan cheese into cream sauce until thoroughly mixed. Stir in pesto and cook until thickened, 3 to 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/yRBNcfGOYcs5rQ8B_os6_dXoOuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-Step4-1550-4x3-b44a414b0a034fa69af553ac2bd3679e.jpg"
+              }
+            ],
+            "text": "Stir in shrimp and cook until they turn pink, about 5 minutes. Serve sauce over hot linguine."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/kUSw-v_Tqc4WUrqVqxxJgut1fig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11808-creamy-pesto-shrimp-ddmfs-beauty-1560-4x3-f45231b50a62405cb7649367f3fc433e.jpg"
+              }
+            ],
+            "text": "Serve hot and enjoy!"
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WEELASSIE"
+            },
+            "reviewBody": "AWESOME! This is a keeper. I also used half and half to reduce the fat content. I grated fresh parmesan as well. It makes a big difference. One thing I will point out is to be careful when adding the parmesan. On my first try, my cream was too hot and it curdled. The second try, I took it off the stove and added the cheese slowly - stirring constantly. I also sauteed some mushrooms in fresh garlic and added them to the sauce along with two scallions and a diced tomato. I used frozen cooked shrimp with tail off. I defrosted them in the microwave and added them to the sauce. Cooked until warm and served over fettucine. It was delicious. My neighbors were over and were VERY impressed. Easy and elegant. A new family favorite. Thank you."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedRobynNAU"
+            },
+            "reviewBody": "This is the second time I've made this recipe. The first time, I followed the recipe exactly and thought it was way too oily, way too salty, and didn't have NEARLY enough basil flavor...and don't even get me started on the almost 45 grams of fat per serving!! &lt;p&gt;\r\nSo this time, I omitted all of the butter, used regular half and half instead of heavy cream, cut the parmesan to 1/2 cup, upped the pesto to 2/3 cup, and added about 2 tablespoons of dried basil (I would have loved to use fresh basil, but didn't have any :( - if using fresh, you should use 1/3 cup). This brought the fat down to a mere 13 grams of fat per serving. That's something I can handle!! Others had mentioned the sauce being too thing when using half and half, but mine was REALLY thick! The key may be to simmer it a bit longer on medium-low heat. Still needs more basil in my opinion, but I think using fresh as opposed to dried would do the trick!!",
+            "datePublished": "2004-12-06T19:09:12.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doctor Greg"
+            },
+            "reviewBody": "Awwwww, this is a real heart warmer but try this twist... I've been living in Italy for the last 20 years and in a fantastic restaurant in Milan a superb version of this treat is made.... instead of drowning the poor linguine in heavy cream, use two good dollops of mascarpone. There's less fat in the end, the linguini don't have to swim and there's no real need for butter. As a perfectionist, I cook the shrimp (scampi are even better) aside in a little olive oil, 2 whole cloves of garlic and a fourth cup of dry white wine for those 2 or 3 minutes necessary to make them succulent... then toss them into the mascarpone and linguini. Hey folks, the pasta must not be soupy! I just love this plate, you will too.",
+            "datePublished": "2011-02-09T07:43:51.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "FABULOUS TASTE!! A minute before adding the parmesean cheese, I also added 1/2 cup of chopped red peppers, 1/2 cup chopped green peppers, 2 chopped green onions and 1 cup fresh sliced mushrooms! You can't get any better than that! Adds a more colorful presentation and at least you feel like your eating a little bit healthier (considering there is a 1/2 cup of butter and all that cream)! Just the same, it's restraunt quality and will make over and over! Thank you for the GREAT receipe!!!!!",
+            "datePublished": "2002-05-03T17:31:43.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arachne"
+            },
+            "reviewBody": "I followed the idea, but I eyeballed this for the most part. I also added cherry tomatoes to this for the extra punch. I cooked my cherry tomatoes in a bit of Unsalted butter and olive oil until tender. I then removed the tomatoes and added more unsalted butter and shrimp. When the shrimp turned pink, I added about a table spoon or less of pesto, 10% cream, and parmesan. As soon as it it a decent thickness, I poured it over my 1/4 pound of cooked linguine and then added my tomatoes. It is awesome. I have made this numerous times and have added more tomatoes than my initial amount. \n\nAfter my water boiled, the 11 minutes it took for my linguine to cook us the time it took me to make my sauce. Totally restaurant quality.",
+            "datePublished": "2020-04-04T23:48:12.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenn"
+            },
+            "reviewBody": "This was delicious, but not 5 star taste. I doubled the shrimp (it was Mother's Day!) and used half and half instead of cream. I melted the butter, threw in garlic, cooked the shrimp, then put the milk and cheese and pesto in per recipes instructions. Green onions added some nice taste and color. I would make this again, but look for how to kick up the flavor. Maybe more pesto?",
+            "datePublished": "2020-05-11T16:41:22.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeffrey"
+            },
+            "reviewBody": "I sauteed some garlic in the butter, then the shrimp, and set aside. This way the butter had more shrimp and garlic flavor. Then I proceeded as directed, reserving a little pasta water in case I needed to thin it out. I also poured the sauce all over the pasta with the shrimp and gave it a good stir, then let it sit for 15-20 minutes before serving, letting the pasta soak up that delicious sauce! This was amazing!",
+            "datePublished": "2017-07-11T22:13:26.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberlie"
+            },
+            "reviewBody": "One of my family's favorite. I cut the butter in half, add garlic, spinach and crab meat. 10/10",
+            "datePublished": "2025-04-11T05:05:38.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SmartCress7097"
+            },
+            "reviewBody": "Whatever you do, just do not mix the noodles into the same pot as the cream like you're making lazy spaghetti, because the noodles will absorb the sauce and it will not be as saucy as you like or think it should be. Just put the noodles on a plate and then put the shrimp and sauce over the noodles as soon as it is done and still hot.",
+            "datePublished": "2023-08-20T20:05:21.008Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eric Simard"
+            },
+            "reviewBody": "I use 1 cup of half and half and one cup of milk. I added a tbsp of flour to the milk before cooking. I sautéed mushrooms and shrimps in olive oil and garlic and added them along with some broccoli at end. The pesto made this sauce go to the next level of deliciousness!",
+            "datePublished": "2018-01-12T23:01:02.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Weston"
+            },
+            "reviewBody": "This is a keeper!\nI made two changes:\nI used half &amp; half as I had seen suggested and I used Penne pasta instead of linguini. When everything was ready, I just added the pasta straight into the pan with the sauce/shrimp mixture and tossed til well mixed. Simple and extremely delicious!",
+            "datePublished": "2017-03-09T01:09:16.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FancyBacon5522"
+            },
+            "reviewBody": "Great recipe for a different dish that just pesto. It was so good.",
+            "datePublished": "2026-09-05T22:25:22.971Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CozyChive1294"
+            },
+            "reviewBody": "It was a great meal! Quick to fix once have all ingredients and we all really enjoyed it. We just followed the directions to make it and it did not disappoint. Will be one our my families go to meals.",
+            "datePublished": "2026-03-22T19:38:07.678Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DFreddieK"
+            },
+            "reviewBody": "Perfect as is. This is a perfect recipe to make with our 8-year old granddaughter who is just getting interested in cooking.",
+            "datePublished": "2026-03-19T00:50:49.825Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I cut down on the butter and cream and made it more pesto forward. I added garlic as well. It was delicious. You could serve it to guests with salad and some bread.",
+            "datePublished": "2025-11-22T23:34:26.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mark"
+            },
+            "reviewBody": "I don’t understand the reviewers who made a dish consisting of 1/2 c. of butter, 2 c. of heavy cream, 1 c. of grated Parm, 1/3 c. pesto (which is mostly olive oil) and then complained that it was “heavy” and fatty. DUH! Learn to read a recipe! And to the person whose Parm. did not melt, I can only imagine you used already grated Parm which is mixed with chemicals to keep it from clumping. Use the real stuff.",
+            "datePublished": "2025-08-20T20:15:12.624Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie Clark"
+            },
+            "reviewBody": "Perfect as is (especially with home made pesto from my garden)- will definitely add to our rotation.",
+            "datePublished": "2025-08-18T16:06:32.966Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lazara Gonzalez"
+            },
+            "reviewBody": "Very tasty and easy to make. It's a good weekday recipe.",
+            "datePublished": "2025-07-25T21:39:47.864Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa Gibson"
+            },
+            "reviewBody": "Sad I wasted $11.00 on a bag of shrimp for this recipe. It was awful",
+            "datePublished": "2025-06-16T04:10:29.877Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "keebdaisy"
+            },
+            "reviewBody": "What a wonderful dish! I kept right with the recipe but cut it in half, for 3. I wasn't sure what to expect but the pesto puts a new twist on the alfredo sauce. *** made it again. I did like the pesto different taste, but I think overall I like the regular Alfredo the best.",
+            "datePublished": "2025-05-19T10:46:37.862Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11808/creamy-pesto-shrimp/",
+          "name": "Creamy Pesto Shrimp",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

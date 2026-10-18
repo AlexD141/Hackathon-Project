@@ -1,0 +1,473 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/219753/turkey-taco-soup/",
+  "extracted_at": "2026-10-18T03:08:20.961133+00:00",
+  "recipes": [
+    {
+      "name": "Turkey Taco Soup",
+      "ingredients_raw": [
+        "2 tablespoons olive oil",
+        "1.25 pounds ground turkey",
+        "1 onion, chopped",
+        "2 carrots, cut into 1/4 inch rounds",
+        "2 stalks celery, chopped",
+        "1.5 cups frozen corn",
+        "0.5 bunch chopped fresh cilantro, divided",
+        "5 cloves garlic, chopped",
+        "1 (1 ounce) package taco seasoning mix",
+        "0.25 teaspoon ground cumin",
+        "0.25 teaspoon chili powder",
+        "0.25 teaspoon dried oregano",
+        "1 (28 ounce) can diced tomatoes with juice",
+        "1 (15 ounce) can kidney beans, rinsed and drained",
+        "0.5 cup sliced black olives",
+        "1 green chile pepper, halved lengthwise",
+        "3.5 cups chicken broth",
+        "1 cup water, or more as needed",
+        "0.25 cup lime juice",
+        "salt and ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat olive oil in a large pot over medium-high heat and stir in ground turkey. Cook and stir until turkey is crumbly, evenly browned, and no longer pink. Transfer turkey to a bowl; set aside."
+        },
+        {
+          "id": 2,
+          "text": "Cook and stir onion in the same pot until nearly translucent, about 5 minutes. Add carrots and celery. Continue to cook and stir until tender, about 8 more minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in corn, about 1/4 cup cilantro, garlic, taco seasoning, cumin, chili powder, dried oregano, and cooked turkey. Cook and stir until fragrant, about 2 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Mix in tomatoes with juice, kidney beans, olives, and green chile pepper. Pour in chicken broth, water, and lime juice; season with salt and black pepper. Bring to a boil, then reduce heat to low and continue to simmer for 20 minutes. Remove chile halves and garnish with remaining cilantro before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Turkey Taco Soup",
+        "datePublished": "2020-03-10T02:51:51-04:00",
+        "dateModified": "2025-02-11T13:34:45-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "JoyFullGrl"
+          }
+        ],
+        "description": "Loaded with veggies, beans, and spices, the flavorful Mexican-inspired ground turkey taco soup is hearty and easy to make.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/b2WxIGPGPZBeHFdNgk9Z6w_aSG0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/785720-dcb2cb9a37454cba823c93d6111bab80.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Turkey Taco Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "106"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "273 kcal",
+          "carbohydrateContent": "27 g",
+          "cholesterolContent": "55 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "20 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "1074 mg",
+          "sugarContent": "6 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons olive oil",
+          "1.25 pounds ground turkey",
+          "1 onion, chopped",
+          "2 carrots, cut into 1/4 inch rounds",
+          "2 stalks celery, chopped",
+          "1.5 cups frozen corn",
+          "0.5 bunch chopped fresh cilantro, divided",
+          "5 cloves garlic, chopped",
+          "1 (1 ounce) package taco seasoning mix",
+          "0.25 teaspoon ground cumin",
+          "0.25 teaspoon chili powder",
+          "0.25 teaspoon dried oregano",
+          "1 (28 ounce) can diced tomatoes with juice",
+          "1 (15 ounce) can kidney beans, rinsed and drained",
+          "0.5 cup sliced black olives",
+          "1 green chile pepper, halved lengthwise",
+          "3.5 cups chicken broth",
+          "1 cup water, or more as needed",
+          "0.25 cup lime juice",
+          "salt and ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large pot over medium-high heat and stir in ground turkey. Cook and stir until turkey is crumbly, evenly browned, and no longer pink. Transfer turkey to a bowl; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook and stir onion in the same pot until nearly translucent, about 5 minutes. Add carrots and celery. Continue to cook and stir until tender, about 8 more minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in corn, about 1/4 cup cilantro, garlic, taco seasoning, cumin, chili powder, dried oregano, and cooked turkey. Cook and stir until fragrant, about 2 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix in tomatoes with juice, kidney beans, olives, and green chile pepper. Pour in chicken broth, water, and lime juice; season with salt and black pepper. Bring to a boil, then reduce heat to low and continue to simmer for 20 minutes. Remove chile halves and garnish with remaining cilantro before serving."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "Turkey Taco Soup Haiku: \"Perfect as it is! I had to sub a few things. But wow, awesome soup!\" My only changes were 1 lb. turkey, \"Taco Seasoning I\" instead of packet, a can of diced chili peppers (no fresh on hand), and less broth. Left my soup in the crock-pot for the afternoon and by dinnertime, it smelled sinfully-good. I love that it was so colorful, and almost wouldn't have minded even more veggies, but this soup was great, and the cook's notes at the bottom are very helpful too. (I also froze half for another night, but truthfully, I wouldn't mind having some leftovers in front of my face right now.)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DD356"
+            },
+            "reviewBody": "Delicious! I did however have to adapt it for a family that includes a Vegetarian, and improvise based on what I had. I browned the ground Turkey separately. I sautéed the onion, garlic and 3 ea. of the celery and carrot in the Olive oil, and a chopped red bell pepper. I used 2 cans of chicken broth, 1 can of diced tomatoes, 1 med. can of tomato paste along with 2 cups of water. I didn't have taco seasoning, so I improvised by doubling the listed spices. I let it simmer until carrots were tender. Served the turkey on the side as a garnish along with Cilantro and green onion. I will definitely be making this again!",
+            "datePublished": "2014-02-19T20:13:54.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alexa"
+            },
+            "reviewBody": "Low fat &amp; very soothing. I cook the turkey, seasonings, garlic, and onion on the stove then transfer everything to a crock pot for 6-8 hrs. Pro tweaks: omit the olives (salt control), use 4 limes for juice, double the healthy veggies (of your choice) and cover with water/broth. Makes sure you tie half the cilantro bunch with kitchen string before tossing it in the pot (it becomes very bitter upon re-heating) and throw out the bunch once you're done cooking - you can add chopped cilantro on each bowl. If you have kids, I omit the chili, jalapeño and the Taco Seasoning packet - you can search online how to make your own Taco seasoning packet to control the hot spices that go into it. Super good! Freezes well, and you can customize the toppings to personal taste (hot sauce, chopped green chili, chopped red onion, sour cream, chips).",
+            "datePublished": "2017-04-21T21:52:51.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marie"
+            },
+            "reviewBody": "So flavourful! After reading the other reviews, I added an extra 1/4 tsp each of cumin, chili powder and oregano although I don't think it needed it. Other things I changed: 4 cups of chicken broth (that was the size I had, didn't want to refrigerate the rest), 2 cups of corn (it all tumbled out of the package and I didn't want to try putting it back in), I threw in a bunch of green onion (chopped) as well as the onion in the recipe, mainly because I had to use up the green onion. I threw in the whole bunch of cilantro that I bought, at stage 2 (didn't separate and add later, no reason). I bought pre-sliced olives in a jar and included the liquid from the jar in my 1/2 cup of olives. Also, I didn't have green chilies so added 5 chopped jalapeño peppers (seeds in because I Iike it spicy) at the fourth step. Oh, and I used pulled chicken breast instead of ground turkey. Topped the soup with some shredded Monterey Jack cheese although again, it didn't need it. I used Club House taco seasoning. Lots of soup left over, out on the balcony freezing as I write. Will definitely make this again! Thanks for a great recipe!",
+            "datePublished": "2016-02-17T19:25:52.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cory"
+            },
+            "reviewBody": "Great recipe! We made the following changes in order to make it more kid friendly: 3 carrots &amp; 3 stalks of celery instead of 2, 1/2 of an onion instead of a whole, 3 cloves of garlic instead of 5, 1/2 of a diced green bell pepper in place of the chile pepper, no chile powder, 1/2 packet of taco seasoning instead of a whole, 1 can of drained corn instead of the frozen corn. Also, 1 lb of ground turkey is fine, since that is usually how it is pre-packaged. It was fabulous and not spicy at all! Also, the soup does not need any extra salt, just pepper for the adults. Great with fresh cilantro and crumbly Mexican cheese on top!",
+            "datePublished": "2015-05-25T13:11:51.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jag1165"
+            },
+            "reviewBody": "AMAZING!! Truly one of the best soups. I had ground turkey on hand and did a search. This delicious recipe popped up! I think it’s perfect as is, but is also one of those recipes that’s very flexible if you don’t have everything on hand. My husband and son went crazy over it. I sautéed the onion, garlic &amp; seasonings and then added the ground turkey. I subbed black beans for kidney beans, cut up Italian stewed tomatoes in place of tomatoes &amp; celery. No carrots or olives. Served with crushed tostitos and shredded nacho cheese. Three individual bowls left for tomorrow! Definitely a keeper! Thank you!",
+            "datePublished": "2019-03-02T00:49:02.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Madison Lee"
+            },
+            "reviewBody": "Like the other reviews suggested, i did use a small can of the green chile; great suggestion. Also I used about half the amount of taco seasoning and it was still full of flavor. I will definitely always use less. I also made a little bit of wild rice separately and added a small scoop of it in my bowl to give it a little more depth to make it a little more filling. I didn't add it in the pot of soup because i didn't want the rice to soak up all the broth. In the future, i would consider adding it to the pot but will definitely remember to add more liquid, which would mean adding more of the taco seasoning, etc..",
+            "datePublished": "2018-01-03T14:12:12.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nanny"
+            },
+            "reviewBody": "Made this with left over dark meat from our Thanksgiving turkey and worked great! Doubled the recipe cuz this local bird had lots of dark meat.I shredded the meat well and added it after sautéing onions, celery and carrots. Mixed the turkey well with the cooked onion mixture and then added garlic, spices, etc. in the order given. Oh...added some smoked red jalapeño spice instead of the chili powder. Turned out really yummy with loads of flavor! Makes a lot so I will be sharing. Love my mama but this is not her post Thanksgiving turkey soup!",
+            "datePublished": "2017-11-24T21:03:39.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dlamb"
+            },
+            "reviewBody": "I love this soup!!! So easy and tasty! Things I changed was to double up on the spices (not the taco spice though because the BF doesn't like it too spicy) - I did use the taco spice mix from Trader Joe's (soooo good). I used a can of fire roasted diced tomatoes and threw in a zucchini and used cannellini beans instead of the red. I served it with cheese on top and tortilla chips...we finished the whole pot in two days!",
+            "datePublished": "2018-12-04T17:08:47.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy"
+            },
+            "reviewBody": "I use recipes as a guideline, so I made a few swaps and alterations. I used leftover chopped turkey instead of ground turkey, pinto beans instead of kidney beans, left out the corn and added another can of pinto beans, added extra herbs and spices instead of using a taco seasoning mix, used dried cilantro instead of fresh, used homemade tomato sauce instead of diced tomatoes, used dehydrated hot peppers instead of a fresh chili pepper, and used my homemade turkey broth instead of canned chicken broth.",
+            "datePublished": "2023-02-18T19:47:30.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "momof2"
+            },
+            "reviewBody": "has become my favorite soup!! okay I changed some things. I use either turkey or chicken, instead of onion I use onion flakes, I always leave out:\ncelery, cilantro, green chile pepper, and olives and sometimes the carrots. many reasons those left out, celery just doesn't go to me, never have cilantro, green chiles replaced with salsa, husband doesn't like olives and carrots sometimes I don't want. \nI use 2 tbs of garlic powder because I never have cloves of garlic. I use 2 cans of kidney beans, instead of one.\nI put in 1/8 cup of taco seasoning the old el paso kind. \nAnd instead of diced tomatoes I use salsa, On the Border salsa to be exact, and the salsa is the difference people!! I have tried another salsa not as good as On the Border salsa!! you can get it at sam's club. trust me I love this soup will drink to the last drop!",
+            "datePublished": "2014-04-17T11:16:31.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ericka"
+            },
+            "reviewBody": "Added cayenne and jalapeños",
+            "datePublished": "2021-07-15T23:00:22.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie"
+            },
+            "reviewBody": "could have used a bit more seasoning",
+            "datePublished": "2020-05-20T21:20:19.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "charlie9000"
+            },
+            "reviewBody": "Great basic recipe to off of. I made some substitutes and added a bit. I’m not a huge fan of store bought taco seasoning or any pre made seasoning blends, but I feel this recipe gives a platform to jump off from. Heck, if you want it spicier, add some cayenne or ground chipotle. Use a variety of beans (like black beans). I topped it off with shredded cheese, avocado chunks, jalapeño slices and tortilla chip crumbles. Thanks for the recipe!",
+            "datePublished": "2020-04-28T06:14:00.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janne"
+            },
+            "reviewBody": "Great recipe! My favorite soup recipe! It is oh so easy and oh so good. You can make it fairly quickly or leave it in the crockpot. Love, love, love this soup!",
+            "datePublished": "2020-02-25T22:42:52.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeremy"
+            },
+            "reviewBody": "I’ve made this a few times, and it’s been a hit in the house every time. I love that it doesn’t call for a wimpy amount of garlic. Props to you, my fellow garlic hound recipe writer!",
+            "datePublished": "2020-01-15T07:26:58.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hank"
+            },
+            "reviewBody": "Simple and great eating.",
+            "datePublished": "2019-12-14T21:52:04.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "eichie"
+            },
+            "reviewBody": "Loved it as written, but today I made it by breaking up about 10 corn tortillas, added 1/2 cup fresh cilantro and the onions to sauté together. Made it a bit thicker.",
+            "datePublished": "2019-11-30T18:19:57.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Studhauler"
+            },
+            "reviewBody": "Excellent! I garnished with chopped cilantro, fresh squeezed lime, shredded cheese, and crashed tortilla chips.",
+            "datePublished": "2018-11-24T00:32:09.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy Wolfe"
+            },
+            "reviewBody": "Left out the green chilies and replaced water with 1 cup more of chicken broth",
+            "datePublished": "2018-10-23T23:41:57.410Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/219753/turkey-taco-soup/",
+          "name": "Turkey Taco Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/692/soups-stews-and-chili/soup/turkey-soup/",
+                  "name": "Turkey Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

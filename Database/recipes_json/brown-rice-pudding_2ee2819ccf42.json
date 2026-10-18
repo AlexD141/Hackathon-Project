@@ -1,0 +1,372 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/213598/brown-rice-pudding/",
+  "extracted_at": "2026-10-18T02:51:13.344602+00:00",
+  "recipes": [
+    {
+      "name": "Brown Rice Pudding",
+      "ingredients_raw": [
+        "1.5 cups heavy cream",
+        "1.25 cups water",
+        "0.5 cup short-grain brown rice",
+        "0.25 teaspoon salt",
+        "0.5 cup raisins",
+        "3 egg yolks",
+        "0.25 cup white sugar",
+        "0.5 teaspoon ground cinnamon",
+        "1 tablespoon butter, softened",
+        "2 teaspoons vanilla extract"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring the heavy cream, water, brown rice, and salt to a boil in a pot; reduce heat to low, cover, and simmer until the liquid is completely absorbed, about 80 minutes. Fold the raisins into the mixture and continue cooking until the raisins plump, about 10 minutes more."
+        },
+        {
+          "id": 2,
+          "text": "Whisk the egg yolks, sugar, and cinnamon together in a bowl; slowly pour into the pot with the rice while stirring. Cook and stir until the mixture thickens, about 6 minutes. Remove from heat and stir in the butter and vanilla extract."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Brown Rice Pudding",
+        "datePublished": "2020-06-18T23:41:45-04:00",
+        "dateModified": "2020-06-18T23:41:45-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "HeidiLB"
+          }
+        ],
+        "description": "This rice pudding is made with brown rice and heavy cream with the optional addition of raisins.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/f6VWW98fP6dOhrzCo-RoJ5r5Mbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/724515-9e419885500b476a97cc6c061ee73f23.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Brown Rice Pudding",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "22"
+        },
+        "cookTime": "PT100M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "517 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "284 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "24 g",
+          "sodiumContent": "211 mg",
+          "sugarContent": "25 g",
+          "fatContent": "40 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "1.5 cups heavy cream",
+          "1.25 cups water",
+          "0.5 cup short-grain brown rice",
+          "0.25 teaspoon salt",
+          "0.5 cup raisins",
+          "3 egg yolks",
+          "0.25 cup white sugar",
+          "0.5 teaspoon ground cinnamon",
+          "1 tablespoon butter, softened",
+          "2 teaspoons vanilla extract"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring the heavy cream, water, brown rice, and salt to a boil in a pot; reduce heat to low, cover, and simmer until the liquid is completely absorbed, about 80 minutes. Fold the raisins into the mixture and continue cooking until the raisins plump, about 10 minutes more."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk the egg yolks, sugar, and cinnamon together in a bowl; slowly pour into the pot with the rice while stirring. Cook and stir until the mixture thickens, about 6 minutes. Remove from heat and stir in the butter and vanilla extract."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT110M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "angiepcates"
+            },
+            "reviewBody": "This was a wonderful dish! I did make some changes... Didn't have any heavy cream so I substitued the cream and water for 2% milk and had to cook it for about 1hr 45min before all the liquid was absorbed. I added raisins and apples and it was DELICIOUS. The second time I made it I only put in half the sugar and you couldn't tell. Will absolutely make again!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Vormittag"
+            },
+            "reviewBody": "I made with 2 cups Half &amp; Half and 3/4 cups water, Kroger brand short brown rice. Cooked for 55 mins. Stevia extract instead of white sugar. Added 1 tsp of almond extract, also. To “build up” the sweetness that stevia lacks in depth. And sprinkled a little freshly grated nutmeg on top when serving. Made to be more diabetic friendly.",
+            "datePublished": "2020-04-05T22:16:44.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crystal Gabri El"
+            },
+            "reviewBody": "This is a great recipe. I modified it slightly. I used a pint of left over cooked Brown rice and substituted the heavy cream for \"So delicious French vanilla coconut creamer\" and the sugar for splenda and added a dash of nutmeg. It was deliciously rich and healthy. Next time I'll find a substitute for egg yoke to make it even more healthy. Enjoy!",
+            "datePublished": "2014-09-21T06:16:18.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela Thorassie"
+            },
+            "reviewBody": "Placed the rice, milk and salt in rice cook then transferred to a pot after to mix remaining ingredients in. I substituted coconut milk for the cream. Super easy, super yummy.",
+            "datePublished": "2011-11-19T15:41:01.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rain"
+            },
+            "reviewBody": "Great recipe! We used all organic ingredients &amp; I did add 1 tsp. of maple syrup with the vanilla &amp; 1 apple diced up with the raisins. We will be making this creamy, tasty dish again soon~ Thanks! Also for anyone wondering, we posted the picture... the red/orange spots are the apples : )",
+            "datePublished": "2011-10-25T20:57:32.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Loch"
+            },
+            "reviewBody": "I wanted to make this because I was spending waaay too much on store-bought rice pudding to take in my lunch; this was amazing! I made it with one 12 oz can of evaporated milk instead of half &amp; half, omitted the raisins and forgot the cinnamon, but it was AMAZING. Totally worth scrubbing the scorched bits off the bottom of my saucepan; I am never buying rice pudding again!",
+            "datePublished": "2011-09-20T05:24:56.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My family and I loved this pudding. It did take longer to cook, I kept in on low so the rice was not at all hard. I also added additional cinnamon.",
+            "datePublished": "2016-08-11T10:28:20.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LeeGosneymaccom"
+            },
+            "reviewBody": "My family and I loved this pudding. It did take longer to cook, I kept in on low so the rice was not at all hard. I also added additional cinnamon.",
+            "datePublished": "2016-08-11T10:28:20.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dave F"
+            },
+            "reviewBody": "The kids loved it!",
+            "datePublished": "2016-04-17T14:17:46.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crystal Cristescu"
+            },
+            "reviewBody": "Pretty good overall. \nI didn't use raisins. \nAlso, I subbed the heavy cream and water for mostly milk and almond milk. Came out really creamy; Should have used some water.\nI used a stainless pot and had to stir a lot to prevent sticking/burning. \nI doubled the portion and timing was still pretty right but came out to 6 portions.\nI would stay better off to make much more and have fam enjoy twice for the effort.",
+            "datePublished": "2014-08-31T06:40:10.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Clarice Gerc"
+            },
+            "reviewBody": "By far my favorite rice pudding recipe. Dried cranberries work well in place of raisins too.",
+            "datePublished": "2013-10-20T12:28:30.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Chapman"
+            },
+            "reviewBody": "Unbelievable. Seriously.\n\n(Servings are too small so calculate more.)",
+            "datePublished": "2011-12-29T07:42:34.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "freemis"
+            },
+            "reviewBody": "So sweet it's inedible. Granted, I added dates instead of raisins, which might have added to the sweetness. The recipe originally attracted me because it used brown rice, which is healthier to white, but the heavy cream in which it was cooked really offset the nutrition factor. Not making it with cream and that much sugar again.",
+            "datePublished": "2011-12-23T19:59:38.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela"
+            },
+            "reviewBody": "This is very tasty and creamy pudding. It is quite rich (even though I used part milk and part half and half), and sweet.",
+            "datePublished": "2011-12-22T21:46:29.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jaimyon"
+            },
+            "reviewBody": "Very nice! I added a little vanilla bean powder with the sugar and I really like the taste and consistency! A definite winner!",
+            "datePublished": "2011-07-15T21:46:49.717Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/213598/brown-rice-pudding/",
+          "name": "Brown Rice Pudding",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/363/desserts/custards-and-puddings/",
+                  "name": "Custards and Puddings"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14442/desserts/custards-and-puddings/rice-pudding/",
+                  "name": "Rice"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

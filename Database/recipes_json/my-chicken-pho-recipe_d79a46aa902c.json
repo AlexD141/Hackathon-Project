@@ -1,0 +1,448 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/107366/my-chicken-pho-recipe/",
+  "extracted_at": "2026-10-18T01:43:45.187805+00:00",
+  "recipes": [
+    {
+      "name": "My Chicken Pho Recipe",
+      "ingredients_raw": [
+        "4 ounces dry Chinese egg noodles",
+        "6 cups chicken stock",
+        "2 tablespoons fish sauce",
+        "4 cloves garlic, minced",
+        "2 teaspoons minced fresh ginger root",
+        "1 tablespoon minced lemon grass",
+        "5 green onions, chopped",
+        "2 cups cubed cooked chicken",
+        "1 cup bean sprouts",
+        "1 cup chopped bok choy"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large saucepan of water to a boil over high heat. Add noodles and return water to boil. Boil until soft, about 8 minutes. Drain and reserve noodles."
+        },
+        {
+          "id": 2,
+          "text": "Bring chicken stock, fish sauce, garlic, ginger, lemon grass, and green onions to a boil in a large pot. Reduce to a simmer; cook for 10 minutes. Stir in the chicken, bean sprouts, and bok choy. Cook pho until heated through, about 5 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Divide the cooked noodles between 2 large bowls. Pour pho over noodles; serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "My Chicken Pho Recipe",
+        "datePublished": "2018-03-21T12:53:56-04:00",
+        "dateModified": "2026-04-05T05:44:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Miss Ashley"
+          }
+        ],
+        "description": "Here&#39;s a great home version of the traditional Vietnamese dish, pho. Just stir chicken, bok choy, and bean sprouts into aromatic infused chicken stock and serve over hot noodles.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/VKlr3p34VJLIIIXlvfTKoElRw_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4176753-e12f8919ab2b46b19e34674609688f0b.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "My Chicken Pho Recipe",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "100"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "521 kcal",
+          "carbohydrateContent": "54 g",
+          "cholesterolContent": "107 mg",
+          "fiberContent": "10 g",
+          "proteinContent": "50 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "3270 mg",
+          "sugarContent": "5 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Vietnamese"
+        ],
+        "recipeIngredient": [
+          "4 ounces dry Chinese egg noodles",
+          "6 cups chicken stock",
+          "2 tablespoons fish sauce",
+          "4 cloves garlic, minced",
+          "2 teaspoons minced fresh ginger root",
+          "1 tablespoon minced lemon grass",
+          "5 green onions, chopped",
+          "2 cups cubed cooked chicken",
+          "1 cup bean sprouts",
+          "1 cup chopped bok choy"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large saucepan of water to a boil over high heat. Add noodles and return water to boil. Boil until soft, about 8 minutes. Drain and reserve noodles."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring chicken stock, fish sauce, garlic, ginger, lemon grass, and green onions to a boil in a large pot. Reduce to a simmer; cook for 10 minutes. Stir in the chicken, bean sprouts, and bok choy. Cook pho until heated through, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Divide the cooked noodles between 2 large bowls. Pour pho over noodles; serve immediately."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "6 cups pho"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mlorraine"
+            },
+            "reviewBody": "This is pretty great. My improvements, based off what I've seen in Vietnamese restaurants, which I would highly recommend: 1. Make your own stock. Use raw chicken, cut it from the bone, and boil the meat and bone for a while. I used about one bone for each cup of broth I needed to make. Since I didn't have enough bones, I combined my homemade stock with store-bought stock. 2. Add a star anise while the bones simmer. It makes the soup more savory. 3. Offer cilantro, chili paste, and lime as garnish options. I would also recommend using a little more bean sprouts and bok choy than this calls for. Some might prefer a little less chicken. If you like your bean sprouts crispy at all, only use them as garnish; don't simmer them at all."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doreen"
+            },
+            "reviewBody": "Love this recipe. I made my own broth by putting a whole chicken in a large stockpot, covered it with water and added 3 anise stars. Simmered it all 4 hours or so. Took meat off the bones, threw away the skin, put the bones back in the pot, and simmered another couple hours. Strained it through cheesecloth into a second stockpot. Had about 24 cups of amazing broth. I froze 12 cups and used the other 12 cups, doubling the recipe, but sticking to the ingredients listed. Used cooked rice noodles (added to each bowl of soup before serving), added sliced mushrooms, and served with lime wedges, sriracha, and Thai basil. Could not find bean sprouts anywhere and I do think they are a great addition to the soup, so I will keep searching for next time. Thank you for sharing this wonderful recipe",
+            "datePublished": "2019-05-13T02:03:17.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "simbyzoe"
+            },
+            "reviewBody": "Made this with my own broth by boiling a whole chicken (removed skin and threw in a few carrots and onions while it boiled) and it was AMAZING! One whole chicken gave me around 18 cups of broth so I just tripled the recipe. I did not put in minced garlic as I can't stand boiled garlic like that. Fresh ginger though is a MUST in this recipe (powdered would not be the same)! Also, as other reviewers said, I put one star anise into the broth the entire time the chicken cooked. This to me is what gave it is awesome and authentic pho flavor. It's an absolute must. I also feel the lemongrass is a must. Couldn't find it fresh, so bought a tube of lemongrass at Walmart in the produce section. Was very hesitant to use it, but upon opening and tasting it, it was delicious! Another absolute must in this recipe as it's a critical flavor in the pho soup. Used rice vermicelli noodles instead of the egg noodles. My kids (ages 9-13) and husband INHALED this soup. Trust me, make this and you will never need another chicken pho recipe again. It is identical, if not better, to what I've gotten at multiple pho restaurants.",
+            "datePublished": "2016-12-23T13:45:24.457Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leah Michelle"
+            },
+            "reviewBody": "Great base recipe! Although I did make the changes suggested in the reviews. I used 4 cups more stock just to feed more ppl. The MOST IMPORTANT additions to the broth are the star anise and cinnamon stick, the pho flavor just isn't there without them. I simmered them in the broth for about 10 minutes. Most oriental markets will have pho spice packets with the anise and cinnamon in them, they are less than $2 and then you don't have a huge bag of either of them. I used Hoisen sauce instead of the fish sauce just because my kids don't like it. Everything else was perfect but I did serve with sides of cilantro, bean sprouts and lime. Basil is traditionally served with this dish as well but I'm not a fan. Thank you, such a great dinner! Even my kids loved it and they are picky! \nWould easily rate this a 5 if it included the spices and sides!",
+            "datePublished": "2016-05-13T02:04:03.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SugarJ85"
+            },
+            "reviewBody": "This recipe was fantastic. I followed it almost exactly but used raw chicken (3 breasts). I added a whole scallion, whole jalapeño, and some cilantro sprigs. I used 1.5 TBS fish sauce. 6 cups of broth and 2 cups of water with a little boullion. A few shakes of garlic, onion powder, and ginger and salt and pepper. I simmered everything for 30 minutes. Then I removed the chicken and drained the soup and discarded the whole ingredients, floating chicken fat, etc. I then added the broth back with the chicken into a pot and added chopped scallions and cilantro. I added brown rice to it. It was delicious!! The only thing I'll do differently next time is probably use cooked chicken (as the recipe calls for) since it will make the recipe easier. The broth tastes incredible.",
+            "datePublished": "2016-01-24T16:21:05.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wendy T"
+            },
+            "reviewBody": "I doubled the recipe. Instead of using chicken broth, I substituted Chicken Pho Soup Base. I also added 2 stocks of celery, a green bell pepper, 2 cups of sliced portobello mushrooms during the final 5 minutes. Next time, I'll half the amount of chicken as it was too much. I served with cilantro, the bean sprouts, jalapeno, lime, basil and hot chili sauce on the table to add. I'd been craving pho all day and this is a keeper!! Yum!!",
+            "datePublished": "2011-11-06T20:40:50.093Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dianemwj"
+            },
+            "reviewBody": "I've been trying to duplicate an Asian soup recipe they serve in the Employee Dining Room at work, and this did the trick. I added celery and carrots to the soup, floated a star anise in it briefly (too long makes the anise flavor too strong), and added some sliced fresh shiitake mushrooms. I served the green onions and the bean sprouts as a garnish instead of simmering them in the soup to retain their crispness. This was very good and my husband raved about it. Thanks so much for the recipe, Miss Ashley.",
+            "datePublished": "2012-01-05T13:43:30.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NKashinsky"
+            },
+            "reviewBody": "Great simple-to-prepare recipe! I didn't have lemongrass, but I followed the recommendations of other reviewers and added star anise and a cinnamon stick while letting the broth mixture simmer for about 30 minutes instead of 10. Also added sliced white mushrooms and fresh basil with the veggies. Seasoned it with a bit of sriracha sauce before digging in. I LOVE pho but I'm trying to eat out less. This is a wonderful way to get my fix.",
+            "datePublished": "2012-01-19T16:46:57.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judi"
+            },
+            "reviewBody": "Used pho seasoning/broth from .asian Market in addition to these ingredients also added a cinnamon stick. I use rice noodles, spinach, Thai basil in addition to the Ming bean sprouts, scallions and bok Chou.\nI also use the carcass and left over meat from a roasted chicken.",
+            "datePublished": "2019-08-11T03:07:28.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MARGOT"
+            },
+            "reviewBody": "This makes a wonderful, complex flavor soup. I had most of the ingredients on hand for this (I live in California and my lemon grass grows in the front yard) and fixed it for dinner tonight. Only thing I didn't have was the bean sprouts, and although they would have been a nice addition, the soup didn't need them. This soup, although intensely flavorful, is not particularly spicy - if you are looking for hot, slice in some of those green Thai chilis or add some red pepper flakes. I think this would be good over Udon noodles also. Thanks for the recipe! UPDATE: I used homemade chicken stock (simmer the bones from rotisserie chicken in water or chicken broth to cover with vegetable trimmings - carrots, onions, celery - garlic, wine or vinegar, covered overnight on low, strain). Easy and delicious (salt as desired). Lemon grass should be left in 2\" chunks and bruised, as it is just for flavor and not to be eaten.",
+            "datePublished": "2009-06-03T19:57:25.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lew"
+            },
+            "reviewBody": "It's a very tasty soup. If you'd like a more \"authentic\" Vietnamese Pho flavour add a 1/2\" piece of cinnamon stick and 1 star anise (hard - starfish shaped)-found in Asian stores) and take them out after soup is done.",
+            "datePublished": "2011-12-12T11:21:27.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunOil7265"
+            },
+            "reviewBody": "Easy and delicious. My hubby loves it",
+            "datePublished": "2025-02-23T17:14:51.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CleverPlate7100"
+            },
+            "reviewBody": "Horrible",
+            "datePublished": "2024-02-05T00:54:03.874Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Carlson"
+            },
+            "reviewBody": "This is the first time I've attempted a pho. It was quite delicious, though somewhat milder than I would have liked. Next time I will add more garlic, ginger and fish sauce. I added a bit of sriracha in my bowl. I will certainly make this again with a few little tweaks.",
+            "datePublished": "2021-03-07T23:48:41.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin"
+            },
+            "reviewBody": "It was a good recipe. Not sure if I’ll be making it again though.",
+            "datePublished": "2021-01-30T01:30:48.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Southern Bell"
+            },
+            "reviewBody": "I used ponzu with lime to give it an extra kick. Also added Bella mushrooms.",
+            "datePublished": "2020-07-31T21:01:23.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aaron mcluvn"
+            },
+            "reviewBody": "Slightly altered because I just used what I had, but man so good.",
+            "datePublished": "2020-02-11T02:58:19.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vanessa Convard"
+            },
+            "reviewBody": "Delicious!!",
+            "datePublished": "2019-11-16T05:21:43.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Walker"
+            },
+            "reviewBody": "Very nice basic recipe that can easily be added to to dress it up! Nice flavour",
+            "datePublished": "2019-09-14T23:31:55.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sindy"
+            },
+            "reviewBody": "This was excellent. My boyfriend raved about it! Will be making this again and again.",
+            "datePublished": "2019-04-23T22:00:24.803Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/107366/my-chicken-pho-recipe/",
+          "name": "My Chicken Pho Recipe",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/181/soups-stews-and-chili/soup/noodle-soup/",
+                  "name": "Noodle Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

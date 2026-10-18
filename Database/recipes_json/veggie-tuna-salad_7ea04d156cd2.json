@@ -1,0 +1,147 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220670/veggie-tuna-salad/",
+  "extracted_at": "2026-10-18T03:10:56.607452+00:00",
+  "recipes": [
+    {
+      "name": "Veggie Tuna Salad",
+      "ingredients_raw": [
+        "3 (5 ounce) cans tuna, drained",
+        "0.5 jicama root, peeled and diced",
+        "0.5 cup mayonnaise, or as needed",
+        "7 tablespoons prepared mustard",
+        "3 stalks celery, finely chopped",
+        "0.25 cup freshly chopped parsley",
+        "3 radishes, cut into matchsticks",
+        "2 tablespoons steak seasoning"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Mix tuna, jicama, mayonnaise, mustard, celery, parsley, radishes, and steak seasoning in a bowl until well blended."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Veggie Tuna Salad",
+        "datePublished": "2020-03-16T01:50:05-04:00",
+        "dateModified": "2020-03-16T01:50:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sara s"
+          }
+        ],
+        "description": "This tuna salad gets a nice, refreshing crunch from jicama, celery, and radishes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/2HQxoGwPKHcPNPDqxmgSq1tZ2wU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/878341-9cbc73dc04164a0b859c2967b2a089fe.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Veggie Tuna Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "144 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "18 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "985 mg",
+          "sugarContent": "2 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "3 (5 ounce) cans tuna, drained",
+          "0.5 jicama root, peeled and diced",
+          "0.5 cup mayonnaise, or as needed",
+          "7 tablespoons prepared mustard",
+          "3 stalks celery, finely chopped",
+          "0.25 cup freshly chopped parsley",
+          "3 radishes, cut into matchsticks",
+          "2 tablespoons steak seasoning"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Mix tuna, jicama, mayonnaise, mustard, celery, parsley, radishes, and steak seasoning in a bowl until well blended."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT25M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220670/veggie-tuna-salad/",
+          "name": "Veggie Tuna Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

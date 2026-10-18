@@ -1,0 +1,550 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/218009/barons-blackberry-cobbler/",
+  "extracted_at": "2026-10-18T03:03:34.637714+00:00",
+  "recipes": [
+    {
+      "name": "Blackberry Cobbler",
+      "ingredients_raw": [
+        "0.5 cup white sugar",
+        "2 tablespoons cornstarch",
+        "6 cups fresh blackberries",
+        "0.25 cup melted butter",
+        "2.5 cups all-purpose flour",
+        "1.5 cups white sugar",
+        "1 tablespoon baking powder",
+        "1 teaspoon salt",
+        "2 cups milk",
+        "0.25 cup melted unsalted butter",
+        "1 tablespoon vanilla extract"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish."
+        },
+        {
+          "id": 3,
+          "text": "To prepare the blackberries: Whisk sugar and cornstarch together in a small bowl. Place blackberries into a mixing bowl and drizzle with melted butter. Sprinkle cornstarch mixture over top, then toss until evenly coated."
+        },
+        {
+          "id": 4,
+          "text": "Spread blackberry mixture into the prepared baking dish."
+        },
+        {
+          "id": 5,
+          "text": "To make the batter: Whisk flour, sugar, baking powder, and salt together in a mixing bowl until evenly blended. Stir in milk, melted butter, and vanilla until combined but still slightly lumpy."
+        },
+        {
+          "id": 6,
+          "text": "Pour over blackberries in the baking dish."
+        },
+        {
+          "id": 7,
+          "text": "Bake in the preheated oven until berries are tender and the crust is golden brown, 55 to 60 minutes."
+        },
+        {
+          "id": 8,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Blackberry Cobbler",
+        "datePublished": "2020-06-18T23:44:55-04:00",
+        "dateModified": "2026-03-05T10:44:16-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Baron",
+            "url": "https://www.allrecipes.com/cook/baron"
+          }
+        ],
+        "description": "This blackberry cobbler, bursting with fresh, juicy blackberries and topped with a simple batter, is the perfect dessert to enjoy at summer gatherings.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/l17sVU76YuXjkQx6zDUsOvGq5TM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-4x3_6722-3cbdaedfbfdf40098697b50c01c7009f.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/bJeVpiuv-K3AjnAEN.mp4",
+          "description": "When you’re ready to put summer’s fresh berries into a quick dessert, you’ll love this easy dessert. Begin with a beautiful bounty of blackberries, drizzle with butter, then toss with a mixture of sugar and cornstarch and layer into a baking dish. Next, whisk together flour, sugar, baking powder and salt, and moisten with milk, vanilla and butter to create a rich batter. Pour over the berries and bake to create a golden crust over berries in a thick syrup. Ideal served beneath a big scoop of vanilla ice cream!",
+          "duration": "PT56S",
+          "name": "Baron's Blackberry Cobbler",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/bJeVpiuv/thumbnails/KYYqviGF.jpg?width=1280",
+          "uploadDate": "2021-07-14T17:02:01-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Blackberry Cobbler",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "304"
+        },
+        "cookTime": "PT55M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "422 kcal",
+          "carbohydrateContent": "76 g",
+          "cholesterolContent": "28 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "466 mg",
+          "sugarContent": "47 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "U.S.",
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup white sugar",
+          "2 tablespoons cornstarch",
+          "6 cups fresh blackberries",
+          "0.25 cup melted butter",
+          "2.5 cups all-purpose flour",
+          "1.5 cups white sugar",
+          "1 tablespoon baking powder",
+          "1 teaspoon salt",
+          "2 cups milk",
+          "0.25 cup melted unsalted butter",
+          "1 tablespoon vanilla extract"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Rqygya0KXXDnuLkT-L0vqEUJ8-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-ingredients-4x3_6556-278902fe273d4ca994885e49b903669c.jpg"
+              }
+            ],
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OHXFRZlzrHKTBAiJCbLAn0TtbpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-step01-4x3_6557-d32fc7e199a448649283d5a4b0244357.jpg"
+              }
+            ],
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_sdt0YWH3oo7l5gVwBPIsoQCSJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-step04-4x3_6563-df7e4e278cb941bc925ca5276150272e.jpg"
+              }
+            ],
+            "text": "To prepare the blackberries: Whisk sugar and cornstarch together in a small bowl. Place blackberries into a mixing bowl and drizzle with melted butter. Sprinkle cornstarch mixture over top, then toss until evenly coated."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ZKYnPMCapXgZwfFx8TZPm34Mtuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-step05-4x3_6565-5e1a8585835d44e79763ce83a5e93794.jpg"
+              }
+            ],
+            "text": "Spread blackberry mixture into the prepared baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/VACSIsJFV0ou6vLEMgGScYcmBTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-step07-4x3_6570-57cf74b95d5d4a0ba6787f40514e6910.jpg"
+              }
+            ],
+            "text": "To make the batter: Whisk flour, sugar, baking powder, and salt together in a mixing bowl until evenly blended. Stir in milk, melted butter, and vanilla until combined but still slightly lumpy."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3JZSOMiDd4CWnoJ72DIfKavSc3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-step08-4x3_6572-666384ed39284c08862f70bd924e5683.jpg"
+              }
+            ],
+            "text": "Pour over blackberries in the baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bNpVXL0TpnEctZLe2rAichCmwgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-step09-4x3_6613-eebadbea730742dd8b8e3d2c1e6c2da9.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until berries are tender and the crust is golden brown, 55 to 60 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/l17sVU76YuXjkQx6zDUsOvGq5TM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218009-Barons-blackberry-cobbler-ddmfs-4x3_6722-3cbdaedfbfdf40098697b50c01c7009f.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "1 (9x13-inch) cobbler"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "abapplez"
+            },
+            "reviewBody": "We love it!! I have had biscuit type cobblers, cake type cobblers, and pie crust (I know...not really a cobbler but my Mamaw called it that so....to me it was a cobbler) type cobblers. This is almost a \nmixture of all three! And it is delicious. Hubby took one bite and said, \"just like my mom's!\" That sealed the deal right there. She was an\namazing cook. We loved the amount of berries in this one too... 6 cups! Blackberries aren't really in season here yet, so my berries, although \npretty big, where not as sweet as I like. I was worried about the amount of sugar but it was perfect. IF my berries are sweeter next time, I MAY cut the sugar just a tad but with the amount of topping this makes, it was perfect.\nThis is not a dainty or thin cobbler. It is big and thick, which I really love because several others I have tried have been thin. The berry to crust ratio\nseems just right. The amount of cornstarch called for was spot on as well. Just a really, really good recipe that will be a repeat here many times this summer. Thanks for sharing, Baron!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baron"
+            },
+            "reviewBody": "Thanks to all who tried and reviewed my recipe. I made it the other night with peaches and used 7 total. I should have used 9. It was still delicious.",
+            "datePublished": "2022-02-12T12:57:32.748Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cynthia Hall"
+            },
+            "reviewBody": "I changed up the recipe a little, but basically the same. We don’t have an army at home so I halved the recipe...except I didn’t halve the fruit. \n\nThe recipe instructions are a little vague on treating the blackberries. \n\nThe first change I made was use a 9x9 deep copper pan. (Copper Chef pan with the handle).. I sprayed it with Pam baking spray. Then I melted the 1/8 c butter in the microwave for 30 seconds. I poured that over the berries FIRST, then sprinkled the sugar/cornstarch mixture over the berries and tossed it, and placed it immediately in the pan. If you wait to put the berries in your dish, your berry mixture will harden and it will make it difficult to put in.\n\nI mixed the batter with a fork and folded it over the berries and took a spatula and made sure all the berries were covered. I sprinkled the top with sugar crystals then popped it in the oven for 1 hour.\n\nIn the deep pan, it won’t boil over. I let mine set to cool for about 15 minutes. It was AWESOME!!\n\nAfter it completely cooled I spatulaed it out into a lock n lock and put it in the frig! Even halving the recipe, it STILL made a big batch!",
+            "datePublished": "2021-07-25T16:04:01.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cookpunk"
+            },
+            "reviewBody": "This came out amazing, but with a few tweaks you should consider doing:\n1. Absolutely let the batter sit for about 10 min. before pouring it on. This allows the flour to fully hydrate and makes it thicken up a little, and pour it in thin ribbons back and forth on the cobbler going one direction, then spinning the pan 1/4 turn and going the other.\n2. Use more fruit. I added between 2-3 cups more fruit. Otherwise, it would be sparse.\n3. Don't use all the cake batter. I used between 3/4 to 4/5 of it, and poured the rest down the drain.\n\nI baked it on a cookie sheet, at 330 degrees for 40 minutes, then at 375 for the last 15 to brown it. It came out gloriously golden brown, fully cooked, but not over cooked.\n\nI also added a bit more sugar to the berries, not because I wanted it sweeter, but because I wanted it saucy. By adding these tweaks, my cake topping was about 1\" thick, fully done, and a great proportion to the fruit, that was gooey saucy, and great with ice cream.\n\nI did not have a lemon, but I did add some raspberries, which gave this this the needed acid, otherwise it would be too sweet. Nice balance.",
+            "datePublished": "2020-07-25T23:39:48.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joann"
+            },
+            "reviewBody": "Only had 3 cups of blackberries. Cut the recipe in half. Used 8 x8 pan. Turned out beautifully.",
+            "datePublished": "2020-07-14T16:27:02.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoolEel1734"
+            },
+            "reviewBody": "Just what I was looking for. Instead of melting the butter I cut the butter up really small and put the pieces on top of the berries. It worked just fine. I'd gotten some extra berries on sale so I used a combination of blackberries and raspberries. Yum!",
+            "datePublished": "2022-11-08T13:04:00.009Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth Ross McKee"
+            },
+            "reviewBody": "i used rasberriess. i cooked the berries a bit with the sugar and strained to remove the seeds. i have heirloom berries and they have lots and lots of seeds! then i mixed the flour into the berries and topped with butter. i did add a little more flour.. i should have used crushed tapioca as it is far far better with the softer berries such as raspberries and black berries. but i did add extra vanilla and lemon crystals to the berry mix to perk it up. i used more baking powder and let the batter set for a few min to get fluffy before layering it onto the berry mixture. what i ended up with was a wonderful rich cooked raspberry buttery pudding with a fluffy vanilla cake on top that only sank part way in giving nice bites of gooey and fluffy. .... it's a hit! i can't wait to try this again with peaches (using a bit of lime rather than lemon on the fruit). I am thinking this would be wonderful with a lemon cake batter on those blueberries too...",
+            "datePublished": "2018-08-10T19:18:57.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Used about 7 c. blackberries. Used extra cornstarch. Substituted about 3/4 c. Sugar for dark brown sugar in the batter and added 4 tbsp butter in between berries and batter.",
+            "datePublished": "2023-08-12T02:07:14.992Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HezekiahJ"
+            },
+            "reviewBody": "Excellent recipe but I add 2 oz Irish whiskey and 1oz maple syrup to my berries before draining and coating with cornstarch. After pouring batter add sprinkling of brown sugar on top. Excellent comfort food and for reasons beyond my ken, it seems to stabilize my blood sugar for a day or so.",
+            "datePublished": "2018-12-03T01:20:33.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "K Raines"
+            },
+            "reviewBody": "Seriously the best cobbler I've ever had. I added 1 tsp each of almond extract and lemon extract to the berries, along with 1 T cinnamon. To bump up the flavor of the topping, I added 1 tsp of lemon extract and substituted 1/2 c of brown sugar for 1/2 c of the white sugar. We didn't have any milk, so I used 2 cups of half n half instead. This cobbler isn't too sweet, and the topping doesn't overwhelm the berries. It's now at the top of my dessert go-to list.",
+            "datePublished": "2018-07-30T14:02:04.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Diaz"
+            },
+            "reviewBody": "Delicious! I made in individual ramekins so it cooked faster",
+            "datePublished": "2025-07-23T05:49:47.172Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cmach"
+            },
+            "reviewBody": "This was a fun recipe! This was the first time. I have used this method of putting batter on top of berries. Grandkids were skeptical but loved the results- Thank you! I made this in late July - blackberries so sweet!",
+            "datePublished": "2026-09-20T14:40:50.152Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle"
+            },
+            "reviewBody": "Very easy and taste delicious",
+            "datePublished": "2026-09-10T21:56:03.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maria Sundstrm"
+            },
+            "reviewBody": "Very easy and had great results.",
+            "datePublished": "2026-08-09T07:22:29.858Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doris Naser"
+            },
+            "reviewBody": "Easy to make and a great way to show off our beautiful blackberries. Delicious.",
+            "datePublished": "2026-08-03T16:06:44.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trisha"
+            },
+            "reviewBody": "I added tablespoon of cinnamon with the dry ingredients to toss the blackberries in and sprinkled sugar of the top last 5 minutes of baking.",
+            "datePublished": "2026-08-03T00:20:34.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WorthyDosa6120"
+            },
+            "reviewBody": "I made a half recipe. I put the blackberries in straight off the vine after they were washed and drained. No cornstarch, no sugar, no butter, just put them in the bottom of the pan. Then, when I made the batter, I cut the sugar down to 1/2 c. because it just doesn't need that much. It came out perfectly. My husband asked me to make it weekly until the blackberries are finished for this year.",
+            "datePublished": "2026-08-02T15:28:25.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ramona"
+            },
+            "reviewBody": "The blackberries ended up too sweet and gelatinous due to excess sugar and cornstarch. The cake part was heavy and stodgey and overwhelmed the berries, way too much cake. If you like a lot of thick, heavy cake and an overload of sugar, this one will do it. I ended up scraping off the cake to salvage the berries.",
+            "datePublished": "2026-03-23T21:59:58.705Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SilverPlate7102"
+            },
+            "reviewBody": "It was edible but nothing like cobbler. Maybe a different name would work better",
+            "datePublished": "2025-09-20T02:08:57.821Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pamela"
+            },
+            "reviewBody": "If you’re looking for a cake for breakfast, it’ll work, but if you’re looking for a cobbler, it is nowhere near a cobbler",
+            "datePublished": "2025-09-02T00:24:52.615Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/218009/barons-blackberry-cobbler/",
+          "name": "Blackberry Cobbler",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/361/desserts/cobbler/",
+                  "name": "Cobblers"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16358/desserts/cobbler/blackberry-cobbler/",
+                  "name": "Blackberry Cobbler Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

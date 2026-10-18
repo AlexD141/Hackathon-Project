@@ -1,0 +1,503 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11689/greek-pasta-salad-i/",
+  "extracted_at": "2026-10-18T01:47:12.415498+00:00",
+  "recipes": [
+    {
+      "name": "A Great Greek Pasta Salad ",
+      "ingredients_raw": [
+        "0.5 cup olive oil",
+        "0.5 cup red wine vinegar",
+        "1.5 teaspoons garlic powder",
+        "1.5 teaspoons dried basil",
+        "1.5 teaspoons dried oregano",
+        "0.75 teaspoon ground black pepper",
+        "0.75 teaspoon white sugar",
+        "2.5 cups cooked elbow macaroni",
+        "3 cups fresh sliced mushrooms",
+        "15 cherry tomatoes, halved",
+        "1 cup sliced red bell peppers",
+        "0.75 cup crumbled feta cheese",
+        "0.5 cup chopped green onions",
+        "1 (4 ounce) can whole black olives",
+        "0.75 cup sliced pepperoni sausage, cut into strips"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Whisk olive oil, vinegar, garlic powder, basil, oregano, black pepper, and sugar together in a large bowl."
+        },
+        {
+          "id": 3,
+          "text": "Add cooked pasta, mushrooms, tomatoes, red peppers, feta cheese, green onions, olives, and pepperoni. Toss until evenly coated."
+        },
+        {
+          "id": 4,
+          "text": "Cover, and chill 2 hours or overnight."
+        },
+        {
+          "id": 5,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "A Great Greek Pasta Salad ",
+        "datePublished": "1999-02-15T16:28:32-05:00",
+        "dateModified": "2025-06-16T02:10:34-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Behr"
+          }
+        ],
+        "description": "This make-ahead summer pasta salad with feta cheese, cherry tomatoes, and olives in an herby vinaigrette is full of Greek flavors.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/I5IwrSRDlzt20cwiuI374E7QgpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11689-greek-pasta-salad-i-VAT-001-4x3-ab1e0a4520f94af2aeef5ce2fcf8e4b9.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/BiA0qgQS-ma1DlVvV.mp4",
+          "description": "AR0451",
+          "duration": "PT3M12S",
+          "name": "Greek Pasta Salad I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BiA0qgQS/thumbnails/magXj8Tx.jpg?width=1280",
+          "uploadDate": "2021-07-21T00:17:01-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "A Great Greek Pasta Salad ",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "1067"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "746 kcal",
+          "carbohydrateContent": "40 g",
+          "cholesterolContent": "70 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "1279 mg",
+          "sugarContent": "5 g",
+          "fatContent": "56 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Greek"
+        ],
+        "recipeIngredient": [
+          "0.5 cup olive oil",
+          "0.5 cup red wine vinegar",
+          "1.5 teaspoons garlic powder",
+          "1.5 teaspoons dried basil",
+          "1.5 teaspoons dried oregano",
+          "0.75 teaspoon ground black pepper",
+          "0.75 teaspoon white sugar",
+          "2.5 cups cooked elbow macaroni",
+          "3 cups fresh sliced mushrooms",
+          "15 cherry tomatoes, halved",
+          "1 cup sliced red bell peppers",
+          "0.75 cup crumbled feta cheese",
+          "0.5 cup chopped green onions",
+          "1 (4 ounce) can whole black olives",
+          "0.75 cup sliced pepperoni sausage, cut into strips"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sKXkBqrr3lZYunWvRk7qpL_Z4ZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11689-greek-pasta-salad-i-VAT-005-step-01-ccc691569a9b488cb735e69e30d13528.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/dVbOXQ1uaLPF1jnbsrVYAOJnoBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11689-greek-pasta-salad-i-VAT-006-step-02-c533da3613f242a28b5f98d6831454e9.jpg"
+              }
+            ],
+            "text": "Whisk olive oil, vinegar, garlic powder, basil, oregano, black pepper, and sugar together in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/fahhn9S_-FjMaYagqnuIL9c5SVs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11689-greek-pasta-salad-i-VAT-007-step-03-9f02bd4e02804c80a2b486db0a7e881d.jpg"
+              }
+            ],
+            "text": "Add cooked pasta, mushrooms, tomatoes, red peppers, feta cheese, green onions, olives, and pepperoni. Toss until evenly coated."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/X39nhXZkBi6jioazHSOMZGL8_aI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11689-greek-pasta-salad-i-VAT-008-step-04-d29c570f4bf74e2399cd763553dd59af.jpg"
+              }
+            ],
+            "text": "Cover, and chill 2 hours or overnight."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/I5IwrSRDlzt20cwiuI374E7QgpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11689-greek-pasta-salad-i-VAT-001-4x3-ab1e0a4520f94af2aeef5ce2fcf8e4b9.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT145M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChunkyMonkeyMommy"
+            },
+            "reviewBody": "I'm so glad I waited to review this until the day after I made it. I tried it after chilling it for a couple of hours and wasn't too thrilled with it. I just made a bowl now, after it being in the fridge overnight and wow! It isn't dry at all and the flavors have really mingled and developed! I followed other's suggestions and used half balsamic vinegar instead of all red wine vinegar. I also used rotini pasta, regular tomatoes, portobello mushrooms, red and green bell peppers, and a small purple onion. I left out the pepperoni just because I didn't have any, but next time I'll definately add it. As good as it tastes, if you do use balsamic, be warned that the pasta and feta will look brownish. I think someone else mentioned this, but if you're making for company, you might want to use white balsamic vinegar. This is soooo good, thank you for the great recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melissajean"
+            },
+            "reviewBody": "This is the best pasta salad ever; however, the vinegar/oil ratio is a little strong for me. I recommend that you start with approx. 1/4 cup of vinegar (you can adjust and add more if you like) using half red wine vinegar and half balsamic as suggested by other reviews. I substitute 1 can artichoke hearts-not marinated-for the mushrooms. I also used diced red and yellow peppers for extra color and sliced olives. I prefer red onions instead of green onions and use tomato basil feta cheese and bowtie pasta. Yummy and beautiful 5 star salad!",
+            "datePublished": "2005-08-28T10:34:26.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kris Hodges"
+            },
+            "reviewBody": "A little trick for making pasta salad that doesn't soak up all the dressing. After cooking your pasta, add olive oil and lemon juice and refrigerate overnight. It doesn't take much, just a tablespoon of each for a pound of pasta. I think I learned that from this site.",
+            "datePublished": "2014-06-13T15:59:54.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Teachristine"
+            },
+            "reviewBody": "The recipe is okay. Many ways to improve Vinegrette: I kept the olive oil and red wine vinegar, substituted 3 clovees of roasted garlic that I had, used Italian dried herbs (crush before adding) added 1 tsp of miso that I had. put in the blender to emulsify. Cook pasta al dente then add the vinegrette while still warm-adds so much more flavor No need for sausage. Add artichoke hearts, slivered peppers, soaked red onions (help to take out bittenerness), diced cucumbers without seeds. Keep the feta. Bueno appetitio ",
+            "datePublished": "2024-03-16T17:58:13.282Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Animakitty"
+            },
+            "reviewBody": "I loved this recipe, though I did elaborate upon it and tweak it a bit. Like others I swapped the red onion for the green, I used parmesan cheese instead of feta, and used a different shaped pasta. I also sauteed the mushrooms in butter and oven-roasted the cherry tomatoes (with basil, garlic, and thyme) before adding them. I added sunflower seeds to spice up the texture a bit. Because there would be vegetarians at the picnic I was bringing this to, I bought bags of mini-pepperoni and left them beside the salad for people to add themselves. Easily the best pasta salad I've ever had. The oven-roasted tomatoes made a huge difference in particular, and I think adding more of them would be a good idea.",
+            "datePublished": "2013-09-11T06:08:09.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ColleenR"
+            },
+            "reviewBody": "I forgot that I was going to bring this to a picnic until 6 hours before I was to serve it. I had read the reviews saying it needed overnight chilling. Oh, well. After I cooked and drained the pasta, I put it back into the pot. I added 4 cups of ice cubes, a cup of half water and half white vinegar, and mixed it up. The ice cubes stops the pasta from cooking, chills the pasta quickly and keeps the pasta from clumping without using oil. I did NOT put it in the fridge, but left it sit on the counter. I mixed the dressing ingredients in a separate bowl. I chopped all of the vegetables and put them in a large bowl. I used hard salami instead of pepperoni (personal preference). I poured the dressing on the vegetables and mixed gently. I let that sit on the counter, too. About every 20 minutes, I stirred the pasta gently. I also stirred the vegetables. When the ice cubes were melted, I thoroughly drained the chilled pasta, added the vegetables and was able to refrigerate for 2 hours before serving. It was absolutely delicious. The crowd loved it!",
+            "datePublished": "2015-09-14T09:12:39.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Harry Martin"
+            },
+            "reviewBody": "Check the nutrition! This is more than 700 calories and is 75% of your daily allowance of fat. It's more than 50% of your daily allowance for sodium, too! There's got to be a healthier version. I bet if you dump the pepperoni, the numbers may improve. Or, perhaps use turkey pepperoni. But as written, it's a chilled coronary.",
+            "datePublished": "2023-07-13T19:59:57.798Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly Moffett Higgins"
+            },
+            "reviewBody": "I had to make some changes to meet dietary needs but it was a big hit! I brought this to a dinner party and needed it to be gluten free, cow milk free &amp; vegetarian. I used rice pasta, goat cheese &amp; left out the meat. I also left out the sugar. Everyone loved it including the kids.",
+            "datePublished": "2018-06-11T13:22:41.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "Great salad that went over well at a recent potluck. I used a pound of pasta so doubled the dressing (ended up not using quite all of it). I subbed roasted red peppers instead of fresh and left out the mushrooms. Also added artichoke hearts. We LOVE feta so added more of that .",
+            "datePublished": "2017-07-30T21:46:02.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RhondaR"
+            },
+            "reviewBody": "We make the dressing on the side so as not to soak the salad. We've stopped using pasta because we find it tastes lighter and more fresh without it.\n\nOur preferred veggies:\n3 chopped bell peppers--red, green &amp; yellow\n1 carton cherry tomatoes, halved\n1 whole cucumber, peeled and chopped\n1/2 red onion, chopped\n1/4 cup calamata olives, halved\n1/4 cup green stuffed pimiento olives, halved\n1/4 cup mild banana peppers, halved\n\nSometimes we buy the feta cheese block soaked in brine and cut 1/4 inch slices and place on top, not the crumbled feta is good too.\n\nWe also prefer eating the salad fresh instead of chilled as the olive oil conceals if chilled.",
+            "datePublished": "2015-12-31T20:28:24.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy Pick Trenkler"
+            },
+            "reviewBody": "I have been asked to make this so many times since I first served it. It is a hit. I am actually bringing it to two different parties this weekend. \r\n\r\nDefinately make the night before. I mixed the dressing in a dressing server and didn't put all of it on so I could freshen it up just before serving.\r\n\r\nI also added kalamata olives and omited the mushrooms. I am going to try it with some fresh basil this weekend since I have it in abundance right now. the dressing is what makes it so you can easily adjust ingredients to personal taste. I have forgotten the pepperoni before and only one person noticed.\r\n\r\nLike other reviewers said, I too went a little easy on the vinegar from the start.\r\n\r\nIt is so easy and turns out so professional looking.",
+            "datePublished": "2011-07-01T11:15:12.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deborah Svendsgaard"
+            },
+            "reviewBody": "I liked this recipe. I followed exactly but used a deli olive mix instead of the canned olives. Use a good quality light olive oil for this.",
+            "datePublished": "2026-08-25T18:05:44.306Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon"
+            },
+            "reviewBody": "Yummy",
+            "datePublished": "2026-07-14T16:30:34.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam"
+            },
+            "reviewBody": "I love this wonderful summer salad, especially the tangy freshness! I made a few minor adjustments for my tastes leaving out the fresh mushrooms and pepperoni. I used kalamata olives for extra tang and added a peeled, sliced and halved cucumber (removing any abundance of seeds). I used almost all of a 16oz package of macaroni noodles. I will be making again and again all summer long. Yum!!!",
+            "datePublished": "2026-06-25T15:13:15.606Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joan"
+            },
+            "reviewBody": "This was delicious and easy to make. I had to substitue rice vinegar because I did not have red wine vinegar. It worked out great. The Feta gives it just enough tang. Both my mom and my husband loved it.",
+            "datePublished": "2026-05-27T14:26:40.796Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDA"
+            },
+            "reviewBody": "I made it the minute I saw it. I just happened to have everything on hand. Its a very good pasta salad.",
+            "datePublished": "2026-05-23T20:21:32.984Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BoldVeal3464"
+            },
+            "reviewBody": "Perfect blend of flavor, nothing is too strong. All the flavors go well together, I did not use the meat and it was still very good. Easy to make and delicious.",
+            "datePublished": "2026-05-18T14:57:30.904Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Newlands Mansion"
+            },
+            "reviewBody": "it's great served with toasted garlic bread!",
+            "datePublished": "2026-05-08T16:06:11.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin Huffman"
+            },
+            "reviewBody": "I've made this salad prob 6 times on last couple of months. It's fantastic every time! I had modified a bit using a chickpea protein pasta, added in more vegetables like a green castelveltrano olive and artichoke hearts and left out the sala/pepperoni. The feta is perfect addition to give saltiness and the dressing is so easy and brings it all together. Great cold pasta salad for any occasion!",
+            "datePublished": "2025-11-30T23:44:14.688Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MaryAnn DiNuzzo"
+            },
+            "reviewBody": "I made changes according to suggestions from readers - no meat, artichoke hearts instead of mushrooms, Kalimata olives not black olives, red and green peppers, red onions, rotini pasta.",
+            "datePublished": "2025-07-25T19:52:54.928Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11689/greek-pasta-salad-i/",
+          "name": "A Great Greek Pasta Salad ",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

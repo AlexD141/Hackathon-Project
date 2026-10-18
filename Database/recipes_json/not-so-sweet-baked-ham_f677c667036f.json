@@ -1,0 +1,435 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220999/not-so-sweet-baked-ham/",
+  "extracted_at": "2026-10-18T03:12:05.899952+00:00",
+  "recipes": [
+    {
+      "name": "Not-So-Sweet Baked Ham",
+      "ingredients_raw": [
+        "1 (15 pound) ham",
+        "0.75 cup chicken broth"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Place ham in a large baking dish with the fatty side facing up; pour chicken broth over top."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven, basting with broth every 20 to 30 minutes, until heated through, about 1 1/2 hours. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+        },
+        {
+          "id": 4,
+          "text": "Discard broth before slicing and serving ham."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Not-So-Sweet Baked Ham",
+        "datePublished": "2013-06-13T02:02:20-04:00",
+        "dateModified": "2025-12-08T10:10:05-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "rachelbshepard"
+          }
+        ],
+        "description": "This easy baked ham is basted with chicken broth for a savory and perfectly moist glazed ham that will be just as popular with your guests.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/4IItYUndP24jmZmYhBGec0uhSI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1909768-not-so-sweet-baked-ham-Baking-Nana-4x3-1-adf7f552b33349da9d5ca4c37ecd9715.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Not-So-Sweet Baked Ham",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "ratingCount": "54"
+        },
+        "cookTime": "PT90M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "559 kcal",
+          "carbohydrateContent": "0 g",
+          "cholesterolContent": "127 mg",
+          "proteinContent": "42 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "2939 mg",
+          "fatContent": "42 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (15 pound) ham",
+          "0.75 cup chicken broth"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place ham in a large baking dish with the fatty side facing up; pour chicken broth over top."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven, basting with broth every 20 to 30 minutes, until heated through, about 1 1/2 hours. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Discard broth before slicing and serving ham."
+          }
+        ],
+        "recipeYield": "30",
+        "totalTime": "PT95M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baking Nana"
+            },
+            "reviewBody": "I love ham that tastes like HAM. I would suggest using a Turkey sized oven bag to heat the ham - it really protects the meat and keeps it moist."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alana Johnson"
+            },
+            "reviewBody": "I find this to be a good recipe to build on. I mixed the chicken broth with gravy, pepper and garlic and cooked at a lower temperature for a longer time and it came out great. Of all the food I made for Thanksgiving (not including dessert), this was the most popular.",
+            "datePublished": "2016-11-25T15:44:19.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leslie"
+            },
+            "reviewBody": "I'm trying to cut the sugar use in our home and this recipe was perfect for that. We enjoy ham but not all of the sugary sweetness of a glaze. I cooked a 9 lb. ham using chicken broth except I cooked it at 325 for 2 1/2 hours. The meat came out tender and delicious . I saved the juices in the refrigerator, scraped the fat off the top and will use the remaining juices, along with the bone, for a pot of soup. Thanks for a great and simple recipe!",
+            "datePublished": "2019-05-12T20:28:44.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patrick H"
+            },
+            "reviewBody": "I used the slow cooker instead. I put in the broth, then the ham. I had to make a few adjustments, but it still worked fine. My wife is diabetic, so we can't do the sugar thing",
+            "datePublished": "2018-04-01T17:25:30.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cquinn74"
+            },
+            "reviewBody": "So so easy! As suggested in other reviews, used a Turkey bag, added fresh garlic and whole cloves to broth. This ham was moister and tastier than any other ham we’ve had. Three days later, my husband is still saying how good the ham was! It was savory not sweet. We’ll definitely make this again!",
+            "datePublished": "2020-12-31T17:57:48.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam B"
+            },
+            "reviewBody": "This was a very good ham. I baked it in a roasting bag. We had an 8 lb ham. I used a full can of low sodium chicken broth . Cooked it at 325 for about 3 hours. It was perfect.",
+            "datePublished": "2018-04-01T19:15:02.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pagike"
+            },
+            "reviewBody": "OMG, Save the Broth!!!\nYou can make wonderful gravy (add enough water so it's not too salty) or save it and add it to your soup that you must make with the ham bone!",
+            "datePublished": "2020-04-11T05:23:04.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JGplus3"
+            },
+            "reviewBody": "Made as is, just added some minced garlic to the broth and put a tent while cooking. Perfect.",
+            "datePublished": "2018-02-16T04:24:02.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GlitzyPasta2441"
+            },
+            "reviewBody": "Savory and moist, I covered the ham in foil before cooking. Yum!",
+            "datePublished": "2022-09-12T01:15:51.779Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy Smith"
+            },
+            "reviewBody": "My daughter moved out recently and it's just me and my Sig-O at home. We both love this recipe and it allows for more creative use of leftovers. I made a cherry and crushed pineapple sauce on the side to be used optionally.",
+            "datePublished": "2017-04-03T19:02:10.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lucy Vandorne"
+            },
+            "reviewBody": "I am definitely not a fan of sugary honey orangey glazed hams and if I can get ham from my deli sliced without the sugars, I am happy. I added 1 large clove of garlic and I ended up with the best savory ham ever! Super simple.",
+            "datePublished": "2020-04-13T03:04:44.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "maryjt"
+            },
+            "reviewBody": "I will never make ham with glaze again! so much more versatile for leftovers too",
+            "datePublished": "2025-12-06T02:32:24.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DaringSpice2885"
+            },
+            "reviewBody": "I think it’s naturally good. Just how I like it!!!! I did add cloves on top. The ham was so juicy.",
+            "datePublished": "2025-04-20T20:00:43.214Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "It was okay, but nothing spectacular.",
+            "datePublished": "2024-12-27T16:25:15.798Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trish Tegen"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-04-01T00:35:02.195Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoofyClove1307"
+            },
+            "reviewBody": "I made half of a ham, followed the directions which were very very easy and this turned out to be the absolutely best baked ham we have ever had. It was juicy and tender and tasted fantastic. We had company for Easter and we all agreed this was a keeper!!!",
+            "datePublished": "2023-04-09T20:28:54.898Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JaneyBloop"
+            },
+            "reviewBody": "I agree..... A good ham does not need fussing with! My family has always been baking our hams without glazing them. We also like using all that rich broth and cooking down the bones to make a hearty ham and bean soup, or ham and string beans (depending on the season) the next day. You can't do that with sweet pan drippings.",
+            "datePublished": "2023-04-09T17:18:46.922Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy B"
+            },
+            "reviewBody": "I have made this before and I will make it for Easter this year. I am diabetic and love ham, so this is prefect for me without all the sweetness of pineapple ham.",
+            "datePublished": "2023-04-01T23:32:11.692Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeffrey Smith"
+            },
+            "reviewBody": "This is one of the easiest recipes I have ever done. My wife does not like sweet ham. My wife loves this recipe. This is definitely a keeper.",
+            "datePublished": "2022-04-12T02:16:21.175Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fun cook"
+            },
+            "reviewBody": "The BEST ham ever. Thank you for sharing.",
+            "datePublished": "2022-01-18T13:50:45.870Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220999/not-so-sweet-baked-ham/",
+          "name": "Not-So-Sweet Baked Ham",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/673/main-dish/pork/",
+                  "name": "Pork"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/670/main-dish/pork/ham/",
+                  "name": "Ham"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14978/main-dish/pork/ham/whole/",
+                  "name": "Whole Ham"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

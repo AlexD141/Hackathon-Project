@@ -1,0 +1,467 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13067/the-ultimate-chili/",
+  "extracted_at": "2026-10-18T01:52:02.519576+00:00",
+  "recipes": [
+    {
+      "name": "The Ultimate Chili",
+      "ingredients_raw": [
+        "1 pound lean ground beef",
+        "salt and pepper to taste",
+        "3 (15 ounce) cans dark red kidney beans",
+        "3 (14.5 ounce) cans Mexican-style stewed tomatoes",
+        "2 stalks celery, chopped",
+        "1 red bell pepper, chopped",
+        "0.25 cup red wine vinegar",
+        "2 tablespoons chili powder",
+        "1 teaspoon ground cumin",
+        "1 teaspoon dried parsley",
+        "1 teaspoon dried basil",
+        "1 dash Worcestershire sauce",
+        "0.5 cup red wine"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook and stir ground beef in a large skillet over medium-high heat until evenly browned, 5 to 7 minutes. Drain off grease, then season with salt and pepper."
+        },
+        {
+          "id": 2,
+          "text": "Transfer beef to a slow cooker. Add kidney beans, tomatoes, celery, bell pepper, and vinegar. Season with chili powder, cumin, parsley, basil, and Worcestershire sauce. Stir to distribute ingredients evenly."
+        },
+        {
+          "id": 3,
+          "text": "Cook on Low for 8 hours or High for 6 hours. Pour in wine during the last 2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "The Ultimate Chili",
+        "datePublished": "1999-02-20T15:26:01-05:00",
+        "dateModified": "2025-12-26T08:18:26-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wendy"
+          }
+        ],
+        "description": "Red wine in chili adds intense flavor! This chili is big on taste with beef, beans, veggies, and spices, and the wine really kicks it up a notch.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Q6E8IQRVSs8V9IqqnP8ilm9MNqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1003997-950539aec61f4bd8810413720ded6c71.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/0Ozrtx8C-K3AjnAEN.mp4",
+          "description": "A tangy, spicy ground beef and kidney bean chili you make in the slow cooker.",
+          "duration": "PT2M31S",
+          "name": "The Ultimate Chili",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/0Ozrtx8C/poster.jpg?width=1280",
+          "uploadDate": "2021-07-16T23:15:00-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "The Ultimate Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "488"
+        },
+        "cookTime": "PT365M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "414 kcal",
+          "carbohydrateContent": "50 g",
+          "cholesterolContent": "50 mg",
+          "fiberContent": "17 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "1015 mg",
+          "sugarContent": "9 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Tex-Mex"
+        ],
+        "recipeIngredient": [
+          "1 pound lean ground beef",
+          "salt and pepper to taste",
+          "3 (15 ounce) cans dark red kidney beans",
+          "3 (14.5 ounce) cans Mexican-style stewed tomatoes",
+          "2 stalks celery, chopped",
+          "1 red bell pepper, chopped",
+          "0.25 cup red wine vinegar",
+          "2 tablespoons chili powder",
+          "1 teaspoon ground cumin",
+          "1 teaspoon dried parsley",
+          "1 teaspoon dried basil",
+          "1 dash Worcestershire sauce",
+          "0.5 cup red wine"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook and stir ground beef in a large skillet over medium-high heat until evenly browned, 5 to 7 minutes. Drain off grease, then season with salt and pepper."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer beef to a slow cooker. Add kidney beans, tomatoes, celery, bell pepper, and vinegar. Season with chili powder, cumin, parsley, basil, and Worcestershire sauce. Stir to distribute ingredients evenly."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Q6E8IQRVSs8V9IqqnP8ilm9MNqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1003997-950539aec61f4bd8810413720ded6c71.jpg"
+              }
+            ],
+            "text": "Cook on Low for 8 hours or High for 6 hours. Pour in wine during the last 2 hours."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT380M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jill"
+            },
+            "reviewBody": "Very good Chili! Unfortunately, it was missing the \"kick\" my husband I love. So, I added the following ingredients and if you like it spicy try adding these:\r\n2T Garlic Powder, 1T Cayenne Pepper, 1T Salt, 3T Brown Sugar, 2T Honey, and 1T of extra Chili Powder.\r\n\r\nOh yeah, a suggestion to thicken up the chili is to use 2T of Corn Starch with 4T Water.\r\n\r\nHats off to Wendy for creating this dish."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Niki M"
+            },
+            "reviewBody": "I have been using this chili recipe for a year now, and it's been accidentally tweaked (I was too lazy to write this down and my printer was out of ink and I lost the original copy I had printed) I never use as much vinegar as the recipe calls for anymore (2 tablespoons is plenty) and I add more than a dash of worcestershire. Also, I never addedthe red wine since I havent found one I like cooking with that isnt expensive. When I brown the beef, I usually use up whatever onion and garlic I have left in my fridge and I have omitted the celery and bell pepper before (I have also added more than the recipe calls for the empty out my fridge) All in all, this is a great recipe, and especially good when it's been sitting in the fridge a day or two.",
+            "datePublished": "2005-10-04T22:33:48.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bryan Bennett"
+            },
+            "reviewBody": "Really like this recipe! I like the use of the red wine vinegar to brighten up the dish. I'm also a big fan of cumin. So, I tend to be generous with it. Just yesterday I made this chili but used a Belgian stout instead of the wine.\n**Just an update to advise not to be tied to the 6 hours in the slow cooker. Since the meat is already browned, you don't have to cook it that long. You can make this on the stove top. Just let it simmer for an hour or so. The longer time in the slow cooker will definitely give you a deeper flavor, but it's still delicious! The longer time also cooks down the veggies so I saute them in a little of the beef drippings before adding.",
+            "datePublished": "2015-01-12T14:35:29.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Randy Jones"
+            },
+            "reviewBody": "I have been using this recipe for a while and I think it's the best I've ever had. I reduce the red wine vinegar to 1-2 tablespoons, and I add a whole sweet onion. I'm really into the flavor more than \"heat\" and this one has great flavor. I normally make this on the stove top instead of the crock, and I have used ground turkey or pork sausage and it comes out great either way. Thanks for this GREAT recipe!",
+            "datePublished": "2010-09-27T07:27:52.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bridget Ton"
+            },
+            "reviewBody": "Perfect starter base! I increased the Chile pwder &amp; cumin to 2 tbles each, 1 tspn tajin spice,1- 14oz can of tomatoes and green chili’s, 3 -14oz cans chopped tomatoes. 1 can of black beans with juice (for thickening. Meat/1 lb each grd turkey, Italian grnd chicken. No red wine. No leftovers! Bee",
+            "datePublished": "2020-10-05T15:42:57.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LM Lane"
+            },
+            "reviewBody": "Made a few alterations to the recipe by adding 3/4 of a yellow onion (1/4 to the ground beef before cooking, 1/2 straight in the crock pot), a diced shallot and a small handful of crushed garlic cloves (whole). \n\nI used a packet of chili mix in addition to the chili powder the recipe called for as well as a couple sprinkles of garlic powder when the meat was cooking. Then I added some spicy pork sausage to cook with the ground beef. In the crock pot I also added a packet of tomatoe, basil mozzarella chicken meatballs (cutting each into halfs), along with 2 bay leaves; then I let it all simmer in the crock pot on high for 4 hours. \n\nTo top it off once in serving bowls I sprinkled the chili with 4-blend Mexican cheese and a dollop of creme fresh. It was absolutely fabulous!!!",
+            "datePublished": "2015-10-04T05:46:41.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KWare"
+            },
+            "reviewBody": "With just a few adjustments, this was the best chili we have ever made! I added 1/2 of a medium-sized onion, 3 garlic cloves (which I cooked with the beef),only 2 cans of stewed mexi-tomatoes and beans (I used a tri-bean variety, it had red kidney, pinto, and black beans), just a splash of the red wine vinegar, and 1/2 of a jalapeno pepper (it could have used the whole pepper, or substituted another variety). It was divine!",
+            "datePublished": "2014-02-01T08:11:46.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Terry"
+            },
+            "reviewBody": "First time I made chili and really loved it. I added half an onion, 3 garlic cloves, 3 tablespoons brown sugar, a dose of honey and a teaspoon of cayenne pepper. It was a little spicy for my wimpy family but perfect to me. It was soupy as others mentioned but tasted great! Next time I'll probably drain the beans and tomatoes before adding them. Was going to refrigerate overnight but we ate most of it immediately! Thanks for the great recipe and all the comments that helped me out. Will definitely make again.",
+            "datePublished": "2014-05-02T21:25:40.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joelyn LaValley"
+            },
+            "reviewBody": "Tasty! I left out the red wine (simply because I didn't have any), and I added a purple onion, 2T brown sugar, 2T honey, and some minced garlic. I also sautéed the celery, red pepper, onion, and garlic together in a little olive oil before adding it to the rest of the chili. Very simple to make and very flavorful! I will definitely be making this again.",
+            "datePublished": "2016-10-08T20:16:29.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Martie"
+            },
+            "reviewBody": "I adapted this recipe to our preferences. I eliminated the red wine vinegar and the wine. Added a chopped onion when I browned the ground beef and drained the grease. Also I added a heaping Tablespoon chili powder. We like celery &amp; bell pepper, but if I’m out of it, then don’t really miss it. Also, I sometimes substitute 1 28 oz can of crushed tomatoes for the diced. When I use diced, then I try to “smash” them more so the tomatoes are less chunky. But this is a great base recipe for chili.",
+            "datePublished": "2019-02-08T15:57:02.193Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoralBean5842"
+            },
+            "reviewBody": "Most excellent recipe used so far. Made even better with the addition of 1 tsp oregno, 1/2cup red onions, 1/2 cup tomato juice, 1 tbe spoon chopped jalapino, 1 tbl spoon pepper, and 1 tbl spoon chopped banana peppers.",
+            "datePublished": "2024-02-19T21:47:05.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CaringOat9480"
+            },
+            "reviewBody": "I have been making this chili for years &amp; it’s definitely a favorite recipe! Well worth the effort!",
+            "datePublished": "2026-07-12T23:29:19.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy"
+            },
+            "reviewBody": "Didn't change a thing! It was amazing.",
+            "datePublished": "2026-04-19T11:34:23.996Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeanette"
+            },
+            "reviewBody": "I added a bag of Filipino sweet pasta sauce, it comes with tomato paste and a bunch of flavors, great taste!",
+            "datePublished": "2025-12-28T16:35:44.479Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda Marter"
+            },
+            "reviewBody": "Loved this, no changes.",
+            "datePublished": "2025-11-21T22:38:21.268Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mercy796"
+            },
+            "reviewBody": "Easy recipe to put together. I made a smaller batch though with 1 pound ground beef, two cans of stewed tomatoes, and one can of chili beans. I would make this again.",
+            "datePublished": "2024-12-16T23:43:23.474Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CalmWater1664"
+            },
+            "reviewBody": "I cooked it slow with all the ingredients, came out great, served with some buns, a family hit!",
+            "datePublished": "2024-09-25T18:39:15.749Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kris"
+            },
+            "reviewBody": "I have my mom's recipe, and wanted to try something new. I followed the recipe with one small change, I only used one can of kidney beans and one can of black beans. It was great.",
+            "datePublished": "2024-01-15T13:22:01.508Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "andy"
+            },
+            "reviewBody": "This is a really good, solid base recipe. Just fine as-is. But, I add chopped onion when browning the meat. I often reduce the chili powder (and add some sage), skip the vinegar, and as much as double the beans … more to the preferences of my group and not because the recipe is wrong. Chili can be a good refrigerator magnet, so I may add garlic, pork/sausage, herbs, or other veggies.",
+            "datePublished": "2024-01-07T21:36:47.279Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ThisOldHouse"
+            },
+            "reviewBody": "This is my go-to chili! Normally I make it as is, sometimes I mix it up using Stew meat in-place of ground beef, or use RO*TEL Diced Tomatoes and Green Chili in-place of stewed tomatoes...",
+            "datePublished": "2023-12-03T15:18:42.583Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13067/the-ultimate-chili/",
+          "name": "The Ultimate Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

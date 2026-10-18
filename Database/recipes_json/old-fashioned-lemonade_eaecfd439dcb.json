@@ -1,0 +1,463 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20487/old-fashioned-lemonade/",
+  "extracted_at": "2026-10-18T02:45:21.569906+00:00",
+  "recipes": [
+    {
+      "name": "Old-Fashioned Lemonade",
+      "ingredients_raw": [
+        "6 lemons",
+        "1 cup white sugar",
+        "6 cups water, or more as needed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Juice lemons; you should have 1 cup juice."
+        },
+        {
+          "id": 3,
+          "text": "Combine juice, sugar, and water in a 1/2-gallon pitcher. Stir until sugar dissolves. Taste and add more water if desired."
+        },
+        {
+          "id": 4,
+          "text": "Chill and serve over ice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Old-Fashioned Lemonade",
+        "datePublished": "2000-07-07T02:38:57-04:00",
+        "dateModified": "2026-10-04T22:59:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Erin"
+          }
+        ],
+        "description": "A classic lemonade recipe to make all summer long, or anytime life gives you lemons! Just three ingredients needed for this crowd-pleasing pitcher.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/JjkIeMWbjoAqcaz7UscVRwZMNk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20487-old-fashioned-lemonade-ddmfs-1x1-1-86f64ae40f3949ca855c283c519c9b38.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/fr8Fbo68-K3AjnAEN.mp4",
+          "description": "This video will show you how to make Old-Fashioned Lemonade - the perfect cold drink for a hot summer day. Set aside the powder mix, this classic summertime recipe uses freshly squeezed lemons and white sugar to create the perfect combination of sweet and tart. Makes about 6 servings in a gallon pitcher. ",
+          "duration": "PT45S",
+          "name": "Old-Fashioned Lemonade Recipe",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fr8Fbo68/thumbnails/circuYgx.jpg?width=1280",
+          "uploadDate": "2023-06-05T13:18:34-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Old-Fashioned Lemonade",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "490"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "151 kcal",
+          "carbohydrateContent": "45 g",
+          "fiberContent": "5 g",
+          "proteinContent": "1 g",
+          "sodiumContent": "3 mg",
+          "sugarContent": "33 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 lemons",
+          "1 cup white sugar",
+          "6 cups water, or more as needed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/j00SW3G6N7HILocdRqmvYkNr3yg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-20487-old-fashioned-lemonade-DDMFS-ingredients-0576661396bc40b6a868a7948b98596c.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/HMdYDfMTY15Vlqi_p8uW-YRw8i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-20487-old-fashioned-lemonade-DDMFS-step1-73bd954069c145858f34567c88222d0f.jpg"
+              }
+            ],
+            "text": "Juice lemons; you should have 1 cup juice."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RMNfXsO0ARlnurkl9wsMBV4OX1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-20487-old-fashioned-lemonade-DDMFS-step3-674b165d6b3a40e09d1c724a53794587.jpg"
+              }
+            ],
+            "text": "Combine juice, sugar, and water in a 1/2-gallon pitcher. Stir until sugar dissolves. Taste and add more water if desired."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/JjkIeMWbjoAqcaz7UscVRwZMNk4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20487-old-fashioned-lemonade-ddmfs-1x1-1-86f64ae40f3949ca855c283c519c9b38.jpg"
+              }
+            ],
+            "text": "Chill and serve over ice."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Butterfly Flutterby"
+            },
+            "reviewBody": "Awesome. When I have time I boil a couple of the cups of water together with the sugar. It dissolves the sugar for no grainy taste. I bought a Krups juicer just to make lemonade. Makes this a breeze. Thanks :)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jay Davis"
+            },
+            "reviewBody": "I did a half batch of this for a nice drink with a lunch at home and it was glorious. I hand squeezed the lemons with a simple juicer, running them in the microwave for thirty seconds (making sure to turn them occasionally) and squeezing lightly before cutting them to juice them. I also boiled one cup of the water to dissolve the sugar into. (Since I was halving it, it was a half cup of sugar into one cup of water. I'd suggest anyone else doing this to dissolve the sugar in twice as much water, so one cup of sugar in two cups, etc.) Used ice cubes to chill the lemonade. Maybe it was a little strong as I didn't measure the resulting juice, so maybe I had some exceptionally juicy lemons, but I liked it.",
+            "datePublished": "2021-01-14T11:13:55.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Henry"
+            },
+            "reviewBody": "A simple and delicious recipe. Good advice to roll the lemons on the counter. I followed advice from a previous reviewer and boiled the sugar in one cup of water in the microwave to eliminate grittiness. I put the pulp from the lemons into the pitcher. Only needed 4 lemons to get one cup of juice but used 5 for extra flavour. I sliced up the sixth one and put slices on a wooden skewer in the pitcher. Thank you for this recipe.",
+            "datePublished": "2018-07-29T23:44:48.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jon"
+            },
+            "reviewBody": "There is a HUGE step missing from this recipe. If you want great lemonade, you need to thinly peel or zest your lemons and macerate them with the sugar. Make a simple syrup with the sugar and peels. Strain, if you want. Then add the juice and water. Bam! Real lemonade. There will be a TON more lemon flavor.",
+            "datePublished": "2024-08-29T07:33:45.869Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cookincutie"
+            },
+            "reviewBody": "It's Good! Microwaved six large lemons for 30 seconds. Perfect, they almost juiced themselves :-). Six cups cold purified water, 1/2 c Florida Crystals Cane Sugar which I added water and microwaved for 30 seconds for syrup. Perfect, again. Mixed together and poured over ice (I couldn't wait for the chill) and I love it; so does my fam. Another keeper. Reminds me of my Mom's lemonade. Not too tart, not too sweet. Thanks for the recipe.",
+            "datePublished": "2018-06-26T20:30:08.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Keith Worrell"
+            },
+            "reviewBody": "As others have said, you must combine the sugar and water first, bring to a boil. Also, replace as much of your water with an equal amount of ice to cool the syrup. This gives the lemonade a smooth candy-like feel to it. In my humble opinion it isn't \"old fashioned\" lemonade if those steps are skipped.\n\nBonus, add two tablespoons of vanilla extract as soon as you remove the syrup from the heat.",
+            "datePublished": "2016-10-21T22:20:33.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LushChai8184"
+            },
+            "reviewBody": "6 large lemons or 10 small lemons, we used 8 and it still was not a cup. I think 10 is best, if you are using small lemons",
+            "datePublished": "2023-11-01T15:56:27.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Resistor Rob"
+            },
+            "reviewBody": "Some people say too strong, weak, sweet, or sour. One problem you may be having is going by lemons instead of juice. Do 1 cup on lemon juice which is more accurate than 6 lemons since they do vary.\n\nIf you don't like the way it tastes you can always easily adjust it. To me this base recipe was perfect and I loved it. I had 2 extra lines in the refrigerator so I added those in as well. \n\nI have tried the popular \"State Fair Lemonade\" which is supposedly the best, but I liked this better and was less work and faster!",
+            "datePublished": "2021-05-10T19:46:41.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin from Denver"
+            },
+            "reviewBody": "This recipe makes lemonade that is way too sweet. I reduced the sugar to 1/2 cup and it's now delicious. I went with the recommended lemon juice amount of 1 cup but I think next time I'll add a little more for more oomph.",
+            "datePublished": "2023-02-07T12:20:51.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shenoa"
+            },
+            "reviewBody": "I've made this twice, and just as good each time. I used larger lemons so 5 made a little over a full cup. This time I put it over crushed iced and enjoyed like a slushy. Delicious 😋",
+            "datePublished": "2025-07-27T20:31:01.504Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Earl Penton"
+            },
+            "reviewBody": "Grated lemon zest and added to Lemonade as well as pulp from lemon’s GREAT Ol Time SOUTHERN LEMONADE",
+            "datePublished": "2024-05-28T16:16:50.772Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Uk"
+            },
+            "reviewBody": "Very good",
+            "datePublished": "2026-07-20T21:38:42.588Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrsgarvey"
+            },
+            "reviewBody": "It was ok but forgot to tell people to dilute the sugar and water to make a simple syrup before adding the other 6 cups of water. No grainy lemonade then",
+            "datePublished": "2026-07-19T21:15:59.488Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debra"
+            },
+            "reviewBody": "Takes 10 lemons to make one cup and I added extra sugar.",
+            "datePublished": "2026-07-19T14:08:30.878Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William"
+            },
+            "reviewBody": "We sold this lemonade in our neighborhood.",
+            "datePublished": "2026-07-06T18:52:08.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mac"
+            },
+            "reviewBody": "Quick, easy, and refreshing!",
+            "datePublished": "2026-05-28T15:07:40.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Madeleine"
+            },
+            "reviewBody": "It was perfect not too sweet and over all is your classic lemonade .",
+            "datePublished": "2026-05-06T21:48:10.542Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeff"
+            },
+            "reviewBody": "Super easy.",
+            "datePublished": "2026-05-03T18:05:36.595Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "waver"
+            },
+            "reviewBody": "Simple and delicious! I decided it down to make one cup. 1 lemon, 2 Tbsp sugar, 1 cup water.",
+            "datePublished": "2026-02-14T20:41:53.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cass"
+            },
+            "reviewBody": "Really easy to make and tastes good",
+            "datePublished": "2026-01-05T01:38:31.502Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20487/old-fashioned-lemonade/",
+          "name": "Old-Fashioned Lemonade",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2817/drinks/lemonade/",
+                  "name": "Lemonade Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

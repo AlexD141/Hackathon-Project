@@ -1,0 +1,471 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17117/divine-spaghetti-sauce/",
+  "extracted_at": "2026-10-18T02:24:43.301375+00:00",
+  "recipes": [
+    {
+      "name": "Divine Spaghetti Sauce",
+      "ingredients_raw": [
+        "1 pound lean ground beef",
+        "2 (28 ounce) cans whole peeled tomatoes",
+        "2 (6 ounce) cans tomato paste",
+        "1 large onion, chopped",
+        "4 stalks celery, chopped",
+        "2 green bell peppers, chopped",
+        "1 red bell pepper, chopped",
+        "15 fresh mushrooms, sliced",
+        "5 tablespoons Italian seasoning",
+        "1 teaspoon dried red pepper flakes",
+        "4 bay leaves",
+        "2 tablespoons chopped fresh basil",
+        "3 cloves garlic, minced",
+        "1 pound spaghetti"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Brown beef in a large skillet over medium heat until no longer pink; cut up any remaining chunks of beef and reserve."
+        },
+        {
+          "id": 2,
+          "text": "Combine whole tomatoes and paste in a large saucepan; mash until smooth. Cover and heat on low."
+        },
+        {
+          "id": 3,
+          "text": "Quickly sear onion and celery in a large skillet over medium heat until transparent; add to the tomato sauce in the saucepan. Sauté bell peppers and mushrooms in the same skillet for a few minutes, but do not allow them to become soft; add to tomato sauce."
+        },
+        {
+          "id": 4,
+          "text": "Add Italian seasoning, dried red pepper flakes, bay leaves, basil, and garlic to tomato sauce; add beef and mix. Remove cover, simmer over low heat and continue to simmer all day, stirring occasionally."
+        },
+        {
+          "id": 5,
+          "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+          "id": 6,
+          "text": "Add sauce to pasta; serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Divine Spaghetti Sauce",
+        "datePublished": "2000-02-14T13:15:14-05:00",
+        "dateModified": "2022-11-30T13:07:19-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lana"
+          }
+        ],
+        "description": "An all-day spaghetti sauce. This long-simmered goodness is made with ground beef, tomatoes, mushrooms, onions, garlic, and more. Serve with pasta.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/UzaYUhYCSAYvovYHmIa0LmU7ul0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3395461-3c2932f6a8bf44548e853e3af7ba1400.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Divine Spaghetti Sauce",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "147"
+        },
+        "cookTime": "PT360M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "535 kcal",
+          "carbohydrateContent": "76 g",
+          "cholesterolContent": "49 mg",
+          "fiberContent": "10 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "774 mg",
+          "sugarContent": "17 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeIngredient": [
+          "1 pound lean ground beef",
+          "2 (28 ounce) cans whole peeled tomatoes",
+          "2 (6 ounce) cans tomato paste",
+          "1 large onion, chopped",
+          "4 stalks celery, chopped",
+          "2 green bell peppers, chopped",
+          "1 red bell pepper, chopped",
+          "15 fresh mushrooms, sliced",
+          "5 tablespoons Italian seasoning",
+          "1 teaspoon dried red pepper flakes",
+          "4 bay leaves",
+          "2 tablespoons chopped fresh basil",
+          "3 cloves garlic, minced",
+          "1 pound spaghetti"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Brown beef in a large skillet over medium heat until no longer pink; cut up any remaining chunks of beef and reserve."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine whole tomatoes and paste in a large saucepan; mash until smooth. Cover and heat on low."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Quickly sear onion and celery in a large skillet over medium heat until transparent; add to the tomato sauce in the saucepan. Sauté bell peppers and mushrooms in the same skillet for a few minutes, but do not allow them to become soft; add to tomato sauce."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add Italian seasoning, dried red pepper flakes, bay leaves, basil, and garlic to tomato sauce; add beef and mix. Remove cover, simmer over low heat and continue to simmer all day, stirring occasionally."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add sauce to pasta; serve."
+          }
+        ],
+        "recipeYield": "7",
+        "totalTime": "PT390M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MARSHMALO"
+            },
+            "reviewBody": "Delicious! The best spaghetti sauce I've ever had. I made these changes like a lot of others:\n--Put tomato paste and tomatoes in a blender and puree instead of mashing them\n--Only 2 tbsp of Italian seasoning\n--Add 1/2 cup of red wine\n--A little less red pepper--depends on your taste\n--Add 2 tbsp of brown sugar. It helps to negate the acidic bite of the tomatoes and lets the other flavors come through\n\nI only had time to let it simmer for 2 hours and it was still amazing!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ntoosh"
+            },
+            "reviewBody": "I have 2 grandsons 13 &amp; 14, so we all know their tastes. They almost licked their bowls..I guess that's validation enough that Papa makes pretty good sauce. Only changes I made was I added 1/2 cup Malbec wine for taste and used the immersion blender 4-5 hours in to break up the bigger pieces.",
+            "datePublished": "2016-03-20T17:46:03.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dibasioRN"
+            },
+            "reviewBody": "I didn't make it a written. Here's why: oregano has to be used very carefully and sparingly, because it turns bitter when used in excess or cooked too long. So 5 TB of \"Italian seasoning\" mix is not a good idea. Use 1-2 bay leaves (1 if large), not 4. And, for this amount of sauce, 2 tsp dried basil, 1/2 tsp oregano, 1/2 tsp fennel seeds (crushed) to provide that \"sweet Italian sausage\" flavor: you'll have a nice not overly spiced sauce. Also - bell peppers (which take over the flavor 90%) don't belong in Italian Red Sauce, while celery is rather iffy and really doesn't add to anything. I leave both out. Mushrooms can be good, but definitely not bell peppers or that much celery.",
+            "datePublished": "2024-01-15T16:52:45.554Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Navy_Mommy"
+            },
+            "reviewBody": "Good sauce. I like the flavor the vegetables add to the sauce and cooking all day is the key. To save time and pans I cooked my beef then added it to the totatoes and tomato paste in the crock pot. I then used the same pan to cook my vegetables. I put the fresh basil and some fresh oregano in just before serving.",
+            "datePublished": "2006-07-15T17:28:41.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NINABEAN1"
+            },
+            "reviewBody": "This is very good as written but I also made a meatless sauce by skipping ground beef, adding three beef bouillon cubes and a bag of carrots which I peeled and diced. It was equally good and I'd make it both ways again. Also I cooked it all day in the crock-pot. No time to simmer for hours and hours in my life.",
+            "datePublished": "2014-01-16T08:15:48.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was the best spaghetti sauce I've ever made! I dont like my sauce chunky, so I minced the onions and celery in my food processor before sauteeing them. After they were cooked, I put them back into the processor...along with the tomatoes and tomato paste and processed until it was smooth, but thick. Then I just put it and the rest of the ingredients in my crock pot and and let it simmer all day. I added meatballs the last 3 hours of cooking. The whole family loved it! Thanks for sharing:)",
+            "datePublished": "2002-11-16T05:52:02.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alexsmom"
+            },
+            "reviewBody": "I just tasted after about 5 hours of cooking in a slow cooker, and OH, is that some good sauce. \n\nI did make a few changes. I used ground turkey breast instead of beef. I used one 28oz can of diced tomatoes, Italian style, one 28oz can of tomato sauce, and only one can of paste. I also used one green pepper, eliminated the celery, all my herbs were dry (used 2tbsps italian seas, 3/4 tbsp basil, a dash of red pepper, a little salt and ground pepper, a tbsp sugar, and 2 dry bay leaves). Fresh would have been better, I just didn't have fresh. \n\nThis is a great base sauce, you can add or subtract the seasonings to your taste. I Love it!",
+            "datePublished": "2007-01-06T14:28:58.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nomoojuiceforme"
+            },
+            "reviewBody": "I use all fresh herbs instead of italian seasoning (so couple sprigs rosemary, handfuls of marjoram, oregano, basil) and sometimes add an italian sausage (we like spicy). Also add about 1/2 cup red wine if we have it. I find that if i simmer it longer than 3 hours the basil gets a little too overpowering (one of few herbs to increase flavor as it cooks) so i either cut down the cooking time or add part way through. This is a good base recipe- I just add in whatever I have that looks good so like all my other recipes i never quite make it the same twice- always tastes good on those cooler days though. (although i don't understand the multiple pans- i just cook it in one)",
+            "datePublished": "2007-05-02T15:29:08.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JMURTHA"
+            },
+            "reviewBody": "Very good. I followed advise from others and only used one green pepper instead of 2. I used half ground beef, half italian sausage. Threw about three tablespoons sundried tomatoes too and a clove or two more garlic and 2 tablespoons sugar. Put in slow cooker 6 hours on high. Very good, this one is a keeper! Thank you!",
+            "datePublished": "2005-10-09T20:19:04.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Luv2cook"
+            },
+            "reviewBody": "I really loved this recipe. My son loved it and so did my hubby. It was terrific and really easy! My only changes (after reading other reviews) I didn't do all the steps. I just cooked the ground beef, onion, celery, etc. Just made it a one pot deal. I used really lean ground beef so there was no need to drain. I didn't have time to cook it for 6 hours, but it was fantastic just the way it was after 3 hours. Besides I don't like my ground beef cook to a mealy consistancy anyway. I didn't change the seasonings at all. I love bay and I love my sauce to taste like something other than tomato. I did add a tablespoon of sugar, because I like my sauce to have a 'balanced' flavor. I was surprised the recipe didn't call for salt or pepper. I didn't add it and it didn't need it. Happy cooking! Laura Behrendt",
+            "datePublished": "2007-03-05T06:00:14.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "soops"
+            },
+            "reviewBody": "This was my first attempt at making any dish from this site. My first mistake was that I did not read the reviews beforehand. So after the overview I came to a conclusion that I would follow some advice and tweak the dish a little bit. I added brown sugar, 2 (8oz) cans of tomato paste, and used meatballs instead of just brown meat chuinks. Turned out great, nice and chunky. I would make this again, but next time less italian seasoning and less pepper, or perhaps puree some ingredients to give it a nice saucy and chunky combo.",
+            "datePublished": "2006-05-16T19:23:21.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "APPLEZ"
+            },
+            "reviewBody": "Several times. 3 times a year lol",
+            "datePublished": "2020-06-26T11:08:01.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "'Berta"
+            },
+            "reviewBody": "I so hoped this was THE recipe I've been looking for, what with all those good veggies, spices and cooked all day, but it just wasn't. Had a rather \"bitter\" taste; thought it was the bite of the tomatoes, so added 1 T. of brown sugar as some reviewers suggested, but it didn't change much. Hoping the re-warm tonight will mellow out the flavor...otherwise I probably won't make it again.",
+            "datePublished": "2016-10-09T23:16:45.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MM BOWSER"
+            },
+            "reviewBody": "I made it, ate it and enjoyed it . Added the brown sugar, used one onion and one orange pepper. The window was open you could smell it outside. I will make this my go to sauce. Be Blessed",
+            "datePublished": "2015-09-19T16:33:30.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie W"
+            },
+            "reviewBody": "Definitely use the blender to puree.",
+            "datePublished": "2012-09-05T14:20:16.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "soupisgoodfood33"
+            },
+            "reviewBody": "I didnt add the bay leaf since I didnt have it. Solid recipe just needs something.",
+            "datePublished": "2012-07-18T05:35:25.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "katiegoltz"
+            },
+            "reviewBody": "SO GOOD! This made enough sauce for 5 dinners (with leftovers) for my husband and I! Definitely worth one day of cooking.",
+            "datePublished": "2012-05-11T13:19:21.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "beezerbrit"
+            },
+            "reviewBody": "This was definitely better the second day, but not great ever. I think the problem with it is that it relied too heavily on seasonings, whereas the recipe I usually make uses a lot more vegetables and has more natural flavor.",
+            "datePublished": "2012-05-06T12:54:26.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "corkylatour"
+            },
+            "reviewBody": "It's a nice base to start..I like being creative by adding spices",
+            "datePublished": "2012-03-06T07:13:32.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ShelbyT"
+            },
+            "reviewBody": "The celery in this was way too overpowering. It was really all I could taste! It really only needs 1 if any stalks of celery. Minus the celery though, it would have been quite good.",
+            "datePublished": "2011-11-04T17:11:56.887Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17117/divine-spaghetti-sauce/",
+          "name": "Divine Spaghetti Sauce",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                  "name": "Sauces"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/",
+                  "name": "Pasta Sauces"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/565/side-dish/sauces-and-condiments/sauces/pasta-sauces/meat-sauce/",
+                  "name": "Meat Sauce"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

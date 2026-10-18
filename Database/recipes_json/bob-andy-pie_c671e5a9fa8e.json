@@ -1,0 +1,314 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12215/bob-andy-pie/",
+  "extracted_at": "2026-10-18T01:48:44.785478+00:00",
+  "recipes": [
+    {
+      "name": "Bob Andy Pie",
+      "ingredients_raw": [
+        "1 cup white sugar",
+        "1 cup packed brown sugar",
+        "2 tablespoons all-purpose flour",
+        "0.5 teaspoon ground cinnamon",
+        "0.25 teaspoon ground cloves",
+        "0.25 teaspoon salt",
+        "3 eggs",
+        "1 egg yolk",
+        "2 cups milk",
+        "2 tablespoons unsalted butter",
+        "1.5 teaspoons vanilla extract",
+        "1 recipe pastry for a 9 inch single crust pie"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine the sugars, flour, cinnamon, cloves, and salt in a bowl. Add the eggs and yolk one at a time, and mix well. Stir in the milk, melted butter, and vanilla. Pour filling into the shell."
+        },
+        {
+          "id": 2,
+          "text": "Bake at 350 degrees F (175 degrees C) for 40 to 45 minutes. When the side of the pan is tapped, the center should still wobble like gelatin. Cool on a rack."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Bob Andy Pie",
+        "datePublished": "1998-06-24T09:38:26-04:00",
+        "dateModified": "2022-07-14T17:09:01-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kevin Ryan"
+          }
+        ],
+        "description": "This really wonderful sweet custard pie has lots of eggs, milk, cinnamon, cloves and sugar. It bakes up and slices beautifully. Serve plain or with a bowl of sliced strawberries and whipped cream.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/46y2r5Qc2ypvYKbu0sP9M_Mlmc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7260145-0b42e68982584794a3ea7ed3d84bfeb8.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bob Andy Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "13"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "414 kcal",
+          "carbohydrateContent": "67 g",
+          "cholesterolContent": "108 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "250 mg",
+          "sugarContent": "55 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "1 cup white sugar",
+          "1 cup packed brown sugar",
+          "2 tablespoons all-purpose flour",
+          "0.5 teaspoon ground cinnamon",
+          "0.25 teaspoon ground cloves",
+          "0.25 teaspoon salt",
+          "3 eggs",
+          "1 egg yolk",
+          "2 cups milk",
+          "2 tablespoons unsalted butter",
+          "1.5 teaspoons vanilla extract",
+          "1 recipe pastry for a 9 inch single crust pie"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine the sugars, flour, cinnamon, cloves, and salt in a bowl. Add the eggs and yolk one at a time, and mix well. Stir in the milk, melted butter, and vanilla. Pour filling into the shell."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake at 350 degrees F (175 degrees C) for 40 to 45 minutes. When the side of the pan is tapped, the center should still wobble like gelatin. Cool on a rack."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "9 - inch pie"
+        ],
+        "totalTime": "PT0M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LovesCheese"
+            },
+            "reviewBody": "I had a hard time with this pie - I baked it longer and it still didn't quite set up in the middle, but we ate the edges and it was delicious . . . I also used a too-small crust and had extra filling, which I poured into a couple of muffin cups and baked 25 minutes or so. When inverted onto serving plates and drizzled with the syrup left in the cups, they looked fancy and tasted really good!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "texmax"
+            },
+            "reviewBody": "Great pie like my grandmother made. I cut brown sugar to 1/2 cup and used 3 whole farm eggs plus a dash of nutmeg. Preheat pie crust, and dusted sugar on top after filling crust to get pie like her's. You really need to use pie crust guards (or foil) to keep from over browning as this pie should not jiggle in the center when done.",
+            "datePublished": "2024-01-15T17:15:23.835Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fxlicia Joy"
+            },
+            "reviewBody": "I have made this recipe several times. I have found the trick to making it successful. I always bake longer. And preheat is important. Also. It is important to add the ingredients in order. And when adding the liquids/ eggs. Make sure to really blend them in well. And only one at a time. That is how the top crust is formed. And the melted butter I never add in hot. Happy baking ??",
+            "datePublished": "2020-10-23T21:38:55.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thermal Glen"
+            },
+            "reviewBody": "The posted recipe is for TWO PIES which may be why some had trouble with the filling not setting up. Halve the ingredients as near as possible if you prefer a single pie.",
+            "datePublished": "2020-02-17T16:45:25.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Dando"
+            },
+            "reviewBody": "I used a hand mixer to mix only mixing a few seconds at a time\nCooked for 55 min and came out awesome will definitely make again easy recipe",
+            "datePublished": "2020-12-14T00:28:16.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "momo"
+            },
+            "reviewBody": "This resipe for this pie has more sugar than my recipe,( mine uses 1 1/2 c.) that could equate not setting up tight. Also, it is SUPPOSED to have a cusrt type film on top! May recipe used 4 whole and over filled mt 10\" pie pan, but not to worry, custard cups to the rescue!! Had 2 lovely 6 oz. crustless custards when it was all said and done! I will definitely make this again!",
+            "datePublished": "2014-03-16T09:41:40.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bevvers"
+            },
+            "reviewBody": "I’ve made this pie in the past and still get requests for it. It’s fast and easy to throw together, so I keep the recipe handy. It really is so good!",
+            "datePublished": "2022-10-03T23:26:08.422Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pameladmoore1"
+            },
+            "reviewBody": "Good flavor and smooth texture, but way too sweet for my tastes.",
+            "datePublished": "2020-07-21T20:32:17.870Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thom"
+            },
+            "reviewBody": "The pie was good tasting but something was wrong with the recipe ingredients . The pie would not set up after it cooled. I placed it in the fridge over night and it didn't help. Should i use more flour?. I am brand new at cooking so i could use some help. Thanks, Tom",
+            "datePublished": "2012-01-27T08:18:33.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CALIFORNIADREAMIN"
+            },
+            "reviewBody": "There was a little too much filling for my 9 inch pie plate- I spilled some on the way to the oven. I baked it for 45 minutes but it never set up until I refrigerated it- which should not be necessary. But the taste was delicious and I had all the ingredients on hand. If I hadn't had the problems mentioned above, this would have been 4 stars, maybe 5.",
+            "datePublished": "2007-01-22T04:23:57.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sacha"
+            },
+            "reviewBody": "This pie was amazing! I got a little carried away with mixing the filling and ended up having a crusty sugar froth on top, but it was easily peeled off as it cooled. Next time I'll be more careful with my mixing.",
+            "datePublished": "2006-11-26T02:51:07.403Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12215/bob-andy-pie/",
+          "name": "Bob Andy Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

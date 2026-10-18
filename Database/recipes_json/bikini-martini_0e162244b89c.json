@@ -1,0 +1,407 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20427/bikini-martini/",
+  "extracted_at": "2026-10-18T02:44:58.494762+00:00",
+  "recipes": [
+    {
+      "name": "Bikini Martini",
+      "ingredients_raw": [
+        "1 fluid ounce coconut rum",
+        "0.75 fluid ounce vodka",
+        "1 fluid ounce pineapple juice",
+        "1 dash grenadine syrup"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine rum, vodka and pineapple juice in a drink shaker. Shake firmly until frothy. Pour in a martini glass, add a touch of grenadine in the middle. Garnish with an orange wheel."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Bikini Martini",
+        "datePublished": "2000-07-18T19:12:55-04:00",
+        "dateModified": "2026-04-16T10:12:46-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Justyna"
+          }
+        ],
+        "description": "Take one swimming pool, add coconut rum, vodka, pineapple juice and grenadine.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/nXMRixdF-WQu_SPU0GZhx163w10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4531705-64a1178ed6bd436b8b4e0e3c130abb65.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bikini Martini",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "261"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 fluid ounce coconut rum",
+          "0.75 fluid ounce vodka",
+          "1 fluid ounce pineapple juice",
+          "1 dash grenadine syrup"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine rum, vodka and pineapple juice in a drink shaker. Shake firmly until frothy. Pour in a martini glass, add a touch of grenadine in the middle. Garnish with an orange wheel."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 cocktail"
+        ],
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "A great drink- I double the pineapple juice so it isn't too strong"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Craig Patchett"
+            },
+            "reviewBody": "This recipe just begs to be tweaked! I bumped up the pineapple juice to 1 1/4 oz, added 1/4 oz lime juice to counter the sweetness, and bumped the grenadine (using real grenadine) to 1/8 oz to emphasize the color. Next time I’ll probably increase the rum and decrease the vodka. BTW, this drink (and the bathing suit) is named for Bikini Atoll, where the U.S. conducted the first peacetime atomic bomb tests. For that reason I added a cocktail cherry to the bottom of the glass!",
+            "datePublished": "2023-01-14T20:14:42.058Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alyssa Fallert"
+            },
+            "reviewBody": "Great drink! We make them by the pitcher for parties and just to make it easy mix equal portions of Malibu, vodka and pineapple juice and then let guests determine how much grenadine they want to add.",
+            "datePublished": "2014-05-16T08:51:11.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CLEAP"
+            },
+            "reviewBody": "One of my favorite drinks. I've used Captain Morgans, which is not a coconut rum, and it still turns out great. Sometimes I just make it over ice when I don't feel like dealing with a shaker.",
+            "datePublished": "2008-08-04T18:23:37.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cuisine_queen"
+            },
+            "reviewBody": "Had to improvise. Used cherry vodka and mango coconut rum. The result was DELICIOUS!! My guests loved it!!",
+            "datePublished": "2014-06-11T19:32:01.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mario B"
+            },
+            "reviewBody": "It’s a summertime favorite at our house. We double the pineapple juice, though.",
+            "datePublished": "2025-07-19T19:57:22.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pierce Faith"
+            },
+            "reviewBody": "When you're a bachelor and your backyard is full of beautiful woman in bikinis...you wake up and mix this to cool yourself off!! Try Dole Pineapple/Mango juice !!! The mango relaxes the acidity of just pure pineapple juice.",
+            "datePublished": "2025-02-22T23:08:35.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "x-nmac"
+            },
+            "reviewBody": "This was ok. I think it's just my tastes, honestly. I guess I'm not a huge fan of the pineapple/grenadine combo. The second time I added some simple syrup and tonic water to dilute the pineapple (and make it less strong.) I left out the grenadine and liked it better.",
+            "datePublished": "2018-10-06T17:01:37.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gfgayle"
+            },
+            "reviewBody": "I lessened the amount of vodka and increased the rum.",
+            "datePublished": "2024-06-26T20:44:00.115Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DIXLYN"
+            },
+            "reviewBody": "I really liked this drink. I didn't have any grenadine but I'm sure I would like it that way too. We ran out of pineapple juice and so we tried it with orange juice. It worked well that way too. I added quite a bit of ice to the martini shaker and then strained it out. It made the drink nice and chilled. Everyone was impressed.",
+            "datePublished": "2010-12-06T13:35:45.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sherri mc"
+            },
+            "reviewBody": "Awesome tropical beverage for a Caribbean-themed wedding rehearsal dinner! I used the calculator to adjust for 50 servings and poured these from a pitcher garnished with fruit slices. Mai tai umbrellas were the perfect touch. Will make again for son-in-law's May college graduation reception, though will use a punch bowl with a pretty ice ring. Cheers!",
+            "datePublished": "2008-12-28T18:28:48.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TanyaO"
+            },
+            "reviewBody": "I love this as my evening wind down drink! I added cherries to mine, I think you can spruce it up with whatever you want, or even change the juice. I do double up on the pineapple juice though. Every sip takes me back to the Caribbean!",
+            "datePublished": "2025-10-16T15:13:34.666Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Della Ella Ola"
+            },
+            "reviewBody": "It's definitely a martini. Be prepared for a strong taste",
+            "datePublished": "2023-07-22T20:36:19.974Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lv2cook4"
+            },
+            "reviewBody": "Good and easy to make! Perfect summer drink!",
+            "datePublished": "2021-08-28T00:18:58.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim Odum"
+            },
+            "reviewBody": "Very good, ready to go poolside.",
+            "datePublished": "2020-07-01T20:32:05.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "S-Marie"
+            },
+            "reviewBody": "It was very good!!!",
+            "datePublished": "2020-05-29T22:07:52.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natalie Connolly"
+            },
+            "reviewBody": "This will definitely be made again and was really good. It reminds me of Mexico and being on a tropical beach. Without the price tag.",
+            "datePublished": "2020-04-28T03:46:33.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason Cheatham"
+            },
+            "reviewBody": "Sweet but strong",
+            "datePublished": "2019-07-11T20:59:03.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandy1016"
+            },
+            "reviewBody": "Very refreshing on a sweltering Florida summer day!",
+            "datePublished": "2019-06-08T19:51:41.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brew Master"
+            },
+            "reviewBody": "Made it twice for the wife. She approves so five for ya bud.",
+            "datePublished": "2018-08-05T00:09:56.163Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20427/bikini-martini/",
+          "name": "Bikini Martini",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14932/drinks/cocktails/martinis/",
+                  "name": "Martini Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

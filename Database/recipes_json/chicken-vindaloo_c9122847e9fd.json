@@ -1,0 +1,511 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217333/chicken-vindaloo/",
+  "extracted_at": "2026-10-18T03:02:34.002316+00:00",
+  "recipes": [
+    {
+      "name": "Chicken Vindaloo",
+      "ingredients_raw": [
+        "1 teaspoon ground turmeric",
+        "0.5 teaspoon ground cardamom",
+        "0.5 tablespoon ground cinnamon",
+        "0.5 teaspoon ground coriander",
+        "0.5 teaspoon ground cloves",
+        "0.5 teaspoon ground cumin",
+        "0.5 teaspoon paprika",
+        "0.25 teaspoon cayenne pepper, or to taste",
+        "2 cups chopped onion",
+        "1 tablespoon olive oil",
+        "3 cloves garlic, minced",
+        "1 tablespoon grated fresh ginger root",
+        "1 tablespoon tomato paste",
+        "1 pound skinless, boneless chicken thighs, cut into 1 1/2-inch pieces",
+        "2 large potatoes, cut into 1/2-inch cubes",
+        "2 (14.5 ounce) cans diced tomatoes, drained",
+        "1.5 cups chicken broth",
+        "2 tablespoons wine vinegar",
+        "1 bay leaf",
+        "salt and black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Toast turmeric, cardamom, cinnamon, coriander, cloves, cumin, paprika, and cayenne pepper in a Dutch oven or large pot over medium-low heat until fragrant, about 2 minutes. Stir spices constantly as they toast to ensure they do not burn."
+        },
+        {
+          "id": 3,
+          "text": "Stir in onion, olive oil, garlic, and ginger. Increase heat to medium; cook and stir until onion is softened, about 5 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in tomato paste until no lumps of paste remain. Add chicken, potatoes, tomatoes, broth, wine vinegar, and bay leaf."
+        },
+        {
+          "id": 5,
+          "text": "Bring to a boil, then reduce heat to medium-low. Cover and simmer until potatoes are tender and chicken is no longer pink in the center, about 15 minutes. Uncover and continue cooking until sauce thickens slightly, about 5 minutes more. Season with salt, black pepper, and additional cayenne pepper."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chicken Vindaloo",
+        "datePublished": "2019-04-02T02:54:59-04:00",
+        "dateModified": "2025-03-14T10:23:50-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Keith Dallmer"
+          }
+        ],
+        "description": "This chicken vindaloo is an Indian potato and meat dish flavored with toasted spices like coriander, cloves, cumin, cinnamon, cardamom, and turmeric.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/YvnvNgbqmki73HUnJoT-I5p3yro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-217333-Chicken-Vindaloo-gw-ddmfs-beauty-4x3-4db4f26ab89a48e7ab36feb116a46ec4.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken Vindaloo",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "55"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "417 kcal",
+          "carbohydrateContent": "50 g",
+          "cholesterolContent": "70 mg",
+          "fiberContent": "8 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "785 mg",
+          "sugarContent": "11 g",
+          "fatContent": "12 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Indian"
+        ],
+        "recipeIngredient": [
+          "1 teaspoon ground turmeric",
+          "0.5 teaspoon ground cardamom",
+          "0.5 tablespoon ground cinnamon",
+          "0.5 teaspoon ground coriander",
+          "0.5 teaspoon ground cloves",
+          "0.5 teaspoon ground cumin",
+          "0.5 teaspoon paprika",
+          "0.25 teaspoon cayenne pepper, or to taste",
+          "2 cups chopped onion",
+          "1 tablespoon olive oil",
+          "3 cloves garlic, minced",
+          "1 tablespoon grated fresh ginger root",
+          "1 tablespoon tomato paste",
+          "1 pound skinless, boneless chicken thighs, cut into 1 1/2-inch pieces",
+          "2 large potatoes, cut into 1/2-inch cubes",
+          "2 (14.5 ounce) cans diced tomatoes, drained",
+          "1.5 cups chicken broth",
+          "2 tablespoons wine vinegar",
+          "1 bay leaf",
+          "salt and black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/BfrJfQa6_IzxYHUxyMyslhlm4Ks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-217333-Chicken-Vindaloo-gw-ddmfs-4x3-step-01-f7d6cfea0d884e08a2abe7ed39f3a726.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/1-_KL7wEgS3L5bcwD4nhC4-6YJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-217333-Chicken-Vindaloo-gw-ddmfs-4x3-step-02-9ad8c3fb08a9436dbb9de0f2cbd066e3.jpg"
+              }
+            ],
+            "text": "Toast turmeric, cardamom, cinnamon, coriander, cloves, cumin, paprika, and cayenne pepper in a Dutch oven or large pot over medium-low heat until fragrant, about 2 minutes. Stir spices constantly as they toast to ensure they do not burn."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/VNOM4OTZUo3UQLxIVGC35V7tXs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-217333-Chicken-Vindaloo-gw-ddmfs-4x3-step-03-8061370f08114548bd35e2d3c7ee1724.jpg"
+              }
+            ],
+            "text": "Stir in onion, olive oil, garlic, and ginger. Increase heat to medium; cook and stir until onion is softened, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lpjQe4lOom5wgXw4oxQm-Kw1P04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-217333-Chicken-Vindaloo-gw-ddmfs-4x3-step-05-01f273b49e084b8380f3a91d0c7e7e65.jpg"
+              }
+            ],
+            "text": "Stir in tomato paste until no lumps of paste remain. Add chicken, potatoes, tomatoes, broth, wine vinegar, and bay leaf."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/G9H7zGAUgTdgxLcGhqbVZXaa__4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-217333-Chicken-Vindaloo-gw-ddmfs-4x3-step-06-bead452214b2492b8649ca1861b99aa5.jpg"
+              }
+            ],
+            "text": "Bring to a boil, then reduce heat to medium-low. Cover and simmer until potatoes are tender and chicken is no longer pink in the center, about 15 minutes. Uncover and continue cooking until sauce thickens slightly, about 5 minutes more. Season with salt, black pepper, and additional cayenne pepper."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy"
+            },
+            "reviewBody": "This is a wonderful recipe - very easy to make and full of taste. Received rave reviews from my husband and kids. I left out the potatoes and served with whole wheat naan. Thank you so much for sharing."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Food Junkie"
+            },
+            "reviewBody": "It turned out beautifully. I made two adjustments to the recipe. In the final few minutes of cooking I added 3/4 cup of Heavy cream and thickened the sauce with 3 tablespoons of Flour. I also used unpeeled Yukon Gold, medium potatoes. Very robust flavors.",
+            "datePublished": "2019-10-28T13:57:15.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nirvana Jaganath"
+            },
+            "reviewBody": "My ancestors are crying. Olive oil has no place here. Cooking the garlic together with onions will burn the garlic. Adding the potatoes at the same time as raw chicken is a no no as it gives the potatoes a weird taste from the raw chicken. Also that 15 minutes of cooking will not cook the potatoes adequately.",
+            "datePublished": "2025-04-09T15:18:15.489Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FrackFamily5 CACT"
+            },
+            "reviewBody": "I haven't had Vindaloo before, so I don't have that frame of reference but I thought this was great. I had to make 2 changes - I used breast of chicken and I did not have Cardamom. Otherwise made as written. I think the issue with others' potatoes not softening is due to 2 things. 1- you have to cut them into small cubes and 2- the cook time says bring to a boil then simmer- well it took a while to bring to a boil and then simmered for 15 minutes sounds a bit short to me. I simmered for 10 more minutes. I served for dinner over rice and just by itself in a bowl for lunch the next day.",
+            "datePublished": "2014-06-16T19:04:10.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Greta MacLean"
+            },
+            "reviewBody": "I used a pre-made spice mix from Williams Sonoma (approx. 2tbsp), and champagne wine vinegar that I'd steeped Chinese peppers in for some kick. I also halve the broth with coconut milk, and throw in a bouillon cube for extra flavor. I typically use more onion and garlic, cooking it in oil til they are caramelized. This recipe works great in an Instant Pot. I pressure cook it for 15 minutes.",
+            "datePublished": "2018-10-31T00:52:29.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LAD"
+            },
+            "reviewBody": "I would give it 2.5 starts but that is not an option. I think this dish has potential but it just was not there. I agree with one reviewer that the dish has flaws. I took that person's advice and did not add the toasted spices so early in the process, but I don't know if that made a difference. But the chicken was finished well before the potatoes. In fact we gave up on them likely about 20 minutes after the chicken was done. One option would be to microwave the potatoes some first. \n\nHowever, to me even though we added all those spices I tasted mostly the cayenne pepper. My boyfriend on the other hand said the dish was bland. He suggested the dish would be better slow cooked so the spices can get into the chicken and the potatoes. So perhaps that would help. But as written I would never make it again. I love Indian food and with all the Indian spices I had high hopes though.",
+            "datePublished": "2012-01-28T18:02:33.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gene Van Lingen"
+            },
+            "reviewBody": "I added more chicken and used fresh Tomatoes. Instead of Tabasco, I added Piquin peppers and Glory of Gods: hot mix. Lastly, I added some yellow curry (2 bs), some raisins, and cinnamon (I stick) with a bit of brown sugar. I like some sweet with my Vindaloo.",
+            "datePublished": "2018-08-27T19:36:09.943Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bernie"
+            },
+            "reviewBody": "It was very good but I did double up on the coriander, cumin &amp; paprika, &amp; quadrupled the cayenne. I slow cooked it for about 4 hours &amp; served over rice. Added heat but still very enjoyable.",
+            "datePublished": "2015-12-27T16:11:24.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bobb"
+            },
+            "reviewBody": "My first Indian inspired recipe. I only used 1 can of diced tomatoes, 1/8 of the ceyenne and 1 large russett. I dont think I messed up the recipe because it was flavorful and went back for a bit of a 2nd helping. Made long grain rice to eat with the vindaloo. I will make this again because my picky husband said, 'hmm good babe\".",
+            "datePublished": "2019-03-09T03:07:29.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John C Falger"
+            },
+            "reviewBody": "Very simple &amp; flavorful. To be different, I used sweet potatoes and just 1/8tsp cayenne pepper.",
+            "datePublished": "2025-07-08T23:13:10.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janmauss"
+            },
+            "reviewBody": "Pretty good--made as written, but added more cumin, cayenne, and vinegar, plus went with the traditional pork diced 3/4-1\" as larger hunks are difficult to eat. I used pork tenderloin as it cooks faster than boneless pork loin. I'd never used potatoes in vindaloo before, but I liked that addition. As potatoes soak up spices, I'll increase all of the spices next time as the dish was on the mild side--not bland, just not enough heat. I'm still not happy about the amount of tomatoes--canned ones just don't dissolve into a curry gravy the way fresh ones do, nor will I add as much broth next time. Maybe canned crushed tomatoes instead of diced.",
+            "datePublished": "2025-04-09T16:22:59.635Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JazzyClove9650"
+            },
+            "reviewBody": "All the spices give it a wonderful flavor. Added in a little corn starch at the end to thicken the sauce.",
+            "datePublished": "2026-07-25T19:01:09.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HappyCress1150"
+            },
+            "reviewBody": "Followed recipe exactly except I used chicken breasts because I already had them in my freezer. It came out great.",
+            "datePublished": "2026-03-02T04:45:00.591Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GregJ1956"
+            },
+            "reviewBody": "This was so good. The flavor from all the spices worked so well. this is a keeper!",
+            "datePublished": "2025-05-17T14:40:06.026Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "Very easy to make. I like food with a little kick to it, but this almost had too much kick. I had left over the next day and mixed a couple tablespoons of sour cream in and it helped a lot.",
+            "datePublished": "2025-04-12T16:11:10.236Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "leelootz"
+            },
+            "reviewBody": "It was fine. I prefer more spices and tweaked it a bit. To the people who wrote unkind posts about it not being an authentic Vindaloo recipe, I wouldn't have expected it to be truly authentic. It's on a site that offers all kinds of all-purpose recipes and if I was looking for one that held true to a specific cuisine, like Indian or Mexican or the like, I would not look for it here. Adjust your expectations of this site.",
+            "datePublished": "2025-04-12T11:49:48.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gwyn"
+            },
+            "reviewBody": "I made as written but added a cornstarch slurry at the end to thicken up the broth.",
+            "datePublished": "2025-04-12T01:26:43.476Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NobleDough4841"
+            },
+            "reviewBody": "I didn’t have paprika, but, the recipe was wonderful without it. When I make it again, I’ll leave out the potatoes and might try sweet potatoes.",
+            "datePublished": "2025-04-10T01:59:29.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robert Harding"
+            },
+            "reviewBody": "Similar to a recipe I use, though I add one can of drained and rinse chickpeas. The chicken, potato, and chickpeas complement each other.",
+            "datePublished": "2025-04-10T00:37:24.545Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I doubled the cumin, coriander and paprika and halved the tomatoes. Very tasty.",
+            "datePublished": "2023-08-13T19:05:27.841Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217333/chicken-vindaloo/",
+          "name": "Chicken Vindaloo",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/233/world-cuisine/asian/indian/",
+                  "name": "Indian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

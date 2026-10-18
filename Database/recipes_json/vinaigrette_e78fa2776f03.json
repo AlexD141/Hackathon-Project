@@ -1,0 +1,402 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14381/vinaigrette/",
+  "extracted_at": "2026-10-18T01:59:42.978134+00:00",
+  "recipes": [
+    {
+      "name": "Vinaigrette",
+      "ingredients_raw": [
+        "0.5 cup red wine vinegar",
+        "0.5 cup vegetable oil",
+        "2 teaspoons white sugar",
+        "2 teaspoons salt",
+        "1 clove crushed garlic"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine vinegar, oil, sugar, salt, and garlic in a jar with a tight-fitting lid. Cover and shake until mixture is well combined."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Vinaigrette",
+        "datePublished": "1999-08-23T09:08:04-04:00",
+        "dateModified": "2026-08-18T13:26:40-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Karen Castle"
+          }
+        ],
+        "description": "This salad dressing recipe is made with a few basic ingredients shaken together in a tight-fitting lidded jar for a zippy, garlic-infused vinaigrette.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/JMzJVscI4YouGjAHEuncMXK6PG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/37359-7feffda01d434a47aeb41e7ebd7e5b60.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Vinaigrette",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "133"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "130 kcal",
+          "carbohydrateContent": "2 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "581 mg",
+          "sugarContent": "1 g",
+          "fatContent": "14 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Sauce"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup red wine vinegar",
+          "0.5 cup vegetable oil",
+          "2 teaspoons white sugar",
+          "2 teaspoons salt",
+          "1 clove crushed garlic"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine vinegar, oil, sugar, salt, and garlic in a jar with a tight-fitting lid. Cover and shake until mixture is well combined."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 cup"
+        ],
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "REA173"
+            },
+            "reviewBody": "Excellent!! My husband and I loved this dressing. The only change I made was to use 1 tsp. of salt instead of 2 which seemed too much. It was great. Will use this again and again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AndyM"
+            },
+            "reviewBody": "We've been making this for a couple of years now and never tire of it; it's so good! We call it our \"House Vinaigrette\". But definitely halve the salt! We also bump up the garlic.",
+            "datePublished": "2019-10-25T14:17:38.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ailina Willis"
+            },
+            "reviewBody": "Wow factor! I was in a bind for a vinaigrette and didn't have any balsamic vinegar. This recipe fit my needs. I used olive oil instead of vegetable oil. I halved the salt. I used 1 teaspoon of white sugar and 1.5 teaspoons of honey. Fantastic!",
+            "datePublished": "2017-09-04T15:38:02.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike"
+            },
+            "reviewBody": "Great recipe but way too much salt. Try 1/2 tsp as others have suggested.",
+            "datePublished": "2018-06-04T21:16:28.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Denise Dunk Liberti"
+            },
+            "reviewBody": "It's a great basic recipe that you can then customize with your own personal tastes. I omitted the sugar &amp; used about 1T. honey &amp; mustard, as well as adding 1 small onion &amp; a few fresh basil leaves &amp; put it all in the food processor! It was SO SO good. I'll be using this for all of my basic vinaigrette recipes &amp; taylor as the mood strikes.",
+            "datePublished": "2011-09-23T12:09:47.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cincygirl"
+            },
+            "reviewBody": "Simple and perfect! I substituted olive oil for the vegetable oil and honey for the white sugar. Mixed in the blender and it was creamy and delicious. I don't think I will buy bottled salad dressing again!",
+            "datePublished": "2010-07-12T17:26:22.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula Sabo Keiper"
+            },
+            "reviewBody": "Excellent Vinaigrette! The garlic really brings out the flavor. I cut the salt to 1 teaspoon - thought the sodium was too high. Great easy recipe!",
+            "datePublished": "2012-04-23T10:31:24.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DESERTBORN54"
+            },
+            "reviewBody": "Very good. I like a vinegar forward vinaigrette. I cut the salt in half. I think next time I'll only cut I by 1/4.",
+            "datePublished": "2020-04-23T02:43:03.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie Fotia Lurito"
+            },
+            "reviewBody": "I prepared this dressing exactly as it is written. It was WAY too salty. And I am someone who usually likes things a little on the salty side. I would definitely cut the amount of salt in half if I made it again.",
+            "datePublished": "2011-04-14T12:38:25.987Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Simple and delicious - a really easy and great tasting vinaigrette dressing! I used olive oil vs. vegetable oil and cut the salt down to 1/4 tsp. I also added some cracked black pepper. This was great over mixed greens topped with cucumbers, cherry tomatoes, and thin sliced red onion.",
+            "datePublished": "2010-04-20T18:36:14.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dfwelf"
+            },
+            "reviewBody": "Love it! I too used less salt but to be fair, I always use less salt the recipe calls for in ANY recipe. I made it without the sugar (I don't like sweet) and it was good as is but then I decided to add a little honey and I admit, it made it better. The vegetable oil is a good idea for a lighter taste. I like it a little heavier. I only had extra virgin olive oil on hand which is too heavy so I did half half veg oil and EVOO. In the end I added a squirt of stone ground mustard, fresh pepper and some dried onion. It was very good either way.",
+            "datePublished": "2014-08-26T17:14:38.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen"
+            },
+            "reviewBody": "I don’t expect this to be a hit with many others, but I love red wine vinegar! I used half of the oil (too many calories and I love tart flavors), all the vinegar and nothing else. It is a lot healthier than many dressings, and easy to make (as I have limited mobility). I use light olive oil or canola oil. I’m sure it would be great with vegetable oil too. Edit: I also love it exactly as written. My family prefers this (not surprisingly!) I give the original recipe and my simpler version both 5+ stars!!!",
+            "datePublished": "2025-03-01T05:40:59.638Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John McIlhenny"
+            },
+            "reviewBody": "I only used 1 tsp of salt and it was amazing. This will be my go to dressing. Highly recommended.",
+            "datePublished": "2021-06-27T04:43:40.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sandy"
+            },
+            "reviewBody": "Amazing!!",
+            "datePublished": "2019-01-08T22:32:01.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I had this over arugula that I topped with pan-seared scallops. I used olive oil in place of vegetable oil, had to add more sugar and added a little pepper. Worked here and will be good over a regular salad.",
+            "datePublished": "2019-01-02T21:30:30.507Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy's Kitchen"
+            },
+            "reviewBody": "Very good- I added garlic and onion powder along with fresh pepper",
+            "datePublished": "2018-12-22T01:18:47.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb03"
+            },
+            "reviewBody": "I have made this a few times and it is very good! I use olive oil and adjust the sugar and salt to taste. Great basic vinaigrette. Thanks for sharing!",
+            "datePublished": "2018-07-23T23:33:07.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jo-Anne Kudzia"
+            },
+            "reviewBody": "I really like this. Easy, delicious, add a touch of dijon to smooth out flavor. Only need couple of tsps. For large salad. Keeper.",
+            "datePublished": "2018-06-30T13:02:22.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michel Dyno Lessard"
+            },
+            "reviewBody": "great recipe, super easy. But...If you find it just a bit too tart from the vinegar, as I did, just add a touch of Dijon mustard to the mixture and you'll see how it rounds it right out. After that, it was absolutely fab! It will be my go-to recipe.",
+            "datePublished": "2018-06-18T21:53:56.037Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KEK"
+            },
+            "reviewBody": "My husband LOVED this dressing!!! Only change I made was to add some black pepper.",
+            "datePublished": "2018-01-13T23:02:23.857Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14381/vinaigrette/",
+          "name": "Vinaigrette",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

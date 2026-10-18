@@ -1,0 +1,161 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217219/pegu-club-cocktail/",
+  "extracted_at": "2026-10-18T03:02:16.497724+00:00",
+  "recipes": [
+    {
+      "name": "Pegu Club Cocktail",
+      "ingredients_raw": [
+        "ice",
+        "2 fluid ounces gin",
+        "0.75 fluid ounce orange-flavored liqueur (such as Cointreau®)",
+        "0.5 fluid ounce fresh lime juice",
+        "2 dashes aromatic bitters (such as Angostura®)",
+        "lime"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Fill a cocktail shaker with ice; add gin, Cointreau, and lime juice. Shake in bitters. Shake well and strain into a chilled glass. Garnish with a slice of lime."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pegu Club Cocktail",
+        "datePublished": "2017-10-13T21:58:46-04:00",
+        "dateModified": "2025-01-31T10:57:31-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lorem Ipsum"
+          }
+        ],
+        "description": "Shake Cointreau, lime juice, and bitters together for the perfectly balanced Pegu Club cocktail, a gin makeover of the classic margarita.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8Gvj8Ht2nB3DUIUHtQpx-BgwNVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5049285-pegu-club-cocktail-Harmon-4x3-1-3859434ab11c4b79b211026cda71b952.jpg",
+          "height": 900,
+          "width": 1200
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pegu Club Cocktail",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "236 kcal",
+          "carbohydrateContent": "13 g",
+          "fiberContent": "0 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "14 mg",
+          "sugarContent": "9 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "ice",
+          "2 fluid ounces gin",
+          "0.75 fluid ounce orange-flavored liqueur (such as Cointreau®)",
+          "0.5 fluid ounce fresh lime juice",
+          "2 dashes aromatic bitters (such as Angostura®)",
+          "lime"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Fill a cocktail shaker with ice; add gin, Cointreau, and lime juice. Shake in bitters. Shake well and strain into a chilled glass. Garnish with a slice of lime."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 cocktail"
+        ],
+        "totalTime": "PT5M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217219/pegu-club-cocktail/",
+          "name": "Pegu Club Cocktail",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14933/drinks/cocktails/margaritas/",
+                  "name": "Margarita Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,510 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220993/chicken-chile-verde/",
+  "extracted_at": "2026-10-18T03:12:03.854083+00:00",
+  "recipes": [
+    {
+      "name": "Chicken Chile Verde",
+      "ingredients_raw": [
+        "1 whole chicken, cut into 6 pieces",
+        "salt and freshly ground black pepper",
+        "1 tablespoon vegetable oil",
+        "8 tomatillos, husked and quartered",
+        "2 fresh jalapeno peppers, chopped",
+        "6 cloves garlic",
+        "0.5 bunch cilantro",
+        "3 cups chicken stock",
+        "1 tablespoon vegetable oil",
+        "1 onion, diced",
+        "2 tablespoons ground cumin",
+        "2 teaspoons dried oregano",
+        "1 bay leaf",
+        "1.5 pounds potatoes, peeled and cubed",
+        "salt and freshly ground black pepper to taste",
+        "0.5 cup sour cream, for garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Season chicken pieces with salt and black pepper on all sides."
+        },
+        {
+          "id": 2,
+          "text": "Heat 1 tablespoon vegetable oil in a skillet over medium-high heat. Cook chicken, 2 to 3 pieces at a time, until browned on all sides, about 15 minutes total. Set aside."
+        },
+        {
+          "id": 3,
+          "text": "Place tomatillos, jalepeno peppers, garlic, cilantro, and chicken stock in a blender and puree until smooth. Set aside."
+        },
+        {
+          "id": 4,
+          "text": "Heat 1 tablespoon vegetable oil over medium-low heat in a Dutch oven. Stir in onion, cook and stir until onion is soft and translucent, about 10 minutes. Stir in cumin, oregano, and bay leaf; cook 1 minute."
+        },
+        {
+          "id": 5,
+          "text": "Place chicken over onion mixture in the Dutch oven. Pour in tomatillo mixture. Bring to a boil, decrease heat to low and simmer, covered, until the meat is tender and falling off the bone, about 1 hour 15 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Stir in potatoes and cook, uncovered, until they are easily pierced with a fork, about 35 minutes."
+        },
+        {
+          "id": 7,
+          "text": "Season with salt and pepper to taste; serve garnished with sour cream."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Chicken Chile Verde",
+        "datePublished": "2012-04-04T17:21:10-04:00",
+        "dateModified": "2024-11-29T23:30:33-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "A delicious variation on the classic Mexican chile verde, this recipe calls for chicken pieces to be slow-simmered in a fresh tomatillo-chile sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/N7DCi0niWH15_wqueFcNpmdJais=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5232465-chicken-chile-verde-Rod-Russell-1x1-1-df7121b781444523bcdc1a916e2ec04d.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/QF3JcTtN-ma1DlVvV.mp4",
+          "description": "0360",
+          "duration": "PT4M56S",
+          "name": "Chicken Chile Verde",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/QF3JcTtN/poster.jpg?width=1280",
+          "uploadDate": "2021-07-30T05:13:31-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken Chile Verde",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "31"
+        },
+        "cookTime": "PT135M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "441 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "70 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "425 mg",
+          "sugarContent": "5 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "1 whole chicken, cut into 6 pieces",
+          "salt and freshly ground black pepper",
+          "1 tablespoon vegetable oil",
+          "8 tomatillos, husked and quartered",
+          "2 fresh jalapeno peppers, chopped",
+          "6 cloves garlic",
+          "0.5 bunch cilantro",
+          "3 cups chicken stock",
+          "1 tablespoon vegetable oil",
+          "1 onion, diced",
+          "2 tablespoons ground cumin",
+          "2 teaspoons dried oregano",
+          "1 bay leaf",
+          "1.5 pounds potatoes, peeled and cubed",
+          "salt and freshly ground black pepper to taste",
+          "0.5 cup sour cream, for garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Season chicken pieces with salt and black pepper on all sides."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon vegetable oil in a skillet over medium-high heat. Cook chicken, 2 to 3 pieces at a time, until browned on all sides, about 15 minutes total. Set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place tomatillos, jalepeno peppers, garlic, cilantro, and chicken stock in a blender and puree until smooth. Set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat 1 tablespoon vegetable oil over medium-low heat in a Dutch oven. Stir in onion, cook and stir until onion is soft and translucent, about 10 minutes. Stir in cumin, oregano, and bay leaf; cook 1 minute."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place chicken over onion mixture in the Dutch oven. Pour in tomatillo mixture. Bring to a boil, decrease heat to low and simmer, covered, until the meat is tender and falling off the bone, about 1 hour 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in potatoes and cook, uncovered, until they are easily pierced with a fork, about 35 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/N7DCi0niWH15_wqueFcNpmdJais=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5232465-chicken-chile-verde-Rod-Russell-1x1-1-df7121b781444523bcdc1a916e2ec04d.jpg"
+              }
+            ],
+            "text": "Season with salt and pepper to taste; serve garnished with sour cream."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT165M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shagen McBride"
+            },
+            "reviewBody": "Made this tonight using only bone in, skin on chicken thighs. I cooked as directed and once I added the potatoes I removed the chicken from the pot to take off the skin and bones, shredded the chicken and then replaced it in the pot to continue cooking with the potatoes. I am making burritos with it. It is very yummy! It could almost use some fresh cilantro and lime juice at the very end to give it a little more punch."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Randose"
+            },
+            "reviewBody": "I forgo the potatoes and instead use navy beans and some posole.I pressure cook my navy beans, posole, diced onion, minced garlic, bone-in chicken pieces, with Chimayo chili powder, ground cumin, whole cumin and chicken stock in the pressure cooker all together for 20 minutes. Then while I debone the chicken I sauté the roughly diced tomatillos and jalapeños. I never purée them, looking for a more rustic and toothsome stew. I return the deboned chicken to the pot with the beans and posole. Should also mention that towards the end I add the juice of half a lime to brighten flavors and 3 to 5 sliced spring onions.",
+            "datePublished": "2020-12-18T19:15:06.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John L"
+            },
+            "reviewBody": "I substituted poblano peppers, chipotle pepper, black pepper, and an Anaheim pepper for jalapeno. \n\nI roasted the peppers, tomatillos, and 5 cloves of garlic under the broiler. Blended coarsely and added green chiles with diced tomatoes. Also added coca cola and orange juice into the blender mix and then slow cooked with braised chicken thighs that I had later pulled. Nice heat + sweet palate.\n\nServed over rice and topped with light sour cream and sliced, ripe avocado. It rocked.",
+            "datePublished": "2020-12-31T06:59:46.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meghan Griffith"
+            },
+            "reviewBody": "This looks like a good recipe to try. I personally have a Paleo restriction so I go off other recipes for tips. Something I did was just slow roast large chicken breasts at 375 and basted them with a green bbq sauce I came up with. The green bbq sauce is green Enchilada sauce mixed with sugar and gluten free flour to thicken and use as a sweet n sour bbq for Verde pollo. I used garlic and dried green onion, and dried cilantro and a small can of salsa Verde to roast with the breast. Of course a 2 hour slow roasted meat on the bone works just as well as long as you baste and keep up with the roasting it will fall off the bone for sure. The breasts just make clean up easier and easier to pull the chicken. The green bbq sauce though gives the chicken a roasted taste.",
+            "datePublished": "2021-12-26T10:16:51.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judith Ubaldi"
+            },
+            "reviewBody": "All of chef John’s ingredients for this dish are perfect. Chili Verde is one of my favorites. I followed the recipe for the ingredients, but not the method. I combined the rough chopped tomatillos, garlic, onion and jalapeños into a bowl, added a small bit of vegetable oil and salt and pepper. I spread them on a cookie sheet and put them under the broiler to char. Browned the chicken in my Dutch oven, added the seasonings to the blender with the charred vegetables and poured the sauce over the chicken. Followed the directions from that point on. Absolutely delicious!",
+            "datePublished": "2023-07-26T15:04:29.084Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tim Huang"
+            },
+            "reviewBody": "Hybridized this recipe with another I found and it was UH-MAZING! Some changes:\n\n4 boneless, skinless chicken breasts (it's what I had).\n1 more Jalapeno (2 total), 1 Poblano, and 1 Anaheim pepper (fire-roasted before adding).\n1 cinnamon stick.\n\nReduced simmering time to 40 minutes before adding potatoes and simmered for 40 minutes more.",
+            "datePublished": "2016-05-01T04:33:56.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sparky"
+            },
+            "reviewBody": "I roasted the tomitillos, peppers and chicken on the grill. added extra cyan and chili peppers, some cinnamon, cilantro, and lime. and No potatoes. served it over vegi-spiced South-western rice. And topped it with avocado, sour cream, and cilantro. Was a little dark in the green, but tasted phenomenal. I now use the base for several chicken dishes.",
+            "datePublished": "2015-12-27T18:24:34.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John"
+            },
+            "reviewBody": "Followed the recipe up to when it came to sautéing the onions. I sautéed them in the oil that was used for the chicken instead, all the while scraping up any bits left on the bottom of the pan. Also, I did not use sour cream, instead I used creme fraiche. Hope this helps and happy cooking!!",
+            "datePublished": "2018-10-27T00:56:24.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "richard"
+            },
+            "reviewBody": "Chicken Chile Verde (should there be some chilis in this recipe?). Used skinless chicken thighs to avoid skimming fat. Found that 1 jalapeno was enough. Not sure if potatoes are the right compliment for this dish; might try some beans next time. Served over couscous with a dollop of sour cream (guac would be good also). I'll add some mild chilis to the sauce next time.",
+            "datePublished": "2019-09-16T03:26:33.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ceecee"
+            },
+            "reviewBody": "Good flavors, used Mexican oregano. Fast and easy. Used leftover pulled pork.",
+            "datePublished": "2020-07-25T01:29:23.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Idahed"
+            },
+            "reviewBody": "This is a very good recipe I've made this twice now, although it does need a little something to kick it up a notch. I'm adding some hot sauce (2 Tbsp). I also used pork butt rather than chicken for a little \"beefier\" flavor.",
+            "datePublished": "2018-04-29T07:24:11.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "J Alan Hall"
+            },
+            "reviewBody": "I love chili verde, and this didn't disappoint! The potatoes were every bit as good as the meat!\nNext time I'll back off on the food processor a bit.",
+            "datePublished": "2022-02-07T15:43:17.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Ann D"
+            },
+            "reviewBody": "I really liked the flavorful stew that I made from this recipe. It really is sad to see someone make rude comments like \"it's bland\" on a good recipe like this. Most experience cooks know to read through a recipe first and then adjust seasonings, aromatics, and add ins, according to your own personal taste. I used cooked chicken that I already had available. We like strong flavor so I also used more garlic, a third jalapeno, and a small can of green chilies. Will be adding this recipe to our favs. Thank you Chef John.",
+            "datePublished": "2020-12-30T17:31:33.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim Oliver"
+            },
+            "reviewBody": "Been looking for a recipe for chili Verde like the one my aunt used to make when I was a child. THIS is the closest that came to it!! Family raved about it. Great comfort food for me. Try it you'll love it!!!",
+            "datePublished": "2019-03-31T23:49:23.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "strongtea"
+            },
+            "reviewBody": "I halved the recipe. I didn’t have cilantro, so just omitted that. I substituted a can of mild green chilies for the jalapeños because we don’t like spicy. This was easy and delicious. I will definitely make it again.",
+            "datePublished": "2019-01-20T02:00:44.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steven Stephans"
+            },
+            "reviewBody": "Really delicious. Only change to the recipe was I just used boneless skinless breasts instead of a whole chicken.\n\nBe aware, depending on the jalapenos you use it can get pretty hot. Some people (like myself) like this but if you're serving for someone who's not into spicy food you might want to ditch a jalapeno.\n\nIt's not a dish you're going to impress anyone with the looks of, but you will with the taste of it.",
+            "datePublished": "2019-01-02T15:32:57.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue Teller"
+            },
+            "reviewBody": "I made this dish. but instead of using a whole cut up chicken I used two breasts and four thighs. It was too much meat for the sauce. Next time I'll use just a whole cut up chicken. The flavor was great.",
+            "datePublished": "2017-09-02T17:34:11.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cyndie"
+            },
+            "reviewBody": "Something was missing in the flavor. Had to do a lot of fussing to get my taste buds happy.",
+            "datePublished": "2016-11-20T19:46:54.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jodie Nielsen"
+            },
+            "reviewBody": "Made this with out the skillet I browned the chicken in my Dutch oven everything was amazing",
+            "datePublished": "2016-01-10T17:26:18.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natalie DeSantis"
+            },
+            "reviewBody": "This is really good. We used chicken breasts and adapted the recipe for 4 servings. One fresh jalapeno was plenty hot for us. We used tomatillos from our garden that we had frozen. Great taste and we will definitely do this again!",
+            "datePublished": "2016-01-03T08:48:39.540Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220993/chicken-chile-verde/",
+          "name": "Chicken Chile Verde",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

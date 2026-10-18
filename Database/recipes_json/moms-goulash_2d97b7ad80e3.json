@@ -1,0 +1,207 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13369/moms-goulash/",
+  "extracted_at": "2026-10-18T01:53:28.517272+00:00",
+  "recipes": [
+    {
+      "name": "Mom&#39;s Goulash",
+      "ingredients_raw": [
+        "2 pounds beef stew meat, diced into 1 inch pieces",
+        "salt and pepper to taste",
+        "0.25 teaspoon paprika",
+        "1 onion, chopped",
+        "1 tablespoon vegetable oil",
+        "8 large potatoes, scrubbed and chopped",
+        "1 (16 ounce) can chili without beans"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Season beef with salt, pepper, and paprika."
+        },
+        {
+          "id": 2,
+          "text": "Brown seasoned beef and onion in oil until all sides are brown. Cover with water and simmer for 3 to 4 hours or until tender. Add water whenever level goes below the ingredients."
+        },
+        {
+          "id": 3,
+          "text": "An hour before serving, add potatoes and chili."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mom&#39;s Goulash",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2025-03-27T11:49:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Brenda"
+          }
+        ],
+        "description": "What can you do with a can of chili, 8 potatoes, an onion, and two pounds of stew meat? Make Mom&#39;s Goulash, of course. Since you are using stew meat, three to four hours of slow cooking are required, but otherwise this soup is a snap to make.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/vu2uqzn1iFKTgAW34Hzvysq_NHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/38391-90ba2430ad5f4fb99bf0faaed9bcb35b.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mom&#39;s Goulash",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "ratingCount": "3"
+        },
+        "cookTime": "PT180M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "896 kcal",
+          "carbohydrateContent": "94 g",
+          "cholesterolContent": "118 mg",
+          "fiberContent": "12 g",
+          "proteinContent": "45 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "533 mg",
+          "sugarContent": "6 g",
+          "fatContent": "39 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "German"
+        ],
+        "recipeIngredient": [
+          "2 pounds beef stew meat, diced into 1 inch pieces",
+          "salt and pepper to taste",
+          "0.25 teaspoon paprika",
+          "1 onion, chopped",
+          "1 tablespoon vegetable oil",
+          "8 large potatoes, scrubbed and chopped",
+          "1 (16 ounce) can chili without beans"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Season beef with salt, pepper, and paprika."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Brown seasoned beef and onion in oil until all sides are brown. Cover with water and simmer for 3 to 4 hours or until tender. Add water whenever level goes below the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "An hour before serving, add potatoes and chili."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT180M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JannieRee"
+            },
+            "reviewBody": "Pretty good, easy. Family loved it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel Jones"
+            },
+            "reviewBody": "This was ok- dh and dc liked it. I felt like it was missing something, but it was very simple.",
+            "datePublished": "2007-07-02T09:47:21.337Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13369/moms-goulash/",
+          "name": "Mom&#39;s Goulash",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+                  "name": "Stews"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17046/soups-stews-and-chili/stews/goulash/",
+                  "name": "Goulash Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

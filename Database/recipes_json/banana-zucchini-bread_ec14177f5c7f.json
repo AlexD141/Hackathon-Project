@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/141933/banana-zucchini-bread/",
+  "extracted_at": "2026-10-18T01:57:49.052211+00:00",
+  "recipes": [
+    {
+      "name": "Banana Zucchini Bread",
+      "ingredients_raw": [
+        "3 large eggs",
+        "1 cup white sugar",
+        "1 cup grated zucchini",
+        "0.75 cup vegetable oil",
+        "2 bananas, mashed",
+        "0.66666668653488 cup packed brown sugar",
+        "2 teaspoons vanilla extract",
+        "3.5 cups all-purpose flour",
+        "1 tablespoon ground cinnamon",
+        "1.5 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "0.5 cup dried cranberries",
+        "0.5 cup chopped walnuts"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour two 8x4-inch bread loaf pans."
+        },
+        {
+          "id": 2,
+          "text": "Beat eggs in a large bowl with an electric mixer until light yellow and frothy. Add white sugar, zucchini, oil, bananas, brown sugar, and vanilla; beat until well combined. Stir in flour, cinnamon, baking powder, baking soda, and salt. Fold in cranberries and nuts if using. Divide batter evenly between the prepared loaf pans."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 to 50 minutes. Allow to cool in the loaf pans on a wire rack before removing and serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Banana Zucchini Bread",
+        "datePublished": "2020-06-18T23:30:25-04:00",
+        "dateModified": "2026-07-29T18:22:58-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "heather duncan"
+          }
+        ],
+        "description": "This banana zucchini bread is deliciously moist thanks to shredded zucchini and ripe bananas; sweet cranberries and walnuts add flavor and crunch.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/AGtJrHOZz3AMWjyRCItIfZB5qNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/141933-banana-zucchini-bread-VAT-Beauty-4x3-dbf74a6ee70e453784527b1874e1172a.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Banana Zucchini Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "425"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "272 kcal",
+          "carbohydrateContent": "40 g",
+          "cholesterolContent": "28 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "230 mg",
+          "sugarContent": "21 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Bread"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "3 large eggs",
+          "1 cup white sugar",
+          "1 cup grated zucchini",
+          "0.75 cup vegetable oil",
+          "2 bananas, mashed",
+          "0.66666668653488 cup packed brown sugar",
+          "2 teaspoons vanilla extract",
+          "3.5 cups all-purpose flour",
+          "1 tablespoon ground cinnamon",
+          "1.5 teaspoons baking powder",
+          "1 teaspoon baking soda",
+          "1 teaspoon salt",
+          "0.5 cup dried cranberries",
+          "0.5 cup chopped walnuts"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour two 8x4-inch bread loaf pans."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat eggs in a large bowl with an electric mixer until light yellow and frothy. Add white sugar, zucchini, oil, bananas, brown sugar, and vanilla; beat until well combined. Stir in flour, cinnamon, baking powder, baking soda, and salt. Fold in cranberries and nuts if using. Divide batter evenly between the prepared loaf pans."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 to 50 minutes. Allow to cool in the loaf pans on a wire rack before removing and serving."
+          }
+        ],
+        "recipeYield": [
+          "20",
+          "2 (8x4-inch) loaves"
+        ],
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Acurlytops"
+            },
+            "reviewBody": "After reading other reviews, I made a couple of changes. I used 2 cups of grated zucchini, and I cut the white sugar back to 1/2 cup. I also used 1 cup applesauce instead of oil. I also baked it for about 40 minutes, but I have a convection oven. This bread was moist, and it was a great way to use up both bananas and zucchini."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Keith Worrell"
+            },
+            "reviewBody": "I kept the ingredients almost the same, minus cranberries or nuts as I didn't have any on hand. I dramatically changed the directions and believe it made a big improvement over some of the concerns expressed in other reviews. \n\n1. I used one very ripe banana previously frozen and one fresh banana, sliced about 1/2\", then quartered. Combined that with a heavily packed one cup grated zucchini, and 1/4 cup of homemade Madagascar vanilla rum. Set aside. \n\n2. Separated eggs and whipped the whites with some cream of tartar to stiff peaks, and set aside. \n\n3. Added all dry ingredients into a bowl, whisked together, and set aside. \n\n4. For oil I used butter and creamed this first with the white sugar, then added the brown sugar until frothy. Added in egg yolks and whipped until fully combined. I then gradually added the dry ingredients until the mixture became a crumble (mind you I am using the whisk attachment and kitchen aide mixer) \n\n5. Gently fold egg whites into zucchini/banana/rum mix, then gently folded in crumble 1/3 at a time. \n\nIt came out very light and moist, but held together perfectly for serving. The flavors were delicate, but present. \n\nIf I were to do it again, I would add some nutmeg and allspice, sprayed the top with simple sugar, and cooked it for 1:15 @ 300F°. \n\nI will absolutely use what is here as a guide again.",
+            "datePublished": "2017-07-07T01:54:54.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZanyThyme5215"
+            },
+            "reviewBody": "Delicious! Instead of all purpose flour exchanged exactly with gluten free 1:1 baking flour, instead of 1 cup white sugar exchanged for 1 teaspoon liquid Stevia. I did not add cranberries or walnuts. Maybe next time. Replaced with pecans and added Lilys Chocolate chips about 1/2 cup each. Made 13 mini loaves baked for 30 minutes at 325 degrees. I froze them after they completely cooled for a quick breakfast any time. Just thaw one at a time as needed!",
+            "datePublished": "2024-05-27T21:01:24.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CAN"
+            },
+            "reviewBody": "I subbed 1/2 C of Stevia for the 1 C of white sugar, and instead of oil I subbed plain white yogurt. I used 3 bananas and 3/4 of a zucchini, and finally, I also added some cardamom. Turned out great! It didn't seem any less sweet and it was very moist.\nI have to admit I also ground up quick cooking oats and made oat flour - the texture was less refined, but really good.",
+            "datePublished": "2021-02-14T18:30:22.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "emipiano"
+            },
+            "reviewBody": "I love it! Due to allergies in the family, I replaced the walnuts with chocolate chips. I also halved the sugar. Due to other comments about it being a bit dry, plus I have an abundance of it, I did 1.5X zucchini (I have homegrown organic!) and could have doubled it for an even more moist loaf. I put it into 3 medium loaf pans and it still took about 70 min to bake. It was well worth the wait!",
+            "datePublished": "2023-10-25T21:04:53.196Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelly Boyd"
+            },
+            "reviewBody": "The only changes I made was I only used 1/2 c of white sugar, used 4 mashed bananas, 1 cup of blueberries and 1 c up of chopped walnuts. Turned out so good. I made them in cupcake pans. Definitely will make again",
+            "datePublished": "2018-07-31T23:50:05.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue Whitmore Batson"
+            },
+            "reviewBody": "This was a great recipe. I added an additional banana and an additional cup of zucchini which I partially squeezed the water out of. I used 1 cup coconut flour, one cup rolled oats, an 1 1/2 cups all purpose flour. I didn't have walnuts so I used pecans in their place. I did not use the white sugar and I substituted applesauce for the oil. This made 27 muffins that I baked 22 minutes on the first batch and 25 for the next batch. Even though the toothpick came out clean on the first batch, they needed to cook a little longer. Taste is flavorful and healthy. Look forward to making again!",
+            "datePublished": "2018-09-09T19:07:38.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jay"
+            },
+            "reviewBody": "If I made this as written, I'd give it 4 stars but since I'm trying to make healthy snacks for my kids I tweaked it as follows:\nused 2.5 cups oat flour, 1/2 cup white sugar, 1/2 cup applesauce instead of oil plus 1/4 cup oil, only had 1 zucchini, 4 bananas (overripe), 1.25 cups walnuts, 1/4 cup cranberries\n- made a loaf and 20 cupcakes\n- cupcakes baked at 140°C for 20 mins and loaf for 65 mins. Cupcakes needed a few more mins to bake but turned out great! \n-next time try adding 3 bananas and 2 zucchinis",
+            "datePublished": "2019-08-06T08:52:18.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hez1991"
+            },
+            "reviewBody": "This is a good recipe but I had a lot of zucchini to use! I used 2 cups of zucchini, added 1/3 cup unsweetened cocoa, used 3 bananas and took out the cranberries. I baked for 60 minutes and it came out tasty and beautiful! I made 8 loaves today, the neighbors are thrilled!",
+            "datePublished": "2018-07-28T20:08:09.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim Cozad"
+            },
+            "reviewBody": "love this recipe. Bread is moist and has great flavor. I added brown sugar/ butter/flour crumble to bottom and top. My 91 yo Dad loved it. wants me to make more.",
+            "datePublished": "2023-11-13T21:30:20.981Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "terri"
+            },
+            "reviewBody": "Great recipe! After reading some reviews, I cut the white sugar to 1/2 cup, added an extra cup of zucchini and another banana. I also added some allspice and nutmeg and replaced the oil with applesauce. Not too sweet, but dense and moist. Yum!",
+            "datePublished": "2023-09-07T23:26:36.966Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jmulls"
+            },
+            "reviewBody": "Didn’t have walnuts so used pecans and also added the cranberries. Came out PERFECT and love the sweetness of the loaf.",
+            "datePublished": "2026-08-10T17:19:44.519Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky"
+            },
+            "reviewBody": "I made this as is but added more Zucchini about 2 cups, a dollop of Greek yogurt after reading another comment said they used sour cream, and nutmeg. Delish!",
+            "datePublished": "2026-07-18T23:03:40.452Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberly"
+            },
+            "reviewBody": "Recipe was great, we prepared it as written except used a blend of whole wheat and white flour and did not use the cranberries and walnuts.",
+            "datePublished": "2026-07-18T22:32:22.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hope"
+            },
+            "reviewBody": "Very good. I will make this again, but add a dollop of sour cream as suggested by another reviewer for added moisture . I didn’t add cranberries or walnuts, but made a quick powdered sugar glaze for the top since his is the only way my husband will eat zucchini bread. lol",
+            "datePublished": "2026-06-24T19:45:38.251Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jody Bortner"
+            },
+            "reviewBody": "Made this with one small zuccini and two mashed bananas. I added the cranberries reluctantly but they came out plump and delicious. They added a great additional flavor and texture",
+            "datePublished": "2026-01-19T03:02:23.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monica"
+            },
+            "reviewBody": "Made as written. Absolutely loved the idea of banana to help it stay moist and banana isn't a strong flavor ; - it goes well with the zucchini. The problem is the cranberries - which pack too much flavor and basically the delicate flavor of zucchini and banana with a hint of cinnamon are completely overwhelmed. Call it what it is another cranberry bread nothing outstanding.",
+            "datePublished": "2025-08-18T00:43:39.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ruby"
+            },
+            "reviewBody": "I loved this recipe but it took way longer than 45 minutes to bake",
+            "datePublished": "2025-07-23T17:55:03.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "Great recipe but I did make changes. I used 1/2 c white sugar and 2 c zucchini. I also substituted apple sauce for the oil and added a scoop of unflavored protein powder. Delicious and will make again.",
+            "datePublished": "2025-07-10T06:13:04.956Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "Perfectly delicious!!!",
+            "datePublished": "2025-07-01T01:43:56.042Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/141933/banana-zucchini-bread/",
+          "name": "Banana Zucchini Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/156/bread/",
+                  "name": "Bread"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+                  "name": "Quick Bread Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/348/bread/quick-bread/zucchini-bread/",
+                  "name": "Zucchini Bread Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

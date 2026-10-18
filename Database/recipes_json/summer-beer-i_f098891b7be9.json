@@ -1,0 +1,452 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/19747/summer-beer-i/",
+  "extracted_at": "2026-10-18T02:35:33.282745+00:00",
+  "recipes": [
+    {
+      "name": "Summer Beer",
+      "ingredients_raw": [
+        "4 cups ice cubes",
+        "1 (12 fluid ounce) can or bottle beer",
+        "12 fluid ounces vodka",
+        "1 (6 ounce) can frozen lemonade concentrate"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Crush ice in a blender."
+        },
+        {
+          "id": 3,
+          "text": "Add beer, vodka, and lemonade concentrate to the blender; blend until smooth."
+        },
+        {
+          "id": 4,
+          "text": "Serve in frozen glasses."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Summer Beer",
+        "datePublished": "2000-06-30T15:55:29-04:00",
+        "dateModified": "2026-05-25T10:40:22-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Angi Bensman"
+          }
+        ],
+        "description": "This summer beer recipe is a refreshing combination of ice-cold lemonade, your favorite light beer, and cold vodka for a sensational frozen cocktail.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/52HQnYzS5MC63sSMRVqZ6RKJgjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19747-summer-beer-i-ddmfs-4x3-daa40392375a408d928ab28bde67712d.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Summer Beer",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "60"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 cups ice cubes",
+          "1 (12 fluid ounce) can or bottle beer",
+          "12 fluid ounces vodka",
+          "1 (6 ounce) can frozen lemonade concentrate"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/vUQXxqr6TlZ22or4PwfSLjcWM6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19747-summer-beer-i-ddmfs-step-01-1ce107cb816c4a09afd577c2e1807852.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/uo2IJudqEdjVhE4Tcppr5DOOv2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19747-summer-beer-i-ddmfs-step-02-cdbbf47b2c814d3db9480b03fa0f56c5.jpg"
+              }
+            ],
+            "text": "Crush ice in a blender."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PoIZqqua3OrcHUFpdUCeF2XAteQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19747-summer-beer-i-ddmfs-step-03-2632ce85cce748a0b0648793b1c76595.jpg"
+              }
+            ],
+            "text": "Add beer, vodka, and lemonade concentrate to the blender; blend until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/rDB4yXq5FQroRV61Y7du4OVnwA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19747-summer-beer-i-ddmfs-step-04-73348f10c80e44ba9216f9b2bf21d7ef.jpg"
+              }
+            ],
+            "text": "Serve in frozen glasses."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "eecaule"
+            },
+            "reviewBody": "I followed the recipe exactly &amp; thought it was pretty good &amp; refreshing, but not very flavorful. Next time I will add more lemonade or a couple scoops of powdered concentrate. Don't plan on driving after 1 or 2 of these. 8/19/09, made these again last night. Added 2 tablespoons bottled lemon juice which made this a 5 star recipe."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kay"
+            },
+            "reviewBody": "The recipe I have calls for 12 oz. beer, 12 oz. frozen limeade concentrate, 12 oz. water, 6 oz. vodka, 6 oz. tequila, and 12 oz. lemon-lime soda. Make ahead the day before - gets better the next day! We call them Beeritas!",
+            "datePublished": "2012-06-09T11:35:17.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "goconnor"
+            },
+            "reviewBody": "Made this as recommend, but found it to be way to strong, so here is what we did to adjust it more to our taste, we used 3 cans of beer (Coors light is what we had on hand) 12 ounces of lemonade, 6 ounces of premium vodka (grey goose)\nThis was WONDERFUL AND STILL PACKS QUITE THE PUNCH!!!",
+            "datePublished": "2014-07-05T13:51:10.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tom Dion"
+            },
+            "reviewBody": "I've been making these for thirty years. I usually make it by the pitcher. For that I use the whole can of lemonade concentrate, two 12 oz. cans of beer and 12 oz. of vodka. I mix this together and then add ice. Back in the 70's this was called Skip and Go Naked. They're great in the summer, but pack a wallop!",
+            "datePublished": "2020-03-14T17:42:22.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dawn Logterman"
+            },
+            "reviewBody": "Oh my! This is one great drink but be careful, as they pack a punch! I only used 8 oz of vodka and it was enough! For the beer I used Leinenkugel's Summer Shandy (which already has a lemon flavor) and Citron Vodka. It's a keeper!",
+            "datePublished": "2012-05-10T19:22:13.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmyGirl"
+            },
+            "reviewBody": "Versatile recipe - try limeade with tequila, pink lemonade and vodka, just don't plan on driving afterwards. It's delicious but packs a punch!",
+            "datePublished": "2012-06-09T04:25:20.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "terrvu"
+            },
+            "reviewBody": "not beer drinker, always have extra beer after parties, now can drink up! \nused full 12oz pineapple/orange concentrate, what i had in freezer and 1/2 the vodka - so refreshing!",
+            "datePublished": "2017-07-23T23:29:10.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherrie Putz Jamero"
+            },
+            "reviewBody": "I love the ease of this recipe. I make it with a can of water instead of the ice cubes. Served over ice, goes down smooth. Just becareful, it catches up to you! Also, use different flavors of vodka. My favoite is blueberry. Goes well with the lemon flavor. Float a couple of berries in it and it is the perfect party drink!",
+            "datePublished": "2009-06-27T09:47:28.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aisha"
+            },
+            "reviewBody": "I have had this so many times since finding the recipe. I love it! I never use a blender, just serve it over ice. It is stronger than any drink I remember having (and I like Long Island Ice Teas), so be careful. My boyfriend and I call it Kapow punch, because of the punch it packs. \r\n\r\nI have used pink lemonade in place of regular, it is equally good.",
+            "datePublished": "2012-07-07T18:21:37.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "C4newt"
+            },
+            "reviewBody": "This is good .. Reminds of a beer marguerite recipe I have. \n12 oz limeade\n12 oz tequila\n4 light beers (48 oz)\n\nAlways a crowd pleaser!",
+            "datePublished": "2012-06-09T22:31:36.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda"
+            },
+            "reviewBody": "This was a great party drink. I made it tonight for the first time. I used regular lemonade, one can of water, and 10 ounces of vodka. I recommend using a can of water if you aren't going to crush the ice (I put mine over ice rather than crushing it)otherwise it will be really strong and too sweet. I will definitely make this again!",
+            "datePublished": "2013-06-30T17:15:23.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joshua De Serres"
+            },
+            "reviewBody": "I don’t remember much, so I’d give it a 10/10.",
+            "datePublished": "2021-08-06T22:55:33.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shasta"
+            },
+            "reviewBody": "Love this! Also really good with frozen limeade and Mexican beer",
+            "datePublished": "2018-04-08T03:01:14.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Megha"
+            },
+            "reviewBody": "Great cocktail, really potent too! Got happy high after just 2 of these! Didn't have premade limeade so added lemon concentrate and powdered sugar. Perfect for a girly afternoon!",
+            "datePublished": "2015-08-09T02:38:49.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ScarletTollo"
+            },
+            "reviewBody": "Amazing recipe just the way it is. I've also made it with lime juice concentrate, very good. My pool party guest were very Happy, half liked the lime best and the other half prefered the lemon.",
+            "datePublished": "2015-06-23T15:52:35.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "APJrz"
+            },
+            "reviewBody": "This is always a hit at summer parties. I usually use a light beer with lime like Bud or Miller Light with lime. I also use Raspberry vodka and raspberry lemonade. It's a little sweeter and lighter on a hot summer day.",
+            "datePublished": "2013-07-13T12:43:08.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pauljack53"
+            },
+            "reviewBody": "Good recipe but a little light on flavor, I added Wild Turkey 101 instead of vodka and more ice and lemonade concentrate along with the recipe and now this summertime drink really rocks!!!",
+            "datePublished": "2013-07-12T12:27:05.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kerman"
+            },
+            "reviewBody": "We made this drink with either vodka or whiskey, and either way we enjoyed it a lot on our family get-together vacations. Our recipe is called \"Strip and Go Naked\".",
+            "datePublished": "2013-06-29T19:57:33.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tgee"
+            },
+            "reviewBody": "OMG this is yummy! I just poured it over a full glass of ice because I don't like frozen drinks (brain freeze). You MUST try this recipe and I think it's perfect as is!!!",
+            "datePublished": "2013-06-28T18:13:52.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susie O"
+            },
+            "reviewBody": "Okay, I admit I might've packed it a bit harder than suggested but... woohoo!! That was a party!! Way to go!! Loaded up a 1/2 gallon thermos with it and had one of the best camping experiences ever!!",
+            "datePublished": "2013-06-28T16:31:05.150Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/19747/summer-beer-i/",
+          "name": "Summer Beer",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1743/drinks/cocktails/vodka-drinks/",
+                  "name": "Vodka Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

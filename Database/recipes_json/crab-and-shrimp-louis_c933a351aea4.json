@@ -1,0 +1,435 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16413/crab-and-shrimp-louis/",
+  "extracted_at": "2026-10-18T02:20:53.098845+00:00",
+  "recipes": [
+    {
+      "name": "Crab and Shrimp Louis",
+      "ingredients_raw": [
+        "4 large eggs",
+        "1 head iceberg lettuce, shredded",
+        "8 cherry tomatoes, halved",
+        "1 avocado - peeled, pitted and sliced",
+        "0.25 cucumber, thinly sliced",
+        "0.5 pound crabmeat",
+        "8 ounces cooked shrimp",
+        "0.66666668653488 cup mayonnaise",
+        "0.33333334326744 cup hot chile sauce",
+        "2 tablespoons sweet pickle relish",
+        "salt and pepper to taste",
+        "1 tablespoon chopped fresh parsley",
+        "1 lemon - cut into wedges, for garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel, and chop."
+        },
+        {
+          "id": 2,
+          "text": "Evenly divide lettuce, tomatoes, avocado, cucumbers, and eggs between 4 salad plates. Top with crab and shrimp."
+        },
+        {
+          "id": 3,
+          "text": "Prepare the dressing by whisking together mayonnaise, chili sauce, relish, salt, and pepper. Spoon dressing over salad and garnish with parsley and lemon."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Crab and Shrimp Louis",
+        "datePublished": "2000-03-12T13:27:25-05:00",
+        "dateModified": "2026-08-11T12:09:33-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jackie"
+          }
+        ],
+        "description": "This shrimp and crab Louie is a California original of seafood atop fresh greens with Thousand Island dressing. This makes a perfect light meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/0U7vwZ_ylI6t4-uhzwsSbSVfpL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1009989-c55b0903e17f43c5b3c69e8bf14d33f5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Crab and Shrimp Louis",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "47"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "581 kcal",
+          "carbohydrateContent": "19 g",
+          "cholesterolContent": "352 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "34 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "701 mg",
+          "sugarContent": "6 g",
+          "fatContent": "43 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "U.S."
+        ],
+        "recipeIngredient": [
+          "4 large eggs",
+          "1 head iceberg lettuce, shredded",
+          "8 cherry tomatoes, halved",
+          "1 avocado - peeled, pitted and sliced",
+          "0.25 cucumber, thinly sliced",
+          "0.5 pound crabmeat",
+          "8 ounces cooked shrimp",
+          "0.66666668653488 cup mayonnaise",
+          "0.33333334326744 cup hot chile sauce",
+          "2 tablespoons sweet pickle relish",
+          "salt and pepper to taste",
+          "1 tablespoon chopped fresh parsley",
+          "1 lemon - cut into wedges, for garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel, and chop."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Evenly divide lettuce, tomatoes, avocado, cucumbers, and eggs between 4 salad plates. Top with crab and shrimp."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Prepare the dressing by whisking together mayonnaise, chili sauce, relish, salt, and pepper. Spoon dressing over salad and garnish with parsley and lemon."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MARGOT"
+            },
+            "reviewBody": "For those looking for \"true\" Louie dressing, try Remoulade Sauce a la New Orleans. Be sure to read the comments."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TigresMom"
+            },
+            "reviewBody": "It's Dungeness crab season, here in San Francisco, and I grew up with Crab Louie. I love this RECIPE! I used cocktail sauce instead of the chlil sauce. Totally delish!",
+            "datePublished": "2021-03-05T01:58:49.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "Definitely five stars for the ingredients in the salad. Colorful and a nice blend of textures and flavors. I used chopped Romaine and Alaskan King Crab, and prepared this as a stacked salad. The dressing is just acceptable; nothing to either love or hate about it. It was a good starting point but needed lift and character - three stars, average. Taking both the salad ingredients and the dressing into consideration, this was a four star salad.",
+            "datePublished": "2013-05-04T19:00:45.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jo Bowman"
+            },
+            "reviewBody": "The only thing I did outside the recipe was to use Thousand Island dressing instead of making my own. It was really good and we will have it again. This is a good, Summer main course salad.",
+            "datePublished": "2017-07-11T23:08:20.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DELTAQUEEN50"
+            },
+            "reviewBody": "This was a great salad for a warm summer evening. I followed the recipe exactly but added sliced green onions to the salad and a touch of horseradish to the dressing to spice it up a bit. Excellent.",
+            "datePublished": "2009-09-26T10:28:21.663Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "COOK471"
+            },
+            "reviewBody": "Followed the recipe as stated except I used lots of artificial crab as that is what I had instead of real crab meat. When I made a crab Louis salad I usually put a 1000 Island dressing on it but this is so much better. I will always use this dressing. The salad is very refreshing with lots of fresh lemon juice.",
+            "datePublished": "2013-07-02T18:13:36.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BBARTLETT"
+            },
+            "reviewBody": "Love this! Was so very tasty, easy to prepare and pretty on the plate. I used bagged lettuce salad for easy, and I prefer cold eggs &amp; cold shrimp on lettuce, so you recommend preparing those items first, to allow for time to chill. Thanks for a GREAT recipe!",
+            "datePublished": "2008-02-18T10:14:10.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LemonLush"
+            },
+            "reviewBody": "This is a nice salad and yes, I made it with the dressing as directed. I also made a Bleu Cheese dressing and served it as a second choice. I'm with the other reviewer, love my hard boiled eggs chilled. Good recipe, thanks for sharing!",
+            "datePublished": "2006-09-22T09:38:55.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LYNNESTWINS"
+            },
+            "reviewBody": "Very good! Did not have crab on hand, so used only shrimp. The Thousand Island dressing was excellent. I used to make it with ketchup and now that you have turned me on to using Chile Sauce (YUM), I will never use ketchup again. Thank you so much for sharing.",
+            "datePublished": "2006-02-28T09:23:41.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LADYJAYPEE"
+            },
+            "reviewBody": "We had lots of Dungeness crab given to us by a friend, so a crab louis salad was in order (didn't use shrimp). Used red onion (rather than green), and romaine rather than iceberg lettuce, &amp; tomatoes-on-the-vine rather than cherry due to all of these were what I had on hand. The dressing is different and good! Thanks for the recipe, Scotty!",
+            "datePublished": "2007-08-01T18:11:59.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GINGERANNSUE"
+            },
+            "reviewBody": "Made with bottled thousand island dressing for the sake of quickness. Very good. Will make again!!",
+            "datePublished": "2001-07-16T20:30:37.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Char"
+            },
+            "reviewBody": "This salad was not only simple to make but quite delicious! I made the dressing in the morning so that the flavors had time to meld. I followed the recipe exactly and really don’t see any reason to change anything. \n\nWill add it to my “favorite” recipes binder!",
+            "datePublished": "2019-12-09T05:33:21.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Bassett"
+            },
+            "reviewBody": "We found the dressing too hot. In the future I would use ketchup instead of the chili sauce. Otherwise, the salad was nice.",
+            "datePublished": "2019-07-07T21:50:45.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jujua"
+            },
+            "reviewBody": "I made this last night for my sister and I because my husband was gone and he doesn't like seafood. We totally loved it although I should have used a hotter chili sauce because it didn't have enough zing with the one I used. But I will be making this again for sure for she and I.",
+            "datePublished": "2018-07-20T16:38:50.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cwood"
+            },
+            "reviewBody": "Made this for my family for new years eve and I truly feel that the hot chili sauce is the secret to this recipe. Didn't change a thing ...so simple and easy to make and it tasted so good we will make it again today!",
+            "datePublished": "2018-01-01T19:38:46.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "linda"
+            },
+            "reviewBody": "So basic and still a winner. Dressing is also easy and really good.",
+            "datePublished": "2016-06-18T17:37:59.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "boppy"
+            },
+            "reviewBody": "Sounds like what I would order every time I ate at Fishermen's Warf in San Francisco.",
+            "datePublished": "2015-09-22T10:40:33.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marilyn Moore"
+            },
+            "reviewBody": "I added 1 tap old bay seasoning lovely",
+            "datePublished": "2015-05-11T15:10:08.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Luis Enrique Bustamante"
+            },
+            "reviewBody": "Just made it with Valentine's day's leftovers.... came out perfect...!!! \nThanks :0)",
+            "datePublished": "2015-02-15T18:46:01.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "swifty39s wifey"
+            },
+            "reviewBody": "Have to decrease the amt of hot sauce in the dressing",
+            "datePublished": "2013-11-28T11:24:32.490Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16413/crab-and-shrimp-louis/",
+          "name": "Crab and Shrimp Louis",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

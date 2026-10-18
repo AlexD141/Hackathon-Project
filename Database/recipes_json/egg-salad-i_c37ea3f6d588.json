@@ -1,0 +1,431 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16665/egg-salad-i/",
+  "extracted_at": "2026-10-18T02:22:24.743355+00:00",
+  "recipes": [
+    {
+      "name": "Egg Salad",
+      "ingredients_raw": [
+        "8 large eggs",
+        "0.5 red onion, minced",
+        "2 tablespoons prepared Dijon-style mustard",
+        "1 tablespoon mayonnaise",
+        "1 teaspoon dried dill weed",
+        "1 teaspoon paprika",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, peel, and chop."
+        },
+        {
+          "id": 2,
+          "text": "Combine chopped eggs, onion, mustard, mayonnaise, dill, paprika, salt, and pepper in a large bowl. Mash well using a fork or wooden spoon. Serve on bread as a sandwich or over crisp lettuce as a salad."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Egg Salad",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2025-01-02T11:39:53-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Margret"
+          }
+        ],
+        "description": "This is my favorite recipe for egg salad because it uses little mayonnaise and plenty of dill.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/EBCTt1aiWXvGWVT5y4jmDkHHqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/659330-9ac2434263104d269f721c47a1d788ce.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/HHMgV7Wy-ma1DlVvV.mp4",
+          "description": "AR0186",
+          "duration": "PT2M27S",
+          "name": "Egg Salad I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/HHMgV7Wy/poster.jpg?width=1280",
+          "uploadDate": "2021-07-16T11:41:00-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Egg Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "361"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "183 kcal",
+          "carbohydrateContent": "4 g",
+          "cholesterolContent": "373 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "348 mg",
+          "sugarContent": "1 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 large eggs",
+          "0.5 red onion, minced",
+          "2 tablespoons prepared Dijon-style mustard",
+          "1 tablespoon mayonnaise",
+          "1 teaspoon dried dill weed",
+          "1 teaspoon paprika",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, peel, and chop."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/EBCTt1aiWXvGWVT5y4jmDkHHqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/659330-9ac2434263104d269f721c47a1d788ce.jpg"
+              }
+            ],
+            "text": "Combine chopped eggs, onion, mustard, mayonnaise, dill, paprika, salt, and pepper in a large bowl. Mash well using a fork or wooden spoon. Serve on bread as a sandwich or over crisp lettuce as a salad."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bea Trent"
+            },
+            "reviewBody": "Try This! Use 3 heaping tablespoons of mayo, 1 heaping tablespoon of mustard (any type), omit onion, maybe add pickle, and save paprika for sprinkling on the sandwich when serving. I like it served on toast. Not a bad recipe when modified a little. I was so glad to find a ratio of eggs to other ingredients here. It sure beats just trying to work magic at the kitchen counter!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris"
+            },
+            "reviewBody": "This recipe can be a springboard for you. It gave me the idea to use fresh dill, but I didn't really follow the rest of the ingredients. I used chives instead of onions, sliced the eggs in an egg slicer instead of mashing, and of course added more mayo. I didn't have dijon mustard so substituted a deli-style mustard. IMO, the dill is what makes this a great salad. The rest of the ingredients are to your taste.",
+            "datePublished": "2019-03-21T14:43:11.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MrsDuke"
+            },
+            "reviewBody": "This was a very helpful recipe. But I didn't have dill or paprika so I used some Italian seasoning instead. I added just a teaspoon more of mustard and a tablespoon more of mayo, just because it was my hubby's preference. Then again, I also added an extra egg. Also with the bread, I toasted it with a tiny bit of butter and cheddar cheese. It was amazing! Hubby always refused to eat anyone else's egg salad beside his own mothers, now he won't even eat hers and will only have mine! Be aware ladies, this tweak on the egg salad will most likely come with a jealous mother in law! lol",
+            "datePublished": "2011-06-10T21:55:08.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "No matter how you slice it, a tablespoon of mayonnaise just won't be enough for eight eggs...unless you're talking robin eggs! Certainly add the mayonnaise to taste - what's not enough for one person might be more than enough for another -but not one tablespoon. Other than that this isn't bad for a basic egg salad - the dill and Dijon are very nice additions. However, I didn't use the paprika. I tried that once in another recipe and didn't like it; it gave the egg salad an unbecoming color. I coarsely chopped rather than mashed the eggs, as the idea of mashed eggs didn't appeal to me. For a little less bite and a lot more color I added chopped green onion rather than the red. I also mellowed out the tang of the mayonnaise (I did use considerably more than the amount directed) by adding a dollop of sour cream. Last but not least, I tossed in some celery, as in my mind no egg salad is complete without it.",
+            "datePublished": "2011-09-06T11:15:36.693Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WestchesterMom"
+            },
+            "reviewBody": "This recipe is a great starting point. The amounts of mayo and mustard were perfecta. I’d recommend using a really good quality genuine Dijon - like Bornier or Edmond Fallot. I diced 1 celery stalk and 1/4 red onion and 1 Tbsp chopped fresh dill (I had it in my fridge and needed to use it). No added salt needed.",
+            "datePublished": "2025-07-23T16:03:48.339Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jody"
+            },
+            "reviewBody": "I thought the dill overpowered the sandwich. I added two small honey crisp apples to the recipe to give it some sweetness. That was the only thing that made this edible.",
+            "datePublished": "2014-01-17T09:16:25.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "taylorbu"
+            },
+            "reviewBody": "I tried this a few times, something was missing at the beginning. Wound up cutting the recipe in half for trials, during which I discovered using 4 eggs, half a teaspoon of paprika, half a teaspoon of dill, 1 heaping tbs of regular mustard, a quarter of a yellow medium onion (more flavor), salt and pepper to taste, a splash of garlic powder, a generous splash of red pepper flakes, a touch of cyan pepper, and using a heaping tbs of sour cream instead of mayo (preference here), worked/ tasted better than any of the previous! It was an absolute delight! Thanks for the base to work from love! Another tip, try half of a avocado purred instead of sour cream or mayo, its absolutely wonderful.",
+            "datePublished": "2013-05-28T17:24:11.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I did not follow this method for boiling the eggs because I know my method works quite well for me. I also did not have a purple onion so I used green onions. I believe the amount of purple onion would have been way too much for me. This egg salad is too heavy on the mustard for my taste. I would prefer the mayo/mustard ratio to be exactly opposite. I did not care for this egg salad just eating it with a fork; I liked it better, though, in a red pepper cup.",
+            "datePublished": "2020-08-01T17:21:18.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sara"
+            },
+            "reviewBody": "We left out the onions but otherwise love this recipe!",
+            "datePublished": "2017-05-28T21:40:14.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charlotte Autry-Freeman"
+            },
+            "reviewBody": "I just added some celery. Don't negatively comment on mine because I added something. Allrecipes asks for those reviews also!",
+            "datePublished": "2023-06-09T22:55:39.746Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gtofabulas"
+            },
+            "reviewBody": "I add about a tablespoon and a half of Mayo and instead of Dijon I use honey mustard. I grate yellow onion for a smoother texture and a pinch of cayenne for that hidden flavor. No pickles but chopped or small shrimp or crab.",
+            "datePublished": "2021-10-14T13:29:02.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gengen54"
+            },
+            "reviewBody": "I have a twist to egg salad that the family loves. I add grated Parmesan cheese. It acts as a thickener, adds some zip, and is easily adjusted for taste. I also use sweet pickle relish to cut down the acidity.",
+            "datePublished": "2021-10-13T21:59:34.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy Lynn"
+            },
+            "reviewBody": "The amount of mayo and mustard is fine. It was creamy enough to stay together on a sandwich. It was too much onion for my taste; otherwise, very tasty.",
+            "datePublished": "2021-09-21T01:15:31.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Blessed Baker"
+            },
+            "reviewBody": "I made the recipe as is, with the exception of omitting the onion. To be fair, I usually only eat my own egg salad. I decided to try this version because I am a fan of dill. I don't usually put mustard in my egg salad. I found the herbs/spices to overpower the taste of the eggs, and although I don't like my egg salad runny, I do like it a bit creamier than this was. It didn't taste bad, but I don't think I would make this again. I will probably just add some dill in my traditional recipe. This would be a great recipe for someone who likes a bolder option.",
+            "datePublished": "2020-09-01T01:31:36.377Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mia"
+            },
+            "reviewBody": "I would make it again, though I thought the paprika gave it an unappealing color. Personally, I like much more mayonnaise, and just a bit of mustard. I’d also add some celery for extra crunch.",
+            "datePublished": "2019-08-23T21:33:27.193Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Love2Cook"
+            },
+            "reviewBody": "Pretty good stuff. After making it as written, I decided to add an additional TB of mayonnaise. It didn't change the flavor much, but made it a bit less dry.",
+            "datePublished": "2019-08-01T23:12:27.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sage720"
+            },
+            "reviewBody": "I was disappointed in this recipe. The only thing I did differently was add one more tablespoon of mayo, because eight eggs needed more than one. I also threw in some celery. Unlike others who thought the onion made it too strong, mine was the opposite. I found this recipe really lacking flavor. Maybe it will help if next time I only use one tablespoon of mayo and add an extra tablespoon of mustard. I’m not sure what else to do",
+            "datePublished": "2018-08-12T23:02:05.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AnnKay"
+            },
+            "reviewBody": "I made it according to recipe directions. It was fast, easy, and tastes delicious.",
+            "datePublished": "2017-11-14T03:10:22.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sylvia Douglas"
+            },
+            "reviewBody": "would make again without paprika, more white stuff (I use Miracle Whip) and add celery.",
+            "datePublished": "2017-05-03T21:28:27.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Penny Weaver"
+            },
+            "reviewBody": "Added a splash of cayenne pepper and crumbled turkey bacon. Delicious!!",
+            "datePublished": "2017-03-02T17:02:05.117Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16665/egg-salad-i/",
+          "name": "Egg Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,453 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/215171/creamy-mango-smoothie/",
+  "extracted_at": "2026-10-18T02:55:27.469751+00:00",
+  "recipes": [
+    {
+      "name": "Creamy Mango Smoothie",
+      "ingredients_raw": [
+        "1.5 cups chopped fresh mango",
+        "0.75 cup cold milk",
+        "0.25 cup vanilla yogurt",
+        "3 ice cubes",
+        "0.75 teaspoon vanilla extract"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Blend mango, milk, yogurt, ice, and vanilla extract in a blender until smooth and creamy."
+        },
+        {
+          "id": 3,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Creamy Mango Smoothie",
+        "datePublished": "2011-12-15T15:50:49-05:00",
+        "dateModified": "2026-03-31T11:10:51-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "PARADISO"
+          }
+        ],
+        "description": "This fruity mango smoothie is a simple blend of fresh mango, creamy vanilla yogurt, and ice for a luscious and refreshing summer drink.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/zxQgn7hF5Azu8ThrsJBMJHXO0gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215171-creamy-mango-smoothie-VAT-003-4x3-01closercrop-9901a0fa6ab44e5596088ab3b5304a39.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Creamy Mango Smoothie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "68"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "157 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "9 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "61 mg",
+          "sugarContent": "27 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink",
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.5 cups chopped fresh mango",
+          "0.75 cup cold milk",
+          "0.25 cup vanilla yogurt",
+          "3 ice cubes",
+          "0.75 teaspoon vanilla extract"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/QJDCCFYTYvmixI_XVrI4EVdZ1Dc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215171-creamy-mango-smoothie-VAT-005-step-01-9c124c83adc2436f901aef1576eda9eb.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/7jCjzx80XgM3UQPm80bqB8O3j9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215171-creamy-mango-smoothie-VAT-006-step-02-01overhead-154b84709fdc468382cef8124e25f0ef.jpg"
+              }
+            ],
+            "text": "Blend mango, milk, yogurt, ice, and vanilla extract in a blender until smooth and creamy."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/K0CRuEHmZ1_WZyuNuXK0xnWlfVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215171-creamy-mango-smoothie-VAT-008-step-03-7bff5d920f9643c189e4283d7207c851.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "2",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "M Brown"
+            },
+            "reviewBody": "This is a very good recipe, but I found that two things make it a bit better. 1) If it is a bit tart, adding up to 1 Tblsp of sugar helps. 2) Before adding the ice, if you can refrigerate the mixture overnight, the mango scent and flavor intensify IMMENSELY."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ahren Keirnan"
+            },
+            "reviewBody": "I used 1/2 &amp; 1/2, vanilla, and mango and when I tasted it I actually yelled \"Wow!\" it was so good. Definitely going to be running the stores out of mangoes. Also, I use a mango tool and it splits it and takes the seed out in under 10 seconds. Mine is Oxo but there are other brands, all about $12. Totally worth it.",
+            "datePublished": "2021-01-12T00:46:57.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LilacStew9979"
+            },
+            "reviewBody": "I just made this,followed directions and all. If you don't blend the ice/mangoes together, and put all ingredients in and THEN blend? It's hard to blend everything,so.....1st,I'd recommend blending mangoes and ice (don't overblend!!), THEN finish blending all rest of ingredients. You have to put mangoes,ice,yogurt( this order- it will blend better!!) And then rest of ingredients. Stir after and enjoy!",
+            "datePublished": "2022-10-09T01:38:03.839Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Cohen"
+            },
+            "reviewBody": "Very good smoothie! I made a second batch and froze it in popsicle molds. I used 2 cups of milk, frozen mango, and no ice cubes. Very creamy and thick.",
+            "datePublished": "2014-04-21T07:02:42.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "The vanilla is overwhelming in this recipe. I froze my mango and omitted the ice. Next time I will omit the vanilla extract. This would be a really good smoothie without it. ***Edit - next time, omitted the vanilla flavoring (and ice cubes) and used mango I had labeled and stored in the freezer. Much better without the vanilla! The mango comes through now.",
+            "datePublished": "2013-02-07T09:55:37.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carmen Muñoz Pérez"
+            },
+            "reviewBody": "I have already tried this recipe just a little differently. I actually used 1/2 cup of plain fat free yogurt, 1/2 cup fat free milk and frozen strawberries and banana bites, a little bit of ground cinnamon, and a little bit of sugar, and I did not even have to use ice with it, the yogurt made it have a very good consistency. I also added some almonds to it, I don't know why, but I like it when I have something to chew. All that gave me only one serving.",
+            "datePublished": "2012-11-25T19:02:57.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "susiekew"
+            },
+            "reviewBody": "I used plain Greek yogurt because I thought it would be too sweet if I used vanilla yogurt, and this was a good sweetness for me. I didn't add ice cubes because I used frozen mango, but this made is too thick for my blender (Oh to have a Vitamix!) so I added more milk (I used skim). This made a great, healthy, fast lunch for a busy day. Thanks!",
+            "datePublished": "2013-12-06T11:13:35.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chilove92"
+            },
+            "reviewBody": "This is MY GO TO SMOOTHIE out of all ! I DON'T add ice substitute &amp; use frozen mangos instead and it REALLY DOES NOT MATTER FOR YOGURT . It can be plain or mango flavored yogurt or than vanilla... Rather those two works for me lol.",
+            "datePublished": "2017-05-02T14:02:26.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "Mango is on sale here this week so I bought quite a bit and we're in danger of losing them. I used buttermilk (use or lose kind of situation--I tried buttermilk in another smoothie recipe and we really liked it--you should try it, too!) and chunked frozen bananas instead of ice cubes instead of ice for added thickness and fruit. I doubled this for my boys and I and it was just enough for all of us. Very tasty!",
+            "datePublished": "2011-02-18T07:02:10.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julia Peterson"
+            },
+            "reviewBody": "Pretty good. I used plain yogurt, and added 2 tablespoons of maple syrup to sweeten. I tasted the mango smoothie and then decided to add some shredded coconut, reblended it. I still think it's missing something; if I had frozen banana, or pineapple, I would add those things for a perfectly tropical smoothie taste, c'est la vie!",
+            "datePublished": "2023-09-14T04:07:05.014Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "H B"
+            },
+            "reviewBody": "I didn't have any vanilla yogurt so I used vanilla pudding it was good but I want to try it with vanilla yogurt I think the consistency would be better and it would have more flavor. But overall very good!!! I would DEFINITELY make it again it was amazing!",
+            "datePublished": "2020-02-27T04:36:09.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "suegibson1960"
+            },
+            "reviewBody": "So easy and tasty! Great way to use up mangoes before they got too ripe.",
+            "datePublished": "2026-07-22T16:41:18.844Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LovesCooking"
+            },
+            "reviewBody": "This recipe was such a big hit at my party. The fresh mango flavor and the richness from the yogurt is such a winning combination. The vanilla extract even further seals the deal with the flavor that it brings to the table. A lot of our friends came to ask for the recipe and were all surprised to see how easy it was to make. A keeper for sure.",
+            "datePublished": "2025-06-21T05:43:05.584Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadBeef6426"
+            },
+            "reviewBody": "SO GOOD!!!",
+            "datePublished": "2023-12-15T20:06:07.759Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CalmPulp8670"
+            },
+            "reviewBody": "This was really really good! The first time I made it, I used fresh mangoes. It was good, it just had a LOT of pulp in it. If you like pulp, maybe that's not such a big deal, but I was kinda off-put by the texture. I then read all the comments telling me to use frozen mangoes instead of fresh. I made it again using frozen mangoes and I can confirm, it was a million percent better. Tho, if you're going to go that route, I would add the frozen mangoes and ice cubes a little bit at a time, then blend it, then add some more and repeat. I put all the frozen mangoes in at once (I doubled the recipe btw), and my blender couldn't chop all of them. On my first batch, I still had chunks of frozen mango in there. Overall I really enjoyed it, and I will definitely make it again throughout the summer!",
+            "datePublished": "2022-08-07T21:11:33.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aileen Lisette"
+            },
+            "reviewBody": "We love this smoothie. When making this decadent drink, I always double the recipe when using frozen mangoes and I omit the ice cubes. When using fresh mangoes, I don't double the recipe because I have to use 5 small mangoes for the original recipe! I did not use vanilla extract because the vanilla yogurt was enough, and added 3 tbl of sugar because it's rather dull without it. Thick and delish!",
+            "datePublished": "2022-07-16T00:24:54.054Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "h82cook"
+            },
+            "reviewBody": "Pretty good. I like sweet so will add some honey next time overall simple and delicious.",
+            "datePublished": "2022-05-18T13:58:14.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Scott"
+            },
+            "reviewBody": "Just what I was looking for. I used 1/2 cup of milk and 1/2 cup of apple juice. I needed a little more liquid because I eyeballed the yogurt and it was too thick.",
+            "datePublished": "2022-01-13T02:03:18.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vl2420108"
+            },
+            "reviewBody": "To much vanilla and sooo. Messy",
+            "datePublished": "2021-12-15T03:30:53.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becka Edwards"
+            },
+            "reviewBody": "This is my go-to smoothie anytime of the year. This is fantastic!",
+            "datePublished": "2020-11-12T15:14:51.053Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/215171/creamy-mango-smoothie/",
+          "name": "Creamy Mango Smoothie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/138/drinks/smoothies/",
+                  "name": "Smoothie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16131/drinks/smoothies/mango/",
+                  "name": "Mango"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

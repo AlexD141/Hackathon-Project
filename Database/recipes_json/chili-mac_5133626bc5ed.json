@@ -1,0 +1,474 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/213912/chili-mac/",
+  "extracted_at": "2026-10-18T02:51:55.666513+00:00",
+  "recipes": [
+    {
+      "name": "Chili Mac",
+      "ingredients_raw": [
+        "1 pound ground beef or turkey",
+        "1 medium onion, chopped",
+        "1 green bell pepper, chopped",
+        "1 (14.5 ounce) can Mexican or chili-style stewed tomatoes, undrained",
+        "0.5 cup water",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "2 cups elbow macaroni or small shells, cooked and drained",
+        "2 cups Sargento ® Shredded Reduced Fat 4 Cheese Mexican Cheese, divided"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Cook ground beef, onion, and bell pepper in a large skillet over medium heat until beef is crumbly and no longer pink, about 5 minutes; pour off drippings."
+        },
+        {
+          "id": 3,
+          "text": "Add tomatoes, water, and taco seasoning; simmer, stirring occasionally, for 5 minutes. Remove from heat. Stir cooked pasta into meat mixture until combined."
+        },
+        {
+          "id": 4,
+          "text": "Spoon 3 cups meat mixture into an 11x7-inch baking dish. Sprinkle with 1 cup cheese; top with remaining meat mixture. Cover with aluminum foil."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven for 30 minutes. Remove foil; sprinkle with remaining cheese. Continue baking until cheese is melted, about 5 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chili Mac",
+        "datePublished": "2010-03-16T18:27:54-04:00",
+        "dateModified": "2026-03-17T15:31:12-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sargento"
+          }
+        ],
+        "description": "This chili mac starts with a quick and easy beef chili made on the stove mixed with pasta and cheese, then baked in the oven for a comforting meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/WddYQ3UQr4k9wOteqPU3wbUjIio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213912-chili-mac-DDMFS-beauty-4x3-BG-2784-773ae429422f4a868fac719824b33acd.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chili Mac",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "192"
+        },
+        "cookTime": "PT35M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "430 kcal",
+          "carbohydrateContent": "37 g",
+          "cholesterolContent": "83 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "894 mg",
+          "sugarContent": "6 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner",
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound ground beef or turkey",
+          "1 medium onion, chopped",
+          "1 green bell pepper, chopped",
+          "1 (14.5 ounce) can Mexican or chili-style stewed tomatoes, undrained",
+          "0.5 cup water",
+          "1 (1.25 ounce) package taco seasoning mix",
+          "2 cups elbow macaroni or small shells, cooked and drained",
+          "2 cups Sargento ® Shredded Reduced Fat 4 Cheese Mexican Cheese, divided"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/5G4Od86u0rM96d2V61o_NV2BGQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213912-chili-mac-DDMFS-step-1-BG-2763-ee11700d964746a0ab34966a0b6580b5.jpg"
+              }
+            ],
+            "text": "Cook ground beef, onion, and bell pepper in a large skillet over medium heat until beef is crumbly and no longer pink, about 5 minutes; pour off drippings."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/P38ZtaXqaBCvGgU7wJ22UQwK8r0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213912-chili-mac-DDMFS-step-2-BG-2766-fe08e5e2053b41899c5d55fbb27d6cec.jpg"
+              }
+            ],
+            "text": "Add tomatoes, water, and taco seasoning; simmer, stirring occasionally, for 5 minutes. Remove from heat. Stir cooked pasta into meat mixture until combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/2vh086MIlxbzvjVCnRGyBCWcEZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213912-chili-mac-DDMFS-step-3-BG-2772-c3471b316fa0405ebd78e3d0ac73e07e.jpg"
+              }
+            ],
+            "text": "Spoon 3 cups meat mixture into an 11x7-inch baking dish. Sprinkle with 1 cup cheese; top with remaining meat mixture. Cover with aluminum foil."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/8wkguCJjJ1Ll4Mz3GFEoxAEu48M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213912-chili-mac-DDMFS-step-4-BG-2780-b17d2d81cbbe424b997a19ab2cf30e20.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven for 30 minutes. Remove foil; sprinkle with remaining cheese. Continue baking until cheese is melted, about 5 minutes."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mommy4Boys"
+            },
+            "reviewBody": "This was the best chili mac recipe I have ever made. Although I had to \"rearrange\" a few things because I just didnt have them in my cupboard! The only thing I lacked was a can of the Mexican stewed tomatoes and I had a can of regular, and I also added a can of chili beans, yummy!! Didn't have quite enough cups of cheese so I had slices of real Kraft cheese. Very creamy, not dry, very yummy with homemade bread a salad!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BMSTPAFL"
+            },
+            "reviewBody": "I had some leftover homemade turkey chili, and I was looking for an easy Chili Mac recipe with high ratings. This one seemed like exactly what I was looking for, and it was. I had about 3 cups of leftover chili, so I used it along with half the amounts of macaroni and cheese called for in the recipe. I followed step 2 exactly, spooning half of the mixture in the dish and topping with half the cheese, and then adding the rest of the mixture. I baked it for 30 minutes covered and then added the remaining cheese and baked 5 more minutes. For a smaller batch, I probably should have put it in a smaller pan, such as a loaf pan. However, it was fine as prepared. I would echo the comments of a couple of reviewers that it could have used a little more cheese. That's a personal preference, though. I imagine that it would even be delicious with your favorite canned chili if you were pressed for time.",
+            "datePublished": "2015-01-24T11:01:34.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "softrbreeze"
+            },
+            "reviewBody": "Very tasty. I didn’t have Mexican stewed tomatoes or green peppers so used diced tomatoes with green chilies instead. I also added black pepper, a little extra cumin, roasted garlic salt, and smoked paprika. I cut short the baking time by 5 minutes, added the cheese topping and put back under the broiler for a few minutes. I also used a 9 x 13 casserole dish.",
+            "datePublished": "2023-09-24T22:35:21.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caroline"
+            },
+            "reviewBody": "We really enjoyed this meal. After reading some reviews, I made a few changes, which really made this meal outstanding. The changes I made were to use corkscrew pasta, I used 1 and a half cans of the tomatoes, added a small can of diced green chile, seasoned with Lawrys seasoning salt (found it was too bland without it), and I used more cheese. Also, make sure to cook your pasta al dente or it might get mushy since you are also cooking it more in the oven. Since all of the ingredients are already cooked when you put everything together, I baked at 375 covered for 10 minutes, then uncovered for an additional 5. Served with sour cream. It was delicious and made amazing leftovers!",
+            "datePublished": "2017-04-06T22:48:24.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rick"
+            },
+            "reviewBody": "I liked this recipe the first few times I made it but my wife didn't really care for it. I went looking for other seasoning ideas and settled on 1Tbsp each of Chilli Powder and Cumin. I made a mixture of Sharp Cheddar and Monterey Jack cheeses, and I used medium sized shell pasta. Those few tweaks made all the difference. It was liked by all.",
+            "datePublished": "2025-07-26T20:32:02.035Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "addles"
+            },
+            "reviewBody": "I used 1.5 lbs of hamburger, home made taco seasoning (2 packets worth), and did not have the Mexican tomatoes so used the can of crushed tomatoes I had along with a fresh chopped tomato. I did not add the water where there was so much more tomato than called for. Only had half the cheese but after mixing it up I put the cheese on top and only baked 20 min covered and it was delish. My advise is top with sour cream. I had some without it first and it was great but as leftovers put some on and the difference is crazy.",
+            "datePublished": "2020-05-27T04:44:36.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bill Howard"
+            },
+            "reviewBody": "I'd forgotten how good chili mac could be. This recipe will be my new go-to. I did make some substitutions for what I had on hand. I used ground venison that was mixed with beef fat, diced red bell pepper, colby jack for the middle layer, monty jack for the top layer, and I made my own taco seasoning generally following a recipe on this site. 1/2 tb New Mexico red, 1/2 tb ancho, 1/4 tb smoked paprika, 1/4 tb each garlic, onion, and salt.",
+            "datePublished": "2023-10-05T20:05:35.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue"
+            },
+            "reviewBody": "I used the quantities and most of the ingredients in the recipe, but ended up making more of an Italian Goulash than Mexican, mainly because I couldn't find the tomatoes and my taco seasoning was way out of code. So, I used two cans of stewed tomatoes, two teaspoons of Italian seasoning, two teaspoons of chopped garlic, and some salt and pepper to taste, along with the hamburg, peppers, onions, small elbow macaroni, and cheese. Put it together in the morning and baked it for dinner at 350° covered for 45 minutes, added top layer of cheese and baked another five. Perfect amount for a three quart casserole. Delicious! Very versatile recipe.",
+            "datePublished": "2024-05-18T23:09:27.565Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steve Bunten"
+            },
+            "reviewBody": "I made this tonight and my wife said this is a keeper. There were only two changes I made. I sautéed the onion and pepper (used red pepper instead of green) for about 3 minutes before putting in the ground beef. Also I used two 10oz cans of Rotel tomatoes since this is a sort of Mexican dish. Plenty of leftovers for the two of us and we'll be making this again!",
+            "datePublished": "2022-12-21T03:48:40.034Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "charlesharasty"
+            },
+            "reviewBody": "Firstly this recipe doesn't make much sense. To me I don't know why they made Chili Mac and there isn't any chili powder, cumin or even chili seasoning packets. To me, it isn't chili mac if you're using taco seasoning. But this is what I did and changed. \n\nUsed Chili Seasoning instead of Taco Seasoning \nAdded 1 can of the diced tomato \nUsed 1/4 cup of water. Reducing the 1/2 cup because of the extra can of diced tomatoes I added.",
+            "datePublished": "2021-11-23T02:04:56.387Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jayelle"
+            },
+            "reviewBody": "This was far better than I expected it to be. I didn't have Mexican or chili stewed tomatoes, I only had regular stewed tomatoes, so to compensate, I added a half cup of salsa and almost a tablespoon of chili powder. Also added a couple dashes of Worcestershire sauce for added flavor. I let it simmer for close to an hour before adding the elbow macaroni. I followed everything else exactly. I will make this again, everyone loved it.",
+            "datePublished": "2014-02-16T12:01:37.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TxCin2"
+            },
+            "reviewBody": "This was pretty good. Not spicy. Very mild flavor. I cut this in half and used 1/2 lb. of ground sirloin, so there wasn't any residual grease to drain. I seasoned that meat with some Adobo seasoning and cooked those onions right in with it. I only used half the onion called for, as that's too much onion for me as written. It's my kitchen, I use what I've got and adjust for my tastes. I subbed jarred red pimento for the green peppers. I had open cans of diced tomatoes with roasted garlic and mild mexican seasoned tomato sauce in the fridge to use up, so I did. I also added some chili beans I found in there too. Because I like cumin, I added a pinch of it, and a pinch of garlic powder then I let that chili simmer a little while for the flavor to develop before making the casserole. Working with what I had, I used rigatoni instead of elbow mac. I just put them in the middle with that cheese layer instead of mixing them in.",
+            "datePublished": "2026-08-20T18:33:11.441Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeSauce6696"
+            },
+            "reviewBody": "Great recipe! I used one can Mexican stewed tomatoes and one of the regular stewed tomatoes (to make sure it wasn't too spicy hot) - It turned out wonderful! I doubled the recipe, except used a little less of the macaroni. Thinking about adding beans next time but it's really perfect as is!",
+            "datePublished": "2026-07-19T19:53:39.739Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Saber"
+            },
+            "reviewBody": "The only change I made was that I used my home-canned tomatoes that I grew myself.",
+            "datePublished": "2025-11-20T19:03:08.666Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dolores"
+            },
+            "reviewBody": "Absolutely Delicious!",
+            "datePublished": "2025-09-02T17:40:25.714Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BETTY BAKER"
+            },
+            "reviewBody": "Great Recipes. I added Mozzarella cheese and Mexican cheese.",
+            "datePublished": "2025-06-11T00:28:07.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JoyfulUbe8838"
+            },
+            "reviewBody": "This is about the third time I am making it. It is good every time.",
+            "datePublished": "2025-05-06T21:41:49.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BamaGRITSGal"
+            },
+            "reviewBody": "This is my go-to Chili Mac recipe! It's quick and effortless to prepare. I make a few tweaks, like opting for regular crushed tomatoes instead of Mexican or chili-stewed ones, but it still delivers amazing flavor! I prefer dicing the bell pepper, onion, and garlic into smaller pieces to suit my taste. You really can't go wrong with this recipe!",
+            "datePublished": "2025-03-15T19:45:25.471Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EdgyScale1762"
+            },
+            "reviewBody": "Grandma Etta called it “More” because everyone always wanted more!",
+            "datePublished": "2025-02-13T03:35:49.822Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TheAlrightythen"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-12T18:50:26.926Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/213912/chili-mac/",
+          "name": "Chili Mac",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

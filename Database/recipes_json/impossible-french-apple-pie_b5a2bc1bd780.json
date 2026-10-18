@@ -1,0 +1,460 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18431/impossible-french-apple-pie/",
+  "extracted_at": "2026-10-18T02:30:53.566119+00:00",
+  "recipes": [
+    {
+      "name": "Impossible French Apple Pie",
+      "ingredients_raw": [
+        "6 cups tart apples - peeled, cored and sliced",
+        "1.25 teaspoons ground cinnamon",
+        "0.25 teaspoon ground nutmeg",
+        "1 cup white sugar",
+        "0.75 cup milk",
+        "0.5 cup biscuit mix (e.g. Bisquick)",
+        "2 eggs",
+        "2 tablespoons butter",
+        "1 cup biscuit mix (e.g. Bisquick)",
+        "0.5 cup chopped walnuts",
+        "0.33333334326744 cup light brown sugar",
+        "3 tablespoons butter"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 325 degrees F (165 degrees C). Grease a 10-inch pie pan."
+        },
+        {
+          "id": 2,
+          "text": "In a large bowl, mix apples, cinnamon, and nutmeg together; turn mixture into pan. In a separate bowl, beat sugar, milk, 1/2 cup biscuit mix, eggs, and butter until smooth. Pour over apples."
+        },
+        {
+          "id": 3,
+          "text": "In a small bowl, stir together 1 cup biscuit mix, nuts, brown sugar and butter; mix until crumbly. Sprinkle streusel over top of pie."
+        },
+        {
+          "id": 4,
+          "text": "Bake in preheated oven for 55 to 60 minutes; bake until knife inserted in center of pie comes out clean."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Impossible French Apple Pie",
+        "datePublished": "2000-05-08T17:07:09-04:00",
+        "dateModified": "2023-07-04T17:58:53-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Brenda Ward"
+          }
+        ],
+        "description": "This impossible apple pie made with tart apples, cinnamon, nutmeg, and biscuit mix creates its own crust. You&#39;ll find this sugary treat delicious!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/r9Y7YyXvAbce86h2ZvzAY41cPdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1071607-b5e23aa06f4648e79514b6efff0d3b54.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Impossible French Apple Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "86"
+        },
+        "cookTime": "PT55M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "324 kcal",
+          "carbohydrateContent": "50 g",
+          "cholesterolContent": "54 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "306 mg",
+          "sugarContent": "36 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "6 cups tart apples - peeled, cored and sliced",
+          "1.25 teaspoons ground cinnamon",
+          "0.25 teaspoon ground nutmeg",
+          "1 cup white sugar",
+          "0.75 cup milk",
+          "0.5 cup biscuit mix (e.g. Bisquick)",
+          "2 eggs",
+          "2 tablespoons butter",
+          "1 cup biscuit mix (e.g. Bisquick)",
+          "0.5 cup chopped walnuts",
+          "0.33333334326744 cup light brown sugar",
+          "3 tablespoons butter"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C). Grease a 10-inch pie pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl, mix apples, cinnamon, and nutmeg together; turn mixture into pan. In a separate bowl, beat sugar, milk, 1/2 cup biscuit mix, eggs, and butter until smooth. Pour over apples."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a small bowl, stir together 1 cup biscuit mix, nuts, brown sugar and butter; mix until crumbly. Sprinkle streusel over top of pie."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in preheated oven for 55 to 60 minutes; bake until knife inserted in center of pie comes out clean."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "1 10-inch pie"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jill R"
+            },
+            "reviewBody": "This is yummy! The only reason I didn't give it a higher rating is the recipe is a little vague, as some people pointed out. I let the butter soften, but I found it did not mix in at all with the milk mixture, no matter how long I beat it with my mixer. Next time, I will melt the butter. Also, it didn't cook in the alloted time--I think this is because I'm at a high altitude (5000-plus feet). I went to the Bisquick Web site and they had the same recipe with slightly different/smaller measurements to fit in a 9-in. pie pan. (I used a deep square dish for this recipe, which worked fine and didn't overflow.) The site also said for high altitudes, adjust the heat to 375 degrees. Next time, I will probably just use the recipe on the Bisquick Web site. Just a note for high-altitude bakers--the Bisquick Web site actually connects to the Betty Crocker Web site, and it appears that all their recipes have high-altitude adjustment suggestions."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rklewis2"
+            },
+            "reviewBody": "Takes MUCH longer to cook at 325 ! Worked Best for us: at 350 full 55 minutes; and broil top 4-5 minutes.\n Watch it closely as If Uncooked it will be a soggy bottom mess! :(\n We have also made it :) gluten free baking mix with consistent results. \nAlso: a Variety to bake &amp; take use the 350 for 1 hr or so; by separating the ingredients into 2 normal cake pans ~ makes layering topping on both; then putting these together after cooling 10-15 minutes. \n Drizzle with powder sugar ; cream cheese or chocolate. Makes a Very Sticky Gooey Yummy breakfast &amp; it is Not-too-sweet!!!! G free as easy",
+            "datePublished": "2014-10-03T11:16:37.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "Easy to make with pantry items that are usually on hand. I used Gluten Free Bisquick, and skipped the nuts since my husband doesn't like nuts. Added a little extra of each of the ingredients since I decided to make two since I saw most posters indicated it overflowed. Used two 8.5 inch pie plates, which probably is why mine were a little flat, but they still tasted yummy.",
+            "datePublished": "2014-02-13T18:00:05.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dani Lefebvre"
+            },
+            "reviewBody": "Great!! I used pecans instead of walnuts, and because I didn't have a 10 inch pie pan, I used two 6 inch pans, (however it overflowed, so I wouldn't recommend that) . ALSO instead of bisquick I just made my own = 1 c flour, 1 1/4 tsp baking soda, 1/2 tsp salt.. and left out the extra oil/butter thats in bisquick normally.",
+            "datePublished": "2010-09-26T18:14:08.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "New2theSouth"
+            },
+            "reviewBody": "I gave three stars because I only used 1/2 of the recipe. I cut out the crust to keep it light on the carbs and made the struesel with almonds (out of everything else). I also added raisins and a spoonful of southern comfort to flavor the cooked apples. It was sooo good I made it three times in one week. FYI- if you have apples starting to go bad cook them and store them in the freezer, it shortened the cooking time to 10 minutes to crisp the struesel. Great Recipe!",
+            "datePublished": "2009-10-07T09:32:12.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TUNISIANSWIFE"
+            },
+            "reviewBody": "I had some Jiffy brand baking mix I wanted to use up and a few very sad looking golden delicious apples. I only had enough for 5 cups of apples. I found the 'crust' batter to be very thin but proceeded, as I remember another reviewer commenting the same thing. After about 5 min. in the oven it started to ooze over the side of the 10 inch pie dish. To save my oven I just put a cookie sheet underneath to catch the drips. It took about an hour to bake at 325. The crumb topping is wonderful. I added 1.5 tsp. cinnamon and 1/2 tsp. nutmeg. The spices were perfect, the apples were done perfectly, and the taste is very nice. I am whipping up some cream for the top to serve to co workers. I just had to try a small sliver to make sure it was presentable. Very easy and quick recipe, also nice because it uses ingredients one has on hand. *I also melted the butter for the 'crust' batter, but kept the butter in small cubes for the crumb topping. thanks for this nice recipe. It's different, not your average pie, cobbler, or crisp.",
+            "datePublished": "2006-01-05T09:12:45.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GramBouka"
+            },
+            "reviewBody": "I think of this recipe as more of a type of apple crumble. Once we got past the lack of crust we loved it! We put frozen vanilla yogurt on the warm \"pie\" and it was amazing. Instead of adding nuts in the topping, I added 1/4 cup of quick oats. I sliced the apples fairly thin so they would cook in the 55 minutes.",
+            "datePublished": "2014-08-25T08:23:28.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jena"
+            },
+            "reviewBody": "I melted the butter because the recipe was vague and I used pecans for the topping. It was an easy dessert. I believe that 325 degrees may be too low. It took more than an hour to completely cook. Judge what is best for your own oven... Thank you.",
+            "datePublished": "2015-02-14T17:47:35.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "juje"
+            },
+            "reviewBody": "Just made this and it was wonderful!! I did not have any Bisquick so I followed another post and made the Bisquick substitution. I did let it bake for an additional 15 minutes because it seemed a bit soggy. I was a little leary, making it for the first time, but it was wonderful!!",
+            "datePublished": "2014-01-02T18:55:38.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brad Stephen"
+            },
+            "reviewBody": "This is a fabulous recipe that is so easy even I can make it. Follow the recipe as it is and you will not be sorry. It will take a little longer to bake then 1 hour, but it is sooooo gooood, it is worth the wait. Using a soft tub margarine eliminates the problem that some have had on mixing the butter with the milk mixture. I had no problem at all. When mixing the struesel mix the brown sugar with the bisquick first, then just chop at the margarine with a spoon until it gets a bit crumbly is all it takes. Again the tub margarine helps with this as well.",
+            "datePublished": "2009-11-24T20:14:14.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NICKIE2"
+            },
+            "reviewBody": "I took some liberties with this: added maybe 1c. cranberries, the apples were already seasoned from another apple pie and I used a stoneware pie plate. \nIt took nearly 2 hours at 350. Finally I shut the oven off with the pie inside and went to do my hair - came back and it was finally done.\nHopefully it eats as good as it looks - which is pretty awesome.",
+            "datePublished": "2007-11-22T14:38:34.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erma"
+            },
+            "reviewBody": "Was easy loved it",
+            "datePublished": "2026-09-23T18:44:17.771Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HonestLemon6605"
+            },
+            "reviewBody": "I first made this pie about 35 years ago and still make it now. I've never been good at pastry so am pleased that everyone I have served this to has asked me to make it again and again...",
+            "datePublished": "2024-10-16T19:22:46.156Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurie"
+            },
+            "reviewBody": "We have never had a French apple pie, and it’s our new favorite. It will be difficult to go back to a regular apple pie again.",
+            "datePublished": "2024-07-15T22:19:58.068Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FVA5150"
+            },
+            "reviewBody": "My guests said it was the best apple pie that they ever had. I really liked it too.",
+            "datePublished": "2019-12-16T00:17:26.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Melanie Schadewald"
+            },
+            "reviewBody": "This was amazing! Excellent flavors. And went well with Macadamia vanilla ice-cream! Loved the taste using pecans! It was hard for my boyfriend to stop at 1 piece!",
+            "datePublished": "2018-08-14T05:30:45.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jude Kerr"
+            },
+            "reviewBody": "Made this tonite and it was a great hit! The only thing was that it was tough to get it out of the pie plate in a proper triangle like a true pie.",
+            "datePublished": "2016-09-20T03:14:12.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christopher Taylor"
+            },
+            "reviewBody": "I added about 1/8 C more sugar and about 1/2 Tea of cinnamon, these ingredients are an estimated guess I do not measure ingredients when I bake or cook. But I'll rate this a 9.5 out of a 10. The apple pie I baked tonight really was delicious. LOL, only 45 minutes after I took the pie out of my oven my mom and I tore into it.",
+            "datePublished": "2015-11-12T19:34:41.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lil_miss95662"
+            },
+            "reviewBody": "It wasn't that good and o wish the apples had more sweetness to them. They were dry and tart.",
+            "datePublished": "2015-09-05T19:16:21.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tasha"
+            },
+            "reviewBody": "I made this recipe for a family gathering, and I told them I \"slaved all day in the kitchen to make this pie.\"",
+            "datePublished": "2015-03-27T16:29:51.250Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18431/impossible-french-apple-pie/",
+          "name": "Impossible French Apple Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/721/world-cuisine/european/french/",
+                  "name": "French"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

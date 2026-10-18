@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/214625/grilled-lamb-burgers/",
+  "extracted_at": "2026-10-18T02:53:33.002701+00:00",
+  "recipes": [
+    {
+      "name": "Grilled Lamb Burgers",
+      "ingredients_raw": [
+        "1.25 pounds ground lamb",
+        "1 egg",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dry sherry",
+        "1 teaspoon white wine vinegar",
+        "0.5 teaspoon crushed red pepper flakes",
+        "4 cloves garlic, minced",
+        "0.5 cup chopped green onions",
+        "1 tablespoon chopped fresh mint, or to taste",
+        "2 tablespoons chopped fresh cilantro",
+        "2 tablespoons dry bread crumbs",
+        "0.125 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "5 hamburger buns"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an outdoor grill for medium-high heat, and lightly oil the grate."
+        },
+        {
+          "id": 2,
+          "text": "Mix the lamb, egg, oregano, sherry, vinegar, red pepper flakes, garlic, green onions, mint, cilantro, bread crumbs, salt, and pepper together in a mixing bowl with your hands until evenly blended. Form into five patties."
+        },
+        {
+          "id": 3,
+          "text": "Cook on the preheated grill until the burgers are cooked to your desired degree of doneness, about 4 minutes per side for medium-rare. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C). Serve on buns."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Grilled Lamb Burgers",
+        "datePublished": "2010-05-16T11:53:39-04:00",
+        "dateModified": "2026-08-26T12:31:38-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Allrecipes Member"
+          }
+        ],
+        "description": "These lamb burgers are seasoned with oregano, red pepper flakes, mint, and sherry.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Jj0D2VUcLjDdsuSBawpiPM61hlI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145776-2bfca0b99a56458a8bd0e44de18b4d57.jpg",
+          "height": 1574,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grilled Lamb Burgers",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "26"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "376 kcal",
+          "carbohydrateContent": "25 g",
+          "cholesterolContent": "113 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "370 mg",
+          "sugarContent": "3 g",
+          "fatContent": "19 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.25 pounds ground lamb",
+          "1 egg",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dry sherry",
+          "1 teaspoon white wine vinegar",
+          "0.5 teaspoon crushed red pepper flakes",
+          "4 cloves garlic, minced",
+          "0.5 cup chopped green onions",
+          "1 tablespoon chopped fresh mint, or to taste",
+          "2 tablespoons chopped fresh cilantro",
+          "2 tablespoons dry bread crumbs",
+          "0.125 teaspoon salt",
+          "0.25 teaspoon ground black pepper",
+          "5 hamburger buns"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat, and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix the lamb, egg, oregano, sherry, vinegar, red pepper flakes, garlic, green onions, mint, cilantro, bread crumbs, salt, and pepper together in a mixing bowl with your hands until evenly blended. Form into five patties."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook on the preheated grill until the burgers are cooked to your desired degree of doneness, about 4 minutes per side for medium-rare. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C). Serve on buns."
+          }
+        ],
+        "recipeYield": [
+          "5",
+          "5 burgers"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mother Ann"
+            },
+            "reviewBody": "These were really good! I did make one change, though not a huge one. Instead of using dried oregano, I used fresh since mine is growing so fast in my garden. I served with mango chutney and cream cheese, with sliced red onion - fabulous! My husband and son both loved them and said I can make them anytime."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marinabersh"
+            },
+            "reviewBody": "these were really good, i did not have some of the intredients like cilantro, fresh mint and white wine vinegair, and no grill or barbeque. I cooked in some ghee in cast iron pan, and everyone including the kids loved them. served them with sliced tomatoes and onions. Also fried some onions until soft and brown in the leftoever fat, and topped the lambergers. Will be making again with missing ingredients added!",
+            "datePublished": "2010-06-26T06:56:48.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barb A"
+            },
+            "reviewBody": "This was a tasty recipe and a great way to use ground lamb. I just made a few adjustments, including using fresh oregano (as another reviewer suggested) and I doubled the bread crumbs as the consistency of the burger mixture was too 'wet.' I served the burgers on buns with garlic mayonnaise, lettuce, and feta cheese. A delicious meal!",
+            "datePublished": "2017-08-11T21:51:25.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SteaknSaladPlease"
+            },
+            "reviewBody": "Pretty tasty I must say! Along with infusing the lamb with eggs and tiny bread crumbs, I put blue cheese crumbles in there as well. It works very well with the dry sherry. I also didn't use the red pepper or oregano. Still just as delicious.",
+            "datePublished": "2015-04-26T19:57:26.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MariaTheSoaper"
+            },
+            "reviewBody": "Great seasonings though I did tweak the meat and omitted the egg/breadcrumbs. I did half beef and half lamb so I wouldn't have to use the egg/breadcrumbs and make it juicier. Other than that, this is a keeper!",
+            "datePublished": "2012-05-19T21:44:21.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cl2walker"
+            },
+            "reviewBody": "Excellent burgers, we loved them! I did make a change though by making and then topping the burgers with homemade greek tzatki. The slightly gamey taste of the lamb worked well with tzatki (made w/fat free greek yogurt)and allowed to skip a fattening condiment like mayo. We added a greek side salad and glasses of sangria for a great friday night meal. Would definetely make again.",
+            "datePublished": "2011-04-29T19:34:18.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joseph Haas"
+            },
+            "reviewBody": "I made this recipe to the letter, and it was pretty dang delicious! I served it on a toasted whole wheat bun with pepper jelly, goat cheese, and arugula. The flavor explosion was scrumptious!",
+            "datePublished": "2015-05-22T19:11:59.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "winenfoodlvr"
+            },
+            "reviewBody": "Made these as sliders and served with marinated onion, cucumber and tomatoe salad on toasted whole wheat dinner rolls with chipotle mayo on bottom bun. Served with an Amarone- the sweet complimented the spice.",
+            "datePublished": "2011-12-17T20:11:25.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "just_jam"
+            },
+            "reviewBody": "these were very good.. i made bf's that night and then i cooked mine in the morning.. used ground turkey for the lamb and i left out the egg and dry sherry in both of ours.. left out the bread crumbs and shallots (for the green onion) in mine.. used about 3/4 tsp of salt and dried mint for fresh.. i felt like it was a little too peppery but i still found it tasty.. i made this again tonight and subbed garlic powder for fresh and it was still very good! ty for the recipe",
+            "datePublished": "2014-07-18T19:35:39.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shoemaker7"
+            },
+            "reviewBody": "I love this recipe so much. I hate cilantro, so I just eliminate that. And I'm grain-free, so I replace the bread crumbs with cashew meal. The burgers have such a great flavor and they are always moist and delish! Thank you for posting it!",
+            "datePublished": "2014-03-24T07:56:36.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jlavitz"
+            },
+            "reviewBody": "This recipe is just AMAZING! Very very easy to make and my kids love it! My husband and I took the suggestion of having Syrah with them and it was a very delicious pairing...my son made shoestring french fries and added a little fresh rosemary and sea salt to them - wow what a meal!",
+            "datePublished": "2011-04-04T13:00:48.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CheekyVeal2493"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-19T17:59:22.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori Boyd"
+            },
+            "reviewBody": "this is so good! made a feta &amp; kalamata olive toppenod to put on top with a slice of tomato and lettuce.",
+            "datePublished": "2017-07-31T20:22:36.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janet1"
+            },
+            "reviewBody": "Perfect Lamb Burgers!",
+            "datePublished": "2017-04-01T17:27:46.457Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dawn Carpenter"
+            },
+            "reviewBody": "Lived this recipe...Will add more seasoning the next time I make it.",
+            "datePublished": "2017-02-18T21:28:54.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vicmaster"
+            },
+            "reviewBody": "I didn't bother with the bread crumbs and eggs and they were moist and delicious.",
+            "datePublished": "2016-07-24T00:45:41.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachael"
+            },
+            "reviewBody": "Wow, these burgers are amazing! I followed recipe almost exactly, except no cillantro (i hate it) and used stovetop/finish in oven instead of a grill",
+            "datePublished": "2013-11-11T09:22:25.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "leftoverQueen"
+            },
+            "reviewBody": "I know you are going to think I'm nuts BUT, try spreading CHUNKY peanut butter on as a spread! You will be delightfully surprised ;)",
+            "datePublished": "2013-03-07T13:55:03.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katiedid1806"
+            },
+            "reviewBody": "This was a HUGE hit in our house. The preschoolers loved it (I may lessen the spices just a tad for them next time), and my husband has declared it to be a new \"staple\" in the house. We use toasted English muffins instead of hamburger rolls (something my mom used to do). I have made it with dried mint and fresh (the latter is preferred, but the former will do). This summer I'm likely to use all fresh herbs instead of any dried, but in the meantime, however we need to make it will make the whole family happy. Now if I can just remember to make the Tzatziki the day before...",
+            "datePublished": "2013-01-18T13:31:07.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "queenvalerie"
+            },
+            "reviewBody": "These were wonderful! One tiny change - i didn't use the sherry. Other than that i made them exactly like this and they really were amazing. Moist and tender and flavorful. They smelled so good and tasted even better. THANKS!",
+            "datePublished": "2012-04-20T20:13:19.310Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/214625/grilled-lamb-burgers/",
+          "name": "Grilled Lamb Burgers",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+                  "name": "Burger Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1002/main-dish/burgers/lamb/",
+                  "name": "Lamb"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,421 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13953/chinese-cold-pasta-salad/",
+  "extracted_at": "2026-10-18T01:55:58.362489+00:00",
+  "recipes": [
+    {
+      "name": "Chinese Cold Pasta Salad",
+      "ingredients_raw": [
+        "8 ounces dry fettuccine pasta",
+        "2 tablespoons natural peanut butter",
+        "0.5 cup vegetable broth",
+        "2 tablespoons soy sauce",
+        "3 cloves garlic, minced",
+        "2 teaspoons crushed red pepper flakes",
+        "1 red bell pepper, chopped",
+        "2 green onions, chopped",
+        "0.5 cup chopped fresh cilantro"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook pasta in a large pot of boiling water until al dente. Rinse and drain. Set aside."
+        },
+        {
+          "id": 2,
+          "text": "In a large bowl, combine peanut butter, broth, soy sauce, garlic, and crushed red pepper. Mix well. Add pasta, sliced red pepper, scallions, and cilantro; toss to combine. Chill."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chinese Cold Pasta Salad",
+        "datePublished": "1999-07-25T09:44:31-04:00",
+        "dateModified": "2022-07-14T16:06:09-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Julie MacLaren"
+          }
+        ],
+        "description": "Pasta is pasta, but the spicy peanut sauce is a knock out. Natural peanut butter is dolled up with soy sauce, crushed red pepper, veggie broth and garlic. Add a bit of scallion, bell pepper and cilantro - and toss.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/29K45QYxxi640inhm2RBdkWbrOo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1307-b81a062ef1944c819e38c6d13558a2ac.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chinese Cold Pasta Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "ratingCount": "106"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "275 kcal",
+          "carbohydrateContent": "48 g",
+          "fiberContent": "4 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "537 mg",
+          "sugarContent": "5 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "Chinese"
+        ],
+        "recipeIngredient": [
+          "8 ounces dry fettuccine pasta",
+          "2 tablespoons natural peanut butter",
+          "0.5 cup vegetable broth",
+          "2 tablespoons soy sauce",
+          "3 cloves garlic, minced",
+          "2 teaspoons crushed red pepper flakes",
+          "1 red bell pepper, chopped",
+          "2 green onions, chopped",
+          "0.5 cup chopped fresh cilantro"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook pasta in a large pot of boiling water until al dente. Rinse and drain. Set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine peanut butter, broth, soy sauce, garlic, and crushed red pepper. Mix well. Add pasta, sliced red pepper, scallions, and cilantro; toss to combine. Chill."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT80M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Very tasty indeed - and spicy. Try going to the local market and picking up some Asian noodles instead of fettucine. Also, the peanut butter can be annoying to mix unless you first microwave it for a short time - then it become soupy and \"more liquified\" and user-friendly without losing any flavor. Just be sure not to overcook the pb in the microwave; burnt pb stinks!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BumperJr"
+            },
+            "reviewBody": "I really enjoyed this recipe! I didn't have natural peanut butter, but I used regular crunchy and it was great. I also used chicken broth instead of veggie broth (just what I had on hand). I used whole wheat rotini pasta (I'm sure it would have been more authentic with flat noodles), and I doubled the sauce recipe for the whole box of noodles. I cut back on the red pepper flakes just because it looked like an awful lot when I started adding them to the sauce (even though I like things spicy). I also took the advice of others and softened the PB in the microwave for 30 seconds before mixing, and it worked beautifully! I also added a few dashes of ground ginger to the sauce. For veggies I used frozen peas, thinly sliced carrots, red bell pepper, green onions and bean sprouts. I also added some roasted, salted cashews. My husband especially enjoyed it! Thanks for the recipe!",
+            "datePublished": "2008-04-29T15:01:41.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "addles"
+            },
+            "reviewBody": "I added some extra veggies and grilled chopped up pork chops to this. Tripled the sauce except the peanut butter. We enjoyed this. Thanks for the easy recipe.",
+            "datePublished": "2020-01-22T02:21:16.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KIMMYKUP"
+            },
+            "reviewBody": "Loved this salad! After you boil your noodles, drain them and use the hot stock pot to melt down your peanut butter; then add the other sauce ingredients. It works perfectly, and there is no need to haul out the blender. Add your noodles and other ingredients into the pot and mix well before pouring into a serving bowl. I added some shredded carrots and cucumbers, too. Delicious!",
+            "datePublished": "2008-08-26T07:52:39.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Saveur"
+            },
+            "reviewBody": "Loved this simple and tasty recipe. The perfect accompaniment to our picnic! I used spaghetti, and just eyed the ingredients, used about 4 tablespoons of peanut butter, a little less garlic and chili flakes in the dressing. A word of advice: make the dressing in the blender. I started by stiring as directions suggested, but ended up with a congealed mess. A quick puree in the blender yeilded the smooth, creamy consistency I was looking for. Also added shredded carrot. Thanks for sharing!",
+            "datePublished": "2006-07-22T12:59:19.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sublimare"
+            },
+            "reviewBody": "Yum! I have been making this recipe for years and it is still one of my favorites. I've never had trouble with the peanut butter, but I think that is because I mix the room-temperature broth and pb together first before adding cold components. I usually double the sauce (except for pepper flakes) because the noodles suck up so much of it as it cools. I make enough to last several days and use cilantro as a garnish each time rather than mixing it in to avoid wilting and discoloration over time. Great with tofu or chicken breast added.",
+            "datePublished": "2011-06-04T05:47:38.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "iluv2cook"
+            },
+            "reviewBody": "this was fantastic! just finished making it - but i added a few of my own touches. i added a handful of shredded carrots (buy the kind from the store that's already shredded!) i also added a tablespoon of sesame seed oil for a little asian flair and at the end i threw in some toasted sesame seeds! after seeing other reviews about the difficulty in mixing the pb, i poured the broth in a bowl and added the pb and threw that in the microwave at half power for 1-2 mins and it mixed very easily! also didn't have fettucine on hand so i used thin linguine instead. definitely taste the sauce before adding to the noodles - i added a little more soy sauce as i didn't think 2 tbsp was enough. overall it has excellent flavor and i will definitely be making this again! thanks for sharing!!",
+            "datePublished": "2010-07-08T22:15:23.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marian"
+            },
+            "reviewBody": "YUMMY! We recently moved and I couldn't find my cookbooks. I didn't want to spend a great deal of time in a hot kitchen and was dying for Cold Sesame Noodles. This is very good, very easy and very close to the recipe I was looking for. I used the full 2 tsp. of crushed red pepper because we like everything hot and spicy, but if you don't -- definitely cut the recipe back. I added about 1/2 - 1 tsp. red wine vinegar as that is called for in the original recipe (as well as soy sauce, etc.) and that helped round out the salad quite nicely. I made vegetarian broth in the microwave and added the peanut butter to that before putting it all in the large bowl and had no problem with the peanut butter breaking down. Once you let it sit it becomes less soupy, even with the whole wheat noodles I used. This is an excellent recipe!",
+            "datePublished": "2002-07-04T06:54:50.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marian"
+            },
+            "reviewBody": "YUMMY! We recently moved and I couldn't find my cookbooks. I didn't want to spend a great deal of time in a hot kitchen and was dying for Cold Sesame Noodles. This is very good, very easy and very close to the recipe I was looking for. I used the full 2 tsp. of crushed red pepper because we like everything hot and spicy, but if you don't -- definitely cut the recipe back. I added about 1/2 - 1 tsp. red wine vinegar as that is called for in the original recipe (as well as soy sauce, etc.) and that helped round out the salad quite nicely. I made vegetarian broth in the microwave and added the peanut butter to that before putting it all in the large bowl and had no problem with the peanut butter breaking down. Once you let it sit it becomes less soupy, even with the whole wheat noodles I used. This is an excellent recipe!",
+            "datePublished": "2002-07-04T06:54:50.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jen Sims"
+            },
+            "reviewBody": "I really like the ideas of this recipe, but it was a bit bland for me. I used udon noodles, added fresh grated ginger to the sauce and some Hawaiian chili water. If you use natural peanut butter you shouldn't have trouble. I like crunchy. I added shrimp and thought it was a really decent light dinner.",
+            "datePublished": "2015-03-27T21:49:29.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Love this recipe - made a few modifications. My daughter made the \"sauce\" (so I hope her measurements were accurate) - I did add 1 tsp of red wine vinegar as another suggested. This recipe sounded to me like it should be served warm = so I added some cooked/cubed chicken breast, and added into the sauce. I then sauted the red &amp; green bell pepper, onion, celery and garlic = added them warm to the \"sauce.\" Last, I cooked Thai rice noodles (for \"authenticity\") and mixed to coat with the sauce, chicken and veggies. Love it! Great recipe and could make a great summer or winter dish. Thanks Julie - I'm adding this to my list of favorites!",
+            "datePublished": "2008-06-30T19:45:34.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aaronprioleai"
+            },
+            "reviewBody": "Great cold Chinese pasta dish",
+            "datePublished": "2022-07-19T18:54:25.929Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Friemann"
+            },
+            "reviewBody": "Love it!!",
+            "datePublished": "2019-10-24T00:14:06.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maria Whitesell"
+            },
+            "reviewBody": "Great to make at the beginning of the week and use for lunches.",
+            "datePublished": "2015-04-28T12:58:24.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Doreen Martinez"
+            },
+            "reviewBody": "very tasty, I put a little more red crushed pepper to spice it up",
+            "datePublished": "2014-08-10T18:08:07.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jeffer5"
+            },
+            "reviewBody": "This was good, everyone enjoyed it. We had it as a main dish but I think it would be better as a side to chicken or fish prepared in the same style.",
+            "datePublished": "2014-06-09T04:21:04.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "danajoc2003"
+            },
+            "reviewBody": "My husband said it was okay, but once he heated it in the microwave for just a few seconds said it was excellent!",
+            "datePublished": "2014-01-16T07:06:25.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amymax23"
+            },
+            "reviewBody": "I loved this recipe. I did not have everything but it still came out good. I used Bragg's amino for mine and a vegetable bullion cube.",
+            "datePublished": "2012-10-08T09:43:43.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "A quick and easy side dish! I used low sodium soy sauce, cut the red pepper flakes in half and used a little chili garlic sauce instead. I warmed the peanut butter to make it easier to work with and added a little rice wine vinegar. I used only the green onion and topped with a little toasted sesame seed. Overall, very tasty!",
+            "datePublished": "2012-01-31T11:22:44.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Community"
+            },
+            "reviewBody": "Thanks! This was a very different recipe with a unique flavor; very easy to throw together.",
+            "datePublished": "2011-12-14T19:24:37.767Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13953/chinese-cold-pasta-salad/",
+          "name": "Chinese Cold Pasta Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

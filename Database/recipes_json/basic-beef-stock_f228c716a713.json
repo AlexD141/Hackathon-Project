@@ -1,0 +1,463 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12984/basic-beef-stock/",
+  "extracted_at": "2026-10-18T01:51:36.426664+00:00",
+  "recipes": [
+    {
+      "name": "Basic Beef Stock",
+      "ingredients_raw": [
+        "6 pounds beef soup bones",
+        "1 large onion",
+        "3 large carrots",
+        "0.5 cup water",
+        "1 large tomato",
+        "1 medium potato",
+        "2 stalks celery, including some leaves",
+        "0.5 cup chopped parsnip",
+        "4 sprigs fresh parsley",
+        "1 tablespoon salt",
+        "2 teaspoons dried thyme",
+        "2 cloves garlic",
+        "1 bay leaf",
+        "8 whole black peppercorns"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Trim root end off onion, then slice or quarter onion, peel and all. Place onion and carrots into a large, shallow roasting pan with beef bones."
+        },
+        {
+          "id": 3,
+          "text": "Roast, uncovered, in the preheated oven, turning bones occasionally, until bones are well browned, about 30 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Drain off fat. Transfer browned bones, onion, and carrots to a large soup pot or Dutch oven. Pour 1/2 cup water into the roasting pan and rinse; pour this liquid into the soup pot."
+        },
+        {
+          "id": 5,
+          "text": "Add tomato, potato, celery, parsnip, whole parsley sprigs, salt, thyme, garlic, bay leaf, and peppercorns to the pot. Pour in remaining 12 cups water and bring to a boil. Reduce the heat, cover, and simmer for 5 hours. Strain stock. Discard meat, vegetables, and seasonings."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Basic Beef Stock",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2026-04-17T14:39:20-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wolverine"
+          }
+        ],
+        "description": "This beef stock is made with oven-roasted vegetables and meaty beef bones that are simmered for five hours with seasonings for a rich, hearty broth.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ExORoToF4Lmaq2deNyU0qymBqok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5439120-basic-beef-stock-Sandra-Kraft-4x3-1-b6ed2abe11494900b063a86859dcb119.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Basic Beef Stock",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "90"
+        },
+        "cookTime": "PT335M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "61 kcal",
+          "carbohydrateContent": "14 g",
+          "fiberContent": "3 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "978 mg",
+          "sugarContent": "4 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Ingredient"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "6 pounds beef soup bones",
+          "1 large onion",
+          "3 large carrots",
+          "0.5 cup water",
+          "1 large tomato",
+          "1 medium potato",
+          "2 stalks celery, including some leaves",
+          "0.5 cup chopped parsnip",
+          "4 sprigs fresh parsley",
+          "1 tablespoon salt",
+          "2 teaspoons dried thyme",
+          "2 cloves garlic",
+          "1 bay leaf",
+          "8 whole black peppercorns"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Trim root end off onion, then slice or quarter onion, peel and all. Place onion and carrots into a large, shallow roasting pan with beef bones."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Roast, uncovered, in the preheated oven, turning bones occasionally, until bones are well browned, about 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drain off fat. Transfer browned bones, onion, and carrots to a large soup pot or Dutch oven. Pour 1/2 cup water into the roasting pan and rinse; pour this liquid into the soup pot."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add tomato, potato, celery, parsnip, whole parsley sprigs, salt, thyme, garlic, bay leaf, and peppercorns to the pot. Pour in remaining 12 cups water and bring to a boil. Reduce the heat, cover, and simmer for 5 hours. Strain stock. Discard meat, vegetables, and seasonings."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 cups"
+        ],
+        "totalTime": "PT365M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDA MCLEAN"
+            },
+            "reviewBody": "This is definitely the way to make a good beef stock. The only change I made was to roast the bones for a lot longer at a lower temp. I actually roasted for about five hours in order to bring out the flavors. (Just a tip: every time I cut an onion, peel potatoes, carrots or chop celery, I save all the peels, put them in a zip lok bag and throw it in the freezer. In a few months I have a good start on my stock) The vegie and seasoning combos were perfect which created a wonderful stock. I used this recipe to make french onion soup. My hubby Drew and the kids order french onion almost every time we go out for dinner as their appetizer. I never do because of the high salt content, so I was very pleased to be able to make a wonderful stock and at the same time control the amount of sodium. My kiddies say \"thanks Wolverine\"!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Teri Scott"
+            },
+            "reviewBody": "I used approximately 10 lbs worth of beef bones and fat- roasted at 300 for 3 hrs, then added vegetable scraps that I had frozen- celery, onions skins and ends, carrot ends, green pepper bits, cucumber ends and any vegetable past its prime from the fridge and added 1 head garlic, roasted another hour at 350, then put in 12 qt stockpot, added water to almost the top, salt, peppercorns, parsley, and 3 bay leaves, and a splash of vinegar (you can't taste it but it leaches vitamins and minerals from the bones) . Brought to almost a boil, then turned to low and simmered for 8-12 hours. I skimmed most of the fat off, but didn't bother to clarify it. Then I pressure canned in quarts at 10 pounds pressure for 40 minutes. Wonderful! Approximately 7 qts of beef stock to can......perfect for any recipe needing beef stock or beef broth.",
+            "datePublished": "2015-02-07T13:11:59.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Veggieluvr"
+            },
+            "reviewBody": "One very important incredient was left out, vinegar. Add two tsp to this quantity. It won't be tasted but it does help extract the minerals from the bone. Broth should be simmered for 24 hrs min. so a crock pot works well.",
+            "datePublished": "2015-11-24T08:49:24.017Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Beth Brooks"
+            },
+            "reviewBody": "I've never made beef stock or broth before and have the extra challenge of being on a highly restricted diet designed to reduce inflammation. I altered this recipe quite a bit, but am thrilled with the results. I roasted beef shanks, Vidalia onions, and garlic together, sprinkling on some sea salt. Everything then went into the stock pot, with the deglazed bits from the roasting pan and water to cover, plus an inch. I added more sea salt, too. After about 8 hours, I had a rich, fragrant, tasty broth. Strained, it will be perfect for my cooking needs. And no yeast or anything else I need to avoid!",
+            "datePublished": "2014-06-05T20:17:08.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meredith"
+            },
+            "reviewBody": "A keeper. I picked up beef shank bones and beef neck bones from my local butcher (very inexpensive). The neckbones had meat on them whereas the shanks were mostly just bone. Roasting at a lower temp for several hours is just what I did. Not wanting the onion and carrots to blacken, i removed those after the first hour of roasting and saved in the fridge until time to simmer. I shopped specifically for preparing this recipe, and glad I planned ahead. The end result was magnificant.. a well-rounded robust stock with the perfect flavor. This recipe yielded the full 8 cups (2 quarts). Next time I will double this recipe (using a 12quart stock pot) to yield a gallon. Gotta make sure you leave it covered while it simmers, otherwise all your good stock will evaporate. \n[To those who low-rate this and other recipes after having altered the recipe, remove your rating as it isn't fair to the submitter].",
+            "datePublished": "2012-03-15T11:27:01.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lizkitchen"
+            },
+            "reviewBody": "This is a Great recipe for beef stock. I bought beef bones, but I also bought beef necks that had a ton a meat on the bones ($1.99 lb) at publix. Coated bones lightly with vegetable oil, added fresh garlic, onions and carrots and baked 375 for 2 hours which turned meat very brown. Added water to cover and more for evaporation, added more onions, carrots, celery and seasonings and cooked on stovetop for about 3 hours house smelled fantastic. Strained again and stock was a rich brown due to roasting bones first.",
+            "datePublished": "2019-04-06T16:00:37.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MakeItWork"
+            },
+            "reviewBody": "I also did like Linda Mclean (and others) roasting at 300 or 4 hours turning occasionally. During last hour I tossed in a small head of garlic as well. I didn't have parsnip and didn't use the potato. Used dried parsley as its all I had. I did have fresh rosemary which I added 2 large sprigs of. (I'm a rosemary fan). I didn't drain off the fat because after 1st straining I chill stock in frige, then remove solidified fat on top. I keep and freeze the fat to use in making refried beans, savory pie doughs, homemade noodles, etc., vs commercial lard which has hydrogenated fats, yuk &amp; I hate to waste anything that can b repurposed. As for the rest of directions, spot on. I dig making my own stocks which I freeze in portions for many applications. I use beef neck bones (very meaty) I get for $1.49 lb. The soup bones I see are just that - nothing but bones. I tried those before and didn't get great results. Oxtail would work too but it costs more. Thanks for the post for honest to goodness 'stock'.",
+            "datePublished": "2011-09-28T08:07:29.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jim Bacon"
+            },
+            "reviewBody": "I skipped the roasting step because I used the bones (with rib meat) from a rib roast I had smoked the night before. I placed everything in a stock pot, brought to a boil, then covered and simmered for about 3 hours. Then I removed all the meat from the bones, cubed, and put both meat and bones back into the pot and simmered uncovered for another hour to reduce. I was going to make a beef stew, but wound up using a can of green beans instead of tomatoes and this became a wonderful vegetable-beef soup. Yes, I could have strained and clarified for a stock, but this was just too good to pass up. For those who say it is bland, taste and season as you go.",
+            "datePublished": "2017-12-28T02:10:14.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Zaya"
+            },
+            "reviewBody": "i've made my own beef-bone stock for yrs, but never thought to roast the bones until i stumbled across this recipe. i used whatever was on sale: beef marrow bones, and beef spare ribs, didn't have any parsnips so i omitted them. Added a whole bulb of garlic along with the roasting part. The stock came out AMAZINGLY AWESOME. The roasting gave the stock a whole new dimension of flavors and gave the stock a beautiful caramel color that my previous bone-stock recipes lacked. The roasted garlic scent was very obvious, i thought it added depth to the stock, but it might be too overpowering for non-garlic lovers. But overall, it's a beautiful stock that's worth the effort.",
+            "datePublished": "2008-04-20T18:20:27.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "judy2304"
+            },
+            "reviewBody": "I followed this recipe pretty much as written except that I omitted the parsnips because I didn't have them on hand, used dried parsley, and baked the bones at a lower temperature for longer as suggested by others. I used free range bones so there really wasn't much fat to skim. The broth was very dark with excellent flavor. After straining it, there was no need to clarify it. It was perfect. Some of it was used for a beef vegetable soup (found on this site) and the rest was frozen into ice cubes for use in flavoring rice and other dishes. I will definitely be making this again.",
+            "datePublished": "2013-03-06T00:43:12.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MeMine"
+            },
+            "reviewBody": "I did 2 lbs of bones braised in roasting pan per recipe. Transferred bones to a 4.5 qt crock pot covered with water almost 2/3rds full. Cooked on low for 24hrs. Had to add a cup of water half way through. Shut cooker off left to cool and strained through mesh sieve. Refrigerated stock overnight. Skimmed a thin layer of fat off surface of stock and transferred half to a pot for a soup and froze the rest to use next month.",
+            "datePublished": "2018-10-17T01:16:09.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elizabeth"
+            },
+            "reviewBody": "Great flavors. Love the parsnips.easy recipe.",
+            "datePublished": "2026-02-19T18:26:03.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gena Haynes Chreiteh"
+            },
+            "reviewBody": "I roasted the beef bones and all of the veggies for about 2 hours before throwing it into my stock pot. Smells amazing! And the egg hack worked very well! 4 quarts of delicious stock for a chili cook-off this weekend.",
+            "datePublished": "2024-02-19T16:46:42.401Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Martyn Williams"
+            },
+            "reviewBody": "Why do people write a review where they've changed the recipe completely and then say how great it is? Anyway, this one, as it is, works great. That's all.",
+            "datePublished": "2022-10-19T20:13:55.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anddream"
+            },
+            "reviewBody": "This recipe made a nice stock. Cooled and removed fat, so I can freeze it in portions.",
+            "datePublished": "2019-11-24T13:17:08.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike G."
+            },
+            "reviewBody": "The only change I made to this recipe was to pour the fat into the Dutch oven along with the roasted soup bones, carrots and onions, and then deglazing the roasting pan and adding its liquid to the Dutch oven too. Since I chill the broth to congeal and remove all the fat once done simmering, I like to get the flavor that the fat carries with it, too, but without the grease.",
+            "datePublished": "2019-02-28T19:10:50.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Hinnen"
+            },
+            "reviewBody": "I did not add the parsnip or the tomato and added a glug of ACV. It turned out wonderfully! I canned the broth in quarts.",
+            "datePublished": "2018-10-15T16:10:36.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandra Kraft"
+            },
+            "reviewBody": "Perfect in every way.",
+            "datePublished": "2018-05-31T19:13:29.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emily Raan"
+            },
+            "reviewBody": "Quick and easy. I will definitely make this again.",
+            "datePublished": "2017-12-05T08:33:05.027Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Manon"
+            },
+            "reviewBody": "This turned out absolutely delicious. Made it to make gravy to pour over meatloaf to be served to 80+ ladies at a retreat.",
+            "datePublished": "2017-02-17T15:59:28.263Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12984/basic-beef-stock/",
+          "name": "Basic Beef Stock",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/171/soups-stews-and-chili/broth-and-stocks/",
+                  "name": "Broth and Stock Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,187 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217232/john-collins-cocktail/",
+  "extracted_at": "2026-10-18T03:02:18.263226+00:00",
+  "recipes": [
+    {
+      "name": "John Collins Cocktail",
+      "ingredients_raw": [
+        "ice",
+        "2 fluid ounces bourbon whiskey",
+        "1 tablespoon fresh lemon juice",
+        "1 teaspoon white sugar",
+        "0.25 cup club soda, or as needed",
+        "1 slice lemon"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Fill a chilled cocktail glass with ice; add whiskey and lemon juice. Stir in sugar until dissolved. Top off with club soda. Garnish with lemon slice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "John Collins Cocktail",
+        "datePublished": "2020-06-18T23:44:31-04:00",
+        "dateModified": "2024-12-20T14:56:27-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lorem Ipsum"
+          }
+        ],
+        "description": "John Collins seizes the spotlight from his more famous brother, Tom, in this quick and easy, super refreshing carbonated whiskey cocktail!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/UbtxS__8GhQkEp_8hH_4pl5HPUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8069892-15ee39c47d1f42bda41f74143394eabe.jpg",
+          "height": 1000,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "John Collins Cocktail",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "2"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "162 kcal",
+          "carbohydrateContent": "7 g",
+          "fiberContent": "1 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "3 mg",
+          "sugarContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "ice",
+          "2 fluid ounces bourbon whiskey",
+          "1 tablespoon fresh lemon juice",
+          "1 teaspoon white sugar",
+          "0.25 cup club soda, or as needed",
+          "1 slice lemon"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Fill a chilled cocktail glass with ice; add whiskey and lemon juice. Stir in sugar until dissolved. Top off with club soda. Garnish with lemon slice."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 drink"
+        ],
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "5.2.20 I dissolved the sugar in the bourdon and lemon juice and then poured over the ice. A nice Saturday evening cocktail, and it does taste somewhat similar to a whisky sour."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BrightGin9139"
+            },
+            "reviewBody": "I love bourbon during the winter, and this is a refreshing cocktail. Instead of sugar, I used a homemade citrus sweetener my daughter-in-law made. It takes too long for the sugar to dissolve. The other option is to dissolve the sugar in a small amount of warm water or warm the lemon juice first, then add the sugar to dissolve. Either way this is a great cocktail.",
+            "datePublished": "2025-02-11T14:59:36.389Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217232/john-collins-cocktail/",
+          "name": "John Collins Cocktail",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1744/drinks/cocktails/whiskey-drinks/",
+                  "name": "Whiskey Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

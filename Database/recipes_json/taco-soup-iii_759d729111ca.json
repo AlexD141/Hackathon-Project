@@ -1,0 +1,454 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13227/taco-soup-iii/",
+  "extracted_at": "2026-10-18T01:52:48.005353+00:00",
+  "recipes": [
+    {
+      "name": "Taco Soup",
+      "ingredients_raw": [
+        "1.5 pounds lean ground beef",
+        "1 onion, chopped",
+        "2 (10 ounce) cans diced tomatoes with green chile peppers",
+        "1 (15 ounce) can kidney beans, drained",
+        "1 (15 ounce) can white hominy, drained",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "1 (1 ounce) package ranch dressing mix",
+        "0.25 cup shredded Cheddar cheese",
+        "0.25 cup sour cream",
+        "1.5 cups water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Sauté ground beef and chopped onion over medium heat in a Dutch oven, stirring frequently, until onion is translucent and beef is browned, about 15 minutes. Remove excess grease from the pan."
+        },
+        {
+          "id": 3,
+          "text": "Add canned tomatoes, kidney beans, hominy, taco seasoning, and ranch salad dressing mix. Mix well and simmer over low heat for two hours. Check the consistency, adding 1 to 2 cups of water if necessary."
+        },
+        {
+          "id": 4,
+          "text": "Ladle into soup bowls and garnish with shredded Cheddar cheese and a dollop of sour cream, if desired."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Taco Soup",
+        "datePublished": "1999-02-08T16:40:44-05:00",
+        "dateModified": "2026-09-09T16:49:30-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sheila"
+          }
+        ],
+        "description": "Browned ground beef is combined with packets of ranch dressing mix and taco seasoning in this soup with tomatoes, green chilies, kidney beans, and canned hominy. Serve with sour cream and grated cheese.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/9wPsq34guClowQnPF8VlswmOMSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13227taco-soup-iiisouplovingnicole4x3-b6010bc3d15b4f0c8bc5c70e431c3fef.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Taco Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "143"
+        },
+        "cookTime": "PT135M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "502 kcal",
+          "carbohydrateContent": "33 g",
+          "cholesterolContent": "94 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "27 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "1543 mg",
+          "sugarContent": "3 g",
+          "fatContent": "28 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "1.5 pounds lean ground beef",
+          "1 onion, chopped",
+          "2 (10 ounce) cans diced tomatoes with green chile peppers",
+          "1 (15 ounce) can kidney beans, drained",
+          "1 (15 ounce) can white hominy, drained",
+          "1 (1.25 ounce) package taco seasoning mix",
+          "1 (1 ounce) package ranch dressing mix",
+          "0.25 cup shredded Cheddar cheese",
+          "0.25 cup sour cream",
+          "1.5 cups water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Sauté ground beef and chopped onion over medium heat in a Dutch oven, stirring frequently, until onion is translucent and beef is browned, about 15 minutes. Remove excess grease from the pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add canned tomatoes, kidney beans, hominy, taco seasoning, and ranch salad dressing mix. Mix well and simmer over low heat for two hours. Check the consistency, adding 1 to 2 cups of water if necessary."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Ladle into soup bowls and garnish with shredded Cheddar cheese and a dollop of sour cream, if desired."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT140M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cheri"
+            },
+            "reviewBody": "I have a recipe that is very similar to this one...the great thing is, you can add just about any kind or amount of beans to it, and it's still great! If you are \"stretching\" this for a larger crowd, I add mexican corn, black beans and ranch beans to this, and for an extra kick, Hidden Valley has a Mexican Ranch Dip mix as opposed to the original mix. Great recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rgainer86"
+            },
+            "reviewBody": "Yes made a few changes I for got the ranch dressing package so I just added some more taco seasoning and added some corn to it made this for my scout troop on a camp out and everyone liked it I did leave the meat out so the non meat eaters could have some but I cooked the meat in the Dutch oven for about 20min and served it on top for the people that wanted meat and we made corn bread as well to go with it it was really good.",
+            "datePublished": "2019-01-20T03:55:50.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DeBonna"
+            },
+            "reviewBody": "This turned out well. I went right by the recipe, except I reduced the ground beef to 1 lb. I browned the beef w/ onion and then put everything in my crockpot. It cooked on Low pretty much all day. It was pretty good the first night, but tasted a little acidic. The next night, I had leftovers and it tasted much better. After three nights, we reheated it in a pan on the stove for about 30 min. It was even better! The next time I made it, I tweaked the recipe a little, and it was a BIG improvement. I used 2 cans of diced, fire-roasted tomatoes with garlic and one 4 oz. can of chopped green chiles. The only ranch mix I could find was .4 oz. pack of buttermilk recipe. This tasted sooo much better than the first batch I made. Both times, I used Old El Paso low sodium taco seasoning packet. We served with cheese, sour cream, and Frank's Red Hot sauce to taste. Served with \"Scoop\" tortilla chips. Very yummy.",
+            "datePublished": "2009-02-22T07:02:07.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChefBaker"
+            },
+            "reviewBody": "Been making this for years now. Everyone loves it and it's so easy! You can even throw it into the crockpot after you brown the meat and it turns out great. I serve it with tortilla chips and use chicken broth instead of water. It's easy to double the recipe to make more for bigger crowds. Great recipe!",
+            "datePublished": "2015-01-04T06:26:39.817Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tess"
+            },
+            "reviewBody": "Fantastic! I added a can of beer, an extra 1/2 packet of taco seasoning and a can of corn! Served with cilantro, sour cream, avocado, and cheese to put on top!",
+            "datePublished": "2011-11-02T08:41:07.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Latoya Taylor"
+            },
+            "reviewBody": "Used rotisserie chicken instead of hamburger meat; added celery, jalapeños, red peppers and a little chili powder;substituted corn for hominy.",
+            "datePublished": "2021-01-10T23:23:58.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenny"
+            },
+            "reviewBody": "This is a standby favorite at our house. Like many others I substituted frozen corn for the hominy. I also add 2 cups of chicken broth at the end and simmer on high until the sauce is reduced. Very rich flavors for such an easy soup.",
+            "datePublished": "2008-06-29T20:48:32.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mom's Kitchen"
+            },
+            "reviewBody": "I describe this recipe as \" love at first taste!\" I haven't had this soup in years. Maybe because it is expensive to make, but worth every penny. I doubled the ingredients to make sure I had leftovers. Along with the red kidney beans, I added canned pinto beans and black beans. I didn't care for the taste of the hominy. Therefore, I added two cans of corn. To please a spicy palate, I recommend the fiesta ranch powder mix along with the regular ranch mix. I also topped each serving bowl with green onions or scallions and chili cheese flavored Frito corn chips, along with the sour cream and cheese. \"YUMmmm...!\" ( In the words of my children)",
+            "datePublished": "2014-02-13T17:29:18.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DONNA"
+            },
+            "reviewBody": "soooo good! Added a can of green chiles and used two cups of chicken broth in place of water. I also added one extra can of pinto beans to feed my hungry family. I tend to shy away from recipes with cans of soup or prepared seasoning mixes but the ranch was such an important flavor in the final dish. Will definitely make it again. I also used 1lb of turkey and 1/2lb of ground beef. My family notices when i substitute with white meat but if i add some red meat it blends beautifully and saves us some fat.",
+            "datePublished": "2015-10-13T09:32:17.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Myolives"
+            },
+            "reviewBody": "So good! We used ground turkey instead of beef. Browned it and put everything in crock pot for 8 hours on low. Even my 17 month old loved it!",
+            "datePublished": "2011-02-02T16:23:46.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "I liked this. I'd maybe half the tomatoes next time and use beef broth in place of the water but overall a good soup/chili. You def need to add liquid and I recommend broth over water. I enjoyed the white hominy over the typical yellow corn. It gave it more texture.",
+            "datePublished": "2024-06-18T03:16:22.321Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tricia"
+            },
+            "reviewBody": "I used ground turkey instead of beef. I had bariardic surgery 3 weeks ago and am on pureed soups diet phase. Ive been looking for good soup recipes and stumbled upon this one. After it was all done i pureed and it was DELICIOUS. Ive never had hominy before and it was a pleasant surprise. I will be using that instead of corn for alot of mexican dishes.",
+            "datePublished": "2025-02-08T04:16:08.435Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SturdyCream5241"
+            },
+            "reviewBody": "Me and my husband loves this recipe!",
+            "datePublished": "2025-01-28T23:14:45.601Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Saundra K Pennington"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-24T17:57:10.521Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "COJ"
+            },
+            "reviewBody": "The changes I made were that when I doubled the recipe instead of 3 lbs of beef I used 2 lbs and 3 cans of beans: 1 can light kidney beans, 1 can dark, 1 can black. I also used a pkg of frozen sweet yellow corn instead of hominy. Everyone loved it and got seconds! It’s a very flexible recipe.",
+            "datePublished": "2024-11-24T23:16:18.806Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robin"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-11-16T23:03:41.031Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MamaG"
+            },
+            "reviewBody": "Delish!",
+            "datePublished": "2021-01-29T02:11:54.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle M Saenz"
+            },
+            "reviewBody": "Delicious",
+            "datePublished": "2019-12-15T19:14:55.957Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Denise Ellen Pedroza"
+            },
+            "reviewBody": "I was trying to use up the cans we had prior to moving, and so I made it with a 30oz can of hominy, no beans, and two cans of stewed tomatos instead of the diced. It was good, we liked the seasoning mix. I bet it will be better with the beans and the tomatoes and chilies.",
+            "datePublished": "2019-04-04T01:22:03.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jodi Gary"
+            },
+            "reviewBody": "I changed the hominy to corn, added another can of petite diced tomatoes, a can of black beans and a piece of garlic.",
+            "datePublished": "2018-09-08T22:22:01.783Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13227/taco-soup-iii/",
+          "name": "Taco Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16942/soups-stews-and-chili/soup/taco-soup/",
+                  "name": "Taco Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

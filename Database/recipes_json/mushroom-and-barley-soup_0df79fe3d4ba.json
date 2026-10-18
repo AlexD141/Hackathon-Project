@@ -1,0 +1,284 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221251/mushroom-and-barley-soup/",
+  "extracted_at": "2026-10-18T03:13:01.408603+00:00",
+  "recipes": [
+    {
+      "name": "Mushroom and Barley Soup",
+      "ingredients_raw": [
+        "1 tablespoon olive oil",
+        "1 cup diced onion",
+        "1 cup diced red bell pepper",
+        "4 cloves garlic, minced",
+        "1 (32 fluid ounce) container chicken stock",
+        "2 cups mixed greens (such as spinach, beet greens, and Swiss chard)",
+        "0.5 (12 ounce) package frozen corn",
+        "1 cup pearl barley",
+        "1 cup thinly sliced cremini mushrooms",
+        "1 cup peeled, thinly sliced carrot"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat olive oil in a large saucepan over medium heat. Cook onion, bell pepper, and garlic in hot oil until softened, about 5 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Pour chicken broth over onion mixture; bring to a boil and reduce heat to medium low."
+        },
+        {
+          "id": 3,
+          "text": "Stir mixed greens, corn, pearl barley, cremini mushrooms, and carrot through the simmering stock."
+        },
+        {
+          "id": 4,
+          "text": "Cook until barley is tender, about 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mushroom and Barley Soup",
+        "datePublished": "2020-03-10T02:51:55-04:00",
+        "dateModified": "2022-10-14T13:22:35-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "WRHS ProStart"
+          }
+        ],
+        "description": "Mushroom and barley are in here, sure, but also corn, mixed greens, bell pepper, and carrots!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/rOxzDe84YGbjqIoSOXOf5sK0DLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2094803-11e173fb02ca4e3b98a160aeb55e441b.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mushroom and Barley Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "11"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "277 kcal",
+          "carbohydrateContent": "57 g",
+          "cholesterolContent": "1 mg",
+          "fiberContent": "9 g",
+          "proteinContent": "7 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "488 mg",
+          "sugarContent": "5 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon olive oil",
+          "1 cup diced onion",
+          "1 cup diced red bell pepper",
+          "4 cloves garlic, minced",
+          "1 (32 fluid ounce) container chicken stock",
+          "2 cups mixed greens (such as spinach, beet greens, and Swiss chard)",
+          "0.5 (12 ounce) package frozen corn",
+          "1 cup pearl barley",
+          "1 cup thinly sliced cremini mushrooms",
+          "1 cup peeled, thinly sliced carrot"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large saucepan over medium heat. Cook onion, bell pepper, and garlic in hot oil until softened, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour chicken broth over onion mixture; bring to a boil and reduce heat to medium low."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir mixed greens, corn, pearl barley, cremini mushrooms, and carrot through the simmering stock."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook until barley is tender, about 30 minutes."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "msbanana"
+            },
+            "reviewBody": "Quite easy to throw together and adjust if you don't have something. I used a yellow bell pepper (what I had) and a different kind of mushroom, but it was still very good. It may need more salt or other seasonings depending on your preference. It filled me up!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cliff57"
+            },
+            "reviewBody": "Added 2 stalks of celery",
+            "datePublished": "2020-07-21T01:03:06.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LBella"
+            },
+            "reviewBody": "This is a good base but is very bland if made as is. I added tomatoes just because I like them and lots of celery salt, garlic salt, pepper, cumin, because it needed flavor! It’s a quick recipe And out great after doctoring a bit.",
+            "datePublished": "2019-11-25T00:37:08.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrsu"
+            },
+            "reviewBody": "Bland",
+            "datePublished": "2016-06-22T03:03:44.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike"
+            },
+            "reviewBody": "Very good base recipe for barley soup, doubled the recipe and it was gone in 2 days",
+            "datePublished": "2015-12-01T18:02:29.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kippurr"
+            },
+            "reviewBody": "Was skeptical at first by the lack of spices but this soup was soooooo good. I had 3 bowls!!! I added crumbled sausage just because it sounded good. It would have been fine with out it. Thanks for the great recipe.",
+            "datePublished": "2015-02-17T03:31:16.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lilla"
+            },
+            "reviewBody": "Excellent! I made some small changed: added cubed beef and replaced the chicken stock by beef stock. Also added some fresh sage and thyme. Great turnout.",
+            "datePublished": "2013-08-12T18:16:11.187Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221251/mushroom-and-barley-soup/",
+          "name": "Mushroom and Barley Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17309/soups-stews-and-chili/soup/vegetable-soup/barley-soup/",
+                  "name": "Barley Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

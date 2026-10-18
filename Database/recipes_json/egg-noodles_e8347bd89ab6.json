@@ -1,0 +1,512 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11991/egg-noodles/",
+  "extracted_at": "2026-10-18T01:48:03.830296+00:00",
+  "recipes": [
+    {
+      "name": "Easy Egg Noodles",
+      "ingredients_raw": [
+        "2.5 cups all-purpose flour",
+        "1 pinch salt",
+        "2 eggs, beaten",
+        "0.5 cup milk",
+        "1 tablespoon butter"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Stir flour and salt together in a large bowl. Add eggs, milk, and butter."
+        },
+        {
+          "id": 3,
+          "text": "Knead dough until smooth, about 5 minutes. Let rest in a covered bowl for 10 minutes."
+        },
+        {
+          "id": 4,
+          "text": "On a floured surface, roll dough out to a thickness of 1/8 to 1/4 inch. Cut into desired lengths and shapes."
+        },
+        {
+          "id": 5,
+          "text": "Allow to air-dry before cooking, 10 to 15 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Cook noodles in a large pot of salted boiling water until al dente, about 5 minutes."
+        },
+        {
+          "id": 7,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Easy Egg Noodles",
+        "datePublished": "1999-02-28T18:15:30-05:00",
+        "dateModified": "2026-02-26T11:29:01-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Linda"
+          }
+        ],
+        "description": "These homemade egg noodles are easy to make with just 5 ingredients! They&#39;re delicious in soups, or anytime you want an old-fashioned side to soak up gravy.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QgbNEj3Qfw4diJGnZb6LE-UDdIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Beauty-3x4-22172e14a61644a8962c42871debbf21.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/A9NDBTsF-ma1DlVvV.mp4",
+          "description": "AR0601",
+          "duration": "PT3M45S",
+          "name": "Egg Noodles",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/A9NDBTsF/poster.jpg?width=1280",
+          "uploadDate": "2021-06-23T02:52:24-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Egg Noodles",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "987"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "206 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "59 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "7 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "40 mg",
+          "sugarContent": "1 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Side Dish",
+          "Ingredient"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2.5 cups all-purpose flour",
+          "1 pinch salt",
+          "2 eggs, beaten",
+          "0.5 cup milk",
+          "1 tablespoon butter"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oezSlYKCfJ1XFSZTQVw1asSUMzE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Step-01-1-9a18d7536eed472983c18db30cd31554.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zfjOafmIZpfi3Us3EFPqLIwuDjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Step-02-1-9fe97afafe6c42d1be91a597134d7bc3.jpg"
+              }
+            ],
+            "text": "Stir flour and salt together in a large bowl. Add eggs, milk, and butter."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/B7feFfy14RRL8WsMcqup0yCz744=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Step-03-1-4354cfb4b4e24bc6be4bff27f638ba29.jpg"
+              }
+            ],
+            "text": "Knead dough until smooth, about 5 minutes. Let rest in a covered bowl for 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/icUyCs9PcKphapSTJS9bSN_es1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Step-05-1-9989de975df94c70841a4b531d36ddae.jpg"
+              }
+            ],
+            "text": "On a floured surface, roll dough out to a thickness of 1/8 to 1/4 inch. Cut into desired lengths and shapes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6Vxi_KQCq14hlxUHcCQGUG5IgHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Step-07-1-83dd41363cee430ca3aff7b94454165e.jpg"
+              }
+            ],
+            "text": "Allow to air-dry before cooking, 10 to 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sFjl-2EWb6fxi_1h-Mexk2wYrhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Step-08-1-f1a6335e92b640559bf8862a212aacdc.jpg"
+              }
+            ],
+            "text": "Cook noodles in a large pot of salted boiling water until al dente, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/QgbNEj3Qfw4diJGnZb6LE-UDdIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11991-egg-noodles-Beauty-3x4-22172e14a61644a8962c42871debbf21.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "7",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HOLLY D"
+            },
+            "reviewBody": "Great tasting noodles. My Mom has used this recipe for years. To save time though, I suggest rolling the noodles out into desired thickness, and then rolling the dough into a log. Then starting at the end, slice the noodles into desired width. Afterwards, just toss them around until they are all uncurled into noodles. Will save you a ton of time from just slicing them while lying flat. Also keeps them more uniform in shape."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Phil Evans"
+            },
+            "reviewBody": "Same basic recipe that my grandmother and great-grandmother (full Cherokee) used to use as a basic starter. I just taught my granddaughter the recipe and what can be done with it. Same recipe, rolled a little thinner, use a glass to cut out circles, fill, fold over, and crimp with a fork to makes raviolis. Make one inch balls with the dough and add to chicken or beef stew for great southern dumplings. A real American classic.",
+            "datePublished": "2008-01-04T12:31:08.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "purduejennings"
+            },
+            "reviewBody": "Easy and great tasting, just like my great grandma's. A secret ingredient that my great grandma used to add was a few drops of yellow food coloring. Makes your noodles look very yellow. Noone could figure out for years how her noodles were so yummy and yellow, always thought it was more egg yolk. She was 99 before she told anyone! Now the family secret is out!",
+            "datePublished": "2003-02-20T07:38:01.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I used my Kitchenaid and dough hook, which was a lot easier. Rolled them out and used a pizza cutter to cut them. They were excellent!",
+            "datePublished": "2001-06-27T20:23:22.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amelie"
+            },
+            "reviewBody": "Very tasty! Used this recipe to make lasagna noodles; everyone raved about how good and thin these were. No comparison to store-bought noodles. Can also add pesto, lemon zest and ground black pepper, chives, oil-packed sundried tomato, etc. for a nice change.",
+            "datePublished": "2007-04-26T08:44:33.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda Kay Piper"
+            },
+            "reviewBody": "This recipe is a staple in my home. It's so versatile. I add poultry seasoning when making noodles for chicken soup, and add garlic powder &amp; basil when making noodles for use in Italian dishes. And for the occasional kid-friendly treat I divide the dough into 2 to 4 batches, and add a different food color to each batch. Serve cooked noodles with butter -- and watch the children go wild. (Haha. Children are so easy to please.) I can offer some insight to making great noodles: Don't add baking powder, as some folks have suggested, unless you like a really thick (more dumpling style) noodle. Working the dough too much, and not adding butter or oil will result in tough, rubbery noodle. Divide the dough into batches, and roll each batch. This helps in rolling the noodles very thin. The thinner the better (unless you're making chicken &amp; dumplings). Happy cooking!",
+            "datePublished": "2009-03-29T15:04:59.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "see"
+            },
+            "reviewBody": "Good recipe. As others have said they are thick but great in stews. I cut down on time by using a pizza cutter to cut the strips and hung them to dry on stackable cookie racks. worked well",
+            "datePublished": "2006-09-13T19:20:44.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOM2KA"
+            },
+            "reviewBody": "Super easy and good. I used my pasta machine to roll it out and had my 2 year old cut shapes with miniature cookie cutters. I didn't wait for the pasta to dry, I just added it to my boiing chicken soup. Yummy!",
+            "datePublished": "2006-12-07T11:10:24.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CarmensMommy"
+            },
+            "reviewBody": "I have been making noodles like this forever, so I know this recipes is delicious. Don't forget to put some salt in your dough and before you cut your noodles, put some pepper. I repeat: BEFORE. It tastes better that way because your raw noodles will have pepper inside them while they are cooking. Also, egg noodles, are so delicious, but pretty time consuming, so make way more than you need. Freeze those bad boys so you have some ready for next time. Before you stick them into a freezer bag, let them dry. If you plan on cooking them right away, they do not need to sit out and dry.",
+            "datePublished": "2010-08-11T22:56:54.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SPECK03"
+            },
+            "reviewBody": "These were not bad, though I don't think my search for the perfect egg noodle recipe is over as yet. I think that 1/4 in. in thickness is way to thick, much better to stick to 1/8 inch. Also, I would recommend boiling the noodles in chicken broth for added flavor. I served these with the slowcooker beef stroganoff from this site, a fantastic dish that camouflaged whatever flaws the noodles may have had.",
+            "datePublished": "2007-01-01T06:16:27.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bmonkey18"
+            },
+            "reviewBody": "Not only were these easy to make, everyone loved them. To dry them out, I also put them in a 200 degree oven for about 5 minutes. Worked well.",
+            "datePublished": "2011-01-23T16:15:25.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elle"
+            },
+            "reviewBody": "I used olive oil instead of butter, and had some whole wheat flour mixed in. I kneaded by hand, and it took extra flour plus a LOT more than 5 minutes (more like 20-30). After a few try and fails, I finally got it right, added to home made chicken noodle soup, it turned out fantastic. Picky husband approved, and kids scarfed down the noodles and asked for seconds (and thirds!) definitely a keeper, worth the effort. Also, used a pasta roller on the kitchen aid down to level 4 thickness.",
+            "datePublished": "2026-08-12T01:05:20.422Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele"
+            },
+            "reviewBody": "Very good and pretty easy to make! They thicken up so try for 8th an inch or thinner when rolling out. Let dough rest an hour before rolling and let noodles dry 2 hours after cutting them. Served with Chef John's swedish meatballs.",
+            "datePublished": "2026-04-04T01:26:39.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James"
+            },
+            "reviewBody": "Thanks for sharing.",
+            "datePublished": "2026-03-27T18:16:18.916Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CrispStock9112"
+            },
+            "reviewBody": "I boil chicken pull the meat off the bone add chicken meat back, the egg noodles and a few spices and BAM a simple and tasty chicken and noodles. This has become my favorite egg noodle recipe. I refuse to by those frozen noodles at the store that have no flavor.",
+            "datePublished": "2026-02-07T15:30:03.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TerriNacio1965"
+            },
+            "reviewBody": "Great for teaching someone, whose just learning how to cook.",
+            "datePublished": "2026-02-02T22:11:50.795Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cora Fadigan"
+            },
+            "reviewBody": "My grandma and mother used only flour, salt and eggs. A much stiffer dough but so good cooked in beef broth (homemade) and served over mashed potatoes!",
+            "datePublished": "2025-10-19T18:58:22.314Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Graham"
+            },
+            "reviewBody": "I made them but I don’t think I rolled them out thin enough so they were a little chewy but they were good I definitely will make them again but they need to be roll thin",
+            "datePublished": "2025-10-02T20:01:04.366Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aug Likes Food"
+            },
+            "reviewBody": "I'm very new to cooking from scratch so i fumbled it quite a bit, it didn't taste that good lol (my own fault ofc). But rating it 5 stars just bc it was rlly fun to make :) will definitely try again",
+            "datePublished": "2025-09-22T03:26:43.814Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hhudsonhh1973"
+            },
+            "reviewBody": "I cooked mine in chicken broth. Great flavor. I've been making these for Thanksgiving and Christmas. Family loves them",
+            "datePublished": "2025-09-04T10:38:40.208Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11991/egg-noodles/",
+          "name": "Easy Egg Noodles",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/95/pasta-and-noodles/",
+                  "name": "Pasta and Noodles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/494/pasta-and-noodles/homemade-pasta/",
+                  "name": "Homemade Pasta Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,450 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/183947/baked-falafel/",
+  "extracted_at": "2026-10-18T02:30:44.245308+00:00",
+  "recipes": [
+    {
+      "name": "Baked Falafel",
+      "ingredients_raw": [
+        "0.25 cup chopped onion",
+        "1 (15 ounce) can garbanzo beans, rinsed and drained",
+        "0.25 cup chopped fresh parsley",
+        "3 cloves garlic, minced",
+        "1 teaspoon ground cumin",
+        "0.25 teaspoon ground coriander",
+        "0.25 teaspoon salt",
+        "0.25 teaspoon baking soda",
+        "1 tablespoon all-purpose flour",
+        "1 egg, beaten",
+        "2 teaspoons olive oil"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Wrap onion in cheese cloth and squeeze out as much moisture as possible. Set aside. Place garbanzo beans, parsley, garlic, cumin, coriander, salt, and baking soda in a food processor. Process until the mixture is coarsely pureed. Mix garbanzo bean mixture and onion together in a bowl. Stir in the flour and egg. Shape mixture into four large patties and let stand for 15 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Preheat an oven to 400 degrees F (200 degrees C)."
+        },
+        {
+          "id": 3,
+          "text": "Heat olive oil in a large, oven-safe skillet over medium-high heat. Place the patties in the skillet; cook until golden brown, about 3 minutes on each side."
+        },
+        {
+          "id": 4,
+          "text": "Transfer skillet to the preheated oven and bake until heated through, about 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Baked Falafel",
+        "datePublished": "2019-04-02T02:51:25-04:00",
+        "dateModified": "2022-01-21T14:15:07-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Bette"
+          }
+        ],
+        "description": "This falafel is lightly pan-fried, then finished in the oven.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/K3g_Yg0AXWKB99oosiHZp-zQOSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/597389-f2cbb6dbbdd54405bade66a6947574b2.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Baked Falafel",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "248"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "281 kcal",
+          "carbohydrateContent": "39 g",
+          "cholesterolContent": "93 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "909 mg",
+          "sugarContent": "1 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Jewish"
+        ],
+        "recipeIngredient": [
+          "0.25 cup chopped onion",
+          "1 (15 ounce) can garbanzo beans, rinsed and drained",
+          "0.25 cup chopped fresh parsley",
+          "3 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "0.25 teaspoon ground coriander",
+          "0.25 teaspoon salt",
+          "0.25 teaspoon baking soda",
+          "1 tablespoon all-purpose flour",
+          "1 egg, beaten",
+          "2 teaspoons olive oil"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Wrap onion in cheese cloth and squeeze out as much moisture as possible. Set aside. Place garbanzo beans, parsley, garlic, cumin, coriander, salt, and baking soda in a food processor. Process until the mixture is coarsely pureed. Mix garbanzo bean mixture and onion together in a bowl. Stir in the flour and egg. Shape mixture into four large patties and let stand for 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 400 degrees F (200 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat olive oil in a large, oven-safe skillet over medium-high heat. Place the patties in the skillet; cook until golden brown, about 3 minutes on each side."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer skillet to the preheated oven and bake until heated through, about 10 minutes."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "4 patties"
+        ],
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lauren"
+            },
+            "reviewBody": "After making this many times I've settled on the following changes, which I highly recommend: 1) Pulse half an onion and several cloves of garlic in a food processor, then sauté until the onions are tender and most of the moisture has cooked off. 2) Double the cumin and coriander, and add onion and garlic powder. 3) Add 1/4 cup breadcrumbs, preferably panko. 4) Form 8 smaller patties rather than 4 big ones. This has proven to be essential! 5) Spray Pam, also essential, on a baking sheet and bake the falafel at 400 for 20 minutes. Then spray Pam on the patties, flip them, and bake for another 10-15 minutes. This actually results in a crunchier crust than when pan frying this recipe. The first picture I uploaded of this recipe is the pan-fried version and the second is completely baked."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "I was skeptical of how \"runny\" the mixture was when I was forming it into patties, only b/c I've always made falafel w/ at least 1/3 c. breadcrumbs (as opposed to a mere 1 TB flour), but Shazam!! I'm so glad that I tried this recipe b/c these were outstanding! My first recommendation though is to lightly sautee the garlic and onions in a little olive oil b4 mixing into the chickpeas and spices. I also skipped the pan-fry and simply baked them at 400 for 30 min., flipping and smooshing them half-way through. Served them in warm flatbread w/ the recipe from here for \"Zucchini Salad with Yogurt and Walnuts\" (which is really more like a tzatziki) and we inhaled these!",
+            "datePublished": "2010-09-20T15:54:44.353Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anabet Barr"
+            },
+            "reviewBody": "Turned out wonderful! Twice as good as our local Mediterranean restaurants.Doubled the batch and seasonings as suggested. Used a hand chopper for beans, onions and garlic. Added hot sauce, lemon pepper and lemon juice. No need for oven cooks quickly just dropped by spoonfuls into pan. Best when eaten warm.",
+            "datePublished": "2019-03-01T03:23:15.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "stephanied"
+            },
+            "reviewBody": "I had an awful falafel at a high end restaurant last weekend and thought to myself \"allrecipes.com can do better than this\" and sure enough, this recipe pulled it off. I found like other reviewers that they did fall apart but that was remedied by making a more fine chop in the processor instead of a coarse chop. I followed the directions to a T but doubled it and stuffed it inside pita pockets with red onion, spinach, cucumbers, tomatoes and tzatziki for a vegetarian gyro. I also misted the patties with olive oil before baking so they didn't dry out at all. \nMy recipe for tzatziki: seed and grate 1/2 q cucumber and blot with paper towel, dust with coarse salt and let sit for 10 min. Combine 1tbsp minced garlic, 1 1/2 c greek yogurt, 1 tsp fresh mint, 1/2tsp dill, 1-2tbsp olive oil and half a squeezed lemon. Add cucumber and refrigerate for several hours for flavors to full merry. \nI think this was by far the best falafel I've ever had. Thanks so much for the recipe! Awesome!",
+            "datePublished": "2012-01-10T18:25:20.713Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dee"
+            },
+            "reviewBody": "Excellent -easy, healthy and super tasty! My hubby liked them better than from a restaurant. Baked at 400 for 20min, spayed w oil again and flipped for 10 more min. Put all ingredients in food processor together, except egg and flour. Used half parsley, half cilantro and doubled cumin n coriander. Refrigerated patties overnight and baked next day. Fast n Easy!",
+            "datePublished": "2018-01-21T20:12:42.493Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joanna Tice-Stepanski"
+            },
+            "reviewBody": "I followed some of the tips others had mentioned. I didn't fry them in oil but baked them at 400 degrees for 20 mins on one side, flipped over and baked another 10 on the other side, spraying with cooking spray. I didn't have fresh parsley so I substituted dry. I did saute the onions and garlic first before adding and pulsing in food processor with the rest. I also added the 1/4 cup dry bread crumbs. They held together very well and I didn't find them to be runny like others mentioned. Servng them in pita bread is a great tip. And there is a pita dough recipe (\"Peppy's\") on this website that I found very easy to follow using a breadmaking machine.",
+            "datePublished": "2015-02-09T15:26:19.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natasharenae"
+            },
+            "reviewBody": "This falafel came out great! I don't own a food processor so I finely chopped the onion and garlic. I added a little bit of salt too for more flavor. I then combined everything in a bowl mashing it with my hands and rolled them like meat balls on a pam sprayed cooking sheet. Baked them at 400 degrees for 20 minutes. Make a yogurt dipping sauce or put them in a pita pocket with hummus, tomato, alfalfa,lettuce,sunflower seeds and cheddar cheese. YUM!",
+            "datePublished": "2012-02-06T16:05:47.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hunca Munca"
+            },
+            "reviewBody": "This was super easy and super fast! I don't have a blender or food processor, but used my NutriBullet and it worked fine. Instead of keeping them on the skillet, I used a wire rack, which kept the patties nice and crispy on each side, and they came off the rack very easily. Will make this again - probably once a week from now on!",
+            "datePublished": "2015-05-20T12:56:08.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SAMJJ"
+            },
+            "reviewBody": "I was surprised this turned out as well as it did, considering the changes I made and my inability to read directions. I substituted light red kidney beans (blasphemy, I know, but it was that or black beans) and a tablespoon or so of dried parsley for the fresh (working with what I had on hand here). I also just mashed everything together with a potato masher since I don't have a food processor. And by everything, I mean I included the oil, since I didn't pay attention to the directions. Speaking of which, I let the mixture sit for 15 minutes prior to shaping it instead of after. I decided to skip the baking part, since it was too hot out, and just scooped heaping spoonfuls onto the skillet (ungreased) and cooked them like pancakes, a few minutes apiece. Tasty! But they were best when piping hot, and seemed to lose flavor as they cooled. This made about 8 silver-dollar falafelcakes (really 6, plus about 2 more worth of scraps and broken bits).",
+            "datePublished": "2013-07-06T16:49:45.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Extra Foamy"
+            },
+            "reviewBody": "These are really good and super easy to make. I have to admit I made lots of adjustments based on what things I had on hand; I used lentils instead of chickpeas, leeks instead of onion, and a stalk of celery instead of parsley. In any case they still came together great, crispy on the outside and moist on the inside, and very flavourful. I cooked them for 3 minutes on my pancake griddle before transferring to the oven for 15 minutes.",
+            "datePublished": "2012-07-04T10:11:42.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela"
+            },
+            "reviewBody": "I skipped the whole pan-frying step, and just baked them in my oven on a Silpat. The outside was crisp, and the inside was tender. Great flavor! I doubled the recipe so that I could have enough for lunch the next day. I did add double the amount of coriander, but that is just my own preference.",
+            "datePublished": "2012-12-13T12:34:12.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela"
+            },
+            "reviewBody": "I love the concept of baked falafel. This came together pretty easily but it was quite blah. I will make these again but alter the spices, add some lemon juice and increase the salt.",
+            "datePublished": "2023-02-23T21:36:48.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VioletSole7398"
+            },
+            "reviewBody": "There is NO way that falafel made with anything other than soaked dried garbanzos will be excellent. I couldn't bring myself to try (and fail) with another canned bean recipe. Sigh.",
+            "datePublished": "2022-08-25T00:39:00.099Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barb"
+            },
+            "reviewBody": "I used fresh garbanzos and followed Lauren’s tweaks. It came out perfect, better than fried!",
+            "datePublished": "2021-05-18T23:53:48.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "paula"
+            },
+            "reviewBody": "Fantastic Falafel Recipe \nNo changes made . I prepared it as stipulated in the recipe. Every loved them. Culinary success!",
+            "datePublished": "2021-03-09T14:37:21.943Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Mazzei"
+            },
+            "reviewBody": "So delicious and easy! I've made filafel before that fell apart when I cooked them, this made the perfect texture, and loved the technique for baking them. I'll make these again",
+            "datePublished": "2021-01-25T02:24:13.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marsha Brooks"
+            },
+            "reviewBody": "I made this falafel and it turned out perfect. my husband and I loved it.",
+            "datePublished": "2020-07-20T01:53:04.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shane Muller"
+            },
+            "reviewBody": "Mushy balls that fry up and bake nicely, really enjoy this recipe",
+            "datePublished": "2020-06-15T16:43:51.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lulu's kitchen"
+            },
+            "reviewBody": "sorry about all the photos! came out good. I skipped the pita and had cukes, lettuce, and avocado on the side. yummy!",
+            "datePublished": "2020-02-05T21:29:09.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "abogo715"
+            },
+            "reviewBody": "Overall very good. Great texture but lacking flavor a bit. Next time will increase herbs &amp; spices, and maybe add some additional seasoning.",
+            "datePublished": "2019-12-28T22:41:56.410Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/183947/baked-falafel/",
+          "name": "Baked Falafel",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+                  "name": "Vegetarian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

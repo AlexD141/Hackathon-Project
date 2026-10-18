@@ -1,0 +1,465 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221141/fresh-strawberry-sauce/",
+  "extracted_at": "2026-10-18T03:12:37.919896+00:00",
+  "recipes": [
+    {
+      "name": "Fresh Strawberry Sauce",
+      "ingredients_raw": [
+        "1 pint fresh strawberries, hulled",
+        "0.25 cup white sugar, or more to taste",
+        "2 tablespoons water",
+        "0.5 teaspoon balsamic vinegar",
+        "2 tablespoons water",
+        "1 teaspoon cornstarch"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine strawberries, sugar, 2 tablespoons water, and balsamic vinegar in a saucepan; bring to a simmer over medium heat."
+        },
+        {
+          "id": 2,
+          "text": "Reduce heat to medium-low, cover, and simmer for 15 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Whisk 2 tablespoons water and cornstarch together in a small bowl."
+        },
+        {
+          "id": 4,
+          "text": "Whisk cornstarch mixture into strawberry mixture. Cook, stirring constantly, until mixture thickens, 1 to 2 minutes. Remove from heat."
+        },
+        {
+          "id": 5,
+          "text": "Transfer mixture to a blender and puree until smooth."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Fresh Strawberry Sauce",
+        "datePublished": "2012-04-12T13:08:21-04:00",
+        "dateModified": "2023-01-06T16:26:11-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "This fresh strawberry sauce is enhanced with a splash of balsamic vinegar; perfect to use in pies, as a filling for cakes, or to drizzle over cheesecake.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/MelQiv1q0C89JN88Z86lkwtFZ5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044471-fresh-strawberry-sauce-Melissa-Goff-1x1-1-b768db8c5cd94e46bee48eaa29c46ea4.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/hEGlyarN-ma1DlVvV.mp4",
+          "description": "0280",
+          "duration": "PT3M3S",
+          "name": "Fresh Strawberry Sauce",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/hEGlyarN/poster.jpg?width=1280",
+          "uploadDate": "2021-07-16T00:52:50-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fresh Strawberry Sauce",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "ratingCount": "146"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "53 kcal",
+          "carbohydrateContent": "13 g",
+          "fiberContent": "1 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "1 mg",
+          "sugarContent": "11 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "1 pint fresh strawberries, hulled",
+          "0.25 cup white sugar, or more to taste",
+          "2 tablespoons water",
+          "0.5 teaspoon balsamic vinegar",
+          "2 tablespoons water",
+          "1 teaspoon cornstarch"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine strawberries, sugar, 2 tablespoons water, and balsamic vinegar in a saucepan; bring to a simmer over medium heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Reduce heat to medium-low, cover, and simmer for 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk 2 tablespoons water and cornstarch together in a small bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk cornstarch mixture into strawberry mixture. Cook, stirring constantly, until mixture thickens, 1 to 2 minutes. Remove from heat."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/MelQiv1q0C89JN88Z86lkwtFZ5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044471-fresh-strawberry-sauce-Melissa-Goff-1x1-1-b768db8c5cd94e46bee48eaa29c46ea4.jpg"
+              }
+            ],
+            "text": "Transfer mixture to a blender and puree until smooth."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I made this sauce exactly like the recipe except I did not puree the strawberries because I wanted bits of fruit in it. I did have to add a little more cornstarch mixture to thicken it up. With that said, though, this is a great sauce for pancakes, ice cream, cheesecake, or pound cake. Just the perfect sweetness for my taste."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ed Hogg"
+            },
+            "reviewBody": "Made exactly from recipe. It was great over garbanzo bean chocolate cake from this site (also 5 star). By the way, one pint of strawberries is 2.3 cups. I would go light oin the sugar. Sauce was also good on ice cream and waffles.",
+            "datePublished": "2013-06-24T06:48:54.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "petenick_1984"
+            },
+            "reviewBody": "I used this recipe with fresh blackberries instead of strawberries. I also used a potato masher (gently) while they were simmering instead of pureeing for extra texture. The subtlety of the balsamic is amazing. This sauce is fantastic!",
+            "datePublished": "2014-11-12T16:50:36.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "huntermt"
+            },
+            "reviewBody": "I made this using 2 cups of whole frozen strawberries. It turned out perfect to top my flourless chocolate cake. I did use an immersion blender as I did not want purée, but wanted the sauce with a few chunks so this was easier to control. Definitely will use this recipe again.",
+            "datePublished": "2016-05-30T17:12:26.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "puppyluv"
+            },
+            "reviewBody": "I've been making this recipe for my strawberry tarts for years. I add cornstarch and cook it long enough to get a thick consistency. I refrig overnite before spooning into my baked tart shells. The only difference I make is using lemon juice to taste instead of balsamic vinegar. Everyone loves my tarts! Put a dollop of whipped cream or cool whip on top (I like mine as is) and it's a delicious dessert. Oh, I also add just a tiny pinch of salt while cooking to bring out the flavor and I sometimes use red food coloring to brighten it up.",
+            "datePublished": "2013-05-18T19:41:13.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Vazquez"
+            },
+            "reviewBody": "Absolutely delicious! I added lemon zest and an extra splash of balsamic vinegar. I did not blend the strawberries as I was using this for cheese blintzes. Still licking my lips!",
+            "datePublished": "2016-01-03T06:51:53.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestMalt7837"
+            },
+            "reviewBody": "Excellent and easy to make. As previously suggested, I didn't blend - just mashed so there would be bits of strawberry. Served over Angel Food Cake and topped with whipped cream - a fancy strawberry shortcake.",
+            "datePublished": "2023-04-30T19:34:12.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sweettooth20051"
+            },
+            "reviewBody": "I used frozen strawberries and it came out well. I also did not purée it since I didn't have a blender, but was still pleased with it. Will definitely make it again the next time I want a strawberry sauce. It went great with cheesecake!",
+            "datePublished": "2014-07-04T03:30:02.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hazel"
+            },
+            "reviewBody": "Impeccably brilliant! Everyone had it on ice cream and or cheesecake. Then at 1 a.m. caught my husband at the fridge eating the sauce out of the jar! He's usually the chef in the family, a real great one I might add, but this sauce he asks me to make when we go strawberry picking. I actually didn't puree the strawberries as I love a little chunkiness (to chew and savor when eating it with my cheesecake) just chopped them up nice and itty bitty in the pot. I won't lie, since I've seen my husband sneaking spoonfuls of it, I eat it on it's own as well sometimes, just not in the middle of the night ;-). Thanks for sharing this yummy recipe!",
+            "datePublished": "2017-07-08T22:23:01.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie Coma"
+            },
+            "reviewBody": "Made this for the first time on Father's Day 2014, serving it over Sour Cream Angel Food Cake from Kroger. We all really liked it! I followed the recipe except didn't bother to thicken it. Instead, I used the emulsifier to blend the cooked berries into the sweetened liquid. When everything had cooled a bit, I added an additional pint of berries to the mixture.",
+            "datePublished": "2014-06-16T11:14:13.037Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marianne"
+            },
+            "reviewBody": "We thought this was excellent with our pancakes this morning! I used peach white balsamic vinegar rather than just plain balsamic vinegar. I would make this again for sure! Thanks once again, Chef!",
+            "datePublished": "2017-06-11T21:45:59.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa O'Driscoll"
+            },
+            "reviewBody": "I included blueberries",
+            "datePublished": "2025-08-29T01:18:10.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "paula"
+            },
+            "reviewBody": "Tasty, but I would start with less sugar. And add to taste. Very sweet.",
+            "datePublished": "2024-11-27T16:22:24.104Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HandyBrie8154"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-10-29T17:13:28.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoolBasil3848"
+            },
+            "reviewBody": "This recipe is easy, quick and yields a fresh-tasting and delightfully sweet yet perfectly tart sauce. It's equally yummy whether pureed or left chunky and usually disappears within a day in our house. Highly recommend!!",
+            "datePublished": "2024-02-03T19:59:00.809Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "joan_d2"
+            },
+            "reviewBody": "I used this as a topping for Angel Food Cake and would say it was very good. I did not puree it as I wanted to have some bits and chunks of the fruit in it for texture.",
+            "datePublished": "2023-08-06T00:34:31.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mobile54"
+            },
+            "reviewBody": "Easy and simple. Very tasty",
+            "datePublished": "2022-07-31T21:41:57.874Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bookbet"
+            },
+            "reviewBody": "Excellent. Not too sweet. Very versatile.",
+            "datePublished": "2022-06-26T15:23:50.759Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele"
+            },
+            "reviewBody": "This is a great recipe! I love that it is lower in sugar than most syrup recipes. I used tapioca instead of cornstarch. Loved it!",
+            "datePublished": "2022-06-11T16:37:49.129Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Myra Parshall Brimmer"
+            },
+            "reviewBody": "I've been an avid cheesecake creator for a handful of years now, that being said, I was looking for a fresh strawberry sauce recipe to add over the New York style cheesecakes and this one did not disappoint. I use this sauce for a multitude of desserts including strawberry shortcake and it's great over just plain ice cream. The acidity of the vinegar cuts the sweetness just enough to elevate the flavor. I get compliment after compliment on this sauce. It's one of the very few recipes that I haven't put my own spin on. I've also used it with other fruits, such as, cherries, blueberries, and raspberries. Never had any complaints. Thanks Chef, J!",
+            "datePublished": "2021-09-19T14:50:01.667Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221141/fresh-strawberry-sauce/",
+          "name": "Fresh Strawberry Sauce",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+                  "name": "Sauces"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15596/side-dish/sauces-and-condiments/sauces/dessert-sauces/",
+                  "name": "Dessert Sauce Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

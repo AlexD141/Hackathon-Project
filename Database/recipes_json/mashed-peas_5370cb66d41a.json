@@ -1,0 +1,401 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/213342/mashed-peas/",
+  "extracted_at": "2026-10-18T02:50:43.404667+00:00",
+  "recipes": [
+    {
+      "name": "Mashed Peas",
+      "ingredients_raw": [
+        "2 tablespoons olive oil",
+        "1 (16 ounce) package frozen peas",
+        "1 bunch green onions, chopped",
+        "1 bunch fresh mint leaves",
+        "2 tablespoons butter",
+        "2 tablespoons brown sugar",
+        "salt and pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large skillet over medium heat. Add frozen peas, green onions, and mint. Cook, stirring until peas are hot and tender but still bright green, 7 to 10 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Transfer to a bowl and mash until peas are crushed but still slightly chunky. Add butter, brown sugar, salt, and pepper. Stir until butter melts and sugar dissolves."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mashed Peas",
+        "datePublished": "2009-06-18T17:47:03-04:00",
+        "dateModified": "2026-02-23T08:50:17-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Ella"
+          }
+        ],
+        "description": "Buttery, minty, sweet mashed peas, served warm or cold, are quick to make and are a healthy alternative to mashed potatoes. Leave them chunky for texture!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/E5DBPq-tZqcV80uudrSgH2Hu9U0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3574633-5a0fa01bd2ed4b03b114603d56869d62.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mashed Peas",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "33"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "164 kcal",
+          "carbohydrateContent": "18 g",
+          "cholesterolContent": "10 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "118 mg",
+          "sugarContent": "9 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Uk And Ireland"
+        ],
+        "recipeIngredient": [
+          "2 tablespoons olive oil",
+          "1 (16 ounce) package frozen peas",
+          "1 bunch green onions, chopped",
+          "1 bunch fresh mint leaves",
+          "2 tablespoons butter",
+          "2 tablespoons brown sugar",
+          "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet over medium heat. Add frozen peas, green onions, and mint. Cook, stirring until peas are hot and tender but still bright green, 7 to 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Transfer to a bowl and mash until peas are crushed but still slightly chunky. Add butter, brown sugar, salt, and pepper. Stir until butter melts and sugar dissolves."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Green Banana"
+            },
+            "reviewBody": "Not bad at all but I prefer them without the mint because I like to cover them in gravy, but I did try them with mint and they were quite good, I just prefer them with gravy. Red gravy is best but there good with beef and chicken gravy too. ;)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bob Greenhalgh"
+            },
+            "reviewBody": "I've been making these peas for years without the sugar.(I'm diabetic). I mash the peas, mint and onions in the pot with an immersion blender. Excellent!",
+            "datePublished": "2016-03-28T14:05:47.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I loved the peas. I used a food processor to mash. I also added low-fat milk after combining all other ingredients to add more moisture and a more creamy look and taste.",
+            "datePublished": "2021-02-06T16:32:04.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cocochan"
+            },
+            "reviewBody": "I thought I'd try this as a change to my usual preparation. It is good but has calories that I can live without. I usually boil peas in a vegetable broth and then use an immersion blender to break down the peas but not to the point that they are completely smooth, but rather chunky. It is comfort food and I eat it as a pick-me-up snack - simple food that is delicious and high in protein too - 1 cup of peas (pre-blended) has more protein than 1 egg (8.6 g vs 6.3 g).",
+            "datePublished": "2017-01-08T16:46:47.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MaryLou"
+            },
+            "reviewBody": "These mashed peas were really yummy. We loved the freshness from the herbs. They were great along side our salmon dish. They were nice, light and sweet. Next time I make them I will leave out the brown sugar, or cut back the amount due to my flavor preference. Definitely use an immersion blender!",
+            "datePublished": "2024-04-22T19:20:12.661Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Juliah Davis"
+            },
+            "reviewBody": "I didn't use oil and instead heated them up in the butter. I did not mash them. I used dried mint because that's what I had. Kept the rest the same. They were yummy. Will do again for St Pat's day.",
+            "datePublished": "2016-03-26T14:20:35.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "M Garza"
+            },
+            "reviewBody": "Easy, I didn't mash em because I liked the look of them unmashed. Taste great! My guy who does not care for peas liked them also.",
+            "datePublished": "2025-03-01T17:51:03.152Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meagan Parsons"
+            },
+            "reviewBody": "These were delicious and oh so easy! We boiled the frozen peas before cooking in the oil to make them extra mashable. The brown sugar added that perfect amount of sweetness to the already sweet peas! Will cook these again and again! Thanks!!",
+            "datePublished": "2014-04-04T17:46:11.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carl"
+            },
+            "reviewBody": "It was good! Like some people said maybe I would reduce the amount of brown sugar… and I’m thinking maybe I would use a hand blender to make them a little smoother.",
+            "datePublished": "2025-11-03T03:56:17.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PurpleKiwi9520"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-02-24T23:54:20.564Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldenHen1500"
+            },
+            "reviewBody": "As an American, I've always been curious about peas and mash. I was considering making this recipe, but I saw that brown sugar is an ingredient. Is it supposed to be sweet? Ant mint? With peas? I can't fathom what that tastes like. Is mint and brown sugar absolutely necessary to be authentic peas and mash?",
+            "datePublished": "2024-10-28T05:42:49.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Made for St Patty’s Day Dinner and these were AWESOME! Fresh mint is the secret ingredient that wow, takes this over the top! After working my arm off trying to mash, I used my immersion blender - which did the trick! Would and will absolutely make again! Thank you Ella!!",
+            "datePublished": "2023-03-18T03:19:31.346Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "churchlady85"
+            },
+            "reviewBody": "I made this as a side dish to corned beef and cabbage dinner for St Patty’s Day. I followed the recipe exactly. Using fresh mint is key to the flavor. I found it hard to mash with a fork and then resorted to using an emersion blender which worked well. I enjoy peas and think I will make this again without mashing or the brown sugar. Peas are sweet enough and I didn’t think mashing them was needed. It is an unusual flavor combo that works nicely as an alternative side dish.",
+            "datePublished": "2022-03-19T13:39:14.579Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RV Living"
+            },
+            "reviewBody": "Served with Ginger Glazed Mahi Mahi",
+            "datePublished": "2019-08-26T02:57:56.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "john steadman"
+            },
+            "reviewBody": "Mushy peas and this style of peas are best when dried peas are used. In the UK, we use \"processed\" peas, which means they have been dried and reconstituted",
+            "datePublished": "2017-05-28T22:52:44.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jcberne"
+            },
+            "reviewBody": "I was really hesitant to make this. I did make it with the mint and brown sugar - OMG it was tasty. Even my grandson liked it (and he doesn't like/eat peas)\n\nI'll be making this again and again - next time will be without the mint and sugar - a little irish butter and salt and pepper!",
+            "datePublished": "2017-03-20T21:19:59.037Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KellyDB"
+            },
+            "reviewBody": "This is an excellent side dish.",
+            "datePublished": "2016-04-12T12:34:59.087Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/213342/mashed-peas/",
+          "name": "Mashed Peas",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2018/side-dish/vegetables/green-peas/",
+                  "name": "Green Peas"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,254 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222554/b-52-cocktail/",
+  "extracted_at": "2026-10-18T03:16:09.632342+00:00",
+  "recipes": [
+    {
+      "name": "B-52 Cocktail",
+      "ingredients_raw": [
+        "0.5 fluid ounce coffee-flavored liqueur (such as Kahlua®)",
+        "0.5 fluid ounce Irish cream liqueur (such as Bailey's®)",
+        "0.5 fluid ounce triple sec"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Pour coffee liqueur into a shot glass."
+        },
+        {
+          "id": 3,
+          "text": "Slowly pour in Irish cream liqueur, so it floats on top."
+        },
+        {
+          "id": 4,
+          "text": "Slowly pour in triple sec to create a 3-layer drink."
+        },
+        {
+          "id": 5,
+          "text": "Enjoy."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "B-52 Cocktail",
+        "datePublished": "2017-02-10T02:26:40-05:00",
+        "dateModified": "2025-06-18T11:30:52-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Allrecipes"
+          }
+        ],
+        "description": "This B-52 cocktail is made with equal parts coffee liqueur, Irish cream, and triple sec for an eye-catching, layered shot that is sweet and strong.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/qhbg3FnBWNLzcoocleGpHZ4oIqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222554-B-52Cocktail-gw-ddmfs-beauty-4x3-9aff5760f86c437b960cfb8b11eda5df.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/LOJHP8qs-ma1DlVvV.mp4",
+          "description": "Boom! See how a steady hand and a carefully placed spoon make the perfect B-52.",
+          "duration": "PT2M14S",
+          "name": "B-52 Cocktail",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LOJHP8qs/thumbnails/CiW6oSBZ.jpg?width=1280",
+          "uploadDate": "2021-07-19T02:21:58-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "B-52 Cocktail",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "ratingCount": "3"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "162 kcal",
+          "carbohydrateContent": "19 g",
+          "sodiumContent": "3 mg",
+          "sugarContent": "18 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink",
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 fluid ounce coffee-flavored liqueur (such as Kahlua®)",
+          "0.5 fluid ounce Irish cream liqueur (such as Bailey's®)",
+          "0.5 fluid ounce triple sec"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/d_rwXJsUbpwsrZDHKhWt3kH-hd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222554-B-52Cocktail-gw-ddmfs-4x3-step-01-f79dc47c7d954264b6b76789cdd5d405.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-idsKpP3eV-bDKNEc0C1MYEzT4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222554-B-52Cocktail-gw-ddmfs-4x3-step-02-0e1a572ed7bd468487e4609e7f2e2a3b.jpg"
+              }
+            ],
+            "text": "Pour coffee liqueur into a shot glass."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lk1pXF31UJrv62AZzJM0NJhCCBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222554-B-52Cocktail-gw-ddmfs-4x3-step-03-b3f161210369405db26f6d3b7a8cc834.jpg"
+              }
+            ],
+            "text": "Slowly pour in Irish cream liqueur, so it floats on top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ZWRKVBTGEWn_3VNkcPOLMZD0nZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222554-B-52Cocktail-gw-ddmfs-4x3-step-04-f6600aee02484ea2a1259fc9a6278d77.jpg"
+              }
+            ],
+            "text": "Slowly pour in triple sec to create a 3-layer drink."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/qhbg3FnBWNLzcoocleGpHZ4oIqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222554-B-52Cocktail-gw-ddmfs-beauty-4x3-9aff5760f86c437b960cfb8b11eda5df.jpg"
+              }
+            ],
+            "text": "Enjoy."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jackie C"
+            },
+            "reviewBody": "I didn't make them as a shot, but made a bunch in a pitcher as a Thanksgiving \"dessert\" even though I think we finished them off before dinner...very smooth. No matter how hard I tried I couldn't layer them so I gave up and just mixed it."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubyRind9879"
+            },
+            "reviewBody": "Make mine a double, stirred, over cracked ice!",
+            "datePublished": "2024-10-01T02:04:58.822Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SappyTofu9042"
+            },
+            "reviewBody": "It's no wonder people couldn't layer it. The recipe gives the WRONG order of addition of the ingredients. No mention of temperature or use of ice. Cream is always less dense so it floats. It makes no sense to add it in the middle and triple sec at the end. Cream should be the last one to be added, very gently, to stay on top.",
+            "datePublished": "2023-12-14T05:54:25.307Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222554/b-52-cocktail/",
+          "name": "B-52 Cocktail",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16421/drinks/shots/",
+                  "name": "Shot Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,448 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216539/oven-baked-garlic-and-parmesan-fries/",
+  "extracted_at": "2026-10-18T03:00:04.698355+00:00",
+  "recipes": [
+    {
+      "name": "Oven-Baked Garlic and Parmesan Fries",
+      "ingredients_raw": [
+        "4 large unpeeled russet potatoes, cut into 1/4-inch strips",
+        "0.25 cup olive oil",
+        "3 cloves garlic, minced",
+        "0.5 teaspoon ground dried thyme",
+        "0.5 teaspoon seasoned salt, divided",
+        "0.75 cup grated Parmesan cheese, divided",
+        "0.25 cup chopped fresh parsley"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Place potatoes in a large bowl and drizzle with olive oil. Season with garlic, thyme, and 1/4 teaspoon seasoned salt; toss until are evenly coated. Lift fries out of the bowl and spread evenly onto a nonstick baking sheet. Save remaining oil in the bowl."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven for 30 minutes, flipping fries halfway. Return fries to the bowl with olive oil. Sprinkle with 1/2 cup Parmesan cheese and parsley; toss to coat. Spread again onto the baking sheet."
+        },
+        {
+          "id": 4,
+          "text": "Continue baking until cheese melts, about 10 minutes. Sprinkle with remaining 1/4 cup Parmesan cheese and 1/4 teaspoon seasoned salt to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Oven-Baked Garlic and Parmesan Fries",
+        "datePublished": "2019-04-02T02:54:25-04:00",
+        "dateModified": "2026-04-05T08:09:12-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sarah"
+          }
+        ],
+        "description": "Homemade garlic Parmesan fries are made with russet potatoes tossed with thyme and parsley and baked in the oven until crisp, cheesy, and delicious.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ravV9yuU7F3up5ZSB7LxNu1Wgm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035235-74faf535b220412bbb15bc93228f97f6.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Oven-Baked Garlic and Parmesan Fries",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "255"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "481 kcal",
+          "carbohydrateContent": "69 g",
+          "cholesterolContent": "13 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "365 mg",
+          "sugarContent": "3 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 large unpeeled russet potatoes, cut into 1/4-inch strips",
+          "0.25 cup olive oil",
+          "3 cloves garlic, minced",
+          "0.5 teaspoon ground dried thyme",
+          "0.5 teaspoon seasoned salt, divided",
+          "0.75 cup grated Parmesan cheese, divided",
+          "0.25 cup chopped fresh parsley"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place potatoes in a large bowl and drizzle with olive oil. Season with garlic, thyme, and 1/4 teaspoon seasoned salt; toss until are evenly coated. Lift fries out of the bowl and spread evenly onto a nonstick baking sheet. Save remaining oil in the bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for 30 minutes, flipping fries halfway. Return fries to the bowl with olive oil. Sprinkle with 1/2 cup Parmesan cheese and parsley; toss to coat. Spread again onto the baking sheet."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Continue baking until cheese melts, about 10 minutes. Sprinkle with remaining 1/4 cup Parmesan cheese and 1/4 teaspoon seasoned salt to serve."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "The submitter was right, these should come with a warning: \"Highly Addictive\"! These were awesome! And they're perfect for when you want french fries withou the \"fry\"! I added a bit of dried crushed rosemary to the mix and since I didn't have fresh parsley I had to substitute a bit of dried. These smelled great in the oven and tasted even better! When finished I seasoned them with Parmesan and instead of the seasoned salt I opted for a bit of sea salt. These were the perfect side dish for grilled burgers! Thanks for a great recipe Sarah! One I'm sure we'll make again and again..."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie Anderson"
+            },
+            "reviewBody": "Served these to a group of friends this weekend and everyone loved them. Followed the basic recipe with a few changes because of what I had on hand. Used garlic powder, dried parsley, and jarred Parmesan cheese instead of fresh products...it was quicker and the taste was still really good.\n\nDid not have a non-stick sheet pan, lined one with a Silpat and the other with parchment paper. Parchment is the quicker way to go...no clean up.\n\nThe main change I made was to NOT return the fries to the bowl and the olive oil after 15 min. They still had plenty of oil and were browning nicely. \n\nI also changed the cooking time/order a bit out of necessity. I wanted the potatoes to be ready when the burgers came off the grill. So I pulled the pans after the 30 min cook and sat them aside. Then just before I was ready to serve them I sprinkled with the seasoned salt and parmesan and put them back in the hot oven for the last 10 min.",
+            "datePublished": "2014-11-24T08:51:54.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Venabambina"
+            },
+            "reviewBody": "I don't know what I did wrong here, but they turned out mushy and greasy, and I followed the recipe pretty closely. The overall flavor was wonderful, but I think if I made these again, I'd use less oil and less cheese (or more potatoes), cut the potatoes into larger wedges and bake longer, and DEFINITELY use parchment paper when baking.",
+            "datePublished": "2013-01-11T08:41:27.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Calicakes"
+            },
+            "reviewBody": "Blanch them first, it makes all the difference. They will be creamy inside and not shriveled up.",
+            "datePublished": "2023-10-14T17:39:29.172Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Curt McLey"
+            },
+            "reviewBody": "This recipe is incredible. There's nothing wrong with experimenting with your own seasonings, but why? As written, this is perfect. I used foil to make clean up easier, but some of the fries stuck to the foil. Either it was the store brand foil I used or maybe parchment paper would work better. Doubling this recipe yields about a cookie sheet of fries. And if you don't double it, you will regret it, because they fries are so delicious. Be sure to spread the fries out. If they are crowded, it will be less likely that they will get brown and crispy.",
+            "datePublished": "2021-02-09T01:17:43.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ENOXALLEN"
+            },
+            "reviewBody": "I can't even remember what seasonings I used, but I loved these. Putting them in the oil twice I think is what makes these more french-fry-ier than other oven baked fries. A keeper! UPDATE: Just made these again - cut them home fry style (bite-size hunks), mixed in with onion chunks, and seasoned with steak seasoning. Excellent once again. Slight cooking change - I cooked 20 min, tossed potatoes in oil bowl, spread potatoes back out in pan and cooked another 20-25 minutes (no flipping taters in oven and it still worked like a charm). This is how I'll always cook oven fried potatoes from now on - thanks for the recipe!",
+            "datePublished": "2012-01-04T08:32:35.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brian Wingston"
+            },
+            "reviewBody": "The flavor was mundane, and the fries came out soggy mush. I could modify this recipe to make it work though. To fix this, first i would deep fry them. When done I would sprinkle garlic POWDER on them, then the other ingredients, minus the oil.",
+            "datePublished": "2015-11-17T16:43:34.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brooke"
+            },
+            "reviewBody": "I used 1 large russet potato and cut it into rounds. After cutting the potato, I put the potato in cold water and let it sit for 15 minutes. After the 15 minutes, I dried the potatoes thoroughly. I then mixed 1/4 cup of olive oil, 1/2 tsp salt and 2 cloves of garlic. I followed the recipe as written for the rest, except I only used 2 tbs of parmasean and 1/4 tsp of salt for the final step.",
+            "datePublished": "2013-12-25T17:17:37.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ShelleyG"
+            },
+            "reviewBody": "These fries are awesome! I made a combo of yellow, red, and sweet potatoes and the whole family just loved them. It has quickly become a regular side dish in our house. Please note... if you use sweet potato, place them on a separate baking sheet because they tend to cook faster than the regular potatoes. I also added a little garlic powder since I was out of fresh garlic. De-lish!",
+            "datePublished": "2013-03-16T13:18:12.733Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RustyDuck"
+            },
+            "reviewBody": "Make sure to soak the potatoes in salted water for an hour or so for a crispier potato. Soaking allows some of the starches leech out into the water. The starch in potatoes hinders moisture from escaping, which leaves more water in the potato. Make sure to rinse the potatoes well after soaking (to remove the starch) and pat them completely dry before cooking.",
+            "datePublished": "2013-10-20T11:13:52.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sylwia M"
+            },
+            "reviewBody": "This is excellent. I added truffle oil also. 1/4 cup (25% truffle oil and 75% olive oil). Came out great!",
+            "datePublished": "2015-11-21T12:22:59.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Thought these were pretty good. Didn’t have the parsley but I don’t think that made a noticeable difference. Great with roast beef sandwiches. Thanks Sarah!",
+            "datePublished": "2024-10-05T15:22:08.956Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dorrll"
+            },
+            "reviewBody": "I have made so many roasted recipes, but this one is by far my favorite!! Crispy, tasty, yummy! Bet you can't eat just one!",
+            "datePublished": "2024-02-11T21:09:03.446Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "William Holmes"
+            },
+            "reviewBody": "simple and easy non-fry recipe but may have to adjust for more crispiness",
+            "datePublished": "2023-10-18T15:14:10.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "debbie"
+            },
+            "reviewBody": "These were the best oven fries I have ever made - before the addition of the parmesan and the extra baking at the end. They were still really good, and the extra flavor was fun. So try them both ways! Perfect directions for plain oven baked fries if you stop after 30 minutes. A nice flavor twist if you want to add the parmesan. I did bake mine for slightly less time both before and after adding the parm, but I had sliced them fairly thin.",
+            "datePublished": "2021-04-25T00:16:51.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marly"
+            },
+            "reviewBody": "These are amazing. I ate so many you can just call me Miss Piggy",
+            "datePublished": "2020-06-15T00:15:41.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lorry Kraus"
+            },
+            "reviewBody": "definitely a keeper",
+            "datePublished": "2020-06-09T00:51:17.457Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Traci Tiedeman Asman"
+            },
+            "reviewBody": "I didn't make any changes to the recipe. Loved them!",
+            "datePublished": "2020-03-23T23:11:02.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cory Peterson"
+            },
+            "reviewBody": "Secret to this recipe is use Duck Fat instead if oil! You will be blown away",
+            "datePublished": "2020-02-10T22:28:24.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "daboom54"
+            },
+            "reviewBody": "They were good. Next I will add different spices",
+            "datePublished": "2020-01-05T00:11:58.340Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216539/oven-baked-garlic-and-parmesan-fries/",
+          "name": "Oven-Baked Garlic and Parmesan Fries",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15466/side-dish/fries/",
+                  "name": "Fries Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15467/side-dish/fries/french-fries/",
+                  "name": "French Fries Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15469/side-dish/fries/french-fries/baked-french-fries/",
+                  "name": "Baked French Fries"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,454 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16882/chili-casserole/",
+  "extracted_at": "2026-10-18T02:23:30.070611+00:00",
+  "recipes": [
+    {
+      "name": "Chili Casserole",
+      "ingredients_raw": [
+        "1.5 pounds ground beef",
+        "0.5 cup chopped onion",
+        "3 stalks celery, chopped",
+        "1 (15 ounce) can chili",
+        "1 (14.5 ounce) can peeled and diced tomatoes with juice",
+        "0.25 cup taco sauce",
+        "1 (15 ounce) can corn",
+        "1 (8 ounce) package egg noodles",
+        "0.25 cup shredded Cheddar cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "In a large skillet over medium high heat, saute the beef and onion for 5 to 10 minutes, or until meat is browned and onion is tender; drain fat. Add the celery, chili, tomatoes, taco sauce and corn. Heat thoroughly, reduce heat to low and allow to simmer."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, prepare the noodles according to package directions. When cooked, place them in a 9x13 inch baking dish. Pour the meat mixture over the noodles, stirring well. Top with the cheese."
+        },
+        {
+          "id": 4,
+          "text": "Bake at 350 degrees F (175 degrees C) for 20 minutes, or until cheese is completely melted and bubbly."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chili Casserole",
+        "datePublished": "2000-01-11T19:05:40-05:00",
+        "dateModified": "2022-11-22T15:06:48-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sara"
+          }
+        ],
+        "description": "Red taco sauce is used in this casserole of browned ground beef combined with celery, corn, and tomatoes. It is baked with egg noodles and topped with cheese.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/s96c6HnlxG7xY5F6P4hW0Fkdg6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3391215-chili-casserole-Jennifer-Smith-Lawless-4x3-1-ca91f30f23fb4292aadab98c8e7271ae.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chili Casserole",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "138"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "671 kcal",
+          "carbohydrateContent": "52 g",
+          "cholesterolContent": "145 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "843 mg",
+          "sugarContent": "7 g",
+          "fatContent": "38 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired"
+        ],
+        "recipeIngredient": [
+          "1.5 pounds ground beef",
+          "0.5 cup chopped onion",
+          "3 stalks celery, chopped",
+          "1 (15 ounce) can chili",
+          "1 (14.5 ounce) can peeled and diced tomatoes with juice",
+          "0.25 cup taco sauce",
+          "1 (15 ounce) can corn",
+          "1 (8 ounce) package egg noodles",
+          "0.25 cup shredded Cheddar cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large skillet over medium high heat, saute the beef and onion for 5 to 10 minutes, or until meat is browned and onion is tender; drain fat. Add the celery, chili, tomatoes, taco sauce and corn. Heat thoroughly, reduce heat to low and allow to simmer."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, prepare the noodles according to package directions. When cooked, place them in a 9x13 inch baking dish. Pour the meat mixture over the noodles, stirring well. Top with the cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake at 350 degrees F (175 degrees C) for 20 minutes, or until cheese is completely melted and bubbly."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HEART2HEART"
+            },
+            "reviewBody": "This recipe really deserves 5 stars, but I altered it some! No celery, but did saute the onion w/meat. Used Mexican style stewed tomatoes, added a few shakes of chili powder, s&amp;p, garlic &amp; onion powder. I let it simmer and tasted. Needed something, so used 1 beef bouillon cube to 1/2 cup water and let it simmer a little bit longer. PERFECT!!! Also I used the spiral noodles (Rotini) in the bottom of the casserole (cooked very aldente), then the chili mix and put plenty of cheese over the top. I baked 10 minutes covered and another 10 uncovered. My family devoured it, thank you so much for such a great recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "unit827"
+            },
+            "reviewBody": "I made this last night with a few changes. Personally, I don't like canned chili so, I used a package of mild McCormick chili mix added to the ground beef after it was drained. I also added a 6oz can of tomato sauce to the tomatoes. Instead of the egg noodles, I used a package of Uncle Ben's Ready rice. This is a great week night meal. It has a lot of flavor and clean up is easy. You only have one big skillet and a 13X9 pan to wash. Be sure to spray the oven pan with non stick spray before you put the casserole in so clean up is easy.",
+            "datePublished": "2010-10-21T06:31:42.237Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Kay Hall"
+            },
+            "reviewBody": "Another winner. Kids liked it, husband liked it and husband said he'd take left overs for lunch which is always a good sign! As recommended from other reviewers I added a can of tomato sauce and used 2 cups of a mexican cheese blend insead of mozzarella (1 cup mixed in casserole, 1 cup on top) otherwise I followed the directions as is. The only thing I'd do different next time is sauté the onions for a few minutes to soften them up more as they weren't quite done to our liking. There was a lot left over so if you need a quick lunch the next day you'll be covered! For my side dishes I made corn bread and a basic spinach salad, only topped with hemp seed and poppy seed dressing. Yummy!",
+            "datePublished": "2013-01-08T22:01:23.533Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "veggievick"
+            },
+            "reviewBody": "I loved this recipe! One thing I did different...I didn't have a can of whole kernel corn, but I did have a can of cream-style corn so I added that instead. It gave it a great creaminess and a little added sweetness....in retrospect, I think had I used whole kernel corn I wouldn't have liked it as much! I also used some pre-shredded Mexican/taco blend cheese that I needed to use up, and probably added twice as much as the recipe called for. Other than those two things I followed the recipe exactly. The next time I would probably sauté the onion with the ground beef until it's limp, as my son isn't fond of onion that \"crunches\" but will eat it without complaint if it's cooked. This recipe fills the bill when you want something tasty, filling, inexpensive, and quick!! Thanks for sharing the recipe sal!",
+            "datePublished": "2014-12-03T04:51:42.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roni"
+            },
+            "reviewBody": "This is a simple recipe but I definitely made some customizations. I used 1 lb of ground turkey, fresh salsa (pre-packaged by Giant), red, yellow, and orange peppers, chili seasoning, crushed red peppers, diced tomatoes w/green chiles, garbanzo and black beans, whole wheat wide noodles, corn, and shredded cheddar and mexican flavor cheese. I pretty much followed the cooking instructions and substituted my ingredients in where necessary. I put the noodles in first and then mixed the meat mixture with the noodles. Halfway through I mixed in cheese and then finished adding the meat mixture. Then I topped with fresh salsa and more cheese. I baked for 20 minutes and it came out pretty well. My only adjustment next time would be to add more spice so that it is a little hotter and to cook longer because it was a little loose and didn't hold together. I will cook it for maybe 30-40 minutes and then add the cheese on top at the very end. Other than that it is a great recipe and I definitely recommend twirking it to meet your needs.",
+            "datePublished": "2010-08-18T14:53:41.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MommaBean3"
+            },
+            "reviewBody": "I followed a few reviews and added the kidney beans, tomato sauce and extra cheese and it was really good! I also used Campanelle noodles because I thought they would grab hold of everything better and they did! Honestly, I’m usually not a “chili mac” person but this recipe has changed my mind! I think next time I make it I might use a spicier taco sauce, other than that no other changes. Thanks for a great recipe!",
+            "datePublished": "2020-10-02T23:31:22.323Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KellsBells"
+            },
+            "reviewBody": "This was a great recipe, although I did alter it quite a bit. First, I used elbow macaroni noddles instead of egg noodles (I halved one of those typical boxes that they sell in stores--so about 8 oz). Also, I left out the onion, celery, tomatoes, and corn (we're a picky, unhealthy family :D). I used two 15 oz cans of chili and an entire 8 oz jar of taco sauce, and maybe about a half a cup of shredded sharp cheddar cheese. Turned out great; my husband and I loved it and will definitely be making this often.",
+            "datePublished": "2014-02-25T08:26:33.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Manos Emms"
+            },
+            "reviewBody": "Pretty good! Per other reviewers, changed this up a bit. Added some taco seasoning, used 1/2 cup taco sauce instead of 1/4 cup, used frozen corn and added some chopped red pepper. Used the 'no yolk' egg noodles. Fast and easy to put together, especially with pre-cooked ground hamburger. Family friendly.",
+            "datePublished": "2014-02-13T06:00:13.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rach"
+            },
+            "reviewBody": "This was pretty yummy! I added a tbsp of sour cream and a can of cheddar soup to make it a little more creamy plus some additional spices for how we like things. Makes a lot and really is good!",
+            "datePublished": "2011-03-17T09:01:55.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Noelle C"
+            },
+            "reviewBody": "this was awesome. the only thing I changed was that I sauteed the onion and celery in olive oil then added the beef. I was scared that the celery would be crunchy if I didn't. I also added a little salsa for a little extra punch! This is a wonderful weeknight meal...fast, easy and delicious! Thanks Sara!",
+            "datePublished": "2003-10-24T13:48:09.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LinZHersh"
+            },
+            "reviewBody": "I have a friend who is a vegetarian, but she slips up EVERY time I make this recipe!\n\nAfter making it time and time again, I've made a few adjustments. I use ground turkey now for a healthier meal, and you really can't tell the difference. I also prefer things spicy, so I generally double up on the chili seasoning and hot sauce. I use the Italian cheese mix instead of straight Mozzarella, and I sprinkle a few handfuls on top of the chili before baking. I'd recommend serving it with fat-free sour cream for a nice mix.\n\nEnjoy!",
+            "datePublished": "2008-09-27T12:18:17.457Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chelsea gradney"
+            },
+            "reviewBody": "I like the idea. But use flavored tortilla chips instead of noodles. Use homemade chili from the freezer. Always keep the cheese and substitute hominy for corn. Ole!",
+            "datePublished": "2023-06-07T16:56:05.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MerryCane4895"
+            },
+            "reviewBody": "We liked it. I did not add celery. It made enough for several meals. Added crushed chips on top. It was good.",
+            "datePublished": "2022-04-21T23:14:49.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolyn"
+            },
+            "reviewBody": "I used 93% lean beef, drained, no fat cottage cheese. It was good. Served with fresh green salad and fresh cooked green beans.",
+            "datePublished": "2019-05-27T22:48:21.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy"
+            },
+            "reviewBody": "I did not care for this at all, even with the tweeks.",
+            "datePublished": "2016-07-19T15:39:24.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jena"
+            },
+            "reviewBody": "My family thought that the celery taste was weird the first time we made this, so the second time, we sauted zucchini and onion and left everything else the same. It was very good. Thank you! Noodles of your choice are fine, i'm sure. Relish! Thanks so much",
+            "datePublished": "2015-08-26T14:03:09.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BearCakes"
+            },
+            "reviewBody": "It's a good recipe. In the future we may alter it. The household was not a fan of the celery. We also my use a stringier cheese next time.",
+            "datePublished": "2015-03-04T05:08:05.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "btimar"
+            },
+            "reviewBody": "Nom Nom Nom.....",
+            "datePublished": "2015-01-26T20:59:25.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dat Girly"
+            },
+            "reviewBody": "It was very good, and very easy. Hubby loved it, didn't have any to freeze because he ate it all in 3 days. I did change a little, but only because of what I had on hand. Left out celery. Used left over taco meat, left over homemade chili, frozen corn, gluten free penne pasta, and more cheese than recipe called for. Chili already had onions, garlic, and diced tomatoes; and the taco meat was appropriately seasoned... didn't need taco sauce. Served with sour cream, homemade salsa, salad, and cornbread. Making it again tomorrow. :)",
+            "datePublished": "2014-05-10T14:56:16.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lenoreb"
+            },
+            "reviewBody": "This is a staple in our house! The kids love it and it makes great left overs. The only thing I change is that I use chili without meat. Otherwise, great, simple recipe.",
+            "datePublished": "2013-03-20T13:13:43.707Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16882/chili-casserole/",
+          "name": "Chili Casserole",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

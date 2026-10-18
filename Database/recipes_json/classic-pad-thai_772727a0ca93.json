@@ -1,0 +1,363 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217811/classic-pad-thai/",
+  "extracted_at": "2026-10-18T03:02:49.784055+00:00",
+  "recipes": [
+    {
+      "name": "Classic Pad Thai",
+      "ingredients_raw": [
+        "8 ounces medium width rice vermicelli noodles",
+        "3 tablespoons vegetable oil",
+        "0.25 pound ground chicken",
+        "1 teaspoon hot pepper sauce",
+        "1 red pepper, thinly sliced",
+        "0.5 pound peeled, deveined raw shrimp",
+        "3 cloves garlic, minced",
+        "2 teaspoons freshly grated gingerroot",
+        "0.5 cup vegetable or chicken broth",
+        "0.5 cup Heinz Tomato Ketchup",
+        "0.25 cup lime juice",
+        "3 tablespoons granulated sugar",
+        "3 tablespoons fish sauce",
+        "1.5 cups bean sprouts",
+        "3 green onions, thinly sliced",
+        "0.25 cup fresh coriander or parsley leaves",
+        "chopped peanuts"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cover noodles with boiling water and let stand for 5 minutes; drain well and reserve."
+        },
+        {
+          "id": 2,
+          "text": "Heat half the oil in a wok or deep skillet set over high heat. Crumble in chicken and add hot sauce; stir-fry for 3 to 5 minutes or until browned. Reserve on a platter."
+        },
+        {
+          "id": 3,
+          "text": "Add remaining oil and peppers to pan; stir-fry for 3 minutes. Add shrimp and stir-fry for 2 minutes. Stir in garlic, ginger, broth, ketchup, lime juice, sugar and fish sauce. Bring to a boil. Add noodles and reserved meat; toss mixture to combine. Heat through."
+        },
+        {
+          "id": 4,
+          "text": "Add sprouts and toss gently. Sprinkle with onions, coriander and peanuts."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Classic Pad Thai",
+        "datePublished": "2020-06-18T23:44:37-04:00",
+        "dateModified": "2025-01-29T18:49:49-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Heinz"
+          }
+        ],
+        "description": "This recipe is a perfect example of Thai cooking for beginners. Once mastered, you&#39;ll forget stopping for take-out and make this easy stir-fry a weeknight staple.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/4Wb0rbP1xNbXEk7NAqFHgqLwCh8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/979370-ae2699e8afa14293a1ca3a883c8414b1.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Classic Pad Thai",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "ratingCount": "31"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "553 kcal",
+          "carbohydrateContent": "70 g",
+          "cholesterolContent": "104 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "30 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "1298 mg",
+          "sugarContent": "15 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Thai"
+        ],
+        "recipeIngredient": [
+          "8 ounces medium width rice vermicelli noodles",
+          "3 tablespoons vegetable oil",
+          "0.25 pound ground chicken",
+          "1 teaspoon hot pepper sauce",
+          "1 red pepper, thinly sliced",
+          "0.5 pound peeled, deveined raw shrimp",
+          "3 cloves garlic, minced",
+          "2 teaspoons freshly grated gingerroot",
+          "0.5 cup vegetable or chicken broth",
+          "0.5 cup Heinz Tomato Ketchup",
+          "0.25 cup lime juice",
+          "3 tablespoons granulated sugar",
+          "3 tablespoons fish sauce",
+          "1.5 cups bean sprouts",
+          "3 green onions, thinly sliced",
+          "0.25 cup fresh coriander or parsley leaves",
+          "chopped peanuts"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cover noodles with boiling water and let stand for 5 minutes; drain well and reserve."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat half the oil in a wok or deep skillet set over high heat. Crumble in chicken and add hot sauce; stir-fry for 3 to 5 minutes or until browned. Reserve on a platter."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add remaining oil and peppers to pan; stir-fry for 3 minutes. Add shrimp and stir-fry for 2 minutes. Stir in garlic, ginger, broth, ketchup, lime juice, sugar and fish sauce. Bring to a boil. Add noodles and reserved meat; toss mixture to combine. Heat through."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add sprouts and toss gently. Sprinkle with onions, coriander and peanuts."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allison"
+            },
+            "reviewBody": "I eat pad thai at least once a week so thought I should finally try making it at home - it turned out really well! Would definitely make again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "camarasx4"
+            },
+            "reviewBody": "Amazing. I altered slightly by adding 2 tbsp peanut butter and crushed tamari nuts",
+            "datePublished": "2014-02-19T15:08:16.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fakeymcfake"
+            },
+            "reviewBody": "This was quite alright, husband liked it a lot, I found it a bit too ketchupy but I guess being a Heinz recipe, that's the idea. I cut back on the sugar, it would have been too sweet for my taste. My advice is not to skip on the fish sauce and use coriander leaves instead of parsley.",
+            "datePublished": "2011-06-30T09:41:58.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "K3turah"
+            },
+            "reviewBody": "Amazing flavor! I used shredded chicken breast which added a great texture to the meal.",
+            "datePublished": "2011-11-14T17:23:00.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TracyRenee"
+            },
+            "reviewBody": "Amazing",
+            "datePublished": "2022-01-31T02:50:08.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tan69"
+            },
+            "reviewBody": "Quick and easy to make. Tasty, I added scrambled egg.",
+            "datePublished": "2020-04-10T10:08:33.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amy"
+            },
+            "reviewBody": "Just not the same as the real deal. I could taste the ketchup and not mech else. Kids wouldn’t even tried it because the kitchen smelled so bad! I guess that’s fish sauce for you!",
+            "datePublished": "2018-05-18T20:48:59.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Glenna Wheat"
+            },
+            "reviewBody": "I made this dish pretty much as listed. The only difference is that we used pork. It was delicious. We will make again.",
+            "datePublished": "2017-07-01T23:28:43.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly Troyer Elgersma"
+            },
+            "reviewBody": "I've made this recipe many, many times! It's a bit different based on what I have in the fridge or based on my mood, and it's always good. Easy, easy! One day I'll try a more complicated Thai recipe, but for now this always satisfies.",
+            "datePublished": "2016-10-12T21:24:06.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rabia Faizan"
+            },
+            "reviewBody": "It was so yummy... thanks for sharing..",
+            "datePublished": "2016-06-18T18:57:26.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jonerb5"
+            },
+            "reviewBody": "I made this recipe and could barely get it down. It smelled so strange and unappealing because of the fish sauce. It tasted nothing like pad thai I've had in restaurants and I will not make it again.",
+            "datePublished": "2014-03-12T00:23:04.880Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tlfakes"
+            },
+            "reviewBody": "I really don't get a Pad Thai flavor from this. Based on other reviews, I cut the ketchup by 1/3 - and it still overpowered the other flavors. I will be seeking other Pad Thai recipes.",
+            "datePublished": "2014-01-19T08:07:26.620Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RoseH"
+            },
+            "reviewBody": "This pad thai was so easy and delicious. I added sugar snap peas but didn't change the recipe at all. I made it for friends and everyone loved it.",
+            "datePublished": "2013-04-07T16:56:44.330Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217811/classic-pad-thai/",
+          "name": "Classic Pad Thai",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

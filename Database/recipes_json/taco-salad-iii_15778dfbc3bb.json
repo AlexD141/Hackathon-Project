@@ -1,0 +1,436 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16848/taco-salad-iii/",
+  "extracted_at": "2026-10-18T02:23:20.980897+00:00",
+  "recipes": [
+    {
+      "name": "Taco Salad III",
+      "ingredients_raw": [
+        "16 ounces lean ground beef",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "1 head iceberg lettuce, shredded",
+        "1 red onion, sliced",
+        "1 bunch green onions, chopped",
+        "1 (15 ounce) can pinto beans, drained",
+        "1 (15 ounce) can kidney beans, drained",
+        "2 large tomatoes, chopped",
+        "1 avocados - peeled, pitted, and cubed",
+        "8 ounces shredded Cheddar cheese",
+        "1 (16 ounce) package corn chips",
+        "1 (16 ounce) bottle Catalina salad dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Prepare the ground beef as directed by taco seasoning package and set aside."
+        },
+        {
+          "id": 2,
+          "text": "In a large bowl, combine the beef mixture, lettuce, red onion, green onion, pinto beans, kidney beans, tomatoes, avocado and cheese. Mix well."
+        },
+        {
+          "id": 3,
+          "text": "Before serving, add the corn chips and enough dressing to coat. Mix well and serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Taco Salad III",
+        "datePublished": "2000-02-19T12:40:37-05:00",
+        "dateModified": "2022-08-08T11:36:08-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Melanie"
+          }
+        ],
+        "description": "Seasoned ground beef, pinto and kidney beans, lettuce, tomatoes, Cheddar cheese, and avocado round out this hearty main dish salad. It&#39;s topped with crushed corn chips and Catalina dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/5qN3cx9MsZSDhFxUfGp-t2HUxi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/709466-9c9278bc54ef44faa387bb8821ff9b22.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Taco Salad III",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "269"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "945 kcal",
+          "carbohydrateContent": "76 g",
+          "cholesterolContent": "72 mg",
+          "fiberContent": "12 g",
+          "proteinContent": "27 g",
+          "saturatedFatContent": "16 g",
+          "sodiumContent": "1682 mg",
+          "sugarContent": "18 g",
+          "fatContent": "61 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired"
+        ],
+        "recipeIngredient": [
+          "16 ounces lean ground beef",
+          "1 (1.25 ounce) package taco seasoning mix",
+          "1 head iceberg lettuce, shredded",
+          "1 red onion, sliced",
+          "1 bunch green onions, chopped",
+          "1 (15 ounce) can pinto beans, drained",
+          "1 (15 ounce) can kidney beans, drained",
+          "2 large tomatoes, chopped",
+          "1 avocados - peeled, pitted, and cubed",
+          "8 ounces shredded Cheddar cheese",
+          "1 (16 ounce) package corn chips",
+          "1 (16 ounce) bottle Catalina salad dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Prepare the ground beef as directed by taco seasoning package and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl, combine the beef mixture, lettuce, red onion, green onion, pinto beans, kidney beans, tomatoes, avocado and cheese. Mix well."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Before serving, add the corn chips and enough dressing to coat. Mix well and serve immediately."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah"
+            },
+            "reviewBody": "This has been passed through our family for years. A great recipe! Some suggestions would be to serve it on top of lettuce, instead of mixing it in. That way you can keep it for leftovers. Also, mix the dressing with the meat, beans, tomatoes and cheese first, then add the chips on top and lettuce on bottom. You can do without one of the onions, and one of the beans, kidney beans work best. A great dip for chips as a snack/appetizer, too!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "littlezeta"
+            },
+            "reviewBody": "I really liked this recipe. I made my own taco seasoning from AR and added my onions to the beef. I also made my own dressing, 1/2 cup of salsa and 1/4 of ranch. It was enough for two large salads. I've made single serving with 3 tablespoon salsa and 1 tablespoon ranch. Yummy!",
+            "datePublished": "2011-10-08T16:05:23.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristy Guillotte"
+            },
+            "reviewBody": "Made this for the 4th of july. Layered it instead of mixing all together. took advice from another reviewer and mixed beef mix with 1/2 dressing ,1/2 tomatoes and beans. put lettus on bottom, beef mix, 1 onion sliced, rest of tomatoes, cheese and sliced black olives. served avocado on side and also Doritos on side. will make again",
+            "datePublished": "2012-07-06T06:37:47.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WobblyCream5811"
+            },
+            "reviewBody": "I love Taco salad but I made a few changes for personal preferences. I added a diced sweet onion to my meat while cooking, and used lean ground Turkey. I used French dressing, kidney beans, chopped iceberg lettuce, diced tomatoes, sliced black olives, shredded fiesta blend cheese and topped it with Nacho cheese tortilla chips, salsa and sour cream. I also mixed the French dressing in with the meat, beans, olives, tomatoes and cheese, and everyone added the lettuce and tortilla chips to their bowls so the chips wouldn't get soggy and the lettuce wouldn't be wilted for leftovers.",
+            "datePublished": "2023-08-22T17:43:11.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "connie"
+            },
+            "reviewBody": "This recipe is awesome! The best out there. However there is one thing I do different that makes a big difference. After cooking the ground beef and adding the taco seasoning, I then add the beans and the Catalina dressing. This is refrigerated over night. The meat soaks up the dressing so it's not too soggy. The day of serving add the other ingredients. I then crush taco flavored Doritos and add them right before serving. If you had chips to any portion that will be left over, they will be soggy.",
+            "datePublished": "2015-05-24T10:46:19.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Stoner"
+            },
+            "reviewBody": "Made it as written and it's terrific! In California our Taco Salad is basically the same with these changes. For dressing make Italian dressing using the dry package then add a drop or two or more of Tabasco, according to your tastes. Mix dressing and crushed tortilla chips just before serving. What's amazing is the left over salad is terrific as a wilted salad. Just add some more crushed chips and enjoy!",
+            "datePublished": "2017-05-15T20:37:27.387Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dogsrus"
+            },
+            "reviewBody": "I've been making this recipe for years, it's great for all seasons! What I do differently...if you're concerned about sodium skip the packaged taco seasoning and add your own blend of spices. You may also substitute low/no fat Catalina dressing. I do not mix the meat and beans with the salad rather I add the dressing and chips to the salad (toss) and then top with the meat mixture. If you want left-overs skip mixing dressing and chips and do so individually. That way the lettuce doesn't become soggy.",
+            "datePublished": "2011-09-30T05:29:49.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fruitdog"
+            },
+            "reviewBody": "This is my Taco Salad inspiration recipe! I vary depending on what I have on hand. Love the pinto bean in it and the Catalina does it for me especially if the meat is spicy! I do use a vegetarian meat alternative, never used kidney because for me....yucky... and we prefer a green mix vs. just iceberg. Roasted corn, radishes, cilantro, jalapeno or Hatch, black beans or whatever and it has always been fantastic in our home!",
+            "datePublished": "2017-08-19T23:34:26.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "missdrea"
+            },
+            "reviewBody": "Nice summer dinner. I subbed kidney beans out of personal preference. I used a sweet Vidalia onion tomato dressing and it was perfect for this. I skipped the chips but added a dollop of sour cream. Served instant Mexican rice on the side for a quick, throw-together, too hot to slave over a stove kind of evening. Next time I'll cook up the meat in the morning for more flavor and possibly add cilantro to brighten it up a bit.",
+            "datePublished": "2015-07-31T16:29:47.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "This was a delicious, one-dish salad for supper. I preferred just adding all of the ingredients to the top of the butter lettuce mix I had as opposed to mixing them all up. I'm sure that would work great for a crowd, though. I used leftover sloppy joe mix, because I like to use what I have on hand. In place of the pinto beans, I used light red kidney beans. I liberally sprinkled homemade taco seasoning mix over the salad before adding the dressing. The Catalina dressing works really well here, and I used my own homemade version from another site. I also used tortilla chips instead of corn chips. Thanks for the great recipe, Melanie!",
+            "datePublished": "2015-04-16T14:13:16.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelby"
+            },
+            "reviewBody": "I don't use the Catalina dressing. I mix 8 ounces of sour cream with 8 ounces of taco sauce and mix it well into the remaining ingredients. Haven't had a complaint yet!",
+            "datePublished": "2011-09-24T17:51:20.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monica"
+            },
+            "reviewBody": "Very dissatisfied with this recipe....canned beans?- maybe warmed up and softened?- family were really disappointed . Will continue to find something better.",
+            "datePublished": "2026-09-04T22:19:03.228Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patricia"
+            },
+            "reviewBody": "Like",
+            "datePublished": "2026-05-06T05:17:35.399Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CoralJelly9260"
+            },
+            "reviewBody": "Easy",
+            "datePublished": "2024-07-20T01:42:06.237Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anne"
+            },
+            "reviewBody": "Love this recipe. I make it regularly and often tweak it depending on what I have on hand. I've also used the recipe with some added ingredients as a \"build your own\" taco salad bar when I have a few guests at lunch. I always put out sour cream, black olives and diced green chilies for those who like a little \"fire\". Always a success. For just my small family, I use the recipe as printed but cut it in half. Great summer meal.",
+            "datePublished": "2022-09-30T18:35:58.711Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandra Alley"
+            },
+            "reviewBody": "This is a great recipe. Easy and tasty. The Catalina Salad dressing is great--and so easy to add! A keeper I've done for many years.",
+            "datePublished": "2021-08-23T22:18:53.537Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margie Robinson"
+            },
+            "reviewBody": "Everyone loved this! I used ground turkey instead of beef, omitted the kidney beans, used regular Doritos and Ranch dressing instead of Catalina.",
+            "datePublished": "2021-03-24T19:39:25.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elonie Jackson"
+            },
+            "reviewBody": "My family loved this salad!! It will be a go to for a refreshing, quick dinner. I did not put onions in mine (not a fan), no kidney beans with avocado on the side. Other than that I made it to recipe.",
+            "datePublished": "2020-08-21T23:17:18.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BallerMom"
+            },
+            "reviewBody": "Turned out great! Added cooked corn, used black beans instead of pinto beans and used Cathy’s suggestion for modifying the dressing (mixed together Catalina dressing, sour cream, a bit of taco seasoning and Hidden Valley Ranch dressing mix). Will definitely make this again!",
+            "datePublished": "2020-07-24T22:16:06.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chloe Isabelle"
+            },
+            "reviewBody": "Very good! Didn’t use chips and opted for a tortilla bowl and instead of the Catalina dressing, I mixed some taco sauce with ranch dressing and it was",
+            "datePublished": "2020-06-27T00:57:42.750Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16848/taco-salad-iii/",
+          "name": "Taco Salad III",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

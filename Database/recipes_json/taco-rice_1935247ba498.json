@@ -1,0 +1,432 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18339/taco-rice/",
+  "extracted_at": "2026-10-18T02:30:28.256478+00:00",
+  "recipes": [
+    {
+      "name": "Taco Rice",
+      "ingredients_raw": [
+        "1 (14.5 ounce) can chicken broth",
+        "1 (8 ounce) can tomato sauce",
+        "1 (1 ounce) package taco seasoning mix",
+        "1.5 cups uncooked instant rice",
+        "1 (6 ounce) can black olives, drained and chopped",
+        "1 cup shredded Cheddar cheese",
+        "1 cup sour cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place chicken broth, tomato sauce, and taco seasoning into a large pot; bring to a boil."
+        },
+        {
+          "id": 2,
+          "text": "Stir rice into the pot, cover, and remove from heat. Let the pot stand, covered, for 5 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in olives and cheese; mix well. Serve with sour cream."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Taco Rice",
+        "datePublished": "2000-06-14T22:27:07-04:00",
+        "dateModified": "2023-01-19T20:51:33-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kristine Connow"
+          }
+        ],
+        "description": "This tasty taco rice recipe is a great addition to tacos on the inside or out. My fiancée raves over this recipe.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Xm1dDl_wbgynfL81dlGAtmpF4Go=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/829699-taco-rice-thedailygourmet-4x3-1-c46a3198dc10429fbbc823298ccd12a7.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Taco Rice",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "137"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "459 kcal",
+          "carbohydrateContent": "43 g",
+          "cholesterolContent": "55 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "14 g",
+          "sodiumContent": "1392 mg",
+          "sugarContent": "4 g",
+          "fatContent": "26 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired"
+        ],
+        "recipeIngredient": [
+          "1 (14.5 ounce) can chicken broth",
+          "1 (8 ounce) can tomato sauce",
+          "1 (1 ounce) package taco seasoning mix",
+          "1.5 cups uncooked instant rice",
+          "1 (6 ounce) can black olives, drained and chopped",
+          "1 cup shredded Cheddar cheese",
+          "1 cup sour cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place chicken broth, tomato sauce, and taco seasoning into a large pot; bring to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir rice into the pot, cover, and remove from heat. Let the pot stand, covered, for 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in olives and cheese; mix well. Serve with sour cream."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I used organic chicken broth, organic tomato sauce, my own homemade taco seasoning mix, long-grain rice and I omitted the olives, only because my kids aren't really fans. I used 2% sharp cheddar and about half called for. That was plenty, to be honest without upping the calories too much."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catlin"
+            },
+            "reviewBody": "This is a great side dish. I doubled the recipe, using 2 cans of broth, 1 - 15 oz can of tomato sauce and 2 cups of long grain rice. Mixed the broth, tomato sauce, taco seasoning and rice together, let it come to a boil, then let it simmer for about 15-20 minutes. It came out perfect! I also stirred the sour cream directly into the rice mixture. So good!",
+            "datePublished": "2010-10-20T19:02:20.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen B"
+            },
+            "reviewBody": "This recipe was pretty good, and my whole family ate this one! I did make this in the rice cooker, and it turned out perfectly done. I was afraid at first that there would be too much liquid for the rice cooker, but I worried for nothing. The flavor with the tomato sauce and the taco seasoning was great too. I did use a packaged taco seasoning mix, but next time I think I might mix up my own spices for this because I did think it was a little salty. No big deal though, and it still tasted great! Very easy side dish to make along side any Mexican/Southwestern dish. Thank you for the recipe, MOTOR MOUTH!",
+            "datePublished": "2015-07-26T17:40:46.367Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vicky"
+            },
+            "reviewBody": "The was so good and so yummy! I did make some alterations as I did not have have the exact ingredients. I only had regular long grain rice, so I used 2 cups of chicken broth (I only had bouillon on hand, so 2 cups water, tsp chicken bouillon), a little over half a 15oz can of tomato sauce, and the taco seasoning. I brought that to a boil and cooked the rice per the instructions (2 cups rice in boiling water (ie liquid) for 15 min covered, mix, let sit for 5 min covered off of heat. I then added the cheese (I used co-jack) and added the rest of the tomato sauce, and the olives. I made chicken tacos out of it. So good!!!!",
+            "datePublished": "2012-08-12T13:26:31.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Why Mom"
+            },
+            "reviewBody": "This was a hit in our house! Like the others, I used 1 cup long grain rice, 14.5 oz can of diced tomatoes, ground beef, 14.5 oz can of corn and omitted the olives. I was adventurous and used beef broth instead of the chicken broth and whole pack of Taco Bell taco seasoning! I added the shredded cheese to each serving, but no sour cream!",
+            "datePublished": "2010-02-05T19:18:08.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HEART2HEART"
+            },
+            "reviewBody": "I cooked everything in my rice cooker. I used stewed tomatoes instead of tomato sauce, long cooking rice, no olives, added corn instead. After reading most reviews, I only used half a packet of taco seasoning, next time I will use the whole packet (and there will be a next time!!!). One last thing I added - cooked ground beef. Everyone loved it, thanks for such an easy recipe!",
+            "datePublished": "2010-01-24T22:26:20.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joan222"
+            },
+            "reviewBody": "I followed the recipe only omitting the olives. It was so good that I took a chance and added 1lb of browned minced turkey. Served with warmed taco shells, chopped tomatoes, chopped cucumber, shredded lettuce, shredded cheese and sour cream. It passed the 11 yr. old very picky eater test!",
+            "datePublished": "2017-03-04T00:36:02.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April"
+            },
+            "reviewBody": "This recipe is AWESOME! We LOVED it! Black olives is one of our favorite foods so this is perfect. I had no idea how to put rice in tacos and have it taste good. Now I know how to make is taste amazing. Thanks so much! And I can't believe I had all the ingredients already. Although I didn't have \"instant rice\", I just made some in 15 min. and added the rest of ingredients. I fried corn tortillas, made some taco-seasoned shredded chicken with diced tomatoes, put that on first and then the rice mixture. It held all the chicken in place and no need to top with cheese since it's already mixed into the rice, just some sour cream. YUMMY!",
+            "datePublished": "2009-10-20T19:48:35.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mdelzell"
+            },
+            "reviewBody": "i just got done making this recipe, and i think i have a new fave with a couple changes (hence the 4 stars). i used 2C instant brown rice to make it thicker. added one can of black beans, drained and rinsed, and a can of diced fire-roasted tomatoes after the rice was done cooking and returned it to low heat to warm through. i omitted the olives because i'm not a fan. also, instead of using a packet of taco seasoning i used 2T of \"taco seasoning I\" from this site. i didn't think it even needed the sour cream or cheese so why add the fat and calories. i guess you could put a dollop of sour cream on top and a sprinkling of cheese to serve. really good base recipe though.",
+            "datePublished": "2009-08-23T16:58:50.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dandygirl"
+            },
+            "reviewBody": "I made some changes based on other reviews, and was very happy with the result!\n\nI used long grain rice (not instant) because it was all I had, and simply adjusted the cooking time accordingly.\n\nI used only half the packet of taco seasoning.\n\nI omitted the olives and added refried beans instead (was going to do black beans but didn't have 'em).\n\nThe end result was very tasty. It still had enough spice to be good, and was a little more substantial than rice alone wouldn't been. I will definitely make this again!",
+            "datePublished": "2008-11-12T19:31:24.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kym Cox Surridge"
+            },
+            "reviewBody": "This was good and very simple. I made it with quinoa, fresh tomatoes pureed with tomato paste, and my own taco seasoning (green and red chili powder, cumin, garlic). Instead of cheese and sour cream, I mixed in fresh guac, and I added a splash of red wine vinegar and some roasted green chiles, which gave it a nice kick. This would be great in a burrito.",
+            "datePublished": "2009-08-04T19:56:42.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin Wilson"
+            },
+            "reviewBody": "family loved it. yes I will be making this again.",
+            "datePublished": "2020-02-08T15:48:37.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miss Diane"
+            },
+            "reviewBody": "This recipe is yum! Hubby loves it just the way it's written. Only thing I did different was followed the directions on the rice box...add rice, simmer for 5 min then let sit covered for 5 min. I've also added different things from time to time....brown instant rice, corn instead of black olives, a little onion. Really whatever you like in your Mexican rice. But the basic recipe is very good",
+            "datePublished": "2018-03-12T20:23:42.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chowchick"
+            },
+            "reviewBody": "Very good! The only thing I changed was instead of tomato sauce I used salsa. Turned out great!!",
+            "datePublished": "2017-10-01T13:54:38.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "theholmanherd"
+            },
+            "reviewBody": "I made it vegetarian by using veggie broth. I also don't like olives, so I omitted those. Overall, the flavor was strong, so that was good. I mixed in a little vegan sour cream and cheese and it was tasty. It was so easy to make. I will probably make it again in a pinch, since I pretty much always have those ingredients in the pantry, but it's not my favorite.",
+            "datePublished": "2017-02-21T05:32:08.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janel Piekenbrock"
+            },
+            "reviewBody": "I made this using salsa instead of tomato sauce and black beans instead of olives.",
+            "datePublished": "2016-12-29T17:33:22.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shari"
+            },
+            "reviewBody": "Made it according to recipie. It was good. The spices I used were too salty. I will try and make this again from my own home made from scratch taco seasoning. I think that will make it better.",
+            "datePublished": "2016-08-31T13:40:17.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "msimmons"
+            },
+            "reviewBody": "Extremely easy and very delicious.",
+            "datePublished": "2016-08-19T05:38:56.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "spice of life"
+            },
+            "reviewBody": "This was really good and so easy. Terry liked it too. Be great with any enchiladas, etc. Forgot the sour cream when serving, but will add it when we have the leftovers.",
+            "datePublished": "2016-06-25T16:26:26.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gigi"
+            },
+            "reviewBody": "Absolutely loved this! Flavors were great. I added kidney beans and small amount of frozen veggies that were left over. Will continue to make this often.",
+            "datePublished": "2016-06-03T00:12:58.553Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18339/taco-rice/",
+          "name": "Taco Rice",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/224/side-dish/rice/",
+                  "name": "Rice Side Dish Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

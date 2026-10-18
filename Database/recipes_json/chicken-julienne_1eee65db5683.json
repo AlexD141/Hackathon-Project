@@ -1,0 +1,441 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/146125/chicken-julienne/",
+  "extracted_at": "2026-10-18T02:01:01.562631+00:00",
+  "recipes": [
+    {
+      "name": "Chicken Julienne",
+      "ingredients_raw": [
+        "0.5 cup butter, melted",
+        "0.5 cup all-purpose flour",
+        "1 pound skinless, boneless chicken breasts, cut into strips",
+        "2 tablespoons fresh lemon juice",
+        "salt and pepper to taste",
+        "1 cup heavy cream",
+        "0.5 cup grated Parmesan cheese",
+        "1 dash paprika, for garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a baking dish."
+        },
+        {
+          "id": 2,
+          "text": "Place butter and flour in separate shallow dishes. Dredge chicken strips first in flour, coating evenly, and then in butter. Place chicken in the prepared baking dish. Sprinkle with lemon juice. Add salt and pepper to taste. Pour heavy cream over the chicken. Sprinkle evenly with Parmesan cheese and paprika."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until cheese melts and cream bubbles, about 20 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chicken Julienne",
+        "datePublished": "2019-07-10T03:00:20-04:00",
+        "dateModified": "2026-08-14T14:59:47-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "snowgirl9"
+          }
+        ],
+        "description": "Tender, boneless julienne chicken strips are baked in cream under a topping of Parmesan cheese in an easy main dish that’s an ideal weeknight dinner.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/LEXt1WvaikpVoyN0J-eboMSCkMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Julienne-be9d48234ec14af89f285c0bfd5a3cd7.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chicken Julienne",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "94"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "651 kcal",
+          "carbohydrateContent": "15 g",
+          "cholesterolContent": "208 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "32 g",
+          "sodiumContent": "387 mg",
+          "sugarContent": "0 g",
+          "fatContent": "54 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.5 cup butter, melted",
+          "0.5 cup all-purpose flour",
+          "1 pound skinless, boneless chicken breasts, cut into strips",
+          "2 tablespoons fresh lemon juice",
+          "salt and pepper to taste",
+          "1 cup heavy cream",
+          "0.5 cup grated Parmesan cheese",
+          "1 dash paprika, for garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a baking dish."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place butter and flour in separate shallow dishes. Dredge chicken strips first in flour, coating evenly, and then in butter. Place chicken in the prepared baking dish. Sprinkle with lemon juice. Add salt and pepper to taste. Pour heavy cream over the chicken. Sprinkle evenly with Parmesan cheese and paprika."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cheese melts and cream bubbles, about 20 minutes."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gatorgirl"
+            },
+            "reviewBody": "I followed this recipe exactly except for the heavy cream. I substituted 1 can of cream of chicken soup for the heavy cream and it turned out great. My husband commented on the meal and my 3-year-old and 5-year-old ate it all. I served the chicken with a side of rice pilaf and LeSeur peas."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RALEPRICE"
+            },
+            "reviewBody": "Dredged chicken in flour with salt and pepper, sauteed in butter with a little oil in iron skillet with onion. Poured half and half over top, added shredded cheddar and cooked in oven for about 10-15 minutes. Served with angel hair pasta.",
+            "datePublished": "2020-05-03T12:36:29.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "April Marie Kearney"
+            },
+            "reviewBody": "This is a pretty good recipe. Im giving it 4 stars based on the orginal directions. I did cook the sauce seperate to be sure this would be something my family would eat and i did have to modify after tasting. I brown the chicken in a pan first then added the cream and some cheese. Its very heavy on the cream taste and not much else. I added a little melted butter, chopped sweet onion, garlic, and 2 tablespoons chicken stock and that helped get rid of the milk taste. I also used some garlic powder and onion powder on the chicken with salt and pepper and seasoned the flour. will make this again but too heavy for weekly rotation. Very glad I tried this, Thank you snowgirl9!",
+            "datePublished": "2011-02-26T17:50:03.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MFazio"
+            },
+            "reviewBody": "I have been looking for a creamy chicken recipe for awhile now. And i think this is the perfect one. I did tweak it a little. I followed a couple other people's suggestions and here is what I came up with. I seasoned the chicken with onion powder, garlic powder and s&amp;p. I added a couple of dashes of paprika to the flour. I sauteed 1/2 onion and 1 garlic clove in a little butter for 2 mins. Then I added a 1/4 cup of chicken stock to the onions and garlic and cooked it for another 2 mins. Add chicken stock mixture to heavy cream in a bowl. I also added extra parm cheese and about a 1/2 cup of shredded Italian 5 cheeses on top. This all was topped on egg noodles. Soo yummy!!!",
+            "datePublished": "2011-07-18T16:54:56.660Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Boyett"
+            },
+            "reviewBody": "Wow! That was delicious! Tasted like really good restaurant food. Threw in some diced up green onions, put extra paprika (awesome) and baked it in a glass dish @ 400 for about 40 min. This dish was spectacular!",
+            "datePublished": "2016-06-16T05:41:09.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Momma Seales"
+            },
+            "reviewBody": "I browned the chicken a tad after coating in flour and butter, and sprinkled garlic powder and a little sea salt over the chicken before poring cream mixture on top. Also, since I'm cooking for a crew (even if I don't really need to... Ya know, in case someone shows up around supper time), I made it with heavy cream and cream of chicken. I used paprika and dried parsley on top for garnish, and plated over a bed of fettuccine.",
+            "datePublished": "2014-07-18T19:12:48.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "slevoir"
+            },
+            "reviewBody": "OMG. This was sooo good. I added salt, pepper, garlic powder, parsley and a touch of rosemary to the flower. Did not have lemon juice, so I had to do without. I did use three times the paprika (I’m Hungarian, that’s just what we do). Very easy to make. Chicken was very moist. This will be my “go to” meal.",
+            "datePublished": "2020-10-08T06:02:53.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChrisMarie"
+            },
+            "reviewBody": "wow. I added garlic and cilantro and this became an awesome mexican-style dish. The idea to cook in cream saved chicken breasts for me. I thought I would never get them to come out tender but this recipe worked great! I warmed up a diced tomato/ green chile mix (just some straight from the can rotel) and put it on top of the chicken to give it some color and served with spicy rice.",
+            "datePublished": "2011-06-29T19:38:04.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "countrycookin"
+            },
+            "reviewBody": "After reading the reveiws i made this with a few changes. For the sauce i did one can cream of chicken soup an a fourth cup of cream mixed together. Seasoned it with pepper, garlic powder, an a lil seasoned salt. Delicious!! Better And a lot easier than my old dish like this. Will b makin this again soon!! :)",
+            "datePublished": "2014-03-19T11:21:47.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "susanhorndfw"
+            },
+            "reviewBody": "Doubled the sauce to serve over rice — be aware it made the cook time probably an extra 12-15 mins for the chicken to reach 165 degrees. I did make my chicken thick tenders so that might have Sade’s some",
+            "datePublished": "2020-12-15T02:27:10.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "This is THE BEST chicken I have ever made!!! I used 2 chicken breasts, added a bit more parmesan, a pinch of rosemary, &amp; come minced garlic. Cooked at 375 for about 45+ min &amp; served with white rice. Absolutely FABULOUS!!!",
+            "datePublished": "2009-06-19T05:04:07.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ProudGrill3162"
+            },
+            "reviewBody": "Oh my goodness, I probably put a little extra of everything but this was sooooo delicious!",
+            "datePublished": "2022-08-02T14:14:21.972Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadBacon6543"
+            },
+            "reviewBody": "Very simple &amp; outrageously cheap not forgetting tasteful....",
+            "datePublished": "2022-07-31T20:38:24.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stepie's Kitchen"
+            },
+            "reviewBody": "We loved this so much we had two nights in a row! I made a few changes by adding garlic and onion powder to season the chicken and paprika to the heavy cream. I also topped it with Swiss and Munster cheese.",
+            "datePublished": "2022-07-22T12:05:31.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyBeer3347"
+            },
+            "reviewBody": "Oh my, oh my, oh my! What a wonderful recipe! My family just loved it! It was so easy to make and quick, too! It doesn't get much better than t hat. This is a dish I would serve to guests. I served it over cooked egg noodles. I made the recipe just as shown except that I pounded out the chicken just a bit and then prior to putting in in the oven, I added a bit more parmesan cheese and added a bit more Paprika. I baked the chicken for the 20 minutes then turned off the over but left the chicken in the oven. I had the water boiling for the noodles. After the 5 or 6 minutes to cook the noodles, I took the chicken out of the oven and served it over the noodles. I cannot recommend this recipe enough. It will definitely be a family favorite from now on.",
+            "datePublished": "2022-07-12T15:35:38.435Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsyTray8536"
+            },
+            "reviewBody": "So delicious and juicy, used some of the sauce on top of the rice and it was like heaven. Mouth wanted more but tummy said no so yay too leftovers!!!",
+            "datePublished": "2022-07-10T03:06:43.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "walt"
+            },
+            "reviewBody": "I have been making this recipe for several years and every one loves it my only improvement is I use fresh lemons and their zest. the zest does make a difference. Fresh Parmesan also helps.",
+            "datePublished": "2022-07-09T20:16:15.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FluffyLemon3332"
+            },
+            "reviewBody": "This is a great recipe and easy to make. One adjustment I made was to add minced garlic, onion powder, and italian seasoning to the heavy whipping cream before I poured into the iron skillet. Then served over pasta noodles. This turned out great and tasted fabulous.",
+            "datePublished": "2022-07-08T14:55:51.881Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "My Hot Southern Mess"
+            },
+            "reviewBody": "When making this recipe I made 2 minor changes, I used chicken breast tenderloins instead of cutting my chicken into strips and to make it gluten free, I used gluten free all purpose flour. I do not believe these changes made a difference on the outcome of the recipe. My package of chicken was 1.6lbs so I did add an extra 1/2 cup of heavy cream but left the rest of the ingredients as is. There was plenty of flour and butter to dredge the chicken. I seasoned the chicken well with salt and pepper as well. The end outcome was a creamy lemony chicken that my daughter and I both liked. It is simple and could be tweaked to your personal taste. The guys in our family didn't care as much for it (their complaint was the lemon) so we averaged the rating to a 4.",
+            "datePublished": "2022-06-27T21:07:26.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made this \"as is\" with a little more seasoning as any good cook will do but followed the recipe otherwise. I usually cannot eat chicken breasts because the meat is so dry, but this was perfectly tender and moist when cooked exactly as stated. I don't know how the person who cooked it for 45 minutes could eat it, it is perfect in the time specified. I will definitely make this again.",
+            "datePublished": "2021-04-16T21:57:25.313Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/146125/chicken-julienne/",
+          "name": "Chicken Julienne",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                  "name": "Chicken Breast"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

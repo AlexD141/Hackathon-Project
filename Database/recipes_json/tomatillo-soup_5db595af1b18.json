@@ -1,0 +1,467 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13246/tomatillo-soup/",
+  "extracted_at": "2026-10-18T01:52:53.928595+00:00",
+  "recipes": [
+    {
+      "name": "Tomatillo Soup",
+      "ingredients_raw": [
+        "2 skinless, boneless chicken breast halves - pounded thin",
+        "3 tablespoons olive oil",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 pound chopped tomatillos",
+        "2 jalapeno peppers, seeded and minced",
+        "4 cups chicken stock",
+        "0.5 teaspoon hot pepper sauce",
+        "0.25 teaspoon cayenne pepper",
+        "2 tablespoons chopped fresh cilantro",
+        "0.25 cup sour cream",
+        "salt to taste",
+        "ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large saucepan or Dutch oven over medium-high heat: add chicken and cook until browned, approximately 2 minutes per side. Remove chicken from the saucepan and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Add onions and garlic to saucepan and sauté over medium-low heat until golden, about 2 to 3 minutes. Stir in tomatillos and jalapeño peppers. Add broth and bring to a boil; reduce heat to low, cover, and simmer for about 15 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Puree soup in batches in a blender or food processor. Return to pot, and reheat. Add hot pepper sauce and cayenne pepper to taste."
+        },
+        {
+          "id": 4,
+          "text": "Shred cooked chicken; stir into soup and season to taste with salt and pepper. Add minced cilantro and ladle into bowls; top with sour cream if you like."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tomatillo Soup",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2026-04-28T21:52:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Holly"
+          }
+        ],
+        "description": "This tomatillo soup is a hearty and delicious Mexican-style soup packed with chicken and seasoned with fresh jalapeños, garlic, and cayenne pepper.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ggA-6rWT07M8cziL8SFzd6k-kzM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/483412-7d6a5153b8754b49b6e5d18630aaaba1.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tomatillo Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "161"
+        },
+        "cookTime": "PT25M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "159 kcal",
+          "carbohydrateContent": "7 g",
+          "cholesterolContent": "27 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "11 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "43 mg",
+          "sugarContent": "4 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "2 skinless, boneless chicken breast halves - pounded thin",
+          "3 tablespoons olive oil",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "1 pound chopped tomatillos",
+          "2 jalapeno peppers, seeded and minced",
+          "4 cups chicken stock",
+          "0.5 teaspoon hot pepper sauce",
+          "0.25 teaspoon cayenne pepper",
+          "2 tablespoons chopped fresh cilantro",
+          "0.25 cup sour cream",
+          "salt to taste",
+          "ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large saucepan or Dutch oven over medium-high heat: add chicken and cook until browned, approximately 2 minutes per side. Remove chicken from the saucepan and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add onions and garlic to saucepan and sauté over medium-low heat until golden, about 2 to 3 minutes. Stir in tomatillos and jalapeño peppers. Add broth and bring to a boil; reduce heat to low, cover, and simmer for about 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Puree soup in batches in a blender or food processor. Return to pot, and reheat. Add hot pepper sauce and cayenne pepper to taste."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Shred cooked chicken; stir into soup and season to taste with salt and pepper. Add minced cilantro and ladle into bowls; top with sour cream if you like."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EriNnRuss"
+            },
+            "reviewBody": "Great soup. I made mine in the slow cooker. It was super easy and fast. I added 2 raw whole chicken breasts, all the ingredients (I didn't even chop the onions or tomatillo's, just added them whole) I put it on low for about 6 hours, then I put everything except the chicken breasts in my blender. I shredded the chicken, and added the puree back to the pot. Voila!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim Chee"
+            },
+            "reviewBody": "I consider this a good base for a soup, but some ideas to improve. Jazz it up using home made broth. Rub the jalapeno and thickly sliced tomatillos with oil, grill for a few minutes hot, using wood chips to smoke (adds flavor), removing skin and seeds of jalapeno afterwards, add 1 goya ancho chile with sauce (they come in a can), skip the hot sauce. Once all is blended as recipe indicates and returned to pot, add 1 tsp cumin, 1 tsp. chile powder. Add 1c brown rice, simmer till almost done. sprinke Wondra while stirring to thicken broth. Then add 1c frozen corn, 1 can black beans drained, chopped chicken meat, juice of 1/2 lime. when corn is close to done, add chopped zuccini, 1/2 cup chopped scallion, turn off heat and cover. stir in 10, serve in another 10. Garnish with more cilantro, lime wedge, scallion, avocado, tortilla chips, etc.",
+            "datePublished": "2015-04-07T13:09:21.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trista Hertel"
+            },
+            "reviewBody": "This soup is amazing! My husband and five kids all devoured it. Using the same ingredients, I did prep differently. I used a whole chicken and simmered for two hours to make the broth. Then I de-boned and chopped the meat. I broiled the onions, garlic, jalapenos and tomatillos in the oven until they had a nice char. Once they were blackened, I added them to the broth and blended with the immersion blender. I, then, added in the chopped chicken. I also added some navy beans, according to the accounts of other reviewers. I let it all simmer for 20mins. I finished it off with a splash of lime juice and cilantro, then dished up. We all topped with sour cream, and my husband and I added a heavy splash of Frank's. It was so good!!! I can't wait to make again, and I can see where many of my frozen tomatillos from this summer's garden making their way into this soup!",
+            "datePublished": "2020-10-17T23:52:41.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth Ribarsky"
+            },
+            "reviewBody": "I added extra tomatillo as suggested and 3 small chicken breasts. I cooked it all in slow cooker (minus the oil). when done, removed chicken breasts and chopped them. used immersion blender in the pot. then added back chicken and about 2 cups of fresh corn. honestly, the corn adds a wonderful sweetness that would make it a 5 star if included in original recipe. definitely don't forget the sour cream!",
+            "datePublished": "2017-09-05T23:46:47.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thomas Baird"
+            },
+            "reviewBody": "A good basic soup. It needed some adjustments. I simmered it to thicken it up as well as throwing in grilled corn seasoned with cumin when I pureed it.",
+            "datePublished": "2021-12-11T02:33:25.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Momsnotacook"
+            },
+            "reviewBody": "First time I've made tomatillo soup. The entire family loved it- 8 year old and 11 year old, included! I added extra tomatillo to make it thicker as others recommended. I made a crockpot chicken and broth for the recipe and it was wonderful. Next time I'll add some water to cut the chicken flavor back. Also, if you want leftovers be sure to double the recipe- this made just enough for our family of four.",
+            "datePublished": "2015-11-04T15:36:50.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dkdav"
+            },
+            "reviewBody": "This recipe is very versatile. For a big pot of soup I used about 3lbs of tomatillos and about an equal number of baked potatoes with liberal amounts of the rest of the ingredients and used a stick blender on it. (I got it thicker than it needed to be.) I served this great tart broth with sides of baked corn tortilla strips, cubed avocado, shredded chicken thighs (from the broth), green onions, cilantro, and sour cream. I got rave reviews.",
+            "datePublished": "2010-11-14T21:54:56.737Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MomforGod"
+            },
+            "reviewBody": "I've always liked the taste of tomatillos so this recipe appealed to me. Instead of chopping and saute the onions, garlic, peppers, and tomatillos, I halved them all and put them all on a heavy baking sheet and put them under the broiler for a few minutes to get that roasted taste to them. I then put that mixture into a food processor and processed for only a minute. I read the bit about the soup being a bit too thin, so I used the schmaltz from the chicken ( I make my own stock) and made a roux before adding the stock and other ingredients. I added crushed red peppers instead of cayenne and chopped a small bunch of cilantro into the soup as well (I doubled the recipe). I agree that more tomatillos would be an improvement, so I will adjust that next time. We like a lot of flavors and spice in our foods, so I think I will add more jalapenos next time as well, perhaps even some poblanos or hatch peppers for more of a chili flavor. This time, however, I am serving the soup with fresh garnishes of jalapenos, cilantro, avocados, and non-fat plain yogurt.",
+            "datePublished": "2016-08-19T20:42:12.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DOMMETT"
+            },
+            "reviewBody": "First time having tomatillos. I loved them! As others suggested, I used more tomatillos. I cut the recipe down to 4 servings and used only 1 jalapeno with most seeds removed and did not add any other spicey ingredients. It was still a little bit bitey for my delicate eaters. Also I recommend using an immersion blender rather than scooping and moving veggies around to blend up. Served with a Caesar salad and chips and fresh guacamole. Yum!",
+            "datePublished": "2019-06-30T19:35:36.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SRod32086"
+            },
+            "reviewBody": "Super easy Tomatillo Soup recipe. I used shredded chicken and about 7 tomatillos but would maybe add few more next time. I also didn't purée it for a long time so it was still a little chunky. . When I taste tested it, it was a bit sour so I added some cumin, garlic salt, red pepper flakes, and a little salt and cooked it for another 10 minutes on low.. My husband and I really liked it. I served it with a cheese quesadilla and it was a hit!",
+            "datePublished": "2016-10-18T23:42:02.290Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann D"
+            },
+            "reviewBody": "I made this recipe in the crock pot as suggested by Erin (put everything in the crock pot and cooked on low for 6 hours). After blending everything but the chicken (which I shredded), I put all the ingredients back in the crock pot and added a can of corn and pinto beans and heated for another 30 min ~ we served it with chips and fresh avocado. It was a hit.",
+            "datePublished": "2013-08-13T14:32:48.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gabriela Lopez Escobedo"
+            },
+            "reviewBody": "I added some (3) green tomatoes, just because I had them! Fabulous!",
+            "datePublished": "2024-11-05T00:26:01.202Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JumpyGlass8785"
+            },
+            "reviewBody": "I made this soup three times now and really enjoy it. I do recommend it. Thanks for the recipe.",
+            "datePublished": "2024-09-30T10:39:09.715Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ToughBean2312"
+            },
+            "reviewBody": "Fantastic! I added chicken to my partner’s and left mine without. Reminds me of Mexico",
+            "datePublished": "2023-10-31T20:46:26.032Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bourbonator"
+            },
+            "reviewBody": "recipes are made to adjust and adlib. This is a great base to do just that to make it your own family favorite",
+            "datePublished": "2023-04-23T16:18:51.291Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Audrey"
+            },
+            "reviewBody": "I made this soup per the recipe except I didn't have fresh chicken so I used 2 cans of chicken instead. I am always looking for recipes to use the tomatillos I grow in my garden. This recipe is a keeper!",
+            "datePublished": "2021-10-16T16:27:51.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jill Mancilla"
+            },
+            "reviewBody": "I made this for dinner tonight. It was SO good! This is definitely a keeper!",
+            "datePublished": "2021-08-13T00:33:15.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "susieq68"
+            },
+            "reviewBody": "This is SO delicious -- there were no leftovers! I used 1.5 lb tomatillos, did not seed the jalapenos. I did not add hot sauce or cayenne as it was already spicy enough for our taste. Will make again and again!",
+            "datePublished": "2021-03-08T14:27:14.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisa"
+            },
+            "reviewBody": "added 2 cups of cooked ancient grains at the end. needed to put the chicken in the soup for 10 mins to finish cooking it",
+            "datePublished": "2021-01-23T16:35:23.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Putz"
+            },
+            "reviewBody": "Really good and will be making again for sure. A few changes were made. Used a shortcut with a Costco roasted chicken and also added 1/2 bag frozen roasted corn, leftover wild rice and a cup of cherry tomatoes from the garden.",
+            "datePublished": "2020-10-26T03:46:15.450Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13246/tomatillo-soup/",
+          "name": "Tomatillo Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1116/fruits-and-vegetables/",
+                  "name": "Fruits and Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1059/fruits-and-vegetables/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1096/fruits-and-vegetables/vegetables/tomatillos/",
+                  "name": "Tomatillos"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,524 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12347/peach-pie/",
+  "extracted_at": "2026-10-18T01:49:04.369904+00:00",
+  "recipes": [
+    {
+      "name": "Peach Pie",
+      "ingredients_raw": [
+        "1 cup white sugar",
+        "0.33333334326744 cup all-purpose flour",
+        "0.25 cup butter",
+        "1 recipe pastry for a 9 inch double crust pie",
+        "10 fresh peaches, pitted and sliced",
+        "egg wash, for glazing (Optional)"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Mix sugar, flour, and butter together in a medium bowl until crumbly; set mixture aside."
+        },
+        {
+          "id": 3,
+          "text": "Line the bottom and sides of a 9-inch pie plate with one pie crust."
+        },
+        {
+          "id": 4,
+          "text": "Arrange a single layer of peaches in crust. Sprinkle with some of crumble mixture. Continue layering with remaining peaches and crumble mixture."
+        },
+        {
+          "id": 5,
+          "text": "To top the pie with lattice strips: Roll the remaining crust into a 10-inch circle. Cut into twelve 3/4-inch strips with a sharp paring knife or pastry wheel. Arrange six lattice strips vertically across the pie using the shortest strips for the edges of the pie. Arrange remaining 6 strips horizontally, weaving them in an over-and-under pattern. Fold the ends of the lattice strips under the edge of the bottom crust and crimp the edges. Brush lattice with egg wash."
+        },
+        {
+          "id": 6,
+          "text": "Bake pie in the preheated oven until peaches are bubbling and crust is golden, about 45 minutes. Allow pie to cool before slicing."
+        },
+        {
+          "id": 7,
+          "text": "Slice and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Peach Pie",
+        "datePublished": "1998-08-06T20:29:40-04:00",
+        "dateModified": "2025-11-23T10:30:16-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Marcia Kammann"
+          }
+        ],
+        "description": "This easy peach pie recipe tops layers of juicy fresh peaches with a sweet, buttery crumb and a gorgeous golden lattice crust for a fruity dessert.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/f0LLCjpIjbq2o6pnPCVO4hfP4KE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-003-4x3-d21908a5ce3d4ea09deb85782462ad23.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/Vq7TXQEd-ma1DlVvV.mp4",
+          "description": "AR0743",
+          "duration": "PT3M56S",
+          "name": "Peach Pie",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Vq7TXQEd/thumbnails/jzJbNyy9.jpg?width=1280",
+          "uploadDate": "2021-07-17T11:13:59-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Peach Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "669"
+        },
+        "cookTime": "PT45M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "453 kcal",
+          "carbohydrateContent": "65 g",
+          "cholesterolContent": "15 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "278 mg",
+          "sugarContent": "34 g",
+          "fatContent": "20 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT60M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup white sugar",
+          "0.33333334326744 cup all-purpose flour",
+          "0.25 cup butter",
+          "1 recipe pastry for a 9 inch double crust pie",
+          "10 fresh peaches, pitted and sliced",
+          "egg wash, for glazing (Optional)"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/rWOlw9KaY_97IA3WoQFRoX7JXoQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-005-step-01-c772002936c449d7b0d9d27c84c94ae6.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/2reHV6RBBqtnTZ4f8TpeCnGuyMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-006-step-02-7dea3ce5ddef45509d89c22471b6c712.jpg"
+              }
+            ],
+            "text": "Mix sugar, flour, and butter together in a medium bowl until crumbly; set mixture aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mkf8QntDDEe4nSkGC7jm7pOwkmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-007-step-03-a4b2c484ee51481db576c845f930d7e6.jpg"
+              }
+            ],
+            "text": "Line the bottom and sides of a 9-inch pie plate with one pie crust."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cSPu4GX8rlRws7-Q0rTT8rRgKjU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-008-step-04-2d719d8f621e43dc9103796243f691b3.jpg"
+              }
+            ],
+            "text": "Arrange a single layer of peaches in crust. Sprinkle with some of crumble mixture. Continue layering with remaining peaches and crumble mixture."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cz3_1YPHonW0tmk9sS3i-fDLvs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-009-step-05-865208506af748f6a3404f4e0f2f355f.jpg"
+              }
+            ],
+            "text": "To top the pie with lattice strips: Roll the remaining crust into a 10-inch circle. Cut into twelve 3/4-inch strips with a sharp paring knife or pastry wheel. Arrange six lattice strips vertically across the pie using the shortest strips for the edges of the pie. Arrange remaining 6 strips horizontally, weaving them in an over-and-under pattern. Fold the ends of the lattice strips under the edge of the bottom crust and crimp the edges. Brush lattice with egg wash."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/7z9xBCijsGDkTmhO21_oktsHgeM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-010-step-06-589acad20d6c4e09a4e378a0ce08b489.jpg"
+              }
+            ],
+            "text": "Bake pie in the preheated oven until peaches are bubbling and crust is golden, about 45 minutes. Allow pie to cool before slicing."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/f0LLCjpIjbq2o6pnPCVO4hfP4KE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12347-peach-pie-VAT-003-4x3-d21908a5ce3d4ea09deb85782462ad23.jpg"
+              }
+            ],
+            "text": "Slice and serve."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 (9-inch) pie"
+        ],
+        "totalTime": "PT105M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "To combat possible runniness (as described in other reviews)without modifying the recipe, turn the oven OFF when the baking time is complete and let it sit in the cooling oven while continuing to boil off liquid. It won't burn, and it sets the pie very nicely. (Even with overripe, juicy peaches, it set perfectly.) This recipe is fantastic, and embarrassingly easy to make. An absolute winner."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "drprentice"
+            },
+            "reviewBody": "This was delicious! I used 1/2 cup sugar and 1/2 cup brown sugar. I added 1 T cornstarch, 1/4 teas cinnamon, and a pinch of cayenne. After putting on the lattice crust, I brushed about 1 T of heavy cream on it and sprinkled sugar over it. I put the pie on a foil covered cookie sheet. (luckily cuz it boiled over a bit) I baked it at 350 degrees for 45 minutes then turned off the oven and left it there for 2 hours. At that point the oven was cool but the pie was still hot. So I cooled it on the counter after that. It set perfectly and was wonderful! Thank you for the recipe!! I had never tried a lattice crust before - the video made it easy, and it was so beautiful!",
+            "datePublished": "2026-07-16T13:00:07.045Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linwelz"
+            },
+            "reviewBody": "Easy recipe. I changed it as follows as suggested in comments:\n1/3 c flour mixed with 1 T cornstarch, 1 t cinnamon, 1/2 cup each of brown/white sugar, 1/4 t nutmeg. I added the dry ingredients in with the peaches then poured it in the prepared pie crust. Dotted the pie with butter and covered it with prepared crust that had heart cut outs in it for venting. Baked 425 for 15 min then 350 for another 35 min. Turned oven off and let cool in oven for two hours.",
+            "datePublished": "2020-04-19T04:28:53.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Grayhaired mama"
+            },
+            "reviewBody": "Love, love, love this pie! So tasty and you don't need any of the other spices people are recommending (cinnamon, nutmeg...) The fresh peach flavor really comes through with this simple recipe. I did use 1/2 brown sugar, but that was the only thing I changed, other than leaving it in the oven after it was done. I cut into it when it was still warm, so it was still a bit runny, so next time I need to wait longer...patience is a virtue! :-) I also think I might need to turn the oven up a little bit, or preheat the cookie sheet I used, because I see the bottom crust could have used a bit more time...a little raw in the center...but then again I used 9 huge peaches, so my pie was nice and thick. Or maybe I need to roll my Pillsbury crusts out a little thinner. Regardless, don't change a thing until you've tried this the way it's written. It's fantastic! Thank you for the ridiculously simple recipe. Oh, use the boil and plunge method for the peels.",
+            "datePublished": "2018-08-08T12:12:33.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tipper"
+            },
+            "reviewBody": "I threw this together on a whim, and it turned out great! I followed the advice of other reviews- 1/2 c white sugar, 1/2 c brown sugar, 1 tsp cinnamon and 1 T cornstarch to flour and mixed fresh frozen peaches in- no layers. Allowing the pie to sit in the cooling oven was something I’d never done and I’m so glad I know to do that now. No more runny fruit pies!",
+            "datePublished": "2020-06-01T00:21:59.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "les"
+            },
+            "reviewBody": "Used store bought crust, did what other reviewers suggested - 1 heaping tbsp. cornstarch, 1/2 c. White sugar and 1/2 c. Brown sugar, 1 tsp. cinnamon and a pinch of nutmeg. Mixed altogether w/peaches and dotted with butter. Baked at 450 for 15 minutes, then turned down to 350 for 30 minutes then turned off oven and left in for couple hours it set beautifully. A lot of work but tasted great, don't forget to foil edges though. Also did one with blueberries and peaches, don't forget to flour blueberries before adding them. YUM!!!",
+            "datePublished": "2016-08-09T21:39:25.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emigh Cannaday"
+            },
+            "reviewBody": "I made this pie following the directions and was not very impressed with the flavor. It tasted OK, but it wasn't memorable. It wasn't runny because I added a heaping tablespoon of cornstarch &amp; let it sit in the oven 2-3 hours after baking. I gave 3 stars for the lackluster flavor.\n\nI made another pie a week later, and it absolutely blew me away! (It's the pie in my photo.) Here's what I did differently: I put all the sliced peaches in a bowl with 2-3 Tbs of melted salted butter. I added 1/2 C of white and 1/2 C of brown sugar, followed by cinnamon to taste and that heaping Tbs of cornstarch. I gently mixed this up &amp; set it aside while I made the crust. I always use \"Best Ever Pie Crust\" by Jean Haseloh from this site. It's a home run. (I recommend a lattice-top. It's pretty easy &amp; it combats Runny Pie Syndrome. Just Google a video on how to make one.) I put half the dough in the fridge while I rolled out the bottom layer &amp; put it in the pie pan. I added the filling, then made the lattice-top out of the chilled portion of the crust. (Helpful hint: I roll my crust out on a sheet of parchment paper to make it easier to transfer into the pan and to pick up the lattice strips.) I added an egg wash on top to give the crust some color since it didn't get very golden the first time around. Then I sprinkled 2 pinches of coarse-ground raw sugar on top for added texture. This adjusted recipe was SO good that my husband's friend ate 3 HUGE pieces for dessert in one sitting!",
+            "datePublished": "2014-09-20T09:50:10.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MamaMadeWaffles"
+            },
+            "reviewBody": "The is a nice base recipe. The first time I made it I followed it to the letter and the pie came out runny. Husband said that the best thing about it was my homemade crust. Second time around, I mixed 1/2 c. sugar, 1/2 c. brown sugar, 1/3 c. flour, 1 tsp. cinnamon, 1/4 tsp. nutmeg, and 1/8 tsp. cloves together then cut in the butter with a pastry blender. I added this to the sliced peaches and mixed it together, then I arranged the peaches in my pie plate. I did not add the remaining liquid because I felt the peaches would add their own juice and I just wanted to sweeten and spice them up a bit. I also applied an egg wash to the top as well as a sprinkling of cinnamon and sugar. The pie turned out fantastic and, bonus, my house smelled great! I baked at 350 for 55 minutes, then turned the oven off and allowed the pie to cool in the over for 2 hours before removing.",
+            "datePublished": "2013-08-22T12:10:50.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "niyog8"
+            },
+            "reviewBody": "I was thrilled at how well this pie turned out! It seemed like a good, basic recipe, and it was. I also added a few things, per others' reviews. So thanks, everyone! I added 1 T cornstarch, 3/4 tsp cinnamon, and 1/4 tsp nutmeg. I only had three and a half peaches, so I used a 12oz bag of frozen strawberries, too. I baked the pie at 450ºF for the first 15 minutes, then reduced the oven temperature to 350ºF for the last half hour. After turning the oven off I left the pie in the warm oven to set. (Thanks for those tips, too!) The pie is amazing! Thanks!",
+            "datePublished": "2011-09-20T09:38:20.677Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CVALERO"
+            },
+            "reviewBody": "This was my first homemade pie. I read all of the helpful suggestions before I started.\n\nI boiled the peaches for a minute and then plunged them in cold water. The skins slid right off with my hands.\n\nI also did not use the butter in the flour mixture. I add six pats across the top layer before adding the lattice.\n\nWith the flour mixture, I also used 1 tbsp corn starch, 1 tsp cinnamon, 1/4 tsp nutmeg, and used 1/2 c regular sugar and 1/2 c brown sugar (instead of 1 c regular sugar).\n\nI used the egg wash on the lattice and then sprinkled some cinnamon on it.\n\nI cooked the pie for 15 mins at 450, then 30 mins at 350, and then turned off the oven and left the pie in it for one hour. Then I let the pie sit on the stove to cool for another hour before slicing. Perfect firmness!",
+            "datePublished": "2013-08-25T16:22:39.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "grampnana"
+            },
+            "reviewBody": "Only had 8 peaches so added some rhubarb we had on hand to fill it in (should have added a little more sugar, as rhubarb is quite tart). Added the cornstarch suggested by many other reviews, and wish I hadn't, as there was almost no juice. It was very tasty tho. Used some other suggestions of starting off at 425 degrees for 15 minutes and turning down to 350 for remainder, as well as leaving in the oven for several hours to ensure a non-soggy crust. Great suggestion and will use it for other pies hereon out. Used half white and half brown sugar and also added nutmeg to the crumb mixture. All in all, a very easy and tasty dish. Thanks for sharing here!",
+            "datePublished": "2012-05-11T01:54:12.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Miss Phoebe"
+            },
+            "reviewBody": "This is not a good recipe. Those giving it good reviews have either never had a good peach pie before or they've made so many modifications they're reviewing their own version. As directed, this pie does not set up, even after letting it cool in the oven after cooking and several hours of cooling on the counter. It was a runny mess. I didn't see one review that mentioned cooking it on a baking sheet, but I had a feeling it would bubble over so I put a piece of foil under it and it's a good thing as it did make a mess. Also, 10 peaches is way too much. I had 8 and couldn't fit them all in a regular 9\" pie plate. I found a tried and true recipe for peach pie several years ago on Pinterest and should have used that one, but decided to give this one a try as it sounded easier. I'm only giving it 2 stars because it looked so pretty coming out of the oven, and it is edible but nothing I'd ever serve to guests.",
+            "datePublished": "2026-07-26T13:27:37.181Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cassie Poticher"
+            },
+            "reviewBody": "Ive made this many times as written and it comes out perfect every time. I do blanch my peaches first and end up straining out 1/2 cup of juice. I bake on bottom rack of oven. I do not have a soggy pie and I have just enough for one 9\" standard pie.",
+            "datePublished": "2025-10-06T00:04:28.054Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "caroletgen"
+            },
+            "reviewBody": "Excellent recipe. I apparently had very large peaches, because I only used 5-6 of them, and it was more than enough. The pie is very juicy, as others have mentioned, so perhaps in the future I’ll add a little more flour for thickener, or some corn starch. I deviated from the recipe by using a (home-made) gluten-free pie crust, and used a little more than 1/4 tsp of cinnamon. (Also used non-dairy butter…) Great pie - thank you to the creator!",
+            "datePublished": "2025-09-17T21:15:22.451Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen"
+            },
+            "reviewBody": "Juicy mess. And my pie plate took only half the number of peaches.",
+            "datePublished": "2025-09-06T10:25:18.874Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CopperFeta2272"
+            },
+            "reviewBody": "This was so delicious. I had never made or ate peach pie and it was so good. The recipe was easy to follow. I think next time I need to use more flour because the peaches were really juicy.",
+            "datePublished": "2025-07-26T00:22:58.161Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LovesCooking"
+            },
+            "reviewBody": "This recipe was easy to make and it tasted so good. I followed the directions and the pie came out beautifully. The fresh peaches truly make difference, the flavor was purely delicious. Will definitely make this one for my next dinner party and will serve it with my vanilla ice-cream.",
+            "datePublished": "2025-06-12T06:01:39.979Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GrittyTart2893"
+            },
+            "reviewBody": "Very simple recipe so easy to make but mine had about a full cup of liquid I had to drain out. The bottom crust was uncooked (probably because of the liquid). It tasted good but I wonder why it was so runny. I used 1/2 cup sugar because I don’t like really sweet pies, and it tasted really good, other than the doughy bottom crust. I also used cornstarch instead of flour hoping to thicken it up. It didn’t work! Next time I’ll let the peaches soak in sugar then drain the juices before putting them in the crust. Hopefully this does the truck!",
+            "datePublished": "2024-08-02T23:06:28.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "notredamefan1"
+            },
+            "reviewBody": "This is a spectacular pie! I had extremely sweet peaches, so I cut the sugar down to .75c. I added just a smidge of cinnamon because that what my husband loves, but it would probably be just as good without it. My peaches were very juicy, but I didn't have any trouble with the filling being too runny. I also had to bake for about 55 minutes for the crust to get golden brown.",
+            "datePublished": "2024-07-07T12:13:40.366Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CrispDove9310"
+            },
+            "reviewBody": "Delicious!",
+            "datePublished": "2024-06-11T04:26:14.174Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12347/peach-pie/",
+          "name": "Peach Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+                  "name": "Fruit Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/12950/desserts/pies/fruit-pies/peach-pie/",
+                  "name": "Peach Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,492 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12940/seafood-gumbo/",
+  "extracted_at": "2026-10-18T01:51:23.712995+00:00",
+  "recipes": [
+    {
+      "name": "Seafood Gumbo",
+      "ingredients_raw": [
+        "0.5 teaspoon ground cayenne pepper",
+        "0.5 teaspoon ground white pepper",
+        "0.5 teaspoon ground black pepper",
+        "1.5 teaspoons paprika",
+        "0.5 teaspoon dried thyme",
+        "0.5 teaspoon dried oregano",
+        "1 bay leaf, crushed",
+        "1 teaspoon salt",
+        "0.75 cup vegetable oil",
+        "2 cups chopped celery",
+        "2 cups chopped onion",
+        "2 cups chopped green bell pepper",
+        "1 teaspoon minced garlic",
+        "3 tablespoons file powder",
+        "2 teaspoons hot pepper sauce",
+        "1.5 cups tomato sauce",
+        "7 cups fish stock",
+        "2 cups shucked oysters",
+        "1 cup crabmeat",
+        "1 pound small shrimp - peeled and deveined, shells reserved for stock"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine the red, white, and black peppers, paprika, thyme, oregano, bay leaf, and salt; set aside."
+        },
+        {
+          "id": 2,
+          "text": "In a heavy pot, 5 quart or larger, heat oil over medium heat, warming the pot first. Add onions, celery, and green pepper. Turn heat to high. Stirring frequently, add garlic, file, hot sauce, and the pepper-herb mixture. Cook for 5 minutes, stirring constantly."
+        },
+        {
+          "id": 3,
+          "text": "Add tomato sauce, and stir as it reduces over high heat. Add fish stock and bring to a boil. Reduce heat, and simmer for 1 hour, stirring occasionally."
+        },
+        {
+          "id": 4,
+          "text": "When ready to serve, add shrimp, oysters, and crabmeat. Cover, and wait 5 minutes. Turn off heat, and let stand for 10 minutes. Serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Seafood Gumbo",
+        "datePublished": "1999-01-03T22:42:06-05:00",
+        "dateModified": "2022-07-14T16:03:37-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Bob Cody"
+          }
+        ],
+        "description": "A recipe for seafood gumbo that contains oysters, crab, and shrimp in a spicy thick broth made with spices, aromatic vegetables, and a dark roux.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/8ljbAK1k1fbPqbfvc3eHuNOFSYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3126190-7ac108cdb9f04dba86d168f56e72c063.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/Jc3LalEp-ma1DlVvV.mp4",
+          "description": "AR0819",
+          "duration": "PT4M54S",
+          "name": "Seafood Gumbo",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Jc3LalEp/poster.jpg?width=1280",
+          "uploadDate": "2021-07-11T13:23:38-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Seafood Gumbo",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "84"
+        },
+        "cookTime": "PT80M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "357 kcal",
+          "carbohydrateContent": "13 g",
+          "cholesterolContent": "106 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "23 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "1398 mg",
+          "sugarContent": "5 g",
+          "fatContent": "24 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Creole"
+        ],
+        "recipeIngredient": [
+          "0.5 teaspoon ground cayenne pepper",
+          "0.5 teaspoon ground white pepper",
+          "0.5 teaspoon ground black pepper",
+          "1.5 teaspoons paprika",
+          "0.5 teaspoon dried thyme",
+          "0.5 teaspoon dried oregano",
+          "1 bay leaf, crushed",
+          "1 teaspoon salt",
+          "0.75 cup vegetable oil",
+          "2 cups chopped celery",
+          "2 cups chopped onion",
+          "2 cups chopped green bell pepper",
+          "1 teaspoon minced garlic",
+          "3 tablespoons file powder",
+          "2 teaspoons hot pepper sauce",
+          "1.5 cups tomato sauce",
+          "7 cups fish stock",
+          "2 cups shucked oysters",
+          "1 cup crabmeat",
+          "1 pound small shrimp - peeled and deveined, shells reserved for stock"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine the red, white, and black peppers, paprika, thyme, oregano, bay leaf, and salt; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a heavy pot, 5 quart or larger, heat oil over medium heat, warming the pot first. Add onions, celery, and green pepper. Turn heat to high. Stirring frequently, add garlic, file, hot sauce, and the pepper-herb mixture. Cook for 5 minutes, stirring constantly."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add tomato sauce, and stir as it reduces over high heat. Add fish stock and bring to a boil. Reduce heat, and simmer for 1 hour, stirring occasionally."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/8ljbAK1k1fbPqbfvc3eHuNOFSYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3126190-7ac108cdb9f04dba86d168f56e72c063.jpg"
+              }
+            ],
+            "text": "When ready to serve, add shrimp, oysters, and crabmeat. Cover, and wait 5 minutes. Turn off heat, and let stand for 10 minutes. Serve."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "8 servings"
+        ],
+        "totalTime": "PT105M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This recipes takes a while to make, but it is sure worth it!! I've gotten rave reviews from many people who usually don't enjoy seafood. I put shimp, clams, crab, mussels, and oysters in my version and it is wonderful!!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Roy Da Fishhead"
+            },
+            "reviewBody": "I did the same as Lastmango, made a roux with fresh dungeoness crab, fresh shucked oysters, fresh clams, fresh spot shrimp I caught and okra, not added the tomato juice...\nmuch better!!!",
+            "datePublished": "2017-05-07T18:46:12.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thaddeus Harden"
+            },
+            "reviewBody": "Totally awesome. Used Pod &amp;Bean hot sauce from the Cocoa Exchange for the hot sauce. Didn’t have the sassafras. Used veggie stock, olive oil rather than veg oil, 15 ounce can of Cento tomato sauce, a Korean fish powder. (I don’t know hat it is called... wife’s dept!) cooked about 20 mins, no need for an hour. Added the seafood. Waited 10 mins and served over rice. An absolute winner. Friends over loved it.",
+            "datePublished": "2020-03-01T02:51:18.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "zantastic"
+            },
+            "reviewBody": "This is a great recipe... if you substitute some creole traditions. Take the time to make a roux instead of using the oil and tomato paste. A roux only takes an extra fifteen to twenty minutes to make and will add a depth of flavor lacking in this recipe's instructions. \n\nAnd I agree to add the file on the dish after it's been served. It should be used to taste--in the gumbo it creates an odd flavor that's not that appetizing. I couldn't find oysters, so I made mine with shrimp, scallops and crab claw meat. The spice ratio is great, and the cooking time is also more or less spot-on. Aside from the modifications, this is a very good gumbo.",
+            "datePublished": "2014-04-14T19:25:50.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darold Brooks"
+            },
+            "reviewBody": "I started with a nut brown roux and used chicken instead of crab. I also substituted Rotel for tomato sauce. Great flavor and the roux added a thicker texture. I will make it again.",
+            "datePublished": "2018-12-02T03:01:20.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ldvutsw"
+            },
+            "reviewBody": "This is a really good recipe. I'm a firm believer in using a roux, so I made one for this (nice and dark!). I also let my gumbo simmer on LOW for about 45 minutes after adding the seafood. This is what allows the flavors to really mingle (as long as it's done on low you shouldn't have to worry about overcooked seafood). Other than those changes, I followed the recipe as given. This is a keeper!",
+            "datePublished": "2015-04-19T14:12:38.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "aleciasmith"
+            },
+            "reviewBody": "Yum! File powder is not readily available in the stores by me, so I added approximately 1/3 cup brown rice flower before adding the liquid, and that helped to thicken it up! I add uncooked shrimp and bay scallops when it is done and cover for 5 minutes, then serve it over brown rice.",
+            "datePublished": "2014-01-03T11:34:12.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mitch Mossberger"
+            },
+            "reviewBody": "I made this as my first time making gumbo. So good I don't think I'm even going to try and make another recipe. I added fresh grown cut up tomatoes, went heavy on hot sauce and white pepper. I like it spicy and then added okra and way more seafood because I like seafood too. I ate all most of it myself froze the rest. Was ok reheated, I ate 4 reheated bowls...",
+            "datePublished": "2018-11-17T19:24:22.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LilacGum9266"
+            },
+            "reviewBody": "I really liked the recipe. My wife isn’t a lover of spicy so I toned it down some. I used about a 3/8 tsp of cayenne pepper, 1 dash of hot pepper sauce and used the file spice to flavor each bowl. I used vegetable broth instead of fish stock. I also used a seafood medley of clams, shrimp, octopus and oysters to the mix. Every thing else stayed the same. And yes my arm got tired stirring to veggies!",
+            "datePublished": "2023-06-21T12:41:27.518Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolyn Carsten"
+            },
+            "reviewBody": "Great recipe! I added 2# shrimp and a package of Andouille sausage. I will added about a cup of green onions at the end too.",
+            "datePublished": "2013-07-21T15:33:30.287Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "patty"
+            },
+            "reviewBody": "i loved the stock! i made a roux before i added the veggies and only used crabmeat and shrimp, delicious! i will leave out the tomato sauce next time as i did not like that flavor. otherwise, this was excellent and everyone at my mother-in-law's birthday party loved it and oohed and aahed over it!! thanks, sara, for a great recipe!",
+            "datePublished": "2008-02-09T09:03:56.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ray"
+            },
+            "reviewBody": "This is great. I did however I did add blue crab, and substituted okra instead of celery. The base however is my favorite got for Gumbo",
+            "datePublished": "2026-02-28T15:24:57.609Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marilyn Neal Cooley"
+            },
+            "reviewBody": "I cook original Cajun gumbo so I added creole seasoning and roux. I know some don’t use tomatoes but I prefer it so I did use tomato sauce. I left out the cayenne pepper and the hot pepper sauce. It turned out ok, but I think I should have stuck to using the file on individual bowls as it’s served. I will try again",
+            "datePublished": "2023-02-04T04:04:19.487Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "beeractivist"
+            },
+            "reviewBody": "I used diced tomatoes instead of tomato sauce.",
+            "datePublished": "2022-04-05T00:49:02.104Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gerryreed"
+            },
+            "reviewBody": "Loved it! Just a small tweak here and there with the spices. (A little extra)",
+            "datePublished": "2022-02-25T14:59:05.669Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dale Muckerman"
+            },
+            "reviewBody": "Good, but I only used 1/4 cup of oil. 3/4 of a cup is too much. Who needs almost 40% of their daily fat requirement from a cup of gumbo. I also added okra and cut down on the spices to suit my preference.",
+            "datePublished": "2020-05-02T23:09:57.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "leo falletta"
+            },
+            "reviewBody": "If you don’t have File powder you can substitute it with corn starch",
+            "datePublished": "2020-03-29T18:42:17.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ekbrook"
+            },
+            "reviewBody": "I'm not a big fan of oysters, so omitted those. I added some spicy Andouille sausage in its place. I had problems finding chunk crab meat...only shredded which I added and crab legs which I was not going to shuck just to put in the pot. (I'd rather eat it straight). So I followed the recommendation of the guy in the seafood department and used some of that Imitation crab (which is supposedly a mix of real crab and found or some cheap fish). BIG MISTAKE. These are sold in roles the unrolled in the pot and became a long rubbery mess. Won't make that mistake again. Bottom line, despite the Imitation crab, I liked the gumbo as did my son. My wife and daughter were not as crazy about it, and complained more about the smell stinking up the house. I will same it for cooking outside in the future.",
+            "datePublished": "2020-02-23T21:22:22.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mark"
+            },
+            "reviewBody": "This recipe may or may not be good... shrimp, oysters, tomato sauce? (I used diced), fish stock are not on the ingredient list. I guessed at the amounts and it came out fair.",
+            "datePublished": "2020-02-06T19:36:11.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nikki Howard"
+            },
+            "reviewBody": "Fantastic, my husband and I loved it. A lot of flavor.",
+            "datePublished": "2019-08-16T21:35:22.523Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12940/seafood-gumbo/",
+          "name": "Seafood Gumbo",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+                  "name": "Stews"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1426/soups-stews-and-chili/stews/gumbo/",
+                  "name": "Gumbo Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,477 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21134/candied-apples-ii/",
+  "extracted_at": "2026-10-18T02:48:10.156835+00:00",
+  "recipes": [
+    {
+      "name": "Candy Apples",
+      "ingredients_raw": [
+        "cooking spray",
+        "15 craft sticks",
+        "15 medium apples",
+        "2 cups white sugar",
+        "1.5 cups water",
+        "1 cup light corn syrup",
+        "8 drops red food coloring"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Lightly coat baking sheets with nonstick cooking spray. Insert craft sticks into bottom of apples."
+        },
+        {
+          "id": 2,
+          "text": "Combine sugar, water, and corn syrup in a medium saucepan over medium-high heat. Bring to a boil; continue boiling, without stirring, until mixture registers 300 to 310 degrees F (149 to 154 degrees C) on a candy thermometer, or until a small amount dropped into cold water forms hard, brittle threads."
+        },
+        {
+          "id": 3,
+          "text": "Remove from heat; stir in food coloring."
+        },
+        {
+          "id": 4,
+          "text": "Holding each apple by its stick; dip into syrup, turning to coat evenly. Place on the prepared baking sheet to harden, stem-side down."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Candy Apples",
+        "datePublished": "2000-09-11T17:54:12-04:00",
+        "dateModified": "2026-02-17T21:33:50-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "JONAR"
+          }
+        ],
+        "description": "This candy apples recipe, with its hard red candy shell, recreates a childhood memory of a sweet treat that&#39;s still popular at many carnivals today.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mlB5dL_FujKuF2HQaybB2yuZKdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-21134-candied-apples-ii-VAT-4x3-33d504f86efb41cab7db93ae1c31915e.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Candy Apples",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "151"
+        },
+        "cookTime": "PT30M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "237 kcal",
+          "carbohydrateContent": "63 g",
+          "fiberContent": "3 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "15 mg",
+          "sugarContent": "47 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "cooking spray",
+          "15 craft sticks",
+          "15 medium apples",
+          "2 cups white sugar",
+          "1.5 cups water",
+          "1 cup light corn syrup",
+          "8 drops red food coloring"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/F0trNumwi2DRSHzlRpP1PWDCgtE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-21134-candied-apples-ii-VAT-step-02-43558260d2c0495788761096b59c336c.jpg"
+              }
+            ],
+            "text": "Lightly coat baking sheets with nonstick cooking spray. Insert craft sticks into bottom of apples."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/nxum_z5_n-2b0vN_NYWv-CfrNsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-21134-candied-apples-ii-VAT-step-03-569adedbccc04c9dbac09e29b443e95b.jpg"
+              }
+            ],
+            "text": "Combine sugar, water, and corn syrup in a medium saucepan over medium-high heat. Bring to a boil; continue boiling, without stirring, until mixture registers 300 to 310 degrees F (149 to 154 degrees C) on a candy thermometer, or until a small amount dropped into cold water forms hard, brittle threads."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/npBNQUlLL7tgYNAXxVAPKbeddEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-21134-candied-apples-ii-VAT-step-04-1-f438a2b697da4a0eb7d905c4d88e7d76.jpg"
+              }
+            ],
+            "text": "Remove from heat; stir in food coloring."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/OkMussgQlwPRlbhmU6CEZ9auCTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-21134-candied-apples-ii-VAT-step-05-d4038be40ac94949b4d3b694d0024a84.jpg"
+              }
+            ],
+            "text": "Holding each apple by its stick; dip into syrup, turning to coat evenly. Place on the prepared baking sheet to harden, stem-side down."
+          }
+        ],
+        "recipeYield": "15 candy apples",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Add about 1/2 pack (or more for your taste) of cherry Kool-Aid powder to the mixture to flavor. Other flavors of Kool-Aid would be yummy too."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrs Marcie Smith"
+            },
+            "reviewBody": "I made this recipe more than once! Candy making is not forgiving a candy thermomorter a must! if you under do it is sticky if you over do it is rock hard. Try using this recipe with red hots (a bag) to flavor and color unstead of red die. makes the flavor good. also can add a little cherry extract. taste like the fairs. Let the candy thermomorter read about 260 than turn heat down to cook rest of the way. this receipe can burn in a half of second after hard crack ball stage. must watch. Also don't kid yourself candy making is dangerous I burned myself trying to save my expensive pan. Heat and water don't mix. I went into the hospital and had my baby that night with a burned scar on my hand. So don't do like myself and have a bunch of screaming kids at the table. the less distraction the better. Oh must have apples layed out on wax paper. use popsicle sticks unstead of the pricy apple sticks. spray wax paper with pam. after apple is dipped and dry use a cheap sandwich bag and tie off with red or green curling string. To remove excess wax peper off apples use a clean new wet rag. To clean pan pour excess syrup in some old crisco can or something you will throw away. soak your pan in dish liquid and water. Recipe is a keeper once you've mastered it. This receipe is not your every day and is very tricky but well worth it! so go ahead and charge like the fairs. or give away. Most likely will ruin a batch or two. but once you've found your magic stick with it! well good luck!!!",
+            "datePublished": "2009-10-28T06:44:49.120Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steff"
+            },
+            "reviewBody": "I just did a trial run with this recipe, my first time making candy, much leess candied apples. I added about a tsp of vanilla extract near the 250 degree mark to flavor, but may try a tablespoon of red hots next time (though they were great this way)! Things that worked: Must have a candy thermometer! It took me an hour to reach 300 degrees on high heat on my ceramic cooktop. Before that, it would make hard-ish strings when dropped in ice water, but at 300 it made fast, brittle, glassy swirly strings. I ate the strings. At 250, they were much too chewy. At 300, they were perfect. If your apples are too chewy, you may not have cooked long and hot enough. Do not stir after you initially blend the ingredients. I found that my temperature rose in spurts. That last stretch from 250 to 300 happened fast. The only stirring I did was to mix in vanilla and food color near the end. Use long, firm sticks. If too short, you might burn yourself. I used bamboo skewers in the BBQ section of my HEB; they were perfect and pretty. I made this in a 3 qt non-stick pot and used a silicone spatula. The silicone can take high heat. Early in the cooking process this stuff spattered tiny candy droplets everywhere. Next time I will use a spatter guard. The spatula cleaned up by flexing it to crack the cool candy off of it. The pan needed a long soak and sponging to melt the candy off in hot water. This stuff is boiling for a couple of minutes off the heat! Pour in a metal can!",
+            "datePublished": "2012-02-13T18:41:14.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ALTAROSE"
+            },
+            "reviewBody": "I've been making a version of this recipe for almost 50 years and my mother used to make 150 at a time for Hallowe'en. The trick is, and it's missing here, is to add a teaspoon of vinegar to the candy at the very end, when it reaches hard crack stage. Don't stir the mixture while it's boiling until it reaches this stage. Then stir in the vinegar and start dipping the apples. This step keeps the candy hard and is crucial to a good candy apple. Also, we use regular corn syrup, not the light AND we did not use any water in our recipe, it doesn't need it. We decorated the apples with cut gumdrops to make faces. Our house was the most popular one in town solely because of our candy apples.\nAfter reading my review, I realize my version is quite different. I should just submit my own. Oh well, use my version if you like, it's been tried and true for many, many years. My apologies to those people who don't like changes to a recipe.",
+            "datePublished": "2014-10-30T17:36:20.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angels cupcake"
+            },
+            "reviewBody": "They were as great as I hoped!! I did 1/2 red &amp; half blue. Thanks for sharing!! Make sure to remove from hea before adding the food coloring or your syrup will burn. Learned the hard way. Also, adding a little marichino cherry juice to the mixture will give it a subtle but nice flavor.",
+            "datePublished": "2011-11-01T19:52:33.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "brendy3290"
+            },
+            "reviewBody": "I tried this recipe a week before Halloween.. it was my first time making candied apples... the apples i puchased were sweet and delish. the best thing you can do is go and buy a thermometer to get the right temperature, I got mine at BB&amp;B for $10, the deep fryer one. my kids and I made about 2 dzn. candy and 1 dzn. caramel.. i love this recipe, its simple and worth trying. after i shut the stove off, i left the pot on the stove to keep the mixture warm. I also added coconut flakes and crushed peanuts to the caramel.. yummm.. Also, its very important to wipe off the wax of apples, if not the mixture will slide off.",
+            "datePublished": "2012-11-14T07:04:28.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TackyWok1599"
+            },
+            "reviewBody": "Great candy pears! I am highly allergic to apples so I make candy pears! I haven’t made any using this recipe previously. This was very easy. I used a candy thermometer. You need to use a heavy stick for the weight of a heavy pear or apple. To clean your pot, put water and a little dish soap and boil! The candy will melt and just pour your water out and wash your pot. I will make again and try different flavors and colors!",
+            "datePublished": "2024-11-03T00:15:32.412Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kim"
+            },
+            "reviewBody": "I've been making candy for years now, including peanut brittle and candy apples....the most reliable way of cooking candy is to use a candy thermometer. You need to work fast so have all your ingredients and utensils close at hand. Make sure apples have been washed thoroughly to remove wax; wash with tepid soapy water, rinse and dry completely. If not, candy will not stick to them. Next, you need to stir sugar mixture constantly until it dissolves and comes to a boil; after that, you can leave it alone but stirring it occasionally doesn't change the outcome. Watch your thermometer closely; the first time I made candy apples, I cooked to hard crack (300 degrees) but found its way too hard...like teeth breaking hard. Now I cook to just above soft crack which is 280-290 degrees; so I mean cook to like 285. Much more edible at that temp. but thats personal preference. You can add any extract flavours you like; found at most specialty or bulk stores. Finally, once you reach the crack stage your looking for, do immerse the pot in a large pan of boiling water to keep the candy hot enough to work with until your done dipping. I just use my kitchen sink! I give these out at Halloween...the first 30 kids anyway.",
+            "datePublished": "2014-10-30T13:16:47.307Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CALJAKE"
+            },
+            "reviewBody": "this is a traditional candy apple (no cinnamon, THANK YOU!). Some tips: must use a candy thermometer...let mine get to 300 degrees and you need to work fast coating the apples. I also used red food paste while sugar was cooking (had no liquid food coloring). \n\nI used tiny cortlands (found at Trader Joe's). I bought them for the size, because the best-tasting apple to use is Granny Smith, but I went with size. I was able to coat 10 apples...used \"pointed cookie pop sticks\" found at A.C. Moore. \n\nI buttered a piece of parchment paper and put the paper onto the cookie sheet...apples hardened nicely and peeled off paper; then put them in cello bags with ribbon.",
+            "datePublished": "2011-11-13T09:05:41.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dana"
+            },
+            "reviewBody": "loved it. cooked sugar at 4 on electric stove. no higher, turned down to 2-3 at 275 on thermometer. was ready in about 5 minutes after that. put pot into pan of hot water that i had ready, dipped apples. only did 6, rest of candy was to hard to roll by then. I added about 3 drops of pure mint/peppermint extract and the 16 or so drops of the red food colouring. candy is crisp and slightly minty and very good. used couple grannies and some royal gala. apples now resting. perfect day for it. thanks.",
+            "datePublished": "2012-10-29T14:01:19.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Li-Ravinder"
+            },
+            "reviewBody": "I've made this three times now and it's easy. Tips: You really do have to cook it the full 30 minutes or it doesn't get thick enough. Definitely test by dropping in cold water. It should be hard; that's when you know it's ready. I also added the red food coloring while it was boiling, and it was more like 12 drops to get the rich red color. If you use green apples which taste better with the candy coating, be aware that the red shell will not be as 'red'. May have to double dip. Work fast. The coating dries fast!",
+            "datePublished": "2007-10-29T12:58:19.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PaquLo5"
+            },
+            "reviewBody": "We should add 1/2 cup of sugar.",
+            "datePublished": "2026-02-23T17:56:48.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Natasha"
+            },
+            "reviewBody": "It was my first attempt and I followed the recipe... My candy apples came out perfect 👌",
+            "datePublished": "2025-10-02T20:26:43.161Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dee"
+            },
+            "reviewBody": "This was my first time making candy apples and had I known, it was going to be this easy and delicious, I would've been making them long ago. Thank you",
+            "datePublished": "2025-09-17T16:39:47.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "My first time making candy apples and they turned out good. I used Pink Lady apples because they were smaller. My six year old grandson loved them!",
+            "datePublished": "2025-09-07T00:18:11.674Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpeedyPeas6863"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-17T19:45:43.442Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "IndigoKiwi7295"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-07T22:34:01.442Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mitzi Sauvage Botsay"
+            },
+            "reviewBody": "Second time making them. Candy thermometer to hard crack. I made half batch because I only had 3 apples. I need to work on getting them smooth but they taste great. Now to master caramel chocolate like Disney",
+            "datePublished": "2025-01-22T21:13:28.481Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sonia"
+            },
+            "reviewBody": "These candied apples were very easy and quick to make, kids loved them so I will be definitely making more soon!",
+            "datePublished": "2024-12-18T18:01:44.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FriskyPot9884"
+            },
+            "reviewBody": "First attempt at Candy apples and they turned out awesome.",
+            "datePublished": "2024-10-26T20:58:52.862Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21134/candied-apples-ii/",
+          "name": "Candy Apples",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/85/holidays-and-events/",
+                  "name": "Holidays and Events Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/189/holidays-and-events/halloween/",
+                  "name": "Halloween"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/970/holidays-and-events/halloween/treats/",
+                  "name": "Treats"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

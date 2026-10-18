@@ -1,0 +1,420 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/217307/steak-fajita-salad/",
+  "extracted_at": "2026-10-18T03:02:30.921405+00:00",
+  "recipes": [
+    {
+      "name": "Steak Fajita Salad",
+      "ingredients_raw": [
+        "8 ounces beef steak, cut into thin strips",
+        "2 teaspoons dry fajita seasoning",
+        "1 tablespoon vegetable oil",
+        "0.5 cup sliced red or green bell peppers",
+        "0.33333334326744 cup sliced onion",
+        "1 (11 ounce) package DOLE® Just Lettuce",
+        "1 medium tomato, diced",
+        "0.25 cup drained canned black beans",
+        "0.25 cup sliced black olives",
+        "0.25 cup shredded Cheddar cheese",
+        "Southwest Fiesta Dressing (recipe below)"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Sprinkle beef strips with fajita seasoning. Saute beef in oil in large nonstick skillet over medium-high heat 3 to 4 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Add peppers and onion and saute 2 to 3 minutes longer or until vegetables are tender-crisp."
+        },
+        {
+          "id": 3,
+          "text": "Divide lettuce on 2 large plates. Spoon beef mixture over lettuce and arrange tomatoes, beans, olives and cheese over each. Serve with Southwest Fiesta Dressing, to taste. Refrigerate leftovers."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Steak Fajita Salad",
+        "datePublished": "2011-04-13T16:58:02-04:00",
+        "dateModified": "2024-12-06T02:32:49-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Dole"
+          }
+        ],
+        "description": "Hot strips of seasoned beef top this salad dressed with Southwest Fiesta Dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/C0ZD58wxVytv7PlvpARMFmUDa8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3549164-4aa4b29b9a9149118e267692b5823ec3.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Steak Fajita Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "36"
+        },
+        "prepTime": "PT35M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 ounces beef steak, cut into thin strips",
+          "2 teaspoons dry fajita seasoning",
+          "1 tablespoon vegetable oil",
+          "0.5 cup sliced red or green bell peppers",
+          "0.33333334326744 cup sliced onion",
+          "1 (11 ounce) package DOLE® Just Lettuce",
+          "1 medium tomato, diced",
+          "0.25 cup drained canned black beans",
+          "0.25 cup sliced black olives",
+          "0.25 cup shredded Cheddar cheese",
+          "Southwest Fiesta Dressing (recipe below)"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Sprinkle beef strips with fajita seasoning. Saute beef in oil in large nonstick skillet over medium-high heat 3 to 4 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add peppers and onion and saute 2 to 3 minutes longer or until vegetables are tender-crisp."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Divide lettuce on 2 large plates. Spoon beef mixture over lettuce and arrange tomatoes, beans, olives and cheese over each. Serve with Southwest Fiesta Dressing, to taste. Refrigerate leftovers."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Very easy, and very good - great for a quick meal! I rubbed the steak with a little olive oil and and then the dry fajita seasoning then grilled it vs. pan frying. I did however pan fry the peppers and onions. The salad was very good and all I added to that was a little sliced avocado and tortilla strips. For the dressing I chose \"Smoked Paprika Vinaigrette\" from this site - one of our favorites!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "I don't know if I'll honor his request or not, but this was so good Hubs asked that we have this again this weekend. He did think the dressing was a little heavy on the cilantro for his tastes but I thought it was just fine; in fact, I thought the cumin was more prominent. I made this as directed, with an attempt to arrange the various ingredients attractively on the lettuce. I also included additional, optional toppings of cooked and crumbled bacon and crispy baked tortilla strips. For the meat I used No Name sirloin steaks (1 (6 oz.) steak was enough for the two of us), and for the seasoning I used Penzey's Fajita Seasoning. As for the lettuce, (shhhh) I did not use Dole Just Lettuce, preferring instead to use romaine lettuce. This was as delicious as it was attractive. It's been awhile since I've enjoyed a salad so much. (Note: So as not to overcook the steak I removed it from the pan before adding the peppers and onions. Once that was cooked I returned the steak to the pan.)",
+            "datePublished": "2012-11-15T20:42:37.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JAMJMine"
+            },
+            "reviewBody": "Six teenagers devoured this salad in minutes. I tripled the recipe and included this in a \"salad\" buffet served at our pool party. I marinated the meat in fajita seasoning, olive oil and lime juice for about 45 minutes before cooking it, and it was incredibly good on the salad (romaine). I had some extra chicken breasts I didn't use for another salad they were intended for, and marinated and cooked those this way as well, and they were just as delicious. Raves all around!",
+            "datePublished": "2013-07-21T01:10:37.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan Mynatt Casady"
+            },
+            "reviewBody": "Family loved it! The dressing was fantastic. I got a fajita kit instead of making from scratch. It worked well plus it had soft tortillas to eat on the side. I did add tomatoes, cheese and black beans per the recipe, but no black olives. So easy and quick to prepare plus it tastes great.",
+            "datePublished": "2014-07-18T10:56:51.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracey Ferrari Posner"
+            },
+            "reviewBody": "Loved it! \nQuick, easy, and the dressing was da bomb!\nI used 1 ribeye steak and followed the recipe using my own spices to create the fajita seasoning as that was the one thing I didn't already have on hand. I added some cucumber and grape tomatoes as well to use up what I had.\nSo, so good ??\nOh! AND I served it all in a tortilla shell bowl like in the restaurants! Yummmm",
+            "datePublished": "2019-05-07T02:56:14.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah"
+            },
+            "reviewBody": "Excellent! I used salsa instead of ketchup in the dressing, but I could see trying the ketchup next time as a nice way to counter the tartness of the yogurt and lime juice. I added some sliced avocado to this and tossed the lettuce with some of the dressing before placing all the other ingredients on top. So good! Never seen my husband wolf down a salad so fast. I'll definitely be making this again.",
+            "datePublished": "2012-03-22T16:30:57.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alice"
+            },
+            "reviewBody": "I dlidn't have ciilantro so I used basil. It was.very good.I will make it again but I will make sure to have fresh cilantro.",
+            "datePublished": "2018-10-10T19:24:21.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hackmaster"
+            },
+            "reviewBody": "The dressing is what made this dish. I made it according to the recipe except for the beans and olives. I like both, but not everyone in the family agrees. I doubled everything because of the size of the family. I also provided tortillas for anyone that wanted a traditional fajita rather than a salad. Very good! I will make this again soon.",
+            "datePublished": "2018-07-21T23:45:11.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eirene"
+            },
+            "reviewBody": "Used leftover strip loin; didn't use the fajita spice. Really liked the southwestern sauce, just added 1/2 cup of salsa and it was even better!",
+            "datePublished": "2013-02-19T14:07:22.863Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Volleyballmom"
+            },
+            "reviewBody": "Thumbs up for the accompanying dressing recipe that comes with this salad recipe. Deeeee-lish. I used a sirloin steak on the barbie and used my own lettuce mix but followed everything else. My family really enjoyed this salad. I\"ll be making it again soon!",
+            "datePublished": "2014-05-01T06:33:31.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan Mowbray"
+            },
+            "reviewBody": "This was pretty darned good. I followed the recipe pretty closely. Except for a couple things: had some very rare steak left over from last night's dinner so I sliced that up and added it to the pan when the peppers and onions were close to being done. I had no Fajita seasoning so I did as others suggested and used taco seasoning instead.\nI had no plain yoghurt so I figured, for the amount required along with the strength of the seasonings, I could get away with using some stirred raspberry yoghurt. Other than that I followed the Southwest Fiesta Dressing recipe exactly. It was very good, a perfect accompaniment. I served the whole thing on tortillas for an easy-to-go meal. My husband and I enjoyed it very much - I'll be making it again. One caveat - if serving in tortillas, cut the meat up into bite-size pieces.",
+            "datePublished": "2013-06-15T14:01:17.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldScoop3851"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-07-30T21:14:28.491Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tina Marie"
+            },
+            "reviewBody": "Amazing! The Fam loved it and enjoyed every last bite! We will be having this again for sure! It’d be a great dish to take for a pot-luck.",
+            "datePublished": "2018-06-18T02:23:25.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brownkid"
+            },
+            "reviewBody": "What made this a five star is the dressing. The vegetable combination is very good but the dressing is what makes it a 6.",
+            "datePublished": "2018-05-27T23:47:32.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bea Provan"
+            },
+            "reviewBody": "I used the dressing with tossed salad, added corn kernals, grated cheese and tortilla strips, and got rave reviews.",
+            "datePublished": "2016-06-12T13:59:09.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karin Grande Nethery"
+            },
+            "reviewBody": "Excellent and easy. I changed it a bit by making quick Spanish rice and putting it over that. Did not use the salad dressing. Just sour cream.",
+            "datePublished": "2014-08-27T15:09:37.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mctmagill"
+            },
+            "reviewBody": "Well the veggies and meat together are great but I don't see any recipe for the southwest fiesta dressing anywhere....not sure where other reviewers are getting it.",
+            "datePublished": "2014-01-30T17:16:49.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mommyluvs2cook"
+            },
+            "reviewBody": "My husband is just getting over being sick and we are sick of soup! So something light, but filling was what we needed! The only thing was that I had no black olives, but I did have green so I used those , and I threw in some yellow chopped tomatoes with the red. That dressing is fantastic too!",
+            "datePublished": "2013-07-17T20:05:55.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann"
+            },
+            "reviewBody": "I made this salad with leftover carne asada from Trader Joe's. Excellent! Only substitution: cherry/grape tomatoes for the diced tomato.",
+            "datePublished": "2013-02-05T10:00:40.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MSiegan"
+            },
+            "reviewBody": "Fabuous flavor - served with Guac and Salsa. Would use a filet next time as the meat was a bit tough.",
+            "datePublished": "2012-09-28T09:41:54.407Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/217307/steak-fajita-salad/",
+          "name": "Steak Fajita Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

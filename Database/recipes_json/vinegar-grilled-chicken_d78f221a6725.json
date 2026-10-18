@@ -1,0 +1,449 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/160605/vinegar-grilled-chicken/",
+  "extracted_at": "2026-10-18T02:18:47.267528+00:00",
+  "recipes": [
+    {
+      "name": "Vinegar Grilled Chicken",
+      "ingredients_raw": [
+        "0.66666668653488 cup water",
+        "0.66666668653488 cup white wine vinegar",
+        "3 tablespoons margarine, melted",
+        "2 tablespoons garlic salt",
+        "2 tablespoons Worcestershire sauce",
+        "1 tablespoon fresh-ground black pepper",
+        "1 tablespoon hot sauce",
+        "4 (10 ounce) bone-in chicken breast halves"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk water, vinegar, butter, garlic salt, Worcestershire sauce, hot sauce, and black pepper together in a bowl; transfer to a large, resealable plastic bag. Add chicken, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator at least 4 hours."
+        },
+        {
+          "id": 2,
+          "text": "Preheat an outdoor grill for medium-high heat and lightly oil grate."
+        },
+        {
+          "id": 3,
+          "text": "Remove chicken from marinade and shake off excess. Discard remaining marinade."
+        },
+        {
+          "id": 4,
+          "text": "Cook on the preheated grill until no longer pink in the center, about 10 minutes per side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Vinegar Grilled Chicken",
+        "datePublished": "2019-04-03T23:45:47-04:00",
+        "dateModified": "2025-04-23T13:40:21-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wendy Shirley"
+          }
+        ],
+        "description": "This vinegar grilled chicken recipe features a delicious marinade made with white wine vinegar, garlic salt, Worcestershire sauce, and hot sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/A5FhQUWIkQLk82kAsJZ3JdfMKbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1019204-0d6aa04032744a9a8875c8b5615923c5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Vinegar Grilled Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "64"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "300 kcal",
+          "carbohydrateContent": "4 g",
+          "cholesterolContent": "125 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "38 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "2622 mg",
+          "sugarContent": "1 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.66666668653488 cup water",
+          "0.66666668653488 cup white wine vinegar",
+          "3 tablespoons margarine, melted",
+          "2 tablespoons garlic salt",
+          "2 tablespoons Worcestershire sauce",
+          "1 tablespoon fresh-ground black pepper",
+          "1 tablespoon hot sauce",
+          "4 (10 ounce) bone-in chicken breast halves"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk water, vinegar, butter, garlic salt, Worcestershire sauce, hot sauce, and black pepper together in a bowl; transfer to a large, resealable plastic bag. Add chicken, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator at least 4 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium-high heat and lightly oil grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove chicken from marinade and shake off excess. Discard remaining marinade."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook on the preheated grill until no longer pink in the center, about 10 minutes per side."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT260M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tess"
+            },
+            "reviewBody": "I made a few changes but first let me say THIS WAS DELICIOUS!!! Ok the changes. I made it for two rather than four. Of necessity, I used soy sauce instead of Worcestershire and it was fine. I replaced the butter with olive oil also with no problems and less fat. Now the big change, I baked rather than grilled the chicken and used bone-in breasts which I think are juicier and are also more economical. I lined a glass baking dish with foil for easy clean up. I marinated the breasts for a full day, placed them in the dish, poured the marinade over the top, and sealed tightly with foil. I baked them at 375 for 45 minutes, removed the foil and baked for another fifteen minutes. Once I removed the foil, I basted the breasts often. After 15 minutes and when they tested as nearly done with a meat thermometer, I broiled them for about five minutes to brown and crisp the skin. These were SO juice and SO tender that my husband couldn't stop raving about them. And wow did they smell good! Next time I may try them on the grill but baking works REALLY well. This is definitely a keeper! I served them with couscous with fresh chopped tomatoes added when I fluffed it. A big hit!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wannab136"
+            },
+            "reviewBody": "I use my George Foreman grill a lot for grilled chicken and this was no exception so I cannot comment using an outdoor grill. However, I followed the instructions but ran out of vinegar so I used a bit of apple cider vinegar and fresh lemon juice to make up the difference. I used 5 chicken boneless chicken from Sam's and had to pound a couple of them to get the thickness that I needed to get them all equal in thickness. I cooked them for 5 mins with top down and they were all very juicy and flavorful. Grill marks will appear on the top only because of all the juices on the bottom so I cook 3 mins and then flip over over for 2 more mins. Just a preference. Only problem was that I did not make enough! Next time will double and then cut up for a grilled chicken green salad the following day. Excellent!",
+            "datePublished": "2016-05-22T17:41:09.943Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Talitha Sheffield"
+            },
+            "reviewBody": "This was delicious, although I did tweak the recipe based on what I had and what I thought would go well. First as another person stated I switched out the Worcestershire for soy sauce. Also I switched out the margarine for sesame oil and used saracha as the hot sauce. I marinated five chicken thighs for about 18 hours. I ended up baking them in a cast iron pan with foil over the top for a hour at 400 degrees, removed the foil and cooked for about ten then broiled them for around five minutes. They came our moist, up to temperature and full of flavor.",
+            "datePublished": "2018-11-02T10:39:28.803Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "just_jam"
+            },
+            "reviewBody": "this was very good.. i doubled the hot sauce and left out the margarine.. used on boneless/skinless thighs and legs.. marinated for 24 hrs.. cooked it on the foreman.. and it came out perfect.. spicy, vinegary, and moist.. ty for the recipe",
+            "datePublished": "2013-01-14T12:07:44.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lauren"
+            },
+            "reviewBody": "I didn't have white wine vinegar, but apple cider vinegar was a fine substitute. Also used Franks hot sauce and wayyyyy more than 1TB, probably more like 1cup of hot sauce. Used a flavor injector to really get it in the chicken and then marinated it for a few hours. Super yummy, and not too spicy for my 2 year old",
+            "datePublished": "2012-11-08T10:33:47.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy"
+            },
+            "reviewBody": "This is my favorite gilled chicken recipe. I omitted the butter/oil, and doubled the vinegar. Marinated for 24 hours.",
+            "datePublished": "2021-10-26T13:27:11.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RaganC"
+            },
+            "reviewBody": "This has become my go-to grilled chicken. My family of 6 unanimously loves this recipe -- which is almost unheard of. Flavors are best when the chicken marinates over night (and until dinner time), and I prefer drumsticks to chicken breasts. Otherwise, I follow this recipe precisely. FYI, this recipe is perfect for one family pack of drumsticks (13 pieces), and I make the marinade right in the gallon-size ZipLoc bag and add in the chicken. No clean up! Enjoy!",
+            "datePublished": "2014-09-08T10:12:03.350Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NancyLynnQC"
+            },
+            "reviewBody": "OH wow, oh yum, I'm a convert. I usually eschew the breast of the chicken because it's too dry, but this recipe made the meat tender, juicy and so tasty. Marinated 24 hours, made the following modifications to suit personal taste: 1 Tbsp garlic powder + 1/2 Tbsp sea salt instead of garlic salt; about half the hot sauce due to kids; and EVOO instead of butter. What decided me to try this recipe on some chicken breasts I was unsure what to do with was another reviewer's comment that this recipe gave the chicken the tang you usually only find in restaurants. Very true, and as a result this will go into my regular rotation.",
+            "datePublished": "2012-09-11T16:09:24.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DEBIVEE"
+            },
+            "reviewBody": "Really, really good. Especially cold the next day. The vinegar flavor really makes it over the top! Used red wine vinegar and subbed olive oil for the margarine. Also, baked in the oven.",
+            "datePublished": "2013-05-25T17:59:26.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Danelle Knapp Rohr"
+            },
+            "reviewBody": "I have been looking for a great chicken recipe that wasn't dry. This is it!!! My whole family loved it. I followed the ing other than i left out the butter/oil. I also put it in the marinade last night so it was about 24 hours in it. I also baked it for 50 mins on 350 in a covered dish. Its about 20 outside with over a foot of snow and i am not in the grilling mood. Will try grilling it this summer.",
+            "datePublished": "2010-02-22T16:11:45.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KAE2"
+            },
+            "reviewBody": "I couldn't see the purpose of the melted butter, so I excluded it and never missed it!\nThis is delicious!!!!!!!!!!!\n2nd time: Used seasoned 1/2 C. rice wine vinegar, 1/3 C. water, 1 T garlic salt, 1 T hot sauce, 1 tsp black pepper, 4 tsps wors. sauce and no butter. It was excellent!!!!!!!",
+            "datePublished": "2008-04-22T05:01:24.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patrick Romzek"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-12T18:40:20.769Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "terrvu"
+            },
+            "reviewBody": "moist chicken with hint of vinegar. add Monterey seasoning to chicken before grilling.",
+            "datePublished": "2020-09-01T21:23:23.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Surroundedbypickyeaters"
+            },
+            "reviewBody": "Wow! So tender, juicy and flavorful! I'm prone to burn my grilled chicken when I use sauces. These turned out beautifully. One week ago we had this for the first time. The family loved it! I've managed to hold out 7 days despite my kids begging for it. Tonight's the night...finally! Perfect the say it is- no changes, except I increased the time given to marinate.",
+            "datePublished": "2020-08-17T14:58:23.113Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kendra Voights"
+            },
+            "reviewBody": "Everyone loved it! Marinated about 24 hours. Used regular white vinegar because I had it on hand. Delicious.",
+            "datePublished": "2020-04-10T01:49:40.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy Friend"
+            },
+            "reviewBody": "very good. I never eat the skin on chicken but did this time. so crispy! chicken remained very most.",
+            "datePublished": "2017-08-21T00:00:19.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "Vinegar Grilled Chicken Haiku: \"Very moist chicken, sad that it lacked flavor punch. Ate over salad.\" Used olive oil and marinated my chicken cutlets for 4 hrs. b4 grilling and while very moist, they didn't taste like a whole lot of much, so I'm glad that I sliced it over a salad rather than making it a \"starring\" entree protein.",
+            "datePublished": "2016-04-29T16:26:42.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sheila Miller"
+            },
+            "reviewBody": "I love this. My son who is a picky eater loves it too. I did make two changes. I use olive oil instead of butter and garlic powder instead of garlic salt. I think this needs to be in everyone's recipe box.",
+            "datePublished": "2016-01-30T09:41:45.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mtnsky"
+            },
+            "reviewBody": "I followed the recipe but using olive oil and twice the chili sauce., and baked it for 50 min at 350. Tasted too vinegary for me. Edible and juicy, but not to my taste. I will not be making this one again.",
+            "datePublished": "2015-06-02T17:24:53.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chef_boy_gumby"
+            },
+            "reviewBody": "I switched the margarine for olive oil and marinated for 6 hours. It was delicious; definitely going to make this again!",
+            "datePublished": "2015-05-29T17:22:49.770Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/160605/vinegar-grilled-chicken/",
+          "name": "Vinegar Grilled Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                  "name": "Chicken Breast"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,483 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12926/french-onion-soup-i/",
+  "extracted_at": "2026-10-18T01:51:20.430157+00:00",
+  "recipes": [
+    {
+      "name": "French Onion Soup I",
+      "ingredients_raw": [
+        "0.25 cup butter",
+        "3 onions, thinly sliced",
+        "1 teaspoon white sugar",
+        "1 tablespoon all-purpose flour",
+        "2.5 cups water",
+        "0.5 cup red wine",
+        "2 (10.5 ounce) cans condensed beef broth",
+        "1 French baguette",
+        "8 ounces sliced Swiss cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Melt butter in a 4-quart saucepan over medium heat. Add onions and sugar; cook, stirring occasionally, until onions are golden brown, about 10 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in flour until well blended with onions and pan juices. Add water, wine, and beef broth. Bring to a boil, then reduce the heat to low. Cover and simmer for 10 minutes."
+        },
+        {
+          "id": 4,
+          "text": "While the soup is simmering, cut four 1-inch-thick slices from baguette; reserve the remaining bread for serving. Toast baguette slices in the preheated oven just until browned, about 10 minutes. Remove from the oven and set aside. Increase the oven temperature to 425 degrees F (220 degrees C)."
+        },
+        {
+          "id": 5,
+          "text": "Ladle soup into four 12-ounce, oven-safe bowls. Place one slice toasted baguette on top of the soup in each bowl. Fold Swiss cheese slices, and fit onto toasted bread slices. Place soup bowls onto a cookie sheet for easier handling."
+        },
+        {
+          "id": 6,
+          "text": "Bake in the preheated oven just until cheese is melted, about 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "French Onion Soup I",
+        "datePublished": "1999-01-20T14:50:46-05:00",
+        "dateModified": "2026-03-25T14:07:00-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "chefbuzz"
+          }
+        ],
+        "description": "This French onion soup recipe features slices of toasted French bread topped with melted cheese in a bowl of rich, savory broth with caramelized onions.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/_UBaqaVQoJrkMQPZaj63BCsjD68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123139-d14909dd7d804c3da48c773ab3d94950.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/KFpeRUUA-ma1DlVvV.mp4",
+          "description": "AR0238",
+          "duration": "PT2M51S",
+          "name": "French Onion Soup I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/KFpeRUUA/poster.jpg?width=1280",
+          "uploadDate": "2021-07-07T10:46:57-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "French Onion Soup I",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "424"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "732 kcal",
+          "carbohydrateContent": "79 g",
+          "cholesterolContent": "89 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "33 g",
+          "saturatedFatContent": "18 g",
+          "sodiumContent": "2004 mg",
+          "sugarContent": "8 g",
+          "fatContent": "29 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "0.25 cup butter",
+          "3 onions, thinly sliced",
+          "1 teaspoon white sugar",
+          "1 tablespoon all-purpose flour",
+          "2.5 cups water",
+          "0.5 cup red wine",
+          "2 (10.5 ounce) cans condensed beef broth",
+          "1 French baguette",
+          "8 ounces sliced Swiss cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Melt butter in a 4-quart saucepan over medium heat. Add onions and sugar; cook, stirring occasionally, until onions are golden brown, about 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in flour until well blended with onions and pan juices. Add water, wine, and beef broth. Bring to a boil, then reduce the heat to low. Cover and simmer for 10 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "While the soup is simmering, cut four 1-inch-thick slices from baguette; reserve the remaining bread for serving. Toast baguette slices in the preheated oven just until browned, about 10 minutes. Remove from the oven and set aside. Increase the oven temperature to 425 degrees F (220 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Ladle soup into four 12-ounce, oven-safe bowls. Place one slice toasted baguette on top of the soup in each bowl. Fold Swiss cheese slices, and fit onto toasted bread slices. Place soup bowls onto a cookie sheet for easier handling."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_UBaqaVQoJrkMQPZaj63BCsjD68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123139-d14909dd7d804c3da48c773ab3d94950.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven just until cheese is melted, about 10 minutes."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MJLAM"
+            },
+            "reviewBody": "I stumbled upon this recipe and decided to give it a try. I altered the recipe according to previous reviewers. I used 1/2 cup butter. I added about 2 tsp of white sugar. I used three cups of sliced onions. Mostly yellow cooking onions and one red onion. I've read that using Vidalia onions are the best because they are sweet, so you might be able to omit the sugar if you use them. I cooked the onions on medium heat in the butter until they sweated down and were carmelized. That took a while but the taste it worth it. I used about 2 TBS of flour. Then I used 4 cans of beef broth, 1/2 cup wine, 1 TBS of worcestire sauce, some fresh thyme (the whole sprig's thrown in), 2 bay leaves, salt and pepper. I left that boil and then simmered on low for 20 minutes. At first it tasted like red wine but after simmering it had great flavor. Thanks so much for this recipe. I will be making this one again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kerv22"
+            },
+            "reviewBody": "Great soup! After reading a few of the reviews on the soup I decided to tweak things a little bit following their instruction. Here ya go: Put 1/2 cup butter into large saucepan, after melting, put 2 to 3 cloves of minced garlic in. Cook garlic untilit starts to turn brown, while also adding a touch of salt and pepper. Upon browning add 4 sliced vidalia onions, 1 tsp sugar. Cook on medium heat for about 1/2 hour until onions melt down and carmelize (they just about started sticking on the bottom of the pan for me at this point). Subsequently add 1 cup good red wine; I think this was the key to my soup turning out so well. I used a very good bordeaux that was left over from last night. Stir in wine and then add 1 tbsp worcestire, 2 tbsp flour, 1 cup water, and 64 ounces beef broth. Furthermore, I put a bundle of 2 bay leaves and about 5 sprigs of thyme in at this point also. From here, bring to a boil and then reduce to a low-medium heat to simmer for roughly 30-45 minutes. At the end, toast some baguette slices in the oven, rub garlic on these, and then stick'em down in the bowl of soup. Cover with a whole bunch of Gueyere (spelling?) cheese. And then put it in the oven until the cheese melts to a golden brown. Very tasty! Enjoy!",
+            "datePublished": "2009-01-11T19:39:59.567Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dranoel"
+            },
+            "reviewBody": "Loved it! Changes: 3 cups of yellow onions, carmelize and you don't need any sugar, used vegetable broth, toasted baguette slices in toaster, topped floating toast with grated swiss - melted well without the oven. Only used 1 cup of water and it was perfect for 2 large servings.",
+            "datePublished": "2011-09-17T17:34:42.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CarolNY"
+            },
+            "reviewBody": "I made just a few tweaks as suggested by previous viewers, it was delicious as I didn't want to vary too much from the original recipe. I used 2 cans beef consume instead of beef broth, used just a bit less than 1/2 cup butter, and sautéed the onions until caramelized. I also didn't have any swiss and was anxious to make it so I used a slice of provolone with some shredder mozzarella on top - worked great.",
+            "datePublished": "2022-01-08T18:59:50.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LCrowley10"
+            },
+            "reviewBody": "This was yummy! I used a little less water just because I prefer more \"meaty\" soup. I also only used 3 TBSP of butter. I also happened to have some sweet italian turkey sausage that I needed to use up. I cooked the links while the onions were cooking, crumbled them up and added them to the soup at the end. I let the sausage flavor soak into the soup on the stove for a few minutes. It was really good and made a more hearty meal. Also instead of putting the bowls in the oven at the end, I just put the bread with swiss cheese in the oven alone for a few minutes and then placed the bread slices on top of the soup before eating. But that was just because I wasn't positive if my bowls were oven proof or not.",
+            "datePublished": "2011-02-22T16:39:23.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherri"
+            },
+            "reviewBody": "First thing is just ten minutes of cooking the onions is not near long enough, you need to cook the onions over a medium heat until the are golden brown (caramelized), this can take awhile, but it is what gives flavor to the onions. I added some minced garlic right before adding the flour. I also cooked my onions in a mixture of bacon grease and butter.\nI bought a generic beef broth since I had no fresh left in my freezer...what a mistake to buy a big store's generic broth, I actually tasted it before using it and it pretty much tasted like water. So i added a cube of beef bouillon and a good dash of Worcestershire sauce. I used only the broth, if I added water it would really be lacking flavor. \nAlso the bread at the end needs to be quickly broiled until golden brown on low under the broiler and not baked for another ten minutes, or it gets mushy. \nIf I make again I'll only use some fresh beef broth or beef consume. My onions were great all by themselves, I used fresh thyme from the garden to spice them. I had some yellow, some red and some sweet.",
+            "datePublished": "2011-03-10T05:30:43.353Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle McCormick"
+            },
+            "reviewBody": "FABULOUS! Except that you have to cook the onions WAY longer than specified. I cooked yellow onions on medium for about 30 minutes. I used regular slices of white bread, toasted them in the toaster slightly, then put the cheese on top and broiled them for a minute. I didn't have oven safe bowls, so I just ladled the soup in a regular bowl and added the bread with the melted cheese. YUMMY!",
+            "datePublished": "2008-02-07T21:54:25.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fossi"
+            },
+            "reviewBody": "Great café quality and taste! However, I do have a few tweaks... \n1. Use two 10.5 ounce cans of beef consommé instead of condensed broth. It's easier to find in the stores and will get rid of that water and wine taste others have complained about. Do be sure to add the water and wine as directed though, as with consommé, it is really needed. \n2. Cook the onions on medium heat for a good 40 minutes. \n3. Simmer the soup for at least 20 minutes, if not more. \n4. Toast eight slices of bread (so as to put two in each bowl) for 5 minutes, flip them, and toast the other side for another 5 minutes. \n5. Mozarella works better than Swiss, and only use half of what the recipe calls for. \n6. On an upper rack, broil the bowls for three minutes (or until it is browned) on a low temperature instead of baking.\nAll in all, this is a great recipe that was well worth the tears.",
+            "datePublished": "2011-08-18T16:43:43.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vishal Iyer"
+            },
+            "reviewBody": "I have made this over two dozen times and it is great, but I have a few tweaks. First, use 5 tbsp of butter rather than 4. Next, use 3 full cups of water. Next, use a full cup of red wine. Finally, use French bread rather than a baguette and cut your slices thick so that the cheese does not dip into the soup. I also find that 10 minutes for the cheese to melt is way too long. By that time the cheese has been bubbling for a few minutes already. 5-8 minutes is a better amount of time, depending on how bubbly you want your cheese. As a side note, French bread is much better than Italian bread because French bread is drier, which is good for this. I also slice a few thinner pieces of bread for dipping. Great recipe.",
+            "datePublished": "2011-06-08T17:17:49.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PamMar"
+            },
+            "reviewBody": "I love French Onion Soup. It's my favorite by far. This recipe is great but I had to tweak it to be excellent. First, I used all beef broth instead of water. Water will just dilute the favor. Second, when you're stirring in the sugar, add a clove or 2 of minced garlic and about 1/2 teaspoon dried thyme. I use dry white wine instead of red wine. I've tried both and white wine gives the soup a much better flavor. Last, after toasting the baguette and while it's still hot, rub both sides with a peeled garlic clove. Believe me, it makes a huge difference. Sometimes I use Gruyere Cheese instead of Swiss but either are great on this soup.",
+            "datePublished": "2010-09-25T08:11:51.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mikescook"
+            },
+            "reviewBody": "This was my first attempt at homemade French onion soup and it was amazing!! However I only gave the recipe 4 stars because I made some changes after reading other reviews. Like others here, I cooked the onions on low for about an hour before adding any other ingredients. Also threw some garlic cloves in with the onions. I chose to use 4 cups regular beef broth instead of a mix of condensed broth and water. Also after reading some reviews that red wine was a little strong, I tried using white wine instead and it was terrific. My husband is requesting this on a weekly basis!",
+            "datePublished": "2008-11-12T14:00:14.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacey Mathias"
+            },
+            "reviewBody": "We all loved it. Better flavors than at some restaurants. Will be making this one often.",
+            "datePublished": "2025-12-15T22:59:04.458Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "G"
+            },
+            "reviewBody": "I used Pearl onions instead of regular. Tedious time removing the skins as I don’t parboil to make it easier. Also used Brie cheese and made French baguette croquettes instead of slices.",
+            "datePublished": "2025-11-16T22:04:28.809Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "QuaintAhi4010"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-28T22:53:28.958Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle"
+            },
+            "reviewBody": "I made this but instead of using beef broth (I don't eat red meat or pork) I used Better than Bouillon Smokey Chipotle.. awesome!",
+            "datePublished": "2023-09-12T22:23:16.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tara Vatcher"
+            },
+            "reviewBody": "Yum Yum Yum!!",
+            "datePublished": "2023-07-01T18:18:16.594Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BoldRum6509"
+            },
+            "reviewBody": "Easy to make and the family loved it. I did substitute a half cup of the water with more wine to give it more flavor and was a hit. Will be making this again.",
+            "datePublished": "2023-04-25T02:38:39.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lonnie Berry"
+            },
+            "reviewBody": "I have made this recipe before and found the wind to be overwhelming. This time I did two things I would decrease the line to about 2 tablespoons full and I added a chopped Charlotte these two changes improved the flavor at least for my taste. I only use Gerrer cheese and lots of it. I also used a thinner slice of the baguette.",
+            "datePublished": "2020-10-04T00:32:20.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lorenza Vesely"
+            },
+            "reviewBody": "No sugar, added a pot wine",
+            "datePublished": "2020-05-11T22:10:16.997Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "This is the best onion soup recipe I’ve found. I’ve been using this recipe for years, the best I’ve had. I really like using a nice Australian Shiraz (and a glass for the cook), and adding a bit of sherry as well. (I may be a little generous with both.)\nTo make it Florentine onion soup, I add in just a little fresh, coarsely chopped spinach.",
+            "datePublished": "2020-04-27T13:45:08.427Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12926/french-onion-soup-i/",
+          "name": "French Onion Soup I",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14737/soups-stews-and-chili/soup/vegetable-soup/onion-soup/",
+                  "name": "Onion Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16009/soups-stews-and-chili/soup/vegetable-soup/onion-soup/french-onion-soup/",
+                  "name": "French Onion Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

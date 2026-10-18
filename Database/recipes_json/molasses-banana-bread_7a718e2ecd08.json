@@ -1,0 +1,436 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17281/molasses-banana-bread/",
+  "extracted_at": "2026-10-18T02:25:35.724267+00:00",
+  "recipes": [
+    {
+      "name": "Molasses Banana Bread",
+      "ingredients_raw": [
+        "0.5 cup butter, softened",
+        "2 cups mashed banana",
+        "1 cup molasses",
+        "1 large egg",
+        "1 cup whole wheat flour",
+        "0.75 cup all-purpose flour",
+        "0.5 teaspoon baking soda",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon ground nutmeg",
+        "0.5 cup chopped walnuts"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan."
+        },
+        {
+          "id": 2,
+          "text": "Cream butter in a large bowl. Beat in banana, molasses, and egg. Mix in both flours, baking soda, salt, and nutmeg. Stir in walnuts until well blended. Pour batter into the prepared pan."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, 55 to 65 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Molasses Banana Bread",
+        "datePublished": "2000-04-05T15:22:53-04:00",
+        "dateModified": "2023-01-29T23:12:12-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "stellaluna"
+          }
+        ],
+        "description": "This wonderfully flavorful molasses banana bread is sweetened with molasses instead of sugar for a crowd-pleasing treat. What a nice variation!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/BO3j_iPdbCNnCSxT-qzytnyyxCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2969781-molasses-banana-bread-Jan-4x3-1-9595d884f2e449368328998a8f569c5e.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Molasses Banana Bread",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.8",
+          "ratingCount": "73"
+        },
+        "cookTime": "PT55M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "299 kcal",
+          "carbohydrateContent": "51 g",
+          "cholesterolContent": "43 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "246 mg",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Breakfast"
+        ],
+        "recipeIngredient": [
+          "0.5 cup butter, softened",
+          "2 cups mashed banana",
+          "1 cup molasses",
+          "1 large egg",
+          "1 cup whole wheat flour",
+          "0.75 cup all-purpose flour",
+          "0.5 teaspoon baking soda",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon ground nutmeg",
+          "0.5 cup chopped walnuts"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cream butter in a large bowl. Beat in banana, molasses, and egg. Mix in both flours, baking soda, salt, and nutmeg. Stir in walnuts until well blended. Pour batter into the prepared pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, 55 to 65 minutes."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "1 9x5-inch loaf"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I loved this bread but made two changes to the recipe: I used only 1/2 C of molasses and I used spelt flour instead of whole wheat flour. Delicious and healthy too!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mare"
+            },
+            "reviewBody": "Sooo glad I found this recipe - just made it and it was awesome! Minor changes - I didn't have w/w flour, so used regular (next time will try w/w). Had dark molasses, so I reduced to 1/2 c as suggested by others. Also added 1/2 c coarsely chopped walnuts (saw in instructions but not in ingredients). Also, anytime I make a bread that is to go into a 9x5 loaf pan, I only put a portion of it in the 9x5 and the rest I put into little pans I got from my mom - some are round, some oblong, some tiny bundts. They cook very fast and the big loaf is never dry or raw in the middle - plus the grandchildren love tiny cakes of their own! House smells wonderful - having it along with stuffed pepper soup - even better because it's snowing outside!!!",
+            "datePublished": "2011-01-26T12:49:29.633Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Siobhan"
+            },
+            "reviewBody": "I used blackstrap molasses and loved it! Although I like molasses so I'm not sure how other would like it. Blackstrap molasses is rich in iron though so it's good for little ones. It looked like too much for my loaf pan so I baked it in an 8x8. 2 cups of banana was 6 bananas for me but it came out so nice and moist. I added 1 cup semi sweet chocolate chips and 3/4 cups chopped walnuts. Also I found I was out of nutmeg?? so I improvised and added 1/2 teaspoon cinnamon and some ginger. My son loved it too",
+            "datePublished": "2017-09-20T22:14:56.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "amythuey"
+            },
+            "reviewBody": "I think this recipe has good intentions, especially for using up the jar of molasses we all have in our pantry from the last pecan pie, or gingerbread we made! Anyhow, I also cut back the molasses to 1/2 cup, but added 1/4 cup white sugar to the liquid ingredients. If you really want to get more banana flavor in the bread, peel the banana, place in bowl, and cover with plastic wrap, and cook in microwave for 3 minutes. The flavor is totally intensified! Use the banana flesh, and the juice that comes from cooking.\nI also used Gluten-Free flour, instead of the whole wheat flour, and increased it to 2 cups total. I also added a 1/2 tsp of xanthan gum, since there is no gluten in my flour. These came out moist, not too sweet, and my whole house smelled delicious!",
+            "datePublished": "2012-05-29T13:36:59.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Changed the molasses from 1 cup to 2/3 cup, only had 3 bananas so added applesauce, used cinnamon instead of nutmeg, added raisins and chopped pecans. Other ingredients as recipe indicated. Baked as 12 muffins for 17 minutes. My husband and I loved them! Not too sweet, very tasty. (My molasses was Grandma's Original)",
+            "datePublished": "2016-12-03T15:01:43.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "clc1gsinetnet"
+            },
+            "reviewBody": "Changed the molasses from 1 cup to 2/3 cup, only had 3 bananas so added applesauce, used cinnamon instead of nutmeg, added raisins and chopped pecans. Other ingredients as recipe indicated. Baked as 12 muffins for 17 minutes. My husband and I loved them! Not too sweet, very tasty. (My molasses was Grandma's Original)",
+            "datePublished": "2016-12-03T15:01:43.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This came out moist and delicious. I doubled the recipe and made muffins. I put chocolate chips in one batch and left the other batch as the recipe called for.",
+            "datePublished": "2024-09-30T03:53:14.805Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sue DeGrandis"
+            },
+            "reviewBody": "Very moist but with a strong molasses flavour. I used Fancy Grade Molasses and it would have been better with a light grade as the molasses overwhelmed. I re-made it with only 1/2 cup of molasses and we could then taste the banana",
+            "datePublished": "2020-04-14T14:06:00.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lovetocook"
+            },
+            "reviewBody": "I used 1/2 cup coconut oil instead of butter, and only used 3/4 cup molasses. I also added some chopped pecans, cinnamon, ginger and allspice. I like my spices! I absolutely LOVED this bread!! Great alternative to the typical banana bread.",
+            "datePublished": "2018-11-06T00:40:30.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "majlockwood"
+            },
+            "reviewBody": "We substituted coconut oil instead of butter as well as the suggested 1/2 c of molasses. These are GREAT!!! We did muffins for 15 minutes at 350 degrees and they pealed away perfectly from the liners. Def a keeper!",
+            "datePublished": "2013-07-28T17:14:10.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nirvana716"
+            },
+            "reviewBody": "Wonderful!!! This bread is awesome, the molassis makes so moist and flavorful. I altered the recipe a bit. The cooking time for me was 1 hours, 10 minutes, then another 12 to 15 mins with foil over it. That was for the first time I made it and I had more banana. This recipe below I am making right now, and hopefully it will cut down on cooking time. My version 1.5 cups flour .5 cup margarine 1 white sugar 1/4 brown sugar 1/4 cup molassas dark 1t baking powder 2 eggs 1t vanilla 2 lrg bananas smashed well",
+            "datePublished": "2009-07-04T19:02:51.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Todd"
+            },
+            "reviewBody": "This tasted terrible. So bitter. Even 3/4 cup was too much molasses. Can’t taste anything else.",
+            "datePublished": "2025-11-21T04:29:30.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "eaa56"
+            },
+            "reviewBody": "I added a tbsp of lemon juice and 1/2 tsp of vanilla extract, I think this helped to add some dimension to this sweet (and delicious!) cake",
+            "datePublished": "2025-04-02T11:19:11.994Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dana Richardson Leas"
+            },
+            "reviewBody": "Used only 1/2 cup of molasses and topped with a cinnamon sugar mix that gives a nice crunch. Used AP flour. Would be a great breakfast muffin",
+            "datePublished": "2025-03-09T02:00:57.636Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldCarp3308"
+            },
+            "reviewBody": "Awful I don't understand why the higher ratings a complete waste of time and ingredients one of the problems is it possibly needs brown sugar or something.",
+            "datePublished": "2024-11-25T23:59:51.101Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FriskyCane4403"
+            },
+            "reviewBody": "I used only 3/4cup of grandmas molasses based off of other reviews. It was still too much molasses unless you want that flavor but it over powers the banana. It doesn’t taste like banana bread at all. Also I pulled it out about 5 mins early and it wasn’t moist.",
+            "datePublished": "2022-12-23T04:01:32.472Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristine"
+            },
+            "reviewBody": "This recipe is wonderful. I did not have any nuts so I added chopped dates. It was lovely and moist and I will be making it again!!",
+            "datePublished": "2021-02-26T00:57:08.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda K Baker"
+            },
+            "reviewBody": "Too much banana and molasses. I would use 1 cup of bananas or 3 large and 1/2 cup of molasses if I make again.",
+            "datePublished": "2020-01-05T00:23:39.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nobody At All"
+            },
+            "reviewBody": "I made this, customizing it just a bit to suit my taste a bit more. I included 2 teaspoons of cinnamon, 1/4 teaspoon of ground cloves, a 1/2 teaspoon nutmeg, I cut back on the molasses by 1/2 a cup and included an additional 1/2 cup of brown sugar. I omitted the walnuts.\n\nI will make this again it's a very useful way to get rid of overripe bananas.\n\nDelicious, thick dense and moist cake is superb with coffee!",
+            "datePublished": "2019-07-07T15:39:11.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rachbick"
+            },
+            "reviewBody": "really tasty. quick and easy. i add ginger (powdered, crystallized, and fresh--i love ginger!) sometimes. chai spice and cardamom are also good additions if you want to mix it up. i'm actually not crazy about traditional banana bread, so this is my go-to to use up mushy 'naners.",
+            "datePublished": "2018-11-18T04:36:30.330Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17281/molasses-banana-bread/",
+          "name": "Molasses Banana Bread",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1304/breakfast-and-brunch/breakfast-bread/",
+                  "name": "Breakfast Bread Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

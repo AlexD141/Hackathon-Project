@@ -1,0 +1,468 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/209578/blt/",
+  "extracted_at": "2026-10-18T02:47:25.785396+00:00",
+  "recipes": [
+    {
+      "name": "BLT",
+      "ingredients_raw": [
+        "4 slices bacon",
+        "2 leaves lettuce",
+        "2 slices tomato",
+        "2 slices bread, toasted",
+        "1 tablespoon mayonnaise"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain bacon on a paper towel-lined plate."
+        },
+        {
+          "id": 3,
+          "text": "Arrange cooked bacon, lettuce, and tomato slices on one slice of bread. Spread mayonnaise on the other slice of bread."
+        },
+        {
+          "id": 4,
+          "text": "Close to make a sandwich."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "BLT",
+        "datePublished": "2019-04-02T02:52:21-04:00",
+        "dateModified": "2025-11-28T10:04:15-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "MOTTSBELA"
+          }
+        ],
+        "description": "This BLT uses an easy, no-frills recipe for the classic American sandwich made with crisp bacon, lettuce, and tomato on toasted bread with mayonnaise.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/3YVAm9kdFKD4SFHPqv30krrvm3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-209578-blt-DDMFS-3x4-e1e67e3c348645ba85e304249fd43ff9.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "BLT",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "164"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "439 kcal",
+          "carbohydrateContent": "29 g",
+          "cholesterolContent": "45 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "18 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "1255 mg",
+          "sugarContent": "4 g",
+          "fatContent": "28 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner",
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 slices bacon",
+          "2 leaves lettuce",
+          "2 slices tomato",
+          "2 slices bread, toasted",
+          "1 tablespoon mayonnaise"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/cJUvJxwQPzv59HXVHQUTPCinFvc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-209578-blt-DDMFS-step-1-a8b6db0bb4ed461b967146b95d9fcb24.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3XEJlQ_iM4zvP413qf5n5GcE67g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-209578-blt-DDMFS-step-2-b672c6294b5b4bd099e09c76d80acf70.jpg"
+              }
+            ],
+            "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain bacon on a paper towel-lined plate."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Kz6GElqgbJ1Q9k7rg-TiZkSJ1dM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-209578-blt-DDMFS-step-4-4887be25ea354989bba7ec15447612a8.jpg"
+              }
+            ],
+            "text": "Arrange cooked bacon, lettuce, and tomato slices on one slice of bread. Spread mayonnaise on the other slice of bread."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oGOG94NURluF_tB8MyTBznrbTZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-209578-blt-DDMFS-step-5-cc3e03d31e75472f9102d60a802b6814.jpg"
+              }
+            ],
+            "text": "Close to make a sandwich."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I made this to go with homemade chunky tomato soup. I used Bagel Thins and thick sliced hickory smoke bacon. The kids thought this was great. Very easy supper idea. EDITED: Because I now eat low carb, I omit the bread and I like to spread a tiny amount of mayonnaise on a big piece of lettuce, then wrap the bacon and tomato inside the lettuce."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hartvig"
+            },
+            "reviewBody": "A good bread is essential and real, grown in the garden tomatoes take this from very good to almost indescribably delicious. I like to do my bacon in the oven (12-18 min @ 425 depending on thickness) so it comes out flat and crispy and plenty of fresh cracked pepper on it as well.\n\nA few slices of avocado really kick up the taste a notch if you're using store bought tomatoes and also help provide a little variety when the tomato plant in your garden is producing them almost faster than you can eat them.",
+            "datePublished": "2012-08-03T02:15:28.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "3.23.18 Made a double decker using three slices of toasted bread with lettuce and tomato on the bottom, bacon on the top, and that third slice in the middle. Good stuff!",
+            "datePublished": "2018-03-23T22:34:15.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Conchwatts"
+            },
+            "reviewBody": "Great all-time favorite that I had not had in years. I toasted my bread in a pan with butter.",
+            "datePublished": "2020-05-17T02:53:05.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Alan Oliver"
+            },
+            "reviewBody": "Had Turkey breast leftover from Thankgiving and decided to make a BLT! Awesome, especially after brining the Turkey for 24 hours, this was so juicy and the bacon just threw this over the top!",
+            "datePublished": "2017-11-26T19:23:26.517Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karla Cooks"
+            },
+            "reviewBody": "I like to fry an egg in the bacon grease and add it to the \"classic.\" I call it a BLTE.",
+            "datePublished": "2012-08-02T08:42:22.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DeeLee"
+            },
+            "reviewBody": "Thia is the way I have alwayus made my BLT' s onlyn varyingn the kind of bread sometimes. So good. Lately to make it healthier I havesubstituted baby Spinch leaves for lettuce and also sometimes substitute garlic hummus for mayo All are good. BLT's were my craving all through my first pregnancy and I would eat 2 or 3 at a time. I was always hungry.",
+            "datePublished": "2026-02-10T22:43:30.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "candysmom"
+            },
+            "reviewBody": "Your basic, straight-forward BLT recipe.\nThe one thing I will add, and this is from being a long-time cook, is when you assemble the sandwich, after spreading the mayo on your toast clear to the edge, place the lettuce down on your toast, then the tomato in the MIDDLE of your sandwich. This helps keep your sandwich from becoming soggy. Our all-time favorite summer sandwich, since the early 1950's.",
+            "datePublished": "2021-08-10T03:59:10.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PBFITZ"
+            },
+            "reviewBody": "This is a great standard recipe. The key for this sandwich is the quality of the ingredients. (Home Grown Tomatoes). My favorite BLT sandwich came from a restaurant up in Carmel, ca. I found out that they notched it up with a very thin layer of peanut butter, on one slice of the bread, and between the lettuce and tomatoes, they added thinly sliced Maui onion. Since I am not a peanut butter fan, I can't believe how much I love this sandwich. But I do.",
+            "datePublished": "2010-08-20T13:56:30.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "Agree, it's nothing fancy, but sometimes those are the best recipes! I usually use more than 2 slices of tomato for my tastes, but adjust to how you like it! A sprinkle of salt and pepper on the tomato and you're good to go!",
+            "datePublished": "2023-11-27T02:54:59.144Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bellepepper"
+            },
+            "reviewBody": "This truly is a classic! But it’s at its best when homegrown tomatoes are available. Well, it’s that time of year in Ohio right now, so I made this using a beautiful Ohio River Valley tomato, bright green baby lettuce from Hubs’ garden and some high quality bacon cooked to perfection. Instead of the usual bread, this time I made it on a toasted “everything” bagel. And, don't forget the mayo! Just delicious!!",
+            "datePublished": "2011-08-24T19:29:49.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "glue82"
+            },
+            "reviewBody": "Add an egg that you fried in the bacon grease and you have a BELT!",
+            "datePublished": "2026-08-10T23:53:08.192Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eric"
+            },
+            "reviewBody": "Same as my own exactly.",
+            "datePublished": "2026-04-19T13:03:37.454Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paul Amos"
+            },
+            "reviewBody": "Yes",
+            "datePublished": "2026-02-17T22:22:00.484Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "R"
+            },
+            "reviewBody": "It was good. I added a small amount of broccoli.",
+            "datePublished": "2025-11-15T19:12:18.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "frmewrk"
+            },
+            "reviewBody": "Such a good sandwich! It was also easy to make.",
+            "datePublished": "2025-05-25T00:02:35.368Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ToughUbe9275"
+            },
+            "reviewBody": "Great sandwich! Some are criticizing because the recipe does not include the step to toast the bread. Maybe the list of ingredients has been updated since these comments were made, but it now clearly lists toasted bread there.",
+            "datePublished": "2025-04-03T03:14:06.431Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UpbeatFarro6668"
+            },
+            "reviewBody": "Great, it makes a good BLT just like it says, but the bread is toasted and it’s not in the recipe. You could also make a grilled BLT by buttering the bread and cooking it like a grilled cheese sandwich.",
+            "datePublished": "2025-03-03T17:13:04.231Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BubblyPlum1656"
+            },
+            "reviewBody": "very easy to make I like all the ingredients.",
+            "datePublished": "2024-06-02T02:59:07.987Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SereneMilk9158"
+            },
+            "reviewBody": "i've made before and it was just as good",
+            "datePublished": "2024-05-31T18:37:11.036Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/209578/blt/",
+          "name": "BLT",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                  "name": "Sandwich Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15977/main-dish/sandwiches/bacon-sandwiches/",
+                  "name": "Bacon Sandwich Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

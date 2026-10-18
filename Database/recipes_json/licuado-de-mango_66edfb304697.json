@@ -1,0 +1,351 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/107712/licuado-de-mango/",
+  "extracted_at": "2026-10-18T01:43:54.803174+00:00",
+  "recipes": [
+    {
+      "name": "Licuado de Mango",
+      "ingredients_raw": [
+        "1 mango - peeled, seeded and diced",
+        "1.5 cups milk",
+        "3 tablespoons honey",
+        "1 cup ice cubes"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place mango, milk, honey, and ice cubes into a blender. Cover and blend until smooth. Serve immediately."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Licuado de Mango",
+        "datePublished": "2020-06-18T23:13:43-04:00",
+        "dateModified": "2022-04-29T13:08:28-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "SunFlower"
+          }
+        ],
+        "description": "Every town in Mexico has someone selling licuados, fabulously refreshing drinks. Try experimenting with other fruit!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/s-RO5GBBbcTKz7Ly6gf40Lik_qA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/919158-0a5849a22ea84bc0b132afc45e30bd77.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Licuado de Mango",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.5",
+          "ratingCount": "18"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "255 kcal",
+          "carbohydrateContent": "52 g",
+          "cholesterolContent": "15 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "7 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "78 mg",
+          "sugarContent": "50 g",
+          "fatContent": "4 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeCuisine": [
+          "Mexican"
+        ],
+        "recipeIngredient": [
+          "1 mango - peeled, seeded and diced",
+          "1.5 cups milk",
+          "3 tablespoons honey",
+          "1 cup ice cubes"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place mango, milk, honey, and ice cubes into a blender. Cover and blend until smooth. Serve immediately."
+          }
+        ],
+        "recipeYield": "2",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GodivaGirl"
+            },
+            "reviewBody": "I LOVE mangos!! Don't buy them very often because of their availability and cost. I used agave nectar in place of honey. Refreshing and DELICIOUS! To thicken it up I would cut back on the milk slightly next time."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "little blue penguin chef"
+            },
+            "reviewBody": "I could barely taste the mango, i had to add around 2 cups of orange juice to give it some flavor because what it tasted like was just frothed cold milk with chunks in it",
+            "datePublished": "2018-01-13T01:06:22.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LushUbe2271"
+            },
+            "reviewBody": "This is a good recipe, but I would say to only put 2 teaspoons of honey so it doesn't make it so sweet.",
+            "datePublished": "2023-06-20T14:12:34.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jossy Reyes"
+            },
+            "reviewBody": "I didn't add honey to it until later but I liked the natural mango flavor to it. It wasn't too sweet, it was refreshing and I liked how simple it was to make it",
+            "datePublished": "2020-04-29T20:17:30.210Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fierrce"
+            },
+            "reviewBody": "I thought the honey was too strong. Next time I will try with only 2 tablespoons.",
+            "datePublished": "2015-08-14T14:51:54.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenny"
+            },
+            "reviewBody": "This was a refreshing drink, and could easily be adapted for many tastes. Next time I make it, I think I'll add some more milk and some more ice as I found it pretty thick like a milkshake. I loved that this has so much vitamin A and C, a great way to get my fruit servings in too! Also, next time I might add some strawberries, raspberries or a banana to vary it a little! (This is also known as Batido de Mango in many latin countries!)",
+            "datePublished": "2008-05-14T18:12:21.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ElliexthexCook"
+            },
+            "reviewBody": "I'm not sure if it was the mango or the recipe but this was far from delicious. I could hardly taste the mango as it was drowned in milk. Next time I think I'll use less milk, a better mango and maybe a bit less honey (I could taste way too much of it).",
+            "datePublished": "2009-11-05T13:48:32.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aubrey Burch"
+            },
+            "reviewBody": "Tastes good but too thick",
+            "datePublished": "2015-10-05T16:26:55.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emily Mulinyawe"
+            },
+            "reviewBody": "So good and easy to make with a sweet aftertaste !",
+            "datePublished": "2014-05-12T21:17:50.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "Can't say what accounts for all the reviewer variations in terms of sweetness, degree of flavor, thickness, etc. What I can say is that I made this exactly as written with one, large, very ripe mango and this was awesome good! Thick, creamy, with the full but delicate and refreshing mango flavor. Lightly, pleasantly sweet. And in my mind, at least, a welcome change from the sour tang and often cloying sweetness and richness of similar yogurt based drinks. Loved it.",
+            "datePublished": "2012-11-12T08:17:48.557Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Criscelda"
+            },
+            "reviewBody": "Acch! This did not turn out well for me at all. Like another reviewer, I found that the honey and the milk overpowered everything, and I even put way less honey because of some of the reviews. I couldn't drink it! I ended up adding almond extract, a green apple and a teeny bit of cardamom to salvage it. It turned into an Indian smoothie.",
+            "datePublished": "2011-05-07T19:59:27.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sailshonan"
+            },
+            "reviewBody": "I love mangoes so I really enjoyed this drink. Very good. Highly recommended as is but I might add some key lime juice next time to add a little tartness.",
+            "datePublished": "2009-02-04T08:32:04.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was too sweet for me and I think I dont like the honey in it. Maybe I just dont like mango as much as I thought I did.",
+            "datePublished": "2008-07-16T14:08:37.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PLUR"
+            },
+            "reviewBody": "I'm drinking it right know and i love it!\nIt's a perfect comination of fruityness and sweetness my brother loved it.\nI didn't use honey i used white sugar instead. Although if you don't have much of a sweet tooth you can start with less sugar/honey. =]",
+            "datePublished": "2008-07-05T09:14:31.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David"
+            },
+            "reviewBody": "Was looking for something different to try, and found this. Honestly, one of the best \"fruit smoothie\" type of drinks I have ever had. Made a second batch and added a couple strawberries. YUMMERS!",
+            "datePublished": "2008-05-14T09:51:21.617Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/107712/licuado-de-mango/",
+          "name": "Licuado de Mango",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

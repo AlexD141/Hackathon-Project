@@ -1,0 +1,488 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/125434/grilled-cheese-of-the-gods/",
+  "extracted_at": "2026-10-18T01:49:37.217219+00:00",
+  "recipes": [
+    {
+      "name": "Best Grilled Cheese",
+      "ingredients_raw": [
+        "0.25 cup butter, softened",
+        "1 cup freshly grated Parmigiano-Reggiano cheese",
+        "8 slices cooked bacon",
+        "4 slices Cheddar cheese",
+        "8 slices sourdough bread"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Mash together butter and Parmesan cheese in a small bowl until evenly blended."
+        },
+        {
+          "id": 2,
+          "text": "Make sandwiches by placing two slices of bacon and one slice of Cheddar cheese on half of the bread slices. Top with the remaining slices of bread."
+        },
+        {
+          "id": 3,
+          "text": "Heat a large skillet over medium heat. Spread some of the butter mixture on the top of each sandwich. Place sandwiches butter side down in the skillet. Spread the remaining butter mixture on the other sides. Cook until golden brown on each side, about 3 minutes per side."
+        },
+        {
+          "id": 4,
+          "text": "To serve, cut in half diagonally."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Best Grilled Cheese",
+        "datePublished": "2019-04-03T02:30:40-04:00",
+        "dateModified": "2026-01-22T08:29:48-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "nevadamommy"
+          }
+        ],
+        "description": "This easy grilled cheese sandwich with its crispy Parmesan crust and gooey Cheddar and bacon filling will have you craving for more!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ICeU6n3kGzoTxOV4ONB0q_TpgYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/125434-GrilledCheeseoftheGods-mfs-3x2-067-267097af4d0b446ab646bba044445147.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/cF80jjBP-K3AjnAEN.mp4",
+          "description": "The easy grilled cheese sandwich in this recipe video has a crispy Parmesan crust and a gooey Cheddar and bacon filling, and is simply the best I've ever had! As far as grilled cheese goes, this is it!",
+          "duration": "PT39S",
+          "name": "Best Grilled Cheese Recipe",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/cF80jjBP/poster.jpg?width=1280",
+          "uploadDate": "2022-07-13T11:26:21-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Best Grilled Cheese",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "62"
+        },
+        "cookTime": "PT6M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "510 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "86 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "27 g",
+          "saturatedFatContent": "20 g",
+          "sodiumContent": "1194 mg",
+          "sugarContent": "2 g",
+          "fatContent": "32 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.25 cup butter, softened",
+          "1 cup freshly grated Parmigiano-Reggiano cheese",
+          "8 slices cooked bacon",
+          "4 slices Cheddar cheese",
+          "8 slices sourdough bread"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/CJ8KJcQkiKzsXzv3gpK2SSRJmuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/125434-GrilledCheeseoftheGods-mfs-StepTwo-064-d1f99a74320d41aca42b050c55dd8382.jpg"
+              }
+            ],
+            "text": "Mash together butter and Parmesan cheese in a small bowl until evenly blended."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gm6rCpJFs_xSgrHneLrWRH1eE5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/125434-GrilledCheeseoftheGods-mfs-StepThree-065-7f9217f62e5d42d3885ccf2313c51ba3.jpg"
+              }
+            ],
+            "text": "Make sandwiches by placing two slices of bacon and one slice of Cheddar cheese on half of the bread slices. Top with the remaining slices of bread."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/NykEOSiwOvDV1_nHhuMhkBTQ3n0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/125434-GrilledCheeseoftheGods-mfs-StepFour-066-b8ac21b031ed4f78a12622619477a3a4.jpg"
+              }
+            ],
+            "text": "Heat a large skillet over medium heat. Spread some of the butter mixture on the top of each sandwich. Place sandwiches butter side down in the skillet. Spread the remaining butter mixture on the other sides. Cook until golden brown on each side, about 3 minutes per side."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ICeU6n3kGzoTxOV4ONB0q_TpgYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/125434-GrilledCheeseoftheGods-mfs-3x2-067-267097af4d0b446ab646bba044445147.jpg"
+              }
+            ],
+            "text": "To serve, cut in half diagonally."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 sandwiches"
+        ],
+        "totalTime": "PT16M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Excellent grilled cheese! My husband thinks bacon should be a food group so just about anything with bacon in it he loves and this was no exception. This was definitely a nice twist on regular 'ol grilled cheese and went great with a side of homemade tomato soup! Perfect for a night when you just don't feel like doing a lot of cooking....."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LoyalFlour7810"
+            },
+            "reviewBody": "We use Hellmans mayo instead of butter for grilling the outside of the sandwiches. It adds fantastic flavor and toasts just like traditional butter or margarine. Will never go back to using any other oil for the pan.",
+            "datePublished": "2023-05-12T20:35:50.643Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldenPan1156"
+            },
+            "reviewBody": "Substituted butter with Hellmann's mayo. Cooked in airfryer. So crispy and delicious!",
+            "datePublished": "2023-09-22T18:41:47.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "judys26toys"
+            },
+            "reviewBody": "It's good for starters. I add a slice of Swiss or Mozzarella cheese and Cheddar \ncheese with the bacon in the middle. The kids like that the best,\nand I add thinly sliced onion and tomato and grill it all up with the\nParmesan crust.",
+            "datePublished": "2021-11-13T00:18:42.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HopesterKCL"
+            },
+            "reviewBody": "We have Grilled Cheese and Tomato (or Chicken Noodle) Soup for our \"Date Night/Afternoon Bingo\" at church. We alao have Havarti cheese. Usually Havarti/Cheddar, American/Havarti and of course lots of butter on the bread, but we would use English Muffin Toasting Bread instead of sourdough. Nice and crispy, buttery! We go through lots of \"seconds\" with around 75 sandwiches. Will try the bacon idea and parmesan crust on the bread this time - cannot wait to try them!",
+            "datePublished": "2023-05-12T22:55:39.571Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "1010lisalynn"
+            },
+            "reviewBody": "Super Crunchy Comfort Snack! The crusty yumminess of the butter Parmigiano-Reggiano outside spread was a game changer. No more boring grilled cheese sandwiches in our future!! I made small sandwiches that were more of a tapas style snack rather full-size sandwiches. The changes I made: • Used a long baguette of ciabatta bread and cut ½ slices • Added small slices of yellow onion on top of the cheddar slice",
+            "datePublished": "2024-03-04T05:15:46.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janmauss"
+            },
+            "reviewBody": "I'm tired of \"best\" recipes for common things--ie the \"best\" way to scramble eggs. There may be new tricks, but a grilled cheese sandwich boils down to using a favorite bread, a favorite cheese, and favorite add-ins. I do like the tip for using the parm on the outside of the bread for a crispy outside--but still feel that cheddar is not the best melting cheese for the inside. Colby--now kind of hard to find--was the fave cheese when I was growing up. One of my preferred cheeses these days is pepper jack. Bacon is a yummy add-in, but tomato slices, olives, ham, pesto , chutney, or thin slices of onion are all good, too, although I would suggest limiting the number of additions that will practically fit into a melted sandwich to 1 or 2.",
+            "datePublished": "2023-09-23T19:32:54.991Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lela"
+            },
+            "reviewBody": "An easy quick meal. A great cheese sandwich. The Parmigiano-Reggiano cheese added to the butter was a great addition to a plain grilled cheese. I added 2 pieces of cheese because one piece of cheese was not enough. Per other reviews, I added some butter to my nonstick griddle.",
+            "datePublished": "2024-03-04T02:41:27.484Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "The Parmesan makes a unique “crust” to this sandwich but 1 c is way too much!? I halved it and sprinkled some dry parsley flakes to make the butter/sandwich look pretty. The P.R. is pretty strong and does dominate over the cheddar so either need a sharper cheddar or maybe adding tomato slices will help bring some balance. Really liked this and would make again but won’t replace the good ol’ grilled cheese! Thanks Nevadamommy!",
+            "datePublished": "2021-11-14T19:24:13.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Home Cook Jean"
+            },
+            "reviewBody": "Best grilled cheese sandwich ever! I always make grilled cheese sandwiches with the butter on the outside, but adding Parm took it to another level. I also made it with white American cheese to add a creaminess. Such an easy way to make a favorite even better. I will make my grilled cheese sandwiches this way from now on!",
+            "datePublished": "2023-05-13T17:44:40.246Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cowgirll"
+            },
+            "reviewBody": "Killer! The parm on the outside took these to another level. I used a combo of extra sharp cheddar and American cheese for a great mix of bite and melt. I can't wait to make these again.",
+            "datePublished": "2018-05-30T00:59:23.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pa Bl"
+            },
+            "reviewBody": "Yes, a classic Grilled Cheese Sandwich ... and when adding meat, then it becomes a fusion Grilled Bacon Cheese Sandwich and by now, it's been proven that a proper Grilled Cheese Sandwich ALWAYS starts by toasting one side of the bread that will go on the INSIDE of the sandwich to prevent a soggy cheesy sandwich, then assembled and finished on the outside.",
+            "datePublished": "2026-03-05T03:55:19.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margaret"
+            },
+            "reviewBody": "I left out the bacon, but they were really good. So much better than using just butter on outside.",
+            "datePublished": "2024-09-14T14:48:05.134Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly A Keener"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-04-26T00:32:53.634Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Faith N"
+            },
+            "reviewBody": "This was delicious. All 3 of my guys enjoyed it. Very rich but good. We made it twice. The second time, I added in American Cheese as well, to make it cheesier.",
+            "datePublished": "2024-02-27T02:45:55.869Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "This sandwich needs one thing…MORE cheese. When I eat a grilled cheese sandwich, I want to see the cheese oozing out of it, and that just didn’t happen. The bacon was a tasty addition, and the cheesy-butter spread was certainly different. I used Country French bread which crisped up nicely.",
+            "datePublished": "2024-02-15T17:10:24.675Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy"
+            },
+            "reviewBody": "I used a regular aluminum skillet. The sandwich stuck. :( I switched to a non-stick pan with a little butter melted in it-and then it was fine. I now noticed the video shows placing some butter in the skillet first as well. I found the cheddar cheese not to be gooey. It was a good sandwich and I served it with tomato soup. :) Next time I may try a different type of cheese, etc. with the parmesan/butter spread on the outside of the bread. Thank you for the receipe!!",
+            "datePublished": "2023-09-26T04:00:35.609Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chester Jefferson"
+            },
+            "reviewBody": "I promise you once you trust this, you will never change 23.…………Mr. Chester Jefferson…….",
+            "datePublished": "2023-09-24T08:46:12.636Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chefpetey"
+            },
+            "reviewBody": "There are only 3 words for Grilled Cheese: FONTINA FONTINA FONTINA",
+            "datePublished": "2023-09-22T17:29:19.612Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rosemary Yull"
+            },
+            "reviewBody": "Good alternative but I use Mayo on both outside surfaces of bread. More flavorful. But I DO MOT like the use of AI narration.",
+            "datePublished": "2023-09-22T16:49:29.368Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/125434/grilled-cheese-of-the-gods/",
+          "name": "Best Grilled Cheese",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+                  "name": "Sandwich Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1884/main-dish/sandwiches/grilled-cheese/",
+                  "name": "Grilled Cheese"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

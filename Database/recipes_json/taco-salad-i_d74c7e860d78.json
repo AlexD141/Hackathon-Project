@@ -1,0 +1,480 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14253/taco-salad-i/",
+  "extracted_at": "2026-10-18T01:58:19.877085+00:00",
+  "recipes": [
+    {
+      "name": "Taco Salad",
+      "ingredients_raw": [
+        "1 pound lean ground beef",
+        "1 (16 ounce) can chili beans",
+        "1 (16 ounce) bottle French dressing",
+        "1 (1.25 ounce) package taco seasoning mix",
+        "1 (14.5 ounce) package tortilla chips",
+        "1 head iceberg lettuce, shredded",
+        "2 cups shredded Cheddar cheese",
+        "1 cup chopped tomatoes",
+        "0.5 cup prepared salsa",
+        "4 tablespoons sour cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Stir in chili beans, salad dressing, and seasoning mix. Fill the empty dressing bottle 2/3 full of water and add to the skillet. Bring to a boil, reduce heat, and simmer for 15 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Crush the bag of chips, open the bag, and toss crushed chips into a large bowl."
+        },
+        {
+          "id": 3,
+          "text": "Add cheese, and tomatoes. Pour meat mixture into the bowl; mix well."
+        },
+        {
+          "id": 4,
+          "text": "Fill a bowl with lettuce. Top with meat mixture, salsa, and sour cream. Serve warm and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Taco Salad",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2026-03-27T15:28:18-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Denise Williamson"
+          }
+        ],
+        "description": "This taco salad is loaded with chili beans, spicy ground beef, crunchy tortilla chips, salsa, and cheese served on lettuce for a flavorful meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/wQCrv01gJqlIFM1AnCjODW3fZ0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14253-Taco-Salad-ddmfs-016-4x3-1-8c152400b3a2465fbaff684bdda0a264.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/XnB4clUP-ma1DlVvV.mp4",
+          "description": "AR0706",
+          "duration": "PT4M2S",
+          "name": "Taco Salad I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/XnB4clUP/poster.jpg?width=1280",
+          "uploadDate": "2021-06-23T06:59:24-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Taco Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "500"
+        },
+        "cookTime": "PT20M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "846 kcal",
+          "carbohydrateContent": "60 g",
+          "cholesterolContent": "70 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "1580 mg",
+          "sugarContent": "14 g",
+          "fatContent": "57 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "Tex-Mex"
+        ],
+        "recipeIngredient": [
+          "1 pound lean ground beef",
+          "1 (16 ounce) can chili beans",
+          "1 (16 ounce) bottle French dressing",
+          "1 (1.25 ounce) package taco seasoning mix",
+          "1 (14.5 ounce) package tortilla chips",
+          "1 head iceberg lettuce, shredded",
+          "2 cups shredded Cheddar cheese",
+          "1 cup chopped tomatoes",
+          "0.5 cup prepared salsa",
+          "4 tablespoons sour cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/qJ2SEYeO-RBfZJLK_68eeFvy0VQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14253-Taco-Salad-ddmfs-009-step2-7a6dfd6c710b4570b69f91db49170151.jpg"
+              }
+            ],
+            "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Stir in chili beans, salad dressing, and seasoning mix. Fill the empty dressing bottle 2/3 full of water and add to the skillet. Bring to a boil, reduce heat, and simmer for 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/yzph6P9T3fXIRV3NYri8vNL0hl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14253-Taco-Salad-ddmfs-010-step3-e85aab3478684f328c4d5fc6bdfcd685.jpg"
+              }
+            ],
+            "text": "Crush the bag of chips, open the bag, and toss crushed chips into a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/xkby-Bq3stD_MYKxHLXItQEicV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14253-Taco-Salad-ddmfs-012-step5-a77fd4ae74b44afebe753e17ea2f9a72.jpg"
+              }
+            ],
+            "text": "Add cheese, and tomatoes. Pour meat mixture into the bowl; mix well."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/wQCrv01gJqlIFM1AnCjODW3fZ0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14253-Taco-Salad-ddmfs-016-4x3-1-8c152400b3a2465fbaff684bdda0a264.jpg"
+              }
+            ],
+            "text": "Fill a bowl with lettuce. Top with meat mixture, salsa, and sour cream. Serve warm and enjoy!"
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LWIETHE"
+            },
+            "reviewBody": "I like this recipe alot because it is different, although I fix it differently than above, and this taco salad is a huge hit at all my family gatherings. My family expects it. I use Catalina dressing only, and I add Doritos to instead of plain chips (nacho flavor is the best but you can use any flavor) I also omit the sour cream and add black olives. Instead of putting the dressing with the meat, I mix it all except the dressing and the Doritos, then mix while serving so the chips don't get soggy. Delicious!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Butterfly Flutterby"
+            },
+            "reviewBody": "Omgoodness, we ate too much of this! First of all, we browned the the beef with onion and used homemade taco seasoning (Taco Seasoning I) from this site. We omitted the beans. We did add water to simmer the meat. Then we had chopped green onions, chopped tomatoes, shredded cheese, bagged, shredded lettuce, salsa and sour cream to build our taco salad. We had fritos instead of tortilla chips. I sat out the Catalina dressing so that everyone could control the amount. We used fat free sour cream, cheese and catalina dressing. We tried to make this as healthy as possible. This was delicious!",
+            "datePublished": "2005-09-07T15:43:17.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PONTIACGIRL71"
+            },
+            "reviewBody": "I make this same recipe but I don't cook the dressing in the hamburger mixture and I omit the chili beans. I mix everything up (hamburger cooled) and pour the dressing over the salad fixings and combine - I also use crushed nacho cheese Dorito's instead of tortilla chips.",
+            "datePublished": "2005-09-30T10:07:29.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MELANIE L"
+            },
+            "reviewBody": "I made this for a cookout this past weekend and everyone loved it. I did make a few changes. I browned the hamburg and added the taco seasoning as directed on the package. Then let it cool. I added in Catalina dressing, about 3/4 of the bottle, to the salad not in with the meat. I used kidney beans, added some red onion, and crushed Doritos (instead of plain tortilla chips) over the top so they didn't get too soggy mixed in. I also left out the salsa and sour cream. Definitely will make it again. FYI- the salad fills a 13x9 aluminum pan.",
+            "datePublished": "2012-08-30T08:53:32.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joann Finley"
+            },
+            "reviewBody": "Really enjoyed this. I made some substitutions to healthy it up just a bit. Used ground turkey, half a packet of reduced sodium taco seasoning, and maybe 1/3 of the bottle of dressing instead of the whole thing. I didn’t add water. I threw in some black olives because I had them on hand. I also used Greek yogurt instead of sour cream. Oh, and I used Catalina dressing. Very good, and I was surprised by the Catalina dressing - it added just a bit of a tang that was really yummy!",
+            "datePublished": "2018-03-27T03:01:04.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Margaret A Schwarz"
+            },
+            "reviewBody": "I combined the beef, beans, and taco seasoning with some chopped onions and a little water and brown that up. I used1/2 catalina and 1/2 thousand island dressing. To keep it from wilting, I had the lettuce on the cutting board, shredded cheddar cheese on the side, chopped up tomatoes in another bowl, and broken up Doritos in another bowl. Then I have a \"mix\" bowl handy and keep all ingredients separate..my family makes up their own individual taco salad in the mix bowl and transfers it to their plates. That way, when the meal is over and if there are left-overs I can store everything in separate containers and the chips and lettuce don't get soft.",
+            "datePublished": "2014-04-17T08:52:03.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Derik S"
+            },
+            "reviewBody": "I doubled this recipe to serve 8 people as a dinner main. I'm glad I did, everyone went for 2nd's and then we ran out. it was delicious. I used Famous Taco Seasoning recipe in place of store bought taco seasoning and omitted the flour, My daughter has Celiac, and can't have any gluten, I only used 1/4 the French dressing and let everyone put on more if they wanted to. I also used sweet yellow tomato and a pinch of chili flakes for some heat in place of pepper sauce because that's what I had on hand. I also left everything separate from the meat mixture and tossed each individual serving as I plated it to keep things from getting soggy. I will definitely make this again. Probably on a regular basis.",
+            "datePublished": "2016-01-05T18:21:01.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allie Wilson"
+            },
+            "reviewBody": "Finally found the recipe that my mother used growing up that she got out of a magazine, or at the very least almost identical! The only changes she made was that she used Frito's instead of Doritos chips because they held up better under the moisture so they stayed crunchy long enough to finish eating and she used a drained can of kidney beans instead of chili beans. I do think she added the salad dressing cold or room temp to the lettuce mixture and maybe used half the amount called for here. Then waited until right before serving to add the chips. But overall this is most definitely the closest recipe I have found to hers! We loved it! O think it was in good housekeeping or something, I don't remember. She was always getting simple, yummy recipes from her magazines and playing with them lol.",
+            "datePublished": "2019-03-04T00:25:19.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michi Ilundaria"
+            },
+            "reviewBody": "Love this recipe, my mother used to make this for us when we were kids back in the 1980's. I make it for my family now as well :) The only thing that I do different is technique wise.. I set it up like a taco bar, so individuals can put the meat on with or without beans, choose their own dressing, and they can go with Dorito Nacho Flav, or plain yummy tortillas, whatever floats their boat :) The great thing about this recipe is it is sooo versatile! Everyone can walk away happy!",
+            "datePublished": "2017-07-12T00:52:39.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kat Bresler"
+            },
+            "reviewBody": "Delicious. I added a half of a small chopped onion to the ground beef while browning. I also roasted three ears of corn, knifed off the cobb and added to the salad. I noticed the dressing was a little watery, next time I wont add as much water, the dressing alone should be enough. Otherwise, loved it.",
+            "datePublished": "2017-03-25T01:55:57.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LisaB"
+            },
+            "reviewBody": "This recipe is amazing! We have made it several times. However, this last time, we decided to leave out the lettuce and chips from the rest and add as needed to each serving. This allows for fresh lettuce and crunchy chips for left overs!!!",
+            "datePublished": "2019-08-19T22:19:57.297Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NHunter"
+            },
+            "reviewBody": "I liked it, but my husband wanted more crunch. 🤷🏻‍♀️",
+            "datePublished": "2026-07-14T23:34:43.449Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "Good turnout, delicious. Next time I will add more taco seasoning.",
+            "datePublished": "2026-06-14T15:27:13.726Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Arndrea"
+            },
+            "reviewBody": "I make this dish with most of the ingrediates. In place of the salad dressing I use sour cream and mix taco sauce &amp; chipotle peppers together for a sauce. I like to use eithere ground pork, or I will cut of chicken breast. I also like to make a pica de gallo. I also use separately either red kidney beans or black beans.",
+            "datePublished": "2026-05-12T19:16:08.139Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NobleDill5989"
+            },
+            "reviewBody": "Omitted the dressing, and used medium spiced chili beans.",
+            "datePublished": "2025-07-20T01:44:40.984Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BriefLox2994"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-30T16:31:30.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RosySyrup4012"
+            },
+            "reviewBody": "Very good. Nice for a change of pace. Gotta try new things!",
+            "datePublished": "2025-03-28T21:09:42.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CyanDill4609"
+            },
+            "reviewBody": "tasted amazing must try again",
+            "datePublished": "2025-01-15T16:30:59.422Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RubyDonut3833"
+            },
+            "reviewBody": "Nothing worse than warm lettuce! This would be good if the lettuce was added later as the final topping.",
+            "datePublished": "2024-12-30T17:40:07.755Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelly McAlister"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-11-15T00:00:38.950Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14253/taco-salad-i/",
+          "name": "Taco Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

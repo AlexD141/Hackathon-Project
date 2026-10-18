@@ -1,0 +1,525 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/19389/greek-orzo-salad/",
+  "extracted_at": "2026-10-18T02:34:27.426175+00:00",
+  "recipes": [
+    {
+      "name": "Greek Orzo Salad",
+      "ingredients_raw": [
+        "1.5 cups uncooked orzo pasta",
+        "2 (6 ounce) cans marinated artichoke hearts",
+        "1 cucumber, seeded and chopped",
+        "1 tomato, seeded and chopped",
+        "1 red onion, chopped",
+        "1 cup crumbled feta cheese",
+        "1 (2 ounce) can black olives, drained",
+        "0.25 cup chopped fresh parsley",
+        "1 tablespoon lemon juice",
+        "0.5 teaspoon dried oregano",
+        "0.5 teaspoon lemon pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain."
+        },
+        {
+          "id": 2,
+          "text": "Drain artichoke hearts, reserving liquid."
+        },
+        {
+          "id": 3,
+          "text": "Gather prepared ingredients together."
+        },
+        {
+          "id": 4,
+          "text": "Combine pasta, artichoke hearts, cucumber, tomato, onion, feta, olives, parsley, lemon juice, oregano, and lemon pepper in a large bowl; toss well. Chill in the refrigerator for 1 hour."
+        },
+        {
+          "id": 5,
+          "text": "Just before serving, drizzle reserved artichoke marinade over salad."
+        },
+        {
+          "id": 6,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Greek Orzo Salad",
+        "datePublished": "2000-04-18T23:05:59-04:00",
+        "dateModified": "2025-10-15T10:22:58-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Patrice"
+          }
+        ],
+        "description": "This easy orzo salad is packed with cucumber, feta, tomato, artichokes, and olives for a colorful summer pasta salad full of Greek flavors.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/Fwz-qftLEh-uF2dgfBQtbHRJu34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-DDMFS-4x3-cb717c193999442da9ace12071c2d86a.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/Ofz6rFGC-K3AjnAEN.mp4",
+          "description": "This colorful pasta salad with bright citrus flavors will be your go-to summer salad, especially because it’s so easy to mix up and dress on short notice. Combine orzo pasta with artichoke hearts, tomato, cucumber, onion, feta, black olives, parsley, lemon juice, oregano and lemon pepper and chill for an hour. Toss with artichoke brine to heighten the Mediterranean flavors and serve. Accompanies chicken or shrimp very well. ",
+          "duration": "PT1M11S",
+          "name": "Greek Orzo Salad",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Ofz6rFGC/poster.jpg?width=1280",
+          "uploadDate": "2021-07-06T00:20:39-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Greek Orzo Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "636"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "393 kcal",
+          "carbohydrateContent": "57 g",
+          "cholesterolContent": "22 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "968 mg",
+          "sugarContent": "7 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Greek"
+        ],
+        "recipeIngredient": [
+          "1.5 cups uncooked orzo pasta",
+          "2 (6 ounce) cans marinated artichoke hearts",
+          "1 cucumber, seeded and chopped",
+          "1 tomato, seeded and chopped",
+          "1 red onion, chopped",
+          "1 cup crumbled feta cheese",
+          "1 (2 ounce) can black olives, drained",
+          "0.25 cup chopped fresh parsley",
+          "1 tablespoon lemon juice",
+          "0.5 teaspoon dried oregano",
+          "0.5 teaspoon lemon pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/hQdWV0JGOBdcFiPb4hZD3GjnOds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-mfs-step1-090-4x3-337e032ea85a48609f74b9374e3bb4bb.jpg"
+              }
+            ],
+            "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/B_vrheDxzFrkT3koKLoX_pnqWvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-mfs-step2-093-4x3-c374e78d64ac4974a027c7aaf5108401.jpg"
+              }
+            ],
+            "text": "Drain artichoke hearts, reserving liquid."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ctmhsckSDiU7fTNyMMaFfdXTwds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-mfs-step4-098-4x3-b4388742b560416998f950f6976802dd.jpg"
+              }
+            ],
+            "text": "Gather prepared ingredients together."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/UGCTQ2DxAuqau6mbH93Pg4SUhiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-mfs-step5-101-4x3-68dfdab658ae480dac9339e25450e0ab.jpg"
+              }
+            ],
+            "text": "Combine pasta, artichoke hearts, cucumber, tomato, onion, feta, olives, parsley, lemon juice, oregano, and lemon pepper in a large bowl; toss well. Chill in the refrigerator for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/iddD7Oq4-49NbKqwVp38H5Pw04Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-mfs-step6-104-4x3-ff357d379f6b4e6ba53ed8d9c92d6d82.jpg"
+              }
+            ],
+            "text": "Just before serving, drizzle reserved artichoke marinade over salad."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Fwz-qftLEh-uF2dgfBQtbHRJu34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19389-greek-orzo-salad-DDMFS-4x3-cb717c193999442da9ace12071c2d86a.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT85M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dining Diva"
+            },
+            "reviewBody": "Instead of using the artichoke marinade. Use 6 tbsp olive oil, \n5 tbsp red wine vinegar, 1 tablespoon lemon juice and 2 teaspoon dried oregano"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CARRIANNE22"
+            },
+            "reviewBody": "I gave this 5 stars...after I made some changes. I added about 1/2 c. of a good italian dressing and about 1/4 c. of red wine vinegar to spice it up a little. Now it is AMAZING. Everyone loved it!! I made the orzo and mixed it with the dressing, vinegar, lemon and spices the day before and then added the veggies the morning of. Very good and very pretty!",
+            "datePublished": "2005-05-20T06:30:52.903Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KARIDGES"
+            },
+            "reviewBody": "This is my #2 all time fave from this site, second only to the Brown Sugar Meatloaf. As are many others, I am guilty to modifications based on what I have in the house, as well as taste preferences. I am into easy prep and finding shortcuts, so I used an English cucumber and didn't remove the seeds, and the tomatos were those cute baby grape tomatoes, cut in half (used approx 20); no seed removal there also. Thanks to the advice of other reviewers here, I purchased bottled Greek dressing, and tossed in 1/2 cup. On the first try I only used 1/4 red onion, but I will upgrade that next time to 1/2. I would also double the lemon pepper, and add more salt (I use sea salt) and a liberal dose of freshly ground black pepper. Definitely more lemon... I will juice a full lemon next time...lemon is a leading flavor in authentic Greek cuisine, and 1 T is WAY too short. Also tossed in some sliced Greek pepperoncini (found in the condiment aisle near the olives), approx 1/4 cup. This is FABULOUS, and gets even better overnight. It is also very pretty and colorful when served in a glass bowl. Again, a keeper. Husband, kids, and picky grandkids ALL loved it. Thanks to the original submitter of this recipe. LoveLoveLove this!!!!!!",
+            "datePublished": "2007-09-29T18:38:09.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catherine Anna Volk"
+            },
+            "reviewBody": "I made this for our garden club meeting yesterday with a few modifications. Everyone loved it! I had several requests for the recipe. I added a half cup of Ken’s Greek vinaigrette to the orzo after draining it for more flavor, and waited for this to cool before adding the other ingredients. I used halved cherry tomatoes and sliced Kalamata olives, then soaked the chopped red onion in cold water for fifteen minutes and drained them before adding them to the orzo. I also substituted a 1/4 cup of white wine instead of the artichoke marinade an hour before serving, and added another splash of the Greek vinaigrette as it was a bit too tart and dry at that point. It is a keeper!",
+            "datePublished": "2024-02-15T17:46:57.896Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbara Adamczyk"
+            },
+            "reviewBody": "Tastes really good, but it does make a lot - way more than six servings! Like others, I used a good bottled Greek Salad dressing (not a creamy one made with yogurt, but an oil and vinegar based one with feta cheese and Greek spices) instead of using the artichoke brine. I used sliced kalamata olives, halved grape tomatoes, and English cucumbers so that I didn't need to seed them. I doubled the feta, cucumbers, tomatoes and olives, and gave it an extra tablespoon of lemon juice and a splash of white wine vinegar, as the salad dressing didn't seem to have enough oomph. I think that refrigerating it overnight melded the flavors together well. It was very popular at my potluck BBQ!",
+            "datePublished": "2019-04-20T16:07:57.863Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ladyblue999"
+            },
+            "reviewBody": "This is a great recipe. It seemed a bit bland so I added 3 tablespoons of Mediterranean salad dressing (Aldi's) to give it some zest. Perfect!",
+            "datePublished": "2022-08-04T19:54:26.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Valerie Imdacha"
+            },
+            "reviewBody": "I am rating this based on the suggested changes and my own changes. I am currently eating low carb (kind of a dirty keto woe) and used riced cauliflower(made twice once baking the riced cauliflower and once just straight out of the bag- loved both) instead of orzo pasta. I also used the dressing from Dining Diva- Instead of using the artichoke marinade. Use 6 tbsp olive oil, 5 tbsp red wine vinegar, 1 tablespoon lemon juice and 2 teaspoon dried oregano. And did 1/2 black olives and 1/2 kalamata olives. It was amazing and very keto/low carb friendly.",
+            "datePublished": "2019-07-19T16:15:49.790Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VeganJo"
+            },
+            "reviewBody": "I have made this in the past with the ingredients listed and it was fabulous. This time around I found myself with no tomatoes (I know, a sin in my house) so I substituted with roasted red bell peppers. I also added a package of smoked salmon ...so good ...I have so many leftovers that meal planning for work this week will be a breeze!",
+            "datePublished": "2022-10-09T23:37:22.875Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "I made a Greek dressing using lemon juice and olive oil, garlic, oregano, salt and pepper. I also added Garbanzo beans to up the protein for my vegetarian son. Yummy!",
+            "datePublished": "2025-07-06T21:50:41.009Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie Towery-Haines"
+            },
+            "reviewBody": "This was good...i did make a few changes...i used both fresh parsley and oregano...peeled the cucumber...used grape tomatoes...green olives instead of black..only 1 can of artichoke hearts and i did NOT use the juice from the can instead i used about 1/4c of greek salad dressing. It was great. My daughter didnt care for the texture of the orzo but loved the taste...i think this could also be good using about 3c of couscous in place of the orzo.",
+            "datePublished": "2022-09-02T20:25:33.782Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jilly"
+            },
+            "reviewBody": "This was delicious and very simple... a great make-ahead dish. I used leftover orzo, and my small changes were to use kalamata olives instead of black, Greek dressing instead of the marinade from the artichokes, two seeded Roma tomatoes, and a shallot instead of a red onion. I also used fresh herbs from our garden. I cut all the veggies pretty finely for consistency, and it turned out to be a light and tasty early summer meal. you could easily add marinated shrimp or chicken for a heartier version, but this suited us just fine. Hubby and I agree... it's a keeper!",
+            "datePublished": "2019-05-06T23:37:07.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ProudMeat5347"
+            },
+            "reviewBody": "Added sliced pepperocini peppers and chopped dry salami for a spicy bite.",
+            "datePublished": "2026-06-17T01:09:43.309Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms_vee"
+            },
+            "reviewBody": "Great recipe.. I also added marinated roasted red peppers and used bottled Greek salad dressing.",
+            "datePublished": "2025-11-12T02:54:12.139Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Albertacook860a"
+            },
+            "reviewBody": "I liked it, didn’t have any problem with using the artichoke oil as a dressing. Just taste to adjust seasoning before serving, as normal. Great pot luck salad.",
+            "datePublished": "2025-07-12T14:02:49.626Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RuRu"
+            },
+            "reviewBody": "I made this exactly as written and it is delicious!",
+            "datePublished": "2025-07-11T19:47:49.623Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Britt Goodman"
+            },
+            "reviewBody": "I didn't have tomatoes so I followed the suggestion of using roasted red bell peppers instead. Great suggestion! Next time I will use both.",
+            "datePublished": "2025-06-22T15:51:19.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jami"
+            },
+            "reviewBody": "I use greek salad dressing, omitting the artichoke marinade. Turns or perfect every time!",
+            "datePublished": "2025-06-20T21:25:10.579Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kenzie"
+            },
+            "reviewBody": "As written it is dry and blah. It needs seasonings and olive oil.",
+            "datePublished": "2025-06-17T01:54:14.078Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedMiso8426"
+            },
+            "reviewBody": "This was a wonderful side dish option. I used fresh lemon juice and pepper, not lemon pepper. Delicious!",
+            "datePublished": "2025-06-14T16:19:09.379Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BJB"
+            },
+            "reviewBody": "A couple of changes:I had grape tomatoes handy so used them, 4 color. I also put in some chopped stuffed Green Greek olives. Was great for dinner with a simple cheese burger. So much lighter than any Mayo based salad. I had a small bowl for lunch the next day and realized how much the Feta had taken on the marinade... delicious. 5 Stars, from me that's unusual.",
+            "datePublished": "2025-05-08T16:03:32.278Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/19389/greek-orzo-salad/",
+          "name": "Greek Orzo Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/95/pasta-and-noodles/",
+                  "name": "Pasta and Noodles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/521/pasta-and-noodles/pasta-by-shape/",
+                  "name": "Pasta by Shape Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/561/pasta-and-noodles/pasta-by-shape/orzo/",
+                  "name": "Orzo Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

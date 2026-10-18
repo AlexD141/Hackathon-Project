@@ -1,0 +1,233 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220550/easy-grilled-tuna/",
+  "extracted_at": "2026-10-18T03:10:38.158700+00:00",
+  "recipes": [
+    {
+      "name": "Easy Grilled Tuna",
+      "ingredients_raw": [
+        "2 (6 ounce) tuna steaks, about 1 inch thick",
+        "1 cup Italian-style salad dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place tuna steaks with Italian dressing in a bowl, coating both sides; marinate in refrigerator for 20 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Preheat outdoor grill for medium-high heat, and lightly oil the grate."
+        },
+        {
+          "id": 3,
+          "text": "Grill tuna on the preheated grill until tuna lightens in color but retains a thin line of pink in the center, about 5 minutes on each side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Easy Grilled Tuna",
+        "datePublished": "2012-03-09T18:48:11-05:00",
+        "dateModified": "2022-01-12T14:27:05-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Steph"
+          }
+        ],
+        "description": "With just Italian dressing and a couple tuna steaks, you can have a quick and easy grilled dinner in under 30 minutes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/mu3YpuhSU32U39icnZk8xWYlpL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9338206-b03f7b9a321d403ba4bc11ef704353aa.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Easy Grilled Tuna",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "5"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "527 kcal",
+          "carbohydrateContent": "12 g",
+          "cholesterolContent": "77 mg",
+          "proteinContent": "40 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "2006 mg",
+          "sugarContent": "10 g",
+          "fatContent": "35 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "2 (6 ounce) tuna steaks, about 1 inch thick",
+          "1 cup Italian-style salad dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place tuna steaks with Italian dressing in a bowl, coating both sides; marinate in refrigerator for 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat outdoor grill for medium-high heat, and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grill tuna on the preheated grill until tuna lightens in color but retains a thin line of pink in the center, about 5 minutes on each side."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monique Keith"
+            },
+            "reviewBody": "I cut the C. pepper in half to cut down the hotness level, My family loved it!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Eileen Willis Heidrich"
+            },
+            "reviewBody": "Quick, easy and tasty!",
+            "datePublished": "2020-06-07T22:51:14.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michael A Hogan"
+            },
+            "reviewBody": "Great taste lo cal",
+            "datePublished": "2018-10-28T02:04:39.753Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CanadjinEh"
+            },
+            "reviewBody": "Yep, it's simple, just what I was looking for. Also, it's best not to ruin fresh tuna with too many strong flavours hiding it. Tasty and the husband really liked it - he's not really a fish fan. I didn't use nearly the amount of dressing that was called for as it's unnecessary. A couple tablespoons underneath the steaks in a flat pie plate and a tablespoon poured over the top of each and gently rubbed onto the edges too does fine. We didn't have anything to oil our grill with so used a grill basket (greased with a paper towel with EVOO on it). I also like Tuna a la Veracruzana, another easy option.",
+            "datePublished": "2018-07-23T03:16:29.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan Miller"
+            },
+            "reviewBody": "I marinated the tuna steaks overnight and they literally \"melted in your mouth\". Good thing I made twice as many as I thought I needed because everyone wanted another!",
+            "datePublished": "2018-06-20T16:00:42.640Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220550/easy-grilled-tuna/",
+          "name": "Easy Grilled Tuna",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/93/seafood/",
+                  "name": "Seafood"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+                  "name": "Fish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/415/seafood/fish/tuna/",
+                  "name": "Tuna"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

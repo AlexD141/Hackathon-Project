@@ -1,0 +1,483 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/158854/chinese-buffet-green-beans/",
+  "extracted_at": "2026-10-18T02:17:45.171263+00:00",
+  "recipes": [
+    {
+      "name": "Chinese Garlic Green Beans",
+      "ingredients_raw": [
+        "1 tablespoon oil, peanut or sesame",
+        "2 cloves garlic, thinly sliced",
+        "1 pound fresh green beans, trimmed",
+        "2 tablespoons oyster sauce",
+        "1 tablespoon white sugar",
+        "2 teaspoons soy sauce"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in a wok or large skillet over medium-high heat. Stir in garlic; cook until edges begin to brown, about 20 seconds."
+        },
+        {
+          "id": 3,
+          "text": "Add green beans; cook and stir until they begin to soften, about 5 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in oyster sauce, sugar, and soy sauce."
+        },
+        {
+          "id": 5,
+          "text": "Cook and stir until beans have attained the desired degree of tenderness, 2 to 4 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Chinese Garlic Green Beans",
+        "datePublished": "2020-06-18T23:33:54-04:00",
+        "dateModified": "2025-12-04T10:44:46-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "roweena"
+          }
+        ],
+        "description": "These Chinese garlic green beans are quickly stir-fried with garlic and tossed with a sweet and savory sauce until tender and lightly crisp for an easy side.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PRoi7f6LIaMMQbQ5BHu-M3ovXBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-158854-Chinese-Buffet-Green-Beans-DDMFS-4x3-84906e64ca9f40d99c06d54ad4730eb9.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Chinese Garlic Green Beans",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "405"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "55 kcal",
+          "carbohydrateContent": "8 g",
+          "fiberContent": "3 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "0 g",
+          "sodiumContent": "141 mg",
+          "sugarContent": "3 g",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon oil, peanut or sesame",
+          "2 cloves garlic, thinly sliced",
+          "1 pound fresh green beans, trimmed",
+          "2 tablespoons oyster sauce",
+          "1 tablespoon white sugar",
+          "2 teaspoons soy sauce"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/nt2gQG795QbyvoChiHPf5Eq_kLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-158854-Chinese-Buffet-Green-Beans-DDMFS-Step-01-0b2aa1376d714c4f9a2b541b8b5f0062.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_nrNnxq9Fc4zXaWB-lkXpZWQ12c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-158854-Chinese-Buffet-Green-Beans-DDMFS-Step-02-d43618cdbd5f41febf24169750838009.jpg"
+              }
+            ],
+            "text": "Heat oil in a wok or large skillet over medium-high heat. Stir in garlic; cook until edges begin to brown, about 20 seconds."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/mTvxlhkQbvdcRlBHRSLGNEM62Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-158854-Chinese-Buffet-Green-Beans-DDMFS-Step-03-1f8ee13a1d064ac88164b5eefa632b1a.jpg"
+              }
+            ],
+            "text": "Add green beans; cook and stir until they begin to soften, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/STgfx78g2EtofO8m8VdNjqm-NFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-158854-Chinese-Buffet-Green-Beans-DDMFS-Step-04-73ccbef01b284b528ec70116cda0390e.jpg"
+              }
+            ],
+            "text": "Stir in oyster sauce, sugar, and soy sauce."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zIoYGM8mdBa9dd3H78FlZvjfU3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-158854-Chinese-Buffet-Green-Beans-DDMFS-Step-05-29669642702d4a6dbed42c23b3122224.jpg"
+              }
+            ],
+            "text": "Cook and stir until beans have attained the desired degree of tenderness, 2 to 4 minutes."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "roweena"
+            },
+            "reviewBody": "**IMPORTANT NOTE** Thanks to everyone who has tried this recipe! After reading all of the comments I think it is important to note that there can be a BIG difference between the \"asian\" store and \"american\" store version of your ingredients. I know that most american versions of soy sauce have a lot more salt, so I am assuming the american version of oyster sauce is also a bit different. We only use the asian store version for all of our ingredients, which is pretty close, if not sometimes the same brand, that they use in the restaurants. So if it didn't turn out for you the first time, try making a stop into your local asian grocer and try again :) ** And for some reason allrecipes changed my cooking instructions, but you do want to turn down down the heat a little once you add in the sauces to prevent burning and my beans actually take closer to 10 mins to cook to my desired tenderness. **"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "I read the reviews, and there was a consistency of comments on a few things like the garlic burning, too sweet, and not cooking long enough. I knew I had to modify a few things, so I chose to steam my green beans in the microwave for 2 minutes, and then move them to a skillet with some olive oil over medium heat. Cooked for just a couple minutes, added the very thin garlic slices for about 30 seconds, then stirred in the sauce where I’d cut back on the sugar. My garlic slices were too thin, so next time, I’ll cut a bit thicker. These beans were so very good, and they’re actually much tastier than they appear in my photo where I used overly-ripe green beans (my bad). This one’s a keeper.",
+            "datePublished": "2024-04-13T12:32:47.411Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa in Phoenix"
+            },
+            "reviewBody": "Yum! I can’t say that I’ve ever had Chinese buffet green beans before, but will certainly try them if I ever go to one. I was just looking for a new way to make green beans and these were a huge hit. I used minced garlic since that is what I had on-hand but since I will make again, I’ll try sliced garlic next time as that is what was recommended. I’m glad one reviewer called out the issue with cold oyster sauce, so I know to warm it up before adding to the pan. UPDATE: The next time I made these, I boiled the green beans for 5 min first then fried them for 5 min as instructed and they were more to our familiy’s liking. Also, since the oyster sauce was cold, I measured out 2 tbls and mixed in 1 tbls of soy sauce and let come to room temperature so it would not congeal when it hit the hot pan. Sliced up 4 garlic cloves which I added during the last 30 seconds so it wouldn’t burn and It was perfection. This will now be in the regular rotation for dinner.",
+            "datePublished": "2018-07-21T16:26:28.177Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sunnie"
+            },
+            "reviewBody": "This recipe was delicious and was just what I was looking for. I included them in our Christmas dinner and everyone loved them. I did add an extra 1 - 2 cloves of garlic. Also, I blanched the beans by boiling them for about 3 minutes, shocked them in cold water/ice bath, then let them thoroughly drain. (They probably could have used another 2 minutes in the boiling water.) When I added the beans to the sauce mix in the wok, they only needed to be heated. Still, it took a while to get them hot. Next time, I might pop the beans in the microwave for a minute to get them hot and then add them to the sauce. Will make again!",
+            "datePublished": "2017-12-27T01:20:51.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jake"
+            },
+            "reviewBody": "I made this recipe 3 times as written and it just does not work. I found it impossible to cook the beans to tenderness in a skillet. Instead on the 4th attempt I blanched 1 2/3 # in the microwave with a bit of water in a covered casserole, for 12 minutes. I then followed the directions only omitting the sugar. This time they were excellent!",
+            "datePublished": "2018-08-15T21:23:52.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZanyScale7556"
+            },
+            "reviewBody": "I thinly cut up a chicken breast and tossed it in cornstarch. Then cooked the chicken in some vegetable oil and removed when cooked. Then I followed this recipe, but doubled up on the oyster sauce, soy sauce. Once the green beans were about done, I returned the chicken and tossed with the green beans &amp; sauces. My husband is Asian and said this tasted just like a chines restaurant recipe! Outstanding (if you want to make a meal out of it!)",
+            "datePublished": "2023-02-16T05:34:21.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robert Cook"
+            },
+            "reviewBody": "A hit! I used toasted sesame oil and substituted Hoisin Sauce, which I always have, for the Oyster Sauce. The flavor was wonderful. I did eliminate the extra sugar as Hoisin is sweet enough on its own. This substitution was recommended in several sources online. To save time, I used a microwaved package of green beans and just cut down on the skillet cooking time.",
+            "datePublished": "2025-04-28T17:57:01.552Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Klivansky"
+            },
+            "reviewBody": "Boil the green beans (I did 2lbs) for 3 minutes and drain. Add a little oil to your pan and a few spoons of butter , saute the garlic (I did 6 cloves, minced) in butter for 20 seconds. Add the green beans and when you're ready, add your premixed sauce. One tablespoon of sugar was enough for my 2lbs of beans. It tastes great!",
+            "datePublished": "2016-11-25T01:29:17.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolina"
+            },
+            "reviewBody": "These were very good. The sauce needed some acid to balance the overall sweetness, so I added a little bit of rice vinegar which balanced it perfectly. Aside from that tweak, made as directed. I had fresh French beans so they were thinner than the regular ones, so they cooked up well with a pure sauté cook. For regular beans, I'd suggest blanching beforehand as others have suggested.",
+            "datePublished": "2025-08-11T19:35:49.371Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lily"
+            },
+            "reviewBody": "I omit the sugar. Place the green beans on a non-stick baking sheet. I mix the oil, sauces, and garlic together, then drizzle them over the green beans. Bake at 350 degrees until they reach the desired degree of doneness. My family loves them!",
+            "datePublished": "2017-06-21T16:20:24.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SoFlyKy"
+            },
+            "reviewBody": "I noticed that adding the garlic after the green beans have been cooking for a few minutes kept the garlic from burning which improved the taste and I also tried using teriyaki sauce instead of the soy sauce and oyster sauce for a different flavor. Either way the recipe was delicious! Thank you.",
+            "datePublished": "2016-07-31T23:49:30.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Della Ella Ola"
+            },
+            "reviewBody": "Very tasty but next time I will steam the beans first",
+            "datePublished": "2026-09-04T11:43:46.106Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ArtsySpoon2107"
+            },
+            "reviewBody": "I’ve never liked sesame oil so I substituted avocado oil for its high smoke point. Only used a small pinch of sugar. Otherwise followed this recipe as written and it was divine! Can’t wait to eat the leftovers.😋 PS I served it with hot Chinese Mustard. OMG !",
+            "datePublished": "2026-09-02T20:33:07.012Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeanie-o"
+            },
+            "reviewBody": "One of my all-time favorite dishes in Chinese restaurants and now I can make it at home! We like our green beans pretty tender crisp so I am careful not to cook them too long, but I do use high heat like they do in the restaurant.",
+            "datePublished": "2026-03-23T22:27:26.926Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Scooter"
+            },
+            "reviewBody": "This is a keeper!",
+            "datePublished": "2026-01-12T15:17:37.545Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patti"
+            },
+            "reviewBody": "This is the best way to eat green beans! My husband and I both loved them. We’re having them again tonight as a side with salmon. Fresh from the garden beans makes then even better!",
+            "datePublished": "2025-08-17T21:48:58.574Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susu"
+            },
+            "reviewBody": "Added sliced almonds",
+            "datePublished": "2025-06-14T16:36:50.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LilacCow1385"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-12T21:42:43.423Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BABYLADY907"
+            },
+            "reviewBody": "Another keeper! I followed the most popular suggestions and ended with perfect results.",
+            "datePublished": "2025-04-02T06:57:00.531Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jennifer Lindamood"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-23T17:28:23.736Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/158854/chinese-buffet-green-beans/",
+          "name": "Chinese Garlic Green Beans",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/925/side-dish/vegetables/green-beans/",
+                  "name": "Green Beans"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

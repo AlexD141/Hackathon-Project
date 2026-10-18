@@ -1,0 +1,195 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/102744/yummy-matzo-rolls/",
+  "extracted_at": "2026-10-18T01:41:35.898445+00:00",
+  "recipes": [
+    {
+      "name": "Yummy Matzo Rolls",
+      "ingredients_raw": [
+        "2 cups water",
+        "1 teaspoon salt",
+        "0.25 cup vegetable oil",
+        "0.25 cup margarine",
+        "2 cups matzo cake meal",
+        "6 egg"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring the water to boil in a saucepan. Add the salt, oil and margarine. When it returns to a boil, gradually stir in the matzo meal, continuing to stir until the mixture becomes a solid lump. Remove from the heat and let cool slightly."
+        },
+        {
+          "id": 2,
+          "text": "When the mixture is cool, stir in the eggs until a smooth texture is achieved. Let stand for 30 minutes. Form into four balls and place on a greased baking pan."
+        },
+        {
+          "id": 3,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Bake the rolls for 30 minutes. Turn off the oven and leave the rolls inside for 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Yummy Matzo Rolls",
+        "datePublished": "2019-04-03T23:34:49-04:00",
+        "dateModified": "2019-04-03T23:34:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Maya"
+          }
+        ],
+        "description": "This is an Israeli recipe that my aunt made last Passover - everybody gobbled them up and asked for the recipe.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/JDH4vaWcEaP7trOOqGxojgF-lUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/207528-f1e569a5d18e43c9976860bce303312c.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Yummy Matzo Rolls",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.5",
+          "ratingCount": "2"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "480 kcal",
+          "carbohydrateContent": "35 g",
+          "cholesterolContent": "279 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "15 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "819 mg",
+          "sugarContent": "2 g",
+          "fatContent": "33 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCuisine": [
+          "Israeli"
+        ],
+        "recipeIngredient": [
+          "2 cups water",
+          "1 teaspoon salt",
+          "0.25 cup vegetable oil",
+          "0.25 cup margarine",
+          "2 cups matzo cake meal",
+          "6 egg"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring the water to boil in a saucepan. Add the salt, oil and margarine. When it returns to a boil, gradually stir in the matzo meal, continuing to stir until the mixture becomes a solid lump. Remove from the heat and let cool slightly."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "When the mixture is cool, stir in the eggs until a smooth texture is achieved. Let stand for 30 minutes. Form into four balls and place on a greased baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Bake the rolls for 30 minutes. Turn off the oven and leave the rolls inside for 10 minutes."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 rolls"
+        ],
+        "totalTime": "PT85M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AVI1"
+            },
+            "reviewBody": "TO MAYA, YOU NEED TO ADD THE EGGS ONE AT A TIME AND MIX WELL AFTER EACH EGG AND YOU NEED TO DO IT WHILE IT STILL WARM , THE BEST WAY IS TO USE A MIXER .THIS WILL ADD AIR TO YOUR MIX JUST LIKE MAKING CREAM PUFFS."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura"
+            },
+            "reviewBody": "As with many Passover foods, these fall into the \"edible, but only because I must\" category. They came out greasy and heavy. Maybe I did something wrong, but I was hoping for something a little lighter that I could cut open and eat with tuna. These are more like balls of scrambled eggs with matzah meal mixed in. I would recommend making 6 or 8 smaller rolls and baking a little longer. They could use a little seasoning as well; maybe onion or garlic added with the eggs. Sitting in the oven helped crisp up the outsides, and they are certainly filling, but I will look for another recipe to try next Pesach.",
+            "datePublished": "2009-04-12T08:59:43.697Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/102744/yummy-matzo-rolls/",
+          "name": "Yummy Matzo Rolls",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/156/bread/",
+                  "name": "Bread"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+                  "name": "Quick Bread Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,474 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13079/flatlander-chili/",
+  "extracted_at": "2026-10-18T01:52:07.955796+00:00",
+  "recipes": [
+    {
+      "name": "Flatlander Chili",
+      "ingredients_raw": [
+        "2 pounds lean ground beef",
+        "1 (46 fluid ounce) can tomato juice",
+        "1 (29 ounce) can tomato sauce",
+        "1.5 cups chopped onion",
+        "0.5 cup chopped celery",
+        "0.25 cup chopped green bell pepper",
+        "0.25 cup chili powder",
+        "2 teaspoons ground cumin",
+        "1.5 teaspoons garlic powder",
+        "1 teaspoon salt",
+        "0.5 teaspoon ground black pepper",
+        "0.5 teaspoon dried oregano",
+        "0.5 teaspoon white sugar",
+        "0.125 teaspoon ground cayenne pepper",
+        "2 cups canned red beans, drained and rinsed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside."
+        },
+        {
+          "id": 2,
+          "text": "Add all ingredients to a large kettle. Bring to boil. Reduce heat and simmer for 1 to 1 1/2 hours, stirring occasionally."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Flatlander Chili",
+        "datePublished": "1999-02-20T06:34:41-05:00",
+        "dateModified": "2026-04-16T12:54:55-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "George Couch"
+          }
+        ],
+        "description": "This is a good red bean and ground beef chili with lots of chili powder and plenty of herbs!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/FNNfhHL7LUFvUjpkhsPwZbfZckM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2324795-flatlander-chili-Rock_lobster-4x3-1-8709592d47b3412eb1b93fabbf671e0e.jpg",
+          "height": 900,
+          "width": 900
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/PnrvBWnP-ma1DlVvV.mp4",
+          "description": "AR0507",
+          "duration": "PT3M26S",
+          "name": "Flatlander Chili",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PnrvBWnP/poster.jpg?width=1280",
+          "uploadDate": "2021-07-17T02:40:33-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Flatlander Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "2500"
+        },
+        "cookTime": "PT90M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "347 kcal",
+          "carbohydrateContent": "23 g",
+          "cholesterolContent": "68 mg",
+          "fiberContent": "6 g",
+          "proteinContent": "21 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "1246 mg",
+          "sugarContent": "10 g",
+          "fatContent": "20 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds lean ground beef",
+          "1 (46 fluid ounce) can tomato juice",
+          "1 (29 ounce) can tomato sauce",
+          "1.5 cups chopped onion",
+          "0.5 cup chopped celery",
+          "0.25 cup chopped green bell pepper",
+          "0.25 cup chili powder",
+          "2 teaspoons ground cumin",
+          "1.5 teaspoons garlic powder",
+          "1 teaspoon salt",
+          "0.5 teaspoon ground black pepper",
+          "0.5 teaspoon dried oregano",
+          "0.5 teaspoon white sugar",
+          "0.125 teaspoon ground cayenne pepper",
+          "2 cups canned red beans, drained and rinsed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/FNNfhHL7LUFvUjpkhsPwZbfZckM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2324795-flatlander-chili-Rock_lobster-4x3-1-8709592d47b3412eb1b93fabbf671e0e.jpg"
+              }
+            ],
+            "text": "Add all ingredients to a large kettle. Bring to boil. Reduce heat and simmer for 1 to 1 1/2 hours, stirring occasionally."
+          }
+        ],
+        "recipeYield": [
+          "10",
+          "10 servings"
+        ],
+        "totalTime": "PT105M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Kishler"
+            },
+            "reviewBody": "Yummy! Very good! The only thing I have a problem with is people who change half the ingredients ( in lots of recipes on this site ) and then say the recipe isn't any good. How the heck would they know????"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sweetredwine"
+            },
+            "reviewBody": "I have made this several times and it is fantastic as is and with alterations! I have made it vegetarian too - same spices, same amount of green peppers, onion, celery. I add in an extra can of red beans, can of garbanzo beans, red and yellow peppers, can of tomatoes, and 1/4 c corn meal as suggested by another reviewer (does not need sugar if you add this). I really prefer with the meat, but super good like this as well. Have also added macaroni noodles at the very end and my kids love that. Also, I ALWAYS make in the crock pot - 5-7 hrs on high, stir occasionally.",
+            "datePublished": "2020-12-09T16:21:43.983Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Masik"
+            },
+            "reviewBody": "This is my go to chili recipe - been using it for years with few changes. I do usually use low sodium V8 instead of the tomato juice and canned or fresh tomatoes instead of the tomato sauce. Easy to leave out or dial up the cayenne to taste. It is a very tomato-ey chili - I call it my Wisconsin school cafeteria chili. For the past couple years I have been making this exclusively in my instant pot. Brown the beef or substitute turkey (both turn out great), throw everything in the pot, seal and cook on high pressure for 10-15 minutes. Quick release pressure and as good as it is on the stove for a couple hours!",
+            "datePublished": "2021-03-08T02:27:10.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Annie"
+            },
+            "reviewBody": "I have made this hundreds of times. Everyone loves it. This is what I do differently. While browning the ground beef (I use 1 lb. Of 93% fat and 1 lb. Of 80 or 85% fat. ) I chop the vegetables and prepare the spices. Once I have removed the beef to drain, I add the tiniest amount of olive oil and add the vegetables and let them soften a bit, then I add the spices to the vegetables and stir well before I put the ground beef back in. Then, I substitute a bottle of V-8 spicy vegetable juice instead of the 46 oz. Can of tomato juice. I also substitute two cans of diced tomatoes with basil, garlic, and oregano in them as a substitute for the 29 oz. Can of tomato sauce. Del Monte makes a good one; that’s what I use. And then I stir it, and let it go on low for at least 1.5 hours. It is delicious, and it is even better the next day, so often cool it, refrigerate it, and it’s ready to go for tomorrow. I usually make either corn bread or corn muffins to go with it, and of course hand grated cheddar to top. Some of my tribe like a dollop of sour cream on it. If you like chili, you will love this recipe!",
+            "datePublished": "2026-10-15T14:20:34.091Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "volvomom"
+            },
+            "reviewBody": "I followed the recipe except I cooked the onions with the hamburger, then threw it all in the crockpot. Since I was making this for additional family members I wanted to add more stuff! I added 3 cans of beans (1 black, 1 chili bean and 1 kidney). I also swapped out the tomato juice for Rotelo diced tomatoes with green chilies. Oh I added a diced jalapeno. Everyone loved it. Even my daughter who doesn't care about chili. This will be my go to.",
+            "datePublished": "2019-01-11T23:32:23.063Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Atbubbly"
+            },
+            "reviewBody": "This recipe gets 4 stars because it is an excellent base recipe that you can build on. First, SEASON YOUR MEAT! Add a little salt, pepper, coriander and sage while browning the beef. I did use some tomato juice to loosen it up but used 3 15 oz cans of tomato sauce and chili ready diced tomatoes. The seasoning is basic so I added more to my taste and used brown sugar instead of white. It was delicious!",
+            "datePublished": "2020-03-14T19:36:26.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Gibson"
+            },
+            "reviewBody": "This was delicious! I used ground turkey instead of beef as a personal preference. Also, substituted one can of diced tomatoes for some of the tomato juice in an effort to cut down liquid. Browned the ground turkey and threw everything in the crockpot letting it cook most the day. So good and smelled heavenly.",
+            "datePublished": "2020-07-05T13:24:42.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GingerL"
+            },
+            "reviewBody": "I have made this recipe about 15 times over the years and it is a good one. I sometimes hold back some of the tomato juice as it can be too thin (particularly when using a crock pot). My preferred method is a dutch oven and I put about 3/4 of the bottle of tomato juice and add a bit more to the leftovers. People really like the flavor. Has a bit of spice but if you add sour cream or cheese then it really doesn't. I have tried other recipes but this is the one that everyone likes best.",
+            "datePublished": "2025-02-10T04:02:17.379Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Betty Thompson Thomas"
+            },
+            "reviewBody": "Fantastic chili! My only changes were using two 28oz cans of diced tomatoes, 1 can tomato paste (adding about 5 or 6 cans of water) and doubling up on the cayenne pepper, as we like it spicy. I put it in the crockpot on high for about 3 hours, then added 1 can kidney, 1 can mixed beans (drained and rinsed). Cooked for another 1.5 to 2 hours.\n\nThank you, no need to look for another chili recipe ever again :)",
+            "datePublished": "2018-04-14T12:43:32.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Masik"
+            },
+            "reviewBody": "I have made this recipe more times than I can count - I know it by heart now. It is ALWAYS my go to recipe; I don't make any other type of chili. Just wanted to add that this also cooks up great in the instant pot for a super fast meal. Just brown the meat and throw everything in. I cook it at high pressure for 10 minutes tops and natural release, or just manually release if I'm in a hurry. Depending on the size of your instant pot though you may need to make half a batch. Also, word to the wise - a full batch is a huge amount of chili. That's never an issue for us because it reheats and freezes great, but just be aware if fridge or freezer space is an issue!",
+            "datePublished": "2019-11-27T19:09:16.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee1003"
+            },
+            "reviewBody": "Best chili I’ve ever made but I had to make changes... used a 24 oz jar of tomato sauce, two small cans of tomato juice, 2 cans of diced tomatoes with mild chili’s, I used ground chicken instead of beef. One can each of black beans, garbanzo beans and pinto beans, half bag of frozen corn and I simmered on low for three hours. Added my bell pepper and onion about 90 minutes before I served it so they would have a little more bite. I served it with cheese, sour cream and cornbread. Everyone said it was the best chili ever!!!! Made it for the eagles championship game!!! Now I’ll have to make it for the super bowl!!!!!!",
+            "datePublished": "2018-01-22T16:52:32.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Milissa"
+            },
+            "reviewBody": "I have been making this for over 20 years. It is my go-to for chili. I have never received a complaint &amp; I'm often asked to make it again. I thought it was time I bragged on it &amp; share my secret. 🙂",
+            "datePublished": "2026-07-14T18:08:11.998Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MzToni"
+            },
+            "reviewBody": "My go to recipe for chili.",
+            "datePublished": "2026-01-24T23:25:54.588Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wes Allison"
+            },
+            "reviewBody": "All my people love this and I've actually won a few local chili contest with it. Add a can of rotel if you like a little kick. We used this in a restaurant I ran for years.",
+            "datePublished": "2026-01-17T14:13:18.784Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeff Goeddertz"
+            },
+            "reviewBody": "This is a favorite for our house we really don’t like beans so this offers the best. I often will do a pound of ground beef and a pound of ground sausage and everyone loves it",
+            "datePublished": "2025-11-19T23:18:34.756Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Myers"
+            },
+            "reviewBody": "I love this recipe it is so good I'm making it right now thank you 😊",
+            "datePublished": "2025-11-07T20:25:59.661Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BraveMelt3971"
+            },
+            "reviewBody": "I have cooked this many many times and absolutely love it. My family loves it. I love it. I didn’t change anything in it. I did exactly what they said.",
+            "datePublished": "2025-04-15T16:34:07.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SnappyRum4576"
+            },
+            "reviewBody": "The best chili recipe!!!! My mom has been making it for years &amp; I started making it for my boyfriend &amp; his family- they’re obsessed! It’s definitely a crowd pleaser! Not to mention easy to make!",
+            "datePublished": "2025-02-16T21:20:01.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Saninbham"
+            },
+            "reviewBody": "Instead of 2 lb of ground beef, I use 1 pound ground beef and 1 lb Italian sausage! Try it! You’ll thank me later.",
+            "datePublished": "2025-02-16T17:38:31.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Csitkovits"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-11T20:42:27.636Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13079/flatlander-chili/",
+          "name": "Flatlander Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

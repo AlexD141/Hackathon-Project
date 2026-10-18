@@ -1,0 +1,366 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16188/camp-chili/",
+  "extracted_at": "2026-10-18T02:19:28.617430+00:00",
+  "recipes": [
+    {
+      "name": "Camp Chili",
+      "ingredients_raw": [
+        "3 pounds ground beef",
+        "3 onions, chopped",
+        "10 cloves garlic, minced",
+        "3 (15 ounce) cans pork and beans",
+        "3 (15 ounce) cans kidney beans",
+        "1 (14.5 ounce) can stewed tomatoes",
+        "3 tablespoons chili powder",
+        "1 (12 fluid ounce) can or bottle beer",
+        "salt and pepper to taste",
+        "3 cups uncooked rice"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large pot over medium high heat, saute the ground beef for 5 minutes. Add the onions and garlic and saute for 5 to 10 more minutes."
+        },
+        {
+          "id": 2,
+          "text": "Add the pork and beans, kidney beans, tomatoes, chili powder, beer and season with salt and pepper to taste. Stir thoroughly and reduce heat to medium low."
+        },
+        {
+          "id": 3,
+          "text": "Cover and simmer for 1 to 1 1/2 hours, stirring occasionally."
+        },
+        {
+          "id": 4,
+          "text": "Cook the rice according to package directions. Serve the chili over the rice."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Camp Chili",
+        "datePublished": "2000-02-21T17:57:46-05:00",
+        "dateModified": "2025-04-15T12:14:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "PETEIYC"
+          }
+        ],
+        "description": "Canned pork and beans and canned kidney beans, beer, stewed tomatoes, and ground beef make a heft outdoor meal that may be served over rice.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/-tuJpG9oHe2oUwsVxQcAqFMeaO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1158662-6bc90374f70a42698b450081d2653d61.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Camp Chili",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "22"
+        },
+        "cookTime": "PT90M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "637 kcal",
+          "carbohydrateContent": "54 g",
+          "cholesterolContent": "104 mg",
+          "fiberContent": "14 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "838 mg",
+          "sugarContent": "3 g",
+          "fatContent": "33 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American",
+          "Tex-Mex"
+        ],
+        "recipeIngredient": [
+          "3 pounds ground beef",
+          "3 onions, chopped",
+          "10 cloves garlic, minced",
+          "3 (15 ounce) cans pork and beans",
+          "3 (15 ounce) cans kidney beans",
+          "1 (14.5 ounce) can stewed tomatoes",
+          "3 tablespoons chili powder",
+          "1 (12 fluid ounce) can or bottle beer",
+          "salt and pepper to taste",
+          "3 cups uncooked rice"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large pot over medium high heat, saute the ground beef for 5 minutes. Add the onions and garlic and saute for 5 to 10 more minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add the pork and beans, kidney beans, tomatoes, chili powder, beer and season with salt and pepper to taste. Stir thoroughly and reduce heat to medium low."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cover and simmer for 1 to 1 1/2 hours, stirring occasionally."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook the rice according to package directions. Serve the chili over the rice."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "12 servings"
+        ],
+        "totalTime": "PT100M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Three cheers Peter! We loved this but I did make a few changes: First, I halved the recipe. Second, while browning the onions/garlic/beef, I added a good dash of all-season salt. Then, when it came time to add the beans/tomatoes, I omitted the kidney beans (none available) BUT I added a 15oz can of tomato sauce, and a couple good shakes of paprika and cumin. Once you let this simmer - it thickens nicely and the flavors are GREAT! We didn't serve over rice b/c we thought it was great w/out it BUT we did sprinkle some sharp cheddar cheese over our bowls to melt. Great recipe and with the small changes I made - I will definately make this again...esspecially at our cabin this fall! Good &amp; hearty! Thanks!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DREGINEK"
+            },
+            "reviewBody": "Three cheers Peter! We loved this but I did make a few changes: First, I halved the recipe. Second, while browning the onions/garlic/beef, I added a good dash of all-season salt. Then, when it came time to add the beans/tomatoes, I omitted the kidney beans (none available) BUT I added a 15oz can of tomato sauce, and a couple good shakes of paprika and cumin. Once you let this simmer - it thickens nicely and the flavors are GREAT! We didn't serve over rice b/c we thought it was great w/out it BUT we did sprinkle some sharp cheddar cheese over our bowls to melt. Great recipe and with the small changes I made - I will definately make this again...esspecially at our cabin this fall! Good &amp; hearty! Thanks!",
+            "datePublished": "2003-07-16T11:12:22.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "THESU"
+            },
+            "reviewBody": "I happened to have some pork and beans around the house and didn't know what to do with them because they don't taste that great out of the can. So I followed this recipe and made chili for the first time. It was so good! The only downside is that the recipe produces a bland chili, so I added extra red pepper powder, cumin, cocoa, cinnamon, and paprika.",
+            "datePublished": "2002-06-18T17:25:39.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Auldjaded"
+            },
+            "reviewBody": "I love this recipe - simple, and versatile: witness the variations mentioned in various reviews here. It produces a rich and thick chili, with just the right flavor that you can spice up - or not - according to your taste. For me, it's great as is. It's also great when I decide to spice it up and make it hot with some hot sauce and hot pepper flakes. It's a great treat that can be adapted to anyone's taste. Bravo! I love it and encourage everyone to try it!",
+            "datePublished": "2007-02-15T23:19:05.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ray Hines"
+            },
+            "reviewBody": "Not a chili for sure... it's more like a red beans and rice soup or an odd type of Gumbo. And for the people throwing in 'Baked Beans'? Odd, don't you think? Why rate a recipe if you cannot follow instructions and why give something 5 stars if you've changed just about everything? You are rating your own recipe at that point and not this one.",
+            "datePublished": "2020-03-07T00:45:03.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MTCHYG"
+            },
+            "reviewBody": "Wow. So good. I added in a chopped jalapeno pepper. Very nice.",
+            "datePublished": "2012-05-01T08:16:03.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CHERYLSKITCHEN"
+            },
+            "reviewBody": "Wasn't well liked by our family. The baked beans were too sweet.",
+            "datePublished": "2007-05-20T10:28:44.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacy"
+            },
+            "reviewBody": "It is ok. I have had better. Granted I changed the recipe a little. I didn't put in as much onion, cause I thought that three onions sounded like a lot. And I cut back on the chili powder as well, knowing that my 4 year old would probably want to try it at some point.",
+            "datePublished": "2007-05-15T09:37:49.173Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JDVMD"
+            },
+            "reviewBody": "Added some seasonings for personal preference and stopped short of adding the rice. Good flavor.",
+            "datePublished": "2007-02-20T16:59:21.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WCATSBB01"
+            },
+            "reviewBody": "I did some minor adjustments to this great chili but overall everybody loved it.",
+            "datePublished": "2005-01-05T12:56:59.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JJCALIGIRL"
+            },
+            "reviewBody": "I thought this was pretty good. I didn't have any pork and beans, so I added baked beans instead. I liked the taste, but my husband didn't.",
+            "datePublished": "2004-08-27T01:29:17.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chic971"
+            },
+            "reviewBody": "Wasn't bad for a first try at chilli!",
+            "datePublished": "2002-08-20T11:24:00.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I have made this three times now at home in my crock pot and boy is it a favorite to everyone. It is easy to prepare and make and it tastes great too. Great recipe. I recommend it highly.",
+            "datePublished": "2002-02-15T18:36:19.093Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16188/camp-chili/",
+          "name": "Camp Chili",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+                  "name": "Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14729/soups-stews-and-chili/chili/beef-chili/",
+                  "name": "Beef Chili Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

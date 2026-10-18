@@ -1,0 +1,450 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11817/pepperoni-penne/",
+  "extracted_at": "2026-10-18T01:47:36.800119+00:00",
+  "recipes": [
+    {
+      "name": "Pepperoni Penne",
+      "ingredients_raw": [
+        "1 (16 ounce) package penne pasta",
+        "0.75 pound sliced pepperoni sausage",
+        "2 tablespoons minced shallots",
+        "1 clove garlic, minced",
+        "4 medium tomato - peeled, seeded and chopped",
+        "1 cup heavy whipping cream",
+        "0.25 cup chopped fresh parsley",
+        "2 tablespoons grated Parmesan cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook penne according to the package directions."
+        },
+        {
+          "id": 2,
+          "text": "In a large skillet, sauté pepperoni until crispy, 5 to 8 minutes. Drain all but 1 tablespoon grease."
+        },
+        {
+          "id": 3,
+          "text": "Add shallot and garlic to grease in the skillet. Cook until translucent. Stir in tomatoes and simmer for about 3 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in cream and cook until reduced, about 8 minutes. Add parsley and remove from heat."
+        },
+        {
+          "id": 5,
+          "text": "Add pasta and toss. Garnish with Parmesan cheese."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Pepperoni Penne",
+        "datePublished": "1999-02-09T14:58:54-05:00",
+        "dateModified": "2026-08-25T16:43:35-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Melissa"
+          }
+        ],
+        "description": "This snappy sauce starts with sautéed slices of spicy pepperoni with shallots and garlic added to the pan. Chopped tomatoes, cream, and parsley jump in for a quick simmer before merging with hot pasta. Grate Parmesan over the top to finish.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/r2yKrmyIKStW-ln_WyL6Idh6izc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3616475-pepperoni-penne-mslolA-4x3-1-116118c4a7774bd387de1512c3f002bd.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Pepperoni Penne",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "64"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "533 kcal",
+          "carbohydrateContent": "45 g",
+          "cholesterolContent": "87 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "19 g",
+          "saturatedFatContent": "14 g",
+          "sodiumContent": "741 mg",
+          "sugarContent": "4 g",
+          "fatContent": "32 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner",
+          "Pasta"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (16 ounce) package penne pasta",
+          "0.75 pound sliced pepperoni sausage",
+          "2 tablespoons minced shallots",
+          "1 clove garlic, minced",
+          "4 medium tomato - peeled, seeded and chopped",
+          "1 cup heavy whipping cream",
+          "0.25 cup chopped fresh parsley",
+          "2 tablespoons grated Parmesan cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook penne according to the package directions."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large skillet, sauté pepperoni until crispy, 5 to 8 minutes. Drain all but 1 tablespoon grease."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add shallot and garlic to grease in the skillet. Cook until translucent. Stir in tomatoes and simmer for about 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in cream and cook until reduced, about 8 minutes. Add parsley and remove from heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add pasta and toss. Garnish with Parmesan cheese."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I used onions instead of shallots, canned tomatoes instead of fresh, added some green olives and instead of cream used 1 cup of skim milk w/2 TBS of flour. Outstanding! Will definately make again. The calorie count has to be substantially less with the skim milk!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Johnson"
+            },
+            "reviewBody": "This was excellent. I used the sliced pepperoni for pizzas but Didn’t use the whole package though. I used scissors to cut them into strips, saluted them with a small amount of white onion, some Italian spices and chopped sun dried tomatoes. Added 1T of flour and cooked a few minutes then added a cup of milk. Added some pizza sauce ( because a different recipe called for it and it sounded good!), a can of diced tomatoes, drained and black olives. I would also like to try this with sautéed Italian sausage and mushrooms. \nThanks for the recipe!",
+            "datePublished": "2018-09-12T02:00:32.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachael Black"
+            },
+            "reviewBody": "This was a very simple and easy yet delicious recipe. I actually chopped everything the night before, and used ukranian sausage finely sliced instead of pepperoni. I also used canned diced tomatoes with olive oil and garlic (Aylmer accents. I cooked the whole thing in my electric skillet and added tricolor bowtie pasta at the end and had almost no mess as a result. Will definitely be using this again for those busy weekday nights.",
+            "datePublished": "2011-01-22T14:10:52.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brandi Reeves Greenberg"
+            },
+            "reviewBody": "I used diced tomatoes instead of fresh and added oregano, basil and crushed red pepper. I also, used half n half in place of the heavy cream. We had no left overs and that is a great sign. Thanks for the recipe.",
+            "datePublished": "2009-01-30T07:16:34.427Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacey"
+            },
+            "reviewBody": "I have made hundreds of recipes on this site and I think this is only my second review. This was so easy and delish! I don't believe I altered the recipe enough to speak of but here I think I did combine some steps...I used sliced packaged pepperoni and just cut it into strips. I sauted them with the onion and garlic. Then added a can of stewed tomatoes and let it cook down a couple of minutes then I added the whipping cream and let that cook up for about 5-8 minutes. Then I tossed it with my cooked pasta...yum. My picky 7 and 10 year olds loved it and so did my 1 year old. Just enough kick for them. I skipped the parsley and the parm cheese, but I'm sure that wold make it even better. Definitely worth a try!",
+            "datePublished": "2012-12-03T15:30:29.487Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GodivaGirl"
+            },
+            "reviewBody": "Can't give it a 5 star rating because I didn't have some items and had to substitute. I used sandwich pepperoni, which I cut with kitchen sheer into long strips. After they cooked I removed from pan. Since there was a trace of grease I wiped out the pan and sautee'd garlic and tomatoes with a bit of olive oil. I didn't peel the tomatoes. I didn't have heavy cream or evaporated milk for the sauce so I used regular milk and made a roux with some flour. I added pepper but not salt because of the type of pepperoni I used. I will make this again with all the ingredients stated next time to compare.",
+            "datePublished": "2008-04-04T19:48:58.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rae"
+            },
+            "reviewBody": "Very good. I did have to change the recipe a little bit. I was running late with dinner and needed something quick. This was perfect. I used garden rotini pasta, canned tomatoes, onion instead of shallots and added some green pepper and spinach. Yummy. Thanks for the recipe.",
+            "datePublished": "2012-02-06T18:54:05.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheri Young"
+            },
+            "reviewBody": "Amazing! This pasta dish is awesome. I used two cans of diced tomatoes in garlic instead of fresh. And used an onion instead of a shallot. I also used a green pepper. At the end of cooking I added parmesan cheese to the sauce. Perfection. One of our favorites.",
+            "datePublished": "2011-07-15T15:33:39.430Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "darlingj"
+            },
+            "reviewBody": "Excellent and so easy! I used basil instead of parsley and canned diced tomatoes, and added some baby bella mushrooms. Dinner was ready in less than half an hour to rave reviews!",
+            "datePublished": "2011-10-19T17:17:23.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Freyja214"
+            },
+            "reviewBody": "We used onions instead of shallots and canned, diced tomatoes instead of fresh and this still was a big hit! We also added some leftover Italian sausage. Very delicious and easy! We will definitely be making this again.",
+            "datePublished": "2013-04-23T18:35:47.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jodi"
+            },
+            "reviewBody": "This was pretty good. I got a stick of pepperoni and cut it in quarters lengthwise first then sliced to get bigger chunks than just the thin precut slices (from other recipes using pepperoni we found that we prefer bigger chunks than the slices). I didn't have fresh parsley so I used 1tbsp dried and added 1tsp oregeno. My DH only liked it, but wasn't crazy about it - my son &amp; I liked it well enough to want to try it again, we'll see.",
+            "datePublished": "2011-08-24T04:02:04.480Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LoftyKnife5092"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-07-07T15:49:20.141Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carrie Buisman"
+            },
+            "reviewBody": "I excluded tomatoes because I hate them and used boy tie pasta. Delish!",
+            "datePublished": "2018-10-28T22:15:10.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Denise Memeh"
+            },
+            "reviewBody": "Simple delicious - I added a couple sticks of string cheese (cut up)",
+            "datePublished": "2017-04-10T03:03:23.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I used what I had on hand, and it was pretty good. Pizza pepperoni, regular onion, 2% milk and dried parsley. Optional ground red pepper and green olives on the side. I would like to try it with pepperoni sausage next time.",
+            "datePublished": "2016-04-25T02:15:03.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lone Mopper"
+            },
+            "reviewBody": "One of the most frequently requested dishes from my family. I double it because I have to.",
+            "datePublished": "2016-03-13T12:44:36.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ceh"
+            },
+            "reviewBody": "This is a quick and simple meal that the whole family will enjoy, although I will suggest a change for the kiddos, use a crushed tomato or a tomato sauce as opposed to diced tomatoes. It really didn't take long to make and I had all of the ingredients on hand. We did have to salt a bit for flavor, but next time I will amp up some of the other seasonings. Anyways, I will make again.",
+            "datePublished": "2014-03-18T11:03:53.720Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I did not have shallots, I used half of a sweet onion instead. I did throw in a tad red pepper flake, some fresh ground pepper, a touch salt and a good amount more parmesan cheese. The boys inhaled this--NO leftovers.",
+            "datePublished": "2013-05-05T06:00:14.443Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tastykake"
+            },
+            "reviewBody": "Liked it a lot. I would make it again. It was different from the regular chicken &amp; pasta or sausage &amp; pasta.",
+            "datePublished": "2013-04-13T15:29:20.167Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bellepepper"
+            },
+            "reviewBody": "I’m sorry to say this was quite disappointing. The pepperoni totally dominated this dish and made it taste quite salty and, we love our salt. I used green onions for the shallots and canned tomatoes that were seasoned with basil, garlic and oregano. I also thought basil would be a better choice, so I used that instead of parsley. Since I had a stick of pepperoni, in hindsight I should have diced the pepperoni instead of slicing it. While sautéing, the sliced pepperoni domed up and looked very unappealing. The sauce was tasty, which helped this a little. I won’t be making this again, but for those of you who want to give it a try, I’d suggest cutting way back on the pepperoni, so it will enhance the flavor of the sauce, rather than overpower it.",
+            "datePublished": "2012-04-17T07:28:57.210Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11817/pepperoni-penne/",
+          "name": "Pepperoni Penne",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

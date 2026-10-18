@@ -1,0 +1,502 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/142747/mango-jam/",
+  "extracted_at": "2026-10-18T01:58:28.375059+00:00",
+  "recipes": [
+    {
+      "name": "Mango Jam",
+      "ingredients_raw": [
+        "2 pounds ripe mangoes",
+        "1.5 cups white sugar",
+        "0.75 cup water",
+        "3 saffron threads"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Make 4 to 5 slits in mangoes and microwave on High until soft, 1 to 2 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Cool, then remove the peel and inner seed; place mango pulp in a large bowl. Use a fork or potato masher to mash the pulp well."
+        },
+        {
+          "id": 4,
+          "text": "Stir together sugar and water in a large saucepan over low heat, and bring to a boil. When the mixture begins boiling, increase heat to medium-high. Continue boiling until fine, soft threads form, 270 degrees F (135 degrees C)."
+        },
+        {
+          "id": 5,
+          "text": "Stir in mango pulp, add saffron threads, and boil until the mixture thickens, about 5 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Pour cooked jam into sterilized jars and seal according to canning directions."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mango Jam",
+        "datePublished": "2020-06-18T23:31:03-04:00",
+        "dateModified": "2026-04-14T13:58:57-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "RADHIKA GHATAGE"
+          }
+        ],
+        "description": "Luscious, fresh mango jam will add bright, tropical sweetness all winter long to a variety of dishes and desserts. Canning mangoes made easy.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/_pumoN9ykS24602G8lSzJKfMlVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-3x4-69241-6e653932eae24c2bb7fd65dd80cb2a52.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mango Jam",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "79"
+        },
+        "cookTime": "PT30M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "73 kcal",
+          "carbohydrateContent": "19 g",
+          "fiberContent": "1 g",
+          "proteinContent": "0 g",
+          "sodiumContent": "1 mg",
+          "sugarContent": "18 g",
+          "fatContent": "0 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Jam / Jelly"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 pounds ripe mangoes",
+          "1.5 cups white sugar",
+          "0.75 cup water",
+          "3 saffron threads"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/0WBJWB0O4uZxA-1AVt9WBr4jjqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-step1-3x4-6841-3d2645bec58d4d0596b993a3ef1d50aa.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/a5Yrmdbue4zyvFyoh6QCli09SaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-step2-3x4-6844-5f7ea62ee2724c829a94dd4b931c44ea.jpg"
+              }
+            ],
+            "text": "Make 4 to 5 slits in mangoes and microwave on High until soft, 1 to 2 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ybLglT-SzBDIuZg1Ikk8hG45Vus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-step3-3x4-6847-fb373252a13047e397504a821b090a77.jpg"
+              }
+            ],
+            "text": "Cool, then remove the peel and inner seed; place mango pulp in a large bowl. Use a fork or potato masher to mash the pulp well."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/TmE6edNd0CskYZj4JMvBaIve0Ps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-step4-3x4-6882-34ee11cfa6564a4e95b0a64f4a0f6461.jpg"
+              }
+            ],
+            "text": "Stir together sugar and water in a large saucepan over low heat, and bring to a boil. When the mixture begins boiling, increase heat to medium-high. Continue boiling until fine, soft threads form, 270 degrees F (135 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/qUB-mFlqIWW0cx83IkOy99bWB4A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-step5-3x4-6894-6090d1e401de4d7495c2298fc4251f65.jpg"
+              }
+            ],
+            "text": "Stir in mango pulp, add saffron threads, and boil until the mixture thickens, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/uRAvpbLuXCNo67N3edSC6Stzv4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-142747-MangoJam-ddmfs-step6-3x4-6897-763bf509caac4f87bf8fe6b4a289e2aa.jpg"
+              }
+            ],
+            "text": "Pour cooked jam into sterilized jars and seal according to canning directions."
+          }
+        ],
+        "recipeYield": [
+          "24",
+          "3 cups"
+        ],
+        "totalTime": "PT45M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Klaatu"
+            },
+            "reviewBody": "I had never made jam before, and this turned out beautifully. I was greatly aided by an electric mixer in mashing the mango. Also, it helps if you cook the jam in a tall pot, as it bubbles and spatters as it boils, and can make quite a mess. I doubled the recipe and reduced the sugar without a problem, and now I have something I can do with all those mangoes we get in the backyard every summer."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Stewart"
+            },
+            "reviewBody": "I frequently make jam and can it (my family hasn't purchased jam in a decade). I used mangos that were probably more ripe than the author intended. I had 5 large mangos to mix with the syrup. I used a stick blender to mostly puree the mangos, leaving a couple of chunks for texture. I added the juice of half a lemon and the sliced peel (not the pulp) for added pectin and thickening power. I boiled all of that for about 30 min to get to soft jam consistency. The lemon helped to balance the sweetness and the added acid will help prevent spoilage. In the future, I would use a whole lemon and its peel. If you slice the peel thinly, it will break down nicely in the jam.",
+            "datePublished": "2020-06-22T00:05:37.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura"
+            },
+            "reviewBody": "Clear, unintimidating jam recipe. Reading some of the reviews, I cut back on the sugar a bit: I used 4 cups chopped mango (2 large mangos, 1 ripe and 1 not so ripe), 3 cups sugar and 1/4 cup lime juice (I was out of lemon). When the fruit softened a bit I used immersion blender to puree it. I had 4 perfect half-pints of jam, bright in color and yummy tasting, in less than an hour. Christmas presents for neighbors~",
+            "datePublished": "2015-12-14T06:24:07.340Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "I love baking"
+            },
+            "reviewBody": "This was really tasty and full of mango flavor. I only used 1/2 cup sugar and a 3 TBL Low or no-sugar RealFruit Pectin (= 1 box). Very spreadable and really good. I just cut up the mango and put into a pot and used my immersion blender (hand held kind) to get a really smooth consistency. Left out the saffron.",
+            "datePublished": "2011-07-05T05:31:46.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicky Anderson"
+            },
+            "reviewBody": "Great taste! I tweaked by using only a quarter cup of sugar as my mangoes were pretty ripe and very sweet. I also added a half teaspoon of vanilla extract, half teaspoon of ginger and the juice and zest from a half fresh lemon. While it wasn’t quite thick enough for me, I added a tablespoons of cornstarch to help thicken.",
+            "datePublished": "2024-07-10T19:13:42.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda Rheuark Certuche"
+            },
+            "reviewBody": "I did add the zest of 2 navel oranges and the juice to the the water to make 1 cup of liquid. I blended it until almost smooth with a few lumps of fruit. It is a lovely color and flavor. Sunshine in a jar. My mangoes were very ripe. I used about 6 cups blended to 1 cup of sugar, the juice and zest of 2 oranges. I got 5 pints of jam. So good and easy. I like that it doesn't use pectin and it seems to be setting up nicely.",
+            "datePublished": "2017-09-19T18:29:37.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jonesp54"
+            },
+            "reviewBody": "I really liked the ease of this recipe. Nuking the mangos was the easiest way to get to the pulp for me and the 2nd time I made this jam I refrigerated overnight then peeled. I also put the pulp in a food processor for a couple of pulses. Worked great. I guess I'm not cooking the sugar mixture long enough before putting the mango in because it definitely is taking longer than 5 minutes to gel but it gives me plenty of time to get my jars hot. I used 2 mangos which netted 3 half pints. The 2nd time I used 6 mangos which netted 9 3/4 half pints.",
+            "datePublished": "2017-05-13T14:47:17.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Onnie del mundo"
+            },
+            "reviewBody": "I got the tip from one of the reviews. Added lemon and lemon zest. So fruity indeed!",
+            "datePublished": "2021-05-09T05:11:19.103Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Annette Ward"
+            },
+            "reviewBody": "The final result was delicious, but I followed the recipe exactly, and my first batch of sugar totally crystallized. According to my thermometer, the \"thread\" stage is 220, not 270. When I cooked it to that temp, it turned out wonderfully. For those of us who don't live in the tropics, it works very well with frozen mangos also.",
+            "datePublished": "2015-05-18T21:00:35.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PeppyChop2703"
+            },
+            "reviewBody": "I chose the boil method to soften the mangos and realized they were very sweet. Instead of the sugar step i added a tablespoon of minced ginger and under a half cup of honey. Simmered for a half hour Perfect consistency for spreading and really yummy.",
+            "datePublished": "2026-09-03T15:52:06.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amber"
+            },
+            "reviewBody": "Mangolicious Jam. I cut back the sugar by 1/2, as I used a ratio of equal parts mango to sugar. I also used 2 teaspoons lemon juice and 3/4 of a lemon zested for it to thicken.",
+            "datePublished": "2010-08-16T07:07:17.613Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KindBowl1484"
+            },
+            "reviewBody": "No the mango jam is good",
+            "datePublished": "2025-01-14T02:44:40.828Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunFork3020"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-07-24T18:31:20.736Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary Katherine More"
+            },
+            "reviewBody": "It tasted great, but had lots of lumps of mango in it. It tasted VERY sweet, maybe add less sugar if you're going to make it.",
+            "datePublished": "2024-05-12T12:38:16.758Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Johnny Cee"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-04T00:16:17.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Meghan Cummings"
+            },
+            "reviewBody": "I made this but I added pectin and lemon juice/zest. Think next time I'll omit the lemon zest &amp; juice ( a little too lemony). But the sugar amount was perfect for the 2 1/2 lbs of mashed mangos. (1 1/3 + 1/6 cup of sugar - I halfed the 1/3 cup) since it was a 1lb over for the recipe. But took reviewers advice on less sugar. Definitely will make again. It made 6 half pint jars.",
+            "datePublished": "2024-05-01T20:25:27.542Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Captain Jeff Marchant"
+            },
+            "reviewBody": "Funny story! Was looking for a jelly/jam/preserve recipe and went with this one because mango are my all time favorite fruit and it is a simple recipe. I hate sugar and do not keep it or any artificial sweetener in my house. So I'm like I just took out half of the recipes ingredients. Then I thought what do I need water for? Needless to say I cut 2 mangoes twice around the pit, scooped them into my Ninja and blasted them. Viola! Done!!!! My sugar free &amp; water free mango jam/jelly/preserve...I don't even know what to call it",
+            "datePublished": "2024-03-06T18:59:30.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Wells"
+            },
+            "reviewBody": "This jam was good but a little runny and sweet for my tastes. I redid it with 3 quarts of fruit, 5 cups of mango and 1venvelope of liquid pectin. Turned out perfect.",
+            "datePublished": "2023-05-08T07:10:09.998Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pacey"
+            },
+            "reviewBody": "Quick and easy recipe everyone seemed to enjoy. It's a do-again!",
+            "datePublished": "2020-10-10T23:02:03.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jay"
+            },
+            "reviewBody": "Great recipe. I followed other recommendations and added only 1 cup of sugar with a bit of lime zest. it was enough sweet so I recommend to add only a cup of sugar. A definite keeper",
+            "datePublished": "2020-04-09T10:56:30.230Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/142747/mango-jam/",
+          "name": "Mango Jam",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+                  "name": "Sauces and Condiments"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15930/side-dish/sauces-and-condiments/canning-and-preserving/",
+                  "name": "Canning and Preserving Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1961/side-dish/sauces-and-condiments/canning-and-preserving/jams-and-jellies/",
+                  "name": "Jams and Jellies Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

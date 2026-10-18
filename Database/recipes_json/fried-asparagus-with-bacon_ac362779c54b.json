@@ -1,0 +1,470 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220799/fried-asparagus-with-bacon/",
+  "extracted_at": "2026-10-18T03:11:15.341831+00:00",
+  "recipes": [
+    {
+      "name": "Fried Asparagus with Bacon",
+      "ingredients_raw": [
+        "3 slices bacon, chopped",
+        "1.5 teaspoons butter",
+        "1 pound fresh asparagus, trimmed",
+        "1 medium shallot, thinly sliced",
+        "salt and ground black pepper to taste",
+        "1 tablespoon grated Parmesan cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Cook and stir bacon in a skillet over medium heat until crisp, about 5 minutes. Drain grease."
+        },
+        {
+          "id": 3,
+          "text": "Add butter to the skillet and let melt. Stir in asparagus and shallot, then season with salt and pepper. Cover and cook, stirring occasionally, until asparagus is tender, about 5 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Transfer asparagus mixture to a platter. Sprinkle with Parmesan cheese."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Fried Asparagus with Bacon",
+        "datePublished": "2018-06-08T10:00:50-04:00",
+        "dateModified": "2026-05-02T13:27:17-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kathi Richards Smith"
+          }
+        ],
+        "description": "Pan-fried asparagus with bacon, shallots, and Parmesan cheese is a tasty flavor combination and easy way to enjoy fresh asparagus.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/PLddivea0mh8_NTShEw9WndB400=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220799-fried-asparagus-with-bacon-ddmfs-3x4-6177-dcc062fd438e4dca8cfc23149e38f466.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fried Asparagus with Bacon",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "93"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "88 kcal",
+          "carbohydrateContent": "7 g",
+          "cholesterolContent": "13 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "190 mg",
+          "sugarContent": "3 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "3 slices bacon, chopped",
+          "1.5 teaspoons butter",
+          "1 pound fresh asparagus, trimmed",
+          "1 medium shallot, thinly sliced",
+          "salt and ground black pepper to taste",
+          "1 tablespoon grated Parmesan cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/VDvhglqnEpEgzz9whg4BcRPRKlY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220799-fried-asparagus-with-bacon-ddmfs-step1-3x4-6135-16c7cad4650f4e2e97031439f87b799f.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/UEKDpqKb3sVzFjZS_AcLYeYFSUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220799-fried-asparagus-with-bacon-ddmfs-step2-3x4-6144-ea45cce93ed843db999c666790a767c1.jpg"
+              }
+            ],
+            "text": "Cook and stir bacon in a skillet over medium heat until crisp, about 5 minutes. Drain grease."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/KsA2oLreWXppuKcL46kvIeOme2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220799-fried-asparagus-with-bacon-ddmfs-step4-3x4-6150-a3ba55dc42e04982a1d5aaeda4048b39.jpg"
+              }
+            ],
+            "text": "Add butter to the skillet and let melt. Stir in asparagus and shallot, then season with salt and pepper. Cover and cook, stirring occasionally, until asparagus is tender, about 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/PLddivea0mh8_NTShEw9WndB400=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220799-fried-asparagus-with-bacon-ddmfs-3x4-6177-dcc062fd438e4dca8cfc23149e38f466.jpg"
+              }
+            ],
+            "text": "Transfer asparagus mixture to a platter. Sprinkle with Parmesan cheese."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "reviewBody": "YUM! I did use a bit more butter and a little bacon grease. These are really flavorful! I cooked them a little longer b/c we like them on the softer side. I actually forgot to use the parm. on top, but we really didn't miss it (I will use it next time though). This is a keeper...Thanks for sharing. :)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisa"
+            },
+            "reviewBody": "5 stars for flavor but 1 1/2 tsp of butter was def not enough. I ended up throwing in 2 Tbl more &amp; my shallots &amp; asparagus still wanted to stick &amp; burn. I think I'll add a bit of Evoo next time. Thanks, Kathi!!",
+            "datePublished": "2012-06-03T15:32:03.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Where2gonexttime"
+            },
+            "reviewBody": "Since my oven was hot, I decided to roast the asparagus rather than fry/steam them. I tossed the shallots and asparagus with olive oil and seasoned them with salt and pepper. Roasted them at 425 for about 12 minutes, then added crumbled bacon (pre cooked) and cooked for 3-4 more minutes. Next time I might add a little fresh lemon juice. I think this would be good with green beans too.",
+            "datePublished": "2022-05-05T02:16:20.271Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PeppySoup8124"
+            },
+            "reviewBody": "Great Recipe! I made it as written with the addition of a splash of acid (lemon juice) at the very end, right before serving. Also, I used a cast iron skillet to cook the bacon then again for \"Step 3\" frying the asparagus and shallots, that gave it a really nice char in the same 5 minute time allotted for step 3. Very yummy!",
+            "datePublished": "2024-04-23T22:00:52.008Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lillian J"
+            },
+            "reviewBody": "I loved the recipe. Instead of butter, I used equal parts bacon grease and olive oil. My mother loved it. I’m adding this recipe to my family recipe book. Thank you so much for the recipe.",
+            "datePublished": "2023-01-22T18:14:12.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bob"
+            },
+            "reviewBody": "This is a pretty good recipe as it is. I heated some whole mustard seed in the bacon fat until it broke open then added a mix of roasted curry powder and crushed red pepper. Excellent!",
+            "datePublished": "2018-06-06T01:04:48.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "keebdaisy"
+            },
+            "reviewBody": "This was so good! I too used the bacon grease instead of butter. To cook the asparagus more even, I cut them in half and cooked the lower halves about 5 mins and then added the top halves. I didn't have a shallot so I chopped up some green onions. They worked well. Made sure you use real shredded parm cheese, not the bottle kind. It makes it even better.",
+            "datePublished": "2017-04-09T18:39:30.743Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CAcooking"
+            },
+            "reviewBody": "This was so easy! I actually cooked the crumbled bacon, shredded the Parmesan &amp; sliced shallots in the morning. I cooked it right up when the guests were sitting down to dinner. Hubba ! Hubba! The guy who didn’t like vegetables had two helpings. Success!",
+            "datePublished": "2020-10-25T01:45:30.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeanne Flowers"
+            },
+            "reviewBody": "Excellent! I cut my stalks in half, and started the bottom halves cooking first. After 8 minutes, they were barely warm. I cooked it all about another 5-10 minutes and they were still crispy yet tender. I added a splash of fresh lemon juice at the end. My husband doesn’t like asparagus very much, but he loved this! Thanks for the recipe.",
+            "datePublished": "2025-03-24T15:55:10.412Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NobleKiwi7488"
+            },
+            "reviewBody": "I used a little white wine vingar, kept 2 or 3 Tbs of bacon grease in pan and 2 Tbs of butter. Didn't have shallots so used purple onion. Will put in my veggies rotation.",
+            "datePublished": "2024-03-05T00:51:35.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Maria Ickes Mannion"
+            },
+            "reviewBody": "Made this tonight and added bay scallops! Yum! We followed others’ suggestions and used 5 pieces of bacon, added a little lemon juice and of course added the scallops. It’s a keeper!",
+            "datePublished": "2019-01-21T23:47:10.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jack"
+            },
+            "reviewBody": "Tasted really good should of chopped the bacon smaller",
+            "datePublished": "2026-04-27T05:42:53.112Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GentleBran5930"
+            },
+            "reviewBody": "Absolutely gorgeous x",
+            "datePublished": "2025-05-15T07:07:58.221Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tiffany Graf"
+            },
+            "reviewBody": "Absolutely delicious! My son and husband were very happy as I was! Thank you for sharing!",
+            "datePublished": "2024-08-10T01:37:08.431Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cheryl"
+            },
+            "reviewBody": "This recipe is so good, I want to make it with every meal!!!",
+            "datePublished": "2024-04-28T20:30:46.088Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sfindell615"
+            },
+            "reviewBody": "I loved it! Didn't have shallots so I used a small sweet onion, thinly sliced and chopped. And used the bacon grease with the butter. Making it again tonight for dinner. Can hardly wait!",
+            "datePublished": "2024-04-27T17:51:27.614Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann"
+            },
+            "reviewBody": "Followed recipe and was not disappointed. It was the BEST!",
+            "datePublished": "2024-04-27T03:33:13.184Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlene"
+            },
+            "reviewBody": "I followed this recipe exactly except I didn’t drain the bacon grease (there wasn’t much). Asparagus is one of the very few vegetables I like, so I was thrilled to find such a delicious recipe. I will definitely make this again and again!",
+            "datePublished": "2024-04-26T01:26:17.266Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RedFish4454"
+            },
+            "reviewBody": "It is very easy cooking . I was using Onion instead shallots. And also I did microwaving for asparagus for a little bit before cooking.",
+            "datePublished": "2024-04-24T22:40:01.300Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EIng"
+            },
+            "reviewBody": "This was just great! My wife loved it and made sure to tell me to make sure it was added into our rotation. This will be great to make when we have company!",
+            "datePublished": "2024-04-23T23:50:23.815Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220799/fried-asparagus-with-bacon/",
+          "name": "Fried Asparagus with Bacon",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+                  "name": "Side Dish"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+                  "name": "Vegetables"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/918/side-dish/vegetables/asparagus/",
+                  "name": "Asparagus"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

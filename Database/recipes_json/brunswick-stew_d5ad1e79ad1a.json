@@ -1,0 +1,448 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16384/brunswick-stew/",
+  "extracted_at": "2026-10-18T02:20:42.367672+00:00",
+  "recipes": [
+    {
+      "name": "Traditional Brunswick Stew",
+      "ingredients_raw": [
+        "4 ounces diced salt pork",
+        "2 pounds chicken parts",
+        "8 cups water",
+        "1 (28 ounce) can whole peeled tomatoes, chopped",
+        "3 potatoes, cubed",
+        "3 onions, chopped",
+        "2 cups canned whole kernel corn",
+        "1 (10 ounce) package frozen lima beans",
+        "1 tablespoon Worcestershire sauce",
+        "0.5 teaspoon salt",
+        "0.25 teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine salt pork, chicken, and water in a large pot; bring to a boil. Reduce heat to low, cover, and simmer until chicken is tender, about 45 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Remove meat from chicken, chop into bite-sized pieces, and return to pot; discard skin and bones."
+        },
+        {
+          "id": 3,
+          "text": "Add tomatoes, potatoes, onions, corn, lima beans, Worcestershire sauce, salt, and pepper. Simmer, uncovered, stirring occasionally, about 1 hour."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Traditional Brunswick Stew",
+        "datePublished": "2000-02-21T19:43:45-05:00",
+        "dateModified": "2026-07-15T15:59:03-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rene"
+          }
+        ],
+        "description": "This traditional Brunswick stew recipe makes a comforting meal using a great combination of chicken, salt pork, potatoes, beans, tomatoes, and corn.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/lrMRpBEW06dr0MG29SpBWL5f5Zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16384-brunswick-stew-VAT-Beauty-4x3-f44d3d38f2dc4c5da11fad674966aac8.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Traditional Brunswick Stew",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "42"
+        },
+        "cookTime": "PT120M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "368 kcal",
+          "carbohydrateContent": "26 g",
+          "cholesterolContent": "71 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "28 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "496 mg",
+          "sugarContent": "4 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT60M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "U.S.",
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 ounces diced salt pork",
+          "2 pounds chicken parts",
+          "8 cups water",
+          "1 (28 ounce) can whole peeled tomatoes, chopped",
+          "3 potatoes, cubed",
+          "3 onions, chopped",
+          "2 cups canned whole kernel corn",
+          "1 (10 ounce) package frozen lima beans",
+          "1 tablespoon Worcestershire sauce",
+          "0.5 teaspoon salt",
+          "0.25 teaspoon ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine salt pork, chicken, and water in a large pot; bring to a boil. Reduce heat to low, cover, and simmer until chicken is tender, about 45 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove meat from chicken, chop into bite-sized pieces, and return to pot; discard skin and bones."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add tomatoes, potatoes, onions, corn, lima beans, Worcestershire sauce, salt, and pepper. Simmer, uncovered, stirring occasionally, about 1 hour."
+          }
+        ],
+        "recipeYield": "12",
+        "totalTime": "PT180M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Thomas White"
+            },
+            "reviewBody": "needs a can of tomato paste."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UVASPY"
+            },
+            "reviewBody": "This stew has so much flavor. The store didn't have the salt pork, so I substituted it with several slices of bacon. I put three slices for the initial boil, then put another slice in for the last hour. Excellent",
+            "datePublished": "2005-02-26T17:49:00.327Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Plumeria Dee"
+            },
+            "reviewBody": "My first experience with brunswick stew was from a Weight Watchers cookbook in the 1980s. Being the Californian that I am, I made several changes, mostly to cut some calories.\n\nI used 4 slices of bacon, rendered in a dutch oven. Remove the bacon for another dish (cobb salad?), saute skinless chicken pieces in the bacon fat. Remove chicken and cool so you can more easily cut it off the bone. Now you have a base of bacony chicken bits on the bottom of the dutch oven that will enhance the flavors (don't forget to remove the extra fat, you only want the brown bits on the bottom of the dutch oven).\n\nI use fresh green beans, fresh peas, chopped bell pepper, onion, celery and potatos. One important ingredient is missing from this recipe - Cayenne pepper (1/8 tsp). \n\nI cook in a 300oF oven for an hour or longer, and thicken with some tomato paste at the end. \n\nAdjust cayenne, salt and pepper to taste.\n\nWhen I do it again, I'm going to oven roast the chicken. Roasted on the bone imparts a better chicken flavor. I use chicken thighs instead of pork, as we don't eat pork in our home.",
+            "datePublished": "2016-12-15T22:43:17.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CHARLOTTE "
+            },
+            "reviewBody": "I made a huge pot of this for a dinner I cooked at the church last night. I had a bunch of barbqued chicken left from a previous dinner and I boiled this to make it easier to remove from the bone. I used this liquid as the base for my stew. The only other thing I did different was I used canned potaoes and chopped them up and I used speckled butter beans instead of lima beans. Everyone raved about it and the entire pot was consumed. I increased the recipe to feed 50 people. I will diffently be making this again.",
+            "datePublished": "2004-10-23T11:31:56.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debra K Thomas"
+            },
+            "reviewBody": "This is a good recipe, but the Brunswick Stew that my Virginia grandmother made was sweet. This is the same basic recipe as the one she used, but if you want it to be authentic in flavor, try adding a tablespoon or two of sugar. With buttermilk bisquits and sliced vinegar cucumbers, you will have as authentic a Virginia supper as you could ever hope for. Oh! And don't forget the sweet tea!",
+            "datePublished": "2011-01-24T04:13:06.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PeppyIce5864"
+            },
+            "reviewBody": "Absolutely delicious! Tried this recipe but used a slow cooker instead. Also added about 2lbs of pulled pork. This recipe is very close to the authentic Chowning’s Tavern style in colonial Williamsburg.",
+            "datePublished": "2025-02-25T03:56:56.516Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dettie"
+            },
+            "reviewBody": "This was very good. I substituted salt pork with virginia bacon and the lima beans with blackeye peas. I omitted the corn, and added diced green bell pepper and beans. Definitely a keeper!",
+            "datePublished": "2003-08-24T14:42:01.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HmblDrgn"
+            },
+            "reviewBody": "I've made this recipe a couple of times and have received clean plates every time. This gem currently resides in my recipe book. The only change I made was in preparing the chicken the day before. It saved me so much time on cook day.",
+            "datePublished": "2020-02-17T18:16:29.597Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpiffyBeef4837"
+            },
+            "reviewBody": "Great recipe that resembles my recipe of 65 years. I use whatever chicken I have on hand, including frozen leftovers from grocery store broilers. I use enough water to simmer and prepare the chicken. Then I add one small can of chicken broth, a small can diced tomatoes, 12 ounce can of V8 juice. To that I add shoe peg corn, ford hook limas, two chopped carrots, chopped sweet onion, diced potatoes , seasoning with dashes of hot sauce, salt and pepper to taste. I like my stew with a nice broth. Just relax an make it with the ingredient amounts you like.",
+            "datePublished": "2024-07-22T00:20:23.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LeslieD"
+            },
+            "reviewBody": "I used meat from a smoked boston butt to make this. I also used canned potatoes and added some BBQ sauce to thicken and give more flavor. It turned out great!",
+            "datePublished": "2005-01-09T13:49:20.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ZippyMixer1264"
+            },
+            "reviewBody": "Y'all, growing up, Brunswick Stew was a once-a-year treat made by our local Ruritan Club in Disputanta, Virgina. People would line up and stand in the freezing cold, rain, and snow waiting to buy quarts for dinner that night and to freeze for later. I moved away from Virginia about forty years ago and though I've tried Brunswick Stew offered in many areas, have lucked out and found a couple cans of Mrs. Fearnow's, it was never as good as what I remember from childhood. This recipe is really good. I'm keeping this recipe and making it again (and again, inf.). Thank you so much! Just a suggestion, instead of whole kernal corn, substitute it with white shoepeg corn. Makes a heck of a difference.",
+            "datePublished": "2025-03-08T11:04:22.345Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David"
+            },
+            "reviewBody": "Yes no onions no hole tomato use tomato puree and that is a wrap",
+            "datePublished": "2025-12-16T03:23:27.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Yes 1/2 bottle green apple beer",
+            "datePublished": "2024-10-19T19:25:22.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChirpyLemon6340"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-10-08T22:56:13.727Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SpiffyOven2487"
+            },
+            "reviewBody": "My son loves it",
+            "datePublished": "2024-08-03T17:09:22.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Pridgen"
+            },
+            "reviewBody": "I used this recipe for inspiration to use up my garden veggies (tomatoes, corn, acre peas, green beans, onions, and okra) and it was so delicious! What I like about this family recipe is it makes a soup that you can taste the different veggies instead just a BBQ flavor (although I did add a squirt of BBQ sauce). Thanks for sharing Rene, I'll be making this healthy stew often.",
+            "datePublished": "2024-07-07T14:40:17.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoofyLemon8602"
+            },
+            "reviewBody": "I'm sadly not getting the Brunswick stew flavor I'm use to here in SE Virginia. The only thing I didn't have was an onion but I did add a few shakes of minced onions. I also added tomato paste as well as a few squirts of ketchup and 2 small cans of tomato sauce. Not sure what else to do but will keep trying to perfect it.",
+            "datePublished": "2024-03-10T21:02:13.872Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim Johnston"
+            },
+            "reviewBody": "We used pulled pork and pork from ribs. I had two tomatoes from my garden and used just those, along with one large vidalia onion. Added some barbeque sauce as well, and the can of tomato paste, as suggested. It is excellent! Quick and easy. Will definitely make again.",
+            "datePublished": "2020-08-21T18:07:24.513Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jemslp"
+            },
+            "reviewBody": "Good tasting recipe. I subbed bacon for salt pork, added okra to thicken, and add a good splash Or two of Tabasco sauce.",
+            "datePublished": "2020-04-28T00:12:39.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ellen Strazis"
+            },
+            "reviewBody": "Delicious!!! Add two cloves of garlic.",
+            "datePublished": "2020-03-29T00:05:42.403Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16384/brunswick-stew/",
+          "name": "Traditional Brunswick Stew",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+                  "name": "Stews"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17507/soups-stews-and-chili/stews/brunswick-stew/",
+                  "name": "Brunswick Stew Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

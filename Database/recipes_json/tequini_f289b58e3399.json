@@ -1,0 +1,137 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/20637/tequini/",
+  "extracted_at": "2026-10-18T02:46:05.084174+00:00",
+  "recipes": [
+    {
+      "name": "Tequini",
+      "ingredients_raw": [
+        "2 (1.5 fluid ounce) jiggers tequila",
+        "0.5 fluid ounce dry vermouth",
+        "3 drops orange bitters",
+        "1 twist lemon zest, garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a cocktail shaker full of ice, combine tequila, vermouth and orange bitters. Shake well and strain into a cocktail glass. Garnish with a twist of lime."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Tequini",
+        "datePublished": "2000-07-31T18:58:23-04:00",
+        "dateModified": "2022-09-25T21:08:17-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Aimee"
+          }
+        ],
+        "description": "Vermouth, orange bitters and lemon zest begin a martini, transformed into a Tequini by....tequila!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/s9Uf7Fz00iKXOb5JlDzMbeWq4tM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2828972-e7ce907db8b44c9ebfedcee017e52702.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Tequini",
+        "prepTime": "PT4M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "2 (1.5 fluid ounce) jiggers tequila",
+          "0.5 fluid ounce dry vermouth",
+          "3 drops orange bitters",
+          "1 twist lemon zest, garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a cocktail shaker full of ice, combine tequila, vermouth and orange bitters. Shake well and strain into a cocktail glass. Garnish with a twist of lime."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 serving"
+        ],
+        "totalTime": "PT4M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/20637/tequini/",
+          "name": "Tequini",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1742/drinks/cocktails/tequila-drinks/",
+                  "name": "Tequila Drinks Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

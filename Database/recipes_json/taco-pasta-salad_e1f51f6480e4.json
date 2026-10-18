@@ -1,0 +1,435 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222613/taco-pasta-salad/",
+  "extracted_at": "2026-10-18T03:16:27.389795+00:00",
+  "recipes": [
+    {
+      "name": "Taco Pasta Salad",
+      "ingredients_raw": [
+        "2 cups spiral pasta",
+        "1 pound ground beef",
+        "1 (1.25 ounce) package taco seasoning",
+        "3 cups shredded lettuce",
+        "2 cups halved cherry tomatoes",
+        "1 cup shredded Cheddar cheese",
+        "1 (7 ounce) bag corn chips",
+        "0.5 cup chopped onion",
+        "0.5 cup French salad dressing",
+        "2 tablespoons sour cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in spiral pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 12 minutes; drain."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, heat a large skillet over medium-high heat; add ground beef. Cook and stir until beef is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease. Stir taco seasoning into beef; cool."
+        },
+        {
+          "id": 3,
+          "text": "Stir beef mixture into pasta. Add lettuce, tomatoes, Cheddar cheese, corn chips, onion, and French dressing; toss to combine and coat. Top with sour cream."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Taco Pasta Salad",
+        "datePublished": "2020-02-26T00:51:15-05:00",
+        "dateModified": "2026-05-14T11:30:26-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "mssyann8"
+          }
+        ],
+        "description": "This taco and pasta salad recipe combines two favorite salads: spiral pasta, ground beef, taco seasoning, lettuce, tomatoes, Cheddar cheese, and more.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/gMmE-OmGnJ8DlISN2UPtq_kc4i8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/861852-c8c0feaaf4844409b16c7301b4868e73.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Taco Pasta Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "34"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "618 kcal",
+          "carbohydrateContent": "46 g",
+          "cholesterolContent": "68 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "23 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "980 mg",
+          "sugarContent": "6 g",
+          "fatContent": "38 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch",
+          "Snack",
+          "Dinner",
+          "Pasta",
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "American",
+          "Mexican",
+          "Tex-Mex"
+        ],
+        "recipeIngredient": [
+          "2 cups spiral pasta",
+          "1 pound ground beef",
+          "1 (1.25 ounce) package taco seasoning",
+          "3 cups shredded lettuce",
+          "2 cups halved cherry tomatoes",
+          "1 cup shredded Cheddar cheese",
+          "1 (7 ounce) bag corn chips",
+          "0.5 cup chopped onion",
+          "0.5 cup French salad dressing",
+          "2 tablespoons sour cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in spiral pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 12 minutes; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, heat a large skillet over medium-high heat; add ground beef. Cook and stir until beef is crumbly, evenly browned, and no longer pink, about 10 minutes. Drain and discard any excess grease. Stir taco seasoning into beef; cool."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir beef mixture into pasta. Add lettuce, tomatoes, Cheddar cheese, corn chips, onion, and French dressing; toss to combine and coat. Top with sour cream."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I used ground turkey and homemade taco seasoning in this pasta salad. I chose not to toss the corn chips into the whole bowl of pasta salad. As I served it, I sprinkled Chili-Cheese Fritos over each bowl. This was a great quick dinner and a nice compromise for a mother that's sick of regular taco dinners and kids who can't get enough. I made homemade fry bread to serve with this. I would make this again but I think I would mix the sour cream into the french dressing next time and fold it in with the rest of the salad ingredients."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CONNIE STORLIE"
+            },
+            "reviewBody": "First time I made this as written. We thought the French dressing was a little sweet. This time, I left out lettuce and French dressing and made a dressing out of 8 oz of sour cream with 1/2 cup of medium taco sauce. Added sliced black olives and green bell peppers and other listed ingredients. Served with taco flavored Doritos. No left overs.",
+            "datePublished": "2023-07-15T18:15:05.565Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "James Foster"
+            },
+            "reviewBody": "Turned out great. Personal tweaks for week's work-lunch prep:Taco Sauce instead of dressing.-Lettuce+Red bell pepper, 1 can corn, 1 can black beans.Serve warmed.Delay adding sour cream, chips, and cheese until already warmed for individual meal.+Avocado slice if I'm feeling fancy.",
+            "datePublished": "2024-01-12T21:46:28.842Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pauline"
+            },
+            "reviewBody": "The flavors are very good and I liked the dish as a whole. However there was far too much pasta in proportion to the rest of the ingredients. I made it a second time using half of the pasta called for and it was much better. Even with half the pasta it still makes 4 -6 good servings. I served both the chips and the lettuce on the side and let everyone toss their own, in this way you can still store left overs. A good and different dish!",
+            "datePublished": "2014-10-11T15:03:44.363Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Korpak Bechtel"
+            },
+            "reviewBody": "I made a lower fat version that my family loved! We used lean ground beef, reduced fat sour cream, lite french dressing, and lower fat cheese, and substituted tortilla chips for corn chips. The beauty of this recipe is you can add \"extras\" if you like: sliced black olives are good, and I chopped a handful of cilantro and squeezed fresh lime juice over it to make it to our liking. I garnished it with avocado slices, too. The pasta is what makes this taco salad anything but ordinary -- tasty, great mix of textures, and good fresh meal to serve.",
+            "datePublished": "2013-08-20T05:00:17.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LaTasha Ward"
+            },
+            "reviewBody": "For starters, we did not use the sour cream at all. I made this with ground turkey instead of beef, pepperjack cheese instead of cheddar cheese, and spaghetti instead of spiral pasta. We bought Tostitos scoops instead of corn chips to scoop since I do not like wet chips, but once we started eating it, we completely forgot we had the chips till the next day. This was super good. I am not a fan of pasta salads at all, but my husband and I were pleasantly surprised. I will be making this a lot over the summer!!!",
+            "datePublished": "2014-06-16T10:22:37.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katie Conn"
+            },
+            "reviewBody": "This was awesome!!!! We threw in some grilled onions and peppers as well and added more French salad dressing and it was delicious! We just need to make sure and double the recipe next time because it was scarfed up!",
+            "datePublished": "2017-06-15T18:04:19.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Jade"
+            },
+            "reviewBody": "I used rice instead of beef, southwest chipotle dressing instead of French, and added jalapeños, red bell pepper, and olives and this was AMAZING!",
+            "datePublished": "2014-06-09T12:44:11.600Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "reviewBody": "YUM! I had to use more dressing than called for (I used Catalina, b/c I had it here), and served the corn chips on top instead of mixing them in b/c I didn't want them to get mushy. I served this warm b/c hubby requested it that way and I really wasn't sure if this was supposed to be warm or cold, so... A very nice change from the usual and one that I would make again! Thanks for sharing. :)",
+            "datePublished": "2012-07-13T16:24:58.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CHERYLASTRA"
+            },
+            "reviewBody": "Used ground turkey, Chicken Taco seasoning packet &amp; added sweet corn kernels. Also added sliced black olives. Forgot the corn chips and didn't miss them. It was so good! Will definitely make again.",
+            "datePublished": "2015-08-10T09:22:07.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Molly"
+            },
+            "reviewBody": "Family loved the uniqueness of this taco salad having pasta with it. I always have taco meat made ahead and froze in 1 lb. packages for quick meals. It came in handy with this recipe. I mixed part of the corn chips in the recipe, and saved some to add to the top of the salad when served. I made 'My Grandmother's French Dressing' from AR for the French dressing the recipe called for. We had a delicious meal that will be repeated.",
+            "datePublished": "2013-08-20T05:07:30.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gabby7901"
+            },
+            "reviewBody": "I make my own taco meat; I had plenty of meat left over so I decided to try this. It was a huge hit! I'll definitely make this again.",
+            "datePublished": "2023-06-16T20:46:50.374Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RoseMixer9270"
+            },
+            "reviewBody": "My sister and I really liked it! It tastes just like you are eating a taco. The only thing we omitted was the red onion cause we both don't really like onion. This is one we will make again, definitely.",
+            "datePublished": "2022-06-15T04:27:26.905Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "abbyz2000"
+            },
+            "reviewBody": "My 9 year old loved it and asked for seconds. I used homemade taco seasoning and cooked onions, banana peppers and green peppers in with the ground turkey.",
+            "datePublished": "2019-09-23T00:46:07.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dobbydo"
+            },
+            "reviewBody": "Only change I made was to skip the lettuce as I was taking it to a picnic...worked out well. I got several requests for the recipe.",
+            "datePublished": "2018-07-07T23:51:48.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peggy McKay"
+            },
+            "reviewBody": "Family wasn't fond of this too many noodles and the sweetness of French just wasn't good with taco seasoned beef",
+            "datePublished": "2016-08-01T14:48:47.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol Jannaman"
+            },
+            "reviewBody": "My family really loves this dish. My kids all ask for it each week for dinner. It's crunchy and soft at the same time. The corn chips and french dressing are what make this for me. Thank you for submitting it.",
+            "datePublished": "2016-06-18T23:27:26.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chas"
+            },
+            "reviewBody": "Crowd pleaser. I doubled the recipe for unexpected guests coming for dinner. I did substitute green onion for white. I would recommend not adding chips until serving.",
+            "datePublished": "2016-05-23T09:28:15.220Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee Longenberger"
+            },
+            "reviewBody": "Love the mix of the flavors and that it is so easy to cook. My son help me cook this. I will be cooking this again.",
+            "datePublished": "2015-08-09T15:52:16.807Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kitchen Kitty"
+            },
+            "reviewBody": "We had this for dinner tonight and everyone thought it was pretty good (even for my 5 and 2 year old). I added half a green onion, but would just leave it out next time. I cooked up the 1 lb of taco meat, but halved this recipe, which gave us 4 adequate portions, without leftovers which I don't think would save well.",
+            "datePublished": "2014-12-29T15:52:19.813Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222613/taco-pasta-salad/",
+          "name": "Taco Pasta Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

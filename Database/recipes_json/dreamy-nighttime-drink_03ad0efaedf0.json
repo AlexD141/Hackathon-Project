@@ -1,0 +1,443 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/158655/dreamy-nighttime-drink/",
+  "extracted_at": "2026-10-18T02:17:36.264344+00:00",
+  "recipes": [
+    {
+      "name": "Dreamy Nighttime Drink",
+      "ingredients_raw": [
+        "1 cup milk",
+        "1 teaspoon honey",
+        "2 drops vanilla extract",
+        "1 pinch ground cinnamon"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Pour milk into a microwave-safe mug. Cook on high until milk is very hot and begins to foam, about 3 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Stir in honey and vanilla, then sprinkle with cinnamon before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Dreamy Nighttime Drink",
+        "datePublished": "2008-01-12T19:40:31-05:00",
+        "dateModified": "2025-12-15T04:59:13-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "essiemay"
+          }
+        ],
+        "description": "Fairy milk is a simple, soothing nighttime beverage made with warm milk and flavored with honey, vanilla, and cinnamon to help you sleep at night.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/AnkSsrzMLjk5vqf56ED8d-_JcA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158655-dreamy-nighttime-drink-ddmfs-4x3-0892-8c7a99f0c66b49948c57b8d806c31065.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Dreamy Nighttime Drink",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "250"
+        },
+        "cookTime": "PT5M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "152 kcal",
+          "carbohydrateContent": "19 g",
+          "cholesterolContent": "20 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "101 mg",
+          "sugarContent": "18 g",
+          "fatContent": "5 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Beverage"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup milk",
+          "1 teaspoon honey",
+          "2 drops vanilla extract",
+          "1 pinch ground cinnamon"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/bzSvMHqMEI5MmLbOFijDusawhe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158655-dreamy-nighttime-drink-ddmfs-step-1-0853-4x3-9ed8f5969d0f4906b2b27ff447ed110a.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Gy6o9WUPgHTV9fXJoY6AOrNpMsE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158655-dreamy-nighttime-drink-ddmfs-step-2-0862-4x3-396731056fd14e47988108e43ac80152.jpg"
+              }
+            ],
+            "text": "Pour milk into a microwave-safe mug. Cook on high until milk is very hot and begins to foam, about 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gmwIwZhBViI7tvApn4O98hYO_TE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158655-dreamy-nighttime-drink-ddmfs-step-3-0871-4x3-43f6ed2688b54813bc2677ec43f10336.jpg"
+              }
+            ],
+            "text": "Stir in honey and vanilla, then sprinkle with cinnamon before serving."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Wonderful nighttime beverage - especially if you are having trouble sleeping! I used skim milk and added a pinch of nutmeg. If I have a little more trouble sleepling I just might add a little shot of bourbon - whatever works!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SoufflGirl"
+            },
+            "reviewBody": "Very warming from the inside out. I only needed to microwave the milk for less than 2 minutes before it would start boiling over, however. Don’t do 3 minutes right off the bat if you have a newer microwave! I also doubled the honey and added almond extract in addition to the vanilla. Very good! Would be especially good with a little rum or Irish cream, I think. :)",
+            "datePublished": "2019-10-28T02:33:41.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andrea Courtney"
+            },
+            "reviewBody": "I've made this a number of times now, and it's consistently delicious &amp; comforting! The very first night I tried it, it worked like a dream! I fell asleep in ten minutes after drinking it. \n\nFor my microwave, about 2:45 is a good amount of time, but it will vary for everyone. Any more time than that and it almost scalds it for me. \n\nI do want to mention that I double the honey, and the vanilla extract and am pretty generous with the cinnamon! I stir cinnamon into the drink itself, and top it off with it for a garnish. \n\nI loved it so much, I've even shared the recipe with my mom! :)",
+            "datePublished": "2016-07-30T09:46:56.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoofySpud6775"
+            },
+            "reviewBody": "Beautiful Drink 🥛🍯😅 Had bitten both sides of my tongue 👅 during a seizure earlier 😕 I wanted something in place of lemon 🍋 to add to my honey, came across this recipe, was on my way to bed for the night so was perfect timing.. was rather easy to make, took roughly 2m 30sec in the microwave. I then added 1 extra drop of extract &amp; another teaspoon of honey, sprinkled with plenty of cinnamon. Yummy 🤤 &amp; very soothing.. ThAnKyOu xx",
+            "datePublished": "2023-09-07T15:56:35.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "StormyHotWolf88"
+            },
+            "reviewBody": "I wondered if anyone else made this drink. I didn't quite know how my grandmother made it so I experimented with this since I was a child. Difference is that instead of the vanilla extract, I used a teaspoon of butter and then microwave for 1:00 to 1:10 until the butter melts completely. A spoonful of honey (or sugar). I tend to use nutmeg over cinnamon which hurts my throat but I find powered chocolate works well too.",
+            "datePublished": "2016-03-03T21:43:52.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vanessa"
+            },
+            "reviewBody": "Very good! I added 3 teaspoons of honey, sprinkle of both cinnamon and nutmeg and 1/2 teaspoon of vanilla to 1% milk. I also only microwaved the milk for 2 1/2 minutes.",
+            "datePublished": "2010-03-09T17:27:05.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kat"
+            },
+            "reviewBody": "Simple to make and had a very good taste. I did change honey to 2 tsp. and the vanilla to 1 tsp. I also added 1 drop of red food coloring to make it pink. I topped it off with semi-frozen cool whip, pipped on top of the milk which I then renamed it \"Princess Milk\". Worked for my 3 yr. old granddaughter and it was something she could help decorate.",
+            "datePublished": "2008-01-24T11:31:59.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SHERRY"
+            },
+            "reviewBody": "This drink was very relaxing. 3 minutes was far too hot and I had to let it cool off for 2 minutes before drinking. I added 2 teaspoons of honey. I added 2 dashes of nutmeg as recommended by another user and really enjoyed it. Don't forget the vanilla! It definetly gave it the little extra it needed.",
+            "datePublished": "2010-03-09T18:47:32.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristy Guillotte"
+            },
+            "reviewBody": "Ok, this is good as is, but this is what I did to make it to my taste... increased the honey like other reviewers suggested, used pumpin spice also, and extra vanilla. I made this in my latte/cocoa maker and it was so good and frothy. I like Chai tea and this was very good without the cost of going to a coffee shop!",
+            "datePublished": "2010-03-09T08:51:24.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Conn"
+            },
+            "reviewBody": "Heavenly!! I added a little heavy whipping cream and a dash of cloves and nutmeg. What really topped it off was a little Crown Royal Vanilla. My new bedtime beverage!",
+            "datePublished": "2019-05-25T08:35:15.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dana Seago"
+            },
+            "reviewBody": "I added a little nutmeg and sugar. It was REALLY GOOD. This will now be my go-to recipe. Loved it.",
+            "datePublished": "2023-09-24T09:28:15.711Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janaki"
+            },
+            "reviewBody": "It was definitly one of the softest, lightest, yet soothing nightime drink. Though, in my opinion, it didn't help me sleep. It helped me wind down, enjoy the flavors, and relax. Definitly a keeper.",
+            "datePublished": "2026-07-24T00:42:03.544Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katherine"
+            },
+            "reviewBody": "My kids all liked this, though some thought it could use more honey :)",
+            "datePublished": "2025-11-14T00:45:07.593Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ana"
+            },
+            "reviewBody": "This recipe yielded great flavors! For my family member with glucose restrictions, we omitted honey &amp; added a little more of the listed vanilla extract &amp; ground cinnamon. Love this drink, thanks so much essiemay!",
+            "datePublished": "2025-08-20T23:06:24.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nichole Clausen"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-05-01T23:10:34.308Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoofySyrup2693"
+            },
+            "reviewBody": "I've got a cold and was craving a comforting hot drink to warm me up and comfort me (melodramatic, but being sick isn't fun!), and I ran into this simple recipe. It's a spin on the basic milk and honey my mum used to make for me as a kid, so I decided to give it a try. So good! All the comfort and warmth with an extra dash of decadence. The only tweak I would suggest, in line with other commenters, is to reduce the microwave time from three minutes to two for most contemporary microwaves. It was already on the cusp of boiling over at the two-minute mark, so I'm glad I kept an eye on it! Conclusion: A great simple and comforting recipe for a warming bedtime drink. Thank you!",
+            "datePublished": "2024-11-20T04:10:57.065Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carrie Brink"
+            },
+            "reviewBody": "So good, and so relaxing- great sleep!",
+            "datePublished": "2024-07-11T05:24:48.774Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Beth Enzenauer"
+            },
+            "reviewBody": "I added a little lavender and cayenne pepper to it and made a trial run of Faerie milk for Belane. Tasted amazing",
+            "datePublished": "2024-04-26T06:07:55.715Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sariah Griffin"
+            },
+            "reviewBody": "This is fantastic. A nice warm milk drink to end the day. Will make over and over.",
+            "datePublished": "2024-03-01T01:59:32.598Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SnazzySeed8594"
+            },
+            "reviewBody": "This is such a great blend of tastes not to sweet and you can substitute vanilla essence for the extract but just do it in double the quantity",
+            "datePublished": "2023-07-10T20:13:39.169Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/158655/dreamy-nighttime-drink/",
+          "name": "Dreamy Nighttime Drink",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

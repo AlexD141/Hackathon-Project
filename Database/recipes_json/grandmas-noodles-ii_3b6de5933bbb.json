@@ -1,0 +1,465 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11776/grandmas-noodles-ii/",
+  "extracted_at": "2026-10-18T01:47:29.238042+00:00",
+  "recipes": [
+    {
+      "name": "Grandma’s Homemade Noodles",
+      "ingredients_raw": [
+        "1 large egg, beaten",
+        "2 tablespoons milk",
+        "0.5 teaspoon salt",
+        "1 cup sifted all-purpose flour, or more as needed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather the ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine egg, milk, and salt in a bowl. Add sifted flour and stir until a dough forms, adding more flour as needed, a little at a time, for the dough to come together. Separate into two balls."
+        },
+        {
+          "id": 3,
+          "text": "Sprinkle a work surface with flour and roll out each piece of dough as thin as you like. Let rolled dough rest for 20 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Cut into strips and spread to dry, dusting with a bit of flour so the noodles don’t stick together. Let dry for approximately 2 hours."
+        },
+        {
+          "id": 5,
+          "text": "Cook noodles in boiling salted water, or hot soup, until tender, about 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Grandma’s Homemade Noodles",
+        "datePublished": "1999-03-08T21:45:02-05:00",
+        "dateModified": "2026-10-06T22:31:02-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sandy"
+          }
+        ],
+        "description": "A homemade noodle recipe for perfect egg noodles made from egg, salt, milk, flour, and baking powder. You’ll love how they taste in soups and broths.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/V8g8lzWbB0R79ZW_qeB2YHGJSzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11776-grandmas-noodles-ii-VAT-001-4x3-1-26453a93004b42f7a2dacdf345254ec3.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/bRSMeHqz-ma1DlVvV.mp4",
+          "description": "AR0932",
+          "duration": "PT3M10S",
+          "name": "Grandma’s Noodles II",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/bRSMeHqz/poster.jpg?width=1280",
+          "uploadDate": "2021-07-07T05:26:32-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Grandma’s Homemade Noodles",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "356"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "135 kcal",
+          "carbohydrateContent": "24 g",
+          "cholesterolContent": "47 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "265 mg",
+          "fatContent": "2 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 large egg, beaten",
+          "2 tablespoons milk",
+          "0.5 teaspoon salt",
+          "1 cup sifted all-purpose flour, or more as needed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Gather the ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine egg, milk, and salt in a bowl. Add sifted flour and stir until a dough forms, adding more flour as needed, a little at a time, for the dough to come together. Separate into two balls."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Sprinkle a work surface with flour and roll out each piece of dough as thin as you like. Let rolled dough rest for 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cut into strips and spread to dry, dusting with a bit of flour so the noodles don’t stick together. Let dry for approximately 2 hours."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/V8g8lzWbB0R79ZW_qeB2YHGJSzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11776-grandmas-noodles-ii-VAT-001-4x3-1-26453a93004b42f7a2dacdf345254ec3.jpg"
+              }
+            ],
+            "text": "Cook noodles in boiling salted water, or hot soup, until tender, about 10 minutes."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT170M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy Majesky Kalisch"
+            },
+            "reviewBody": "This is a wonderful recipe &amp; so simple. I used my food processor. Just mix the egg &amp; milk together in one bowl &amp; put the dry ingredients in the processor bowl. Put the top on,turn on the processor &amp; slowly pour the wet ingredients through the food chute. In just seconds, it will form a ball. Stop the processor immediately &amp; VOILA that's all there is to it! Just have to roll it out. Thanks for the recipe."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly G"
+            },
+            "reviewBody": "My family loves it when I make these noodles for my chicken noodle soup. I have made these several times with baking powder, w/o baking powder, rolled thin, rolled thick, dried out , not dried out. Personally like to add the baking powder it makes them a bit more airy, I also like them rolled thicker, &amp; they don't need to be dried out at all. I make them &amp; in to the pot they go,very quick &amp; easy. These noodles are also great the next day as they sit over night in the soup they don't get mushy. Yummy comfort food!",
+            "datePublished": "2007-01-04T22:50:24.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MommyFromSeattle"
+            },
+            "reviewBody": "Good recipe but should definitely double amount for a family of 4. To make sure noodles aren't tough, do not knead. Kneading this at all will make a rubbery, tough noodles. Mix the dough until ingredients are just combined. I mix all the ingredients in a KitchenAid mixer then rolled it out by hand. To minimize overworking the dough, mix all the wet ingredients first before adding to the flour. I then divided the dough ball into two halves (4 sections if doubling the recipe) and wrapped in plastic to let it sit for about 20 min to let the gluten relax. This will make rolling easier and prevent shrinking. I then cut the pasta with a pizza cutter and immediately cooked them. No need to wait 2 hrs. Also, I found 1/4 tsp of baking powder was plenty to give the pasta some airiness. Freezes well too, just make sure to flour cut noodles well before freezing. A great simple recipe. 4 stars for lack of directions, 5 stars for recipe itself.",
+            "datePublished": "2010-12-15T08:47:28.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lindsay Vereschagin Tripp"
+            },
+            "reviewBody": "these came out a bit dense, not quite what i was looking for but still very good. I think i'm going to play around with these a bit next time. I did not use the baking powder. EDIT: These are my favorite noodles! They turned out to be exactly what I was looking for after sitting in the soup overnight in the fridge and were perfect when I defrosted some soup I had frozen. I've made them a dozen times now and this is the easiest way I've found: I make these in my food processor, I combine all the dry ingredients and pulse in the wet ones until combined and dough forms into a ball that pulls away from the sides and then roll out the dough. Keep in mind that these to grow when cooked so roll them out thinner than you think you need to and cut them smaller than the size you desire. Oh if making for a group of 4 or more you're going to want to double the recipe or triple it if making a large batch of soup to freeze. I now make extras because they're the favorite part of the soup in our house. Try this recipe, it's a keeper!",
+            "datePublished": "2011-05-27T19:31:20.197Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Becky Ripley Cooper"
+            },
+            "reviewBody": "My mother used this recipe, and its been passed down three generations. Personally, I think the baking powder is key. I usually triple the recipe, use some that day, then freeze the rest. To freeze, flour the noodles really well, lay them flat on a cookie sheet, then pop them in the freezer. When frozen, I put the noodles and the extra flour in a ziplock bag and return to freezer. They are good to go whenever you need them. The extra flour acts as a thickening agent when you cook them in broth.",
+            "datePublished": "2009-10-12T04:16:26.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "krisgo"
+            },
+            "reviewBody": "I prepared the recipe by hand with a couple of changes. I did not let the dough stand after rolling it out (mainly because I forgot to). Also, I only let the noodles sit for about 10 minutes before adding to my chicken stock. This is definitely a keeper and will be added to the weekly rotation. A note of caution to everyone, the noodles do increase in size so roll them thinner than you want them and cut them smaller than you want the finished size to be. Really enjoyed this recipe and thank you for sharing.",
+            "datePublished": "2011-11-22T16:19:46.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "moxie mirth"
+            },
+            "reviewBody": "Mine came out ugly as sin (nothing like the photos shown), but they were chewy and delicious. This recipe is a keeper! EDIT: Second time, I rolled them paper thin, and when it was time to cut, I lightly floured the top and folded the dough over on itself, slicing off long, even strips. The kidlet even helped out. Easy breezy - whole pot of egg noodles for $.25 and a half hour's labor.",
+            "datePublished": "2010-10-12T18:00:17.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jill Schultz"
+            },
+            "reviewBody": "These are beautiful noodles. I'm deleting the rest of the egg noodle recipes from my recipe box! Easy to make and easy to work with. I made them exactly as recommended only I used my Kitchen Aid mixer with a dough hook, mixing the flour/baking powder mixture in slowly and let it run until a nice ball formed and was smoothly kneaded. I then used a pasta machine to cut it into noodles. I ran small balls of dough through the flat lasagna roller at #1, #2, #3, and finally at #4 thickness. Then I ran the sheet through the fetuccine-sized roller. I only dried them for about 40 minutes then added them to my chicken soup. They're thick but manage to maintain a lightness that I like. \nThank you for sharing this recipe!",
+            "datePublished": "2013-11-04T12:24:49.450Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vickypy"
+            },
+            "reviewBody": "I have made homemade noodles for many years and my recipe is very similar to this one. However, a really easy way to cut them is: After rolling your dough out thinly, roll it into a roll and cut across at intervals as wide as you want your noodles to be. Then just pick up the outside end of each noodle and drop them into your soup. Much easier and faster than cutting each one individually.",
+            "datePublished": "2013-02-15T08:19:18.757Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GOODIEGETTERS"
+            },
+            "reviewBody": "I used to get a turkey noodle soup from a restaurant I worked at back in the late 80's called Bakers Square here in SoCal. It was the only place that make nice thick noodles like these and the mouth-feel was delightful for a poultry soup. \n\nThe comment to use cake flour is def. a good one for these. If you like a clear broth I also recommend making and straining your soup stock and vegetables into a separate pot and boil your noodles in salted water separately. Drain and Rinse them with cold water to prevent sticking together and then keep in a zip lock or Tupperware until ready to place into the dinner bowls. This keeps your broth from getting too starchy and changing the soup into an undesirable milky floury broth.",
+            "datePublished": "2020-11-25T13:23:27.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "onegrace"
+            },
+            "reviewBody": "I made this with all-purpose Gluten-free baking flour by Bob's Red Mill. I made two batches, using the food processor, as one reviewer suggested. I followed the recipe for the first batch, except using 1/2 the salt &amp; baking powder. It seemed VERY dry &amp; barely held together. For the 2nd batch I added 1 T of milk, keeping the rest the same. Still a bit dry, but more cohesive. Both cooked up well &amp; were indistinguishable form each other in the end. They were a hit! I am sure I will be making them again soon :)",
+            "datePublished": "2016-01-14T18:55:08.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "megg"
+            },
+            "reviewBody": "Great. Easy. Will try with the baking powder next time.",
+            "datePublished": "2026-10-02T22:29:37.632Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Myra"
+            },
+            "reviewBody": "Added baking powder",
+            "datePublished": "2026-09-17T20:06:02.768Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dawn Calhoun Aaberg"
+            },
+            "reviewBody": "This is a very old recipe that I learned from my Grandma years ago. Milk, egg, salt and flour. I let my noodles dry for several hours before cooking. Turns out awesome.",
+            "datePublished": "2026-09-08T21:57:37.386Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "They're sooo good and tender. Be sure to roll them out thinner than you think youd like, taking into consideration they will swell and be thicker and longer as they cook. They're good to dry overnight also.",
+            "datePublished": "2026-09-08T20:39:25.961Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Connie Sue Halstead"
+            },
+            "reviewBody": "Same way I've been making mine since I started making noodles with my aunt Anna she's the one who taught me I now use bread flour",
+            "datePublished": "2025-12-30T11:24:04.981Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cynthia Browning Arney"
+            },
+            "reviewBody": "No Leftovers at Thanksgiving! and I quadrupled the recipe. Twelve year old granddaughter helped me make them. I let them sit overnight on cookie sheets and they were fine.",
+            "datePublished": "2025-11-28T13:52:59.748Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele Crysel"
+            },
+            "reviewBody": "Basic egg noodle recipe. Always turns out so good! I followed directions exactly, except I tripled it,and it was fool proof!",
+            "datePublished": "2025-11-22T15:40:23.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debi"
+            },
+            "reviewBody": "Just like my mom made",
+            "datePublished": "2025-11-04T16:26:37.616Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "I have made this recipe several times and never had any problems. Love that I can make my own noodles.",
+            "datePublished": "2025-07-14T19:14:14.453Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11776/grandmas-noodles-ii/",
+          "name": "Grandma’s Homemade Noodles",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,438 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14944/blt-dip/",
+  "extracted_at": "2026-10-18T02:02:57.986796+00:00",
+  "recipes": [
+    {
+      "name": "BLT Dip",
+      "ingredients_raw": [
+        "1 pound bacon",
+        "1 cup mayonnaise",
+        "1 cup sour cream",
+        "1 tomato - peeled, seeded and diced"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels."
+        },
+        {
+          "id": 2,
+          "text": "Combine mayonnaise and sour cream in a medium bowl. Crumble bacon into mayonnaise mixture; mix until combined. Stir in tomatoes right before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "BLT Dip",
+        "datePublished": "1999-11-30T16:28:27-05:00",
+        "dateModified": "2026-01-05T05:47:03-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kathy Bezemes Walstrom"
+          }
+        ],
+        "description": "This BLT dip recipe features a creamy mayo and sour cream base studded with crisp bacon bits and diced tomatoes, perfect served cold with crackers.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/BmitD5qdN-Nd2rvfk_58fE2DLHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/665563-33b48cd48f894675b6fec9e980f92d50.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/wMzkZVEg-JxZ4e411.mp4",
+          "description": "Take the flavorful taste of a BLT sandwich and turn it into an unforgettable dip. In this video, Nicole shows you how to make an easy BLT dip for your next party. This recipe combines freshly diced tomatoes and chopped bacon with sour cream and mayo for a creamy dip. The BLT dip is cold, crunchy, delicious, and can be made in under twenty minutes. Whatever the occasion is, everyone will be coming back for more.",
+          "duration": "PT30S",
+          "name": "How to Make BLT Dip",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wMzkZVEg/poster.jpg?width=1280",
+          "uploadDate": "2023-06-09T14:03:28-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "BLT Dip",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "1112"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "181 kcal",
+          "carbohydrateContent": "2 g",
+          "cholesterolContent": "22 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "301 mg",
+          "sugarContent": "0 g",
+          "fatContent": "18 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack",
+          "Condiment"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound bacon",
+          "1 cup mayonnaise",
+          "1 cup sour cream",
+          "1 tomato - peeled, seeded and diced"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/BmitD5qdN-Nd2rvfk_58fE2DLHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/665563-33b48cd48f894675b6fec9e980f92d50.jpg"
+              }
+            ],
+            "text": "Combine mayonnaise and sour cream in a medium bowl. Crumble bacon into mayonnaise mixture; mix until combined. Stir in tomatoes right before serving."
+          }
+        ],
+        "recipeYield": [
+          "16",
+          "3 cups"
+        ],
+        "totalTime": "PT15M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BaysChick"
+            },
+            "reviewBody": "Ok, I gave this 5 stars, but...\r\n\r\nI took recipe a step further. I added 8oz of cream cheese and 2 cups of shredded cheddar cheese. Then I baked it at 350 for about 20 minutes. I served this at a party and everyone just stood around the dip devouring the dip with Fritos! Not one little speck was left - I thought they were going to lick the bowl!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kweb4"
+            },
+            "reviewBody": "This dip vanished (quickly) as my guests said, \"this tastes JUST like a BLT!\" I'll make it again, as it's incredibly easy and tasty. One suggestion to keep the dip creamy and not runny: dice your tomatoes first, and store them in the fridge on paper towels to soak up the juices. I stored the tomatoes overnight, then mixed in the tomatoes *just* before I served it. For a beautiful presentation, I served it in a \"bowl\" made of large iceberg lettuce leaves, and tossed about a 1/4 cup of diced tomatoes on top of the dip for color.",
+            "datePublished": "2003-08-25T15:52:09.907Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NewJosieGirl"
+            },
+            "reviewBody": "Don’t forget the lettuce (not in the recipe, but shred some and mix with dip just before serving). Like some others have said, add some garlic powder to enhance the flavor, and I recommend a green onion or two also. (Lastly, I agree with the person who said to cook the bacon in the oven at 375 degrees for about 20 minutes on a foil-lined cookie sheet; much easier than frying.)",
+            "datePublished": "2024-02-01T19:47:07.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jackie Kober"
+            },
+            "reviewBody": "I followed the other reviewers' suggestions and added green onions, cayenne pepper, smoked paprika, diced pimentos from the jar, liquid smoke, half a package of cream cheese, cheddar cheese (2 cups), bacon both inside and on top for garnish, and let it sit overnight. \n\nReheated and topped with green onions and roma tomatoes (seeds removed) before serving. Served with plain ruffles.\n\nWe had a \"dip party\" at work and people said this was the best dip! Will definitely make this again!",
+            "datePublished": "2020-02-25T23:48:01.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pikklls"
+            },
+            "reviewBody": "I've made this several time and I'm always asked for the recipe! The changes I made are to add about 1-1/2 tablespoons of dry ranch seasoning (to taste) and throw in a handful of shredded cheddar cheese to give it more \"body\". Refrigerate overnight and top with chopped tomatoes and bacon before serving. Its sooo good! If taking it to a gathering, make sure you take copies of the recipe because people will definitely ask for it!",
+            "datePublished": "2016-10-02T18:55:59.193Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "renestephens"
+            },
+            "reviewBody": "Made this several times and it is always a hit. The only adjustments I do is... 1. I always mix the mayo, sour cream, bacon and refridgerate the night before to let the favors come together. 2. Add tomato and shredded cheese right before serving. I do serve this in a lettuce bowl. I always get request for the recipe!!",
+            "datePublished": "2022-12-20T13:57:11.779Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PdtmgrCook"
+            },
+            "reviewBody": "This was amazing. I used the combination of all the most helpful reviews which equated to- a can of diced tomatoes drained with paper towels for a few hours. For the main mixture, which I let sit in the fridge for five hours, i added green onions, about 4oz of cream cheese and little less mayo and little more sour cream than the recipe called for. I added some shredded cheddar cheese and used almost two jars of pre cooked Hormel bacon and recooked in microwave for 3 minutes. Served with Fritios and It was a huge hit!!!!",
+            "datePublished": "2015-02-01T11:46:49.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Suzanne Trump Warring"
+            },
+            "reviewBody": "Absolutely addicting! A \"go to\" party recipe! I followed others' advice -- doubled recipe; cooked bacon in oven; added cream cheese and shredded cheddar; used canned, petite diced tomatoes well drained; also added red onion. Did not bake this time but will try next time. Served on iceberg lettuce \"bowls\" with shredded lettuce on the side. Ritz Crisps and Tostitos Scoops. It's a diet buster but worth it.",
+            "datePublished": "2015-05-18T04:40:48.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hamachi"
+            },
+            "reviewBody": "I followed MommyFromSeattle's most excellent advice (baking bacon at 375 for 20 mins or until evenly brown) -- That is how I will always cook bacon in the future -- and added roughly 1.8 of a head of shredded iceberg lettuce to turn that BT into a true BLT. This dip was wonderful!\n\nI would recommend, however, that we add the bacon just before serving as well, to preserve that great crunch. In other words, just mix the wet ingredients together, and add the B, L, and T at the end, mixing them in well.\n\nI discovered that my package of bacon was only 12oz instead of a pound (16oz), so I added 3/4c each of mayo and sour cream. It was NOT too wet, as some other review mentioned; it was just great.",
+            "datePublished": "2017-12-27T20:51:59.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Chasteen"
+            },
+            "reviewBody": "REVISED VERSION WAS DEVOURED!! I agree with many reviewers that this original dip recipe has WAY too much mayo. The 2nd time around, I used 1 cup each of mayo, sour cream and cream cheese. Added 1/2 packet of ranch dressing mix, 1 clove of fresh minced garlic and blended well. Chopped fresh cherry tomatoes (about 20) and blended into the dip 3/4 of the bacon and tomatoes, leaving the remaining of both to sprinkle on top of the dip. THIS VERSION WAS DEVOURED though the original was barely touched.",
+            "datePublished": "2010-04-24T09:12:38.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Le'Yante Williams"
+            },
+            "reviewBody": "Made the revised version as suggested by Cindy. 1 cup of mayo, sour cream, and cream cheese each. Melted the cream cheese somewhat before mixing. Also added 1/2 pack of ranch dressing and a few cloves of garlic. Used roma tomatoes after scooping out the insides and drying as much as possible.\n\nThis dip grew on me. At first, it was meh, but then I started to crave it. Overall, it really is a good dip, just not necessarily my first choice. I usually like warm, cheesy dips. \n\nTip that was given to me by co-workers was to use thin-sliced bacon cooked hard. My bacon was center cut and fried normal and once put in the dip it had a chewy consistency.",
+            "datePublished": "2016-09-25T21:22:03.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mradept83"
+            },
+            "reviewBody": "great party snack",
+            "datePublished": "2026-08-23T23:37:47.904Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julia"
+            },
+            "reviewBody": "I got this recipe at a work party and it is always requested. I have learned a few things from “tweaking” myself - simpler is better and add a lot of black pepper. The mayo and black pepper give it more of a real BLT flavor. I sometimes add a bag of shredded lettuce mixed in the night before, but not always. I definitely use more tomatoes, at least 3, and shredded cheese is ok but honestly doesn’t make it any better. (Follow the advice to drain the tomatoes on paper towels- very important)",
+            "datePublished": "2025-12-05T23:12:43.731Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dvdcgl"
+            },
+            "reviewBody": "This dip is one of my favorites. It’s easy and delicious.",
+            "datePublished": "2025-10-11T15:31:16.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OddBrew7046"
+            },
+            "reviewBody": "Love this simple recipe. I add diced jalapenos for a little extra kick.",
+            "datePublished": "2025-08-28T19:06:30.331Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marnie"
+            },
+            "reviewBody": "For those that find this bland or more of a mayonnaise taste…my neighbor made this years ago. Her recipe has 2 lbs of bacon and shredded cheddar cheese. The additional bacon adds great flavor and bulk. I also add either onion and garlic powder or seasoning salt.",
+            "datePublished": "2025-05-10T12:44:45.502Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HeartyGin2708"
+            },
+            "reviewBody": "My change is I used real bacon pieces instead of cooking the bacon, fresh tomatoes, and I added fresh chives from the garden. Absolutely delicious. Will make again",
+            "datePublished": "2024-07-30T23:03:17.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HotBrie4030"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-06-17T02:01:08.174Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Canyonman"
+            },
+            "reviewBody": "Very refreshing on a hot New Mexico summer day. Try mixing in a teaspoon of tomato bouillon powder for a kick of flavor.",
+            "datePublished": "2024-06-07T21:11:34.866Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GutsyScoop8860"
+            },
+            "reviewBody": "This is an easy but good looking dip that would be my go to dish.",
+            "datePublished": "2024-05-14T05:33:18.083Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14944/blt-dip/",
+          "name": "BLT Dip",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+                  "name": "Dips and Spreads Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

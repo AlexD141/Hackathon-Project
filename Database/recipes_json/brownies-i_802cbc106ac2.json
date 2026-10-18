@@ -1,0 +1,335 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/10805/brownies-i/",
+  "extracted_at": "2026-10-18T01:44:03.463988+00:00",
+  "recipes": [
+    {
+      "name": "Brownies I",
+      "ingredients_raw": [
+        "6 (1 ounce) squares unsweetened chocolate",
+        "0.66666698455811 cup butter",
+        "2 cups white sugar",
+        "4 eggs",
+        "1.25 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon baking powder",
+        "0.5 cup chopped walnuts"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9 x 13 inch pan."
+        },
+        {
+          "id": 2,
+          "text": "Melt the chocolate and butter in the top of a double-boiler, stirring sporadically. When melted and combined, add the sugar and eggs, and stir until combined. Sift the flour, salt, and baking powder into the pan; stir until combined. Stir in the nuts (or raisins, or M&amp;M candies, or toffee bits, etc.)."
+        },
+        {
+          "id": 3,
+          "text": "Spread the batter in the pan, smoothing it into the corners. Bake for about 35 minutes, but don&#39;t let it over-bake. Cool before cutting."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Brownies I",
+        "datePublished": "1998-04-13T16:56:26-04:00",
+        "dateModified": "2022-07-14T16:17:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Betsy Davis"
+          }
+        ],
+        "description": "When I make this for friends, I add nuts. When I make this for myself, I add raisins. I&#39;ve tried M&amp;M candies, toffee bits, and candy confetti -- it&#39;s very flexible.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/K0lExhh28RVmYZRizkyEdrKqRX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/178592-4d6ec86f6d534168a1a77c707e46129d.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Brownies I",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "ratingCount": "15"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "393 kcal",
+          "carbohydrateContent": "48 g",
+          "cholesterolContent": "89 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "12 g",
+          "sodiumContent": "334 mg",
+          "sugarContent": "34 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "6 (1 ounce) squares unsweetened chocolate",
+          "0.66666698455811 cup butter",
+          "2 cups white sugar",
+          "4 eggs",
+          "1.25 cups all-purpose flour",
+          "1 teaspoon salt",
+          "1 teaspoon baking powder",
+          "0.5 cup chopped walnuts"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9 x 13 inch pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Melt the chocolate and butter in the top of a double-boiler, stirring sporadically. When melted and combined, add the sugar and eggs, and stir until combined. Sift the flour, salt, and baking powder into the pan; stir until combined. Stir in the nuts (or raisins, or M&amp;M candies, or toffee bits, etc.)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spread the batter in the pan, smoothing it into the corners. Bake for about 35 minutes, but don&#39;t let it over-bake. Cool before cutting."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "2 dozen"
+        ],
+        "totalTime": "PT0M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "schmerna"
+            },
+            "reviewBody": "Good but just a little dry."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "COUNTRYMOUSETX"
+            },
+            "reviewBody": "Absolutely wonderful! Brownies were moist and kind of dense which I liked. I made a 1/2 recipe since I was short on chocolate squares. I didn't bother with the sifting and double boiler. I simply combined the dry ingredients in a bowl, melted the chocolate &amp; butter in the microwave then added that and the eggs to the dry ingredients and used my electric beater to combine. I did not alter the ingredients but added a touch of vanilla extract. Since I was making a half recipe in a smaller pan I only cooked for 25 minutes. You do not want to overbake.",
+            "datePublished": "2013-02-09T13:10:56.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EILISH40"
+            },
+            "reviewBody": "Good basic brownie and the plus for us is that they are not too sweet - because of the unsweetened chocolate. Just a little on the chewy side, but otherwise very good. For those that complain of bitterness just use semisweet chocolate instead - very easy!!!!",
+            "datePublished": "2009-07-22T16:05:41.400Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mbfelix90"
+            },
+            "reviewBody": "These came out quite chewy. I like brownies when they're a bit more fudgey but these were a great success at home all the same. I suggest you don't bake more than indicated and also added a teaspoonful of vanilla extract.",
+            "datePublished": "2009-07-30T11:14:42.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Gould"
+            },
+            "reviewBody": "Thank you for this recipe! I had one many years ago nearly like this that I had lost, and was craving it! The only change was that I used semi-sweet chocolate squares and added some vanilla. These brownies are great. Very chewy and fall apart easily, but wonderful flavor! Thanks again!",
+            "datePublished": "2010-08-27T09:54:29.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "House of Aqua"
+            },
+            "reviewBody": "These were pretty good, but I am going to keep trying new brownie recipes. I didn't mix any candies in, but I dusted some with powdered sugar and cut them with my new Wilton brownie cutter!",
+            "datePublished": "2009-02-05T21:15:33.883Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Null"
+            },
+            "reviewBody": "Perfect!",
+            "datePublished": "2007-08-25T20:31:16.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Peggy"
+            },
+            "reviewBody": "I have made these two times. Very bitter. Not good, I brought them to work...and home again!",
+            "datePublished": "2003-08-16T14:50:59.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AMATULLAH"
+            },
+            "reviewBody": "The first time i made this recipe it was WONDERFUL!!!!!! BUT everytime i make it now it's bitter and dry and never comes out well.....",
+            "datePublished": "2002-05-30T12:10:47.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "i don't know but when i made this recipe, the result was kind of bitter. am i doing something wrong. this is a chewy recipe though",
+            "datePublished": "2000-10-18T09:52:59.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cathybar1967"
+            },
+            "reviewBody": "These brownies were great! My five-year old daughter and I made these for my husband for Father's Day and he loved them. My daughter had fun helping me make them and we all enjoyed eating them. This is a recipe I'll make for every Father's Day.",
+            "datePublished": "2000-06-23T07:38:29.667Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marcia Elliott Alexander"
+            },
+            "reviewBody": "I've made this several times and it turns out great. Watch cooking time-don't overcook. This has become \"MY\" brownie recipe.",
+            "datePublished": "2000-06-18T09:43:16.417Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/10805/brownies-i/",
+          "name": "Brownies I",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+                  "name": "Brownie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1562/desserts/cookies/brownies/chocolate-brownies/",
+                  "name": "Chocolate Brownie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

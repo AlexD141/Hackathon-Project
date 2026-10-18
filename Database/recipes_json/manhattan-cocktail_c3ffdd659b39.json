@@ -1,0 +1,402 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222415/manhattan-cocktail/",
+  "extracted_at": "2026-10-18T03:15:43.205030+00:00",
+  "recipes": [
+    {
+      "name": "Manhattan Cocktail",
+      "ingredients_raw": [
+        "2 fluid ounces rye whiskey",
+        "0.5 fluid ounce sweet vermouth",
+        "1 dash Angostura bitters",
+        "1 cup ice cubes",
+        "1 maraschino cherry"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled."
+        },
+        {
+          "id": 3,
+          "text": "Strain into a chilled cocktail glass and garnish with a maraschino cherry."
+        },
+        {
+          "id": 4,
+          "text": "Enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Manhattan Cocktail",
+        "datePublished": "2020-06-18T23:49:27-04:00",
+        "dateModified": "2025-11-26T13:48:17-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Allrecipes"
+          }
+        ],
+        "description": "This classic Manhattan recipe mixes rye whiskey, sweet vermouth, a dash of bitters, and a maraschino cherry for a smooth, timeless cocktail.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ICkje7q82XlQgqRIgBWlv_2TAHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-DDMFS-4x3-20e4513afe47484f85d7ee72b24816a3.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/a0KXyrz5-K3AjnAEN.mp4",
+          "description": "See how to make a classic whiskey cocktail.",
+          "duration": "PT2M16S",
+          "name": "Manhattan Cocktail",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/a0KXyrz5/poster.jpg?width=1280",
+          "uploadDate": "2021-06-24T22:06:05-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Manhattan Cocktail",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "25"
+        },
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "169 kcal",
+          "carbohydrateContent": "4 g",
+          "fiberContent": "0 g",
+          "sodiumContent": "2 mg",
+          "sugarContent": "1 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Cocktail"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 fluid ounces rye whiskey",
+          "0.5 fluid ounce sweet vermouth",
+          "1 dash Angostura bitters",
+          "1 cup ice cubes",
+          "1 maraschino cherry"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RFFsa7pa0M4_7Ick3wSaSphtlhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-mfs-step-1-ef06075e291c4b0e9b23616593324259.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_kwJ9hrxmxcl97GY6VX1QBPw9T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-mfs-step-2-ccbdb1d57b5d42cea59c0be9e367975a.jpg"
+              }
+            ],
+            "text": "Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/SdIM5vjDEl_ZTcVgSOzz_wZ8RqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-mfs-step-3-087c5a99161e4fd0b7f2282b5cfc6ab1.jpg"
+              }
+            ],
+            "text": "Strain into a chilled cocktail glass and garnish with a maraschino cherry."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ICkje7q82XlQgqRIgBWlv_2TAHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-DDMFS-4x3-20e4513afe47484f85d7ee72b24816a3.jpg"
+              }
+            ],
+            "text": "Enjoy!"
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FrackFamily5 CACT"
+            },
+            "reviewBody": "This is a true classic- bracing for sure but yummy all the same."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NewCrab7484"
+            },
+            "reviewBody": "I added a tsp of cherry juice and a little more vermouth. Delicious!",
+            "datePublished": "2022-03-19T01:08:39.591Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Dunlap"
+            },
+            "reviewBody": "Great recipe and this for someone who likes a strong drink. 1oz vermouth will soften it and slightly more than 1oz will be the perfect way your wife will like it. Luxardo cherries are a must. Don’t go too cheap on your rye choice either and a great drink this will be.",
+            "datePublished": "2020-08-08T03:21:04.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lawrance Jones"
+            },
+            "reviewBody": "I typically use a rye bourbon however, I had 2 an ounce of rye so I added Evan Williams 1783, Dolans sweet Vermouth. Awesome!!",
+            "datePublished": "2023-07-06T23:27:49.125Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Patric"
+            },
+            "reviewBody": "You have to have a basic understanding of vermouth before diving into this recipe. This recipe is fabulous (5 Star) using a good sweet vermouth. Those preferring drinks on the sweeter side can even bump that up towards a fullThe alternate recipe from Martha is also fabulous, but using dry vermouth makes it something other than a true Manhattan. There are also other high quality red vermouth on the market now",
+            "datePublished": "2017-08-08T22:32:06.850Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SilkyJelly2095"
+            },
+            "reviewBody": "Nice classic cocktail!!",
+            "datePublished": "2024-12-11T02:08:46.715Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HandyFlax8865"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-09-04T04:44:03.547Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason Beckham"
+            },
+            "reviewBody": "Simple and delicious",
+            "datePublished": "2024-01-06T01:40:38.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DapperMeal3435"
+            },
+            "reviewBody": "This is one of my favorite cocktails",
+            "datePublished": "2022-12-22T16:14:59.024Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CraftyTimer5335"
+            },
+            "reviewBody": "Never use a premixed bar mixture. Order a bourbon Manhattan to get a better grade whiskey and use a good grade vermouth. Both whiskey and wine need to be top quality, easy on bitters, generous with cherries and juice. A manhattan should always be smoooooth, velvety.",
+            "datePublished": "2022-10-07T13:09:08.202Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AJ Kooze"
+            },
+            "reviewBody": "Yep, liked it. Not sure if I prefer this or an old fashion...very similar",
+            "datePublished": "2021-02-14T01:24:17.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jeff10370"
+            },
+            "reviewBody": "A classic recipe! I like to use Rittenhouse or Bulleit Rye. Dolin sweet vermouth is very good.",
+            "datePublished": "2019-12-08T05:20:22.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dana Lawson"
+            },
+            "reviewBody": "Good!",
+            "datePublished": "2019-04-07T01:49:13.700Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rene Lafayette"
+            },
+            "reviewBody": "Outstanding libation of the soul!",
+            "datePublished": "2018-09-25T01:06:12.110Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222415/manhattan-cocktail/",
+          "name": "Manhattan Cocktail",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+                  "name": "Cocktail Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1744/drinks/cocktails/whiskey-drinks/",
+                  "name": "Whiskey Drinks Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

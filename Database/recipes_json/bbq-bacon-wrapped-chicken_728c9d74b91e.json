@@ -1,0 +1,369 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222148/bbq-bacon-wrapped-chicken/",
+  "extracted_at": "2026-10-18T03:14:45.135878+00:00",
+  "recipes": [
+    {
+      "name": "BBQ Bacon-Wrapped Chicken",
+      "ingredients_raw": [
+        "8 slices bacon",
+        "4 boneless chicken breasts, skin on",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon pepper",
+        "0.75 cup Heinz Tomato Ketchup",
+        "0.33333334326744 cup maple syrup",
+        "2 tablespoons grainy Dijon mustard",
+        "2 tablespoons lemon juice",
+        "1 clove garlic, minced",
+        "Lemon wedges",
+        "Chopped fresh chives"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Cook bacon until just opaque. Blot on paper towels. Sprinkle chicken evenly with salt and pepper. Wrap each chicken breast in bacon, securing strips in place with toothpicks. Set aside."
+        },
+        {
+          "id": 2,
+          "text": "Preheat the grill to medium-high."
+        },
+        {
+          "id": 3,
+          "text": "Blend ketchup with maple syrup, mustard, lemon juice, and garlic. Brush half the sauce all over chicken."
+        },
+        {
+          "id": 4,
+          "text": "Place chicken on the grill and turn heat down to medium. Grill, turning and basting twice with remaining sauce until bacon is almost crisp or until chicken is cooked through, about 15 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Squeeze lemon wedges over chicken and sprinkle with chives. Remove toothpicks before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "BBQ Bacon-Wrapped Chicken",
+        "datePublished": "2012-05-02T16:52:31-04:00",
+        "dateModified": "2025-01-22T11:17:26-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Heinz"
+          }
+        ],
+        "description": "This BBQ bacon-wrapped chicken is a tasty and popular combination that tastes great with a homemade sweet and tangy glaze. An easy weeknight dinner.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/rnjub0zw0JZwj89mSbuc6kcNiZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/983531-4bd34bc4d98d47d49175b4203548ede4.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "BBQ Bacon-Wrapped Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "25"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "367 kcal",
+          "carbohydrateContent": "37 g",
+          "cholesterolContent": "85 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "32 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "1379 mg",
+          "sugarContent": "16 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "8 slices bacon",
+          "4 boneless chicken breasts, skin on",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon pepper",
+          "0.75 cup Heinz Tomato Ketchup",
+          "0.33333334326744 cup maple syrup",
+          "2 tablespoons grainy Dijon mustard",
+          "2 tablespoons lemon juice",
+          "1 clove garlic, minced",
+          "Lemon wedges",
+          "Chopped fresh chives"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Cook bacon until just opaque. Blot on paper towels. Sprinkle chicken evenly with salt and pepper. Wrap each chicken breast in bacon, securing strips in place with toothpicks. Set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the grill to medium-high."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Blend ketchup with maple syrup, mustard, lemon juice, and garlic. Brush half the sauce all over chicken."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place chicken on the grill and turn heat down to medium. Grill, turning and basting twice with remaining sauce until bacon is almost crisp or until chicken is cooked through, about 15 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Squeeze lemon wedges over chicken and sprinkle with chives. Remove toothpicks before serving."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "leelee29"
+            },
+            "reviewBody": "This was an awesome recipe! I used skinless chicken breasts &amp; made it in the oven in a Pyrex dish. I sprayed the dish with olive oil spray. I used BBQ sauce &amp; added the mustard &amp;a fresh lime wedge(instead of lemon) in the sauce....it was sooooo delicious!! The chicken was moist....I paired it with homemade mashed potatoes &amp; fresh broccoli. Mmmmmmmm mmmmm mmmmmm Good!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tim Westfield"
+            },
+            "reviewBody": "I made this on Father's Day weekend. It was very good. I used organic bacon and I like to have things a little spicier so I cut back on the ketchup but added 1/2 a cup of Chilli sauce. It turned out very good and did not drown out the maple syrup taste. I also doubled the garlic. Cooking the bacon first is a very good idea and I also seared the chicken breasts in a frying pan first. I'll definitely be making this again.",
+            "datePublished": "2013-06-22T10:45:20.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rachel"
+            },
+            "reviewBody": "Delicious! I didn't salt/pepper the chicken prior to the grill as I decided to marinate the chicken for 15-ish minutes with the basting ingredients while I baked the bacon prior to wrapping the chicken with it. I didn't put lemon, or chives, on it afterwards. It turned out very tasty!",
+            "datePublished": "2017-06-14T18:26:59.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard He"
+            },
+            "reviewBody": "The sweetness of the sauce + the bacon is delicious! Instead of grilling, I browned the bacon-wrapped chicken in a pan before baking it in the oven and it came out very well. Make sure to check with meat thermometer.",
+            "datePublished": "2015-02-03T17:04:05.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gayle Dwight"
+            },
+            "reviewBody": "I loved this recipe. The only thing I did differently was that the bacon didn't quite get done enough on the grill, so I put them on a baking sheet and broiled them for just a few minutes on each side, for crispy bacon. Loved the flavor!! And my family loved it.",
+            "datePublished": "2016-04-29T13:54:05.467Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Plan"
+            },
+            "reviewBody": "I used BBQ sauce instead of ketchup.",
+            "datePublished": "2020-07-04T23:25:31.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Denis"
+            },
+            "reviewBody": "Made this for the 1st time, success, everyone loved it! I used yellow mustard instead of Dijon and I was generous with the maple syrup...and I will make this again!",
+            "datePublished": "2020-06-03T21:52:18.837Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris Wooten"
+            },
+            "reviewBody": "Great easy (like most here ) dish!! I’m eating it right now and will definitely do this one again!! Can’t wait for dessert!!",
+            "datePublished": "2019-08-25T22:17:50.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Terry"
+            },
+            "reviewBody": "The only change was to use yellow mustard instead of dijon mustard for the BBQ sauce.",
+            "datePublished": "2018-07-15T22:46:47.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cristina Whitcomb"
+            },
+            "reviewBody": "I've made this a few times now, slightly different each time, but always amazing! Who'd have thought ketchup, garlic and syrup would taste good together?",
+            "datePublished": "2018-02-28T01:18:32.823Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy's Kitchen"
+            },
+            "reviewBody": "Absolutely delicious.. I love the fresh rosemary and how it cooked into the chicken. Will definitely make again and will try for cookouts this summer!",
+            "datePublished": "2017-01-22T15:37:32.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "gina Snyder"
+            },
+            "reviewBody": "I didn't change a thing and this turned out amazing! Was a hit with all and so easy to make!",
+            "datePublished": "2016-10-18T00:15:16.190Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbara"
+            },
+            "reviewBody": "Of course it tasted amazing... It has bacon in it!",
+            "datePublished": "2016-09-08T12:17:17.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amber Harris"
+            },
+            "reviewBody": "This recipe was awesome my family eats it up even my toddler. Best of all they hardly ever will eat leftovers but they always ask if there's more of this the next day!! So I make a bit extra and we have a great lunch the next day as well that they actually want! Thank you so much for sharing this recipe!",
+            "datePublished": "2016-04-11T14:51:53.880Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222148/bbq-bacon-wrapped-chicken/",
+          "name": "BBQ Bacon-Wrapped Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

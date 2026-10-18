@@ -1,0 +1,457 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/214149/margarita-cake-with-key-lime-cream-cheese-frosting/",
+  "extracted_at": "2026-10-18T02:52:27.230756+00:00",
+  "recipes": [
+    {
+      "name": "Margarita Cake with Key Lime Cream Cheese Frosting",
+      "ingredients_raw": [
+        "1 (18.25 ounce) package white cake mix",
+        "3 egg whites",
+        "1 (10 fluid ounce) can frozen margarita mix (such as Bacardi®), thawed",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon lime juice",
+        "1 tablespoon grated lime peel",
+        "1 (8 ounce) package cream cheese, softened",
+        "0.5 cup unsalted butter, softened",
+        "1 tablespoon grated lemon peel",
+        "5 cups confectioners' sugar"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch cake pan."
+        },
+        {
+          "id": 2,
+          "text": "Beat together cake mix, egg whites, margarita mix, oil, 1 tablespoon lime juice, and lime zest in a large bowl until smooth and well combined. Pour batter into the prepared pan."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until a toothpick inserted into the center of cake shows moist crumbs, 30 to 35 minutes. Cake will be very moist. Cool completely in the pan, about 1 hour."
+        },
+        {
+          "id": 4,
+          "text": "Beat together cream cheese and butter in another large bowl until light and fluffy. Stir in remaining 1 tablespoon lime juice and lemon zest. Beat in confectioners&#39; sugar, one cup at a time, scraping the sides of the bowl thoroughly with a spatula after each addition. Spread frosting over cooled cake."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Margarita Cake with Key Lime Cream Cheese Frosting",
+        "datePublished": "2019-04-02T02:53:16-04:00",
+        "dateModified": "2025-01-29T17:57:43-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Tori Belle"
+          }
+        ],
+        "description": "This margarita cake with key lime cream cheese frosting oozes with margarita flavor. Margarita mix, cream cheese, plus lemon and lime create a party-worthy cake.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/dH1J0qdMN-at0aMvdN5eUhBl9nw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/848365-831f11d7d5094fcc95c527692069478d.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Margarita Cake with Key Lime Cream Cheese Frosting",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "100"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "417 kcal",
+          "carbohydrateContent": "68 g",
+          "cholesterolContent": "30 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "145 mg",
+          "sugarContent": "61 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Mexican Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (18.25 ounce) package white cake mix",
+          "3 egg whites",
+          "1 (10 fluid ounce) can frozen margarita mix (such as Bacardi®), thawed",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon lime juice",
+          "1 tablespoon grated lime peel",
+          "1 (8 ounce) package cream cheese, softened",
+          "0.5 cup unsalted butter, softened",
+          "1 tablespoon grated lemon peel",
+          "5 cups confectioners' sugar"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch cake pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat together cake mix, egg whites, margarita mix, oil, 1 tablespoon lime juice, and lime zest in a large bowl until smooth and well combined. Pour batter into the prepared pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until a toothpick inserted into the center of cake shows moist crumbs, 30 to 35 minutes. Cake will be very moist. Cool completely in the pan, about 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat together cream cheese and butter in another large bowl until light and fluffy. Stir in remaining 1 tablespoon lime juice and lemon zest. Beat in confectioners&#39; sugar, one cup at a time, scraping the sides of the bowl thoroughly with a spatula after each addition. Spread frosting over cooled cake."
+          }
+        ],
+        "recipeYield": [
+          "16",
+          "1 (9x13-inch) cake"
+        ],
+        "totalTime": "PT120M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan A"
+            },
+            "reviewBody": "Oh yum! Since others said the recipe made a lot of frosting, I took the that part of the recipe and followed the amounts used for 8 servings. This works out to be 5 ounces cream cheese, 1/3 cup butter, 2 t. each lime peel and juice, and 3 1/3 cups powdered sugar. That was still plenty of frosting, and we thought the flavors were just perfect! Thanks, Tori for a fantastic recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shelly"
+            },
+            "reviewBody": "I tried this recipe with cupcakes. I think with a little tweeking, they could be good but I ended up over baking them. I'll definitely try them again and start testing them at about 20 minutes. The icing was too thin for piping though. I tried adding more sugar which helped some but it just never seemed to get thick enough to actually pipe.",
+            "datePublished": "2011-03-26T16:08:12.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vatech90"
+            },
+            "reviewBody": "I made this as cupcakes and went by the recipe just as written. I couldn't find the frozen Bacardi mix so I used 10 oz of Jose Cuervo Margarita Mix from a bottle we had and it worked just as well. The cupcakes only took about 15 minutes to bake. I also thought the frosting was wonderful and had just enough for the cupcakes (I don't skimp on frosting). I think using real lime zest and juice and real lemon zest make the taste so great. Everyone who ate them said they were the best cupcakes they ever had. Will definitely be making these again.",
+            "datePublished": "2011-10-15T17:16:00.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Thorson"
+            },
+            "reviewBody": "I got raves for these cupcakes. I used zero calorie margarita mix by Baja Bob and replaced the oil with equal amounts of no sugar added apple sauce. I made my own low calorie cream cheese frosting and added a little margarita mix to it. I did not use any lime juice or lemon juice . They were awesome, making them again tonight! Not everyone at work got to try them others had 3 or 4 cupcakes them self.",
+            "datePublished": "2011-05-11T13:35:51.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenslayton"
+            },
+            "reviewBody": "One of the few recipes where I followed the directions and it turned out perfectly. Others said it made too much icing, but I used a large or extra large 1m Wilton tip on cupcakes and had just enough. Follow he directions and you will not be disapointed. I couldn't find the frozen mix but bought a mix that already contained the tequilla and skipped the thawing stage and it worked out perfectly. I garnished each cupcake with a lime wedge and sugar crystals and bendy straw. It was too cute! Thanks for an amazing recipe! The taste was light but it was there, not overpowering.",
+            "datePublished": "2011-09-05T18:47:32.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Reeses18"
+            },
+            "reviewBody": "I tried this recipe the other night and they were fabulous! I substituted applesauce for the oil and put 2 oz of tequila in the cupcake batter. I also but a little of the Bacardi mix in the icing. Will definitely be making again and again!",
+            "datePublished": "2011-10-05T14:44:54.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Robograndma Davis"
+            },
+            "reviewBody": "Most awsome cupcake I have made in a year. So glad I gave it a try. Daughter was empressed with the moist cake, before I added the Cuervo via injetor. I made two kinds for my Birthday a doz. with tequila and a doz. without for non-drinkers. \nI went a little out on a limb with the tequila ones and added salt on top with a wedge of lime as garnish and just green sugar for the non alcoholic ones ,I had to use grated lime peel in the frosting because I had on lemons. The taste did not suffer. Will make again maybe for the southern round-up.",
+            "datePublished": "2012-05-08T13:25:47.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "parothstein"
+            },
+            "reviewBody": "absolutely PERFECT! I made cupcakes with the recipe and didn't change a thing. I did beat the eggs whites separately and then add to the batter. I made a lime butter cream frosting because they were for an outdoor party and I didn't want cream cheese in the sun. The lime buttercream was delicious with this cake. Unfortunately, I don't measure, but I did use 2 sticks of butter, 2 tsp vanilla, the juice of two limes and then added powdered sugar until I got the taste and consistency I wanted. I added a little green food color and used crystalized sugar around the edge to give it a 'salted margarita\" look and added a small wedge of fresh lime. They were a huge hit!",
+            "datePublished": "2012-07-30T11:56:57.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TwoSweetPickles"
+            },
+            "reviewBody": "The cake was fluffy and moist, but it didn't have the \"bite\" of margarita, which I found disappointing. Not sure what to add to give it that...these were just citrus cupcakes in my mind. However, my husband asked for them again after he polished off the first batch, so it gets four stars instead of three. Edit: I just remade these and added tequila to the frosting. MUCH better...now they actually taste like a margarita.",
+            "datePublished": "2011-10-01T14:58:07.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Molly"
+            },
+            "reviewBody": "Very yummy recipe. I only gave it 4-stars because I could not find the frozen margarita mix. After 4 stores I gave up and used a can of limeade. Took these to our Girls Night Out dinner and they loved them. I made them in my little muffin tins and got 65 cupcakes from 1 batch. The frosting was great. I added liquid margarita mix instead of the lime juice. I have about 1 1/4 cups of frosting leftover. It will taste great on graham crackers. Thanks for sharing your recipe Tori Belle. The waiter and waitresses liked the cupcakes too.",
+            "datePublished": "2011-06-13T20:25:21.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Anita L Olson"
+            },
+            "reviewBody": "I made this cake into cupcakes for a Cinco De Mayo party at work. I could not find Bacardi frozen mix so I used just a margarita mix and it worked perfectly . I also took the time and filled each cupcake with key lime pie filling after they completely cooled. They were an absolute hit!",
+            "datePublished": "2019-05-07T03:03:00.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mfk"
+            },
+            "reviewBody": "I needed to make the cupcakes gluten free but the frosting was amazing as is!! Would make them again in a heartbeat!",
+            "datePublished": "2020-06-03T23:15:01.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christie"
+            },
+            "reviewBody": "I added extra lime juice to both mix and icing! I used lemon supreme cake mix adding a few drops of green food coloring in the mix! So good we ate it warm!!!",
+            "datePublished": "2019-05-22T00:57:06.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tina Pilara"
+            },
+            "reviewBody": "Taste of cake/cupcakes/frosting very good. Very disappointed with the presentation of the cake/cupcakes they both fell in the middle every time I made them. Yes I used a fresh cake mix . That is a must. And no I did not change the ingredients. Any suggestions would be much appreciated.",
+            "datePublished": "2018-08-11T15:29:55.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MaryB"
+            },
+            "reviewBody": "Not sure what to it yet because I haven’t tasted it yet. BUT, where do you buy an 18.25 iz box if cake mix??? All of them are 15.25 oz. \n\nAlso, I’m pretty sure because of the size issue, therevwas way too much liquid from tge whole can if margarita mix ... the cake had to cook longer in order to cook all the way and the middlenof both layers is depressed. \n\nI really think something is wrong with this recipe.",
+            "datePublished": "2018-05-17T18:00:06.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Not sure what to it yet because I haven’t tasted it yet. BUT, where do you buy an 18.25 iz box if cake mix??? All of them are 15.25 oz. \n\nAlso, I’m pretty sure because of the size issue, therevwas way too much liquid from tge whole can if margarita mix ... the cake had to cook longer in order to cook all the way and the middlenof both layers is depressed. \n\nI really think something is wrong with this recipe.",
+            "datePublished": "2018-05-17T18:00:06.417Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef Mo"
+            },
+            "reviewBody": "What an awesome cake! If you want to bring a cake that will get the rave, this is it! I did a two layer cake and had the perfect amount of icing. I did add one drop of food coloring and some lime zest to the frosting for affect. Will make again!",
+            "datePublished": "2018-05-08T13:50:29.110Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lisa m"
+            },
+            "reviewBody": "I made this for Cinco de Mayo and almost everyone loved it! The one person who didn’t was a friend who doesn’t like lemon at all. But my husband still liked it even though he’s not the biggest lemon/lime fan either. This cake is very moist, which people love, and my husband said “Wow, Honey, you really know how to make good icing!” And all I did was follow the recipe; I didn’t make any changes to it.",
+            "datePublished": "2018-05-08T05:21:03.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marquetta Frazier-Booker"
+            },
+            "reviewBody": "Great recipe!! It's our new favorite. I only used 4 cups of confectioner sugar in the icing.",
+            "datePublished": "2017-12-12T10:34:44.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "vabradley"
+            },
+            "reviewBody": "This recipe is absolutely incredible! I have made this for parties, get togethers, and a Mexican themed dinner party I had. Hands down, EVERYONE loves these cupcakes! I add 3 shots of tequila to the frosting, sprinkle lightly with Kosher salt, and garnish with a small slice of lime. I don't bake them as long as suggested. I start checking at about 15 minutes. You will have extra icing that is really good on sugar cookies! Great recipe!",
+            "datePublished": "2017-10-14T23:33:20.147Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/214149/margarita-cake-with-key-lime-cream-cheese-frosting/",
+          "name": "Margarita Cake with Key Lime Cream Cheese Frosting",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+                  "name": "Latin American"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+                  "name": "Mexican"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

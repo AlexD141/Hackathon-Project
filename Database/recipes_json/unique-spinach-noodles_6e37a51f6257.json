@@ -1,0 +1,423 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11761/unique-spinach-noodles/",
+  "extracted_at": "2026-10-18T01:47:26.676275+00:00",
+  "recipes": [
+    {
+      "name": "Unique Spinach Noodles",
+      "ingredients_raw": [
+        "1.25 cups torn spinach leaves",
+        "2 tablespoons water",
+        "1 egg",
+        "0.5 teaspoon salt",
+        "1.25 cups all-purpose flour"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine spinach and water in a saucepan. Cover, and cook till spinach is very tender. Cool slightly."
+        },
+        {
+          "id": 2,
+          "text": "Place spinach and liquid in a blender container. Add egg and salt. Cover, and blend till smooth. Transfer to a bowl. Add enough flour to make a stiff dough."
+        },
+        {
+          "id": 3,
+          "text": "Turn dough out onto a lightly floured surface. Knead for 1 minute. Roll very thin on a floured surface. Let rest 20 minutes. Roll up loosely. Slice 1/4 inch wide. Unroll. Cut into desired lengths. Spread out on a rack to dry for 2 hours."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Unique Spinach Noodles",
+        "datePublished": "1999-02-10T00:53:56-05:00",
+        "dateModified": "2026-04-05T05:44:34-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "McKenzie Delling"
+          }
+        ],
+        "description": "Make your own fresh, spinach noodles! Whip up a combination of garden-fresh spinach, water, egg, and flour for easy and tasty pasta dough. Then roll, cut, and enjoy.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/cKhrjEwzbj8xdiNzBqI6TUy0nxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/572869-7c4256cdae2a4cb0b87920db21220813.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Unique Spinach Noodles",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "35"
+        },
+        "cookTime": "PT5M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "324 kcal",
+          "carbohydrateContent": "61 g",
+          "cholesterolContent": "93 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "12 g",
+          "saturatedFatContent": "1 g",
+          "sodiumContent": "633 mg",
+          "sugarContent": "1 g",
+          "fatContent": "3 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.25 cups torn spinach leaves",
+          "2 tablespoons water",
+          "1 egg",
+          "0.5 teaspoon salt",
+          "1.25 cups all-purpose flour"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine spinach and water in a saucepan. Cover, and cook till spinach is very tender. Cool slightly."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place spinach and liquid in a blender container. Add egg and salt. Cover, and blend till smooth. Transfer to a bowl. Add enough flour to make a stiff dough."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Turn dough out onto a lightly floured surface. Knead for 1 minute. Roll very thin on a floured surface. Let rest 20 minutes. Roll up loosely. Slice 1/4 inch wide. Unroll. Cut into desired lengths. Spread out on a rack to dry for 2 hours."
+          }
+        ],
+        "recipeYield": "2",
+        "totalTime": "PT165M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DarcieA"
+            },
+            "reviewBody": "We really enjoyed these! Just a couple tips for anyone using a pasta maker to prepare these noodles (as I did). First- I didn't cook down the spinach. I used a food processor to chop the spinach and then added the water, egg, and flour and blended the dough. This saved on pans/prep time. I plan to do it this way again next time, however, I will omit the water or add more flour in order to create a more dry dough. Otherwise- flavor was very good. Thanks for sharing the recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chelle02"
+            },
+            "reviewBody": "I am excited to try this recipe. I am going to try adding some fresh basil with the spinach to give it some more flavor...and also follow DarciA's advice on using the food processor...plus it will reduce the amount of nutrients taken out of the spinach and basil by omitting the boiling technique...this is one you can probably have fun with. Thanks for sharing!!!",
+            "datePublished": "2012-02-27T11:54:19.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tiffany Phillips"
+            },
+            "reviewBody": "My first attempt at homemade noodles! I followed DarcieA's advice - used my food processor, did not cook the spinach and did not add any water. I rolled out by hand and cut with my pizza cutter (without rolling first). I let air dry for a bit and then bundled into individual serving sizes, placed on a parchment lined baking sheet and froze (placed in plastic bags once frozen). To cook, I got my water good and boiling and dropped the pasta in frozen, it took mine just a bit over 3 min to cook. I loved it but found it too thick, I may need to invest in a pasta machine to get it thin enough :-) Cant wait to try this again! Its such a pretty green color!",
+            "datePublished": "2011-01-27T14:52:05.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darlene Springer"
+            },
+            "reviewBody": "I came from Amish background so I added 1/4 tsp of nutmeg and since was wanting it gluten free made 3/4 of the flour with King Arthur Coconut and the rest with spelt flour. Turned out fabulous and got more of the spinach out of the garden LOL",
+            "datePublished": "2017-07-26T23:43:30.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Magpie"
+            },
+            "reviewBody": "I added garlic, and put all the ingredients in a food processor therefore skipping the part about putting the spinach in a sauce pan \n\nlet dry for an hour",
+            "datePublished": "2011-02-23T14:11:43.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "oxypery"
+            },
+            "reviewBody": "Fantastic! My first attempt at making flavored homemade pasta and it was delicious. I think I ended up using almost twice as much flour. I also added a little dried basil and garlic powder which added a great additional flavor. Highly recommend this recipe. Thank you!",
+            "datePublished": "2018-01-30T02:40:08.153Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Coreen"
+            },
+            "reviewBody": "This is my go to pasta recipe! everyone in my family loves it and I love that I can add spinach to their diet. I followed another posters suggestion about not cooking the spinach first and because of that I didn't need the extra water. This is a very light pasta and next time I'll try it with some whole wheat flour.",
+            "datePublished": "2017-10-08T19:42:26.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vegetarian Wannabe"
+            },
+            "reviewBody": "Love this pasta. \nI did put in 2 cups of spinach just to have more veggies and it tasted the same and the consistency was still great.",
+            "datePublished": "2016-03-07T10:26:51.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LMF443"
+            },
+            "reviewBody": "Very good and surprisingly easy. Just to note, the way the recipe was worded, I thought that perhaps 1 &amp; 1/4 cup of flour was an overestimation so I added flour very slowly. You don’t need to be as careful as me. It was a very dry day when I made these, and I definitely used over a cup and a quarter. Next time, I’d add the total flour, and then slowly work in more until the dough was manageable. Thanks for the recipe!",
+            "datePublished": "2011-03-28T09:01:08.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MAREMOSSO"
+            },
+            "reviewBody": "Squeeze all the water out, and chop the cooked spinach as finely as possible. Add beaten eggs for the moisture component - this will make a much better noodle.",
+            "datePublished": "2008-07-25T04:18:19.357Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Price Joyce"
+            },
+            "reviewBody": "Just made...drying out for supper",
+            "datePublished": "2020-04-28T16:43:00.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Crystal Adams Ritchey"
+            },
+            "reviewBody": "Big hit at my house! I served homemade alfredo sauce on top of these noodles. I will be making again!",
+            "datePublished": "2017-11-14T22:19:45.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HomeMaker"
+            },
+            "reviewBody": "These noodles were great! Sometimes we have slimy vegetables rotting in our refrigerator. What a great way to use them up without waste! Will definitely make again!",
+            "datePublished": "2016-11-28T22:16:11.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kitkat2651"
+            },
+            "reviewBody": "I made no changes to this recipe and it was absolutely delicious. All of this people who had it, loved it. I will definitely make this again!",
+            "datePublished": "2016-04-26T02:58:27.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen Hall"
+            },
+            "reviewBody": "I have found many really good recipes here. They are always good.",
+            "datePublished": "2016-03-19T15:22:11.793Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shannon"
+            },
+            "reviewBody": "Required a lot of extra flour when cutting the pasta but delicious!",
+            "datePublished": "2012-09-30T19:28:19.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "turkeyfied"
+            },
+            "reviewBody": "Thanks so much for this beautiful recipe. I added some garlic powder because I love garlic. :-D",
+            "datePublished": "2012-09-26T04:24:44.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aaron Alicia Cromwell"
+            },
+            "reviewBody": "I think if i we're able to find a way to cut them as thin as a spagetti, they would be perfect. I served mine with only some garlic heated up in a saucepan in olive oil and butter.",
+            "datePublished": "2012-08-18T15:50:02.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Niroszyckame"
+            },
+            "reviewBody": "Very yummy noodles! I made them to serve with homemade stroganoff and my boyfriend and I loved it!",
+            "datePublished": "2011-08-02T12:59:40.300Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11761/unique-spinach-noodles/",
+          "name": "Unique Spinach Noodles",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

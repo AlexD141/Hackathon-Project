@@ -1,0 +1,235 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17627/mystery-pie/",
+  "extracted_at": "2026-10-18T02:27:08.510005+00:00",
+  "recipes": [
+    {
+      "name": "Mystery Pie",
+      "ingredients_raw": [
+        "3 egg whites",
+        "1 cup white sugar",
+        "1 teaspoon baking powder",
+        "1.5 teaspoons vanilla extract",
+        "18 buttery round crackers, crushed",
+        "0.66670000553131 cup chopped pecans",
+        "1 cup frozen whipped topping, thawed",
+        "1.5 cups fresh strawberries, sliced"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Generously grease a 9 inch pie pan."
+        },
+        {
+          "id": 2,
+          "text": "In a large glass or metal bowl, beat egg whites until foamy. Mix together sugar and baking powder, then slowly add mixture to egg whites, continuing to beat until stiff peaks form. Beat in vanilla extract. Fold in crushed crackers and pecans. Spread mixture evenly into pie pan."
+        },
+        {
+          "id": 3,
+          "text": "Place pie in preheated oven and reduce temperature to 325 degrees F (165 degrees C). Bake for 30 minutes. Cool thoroughly. Top with whipped topping and fresh fruit."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mystery Pie",
+        "datePublished": "2000-01-25T14:30:20-05:00",
+        "dateModified": "2022-07-14T16:05:26-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Charlotte"
+          }
+        ],
+        "description": "This is a wonderful pie that whips up in one bowl. And there &#39;s no crust to mess with. The simple filling is made from sweetened, whipped egg whites, a bit of baking soda, and a splash of vanilla. Cracker crumbs and chopped pecans are folded in, and then the light and luscious batter is spooned into a pie plate and baked. Just before serving, top it with whipped cream and seasonal fruit.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/_fWY3anoWf-qdInZ8fCDj7jrsLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mystery-Pie-2000-c921a683069b4269a2c4dd7945c9e241.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mystery Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "5"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "248 kcal",
+          "carbohydrateContent": "36 g",
+          "fiberContent": "2 g",
+          "proteinContent": "3 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "157 mg",
+          "sugarContent": "30 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "3 egg whites",
+          "1 cup white sugar",
+          "1 teaspoon baking powder",
+          "1.5 teaspoons vanilla extract",
+          "18 buttery round crackers, crushed",
+          "0.66670000553131 cup chopped pecans",
+          "1 cup frozen whipped topping, thawed",
+          "1.5 cups fresh strawberries, sliced"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Generously grease a 9 inch pie pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large glass or metal bowl, beat egg whites until foamy. Mix together sugar and baking powder, then slowly add mixture to egg whites, continuing to beat until stiff peaks form. Beat in vanilla extract. Fold in crushed crackers and pecans. Spread mixture evenly into pie pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place pie in preheated oven and reduce temperature to 325 degrees F (165 degrees C). Bake for 30 minutes. Cool thoroughly. Top with whipped topping and fresh fruit."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "9 - inch pie"
+        ],
+        "totalTime": "PT0M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "One of my favorite pies! So easy and so delicious."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "Surprise Pie, Cracker Pie, and now Mystery Pie. I’ve had it under all these names. My mother made this pie. I loved it then, and I love it now! It’s beautiful…until you cut it. Then the top cracks revealing that pecan filling. It’s not very pretty, but it tastes oh so good, especially topped with fresh fruit and whipped cream.",
+            "datePublished": "2022-05-18T01:24:20.704Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tworarebirds"
+            },
+            "reviewBody": "SO Delicious! I made it for short notice company and everyone raved. I'm adding it to the recipe box.",
+            "datePublished": "2010-07-03T15:27:54.077Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Holly Rader"
+            },
+            "reviewBody": "This was interesting. The pecans really added a lot flavor so that it sort of tasted like the inside of a pecan pie. However, it is very sweet. The consistency is a bit odd. I don't know how to describe it. I would probably not make this again but I am glad I tried it.",
+            "datePublished": "2010-05-11T12:17:57.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "foodie123"
+            },
+            "reviewBody": "this was the best pie ever!!!",
+            "datePublished": "2010-02-18T19:54:39.823Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17627/mystery-pie/",
+          "name": "Mystery Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,466 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11693/puttanesca-i/",
+  "extracted_at": "2026-10-18T01:47:13.771264+00:00",
+  "recipes": [
+    {
+      "name": "Puttanesca ",
+      "ingredients_raw": [
+        "8 ounces pasta",
+        "0.5 cup olive oil",
+        "3 cloves garlic, minced",
+        "2 cups chopped tomatoes, pushed through a sieve",
+        "4 anchovy filets, rinsed and chopped",
+        "2 tablespoons tomato paste",
+        "3 tablespoons capers",
+        "20 Greek olives, pitted and coarsely chopped",
+        "0.5 teaspoon crushed red pepper flakes"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+          "id": 2,
+          "text": "Heat oil in a skillet over low heat; cook garlic in oil until golden. Add sieved tomatoes, and cook 5 minutes. Stir in anchovies, tomato paste, capers, olives, and red pepper flakes. Cook 10 minutes, stirring occasionally."
+        },
+        {
+          "id": 3,
+          "text": "Toss pasta with sauce, and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Puttanesca ",
+        "datePublished": "1999-02-07T16:04:19-05:00",
+        "dateModified": "2026-03-17T22:48:03-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Pooche"
+          }
+        ],
+        "description": "Puttanesca is a fiery Italian pasta sauce made with tomatoes, garlic, anchovies, capers, olives, and chili flakes that&#39;s perfect with spaghetti.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ny23p4IPah2t4XGDSy7quotpB-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11693-puttanesca-Allrecipes-magazine-4x3-ff118cbcbb334229a98a692bc5e369fa.jpg",
+          "height": 720,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/Oj48eO6V-K3AjnAEN.mp4",
+          "description": "Put your pantry to work with this saucy recipe for Italian pasta. In this video, Nicole shows you how to make a special pasta puttanesca with freshly chopped tomatoes. This flavorful and fresh dinner recipe starts by combining the puttanesca’s ingredients into a well-oiled skillet. Featuring everything from anchovies, capers, and garlic to crushed red pepper and olives, this comforting meal stands wonderfully on its own or as a side.",
+          "duration": "PT2M7S",
+          "name": "How to Make Puttanesca",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Oj48eO6V/thumbnails/qoRaSpvN.jpg?width=1280",
+          "uploadDate": "2023-12-05T12:00:01-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Puttanesca ",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "414"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "490 kcal",
+          "carbohydrateContent": "39 g",
+          "cholesterolContent": "44 mg",
+          "fiberContent": "4 g",
+          "proteinContent": "9 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "728 mg",
+          "sugarContent": "3 g",
+          "fatContent": "34 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "8 ounces pasta",
+          "0.5 cup olive oil",
+          "3 cloves garlic, minced",
+          "2 cups chopped tomatoes, pushed through a sieve",
+          "4 anchovy filets, rinsed and chopped",
+          "2 tablespoons tomato paste",
+          "3 tablespoons capers",
+          "20 Greek olives, pitted and coarsely chopped",
+          "0.5 teaspoon crushed red pepper flakes"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water for 8 to 10 minutes or until al dente; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over low heat; cook garlic in oil until golden. Add sieved tomatoes, and cook 5 minutes. Stir in anchovies, tomato paste, capers, olives, and red pepper flakes. Cook 10 minutes, stirring occasionally."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ny23p4IPah2t4XGDSy7quotpB-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11693-puttanesca-Allrecipes-magazine-4x3-ff118cbcbb334229a98a692bc5e369fa.jpg"
+              }
+            ],
+            "text": "Toss pasta with sauce, and serve."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heidi"
+            },
+            "reviewBody": "Made this last night and it was unbelievable. I used a 24 oz. can of crushed tomatoes. Put a whole can of anchovies (drained), capers, and olives in the mini chopper and added that to sauce. In just 30 minutes, the sauce was done and the house smelled like an italian restaurant. My husband couldn't believe I made \"homemade\" sauce that quickly. This is truly wonderful."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindie"
+            },
+            "reviewBody": "This was fantastic!! I did cut up 2 boneless chicken breasts into 1\" chunks and sauteed separately in the olive oil before I made the sauce. Take chicken out when almost done, then make the sauce, add back to sauce and let simmer about 15 minutes. I did cut the olive oil back to 1/4 cup. Leave the anchovies in they disappear into the sauce and you don't taste them either, just an added richness to the sauce. I bet shrimp would be excellent in this sauce also.",
+            "datePublished": "2019-02-06T22:34:55.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "River Finn"
+            },
+            "reviewBody": "I made this according to the recipe the first time. In the future, I would use less olive oil (1/2 cup leaves puddles of oil at the bottom) and incorporate other veggies to provide a brighter, sweeter counterpoint to the heavy brininess of the olives and capers. As a finish to the dish, do it like the Italians do: reserve a bit of the cooking water from the pasta what you drain it. Incorporate the pasta with the sauce, add a couple oz. of the cooking water to the dish and toss vigorously over high heat to \"mantecare\" or emulsify the sauce into a harmonious and creamy dish.",
+            "datePublished": "2020-05-14T23:18:41.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Denise MacIsaac"
+            },
+            "reviewBody": "I added 1-1/2 lb. chicken breasts cut in 1\" cubes. Sautéed chicken in with the garlic then added the tomatoes (2 cans Rotel fire roasted toms w/chilis)…I used about 1Tbs anchovy paste rather than the whole anchovies. Easy and delicious!",
+            "datePublished": "2021-08-20T22:54:57.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dawn D"
+            },
+            "reviewBody": "I'm not an olive, caper, or anchovy lover, but I love this sauce. I also love how quick and easy it is to make. BUT I like it made my way. I also cut up a half an onion and fry that up, then mince twice the garlic called for and fry that up. I give a rough chop to the anchovies and olives (kalamata, black, and green) and throw everything in the blender and blend until it is fairly smooth, only slightly chunky. You can only see real small pieces of olive. I also cut the olive oil to 1/3 c. and serve it with fettuccini. The sauce does get thicker in the fridge and then I'll thin it with more olive oil. This is a very flavorful sauce that I'm sure will get many raves!",
+            "datePublished": "2013-04-29T13:42:06.393Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Supertruckingirl"
+            },
+            "reviewBody": "Fantastic flavours!! I did add 1 tsp oregano and a finely chopped small onion as suggested by similar recipes. I also used half can of marinara sauce rather than tomato paste. I simmered the onion for a couple mins then added the garlic until it was aromatic before adding the rest of ingredients. I let it come to a soft boil then turned it right down to low to let the flavours simmer in together for a bit and thicken before serving it with rice vermicelli noodles and parmesan cheese...SO good!",
+            "datePublished": "2019-07-03T23:21:15.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John"
+            },
+            "reviewBody": "Made this for the first time today! Turned out great! I made a few changes (most based on other reviewers suggestions). I used less oil 1/3 cup instead of 1/2. I cooked the anchovies in the oil with the garlic to have them “melt away”. Also used fettuccine instead of spaghetti as per another reviewers suggestion. Used two cans of peeled crushed tomatoes instead of going through the whole sieve thing. Also dialed down the capers (2 tablespoons instead of 3). Will make again!",
+            "datePublished": "2018-06-26T04:36:50.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon Tice"
+            },
+            "reviewBody": "Loved it! I followed the suggestion of one reviewer and I used a 24 oz. can of crushed tomatoes. Put a whole can of anchovies (drained), capers, and olives ( I used 15 Kalmata olives and 10 castelvetrano olives- these take the bite out a bit) in the mini chopper and added that to sauce. I also occasionally add 1/4-1/2 tsp red pepper flakes. I cooked the sauce for 30mins to 45 mins and it was fabulous!",
+            "datePublished": "2016-05-24T02:30:48.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AL44322"
+            },
+            "reviewBody": "I added more capers and garlic, used 24 oz can of whole tomatoes, sautéed 1/2 onion and the garlic and put all of it into the processor and then sautéed it all for about 10 minutes. OMG - this is just to die for. And I hate anchovies! But it is so needed for the taste. Rinsed capers, anchovies, and olives to lessen the salt.",
+            "datePublished": "2016-06-15T01:23:34.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sophia Alexandra"
+            },
+            "reviewBody": "This recipe is outstanding!!! I made 2 changes.....used 2 14 oz cans of crushed tomatoes and only 1/4 cup of olive oil. The rest of the ingredients I measured exactly. I put the olives, capers and anchovies in the mini chopper and pulsed a few times so the chunks wouldn't be too big. It was fabulous!!! My husband raved. DEFINITE KEEPER!",
+            "datePublished": "2010-06-04T14:43:04.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JACK T"
+            },
+            "reviewBody": "I was looking for an easy but different pasta sauce for weeknight meals. This one was perfect! It's really spicy, sharp, and idk...complex. I used canned crushed tomatoes (decent quality). I used the whole can, but next time may actually measure out 2 cups as it was just a hair too much. I used canned, sliced black olives. I added an extra clove of garlic. I used anchovy paste because it will keep and this is the *only* thing I'll use it for, and I got capers off of the olive bar at the grocery (nearly same price as the bottled stuff and waayyyy better).\n\nI cut back just a hair on the olive oil too, probably used 1/3 cup (good quality). The only tip I'd offer is, I whisked the sauce to emulsify the oil and tomato sauce. It didn't take long, &lt;5mins and was well worth it I think.\n\nI served it over spinach fettuccine with crusty garlic bread and a salad. It was awesome.\n\nLike all the pasta sauce recipes it makes a ton. I'll be making it again.",
+            "datePublished": "2011-02-03T07:50:39.277Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Donna Morelli"
+            },
+            "reviewBody": "Hardy any effort and absolutely delicious. The only change I made was using jarred minced garlic because my fresh was kinda dried up. I used three tablespoons-maybe too much for some but it’s packed with all the flavors and did not overpower. Better than restaurant puttanesca.",
+            "datePublished": "2026-10-13T02:41:48.654Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catherine"
+            },
+            "reviewBody": "It’s good, but personally I will cut down on the oil next time",
+            "datePublished": "2026-10-06T23:40:05.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RF"
+            },
+            "reviewBody": "I'm usually not a fan of online recipes but this one was one of the easiest yet most flavorful dishes I've had in a long time. My only substitution was to use a 14.5 oz can of petite diced tomatoes instead of the tomatoes called for in the recipe, drained but not rinsed.",
+            "datePublished": "2026-07-23T22:07:54.461Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Glenn"
+            },
+            "reviewBody": "Unbelievable dish. I added chopped clams to mine.",
+            "datePublished": "2025-12-30T18:34:02.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "garrymass1"
+            },
+            "reviewBody": "This putanesca is as good as it gets. I skipped the capers and used kalamata olives added at the very end. Terrific and old school Italian.",
+            "datePublished": "2025-10-26T17:42:55.521Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Azure"
+            },
+            "reviewBody": "Traditionally made with off the shelf ingredients, but putting i fresh tomatoes (sliced cherry tomatoes, diced Romas) takes it up a notch. I like to saute shrimp (6 medium per serving) and add. Save a bit of the pasta water, 1/2 c or so, to add to the sauce. It makes sauce stick to pasta better. Use tongs to put pasta in the sauce pan and mix it well. Plate up with a sprinkle of EVOO. Italians don't put cheese with seafood as it overpowers the delicate flavor. But you do you. I serve with sauteed or roasted green beans &amp; garlic.",
+            "datePublished": "2025-09-03T01:31:46.527Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dawn DeSesa Healy"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-05T22:35:30.366Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PeppyBacon7268"
+            },
+            "reviewBody": "Great. I used roasted and chopped Roma tomatoes and green olives instead and added balsamic vinegar and fresh thin sliced Serrano peppers..",
+            "datePublished": "2024-05-14T18:53:27.621Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rene Lafayette"
+            },
+            "reviewBody": "So easy to make especially if you set up your muse en place! Sautéed ground turkey and added it to the sauce. Delicious, flavorful and satisfying. Who can ask for anything more? Mangia!",
+            "datePublished": "2024-05-11T20:51:02.193Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11693/puttanesca-i/",
+          "name": "Puttanesca ",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

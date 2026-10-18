@@ -1,0 +1,334 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/211181/banana-souffle/",
+  "extracted_at": "2026-10-18T02:48:04.829460+00:00",
+  "recipes": [
+    {
+      "name": "Banana Souffle",
+      "ingredients_raw": [
+        "1 tablespoon unsalted butter, melted",
+        "2 teaspoons white sugar",
+        "2 egg whites",
+        "2 eggs, separated",
+        "1 pinch salt",
+        "2 ripe bananas, mashed",
+        "1 tablespoon honey, or more to taste",
+        "0.5 teaspoon vanilla extract",
+        "0.5 teaspoon grated fresh ginger root",
+        "1 tablespoon sweetened cocoa powder"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 400 degrees F (200 degrees C). Brush 4 1-cup souffle dishes with melted butter; sprinkle the insides of the cups with sugar."
+        },
+        {
+          "id": 2,
+          "text": "Set the egg yolks aside, and place the 4 egg whites into the work bowl of an electric mixer. Beat the egg whites and salt until the whites form soft peaks."
+        },
+        {
+          "id": 3,
+          "text": "Place the 2 egg yolks, bananas, honey, vanilla extract, and ginger into a blender; pulse until smooth."
+        },
+        {
+          "id": 4,
+          "text": "Scoop the banana mixture into a bowl; use a rubber spatula or wire whisk to gently fold 1/4 of the beaten egg whites into the banana mixture. Gently run the spatula through the center of the bowl, then around the sides of the bowl, repeating until fully incorporated. Fold in the remaining egg whites, being careful to keep as much air in the mixture as possible."
+        },
+        {
+          "id": 5,
+          "text": "Spoon the souffle mixture into the prepared dishes; bake in the preheated oven until the souffles have puffed up above the baking dishes and the tops are browned, about 15 minutes. Sift a little sweetened cocoa powder over each souffle for garnish to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Banana Souffle",
+        "datePublished": "2020-06-18T23:40:48-04:00",
+        "dateModified": "2022-01-14T01:20:18-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "sugarandspite"
+          }
+        ],
+        "description": "The flavors of banana, honey, and ginger combine beautifully in light, fluffy baked souffles, made in individual serving dishes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/4j47KZkkvgwbWQhadIWoHXKHIog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/862729-921641742841400897f87d058fb9679c.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Banana Souffle",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "19"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "156 kcal",
+          "carbohydrateContent": "22 g",
+          "cholesterolContent": "101 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "68 mg",
+          "sugarContent": "14 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "1 tablespoon unsalted butter, melted",
+          "2 teaspoons white sugar",
+          "2 egg whites",
+          "2 eggs, separated",
+          "1 pinch salt",
+          "2 ripe bananas, mashed",
+          "1 tablespoon honey, or more to taste",
+          "0.5 teaspoon vanilla extract",
+          "0.5 teaspoon grated fresh ginger root",
+          "1 tablespoon sweetened cocoa powder"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 400 degrees F (200 degrees C). Brush 4 1-cup souffle dishes with melted butter; sprinkle the insides of the cups with sugar."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Set the egg yolks aside, and place the 4 egg whites into the work bowl of an electric mixer. Beat the egg whites and salt until the whites form soft peaks."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place the 2 egg yolks, bananas, honey, vanilla extract, and ginger into a blender; pulse until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Scoop the banana mixture into a bowl; use a rubber spatula or wire whisk to gently fold 1/4 of the beaten egg whites into the banana mixture. Gently run the spatula through the center of the bowl, then around the sides of the bowl, repeating until fully incorporated. Fold in the remaining egg whites, being careful to keep as much air in the mixture as possible."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Spoon the souffle mixture into the prepared dishes; bake in the preheated oven until the souffles have puffed up above the baking dishes and the tops are browned, about 15 minutes. Sift a little sweetened cocoa powder over each souffle for garnish to serve."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 souffles"
+        ],
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sugarandspite"
+            },
+            "reviewBody": "One thing I discovered while making this: the recipe fits great in either 4 1 cup small ramekins/soufflé dishes.... or between two standard ceramic coffee cups for something more casual."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bocam"
+            },
+            "reviewBody": "Easy recipe and quick to make. Very tasty nice looking. My family ate it up!",
+            "datePublished": "2021-06-27T20:02:37.257Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Madeline Flores"
+            },
+            "reviewBody": "Our Souffle would've turned out great if we followed the directions on the egg whites and salt.",
+            "datePublished": "2019-01-30T17:43:50.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Elsa Witherow"
+            },
+            "reviewBody": "Extremely easy to make, doesn't fall even when it's cooled a bit. I would recommend adding a bit more sugar, mine just tastes extremely like banana. But hey, if you really like banana.",
+            "datePublished": "2017-09-15T19:55:19.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CINDY_V"
+            },
+            "reviewBody": "My 13 year old made this exactly as directed. It was so amazingly perfect. Taste and presentation. Thank you.",
+            "datePublished": "2015-11-02T14:17:04.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carebear1982"
+            },
+            "reviewBody": "Made this for dessert tonight for my husband, me and our two kids. We all loved it (except for my son who said it was \"just ok\"). It's not super sweet although I suppose you could make it as sweet as you want, just add sugar. Very light and yummy. I used a very ripe banana and a regular one because it's what I had and I substituted honey for agave because I didn't realize I was out of honey, but I don't think that made a difference. It was really good and probably something I would make again!",
+            "datePublished": "2015-01-25T22:25:18.800Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jess Nemcov"
+            },
+            "reviewBody": "Pretty good. I've never had soufflé before, and I liked it. It was sweet enough without adding any extra sugar, which was great, and is so easy! I'll probably make this again. Thanks for the recipe!",
+            "datePublished": "2014-03-16T22:21:45.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Don"
+            },
+            "reviewBody": "I really wanted to like this recipe because I often end up with ripe bananas and the only thing I can find to do with them is make banana bread/muffins. This recipe makes a dish that looks good, but tastes quite bad. The bananas overpower the dish, and the taste is not pleasing.",
+            "datePublished": "2013-07-01T17:35:25.410Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marina McCreary"
+            },
+            "reviewBody": "Great recipe! Super easy to follow directions. Make sure your bananas are super ripe, it will give the souffle more flavour.",
+            "datePublished": "2013-04-12T17:55:37.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shannon Hewett"
+            },
+            "reviewBody": "It was a nice way to use up old bananas, but it wasn't great. It was eggy, mess that deflated quickly. The flavor was ok. I also used powdered ginger. I did not top with cocoa, as I don't think that would have helped it.",
+            "datePublished": "2013-01-13T14:46:41.043Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/211181/banana-souffle/",
+          "name": "Banana Souffle",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/721/world-cuisine/european/french/",
+                  "name": "French"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

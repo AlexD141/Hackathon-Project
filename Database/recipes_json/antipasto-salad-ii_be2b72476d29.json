@@ -1,0 +1,436 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/216641/antipasto-salad-ii/",
+  "extracted_at": "2026-10-18T03:00:18.909467+00:00",
+  "recipes": [
+    {
+      "name": "Antipasto Salad",
+      "ingredients_raw": [
+        "8 ounces Genoa salami, cut into bite-size pieces",
+        "8 ounces sopressata or other hard salami, cut into bite-size pieces",
+        "8 ounces sharp provolone cheese, cut into bite-size pieces",
+        "8 ounces fresh mozzarella cheese, cut into bite-size pieces",
+        "2 large tomatoes, cut into bite-size pieces",
+        "1 (14 ounce) can artichokes, drained and cut into bite-size pieces",
+        "0.5 (12 ounce) jar roasted red peppers",
+        "0.5 cup pitted and coarsely chopped Kalamata olives",
+        "0.25 cup pitted and chopped green olives",
+        "1 tablespoon extra-virgin olive oil",
+        "3 tablespoons red wine vinegar",
+        "freshly-ground black pepper, to taste",
+        "0.25 cup fresh basil leaves"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine Genoa and soppressata salamis, provolone, mozzarella, tomatoes, and artichokes in a bowl. Slice roasted red peppers and add them to the bowl with about 3 tablespoons juice from the red pepper jar. Mix in chopped olives."
+        },
+        {
+          "id": 2,
+          "text": "Mix olive oil with red wine vinegar and drizzle over salad. Season with black pepper to taste. Mix thoroughly. Store in the refrigerator until serving time."
+        },
+        {
+          "id": 3,
+          "text": "Before serving, tear fresh basil leaves into bite-sized pieces and fold them into salad."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Antipasto Salad",
+        "datePublished": "2019-04-02T02:54:27-04:00",
+        "dateModified": "2026-10-12T15:30:17-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Katie Greco"
+          }
+        ],
+        "description": "This antipasto salad is dressed in vinaigrette with 2 kinds of salami, 2 kinds of cheese, artichoke hearts, olives, tomatoes, and roasted red peppers.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/lBVZ5zihMajgA7pG32sUTi4OcI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/216641-antipasto-salad-PICS-Beauty-4x3-84fd79e147664269a6e2dcc84174df25.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Antipasto Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "ratingCount": "62"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "383 kcal",
+          "carbohydrateContent": "8 g",
+          "cholesterolContent": "74 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "1784 mg",
+          "sugarContent": "2 g",
+          "fatContent": "29 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Appetizer",
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "8 ounces Genoa salami, cut into bite-size pieces",
+          "8 ounces sopressata or other hard salami, cut into bite-size pieces",
+          "8 ounces sharp provolone cheese, cut into bite-size pieces",
+          "8 ounces fresh mozzarella cheese, cut into bite-size pieces",
+          "2 large tomatoes, cut into bite-size pieces",
+          "1 (14 ounce) can artichokes, drained and cut into bite-size pieces",
+          "0.5 (12 ounce) jar roasted red peppers",
+          "0.5 cup pitted and coarsely chopped Kalamata olives",
+          "0.25 cup pitted and chopped green olives",
+          "1 tablespoon extra-virgin olive oil",
+          "3 tablespoons red wine vinegar",
+          "freshly-ground black pepper, to taste",
+          "0.25 cup fresh basil leaves"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine Genoa and soppressata salamis, provolone, mozzarella, tomatoes, and artichokes in a bowl. Slice roasted red peppers and add them to the bowl with about 3 tablespoons juice from the red pepper jar. Mix in chopped olives."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix olive oil with red wine vinegar and drizzle over salad. Season with black pepper to taste. Mix thoroughly. Store in the refrigerator until serving time."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Before serving, tear fresh basil leaves into bite-sized pieces and fold them into salad."
+          }
+        ],
+        "recipeYield": "10",
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "Great recipe that's a hit at large gatherings! It always makes such a nice presentation on a serving platter. The mix of colors is so vibrant and the combination of flavors is so delicous that no one ever walks away hungry! I add a bit of rolled up prosciutto along with the other meats. I also use sliced plum tomatoes and my all time favorite sun-dried tomatoes! I add in some black olives and drizzle the whole thing with a bit of olive oil. I serve it with balsamic vinegar on the side vs. over top. All that's left is to add a basket of crusty Italian bread - it just doesn't get much better than this!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ANGELFROMHEAVEN"
+            },
+            "reviewBody": "Added mosticiolli noodles (8 oz), green onions,and parmesan cheese (dried). Used fresh peppers and omitted artichokes. Because of the addition of noodles I increased the olive oil (to 4 Tablespoons) and seasonings (to taste). To add zest, I added a few flakes of dried red peppers. Refrigerated for 3 hours. Wonderfully refreshing in weather too hot to start the oven. Served with breadsticks.",
+            "datePublished": "2013-09-09T12:15:05.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dottie"
+            },
+            "reviewBody": "Excellent as is! But another time I also added lettuce to make more of a ‘real’ salad and it made 12 generous servings as a side dish. Family loved it! I also turned it into a pasta salad. Wow, this was so good.",
+            "datePublished": "2022-11-23T02:49:58.574Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kttrapani"
+            },
+            "reviewBody": "Made this for our sons First Holy Communion in May. I made it the day before because I love the 'sauce' that it makes. I added pepporcinis to it, doubled the ingredients, tripled the vinegar, as we like it less oily. I also add a box of lined elbows (Barilla). I suggest lined because the sauce gets trapped in the lines and it is so good. It reminded me of Sunday dinner, growing up in New York. It's truly better the next day, just like lasagna. Making with Christmas dinner. If you omit the meats it's perfect for Feast of Seven Fishes for Christmas Eve, but we will be waiting until Christmas dinner (or breakfast) to indulge. Don't forget the crusty bread for dunking. It's a bit expensive but it's worth it.",
+            "datePublished": "2013-12-17T16:05:11.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SusieQ1963"
+            },
+            "reviewBody": "added pepperoncini's and chopped black olives and used Gerard's Italian dressing instead of the red vinegar and olive oil.",
+            "datePublished": "2020-04-12T19:50:32.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bswholey"
+            },
+            "reviewBody": "Delicious. I have made this many times with many variations and different dressings. I usually serve as an appetizer with fancy toothpicks. As an appetizer everything needs to be bitesize so I leave the olives whole and make sure the chunks are big enough to pick up with the tooth picks. With the longer toothpicks guests can make their own little kabob combinations.",
+            "datePublished": "2019-06-24T18:27:02.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I made this antipasto salad to go with a lasagna and garlic bread dinner. It was the perfect accompaniment. I did cut down on the vinegar to 2 T and added some garlic, sugar and Italian seasoning to the dressing though.",
+            "datePublished": "2015-05-02T22:35:50.693Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim"
+            },
+            "reviewBody": "This is a delicious and easy recipe to make. It's a hit every time! Very versatile with using different meats veggies. We've added tortellini too and it becomes a wonderful main dish!",
+            "datePublished": "2023-10-20T23:22:11.564Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jack"
+            },
+            "reviewBody": "I used your ingredients but add cubed smoked ham and cappy ham as well then doubled the veggies and cheese. Brought it for a potluck and just about everyone loved it. This is my 4th time making it. Can't get enough of it. Make it the day before to let the flavors blend. Excellent",
+            "datePublished": "2025-07-22T19:38:58.323Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy"
+            },
+            "reviewBody": "This is always a hit when I make it. It takes longer than 30 minutes to chop all of the ingredients. Very versatile. I like to add Sons Of Italy marinated mushrooms and experiment with different cheeses. I always add extra oil and vinegar. I recommend trying white balsamic vinegar.",
+            "datePublished": "2024-08-16T00:39:21.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy Blankenship Powers"
+            },
+            "reviewBody": "Went fast at the party. A bit expensive, but I keep it for special occasions. I used fresh small mozzarella balls, cherry tomatoes and olives all cut in half. I used only Genoa salami and provolone cut in chunks. Marinated artichoke hearts (drained well) and the basil and dressing. And a few whole pepperoncinis Awesome! Next time I will keep a bit out for myself before I serve it. Goes very fast.",
+            "datePublished": "2015-07-26T11:15:23.433Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoldPecan7263"
+            },
+            "reviewBody": "It was great! I made it a little different. I added Cherry Tomatoes, Black Olives, Red Onions, add pepperoni, pasta. Add pasta it was great. I have enough I think to share with my daughter",
+            "datePublished": "2026-05-12T19:54:52.192Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wendy Trotter"
+            },
+            "reviewBody": "We added slices of pepperoni nice peppers",
+            "datePublished": "2025-12-25T18:19:36.241Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steveb"
+            },
+            "reviewBody": "Very easy to make. Everyone likes it with ranch or Italian dressing. Make sure to keep it cold when not eating it.",
+            "datePublished": "2025-08-07T07:26:32.384Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WiseSquid3068"
+            },
+            "reviewBody": "Great &amp; low carb",
+            "datePublished": "2025-06-17T14:17:56.968Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lisa"
+            },
+            "reviewBody": "I made this recipe for a family gathering. It is so easy to make and you can make it ahead of time as well. Gives the salad time to incorporate and come together. I didn't change much. I used balsamic dressing instead of the suggested dressing. And I added fresh thyme as well. What a wonderful tasting salad. This is a GREAT base salad. The meats can be changed up. So many different ways to make it. I will be making this recipe again. The guest at our gathering LOVED it!!",
+            "datePublished": "2025-03-31T04:03:21.750Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "julie"
+            },
+            "reviewBody": "Easy to make and everyone loved it",
+            "datePublished": "2024-12-09T01:46:26.522Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Claudia Myles"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-04-13T15:46:05.238Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angela HJ"
+            },
+            "reviewBody": "Pretty good!",
+            "datePublished": "2024-02-01T00:24:30.309Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Darcel"
+            },
+            "reviewBody": "it was fantastic!",
+            "datePublished": "2020-02-08T22:21:17.217Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/216641/antipasto-salad-ii/",
+          "name": "Antipasto Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

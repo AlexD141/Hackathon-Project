@@ -1,0 +1,476 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15077/restaurant-style-potato-skins/",
+  "extracted_at": "2026-10-18T02:04:01.472069+00:00",
+  "recipes": [
+    {
+      "name": "Restaurant-Style Potato Skins",
+      "ingredients_raw": [
+        "6 potatoes",
+        "1 cup vegetable oil",
+        "8 ounces shredded Cheddar cheese",
+        "0.125 cup bacon bits",
+        "1 (16 ounce) container sour cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking pan."
+        },
+        {
+          "id": 2,
+          "text": "Pierce potatoes with a fork. Microwave the potatoes on high until they are soft; approximately 10 to 12 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Cut the potatoes in half vertically. Scoop the inside out of the potatoes, until 1/4 inch of the potato shell remains."
+        },
+        {
+          "id": 4,
+          "text": "Heat oil to 365 degrees F (180 degrees C) in a deep fryer or a deep saucepan. Place the potatoes in hot oil, fry for 5 minutes. Drain potatoes on paper towels."
+        },
+        {
+          "id": 5,
+          "text": "Fill the potato shells with cheese and bacon bits. Arrange them in the prepared baking pan."
+        },
+        {
+          "id": 6,
+          "text": "Bake for 7 minutes, or until the cheese is melted. Serve hot with sour cream."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Restaurant-Style Potato Skins",
+        "datePublished": "1999-12-16T21:34:41-05:00",
+        "dateModified": "2022-12-15T15:42:53-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Misty Risner"
+          }
+        ],
+        "description": "Three different cooking techniques--microwaving, frying, then baking--takes these potatoes to serving stage ...but the crunchy, cheese-y results make it worth the wait.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/RFfQnOJXkT1z4SQHOD8Oc-e2MSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3305608-restaurant-style-potato-skins-House-of-Aqua-1x1-1-79a4f4d158ee4bc4a29b9b80d4b23987.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/XVNgf9Dk-ma1DlVvV.mp4",
+          "description": "In this video, you’ll see how to make cheesy potato skins with just the right crunch. The key is the cooking technique. You’ll start by microwaving the potatoes until soft, then filling the shells with cheese and chopped bacon before popping them in a hot oven. It’s so quick and easy. Top them with sour cream, chives, jalapenos, whatever you like!",
+          "duration": "PT2M35S",
+          "name": "Restaurant-Style Potato Skins",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/XVNgf9Dk/poster.jpg?width=1280",
+          "uploadDate": "2023-02-03T15:15:01-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Restaurant-Style Potato Skins",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "367"
+        },
+        "cookTime": "PT7M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "519 kcal",
+          "carbohydrateContent": "41 g",
+          "cholesterolContent": "75 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "17 g",
+          "saturatedFatContent": "19 g",
+          "sodiumContent": "361 mg",
+          "sugarContent": "2 g",
+          "fatContent": "33 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Appetizer",
+          "Snack"
+        ],
+        "recipeIngredient": [
+          "6 potatoes",
+          "1 cup vegetable oil",
+          "8 ounces shredded Cheddar cheese",
+          "0.125 cup bacon bits",
+          "1 (16 ounce) container sour cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pierce potatoes with a fork. Microwave the potatoes on high until they are soft; approximately 10 to 12 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cut the potatoes in half vertically. Scoop the inside out of the potatoes, until 1/4 inch of the potato shell remains."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil to 365 degrees F (180 degrees C) in a deep fryer or a deep saucepan. Place the potatoes in hot oil, fry for 5 minutes. Drain potatoes on paper towels."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Fill the potato shells with cheese and bacon bits. Arrange them in the prepared baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/RFfQnOJXkT1z4SQHOD8Oc-e2MSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3305608-restaurant-style-potato-skins-House-of-Aqua-1x1-1-79a4f4d158ee4bc4a29b9b80d4b23987.jpg"
+              }
+            ],
+            "text": "Bake for 7 minutes, or until the cheese is melted. Serve hot with sour cream."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT37M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "These are good, but here's a really smart tip if you want to cut out about 1/2 the calories, much of the fat and still keep the great taste: DON'T FRY THEM. The only thing that the frying does is make the shells crispy and add a whole lot of fat (1 cup oil is too much fat). You can get the same crunchiness by scooping out the potato shells and baking them in the oven for 45 minutes at 400 degrees. Then add the bacon and cheese and broil another 5 minutes (watch so the cheese doesn't burn). Trust me, why add the fat?"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Parran"
+            },
+            "reviewBody": "I made this recipe a while back and just never commented. They were just ok. Here is what I learned: Use a Yukon Gold or Red Skin potato, not russet. (The recipe doesn’t specify type of potato). I scoop the potato from the skins, whip it in a mixer with a little butter and milk. Then I dressed the potatoes with a layer of sautéed onions and mushrooms, top that with Longhorn cheddar and then a half-rasher of bacon. As other's did, I also baked these; I don’t fry anything (it’s too much trouble, not to mention the fat). Take the skins out when the cheese melts, put the mashed potatoes into a funneling bag and squeeze out in equal portions onto each baked potato skin. Put the oven’s broiler on and let the potatoes cook until just lightly browned and crisp (like twice-baked potatoes). When they come out, serve with a bowl of sour cream or thick double cream on the table, extra cheese, and fresh chives. These are equally good using sweet potatoes, just use a good Swiss in place of the cheddar, and don’t broil, as the sweets just turn runny for some reason. Also, as I’m now no longer eating meat, the version I make these days has Baco-Bits instead of bacon. (I just sprinkle them on top of the mashsed potatoes). With a little sautéed seitan or tempeh (or meat) and some veggies, this dish really makes a complete meal.",
+            "datePublished": "2008-09-26T11:28:22.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Diana71"
+            },
+            "reviewBody": "DELICIOUS!! Like other reviewers, I opted to bake not deep fry. 400F, potato skins brushed with olive oil...baked for 10-15 min, took out, added cheese and bacon...also made some vegetarian. Mixed up what I had removed from the potatoes with milk/butter and made mashed potatoes, which I then restuffed back into the shells and topped w/bacon/cheese ...not only great potato skins but also turned into twice backed potatoes. Heavenly.",
+            "datePublished": "2016-02-21T20:57:47.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Faye Littlewood"
+            },
+            "reviewBody": "I baked the potatoes in 400 degree oven for 1 hour, with olive oil on the skin. Then cooled and scooped out inside.\nBaked the skins another 15 minutes... this crisped them up\nNo frying needed.\nAdded cheese and bacon and baked a few more minutes until cheese was melted",
+            "datePublished": "2020-02-15T14:30:47.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caranam"
+            },
+            "reviewBody": "Turned out yummy! I used Yukon golds, brushed them with butter, and baked until skins were crispy (instead of frying) Delicious!",
+            "datePublished": "2013-02-25T16:36:04.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dalyn"
+            },
+            "reviewBody": "I baked 6 potatoes in the oven the night before so they would be cool when I cut and scrapped the inside out. I saved the insides to make mashers tomorrow night. I didn't have a deep fryer so I poured about an inch of oil in a deep pot. Heated it up and started deep frying the skins. They smelled so good while I was cooking them. I drained them on paper towels. Shredded a mixture of Co-Jack and Sharp cheddar. Used that, bacon and some green onions. Placed them on a baking sheet and baked them till the cheese was melted and bubbly. They disappeared in 15 minutes. Great recipe!! Thanks!!!",
+            "datePublished": "2015-05-10T09:25:54.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carissa"
+            },
+            "reviewBody": "Good starting point. I did not fry it. Like another review said, I baked the potatoes with olive oil brushed on skins. Made the skins crispy. The only issues with potato skins is that you need to eat them when ready. They do not hold well...",
+            "datePublished": "2023-02-20T21:54:37.761Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bobbie"
+            },
+            "reviewBody": "A few weeks ago I made the twice baked potatoes casserole from this site. A reviewer tip suggested saving the skins and I'm glad I did. I flash froze them and pulled some out today to make these. My first attempt was great. Just heated the oven to 400 then added the defrosted skins. It only took a few minutes until the edges started to crisp. Then I added shredded cheese and some crumbled bacon. Popped them back in the oven until the cheese melted and bubbled. Added some sour cream and a sprinkle of smoked paprika. These were a great side with my salmon &amp; lemon pepper broccoli. My second attempt wasn't quite the hit. After rereading the recipe I used the broiler, setting the timer for 3 minutes, which was about a minute too long. Will definitely make again as I still have skins from 3 potatoes still frozen, but I won't use the broiler method. These aren't a light side dish, but added a much enjoyed indulgence!",
+            "datePublished": "2018-05-03T00:10:46.023Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Angie"
+            },
+            "reviewBody": "Ok, this recipe got 3 stars for a few reasons. 1. Use real bacon!! Cook some bacon and then crumble it up beforehand. 2. The potatoes need some seasoning!! After I fried them (I used my deep fryer for an even fry), I seasoned them with seasoning salt and onion powder. I then put monterey jack cheese, bacon, then sharp cheddar cheese and broiled until cheese melted. Then I put dried chives on top. 3. Instead of sour cream, I made the \"Ranch Dressing II\" from this site and served with that. Make the ranch the day before so the flavors really come together. Outstanding!!",
+            "datePublished": "2014-03-22T14:53:30.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ChristineM"
+            },
+            "reviewBody": "These were excellent. I'm running low on oil so I just brushed them with a little olive oil and baked for 10 minutes instead of frying them. Then after stuffing and baking them they actually crisped up beautifully! I used real bacon (actually, duck bacon - uncured, smoked duck breast slices) and garnished with sour cream and chopped scallions. My potato was pretty large, so this ended up being my dinner instead of an appy!",
+            "datePublished": "2011-09-29T06:02:24.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kandis L"
+            },
+            "reviewBody": "Pretty easy recipe with few ingredients. The result is a delicious batch of restaurant style potato skins!! We loved these on football Sunday, and I’ll be making them again! I made these again for the Super Bowl, but skipped the frying part and baked them instead. I used Carolina Reaper cheese on top and it made them spicy and delicious!!",
+            "datePublished": "2024-02-11T21:59:09.805Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "David Murdoch"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-01T16:43:41.039Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Traceees"
+            },
+            "reviewBody": "Omg my family loved my potato skins. First time making potato skins &amp; I did take the advice of the folks that said “don’t fry”. I will make these again.",
+            "datePublished": "2021-04-24T20:26:27.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather Allan Hackett"
+            },
+            "reviewBody": "I didn’t deep fry, I baked as suggested by others and did put the garlic butter as someone suggested as well. They were delicious! I did a lot and thought we would have leftovers for my husbands lunch but they all got eaten.",
+            "datePublished": "2020-10-09T16:26:04.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Basemike64"
+            },
+            "reviewBody": "I made it as written, except I subbed real bacon. No, not healthy, but very tasty.",
+            "datePublished": "2020-06-16T21:17:27.337Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Saratoga Griller"
+            },
+            "reviewBody": "Turned out great. I microwaved per the directions, then scooped out, buttered, and baked in a 450 degree over to crisp up, added a bit more butter and salt and the cheese and bacon. My family loved it.",
+            "datePublished": "2020-06-15T01:56:49.827Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hollyeadams"
+            },
+            "reviewBody": "My family didn’t like these at all. They were bland! I ended up scooping it all back out and making a twice baked potato casserole which I reseasoned.",
+            "datePublished": "2020-01-05T19:13:44.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Griffith"
+            },
+            "reviewBody": "Yummy!",
+            "datePublished": "2019-12-08T00:33:09.813Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PrincessKarma92"
+            },
+            "reviewBody": "Instead of using processed bacon bits, we actually bought real bacon and turned that into bacon crumble! We loved it! I'd definitely recommend this to people and will be making it again.",
+            "datePublished": "2019-09-05T21:22:19.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Victora Motley"
+            },
+            "reviewBody": "Never made potato skins before but had then at restaurants and was in the mood for some with dinner, and they are sooo good, tip though, either I have a low wattage microwave or the potatoes needed to me heated longer, I ended up boiling them till they were completely done and I could scoop put the meat. I also put the meat back inside after frying it with butter bacon and cheese and melted cheese on top and served it with chives and sourcream, was a great hit in our house.",
+            "datePublished": "2019-08-10T20:36:52.797Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15077/restaurant-style-potato-skins/",
+          "name": "Restaurant-Style Potato Skins",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+                  "name": "Appetizers and Snacks"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+                  "name": "Cheese"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,272 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/100324/blue-spinach-salad/",
+  "extracted_at": "2026-10-18T01:40:07.051843+00:00",
+  "recipes": [
+    {
+      "name": "Blue Spinach Salad",
+      "ingredients_raw": [
+        "1 cup pre-washed spinach leaves",
+        "0.33333334326744 cup seedless red grapes, rinsed and dried",
+        "1 tablespoon blue cheese, crumbled",
+        "2 tablespoons roasted, salted pumpkin seeds",
+        "1 tablespoon blue cheese salad dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Toss together the spinach leaves, grapes, blue cheese, and pumpkin seeds. Serve with blue cheese salad dressing if desired."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Blue Spinach Salad",
+        "datePublished": "2018-03-21T12:51:21-04:00",
+        "dateModified": "2022-08-08T11:36:34-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "MAMAHENMISSY"
+          }
+        ],
+        "description": "Small amounts of the rich blue cheese goodies add just the right flavor to a very fresh tasting salad. This is my nothing-else-could-possibly-make-me-happy-for-dinner salad. Happy eating!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/giEKB5dnkn6Mmad9LZznCcXV8FQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/665340-824825c08db74005918a12c2e8c898a3.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Blue Spinach Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "13"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "300 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "9 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "13 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "473 mg",
+          "sugarContent": "10 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeIngredient": [
+          "1 cup pre-washed spinach leaves",
+          "0.33333334326744 cup seedless red grapes, rinsed and dried",
+          "1 tablespoon blue cheese, crumbled",
+          "2 tablespoons roasted, salted pumpkin seeds",
+          "1 tablespoon blue cheese salad dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Toss together the spinach leaves, grapes, blue cheese, and pumpkin seeds. Serve with blue cheese salad dressing if desired."
+          }
+        ],
+        "recipeYield": [
+          "1",
+          "1 serving"
+        ],
+        "totalTime": "PT5M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BCORTE"
+            },
+            "reviewBody": "Really good! The only change I made was to substitute toasted sunflower seeds for pumpkin."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kahmaro"
+            },
+            "reviewBody": "I use toasted pecans in place of sunflower, add red onion rings and use poppyseed dressing.",
+            "datePublished": "2013-02-24T11:35:26.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trish Gillogly"
+            },
+            "reviewBody": "If you can find it, try smoked bleu cheese....delish. I wouldn't use bleu cheese dressing as others suggest....a vinaigrette would not interfere with the bleu cheese, or overpower.",
+            "datePublished": "2013-02-12T17:15:42.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was a good salad. I used a balsamic vinaigrette instead of blue cheese dressing. I also threw in some romaine. We found the pumpkin seeds to be too chewy (as another reviewer mentioned), so I would recommend sunflower seeds instead.",
+            "datePublished": "2011-07-03T20:20:45.887Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karen Coles"
+            },
+            "reviewBody": "This was quite tasty. The grapes were what made the salad. Will make again.",
+            "datePublished": "2011-03-22T19:46:23.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JARRIE"
+            },
+            "reviewBody": "I really liked the grape and cheese together. I did use another dressing, because 1 TB of blue cheese is quite enough for me :=) Thanks for the recipe!",
+            "datePublished": "2011-03-02T15:28:18.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina Alba"
+            },
+            "reviewBody": "I liked this salad. Something different for a change. I made the recipe as written, then topped my salad with some sliced smoked turkey breast which added the perfect amount of depth to the salad....and also made it more filling.",
+            "datePublished": "2010-02-27T10:12:25.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Belle"
+            },
+            "reviewBody": "Loved the idea, but I made a few changes. Took out the grapes and added cold, roasted pumpkin, swapped pumpkin seeds for sunflower and used homemade blue cheese dressing. Perfect side dish for BBQ rump steak with a glass of unwooded chardonnay!",
+            "datePublished": "2006-11-07T02:39:50.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDA MCLEAN"
+            },
+            "reviewBody": "No doubt about it; this is certainly a very unique salad. I wasn't quite sure what the purpose was of using a blue cheese dressing if the cheese was already in the salad. As another reviewer suggested, I opted for a raspberry dressing and sunflower seeds. The pumpkin seeds seemed a bit chewy for this. Either way, really delicious and thanks!",
+            "datePublished": "2006-10-12T19:46:44.187Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "apedawn"
+            },
+            "reviewBody": "This is a good salad and my rating is based on this version. But my favorite way to have this salad is to replace the blue cheese dressing with a vinaigrette...preferably a raspberry viniagrette. You can also replace the blue cheese with gorgonzola. Try it and you will like.",
+            "datePublished": "2006-07-22T15:17:57.543Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/100324/blue-spinach-salad/",
+          "name": "Blue Spinach Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

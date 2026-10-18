@@ -1,0 +1,180 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/213743/swedish-butter-crisps/",
+  "extracted_at": "2026-10-18T02:51:38.618676+00:00",
+  "recipes": [
+    {
+      "name": "Swedish Butter Crisps",
+      "ingredients_raw": [
+        "1 cup butter",
+        "0.75 cup white sugar",
+        "1 egg yolk",
+        "1 teaspoon vanilla extract",
+        "2 cups all-purpose flour",
+        "1 egg white, stiffly beaten",
+        "0.25 cup brown sugar",
+        "0.25 cup chopped pecans"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an oven to 350 degrees F (175 degrees C). Grease a cookie sheet with cooking spray."
+        },
+        {
+          "id": 2,
+          "text": "Beat the butter and white sugar with an electric mixer in a bowl until smooth. Add the egg yolk and vanilla extract, then mix in the flour until just incorporated. Press the dough into the prepared cookie sheet, and spread with the beaten egg white. Sprinkle with brown sugar and pecans."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until golden and set, about 30 minutes. Cool completely before cutting into squares."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Swedish Butter Crisps",
+        "datePublished": "2020-06-18T23:41:49-04:00",
+        "dateModified": "2020-06-18T23:41:49-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Karen514"
+          }
+        ],
+        "description": "Pecans and brown sugar highlight this sticky, sweet cookie.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/CEi_Dj0_EcdPbiRc3W1ToYDMEKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/566483-ecf159b932964ba99abc4b338d71a169.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Swedish Butter Crisps",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "1"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "150 kcal",
+          "carbohydrateContent": "17 g",
+          "cholesterolContent": "29 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "58 mg",
+          "sugarContent": "9 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "1 cup butter",
+          "0.75 cup white sugar",
+          "1 egg yolk",
+          "1 teaspoon vanilla extract",
+          "2 cups all-purpose flour",
+          "1 egg white, stiffly beaten",
+          "0.25 cup brown sugar",
+          "0.25 cup chopped pecans"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 350 degrees F (175 degrees C). Grease a cookie sheet with cooking spray."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat the butter and white sugar with an electric mixer in a bowl until smooth. Add the egg yolk and vanilla extract, then mix in the flour until just incorporated. Press the dough into the prepared cookie sheet, and spread with the beaten egg white. Sprinkle with brown sugar and pecans."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden and set, about 30 minutes. Cool completely before cutting into squares."
+          }
+        ],
+        "recipeYield": [
+          "24",
+          "2 dozen cookies"
+        ],
+        "totalTime": "PT110M",
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/213743/swedish-butter-crisps/",
+          "name": "Swedish Butter Crisps",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+                  "name": "Cookies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15057/desserts/cookies/butter-cookies/",
+                  "name": "Butter Cookie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

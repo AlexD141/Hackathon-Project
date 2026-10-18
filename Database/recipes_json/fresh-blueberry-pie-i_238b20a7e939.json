@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/12325/fresh-blueberry-pie-i/",
+  "extracted_at": "2026-10-18T01:49:00.666615+00:00",
+  "recipes": [
+    {
+      "name": "Mom&#39;s Blueberry Pie ",
+      "ingredients_raw": [
+        "1 recipe pastry for a 9 inch double crust pie",
+        "0.66666668653488 cup white sugar",
+        "2 tablespoons all-purpose flour",
+        "1 tablespoon quick-cooking tapioca",
+        "0.25 teaspoon ground nutmeg",
+        "0.25 teaspoon salt",
+        "4 cups fresh blueberries",
+        "1.5 tablespoons lemon juice",
+        "1 tablespoon grated lemon zest",
+        "0.5 tablespoon butter"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Place 1 pie crust in a 9-inch pie plate."
+        },
+        {
+          "id": 3,
+          "text": "Combine sugar, flour, tapioca, nutmeg, and salt in a small bowl. Place blueberries in a large bowl; stir in sugar mixture. Stir in lemon juice and zest until incorporated; let stand for 10 to 15 minutes. Stir blueberry mixture well; spoon into crust. Dot with butter; cover with remaining crust and seal edges."
+        },
+        {
+          "id": 4,
+          "text": "Bake in the preheated oven on the lowest rack for 10 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C) and continue baking until filling bubbles, about 30 minutes more."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Mom&#39;s Blueberry Pie ",
+        "datePublished": "1998-07-04T11:16:03-04:00",
+        "dateModified": "2025-07-01T17:51:59-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Carol"
+          }
+        ],
+        "description": "For Mom&#39;s blueberry pie recipe, sweetened blueberries are piled into a crust, dotted with butter, covered with a crust, and baked until golden and bubbly.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ePXa_XPTt5m3tgQAvv99RKNNI9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/55889-8f0115bae8224d17a0235d0421a651a5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Mom&#39;s Blueberry Pie ",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "71"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "238 kcal",
+          "carbohydrateContent": "40 g",
+          "cholesterolContent": "2 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "196 mg",
+          "sugarContent": "24 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 recipe pastry for a 9 inch double crust pie",
+          "0.66666668653488 cup white sugar",
+          "2 tablespoons all-purpose flour",
+          "1 tablespoon quick-cooking tapioca",
+          "0.25 teaspoon ground nutmeg",
+          "0.25 teaspoon salt",
+          "4 cups fresh blueberries",
+          "1.5 tablespoons lemon juice",
+          "1 tablespoon grated lemon zest",
+          "0.5 tablespoon butter"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 450 degrees F (230 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Place 1 pie crust in a 9-inch pie plate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine sugar, flour, tapioca, nutmeg, and salt in a small bowl. Place blueberries in a large bowl; stir in sugar mixture. Stir in lemon juice and zest until incorporated; let stand for 10 to 15 minutes. Stir blueberry mixture well; spoon into crust. Dot with butter; cover with remaining crust and seal edges."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven on the lowest rack for 10 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C) and continue baking until filling bubbles, about 30 minutes more."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 (9-inch) pie"
+        ],
+        "totalTime": "PT65M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MUSTANGJUDY1009"
+            },
+            "reviewBody": "this has to be the best blueberry pie recipe I have tried. I didn't have tapioca so I used cornstarch and that worked well. it was juicy but not runny."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ellyx3"
+            },
+            "reviewBody": "This pie is delicious! 5 stars easily given. I made this exactly as written, only switching ground cinnamon for the nutmeg, which I highly recommend doing as it gives the pie an extra special taste. The pie gods were smiling on me when I made it because not only did my homemade pie crust turn out perfectly, but the filling turned out amazing as well. I covered the crust with a pie crust ring and only took it off during the last 15 minutes of n",
+            "datePublished": "2018-08-08T21:52:11.977Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EBurdine"
+            },
+            "reviewBody": "This was very good, but the next time I will leave out the nutmeg completely. I had reduced it to an 1/8 tsp, but still didn't like the nutmeg flavor. I doubled the tapioca and did 6 cups of blueberries. This required a longer cook time, but was well worth it. No problems with it being to runny. It is important to let it set for at least 3 hours.",
+            "datePublished": "2011-07-11T13:01:53.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "missnepa"
+            },
+            "reviewBody": "This recipe was excellent! This is the very first pie I ever baked, it turned out wonderful! I used a 9.5\" deep pie plate. I ended up using about 7 cups of blueberries and kept the rest of the ingredients the same. I did sprinkle a little extra white sugar over the top after I filled up the pie. It was perfect! Thick, not running, sweet but not sickening. Everyone loved it! It was so easy and I will definitely make it again. I used frozen blueberries and let them sit in luke warm water for an hour to defrost. See my picture.",
+            "datePublished": "2011-06-13T17:46:17.097Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nutty River"
+            },
+            "reviewBody": "I made this with the only tweak being that I used brown sugar instead of white sugar. I also poked holes in the top pie crust. It tastes super lemony, so I'd even call this a \"Blueberry Lemon Pie\". I put it in the fridge overnight (covered), and it tasted better in the morning.",
+            "datePublished": "2025-07-20T16:56:25.491Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmareVincere"
+            },
+            "reviewBody": "This was a great way to use up the 2 pints of blueberries in my fridge. I used 1T cornstarch instead of tapioca, cinnamon instead of nutmeg, and added more lemon juice. I cooked 1 pt of blueberries and the sugar, cinnamon, and lemon juice together in a saucepan, then added it to the remaining blueberries and added 1 can blueberry pie filling (because I didn't have enough blueberries to really fill the pie, I don't think 2 is enough at all!!). I also brushed the crust with some milk while baking to keep golden and from burning, and baked a bit longer than the 30 minutes suggested. Came out fantastic!! Rating a 4 because I had to make those changes.",
+            "datePublished": "2009-07-15T18:36:27.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FOODGU1"
+            },
+            "reviewBody": "This was excellent! Next time, however, I will cut down on the lemon zest as I thought it was a bit much. Some complained that the pie was runny; to solve this, you NEED to let the pie set!! Fruit pies will still be a little runny after baking and need several hours to set. This pie is no exception. I let mine set overnight and it was perfect. Another tip is to make sure you give the blueberries ample time to stand in the mixture (before pouring into the pie crust). You will notice how much it thickens depending on how much time you allow.",
+            "datePublished": "2010-12-01T17:16:41.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmberMint2643"
+            },
+            "reviewBody": "I tried this recipe for Christmas Dinner and it was a big hit. I could have used more thickening but I like my pies a little runny and not firm as the feel they loose flavor if the juices aren’t coming out a little. I omitted the nutmeg as I feel it overwhelms flavors and added 2 tablespoons of cinnamon And also put on a crumb oat topping. Everyone said it was the best and loved that it was not too sweet and a little tangy. My pie pan has an edge so the overflow went there while cooking and not In the oven. The one on the right is the blueberry after it had cooled for a few hours. Delish!!!!!",
+            "datePublished": "2023-12-26T16:55:49.895Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca C"
+            },
+            "reviewBody": "IThis recipe turned out great but I made several changes... I used 6 cups of Wyman's wild frozen blueberries, I added 1/4 tsp almond extract, I used 2 tbsp tapioca, because I grate fresh nutmeg, I reduces the amount to just a pinch. I used all of the zest and all of the juice from 1 medium lemon. I served it with vanilla ice cream. It was so good we are it for breakfast!",
+            "datePublished": "2016-12-31T16:46:32.033Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jonathan Eslick"
+            },
+            "reviewBody": "Nice recipe, i should have used lime juice instead of nutmeg. Prebaked the bottom crust (metal pan) using a pizza stone to keep it from getting soggy.",
+            "datePublished": "2024-05-03T11:36:01.198Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenelle Michet Wiley"
+            },
+            "reviewBody": "Made this yesterday within hours of picking my blueberries and it was GREAT! I didn't have any lemons to zest, so I just added a little extra lemon juice. I made a note on my copy of the recipe to reduce the sugar (some), if I am using freshly picked blueberries... it was a little sweet, probably because the blues berries were so fresh. OH! two more things, I didn't use the nutmeg and used about 5 1/2 cups of blueberries.",
+            "datePublished": "2013-05-20T07:57:11.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gregg L Friedman MD"
+            },
+            "reviewBody": "Excellent blueberry pie. I love it! 5 Stars. By Gregg L. Friedman MD",
+            "datePublished": "2026-02-02T19:57:04.934Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeannie Brinkmeier"
+            },
+            "reviewBody": "It was an easy recipe and turned out great!",
+            "datePublished": "2025-12-06T17:58:12.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DizzySoup4616"
+            },
+            "reviewBody": "No changes Excellent 💕💕",
+            "datePublished": "2024-11-30T14:05:15.852Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ToughPita9670"
+            },
+            "reviewBody": "Followed the recipe to a tee and it was a sour tasting flop! Too much lemon and lemon zest!",
+            "datePublished": "2022-10-16T18:27:05.064Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mike Jones"
+            },
+            "reviewBody": "Excellent recipe, substituted corn starch. Came out great.",
+            "datePublished": "2021-01-01T02:01:28.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen Chenelle"
+            },
+            "reviewBody": "It was so good, that I have to mak it again.",
+            "datePublished": "2019-12-05T06:29:09.897Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jedemperio"
+            },
+            "reviewBody": "Used flour instead of corn starch. 10” pie plate needed 6 cups of berries. Delicious !",
+            "datePublished": "2019-08-12T03:08:06.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gabrielle Johnson"
+            },
+            "reviewBody": "I made this for my grandparents and they loved it. I omitted the nutmeg and accidentally used lime juice instead of lemon but it still turned out great! 10/10!",
+            "datePublished": "2017-08-13T17:29:56.067Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EJ Lilley"
+            },
+            "reviewBody": "I love blueberries and I love lemon squares, but not blue lemon squares. It was too much lemon for me because I was anticipating a blueberry flavor which I didn't get.",
+            "datePublished": "2016-08-15T01:25:33.390Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/12325/fresh-blueberry-pie-i/",
+          "name": "Mom&#39;s Blueberry Pie ",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+                  "name": "Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+                  "name": "Fruit Pies"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/12946/desserts/pies/fruit-pies/blueberry-pie/",
+                  "name": "Blueberry Pie Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

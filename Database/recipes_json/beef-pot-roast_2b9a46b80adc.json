@@ -1,0 +1,497 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14621/beef-pot-roast/",
+  "extracted_at": "2026-10-18T02:01:04.535604+00:00",
+  "recipes": [
+    {
+      "name": "Beef Pot Roast",
+      "ingredients_raw": [
+        "2 teaspoons olive oil",
+        "4 pounds boneless chuck roast",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 bay leaves",
+        "1 teaspoon salt",
+        "0.5 teaspoon freshly ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Heat a Dutch oven or heavy-duty pot over medium-high heat. Add oil. When oil shimmers, add meat and sear, undisturbed, until brown, about 4 minutes. Turn meat with tongs; continue to sear, undisturbed, until brown, 3 to 4 minutes more. Remove meat to a plate and set aside."
+        },
+        {
+          "id": 3,
+          "text": "Add onion, garlic, and 1 bay leaf to the pot; sprinkle with salt and pepper. Return meat and juices from the plate to the pot, place remaining bay leaf on top of meat; cover."
+        },
+        {
+          "id": 4,
+          "text": "Transfer to the preheated oven; cook 30 minutes. Reduce heat to 300 degrees F (150 degrees C); continue cooking until tender, about 1 ½ hours. An instant-read thermometer inserted into the thickest part of the roast should read 145 degrees F (65 degrees C)."
+        },
+        {
+          "id": 5,
+          "text": "Transfer roast to a platter and let rest, 10 to 15 minutes. Slice and top with gravy from the pot."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Beef Pot Roast",
+        "datePublished": "1999-09-30T11:44:12-04:00",
+        "dateModified": "2026-10-11T10:13:00-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Teresa C. Rouzer"
+          }
+        ],
+        "description": "Make chuck roast in the oven with this easy, one-pot recipe for the ultimate melt-in-your-mouth pot roast that cooks for 2 hours until fork-tender.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/46jdSnzZs5s0I1UAEi6m20cBDMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14621-beef-pot-roast-DDMFS-4x3-13d65566a0774f4fa99f948381e085ca.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/7y1OeCir-ma1DlVvV.mp4",
+          "description": "AR0212",
+          "duration": "PT2M30S",
+          "name": "Beef Pot Roast",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7y1OeCir/thumbnails/7UtUN60W.jpg?width=1280",
+          "uploadDate": "2021-06-23T16:06:03-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Beef Pot Roast",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "815"
+        },
+        "cookTime": "PT120M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "551 kcal",
+          "carbohydrateContent": "2 g",
+          "cholesterolContent": "161 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "39 g",
+          "saturatedFatContent": "17 g",
+          "sodiumContent": "446 mg",
+          "sugarContent": "1 g",
+          "fatContent": "42 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 teaspoons olive oil",
+          "4 pounds boneless chuck roast",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 bay leaves",
+          "1 teaspoon salt",
+          "0.5 teaspoon freshly ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6Kahs279DWVR5O6AIuBiEoZkhoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14621-beef-pot-roast-ddmfs-step-2-0752-4x3-e2543b3ed7bb4360906e890a4a121b48.jpg"
+              }
+            ],
+            "text": "Heat a Dutch oven or heavy-duty pot over medium-high heat. Add oil. When oil shimmers, add meat and sear, undisturbed, until brown, about 4 minutes. Turn meat with tongs; continue to sear, undisturbed, until brown, 3 to 4 minutes more. Remove meat to a plate and set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lDLJXs6ro-1qT1s410gDjY61G40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14621-beef-pot-roast-ddmfs-step-3-0753-4x3-a053a37d0a6d4faea7a97687e0603aa2.jpg"
+              }
+            ],
+            "text": "Add onion, garlic, and 1 bay leaf to the pot; sprinkle with salt and pepper. Return meat and juices from the plate to the pot, place remaining bay leaf on top of meat; cover."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/9uOHFDf9Ymx8eATf5KNC9XIg1kQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14621-beef-pot-roast-ddmfs-step-4-0778-4x3-1b1e9dfc167c404f85eff5c52f316e8d.jpg"
+              }
+            ],
+            "text": "Transfer to the preheated oven; cook 30 minutes. Reduce heat to 300 degrees F (150 degrees C); continue cooking until tender, about 1 ½ hours. An instant-read thermometer inserted into the thickest part of the roast should read 145 degrees F (65 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/46jdSnzZs5s0I1UAEi6m20cBDMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14621-beef-pot-roast-DDMFS-4x3-13d65566a0774f4fa99f948381e085ca.jpg"
+              }
+            ],
+            "text": "Transfer roast to a platter and let rest, 10 to 15 minutes. Slice and top with gravy from the pot."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT150M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeanne Harris Parks"
+            },
+            "reviewBody": "I tried this recipe on my first attempt at pot roast, mostly because the technique seemed easy. But I put my own touches on it. I used the chuck roast and seasoned it w/ salt, pepper, garlic powder, and a little italian seasoning. Make sure you sear the meat well, but not burned. After searing, I put the onions in the pot with a diced bell pepper, a few cut up baby carrots, a can of sliced mushrooms, a dash of Worcestershire, and half a can of beef broth. I let it come to a boil, then put the roast back in the pot and put it in the oven. Last thing was to thicken the liquid with a little flour. This pot roast tasted so homemade, my husband and daughter cleaned up for me! Make sure that you add some type off liquid (broth, wine, water, or combination), otherwise yours will be very dry. Hope this helps, I now have a pot roast recipe!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "DAWNMONAHAN"
+            },
+            "reviewBody": "My husband said, \"He couldn't have ordered a better meal in a restaurant.\" Given my lacking culinary abilities and his finicky palate, this was quite the compliment! This recipe makes a beautiful presentation and the juices and onion and garlic makes it's own gravy/sauce. The key to it not coming out dry (as one reviewer complained) is searing the meat for the full 4 minutes on each side. I set the kitchen timer and left it alone. Also do not add salt (just like the recipe states) until the meat is seared. This keeps the juices from running. I was also able to use a less expensive piece of meat and it turned out fabulously!",
+            "datePublished": "2002-11-16T11:18:07.140Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SilverWater1371"
+            },
+            "reviewBody": "Great recipe--used ~2lb USDA Choice chuck roast from costco, and generously salted/peppered the meat and let it sit overnight in the fridge prior to cooking for dinner the next day. Seared in a cast iron pan, and then transferred to a covered, 1.75 qt oven-safe ceramic sauce pot since I didn't have a Dutch oven. Followed the recipe exactly, and was pleasantly surprised how tender, juicy, and flavorful this recipe was. The surprisingly amount of juices generated from cooking the meat made a wonderful sauce with the onions/garlic/bayleaf mixture. Thank you very much!!",
+            "datePublished": "2023-02-01T14:29:19.925Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ToastyCress9026"
+            },
+            "reviewBody": "Regular Recipe is good, basic, and tasty which allows for easy pivots to different styles. Miso Garlic Mod - often served with sautéed carrots with soy and butter: - Dry seasoned with activated charcoal since cooking on gas, paprika, and salt (don’t need to add the teaspoon of salt). - Grilled on lower end of high for about 3-4min a side and about 30seconds on the edges held in place with tongs. - added two tablespoons of Miso Paste (yellow) - added 1 Tbl of better than bouillon sauce or about that of liquid or dry - instead of 2 gloves of garlic, use 2 bulbs aka heads of garlic rough chopped - 1 Tbl of oil to bottom of crockpot add the meat place garlic and onions around it as instructed. Bayleaf optional not really necessary - put on low for 6-7hrs until internal temp reaches 200-210F - consider the sides during this time or if crockpot is big enough add it to it",
+            "datePublished": "2024-12-03T01:56:36.767Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadPeel5827"
+            },
+            "reviewBody": "I’ve always cooked my pot roast in a crockpot but wanted to use my new cuisenart Dutch oven, and found this recipe. I was a little skeptical when there was no added broth but I followed the recipe as written, except I added a sliced red bell pepper, and some sliced mushrooms to the onions in the bottom of the pot. I was skeptical about the two hour cook time and, as I suspected, my pot roast was not fall apart fork tender after only two hours. I had to add another hour and a half cooking time to get it to fall apart. But it was absolutely delicious. I will definitely be making it again. I’ll just be sure to start it 4 hours before I want to serve dinner.",
+            "datePublished": "2024-09-23T17:54:52.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LHDougherty"
+            },
+            "reviewBody": "This is simple, moist, and delicious! The meat stayed moist after it was cut. I only had a large turkey roaster, so I did what someone else suggested and wrapped up the meat and onion mixture in aluminum foil, then put it in the roaster.I added 3 onions and 3 garlic, adjusting to slightly larger roast size, and just blended it up in a small pot with my immersion blender once the roast was cooked for a thick and wonderful gravy.-no added thickener, just add an extra onion. thanks!!",
+            "datePublished": "2014-12-09T07:33:30.150Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "suzan"
+            },
+            "reviewBody": "I took a chance and cooked in a huge iron skillet. Foil on top, cooked at recipe temperature. Turned out perfectly. 3# beef roast. Tomorrow I'll cook again with sweet peppers, mini potatoes, onions, carrots. Forget the pressure cooker or slow cooker. Thank you.",
+            "datePublished": "2025-11-01T00:51:05.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "I added my twist, I added chopped celery with the garlic and onions, then before placing in the oven I added chopped carrots on top and around the roast. I alo added dry rosemary and cayenne pepper. I also made potato wedges which I tossed with olive oil, Italian seasonings, salt &amp; pepper and cooked in the air fryer. My company devoured this Sunday dinner.",
+            "datePublished": "2025-09-08T01:01:16.170Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mleeanne"
+            },
+            "reviewBody": "So yummy!! I seasoned the meat with salt, pepper and garlic powder (instead of the fresh minced garlic). I seared the meat with the onions and then, after I seared all sides, I did a rough chop of some carrots (in biggish chunks), layered them on the bottom with the bay leaf and then put the roast on top. All of the juices cooked into the carrots. SO GOOD! My husband asked to keep this as the 'go-to' roast recipe. So so delicious! I did extend the recipe a little by making gravy with the following gluten free recipe: After taking out the roast to rest on a platter, I add 1 tsp. Xanthan Gum to the leftover beef au jus, whisk well. Add 1 c. water and then a beef bouillon cube (or granules), bring to just to a boil and then spoon over your roast!",
+            "datePublished": "2018-05-30T23:48:30.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "scottmeister"
+            },
+            "reviewBody": "Simple, quick and delicious. I skipped the artificial gravy and instead poured a cup of beef broth in the bottom of the roasting pan. Next time I will add some red wine for a little tang. Prep tweaks: Cut the roast into multiple sections, Salt and Pepper all sides, then sear it well. I added 6 carrots and 6 red potatoes, with salt and pepper, as sides - all in the roasting pan. Celery would be another option. Make sure you seal the pan well with aluminum foil so everything turns out moist. Best roast recipe I've made yet!",
+            "datePublished": "2018-06-07T13:48:59.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jio brooks"
+            },
+            "reviewBody": "i made it it was one of the best i ever made......after i salted and peppered the meat then seared it. cut up onions lots of garlic and half a green pepper and 2 bay leaves and put them in. put in 1 1/2 packet of sazon on top of that and put the meat back in. then finally put 3 meat bouillon cubes in about 1 1/2 cup of boiling water then poured that on top. mistakenly cooked it at 375 for 30 mins then 300 for 1 1/2 hour. best one i have ever made wow.",
+            "datePublished": "2019-09-11T01:32:17.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CraftyEgg2950"
+            },
+            "reviewBody": "Easy and quick. Delicious !",
+            "datePublished": "2026-10-15T18:54:43.137Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "F McGregor-Foxcroft"
+            },
+            "reviewBody": "I tried this recipe last night. As I live alone, I bought a two pound top blade roast, followed the recipe meticulously, except I didn't have any bay leaves. I remembered after I started that I tossed the ones I had because they were nearly ten years old. The only difference was my roast was mine was well done and a larger roast was medium rare. I put the veggies in in the last 45 minutes, I usually make my pot roasts in a a slow cooker, but after making this roast, I'll always use my cast iron crock pot.",
+            "datePublished": "2026-10-04T19:01:27.415Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "pnt1065"
+            },
+            "reviewBody": "So easy, and delicious!",
+            "datePublished": "2026-06-01T20:53:29.798Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shawn"
+            },
+            "reviewBody": "Easy recipe to follow.",
+            "datePublished": "2026-03-02T03:25:14.311Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FunkySpud2463"
+            },
+            "reviewBody": "Easiest, flavorful, tender delicious recipe to make...a definite favorite of mine!",
+            "datePublished": "2026-02-16T21:30:09.065Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "L."
+            },
+            "reviewBody": "Love the tender roast! I did add the carrots and potatoes. Different method for me - I usually crockpot it - but this was better and faster. Thanks 👍👍",
+            "datePublished": "2026-01-29T23:56:33.935Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EdgyChive9222"
+            },
+            "reviewBody": "Family loves this easy to make roast!",
+            "datePublished": "2026-01-27T22:31:25.246Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ModestMelon9109"
+            },
+            "reviewBody": "Thank you. Tastes great.",
+            "datePublished": "2025-12-20T01:37:54.950Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Raechel Reece"
+            },
+            "reviewBody": "Serving this to my family was humiliating. Despite following the recipe to the letter and adjusting for weight difference this meat was TOUGH. May as well have been beef jerky. I only tried it in the oven because I didn’t have time for the crock pot today.",
+            "datePublished": "2025-10-13T22:26:42.823Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14621/beef-pot-roast/",
+          "name": "Beef Pot Roast",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/446/main-dish/beef/",
+                  "name": "Beef"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1469/main-dish/beef/pot-roast/",
+                  "name": "Pot Roast Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

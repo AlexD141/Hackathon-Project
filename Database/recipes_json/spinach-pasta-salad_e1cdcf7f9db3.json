@@ -1,0 +1,429 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16142/spinach-pasta-salad/",
+  "extracted_at": "2026-10-18T02:19:10.614051+00:00",
+  "recipes": [
+    {
+      "name": "Spinach Pasta Salad",
+      "ingredients_raw": [
+        "1 (12 ounce) package farfalle pasta",
+        "10 ounces baby spinach, rinsed and torn into bite-size piece",
+        "2 ounces crumbled feta cheese with basil and tomato",
+        "1 red onion, chopped",
+        "1 (15 ounce) can black olives, drained and chopped",
+        "1 cup Italian-style salad dressing",
+        "4 cloves garlic, minced",
+        "1 lemon, juiced",
+        "0.5 teaspoon garlic salt",
+        "0.5 teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain."
+        },
+        {
+          "id": 2,
+          "text": "Combine cooked pasta, spinach, feta cheese, red onion, and olives in a large bowl."
+        },
+        {
+          "id": 3,
+          "text": "Whisk salad dressing, garlic, lemon juice, garlic salt, and pepper together until well combined; pour over spinach salad and toss to coat."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Spinach Pasta Salad",
+        "datePublished": "2000-02-04T11:04:35-05:00",
+        "dateModified": "2026-07-30T11:02:10-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kim Fusich"
+          }
+        ],
+        "description": "This summery spinach pasta salad is loaded with farfalle pasta, baby spinach, feta, red onion, and olives tossed in a bright and tangy lemon dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/QGButFRIKw2UvkbD9DOVQhDmh3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16142-Spinach-Pasta-Salad-SoupLovingNicole-2000-2df2caa5ef52434693a9f3aaba5f2e3e.jpg",
+          "height": 1126,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spinach Pasta Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "326"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "334 kcal",
+          "carbohydrateContent": "42 g",
+          "cholesterolContent": "6 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "9 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "1167 mg",
+          "sugarContent": "5 g",
+          "fatContent": "17 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Salad"
+        ],
+        "recipeCuisine": [
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "1 (12 ounce) package farfalle pasta",
+          "10 ounces baby spinach, rinsed and torn into bite-size piece",
+          "2 ounces crumbled feta cheese with basil and tomato",
+          "1 red onion, chopped",
+          "1 (15 ounce) can black olives, drained and chopped",
+          "1 cup Italian-style salad dressing",
+          "4 cloves garlic, minced",
+          "1 lemon, juiced",
+          "0.5 teaspoon garlic salt",
+          "0.5 teaspoon ground black pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large pot of salted boiling water, cook pasta until al dente, rinse under cold water and drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine cooked pasta, spinach, feta cheese, red onion, and olives in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Whisk salad dressing, garlic, lemon juice, garlic salt, and pepper together until well combined; pour over spinach salad and toss to coat."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SavvyTech"
+            },
+            "reviewBody": "I made this to accompany burgers at our barbecue and a lot of people had seconds. The salad didn't get to chill longer then two hours before we served it and I felt like it really needed to sit longer. I had some the next day for lunch and it tasted much better. Next time I make this I will make it the night before so that the flavors have time to meld together. I substitued tri-colored spiral pasta because I think it adds to the presentation of the salad. I also added some plum tomatoes sliced in half and I added a small sweet yellow pepper diced. Do not skimp on the spinach in this recipe. It adds a wonderful flavor and color to the pasta salad. Very tasty recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "France C"
+            },
+            "reviewBody": "This was really good! I need a recipe in a hurry to bring to a work potluck lunch the next day. I took someone's suggestion and grated the lemon zest (about half the lemon) and added that in with the lemon juice. Great idea! I only used half the red onion (I'd say maybe 1/3 cup) bc I didn't want onion overpowering the salad. I also used the full 4oz container of feta and found that was the perfect amount. The only real change I made was to add in a half jar of sundried tomatoes, chopped. They added a lovely flavor! I mixed the salad the night before, minus the spinach and about 1/3 of the dressing. An hour before the lunch, I added in the chopped spinach and the remaining dressing. Out of 8 ppl at the lunch, I had 3 asking for the recipe and everyone commented that they liked it. Great recipe!",
+            "datePublished": "2015-02-17T15:48:42.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindee"
+            },
+            "reviewBody": "I love this recipe. The second time I made this salad the only changes I made was to make the night before minus adding 07/15/15 the spinach. I also added grated Parmesan cheese and 5 oz. lightly toasted pine nuts in evoo. Mix all together and refrigerate overnight. Add spinach to avoid wilting the next day. Excellent left overs if you are lucky enough to have any. UPDATE 07/15/2016: try using penne pasta and buy Boar's Head creamy Feta cheese crumbles....no need to add any other cheese. Be sure to add lightly browned pine nuts and it is so perfect.",
+            "datePublished": "2014-06-19T11:07:15.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mommie2"
+            },
+            "reviewBody": "Fantastic and makes a bunch! I made it as-is (except cut down on the red onion for the kids). Honestly this was delicious, but even better the next day, so don't be afraid to make it ahead of time! It can be a very forgiving salad if you want to use regular feta or kalamata olives instead. I even thought it would make a complete summer meal if you added shrimp to it. This will also travel well for a potluck. I want to add I saw a lot of reviews saying there is too much dressing. Don't add all your dressing at once! Add half and let sit for awhile, taste and add more as needed before serving. That way you can adjust for what your family likes. You can always add more, but can't fix it if you just dumped the whole amount on first. Great recipe, thanks for this one!",
+            "datePublished": "2023-04-27T16:38:06.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "I Have Issues"
+            },
+            "reviewBody": "This can be a main meal with a addition of turkey bacon or lean ham. It's so easy. The suggestions about reducing the onion and using high quality dressing like Newman's or making your own is a must. I avoid dairy so I put in walnuts or pine nuts for that extra zip when I'm not adding the bacon or ham. The trick with this is using a seasoning mix when you want to \"spice\" it up -- try Mexican or Creole or even one of the no salt varieties… my favorite is Bragg Organic Sprinkle Seasoning. Whatever you do, mix everything but the spinach together really well, then add it to the leaves -- bruised yucky spinach if you don't!",
+            "datePublished": "2014-03-12T13:16:33.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marg McKenna"
+            },
+            "reviewBody": "Loved it. Like others have said, leave the spinach out until shortly before serving. My fresh garlic wasn’t looking great so used granulated garlic. I also added cherry tomatoes cut in half and about half a red onion. Other than that, basically followed recipe. \nI’ll be being making this a lot for family and friends. It is very versatile. Will soon try it with chicken or shrimp.",
+            "datePublished": "2019-06-26T16:25:59.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle"
+            },
+            "reviewBody": "This was delicious. I followed the recipe and added some sliced button mushrooms and diced pecans for some crunch. I did as others and mixed all except the spinach the night before and added the spinach a couple of hours before the party. It was a huge hit.",
+            "datePublished": "2016-07-02T02:12:55.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Char Black"
+            },
+            "reviewBody": "I love this recipe. Made it this time (second time) using a combination of a fast food left over Italian dressing, leftover homemade Italian dressing, and bottled from the grocery dressing. Reduced garlic cloves to three since there was fresh garlic in my homemade dressing. Added marinated fresh mozzarella balls at the suggestion of daughter. Used about a cup of grape tomatoes, 8 oz of fresh bagged spinach from the grocery, and a six oz can of olives cut in half. A 15 oz can seems like a lot. 7/30/23 - This recipe is so flexible. Since there is a vegetarian at the meal today, added marinated artichoke hearts and cucumbers. Used a full 10 oz bag of fresh spinach and tried Kalamata olives. If protein is desired, any cooked proteins can be added. Tempeh and tofu for the vegetarian.",
+            "datePublished": "2023-07-30T20:55:11.416Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathleen"
+            },
+            "reviewBody": "This was the best noodle salad I have ever had! Only changes were adding some marinated artichokes and adding the zest of one lemon to the dressing (we love lemon). I thought this recipe was packed with flavor. Might add some chopped tomato on top before serving next time to add a fresh element.",
+            "datePublished": "2020-04-11T01:00:48.747Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allan Koenig"
+            },
+            "reviewBody": "I took the advice of another review and used Newman's Own Family Italian Dressing. I also used Kalamata olives instead of black olives and regular feta cheese (because I couldn't find what the recipe called for). Mixed it the night before and the flavors married nicely. The recipe should come with a WARNING - it is addictive.",
+            "datePublished": "2025-03-21T01:42:34.295Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marjohnal"
+            },
+            "reviewBody": "A keeper fer sure! I pretty much made as is except using only half a red onion as the one I had was ginormous. I also added cherry tomatoes which added to both flavor and color. Also, if you use a 16 oz. box of pasta (why do recipes with pasta always seem to call for 12 oz. when boxes come in 16???) make sure to add 16 oz. of spinach, chopped for eating ease. A really tasty summer salad.",
+            "datePublished": "2016-05-31T15:43:07.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann Loveless"
+            },
+            "reviewBody": "I didn’t like using the bottled dressing with it. I think olive oil and basaltic vinegar would have been better.",
+            "datePublished": "2026-03-18T01:22:40.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Corinne"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-28T13:57:58.334Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherri"
+            },
+            "reviewBody": "Loved the taste! Used vegetable pasta but still awesome.",
+            "datePublished": "2023-10-03T18:23:15.071Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "LOVED LOVED LOVED this and I am not even a big fan of feta. On that note, I was unable to find feta with tomato and basil so I just added my own. Turns out I had both leftover from Super Bowl so it worked out great. Hubs isn't a fan of tomatoes so I left the grape tomatoes whole and spooned around them for his benefit. I thought the salad needed a tad bit more of the Italian dressing but maybe that is just a personal preference. This got better the longer it sat and overall this is one of the best pasta salads I have made in quite some time.",
+            "datePublished": "2023-02-20T04:31:39.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nina83"
+            },
+            "reviewBody": "I made this as written and it was dicious! I will definitely be making it again!",
+            "datePublished": "2022-03-16T21:44:07.452Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ruth Enerson"
+            },
+            "reviewBody": "Excellent salad. Pretty much made as directed with exception of I didn't have feta with tomatoes and basil so just used plain feta and chopped up some fresh out of the garden tomatoes. \nI'll add some fresh basil too, wanted to first try it without.\nThis will go into my favorites folder!",
+            "datePublished": "2021-09-06T14:37:10.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JennRDLD"
+            },
+            "reviewBody": "The best pasta salad!! My whole family lives it! I do add sliced cherry tomatoes to it for color and taste! So yummy!!",
+            "datePublished": "2021-05-28T00:11:15.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "B B"
+            },
+            "reviewBody": "brought this for a family gathering and it was very very popular",
+            "datePublished": "2020-08-09T23:18:37.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Yummy15"
+            },
+            "reviewBody": "I used mini Farfalle. I couldn’t find basil &amp; tomato Feta so I bought Mediterranean Feta. I added some Basil to the dressing. I used less onion because it was so strong. It was okay. If I make it again, I’ll add a few other ingredients as others have mentioned.",
+            "datePublished": "2020-06-02T11:02:08.900Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16142/spinach-pasta-salad/",
+          "name": "Spinach Pasta Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

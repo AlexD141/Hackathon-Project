@@ -1,0 +1,531 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15022/veggie-pizza/",
+  "extracted_at": "2026-10-18T02:03:34.270493+00:00",
+  "recipes": [
+    {
+      "name": "Veggie Pizza",
+      "ingredients_raw": [
+        "2 (8 ounce) packages refrigerated crescent rolls",
+        "1 cup sour cream",
+        "1 (8 ounce) package cream cheese, softened",
+        "1 (1 ounce) package ranch seasoning mix",
+        "1 teaspoon dried dill weed",
+        "0.25 teaspoon garlic salt",
+        "1.5 cups chopped fresh broccoli",
+        "0.5 cup halved and thinly-sliced radishes",
+        "1 small onion, finely chopped",
+        "1 red bell pepper, chopped",
+        "1 carrot, grated",
+        "1 stalk celery, thinly sliced"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Spray a 15x10-inch pan with nonstick cooking spray."
+        },
+        {
+          "id": 2,
+          "text": "Press crescent roll dough into the prepared jelly roll pan to form a crust. Let stand 5 minutes. Pierce with a fork, leaving a small boarder of about 1/2 inch."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until dough is fully cooked and golden brown, about 10 minutes. Let cool completely."
+        },
+        {
+          "id": 4,
+          "text": "Combine sour cream, cream cheese, ranch seasoning mix, dill, and garlic salt in a medium mixing bowl. Spread the cream cheese mixture on top of cooled crust."
+        },
+        {
+          "id": 5,
+          "text": "Arrange broccoli, radish, onion, bell pepper, carrot, and celery on top of the cream cheese mixture."
+        },
+        {
+          "id": 6,
+          "text": "Cover and let chill, 1 to 2 hours. Cut chilled pizza into 16 squares to serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Veggie Pizza",
+        "datePublished": "1999-10-25T13:46:46-04:00",
+        "dateModified": "2026-10-07T16:46:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "MERRI C"
+          }
+        ],
+        "description": "This veggie pizza is made from crescent dough and a creamy garlicky cheese spread loaded with fresh, crunchy veggies for an easy take on a favorite.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/gKD4hlJ26TYEvBTrYzX2SiF95Io=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-hero-3dabf0783ef544eeaa23bdf28b48b178.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/oQeg3y7R-K3AjnAEN.mp4",
+          "description": "In this video, we show you how to make a delicious, fresh veggie pizza. It's not what you think, but you won't be disappointed! First we use bake a refrigerated crescent roll dough, then top it with a homemade ranch-flavored spread and garnish it with finely cut fresh vegetables!",
+          "duration": "PT1M38S",
+          "name": "Veggie Pizza",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/oQeg3y7R/thumbnails/bd4vsmPF.jpg?width=1280",
+          "uploadDate": "2021-07-06T03:38:28-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Veggie Pizza",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "529"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "196 kcal",
+          "carbohydrateContent": "16 g",
+          "cholesterolContent": "36 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "5 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "359 mg",
+          "sugarContent": "1 g",
+          "fatContent": "13 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT25M",
+        "recipeCategory": [
+          "Dinner",
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "2 (8 ounce) packages refrigerated crescent rolls",
+          "1 cup sour cream",
+          "1 (8 ounce) package cream cheese, softened",
+          "1 (1 ounce) package ranch seasoning mix",
+          "1 teaspoon dried dill weed",
+          "0.25 teaspoon garlic salt",
+          "1.5 cups chopped fresh broccoli",
+          "0.5 cup halved and thinly-sliced radishes",
+          "1 small onion, finely chopped",
+          "1 red bell pepper, chopped",
+          "1 carrot, grated",
+          "1 stalk celery, thinly sliced"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Ou5dddDcaaP9PcGKcGU9QWZQew0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-step-01-a32ad6054e974ecd9f79c8627bc9e811.jpg"
+              }
+            ],
+            "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Spray a 15x10-inch pan with nonstick cooking spray."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/l8TuL2-DzFXeQ-B8OpHchqM4kYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-step-02-35b903cb75e9496b81737f722eeb1389.jpg"
+              }
+            ],
+            "text": "Press crescent roll dough into the prepared jelly roll pan to form a crust. Let stand 5 minutes. Pierce with a fork, leaving a small boarder of about 1/2 inch."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/1EhDF5hQbNmEY_xpOgoW0PCiH4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-step-03-66b2d3032dde4a26bde9b830c76274c4.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until dough is fully cooked and golden brown, about 10 minutes. Let cool completely."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/B1QhEoRS3J_Cjj5gjtSeIyOb39c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-step-04-6fce0ce229f4439ea44f2ccd5f2f305f.jpg"
+              }
+            ],
+            "text": "Combine sour cream, cream cheese, ranch seasoning mix, dill, and garlic salt in a medium mixing bowl. Spread the cream cheese mixture on top of cooled crust."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/JwvFbfojX2kFIUv1JNcI5J9wy9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-step-05-433614e3a1274e479c823d6beea3422a.jpg"
+              }
+            ],
+            "text": "Arrange broccoli, radish, onion, bell pepper, carrot, and celery on top of the cream cheese mixture."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gKD4hlJ26TYEvBTrYzX2SiF95Io=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-15022-veggie-pizza-DDMFS-4x3-hero-3dabf0783ef544eeaa23bdf28b48b178.jpg"
+              }
+            ],
+            "text": "Cover and let chill, 1 to 2 hours. Cut chilled pizza into 16 squares to serve."
+          }
+        ],
+        "recipeYield": [
+          "16",
+          "1 pizza"
+        ],
+        "totalTime": "PT100M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "susan19"
+            },
+            "reviewBody": "Love this recipe. To serve easier, I cut the crust BEFORE I put on cream cheese mixture. No mess. I also add finely shredded cheddar cheese and press in slightly."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Delicious. I added my own combo of veggie ingredients: carrots, sweet onion, cucumber, broccoli, cauliflower, and black olives.",
+            "datePublished": "2003-02-24T14:55:39.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amanda Moyle Reynolds"
+            },
+            "reviewBody": "This recipe is great, but if you don't use a processor, you're going to be chopping til Kingdom come!! I also added black olives and shredded cheddar on top. Yummy crowd pleaser--and adds a lot of color to your table!",
+            "datePublished": "2001-11-05T08:54:50.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leah Joy"
+            },
+            "reviewBody": "I chose this recipe over the other 5 star veg pizza recipe because of the dill in the spread. As other users have noted, this makes the pizza! Don't fail to add that.\n\nI love mayo in these types of recipes so I did 8oz. cream cheese, 1/2 cup sour cream, 1/2 cup mayo. After mixing the spread, I chilled it for a bit. I let my dough cook 11 min exactly and it was perfect. I let it cool for 15 min away from the stove. Then I began spreading the cream cheese mix on top. It was a bit hard to spread but there was no sogginess. My veggies included grated carrot, orange bell pepper, green onions, broccoli, and campari tomatoes. I pressed them into the spread. I then chilled the pizza for an hour before serving.\n\nEVERYONE LOVED IT. EVERYONE!\n\nIf you do what I suggest above, this pizza will be good for more than 24 hours without becoming soggy. I just enjoyed leftovers and thought they even tasted better than the first day.",
+            "datePublished": "2008-04-21T19:11:26.740Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ShannonBrennan"
+            },
+            "reviewBody": "I took this pizza to a Super Bowl Party, and everyone loved it. I accidently used Fiesta Ranch Dip, so my pizza had a little bit of a Mexican Twist! Next time I am going to try it with the regular ranch!",
+            "datePublished": "2001-04-05T09:19:52.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SassyPeach8587"
+            },
+            "reviewBody": "I used this recipe for a more keto friendly lunch using individual keto pita bread as crust. I used 4 ounces each of the cc and sc, adding 1 Tbsp of dry Hidden Valley salad dressing mix. For vegetables I used finely chopped broccoli, cauliflower and a small amount of grated onion. I spread about 2 Tbsp of the cc/sc mix on each pita for a total of approximately 7 gms of carbs. If you're limiting your intake to just 40 carbs daily, this probably sounds high but it was a delicious treat to go with my lunch protein.",
+            "datePublished": "2023-05-19T18:41:17.331Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This has always been a hit for my family. My first time making it and I loved the tips so I'm going to pass a couple that worked for me. I used a meat mallet with the pointed side instead of the fork. I also cut it after the sc and cc mixed and before the veggies. Both of these things I did on my second one and not the first and it was so helpful.",
+            "datePublished": "2023-12-03T17:22:49.744Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristen Howe"
+            },
+            "reviewBody": "Every time this is served at my church for social hour, I usually take a slice or two even on the go. I'm so glad I found this recipe here on All Recipes. I've made some adjustments to my pizza: instead of a full pie, I've only did half of the crescent roll. Instead of a full packet, I've used half of the sour cream, skipped celery (don't like it), used orange instead of red peppers, and let it chill for 15 minutes. Delish! I would make it again-though I didn't make it twice. An error over here.",
+            "datePublished": "2019-03-25T23:21:27.603Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tcasa"
+            },
+            "reviewBody": "I have made this over a dozen times and everyone always loves it. I've made this recipe exactly as written along with some changes due to what I had on hand. Now when I make it I always use a pizza crust, bake it for 10-12 minutes allow it to cool then add my toppings. The topping are interchangeable and can be adapted to what is in season. I've even in a last minute pinch omitted the sour cream but in that case I felt the cream cheese layer was a little over powering. Every time I make it I top it with a little grated cheddar cheese (~1/4 c). Love it!! Thank you for the excellent crowd pleasing appetizer.",
+            "datePublished": "2017-04-23T21:30:32.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FoodFan"
+            },
+            "reviewBody": "This was good and a hit at the party but in my opinion it was too salty or had too much ranch. I was going to only add half the ranch packet and wish I would've but since 95% of the reviews didn't seem to have a problem with it I went ahead and added the whole thing. My choice of veggies were tomatoes, green peppers, celery, green onion, carrot and cucumber. I was a little unsure of the dimensions that defines a jelly roll pan so I used my 11x17 and I made this the night before the party and didn't have a problem with it getting soggy. Next time I make this I'll use reduced fat options (crescent rolls, cream cheese and sour cream) as I don't think any flavor would be compromised and only a half packet of dressing.",
+            "datePublished": "2008-11-18T08:23:05.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Excellent recipe! I omitted the onions based on personal preference, and added some fresh dill that I had on hand. I made this for a church potluck and prepped it the night before. I baked the crust, chopped the veggies and mixed up the \"sauce\". I then refrigerated overnight in separate containers so nothing got soggy. Layered it all together in the morning and stuck it in the fridge at church for approximately 3 hours till lunch time. Everyone loved it! I got tons of compliments!",
+            "datePublished": "2015-04-24T06:59:23.317Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SusanS."
+            },
+            "reviewBody": "Left out radishes and onions. Used garden herbs flavored Philadelphia Cream Cheese, because I didn’t have any plain. I added cucumbers and yellow bell pepper. It’s good, but needs something for more flavor. Any suggestions?",
+            "datePublished": "2026-10-02T03:50:18.302Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ashish"
+            },
+            "reviewBody": "This piza very hard and very crunchy . Iam not like that pizza?",
+            "datePublished": "2026-08-24T13:04:58.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lynne"
+            },
+            "reviewBody": "Making it right now 5:10 am can’t wait haven’t had this in a few years been making fruit pizza but love tjis",
+            "datePublished": "2026-06-14T09:11:40.414Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SappyFrog8542"
+            },
+            "reviewBody": "This is a delicious, colorful and healthy appetizer to serve anytime.",
+            "datePublished": "2026-05-25T16:51:54.380Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathleen"
+            },
+            "reviewBody": "it was so 67? as my kids called it it's very delicious and yummy! definitely recommend",
+            "datePublished": "2026-04-30T12:36:01.247Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lorraine"
+            },
+            "reviewBody": "this is delish. my husband and i eat it for a meal. one thing i've always done differently is to add shredded cheddar cheese on top",
+            "datePublished": "2026-03-01T18:26:10.958Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kathy"
+            },
+            "reviewBody": "Such a big hit! I used broccoli, cauliflower, red bell peppers, carrots, sliced black olives and finely shredded cheddar cheese. I made the dough the day before and once it was cooled, wrapped it in plastic wrap and aluminum foil and stored in a cool dark room. (Do not refrigerate). I also made the cream cheese mixture the day before and stuck it in the fridge. I topped the pizza a couple hours before serving and refrigerated it until I was ready to serve.",
+            "datePublished": "2026-02-09T22:37:01.916Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WallyfromAlbion"
+            },
+            "reviewBody": "Really enjoyed this! Used garlic powder instead of garlic salt since I’m on a low sodium diet. Thanks for posting this!!",
+            "datePublished": "2025-11-09T19:32:48.866Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mofun"
+            },
+            "reviewBody": "Good, but use one roll of dough, and maybe 3/4 of the cream mix. And cheese is mandetory!",
+            "datePublished": "2025-11-02T15:44:13.194Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15022/veggie-pizza/",
+          "name": "Veggie Pizza",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+                  "name": "Vegetarian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/265/everyday-cooking/vegetarian/main-dishes/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15167/everyday-cooking/vegetarian/main-dishes/pizza/",
+                  "name": "Pizza"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,194 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/132030/konbu-dashi/",
+  "extracted_at": "2026-10-18T01:52:41.024395+00:00",
+  "recipes": [
+    {
+      "name": "Konbu Dashi",
+      "ingredients_raw": [
+        "1 (4 inch) piece dashi kombu (dried kelp)",
+        "4 cups water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Wipe kombu with a damp cloth to clean it. Cut into 1-inch pieces and place in a saucepan with water. Bring to a boil; reduce the heat to medium-low and simmer for 20 minutes. Remove from the heat and let stand for a few minutes. Strain through a mesh strainer before using."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Konbu Dashi",
+        "datePublished": "2019-04-03T23:42:48-04:00",
+        "dateModified": "2024-05-23T18:19:12-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Rachael S"
+          }
+        ],
+        "description": "This simple konbu (seaweed) version of Japanese dashi provides the foundation for numerous soups and other dishes.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/riuDq4zMAAKmQXfLF04Uao8oMzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4981545-konbu-dashi-Buckwheat-Queen-4x3-1-7716f81ac7004134b3a047e8139d7954.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Konbu Dashi",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "5"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "1 kcal",
+          "carbohydrateContent": "0 g",
+          "sodiumContent": "15 mg",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "Japanese"
+        ],
+        "recipeIngredient": [
+          "1 (4 inch) piece dashi kombu (dried kelp)",
+          "4 cups water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Wipe kombu with a damp cloth to clean it. Cut into 1-inch pieces and place in a saucepan with water. Bring to a boil; reduce the heat to medium-low and simmer for 20 minutes. Remove from the heat and let stand for a few minutes. Strain through a mesh strainer before using."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 cups"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AmyJo"
+            },
+            "reviewBody": "This was exactly what I needed to make my miso soup shine. Perfect! It will cook down a little though when it simmers, so be sure to add extra water."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leth"
+            },
+            "reviewBody": "Perfect base for my miso. I did use a little more seaweed and bonito flakes for a more sea food taste.",
+            "datePublished": "2019-06-26T02:45:40.673Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Buckwheat Queen"
+            },
+            "reviewBody": "Trustworthy recipe. Thank you for sharing it.",
+            "datePublished": "2018-01-11T08:51:53.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cmoore"
+            },
+            "reviewBody": "I use this recipe for dashi every time I make a dish that requires plain water. Seaweed is high in nutrents needed, that are not common in American diets.\nI chop the bulk Kombu into beef stew where it adds a uncommonly good flavor. When using any type of seaweed, I do not add salt to the dish as it cooks.",
+            "datePublished": "2013-03-13T13:57:34.990Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/132030/konbu-dashi/",
+          "name": "Konbu Dashi",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/171/soups-stews-and-chili/broth-and-stocks/",
+                  "name": "Broth and Stock Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

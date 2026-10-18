@@ -1,0 +1,533 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/162760/fluffy-pancakes/",
+  "extracted_at": "2026-10-18T02:20:07.533369+00:00",
+  "recipes": [
+    {
+      "name": "Fluffy Pancakes",
+      "ingredients_raw": [
+        "0.75 cup milk",
+        "2 tablespoons white vinegar",
+        "1 cup all-purpose flour",
+        "2 tablespoons white sugar",
+        "1 teaspoon baking powder",
+        "0.5 teaspoon baking soda",
+        "0.5 teaspoon salt",
+        "1 egg",
+        "2 tablespoons butter, melted",
+        "cooking spray"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine milk and vinegar in a medium bowl and set aside for 5 minutes to make sour milk."
+        },
+        {
+          "id": 3,
+          "text": "Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl."
+        },
+        {
+          "id": 4,
+          "text": "Whisk egg and butter into soured milk."
+        },
+        {
+          "id": 5,
+          "text": "Pour flour mixture into milk mixture and whisk until lumps are gone."
+        },
+        {
+          "id": 6,
+          "text": "Heat a large skillet over medium heat, and coat it with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles form and the edges are dry, about 2 to 3 minutes."
+        },
+        {
+          "id": 7,
+          "text": "Flip with a spatula, and cook until browned on the other side. Repeat with remaining batter."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Fluffy Pancakes",
+        "datePublished": "2008-03-08T11:50:16-05:00",
+        "dateModified": "2025-11-07T13:29:37-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "kris"
+          }
+        ],
+        "description": "This fluffy pancake recipe is easy to make for the best breakfast or brunch. Topped with butter and syrup or berries and cream — they&#39;re impossible to resist!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/sT7g64jzAuIiY1o-9wWWI8AXfxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/162760-fluffy-pancakes-VAT-014-4x3-11e09ab76cf84445a05bd0ffb3949206.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/uTrpYyKY-ma1DlVvV.mp4",
+          "description": "See how to make tall, fluffy pancakes.",
+          "duration": "PT3M13S",
+          "name": "Fluffy Pancakes",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uTrpYyKY/thumbnails/D0JuHh4Y.jpg?width=1280",
+          "uploadDate": "2023-04-14T11:01:53-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Fluffy Pancakes",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "17181"
+        },
+        "cookTime": "PT10M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "230 kcal",
+          "carbohydrateContent": "33 g",
+          "cholesterolContent": "65 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "5 g",
+          "sodiumContent": "650 mg",
+          "sugarContent": "9 g",
+          "fatContent": "8 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Breakfast",
+          "Brunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.75 cup milk",
+          "2 tablespoons white vinegar",
+          "1 cup all-purpose flour",
+          "2 tablespoons white sugar",
+          "1 teaspoon baking powder",
+          "0.5 teaspoon baking soda",
+          "0.5 teaspoon salt",
+          "1 egg",
+          "2 tablespoons butter, melted",
+          "cooking spray"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/yT6DrIPKJsq2RO1ZZeMNdNgXqvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-162760-fluffy-pancakes-DDMFS-ingredients-3x4-daac6a23522b4b6b91d7dc543f4212df.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zeDVx9dIeUUSELRl8-KDFmFafjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-162760-fluffy-pancakes-DDMFS-step-1-3x4-1e021776137a4e349d98a29ced5acfa7.jpg"
+              }
+            ],
+            "text": "Combine milk and vinegar in a medium bowl and set aside for 5 minutes to make sour milk."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/G1io5SvCal1ujwU2ufbNXs6X5qo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-162760-fluffy-pancakes-DDMFS-step-2-3x4-85c976c345fa490ea3fc5ab3f3eec625.jpg"
+              }
+            ],
+            "text": "Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ipYV17PBuEdaNmyuhjQrJC-yNrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-162760-fluffy-pancakes-DDMFS-step-3-3x4-36155dd3f4414e91b91875ac7c48224d.jpg"
+              }
+            ],
+            "text": "Whisk egg and butter into soured milk."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/inGCnT7HaQzqgWaI4El4smleuXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-162760-fluffy-pancakes-DDMFS-step-4-3x4-f39cc53528f04880be5f61010a02de67.jpg"
+              }
+            ],
+            "text": "Pour flour mixture into milk mixture and whisk until lumps are gone."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gvgPp_fqhzt12-WWcDXE9Yy503U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-162760-fluffy-pancakes-DDMFS-step-5-3x4-a34ba6bdbc4b4ac4a151ce9fa85b3515.jpg"
+              }
+            ],
+            "text": "Heat a large skillet over medium heat, and coat it with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles form and the edges are dry, about 2 to 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/sT7g64jzAuIiY1o-9wWWI8AXfxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/162760-fluffy-pancakes-VAT-014-4x3-11e09ab76cf84445a05bd0ffb3949206.jpg"
+              }
+            ],
+            "text": "Flip with a spatula, and cook until browned on the other side. Repeat with remaining batter."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "8 pancakes"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "kris"
+            },
+            "reviewBody": "This recipe has served me well for years. Whenever we have overnight company, everyone insists these are the best pancakes they've ever eaten. For those afraid of sour milk, it is simply a substitute for buttermilk. I use soured milk in every recipe that I have that calls for buttermilk and it works like a charm. It does NOT make things taste sour! Another note: the pancakes will start to \"foam up\" after you stir them. Resist the urge to stir them again. All those bubbles is what makes them so fluffy. The batter will be very thick and difficult to pour at this point. Also, as others have said, this does not serve 8. In my house, it serves 4 of us. Enjoy."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah Jo"
+            },
+            "reviewBody": "I used real buttermilk instead of soured milk and doubled the recipe. I let the batter sit for 10 minutes while my griddle heated up. There were no survivors. We ate every last bit. I served this with Absolute Best Pancake Syrup. EDITED: I use this pancake recipe frequently because it's incredibly easy. Now I make this lactose-free by using lactose-free milk and either melted margerine or vegetable oil in place of the butter. I like to use whole wheat flour off and on but when I do, I always increase the milk by a quarter cup because whole wheat flour tends to soak up the liquids a little more than AP flour. This doubles and triples well as well as freezes/rewarms well. Sometimes, I'll triple the recipe and freeze the leftovers and on busy days, I pop them into the toaster to reheat. Easy peasy lemon squeezy.",
+            "datePublished": "2009-11-28T10:13:40.640Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ADRIENNE27"
+            },
+            "reviewBody": "I have made this recipes about 40 times since finding it about 3 mos ago. My daughter won't eat anyone's pancakes but mine! one tip: This morning I forgot to add the butter, and they were better than ever. Lighter, taller, fluffier! Soaked up the syrup and kept its texture! AWESOME! THANKS SO MUCH!",
+            "datePublished": "2009-10-31T13:07:21.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sillasmiles"
+            },
+            "reviewBody": "i followed this recipe exactly and they were great!! they turned out very well the kids gobbled them up no more box mix for me!! thanks for sharing this recipe:-)UPDATE: made these again and they turned out even better this time the only thing i did different was let the milk \"sour\" a bit longer added a teaspoon of vanilla and sugar just a tip double the recipe as the original does not make too many!!",
+            "datePublished": "2009-07-07T08:33:14.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "COOK471"
+            },
+            "reviewBody": "New family recipe. They were nice and tender and the ingredients were all in the cupboard. I doubled the recipe also. If this is 8 servings, it is one little pancake for 8 people. Double or triple the recipe for your family. They puffed up while cooking but were not heavy at all but nice and light. Do not overmix these and let them sit for a 1/2 hour after mixing before frying. The batter thickens and is nice. UPDATE: This is still our favorite pancake recipe but tried making these the night before, putting them in the refrigerator and making in the morning. Works great and convenient, especially when you have a busy morning schedule. It deserves 5 with doubling the recipe. Just change the serving size to 16 and it is better for 4-6 servings.",
+            "datePublished": "2009-10-05T04:27:54.577Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AquaLime6015"
+            },
+            "reviewBody": "I've used Kris' pancake recipe for years now. I guess it's about time I gave a review for these delicious pancakes. This is the best pancake recipe I've ever used. Hands down the best! I've always used sour milk per the recipe, but have used buttermilk when I have it on hand. Between the two, I think the sour milk is even better than using buttermilk. I do separate the egg and whip the egg white and fold them in for extra lift to the pancakes. It's just a personal preference. I also add vanilla to the pancake batter. I've made these pancakes plain, with chocolate chips, and with blueberries. They are so good any way they are made. My daughter's best friend told her that she gets a craving for my pancakes (Kris' awesome recipe!) late at night sometimes when she gets the munchies. Lol! I usually double, and sometimes triple, the recipe for my crew and use a 1/2 C measuring cup for the batter on my griddle. We like a stack of big pancakes. 😋 5 star family favorite pancakes! Thank you, Kris! 😀",
+            "datePublished": "2024-04-21T02:55:49.962Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JNannyElite"
+            },
+            "reviewBody": "As a Manhattan nanny, this was my go-to recipe. Everyone loved it every time. So easy and quick, and also easy to mix into your own pancake mix and store for when you need an even quicker breakfast. Great for add-ins, too. I had one kid who loved blueberry best, one kid who loved banana best, and the youngest who loved banana-blueberry. I’d start with the banana, putting the sliced bananas onto the pancakes in the pan, and then add blueberries into the batter halfway through. Everyone was happy, and the parents were always hanging around hoping to snag some too.",
+            "datePublished": "2026-07-13T14:09:09.735Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "texasamyb"
+            },
+            "reviewBody": "Best recipe I have found for pancakes from scratch! Used Cream of Tartar (1-1/8t) instead of vinegar (as I didn't have on hand) and added 1t of vanilla extract. Fabulous and fluffy!",
+            "datePublished": "2023-10-28T16:40:27.133Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joe Parsons"
+            },
+            "reviewBody": "This has been my go-to pancake recipe for years. The only changes I've made from time to time is adding blueberries into the uncooked side. I don't know why people will settle for a mix instead of these simple ingredients. The mix costs more--and these pancakes are as close to perfect as I can imagine. After you've made it a few times, you won't even have to consult the recipe.",
+            "datePublished": "2025-04-13T17:49:15.096Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbie"
+            },
+            "reviewBody": "I absolutely love this pancake recipe. It’s simple, but really good. One tip I will give when mixing the batter, whisk it as fast as you can trying to add as much air to the batter when mixing, it will make the pancake, super fluffy as you can see in my picture. Also I double my recipe as one batch will typically make about 7 pancakes this size and probably more if you make mini sizes as long as you’re very sparingly, and don’t waste any bit of batter, I was able to make 14 pancakes with this double batch. ENJOY!!!",
+            "datePublished": "2023-08-17T05:21:28.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "julie"
+            },
+            "reviewBody": "This is our family’s absolute favorite pancake recipe! The only slight change we do is adding 1t vanilla extract. After we have cooked half the pancakes, we usually add a few tablespoons of Nutella to the batter to make chocolate hazelnut pancakes for variety. Amazing!",
+            "datePublished": "2024-05-07T23:23:12.378Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mila"
+            },
+            "reviewBody": "I always use this recipe whenever i make pancakes and they are AMAZING my whole family loves them def recommend",
+            "datePublished": "2026-10-12T13:03:44.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jayden K."
+            },
+            "reviewBody": "I use this recipe every Saturday to make pancakes and they always turn out perfectly. If you want a fun twist, make Silver Dollar Pancakes by pouring about 2 tablespoons of batter on the griddle for each pancake and dip your pancakes in syrup, or jam.",
+            "datePublished": "2026-09-08T16:38:35.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nathan Terepocki"
+            },
+            "reviewBody": "Best pancakes ive personally ever made. Best recipe ever found.",
+            "datePublished": "2026-09-01T02:52:57.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NimbleJam6385"
+            },
+            "reviewBody": "Easy to make. Pancakes come out great.",
+            "datePublished": "2026-08-27T12:20:33.352Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "waynebebay"
+            },
+            "reviewBody": "Phenomenal -- Best pancakes ever. Be back later, gotta go make these for dinner now. My wife and kids are begging me.",
+            "datePublished": "2026-08-11T20:50:49.868Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julia Zawacki"
+            },
+            "reviewBody": "We have used this recipe for years. It's wonderful.",
+            "datePublished": "2026-08-09T15:19:07.381Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "GoliathTL"
+            },
+            "reviewBody": "I found this recipe years ago and it's been the go-to for my family ever since. When my son moved out, he wanted the recipe. Now that my daughter is moving out, I'm giving it to her. The only thing I add is a teaspoon (or so) of vanilla. Honestly, these pancakes taste (and feel!) so good you won't want to chew but rather just savor them in your mouth. Enjoy!",
+            "datePublished": "2026-08-03T03:02:55.030Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "clearisfullheart"
+            },
+            "reviewBody": "The perfect pancake recipe. I double the batch and use a 1/3 cup measure and get 16 pancakes.",
+            "datePublished": "2026-08-02T22:55:58.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "No changes at all. I could taste the butter and they were so fluffy! Definitely a keeper.",
+            "datePublished": "2026-08-02T13:16:43.865Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/162760/fluffy-pancakes/",
+          "name": "Fluffy Pancakes",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/151/breakfast-and-brunch/pancakes/",
+                  "name": "Pancake Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

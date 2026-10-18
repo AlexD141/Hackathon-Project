@@ -1,0 +1,497 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16305/sweet-and-sour-meatballs-ii/",
+  "extracted_at": "2026-10-18T02:20:18.182286+00:00",
+  "recipes": [
+    {
+      "name": "Sweet and Sour Meatballs",
+      "ingredients_raw": [
+        "1 pound ground beef",
+        "1 cup dry bread crumbs",
+        "1 onion, chopped",
+        "1 egg",
+        "salt and pepper to taste",
+        "1 cup brown sugar",
+        "1 cup water",
+        "0.5 cup ketchup",
+        "0.5 cup cider vinegar",
+        "2 tablespoons soy sauce",
+        "2 tablespoons cornstarch"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Mix ground beef, bread crumbs, onion, egg, salt, and pepper together in a large bowl until well combined."
+        },
+        {
+          "id": 2,
+          "text": "Shape mixture into 1 ½-inch diameter meatballs."
+        },
+        {
+          "id": 3,
+          "text": "Cook in a large nonstick skillet over medium heat until evenly browned and cooked through."
+        },
+        {
+          "id": 4,
+          "text": "Mix brown sugar, water, ketchup, vinegar, soy sauce, and cornstarch together in a medium bowl until smooth."
+        },
+        {
+          "id": 5,
+          "text": "Pour sauce over meatballs. Reduce heat to low and simmer until sauce thickens, 3 to 5 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Sweet and Sour Meatballs",
+        "datePublished": "1999-11-23T12:29:28-05:00",
+        "dateModified": "2026-10-14T04:07:46-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Cathy"
+          }
+        ],
+        "description": "Sweet and sour meatballs made with ground beef are simmered in a deliciously thick sweet-sour sauce. Serve over rice for a quick and easy dinner!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/vfmgEHtIYQwJJmFb2CXveC8Igds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16305-sweet-and-sour-meatballs-ddmfs-step-3-254-31eee792b2d34c84b0f2cc58d5aaed89.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/DGJ51IHn-K3AjnAEN.mp4",
+          "description": "Easy for a weeknight dinner and delicious enough to please a crowd, these creative takes on classic meatball dishes are absolute game changers! In this video, Nicole shows you three ways to prepare meatballs with these recipes for chicken piccata meatballs, sweet and sour meatballs, and Rao’s famous meatballs.",
+          "duration": "PT15M37S",
+          "name": "How to Make Meatballs, 3 Ways",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DGJ51IHn/thumbnails/pc2O8vkL.jpg?width=1280",
+          "uploadDate": "2024-11-18T12:28:02-05:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sweet and Sour Meatballs",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "501"
+        },
+        "cookTime": "PT15M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "601 kcal",
+          "carbohydrateContent": "71 g",
+          "cholesterolContent": "114 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "20 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "878 mg",
+          "sugarContent": "51 g",
+          "fatContent": "26 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound ground beef",
+          "1 cup dry bread crumbs",
+          "1 onion, chopped",
+          "1 egg",
+          "salt and pepper to taste",
+          "1 cup brown sugar",
+          "1 cup water",
+          "0.5 cup ketchup",
+          "0.5 cup cider vinegar",
+          "2 tablespoons soy sauce",
+          "2 tablespoons cornstarch"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/8spu2weGZiDX_Ds35iUlPuEX76E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16305-sweet-and-sour-meatballs-ddmfs-step-1-246-eb90d31785404f749ce8d31d92b9a0fd.jpg"
+              }
+            ],
+            "text": "Mix ground beef, bread crumbs, onion, egg, salt, and pepper together in a large bowl until well combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/gI7QNwTfEnfS7Whv8zpIA8mE7yE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16305-sweet-and-sour-meatballs-ddmfs-step-2-247-9b9360260e134e8193ca91e397c03f34.jpg"
+              }
+            ],
+            "text": "Shape mixture into 1 ½-inch diameter meatballs."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/4c1Pm3bunsKyFkkP7pXEN8aF4Qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16305-sweet-and-sour-meatballs-ddmfs-step-3-251-e5fbf39f17164d609c357cd794fe0f97.jpg"
+              }
+            ],
+            "text": "Cook in a large nonstick skillet over medium heat until evenly browned and cooked through."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix brown sugar, water, ketchup, vinegar, soy sauce, and cornstarch together in a medium bowl until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/vfmgEHtIYQwJJmFb2CXveC8Igds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16305-sweet-and-sour-meatballs-ddmfs-step-3-254-31eee792b2d34c84b0f2cc58d5aaed89.jpg"
+              }
+            ],
+            "text": "Pour sauce over meatballs. Reduce heat to low and simmer until sauce thickens, 3 to 5 minutes."
+          }
+        ],
+        "recipeYield": "5",
+        "totalTime": "PT20M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sylvie Laurencelle-Vermette"
+            },
+            "reviewBody": "If you are making these, here's a tip. Do not use apple cider vinegar - it's not the same thing as cider vinegar! It'll completely ruin your sauce. I found that out the hard way, had to throw out the sauce plus my house stunk for days. I tried it again with regular vinegar and it was great - I'm sure cider vinegar would be even better."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Farmhouse Kitchen"
+            },
+            "reviewBody": "Made it with high quality grass fed beef. Quickly browned the meatballs in pan and transferred to crockpot. Boiled the sauce in a sauce pan without the cornstarch, poured over meatballs in crockpot and slow cooked for two hours. Thicken with cornstarch mixed with water half hour before serving. Served over oven baked rice and coleslaw as a side! People rant and rave over how delicious this dish was!",
+            "datePublished": "2025-11-13T22:26:47.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian Piper"
+            },
+            "reviewBody": "The sauce is delicious. I used my own meatball recipe, but followed the sauce ingredients and it was exactly what I was craving. I used apple cider vinegar (someone said not to?) and it turned out perfectly.",
+            "datePublished": "2024-11-04T19:31:21.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Phyllis Atwood"
+            },
+            "reviewBody": "I was making this to take to a friend who is a shut in but liked it so much I am keeping half for my own family, to serve over mashed potatoes, because that is what they prefer over rice. I added a little sweet red pepper to the onions just because I had one I had already cut into. I found that the mix was a little wet, so rolled the tablespoon sized balls in more fresh bread crumbs, which probably is why I have enough for two families. I used ground chicken, not beef. They are light and fluffy but hold together because of the frying before immersion in the sweet and sour solution. I am serving it with green beans from the garden and carrots. 1 lb made 37 decent sized meatballs. I doubled the amount of sauce since I am sharing it.",
+            "datePublished": "2026-06-04T21:42:51.653Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sami"
+            },
+            "reviewBody": "This was amazing! Others who say that the apple cider vinegar isn't good need their taste buds checked! It was nice and tangy and easy to replicate in a instapot! (I used high pressure, 8 mins, cornstarch slurry to thicken until it coats the back of a spoon). With rice, it’s phenomenal! Worth the effort!",
+            "datePublished": "2026-06-01T01:16:16.108Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "collegecook91"
+            },
+            "reviewBody": "Made this tonight and it was a hit! Loved the sauce, perfect balance! Used Apple cider vinegar and it was great (one reviewer said it wasn't the same as cider vinegar). I used my own meatball recipe and baked them in the oven to make it easier. Will definitely make again!",
+            "datePublished": "2015-01-30T18:55:29.810Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christi Jansen"
+            },
+            "reviewBody": "Good but next time will add pineapple and peppers for extra flavor.",
+            "datePublished": "2026-06-12T14:14:26.016Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "athenaannette"
+            },
+            "reviewBody": "Good basic sauce recipe. Add orange zest! It really makes a difference. I halved the sauce and it was plenty saucy for 6 servings with extra sauce to pour over rice. I used a quarter of the brown sugar (so if you make the full recipe, use half). If you use as much sugar as the recipe calls for, it'll taste like candy. I used apple cider vinegar and I quartered that as well (again, if you're making the full recipe, use half). You can always taste the sauce and add more sugar or vinegar but if it's too sweet or vinegary, you can't go back and the whole thing will be ruined. I made my own meatballs (just mixed half a pound of Italian sausage and half a pound of ground turkey) and lightly sauteed an onion, a red bell pepper and a yellow bell pepper. Overall, a good dish.",
+            "datePublished": "2015-05-02T21:59:44.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "twister_stm"
+            },
+            "reviewBody": "Followed the recipe to a T turned out delicious. We'll be making again. Used apple cider vinegar turned out perfect.",
+            "datePublished": "2026-05-21T01:16:39.798Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FluffyMilk4035"
+            },
+            "reviewBody": "My rating is for the sauce because I cheat! I do use frozen meatballs. Also added chunks of pineapple (used the juice instead of water) and added green and red bell pepper and a purple onion sautéed in butter. The sauce is excellent with the cider vinegar. Served over rice my kids LOVE this!",
+            "datePublished": "2026-01-05T21:20:43.808Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristin"
+            },
+            "reviewBody": "This was better than I expected. I did try it with apple cider vinegar and it was totally fine (some of the other comments mentioned it ruined the sauce) but I think bringing the vinegar to a boil helps a lot. I also added in sliced pineapples. My family enjoyed this!",
+            "datePublished": "2025-10-01T16:56:13.894Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VividLeek3165"
+            },
+            "reviewBody": "I don't think I'll ever use apple cider vinegar in a sauce again. I used it one time in a different recipe and it was very noticeable to the point where my son didn't have seconds. I remembered that so when I made this recipe, I used half of what it called for... it was still too strong. I had to add a bunch of white sugar (I used up all the brown sugar already in the recipe). Overall, it's an easy recipe and tasty... I would just use regular vinegar in the future. It was almost ruined by the apple cider vinegar. I used a different meatball recipe so can't attest to this one but may try it in future. I would probably put some garlic in it... a little bit of flavor though I realize different soces are used depending if it's with pasta sauce or sweet and sour sauce.",
+            "datePublished": "2026-08-18T01:30:40.872Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris"
+            },
+            "reviewBody": "I loved this although if you don't like the apple cider vinegar flavor you can cook it down longer than the recipe states and the flavors will combine beatifully",
+            "datePublished": "2026-08-15T13:29:54.192Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "elainekemp1224"
+            },
+            "reviewBody": "Delicious and easy!! I made these as cocktail size meatballs for a gathering. Everyone loved them!! Will definitely make these more often. Sauce was delicious!!",
+            "datePublished": "2026-08-15T13:00:07.243Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deanna"
+            },
+            "reviewBody": "I gave it a two-star rating because it affect the meatball recipe didn't stay together it just totally disintegrated in the pan. Not only that the sweet and sour sauce needed all kinds of total adjustment this recipe is terrible",
+            "datePublished": "2026-08-09T14:44:48.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "moe"
+            },
+            "reviewBody": "not very tasty",
+            "datePublished": "2026-08-08T16:00:49.139Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John"
+            },
+            "reviewBody": "No just as is.",
+            "datePublished": "2026-08-07T23:39:27.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicki"
+            },
+            "reviewBody": "I was in a hurry to get dinner ready and only read the first review, which suggested white vinegar tasted better, so that is what I did. Otherwise followed it in every other way and it was delicious. Even my fussy hubs liked it! I will definitely make this again.",
+            "datePublished": "2026-07-03T01:10:47.446Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "abbyz2000"
+            },
+            "reviewBody": "I used frozen meatballs and just made the sauce. So good! I wasn't sure I'd like it because I don't like traditional Chinese sweet and sour sauce but this is very different. I recommend doubling the sauce if you are serving over rice.",
+            "datePublished": "2026-06-15T16:11:17.453Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Reeny Wilkins"
+            },
+            "reviewBody": "I will try this again. I made it with white vinegar cause that's what I had on hand. And I must say, not bad. I will make again.",
+            "datePublished": "2026-06-06T03:49:54.421Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16305/sweet-and-sour-meatballs-ii/",
+          "name": "Sweet and Sour Meatballs",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/15455/main-dish/meatballs/",
+                  "name": "Meatball Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,234 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/148048/dutch-boterkoek/",
+  "extracted_at": "2026-10-18T02:02:07.732953+00:00",
+  "recipes": [
+    {
+      "name": "Dutch Boterkoek",
+      "ingredients_raw": [
+        "2.5 cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1.25 cups butter",
+        "0.75 cup white sugar",
+        "1 tablespoon lemon zest",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon milk"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat an oven to 400 degrees F (200 degrees C). Lightly grease an 8-inch tart tin, or a 9-inch pie pan. Whisk together the flour and baking powder; set aside."
+        },
+        {
+          "id": 2,
+          "text": "Beat the butter, sugar, lemon zest, and vanilla extract with an electric mixer in a large bowl until smooth. Mix in the flour mixture until the dough forms ball. Press the dough into the prepared tin, and brush with the milk."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until golden brown and still somewhat soft at the center, about 35 minutes. Cool in the pan for 10 minutes, then remove, and cut into 16 wedges. Cool completely on a wire rack."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Dutch Boterkoek",
+        "datePublished": "2020-06-18T23:32:15-04:00",
+        "dateModified": "2020-06-18T23:32:15-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "hanneke hartkoorn"
+          }
+        ],
+        "description": "This is a Dutch buttery bar cookie, baked in a round tin, and cut into wedges after baking. Instead of vanilla or lemon zest, you can flavor these with 4 ounces of ground almonds.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/eQRvHEcMQkFLtT2NccVaGdxbCX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/172709-77ef56502e104b11891db0ea392b9d59.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Dutch Boterkoek",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "7"
+        },
+        "cookTime": "PT35M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "236 kcal",
+          "carbohydrateContent": "25 g",
+          "cholesterolContent": "38 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "9 g",
+          "sodiumContent": "134 mg",
+          "sugarContent": "10 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Dutch"
+        ],
+        "recipeIngredient": [
+          "2.5 cups all-purpose flour",
+          "1 teaspoon baking powder",
+          "1.25 cups butter",
+          "0.75 cup white sugar",
+          "1 tablespoon lemon zest",
+          "1 teaspoon vanilla extract",
+          "1 tablespoon milk"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an oven to 400 degrees F (200 degrees C). Lightly grease an 8-inch tart tin, or a 9-inch pie pan. Whisk together the flour and baking powder; set aside."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat the butter, sugar, lemon zest, and vanilla extract with an electric mixer in a large bowl until smooth. Mix in the flour mixture until the dough forms ball. Press the dough into the prepared tin, and brush with the milk."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until golden brown and still somewhat soft at the center, about 35 minutes. Cool in the pan for 10 minutes, then remove, and cut into 16 wedges. Cool completely on a wire rack."
+          }
+        ],
+        "recipeYield": [
+          "16",
+          "16 cookies"
+        ],
+        "totalTime": "PT110M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hanneke hartkoorn"
+            },
+            "reviewBody": "This recipe is almost failproof. You'll get a nice moist buttery boterkoek that is absolutely not sandy!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan G"
+            },
+            "reviewBody": "Just what I was looking for, not too sweet, not too complicated, but so delicious! I added cinnamon to the dough and topped it with a circle of whole almonds on top. Perfect! Thank you!",
+            "datePublished": "2021-12-14T23:24:37.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Steven McIntosh-Prather"
+            },
+            "reviewBody": "The house likes it eat ice cream or drink milkshake with it.",
+            "datePublished": "2019-11-07T18:38:37.670Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mamamanley3"
+            },
+            "reviewBody": "I like the subtle lemon flavor.",
+            "datePublished": "2019-07-24T20:19:13.093Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/148048/dutch-boterkoek/",
+          "name": "Dutch Boterkoek",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/720/world-cuisine/european/dutch/",
+                  "name": "Dutch"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,393 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/141136/kaiserschmarrn/",
+  "extracted_at": "2026-10-18T01:57:09.424193+00:00",
+  "recipes": [
+    {
+      "name": "Kaiserschmarrn",
+      "ingredients_raw": [
+        "0.25 cup raisins",
+        "0.25 cup rum",
+        "5 eggs",
+        "1 cup whole milk",
+        "0.25 cup white sugar",
+        "0.5 teaspoon vanilla extract",
+        "salt",
+        "1 cup all-purpose flour",
+        "2 tablespoons butter",
+        "1 tablespoon butter, melted",
+        "0.25 cup confectioners' sugar, plus more for dusting",
+        "plum preserves for serving"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine raisins and rum in a small bowl; let soak for 30 minutes, then drain."
+        },
+        {
+          "id": 2,
+          "text": "Beat eggs, milk, white sugar, vanilla, and salt together in a medium bowl; gradually whisk in flour to make a smooth batter. Stir in drained raisins."
+        },
+        {
+          "id": 3,
+          "text": "Melt 2 tablespoons butter in a large skillet over medium heat; pour batter into the skillet and cook 5 to 6 minutes, or until the pancake has set and the bottom is golden brown. Flip pancake and cook until this side is also golden brown, about 3 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Tear pancake into bite-sized pieces using a spatula or two forks; drizzle in melted butter and sprinkle with confectioners&#39; sugar. Increase heat to medium-high and gently toss the pancake pieces until sugar has caramelized, about 5 minutes. Sprinkle with additional confectioners&#39; sugar and serve with apple sauce or plum preserves."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Kaiserschmarrn",
+        "datePublished": "2020-06-18T23:29:55-04:00",
+        "dateModified": "2025-01-22T17:10:47-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "breakfastqueen"
+          }
+        ],
+        "description": "Kaiserschmarrn is a sweet pancake with rum-soaked raisins cut into pieces and sprinkled with powdered sugar for a delicious traditional Austrian dessert.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/t82GuHUwEkYmeoQDTEvdkhTOiEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/529452-ece3b8caa1c24aa5b841445858ad6edf.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Kaiserschmarrn",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "21"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "507 kcal",
+          "carbohydrateContent": "70 g",
+          "cholesterolContent": "260 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "14 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "176 mg",
+          "sugarContent": "43 g",
+          "fatContent": "16 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT45M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "Austrian",
+          "German"
+        ],
+        "recipeIngredient": [
+          "0.25 cup raisins",
+          "0.25 cup rum",
+          "5 eggs",
+          "1 cup whole milk",
+          "0.25 cup white sugar",
+          "0.5 teaspoon vanilla extract",
+          "salt",
+          "1 cup all-purpose flour",
+          "2 tablespoons butter",
+          "1 tablespoon butter, melted",
+          "0.25 cup confectioners' sugar, plus more for dusting",
+          "plum preserves for serving"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine raisins and rum in a small bowl; let soak for 30 minutes, then drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat eggs, milk, white sugar, vanilla, and salt together in a medium bowl; gradually whisk in flour to make a smooth batter. Stir in drained raisins."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Melt 2 tablespoons butter in a large skillet over medium heat; pour batter into the skillet and cook 5 to 6 minutes, or until the pancake has set and the bottom is golden brown. Flip pancake and cook until this side is also golden brown, about 3 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Tear pancake into bite-sized pieces using a spatula or two forks; drizzle in melted butter and sprinkle with confectioners&#39; sugar. Increase heat to medium-high and gently toss the pancake pieces until sugar has caramelized, about 5 minutes. Sprinkle with additional confectioners&#39; sugar and serve with apple sauce or plum preserves."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT60M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JUSHEAR"
+            },
+            "reviewBody": "We actually got a similar recipe to this with the same name from German friends who claim it is a German tradition. Their recipe is a little different and they separate the egg yolk and white, and mix the yolk in with the sugar, then milk, then flour and beat the egg whites until they are stiff and fold them in to the batter along with the raisins. This makes the pancakes very light and fluffy.\nThey serve the \"German Pancakes\" with icing sugar and lemon juice. Delicious!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bernard von Schulmann"
+            },
+            "reviewBody": "I tried this recipe for Kaiserscharrn and it was not that good. I used it because it was quicker to mix up but without beating the egg whites it is missing the right texture for Kaiserscharrn. The finished product should like random sized nuggets of pancake and not ribbons like this one makes",
+            "datePublished": "2014-09-09T09:09:38.260Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JK Brill"
+            },
+            "reviewBody": "It is a very good recipe, easy to make, not too sweet, and I would have probably loved it on a cold winter night. But in the heat of summer it is very good, but not homemade ice cream. I paired with lingonberries I found online for a good price.",
+            "datePublished": "2017-06-14T02:05:49.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BALLOONLOONEY"
+            },
+            "reviewBody": "I haven't had Kaiserscharrn in over a decade! We would always have it for dinner on Friday nights during lent with canned peaches on the side. Thanks so much for posting the recipe. This recipe was super easy and exactly how I remembered it! Took me right back to my childhood. I used my mom's old cast iron pan for a super golden crust. Sehr Gut!!!",
+            "datePublished": "2011-04-15T19:55:01.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stewart Liebenstrudl"
+            },
+            "reviewBody": "Hi there. Austriaphiles.Just got back from Carinthia, and felt moved to give this recipe a try.\nDespite being a newbie at this cooking game, I even made my own peach (actually 'paraguyos') compote.\nThe preparation is time consuming, so organise yourself well in advance.\nFlipping the pancake is not as easy as you think. Had to cut it into quarters and then flip them individually.\nMight also have put the gas on a bit high, so next time a minute less on 'side one'.\nFor a first attempt, it tasted good, but looked a bit too 'bronzed' in places. If the restaurant in Klagenfut had dished up the same thing, I would have sent it back.....However.... overall pleased with myself. Regards from sunny Spain.",
+            "datePublished": "2013-06-17T04:50:16.213Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "katyberry"
+            },
+            "reviewBody": "Yummy! My husband and I ate this in Munich this summer, and I've been wanting to recreate it ever since. I'm not a fan of raisins and didn't have any on hand, so I left them out (just put in a teaspoon of rum), and it was still delicious!",
+            "datePublished": "2010-01-17T05:29:41.040Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CopperSpoon4630"
+            },
+            "reviewBody": "If you cook it with the lid on, then it puffs up almost as if you had beat the egg whites separately and folded them in. This helps keep it light and fluffy. Flip once the pancake starts to set on the top.",
+            "datePublished": "2022-07-04T14:59:27.368Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Makuma"
+            },
+            "reviewBody": "Even a true Bavarian admitted that was an excellent Kaiserschmarrn! Thank you!",
+            "datePublished": "2012-11-11T08:49:41.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan"
+            },
+            "reviewBody": "This is really good and so easy! The best new recipe I've come across lately.",
+            "datePublished": "2012-07-15T14:26:41.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allen Seidman"
+            },
+            "reviewBody": "I tried this in Munich for the first time a few years back while I was there on business. This recipe is superb ! I prefer it with nothing but powdered sugar, but I am not a big berry guy.\n\nAnyway, try it,,, its delicious and quite easy to make.\n it,,, its deliciuos and quite easy to make.",
+            "datePublished": "2012-05-27T17:33:47.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Aelfwynn"
+            },
+            "reviewBody": "My fiance and I love German/Austrian stuff so found and tried this. I actually made it for breakfast, not dessert. No rum on hand, but had it with fresh berries, syrup, and nutella. Schmeckt mir gut! Thank you for posting!",
+            "datePublished": "2012-03-05T10:21:59.390Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OL"
+            },
+            "reviewBody": "amazing, very tasty",
+            "datePublished": "2012-01-31T17:44:58.207Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "tequila1930"
+            },
+            "reviewBody": "Tried on the weekend - not bad at all! The recipe is easy to follow - thanks for that!",
+            "datePublished": "2010-12-06T13:13:21.703Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mrs O"
+            },
+            "reviewBody": "i love kaiserschmarrn, it's one of my fav's for breakfast. although i boil my raisins for a couple of seconds in the rum and then strain. this recipe is the way i make mine as well. i do put powdered sugar over mine and eat it with apple sauce. \nps i am german and yes, we like to think this is one of OUR dishes but it's not, it really does come from austria :-)",
+            "datePublished": "2007-09-17T21:05:08.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "REBELADPI"
+            },
+            "reviewBody": "My mom makes this on occassion and we just eat it up! She is from Austria and her recipe is very similar, but we eat it with applesauce. It's sooo good! It just melts in your mouth.",
+            "datePublished": "2007-05-17T22:19:57.610Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/141136/kaiserschmarrn/",
+          "name": "Kaiserschmarrn",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/718/world-cuisine/european/austrian/",
+                  "name": "Austrian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

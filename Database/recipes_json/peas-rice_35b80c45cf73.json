@@ -1,0 +1,363 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/16516/peas-rice/",
+  "extracted_at": "2026-10-18T02:21:25.755278+00:00",
+  "recipes": [
+    {
+      "name": "Peas Rice",
+      "ingredients_raw": [
+        "1 cup basmati rice",
+        "1 tablespoon butter or margarine",
+        "2 whole cloves",
+        "1 (2 inch) piece cinnamon stick",
+        "1 serrano pepper, chopped",
+        "1 teaspoon minced fresh ginger root",
+        "0.25 cup green peas",
+        "salt to taste",
+        "0.25 teaspoon white sugar",
+        "2 cups water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Wash and drain the rice."
+        },
+        {
+          "id": 2,
+          "text": "Heat a saucepan over a medium heat. Add butter or margarine and let melt. Stir in cloves, cinnamon, Serrano chile, and ginger. Saute briefly. Mix in rice and stir to coat it evenly. Stir in peas, salt, and sugar. Pour in water and bring the water to a boil."
+        },
+        {
+          "id": 3,
+          "text": "Reduce heat to simmer and let rice cook covered for 15 to 20 minutes; or until rice is tender."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Peas Rice",
+        "datePublished": "2000-03-18T21:00:51-05:00",
+        "dateModified": "2024-11-19T00:48:18-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sowmya"
+          }
+        ],
+        "description": "This is a very simple to make. Seasoned rice and peas make an excellent main meal. I am sure it will become a favorite once you try it.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ZY7zWgpSZDeF5KIcfanOOwkTix4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/657817-b30a9cffb89349ccbd3ef75d8964d1b5.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Peas Rice",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "21"
+        },
+        "cookTime": "PT20M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "407 kcal",
+          "carbohydrateContent": "79 g",
+          "cholesterolContent": "15 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "45 mg",
+          "sugarContent": "1 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 cup basmati rice",
+          "1 tablespoon butter or margarine",
+          "2 whole cloves",
+          "1 (2 inch) piece cinnamon stick",
+          "1 serrano pepper, chopped",
+          "1 teaspoon minced fresh ginger root",
+          "0.25 cup green peas",
+          "salt to taste",
+          "0.25 teaspoon white sugar",
+          "2 cups water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Wash and drain the rice."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat a saucepan over a medium heat. Add butter or margarine and let melt. Stir in cloves, cinnamon, Serrano chile, and ginger. Saute briefly. Mix in rice and stir to coat it evenly. Stir in peas, salt, and sugar. Pour in water and bring the water to a boil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Reduce heat to simmer and let rice cook covered for 15 to 20 minutes; or until rice is tender."
+          }
+        ],
+        "recipeYield": [
+          "2",
+          "2 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "The whole family LOVED this unique\r\nflavor with a mild kick! My son hates\r\npeas but ate all of them when they were\r\nsurrounded with this yummy rice!\r\nAs a non cook it was SUPER EASY!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "courtney"
+            },
+            "reviewBody": "This recipe was a good start! Rice is so boring! I listened to the other reviewers about needing more flavor. I sauteed 1/2 cup onion in the butter, used vegetable stock instead of water, and added a little curry powder and salt. It was great!",
+            "datePublished": "2023-01-15T22:39:25.966Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ladybuggs5224"
+            },
+            "reviewBody": "This rice does have a very mild flavor but thats exactly what I was looking for. I did cheat a bit I used a packet of premade Basmati rice. I sauteed everything in the butter till it was tender then added the rice with about a 1/4c of water and let it steam. I used frozen peas as others have and they worked just fine. This is one I will keep and make when I need a nice mild rice .",
+            "datePublished": "2013-04-16T14:04:47.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "reidnez"
+            },
+            "reviewBody": "Quite tasty. I think it would have done well with some garlic, I'll try that next time. I would use a lot more than 2 cloves if you want to taste them--maybe 5 or 6 per cup of rice.\n\nIt was pretty spicy, not too much for my liking but it may not complement your other dishes. You might want to start with 1/2 of a serrano. It's tough to judge this because peppers vary quite a bit from crop to crop.",
+            "datePublished": "2012-07-31T16:33:00.183Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "Didn't have a serrano, but had a jalapeno in the fridge, so I used that. The spices all complement each other very well but don't dominate the flavor. Nice side dish.",
+            "datePublished": "2011-06-19T08:54:25.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Fillmore"
+            },
+            "reviewBody": "I had chille peppers, so I used that instead. I thought the flavor was good. Next time I'll add raisins too. It has a good flavor.",
+            "datePublished": "2019-01-07T18:32:55.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nicole Reeves Baulch"
+            },
+            "reviewBody": "Good - I used ground cinnamon - not a good idea; stick to the stick . Cloves are nice.",
+            "datePublished": "2016-03-19T17:28:12.310Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "artee15"
+            },
+            "reviewBody": "I would make this as a meal in itself because of the cinnamon. I would also guess that kids would like the sweetness.",
+            "datePublished": "2015-03-30T20:34:40.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "Peas Rice Haiku: \"Delicate flavor. Didn't expect so subtle, with all those spices.\" I thought this was a lovely and light side dish that would complement just about any entree (we had it w/ meatloaf, green beans, and sweet potatoes.) I was very surprised at how subtle the flavor was despite the aroma being so enticingly strong. My daughter didn't like it one bit, but both my husband and I did, although when I make it again, I would increase the peas as they were little green dots of color and didn't really provide much greeny goodness.",
+            "datePublished": "2015-02-20T10:52:13.347Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MeAspiringCook"
+            },
+            "reviewBody": "Wakes up the taste buds, as this combination of spices is one I rarely use. Even my 4-year-old liked it! Great side or every-day dish.",
+            "datePublished": "2013-01-02T06:39:15.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Better Bean"
+            },
+            "reviewBody": "Very good! I doubled the recipe for a family dinner, but the recipe as is makes plenty for a family of 4-6, if served as a side dish.",
+            "datePublished": "2012-09-06T12:06:30.910Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "raudakind"
+            },
+            "reviewBody": "Needs more flavor.",
+            "datePublished": "2011-12-14T01:48:40.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mommyluvs2cook"
+            },
+            "reviewBody": "This needed a lot of doctoring to taste good. The flavor were so mild and I was surprised because the ingredients listed have such strong flavors! 3 stars from me on this one",
+            "datePublished": "2011-08-14T17:10:16.573Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Quds"
+            },
+            "reviewBody": "I loved it. the smell was so good while cooking.",
+            "datePublished": "2011-06-24T04:21:49.197Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/16516/peas-rice/",
+          "name": "Peas Rice",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+                  "name": "Vegetarian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

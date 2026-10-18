@@ -1,0 +1,424 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14012/zucchini-corn-and-tomato-pie/",
+  "extracted_at": "2026-10-18T01:56:25.181752+00:00",
+  "recipes": [
+    {
+      "name": "Zucchini, Corn, and Tomato Pie",
+      "ingredients_raw": [
+        "1.5 cups grated zucchini",
+        "0.75 cup buttermilk baking mix",
+        "1 tomato, chopped",
+        "0.5 cup fresh corn kernels",
+        "0.5 cup diced onion",
+        "0.75 cup shredded Cheddar cheese",
+        "2 eggs, beaten"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly butter one 9 inch pie plate."
+        },
+        {
+          "id": 2,
+          "text": "In a medium bowl mix zucchini, buttermilk baking mix, tomato, corn, onion, cheese and eggs together."
+        },
+        {
+          "id": 3,
+          "text": "Bake at 350 degrees F (175 degrees C) for 45 minutes. Do not cover the dish while it is cooking. Serve warm."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Zucchini, Corn, and Tomato Pie",
+        "datePublished": "1999-07-20T09:48:56-04:00",
+        "dateModified": "2022-07-25T17:08:48-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kim Graber"
+          }
+        ],
+        "description": "We like this one because it looks so pretty with dabs of green zucchini, yellow corn and red tomato. These veggies are folded into a buttermilk batter and baked with cheese and egg. Great zucchini treat, anytime.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/gLmAFEzifFjsgjP04CznhYKT_oE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Zucchini-Corn-and-Tomato-Pie-Tammy-Lynn-4x3-1-2000-8fdda72ab6204545a097bfae82783af4.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Zucchini, Corn, and Tomato Pie",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "36"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "156 kcal",
+          "carbohydrateContent": "17 g",
+          "cholesterolContent": "77 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "8 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "406 mg",
+          "sugarContent": "3 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1.5 cups grated zucchini",
+          "0.75 cup buttermilk baking mix",
+          "1 tomato, chopped",
+          "0.5 cup fresh corn kernels",
+          "0.5 cup diced onion",
+          "0.75 cup shredded Cheddar cheese",
+          "2 eggs, beaten"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly butter one 9 inch pie plate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a medium bowl mix zucchini, buttermilk baking mix, tomato, corn, onion, cheese and eggs together."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake at 350 degrees F (175 degrees C) for 45 minutes. Do not cover the dish while it is cooking. Serve warm."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "6 servings"
+        ],
+        "totalTime": "PT0M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Community"
+            },
+            "reviewBody": "I made this just as written except that I left out the corn and added a half cup of the other vegetables in the corn's place. It tastes great and I will make it again."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TammyLynnW"
+            },
+            "reviewBody": "After some changes - this came out amazing! The original recipe may be fine, but I was looking to add a little bang to it. I doubled the recipe and baked in a rectangle casserole dish. I let it bake at 400 degrees for 1 hour. I also added salt, pepper, fresh parsley and I sprinkled fresh basil on the top. I used half cheddar and half pepper jack. I also sauteed the onions with three cloves of garlic and a couple teaspoons of EVOO. I also drained the zucchini prior to mixing in with the other ingredients. Oh, and I used corn cut straight from the cob and seasoned with a little chipotle powder.",
+            "datePublished": "2013-06-30T12:43:39.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Luann Portler"
+            },
+            "reviewBody": "I had some zucchini to use up so made this but added eggplant which I roasted ahead of adding it to the other ingredients. I also sautéed the onion before adding it to the pie. Also used some sun-dried tomatoes and some leftover ham, which I cubed. We liked it and I will probably make again but I think it might need a little more spicing up for our tastes. This is a good recipe for using up leftover veggies.",
+            "datePublished": "2018-07-25T21:43:03.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rock_lobster"
+            },
+            "reviewBody": "This recipe absolutely needs some salt, pepper and additional seasoning. My tinkerings included sauteing the onion w/ garlic and bell pepper, using grated squash and zucchini (both of which I drained, salted, in a colander) and adding salt, pepper, paprika and fresh basil to the top b4 baking it. It smelled heavenly, and did taste pretty good (w/ the addition of a healthy splash of hot sauce), but next time around, I'll go much heavier on the seasonings.",
+            "datePublished": "2010-10-06T15:31:04.283Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dagny21"
+            },
+            "reviewBody": "This is good, but needs some work. It was very easy, pretty, smelled wonderful and cooked up beautifully. However, the baking mix made the whole thing taste thick and pancaky, and the whole thing definitely needed some spices. I think I'll try all these ingredients again and just make it a quiche (get rid of baking powder and use 3 eggs + 1 1/2 cups of cream)",
+            "datePublished": "2003-05-01T09:55:04.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Webb Hicks"
+            },
+            "reviewBody": "This is a great way to use up squash. I stewed my squash...I used zucchini..(sliced in 1/2\" slices) til just tender. Like any other time I cook, I seasoned to taste. I also added 4-5 finely diced jalapenos. I used thyme as an addition for taste. It was very good and I will make again!",
+            "datePublished": "2013-08-14T12:03:30.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer Cooper Loza"
+            },
+            "reviewBody": "Delicious! The only things I did differently were, 1) I used a can of diced Italian recipe tomatoes (drained well) in place of a fresh tomato; and 2) I omitted the corn and the onion. Without a doubt I will make this one again. Thank you for sharing this recipe!",
+            "datePublished": "2012-08-11T20:57:24.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Judith Ann"
+            },
+            "reviewBody": "Thanks Kim for a tasty recipe.We enjoyed the Zucchini Pie,great way to use up zucchini &amp; fresh corn.Always looking for new recipes.I did add a little extra,I used Oscar Mayer real bacon bits,ground red pepper&amp; a small amount of half &amp; half.sooo good.",
+            "datePublished": "2007-07-20T11:01:13.627Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ginny b"
+            },
+            "reviewBody": "This was very good! I added a green pepper chopped up and also some chopped up mushrooms because I happened to have them around! I think you could add other veggies to it as well, depending on what you have handy. Definitely a keeper!",
+            "datePublished": "2008-08-24T18:29:36.650Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LUCY JAMESON"
+            },
+            "reviewBody": "This on is a keeper. I varied it by using a drained can of mild Rotel tomatos and chili instead of the chopped tomato. A good potluck dish.",
+            "datePublished": "2003-02-17T14:00:32.373Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tammy Lynn"
+            },
+            "reviewBody": "This turned out great! It made a tasty lunch after I added a few extras. I didn't have a fresh tomato, so I used a can of tomatoes and green chilies that I drained very well. I added garlic salt and black pepper and a little handful of fresh, chopped cilantro. Mine took an extra 10 minutes to bake, maybe because of the canned tomatoes. Also, mine was not thick or bready at all. I will try this recipe again with a few tweaks! Thanks!",
+            "datePublished": "2022-07-23T18:44:34.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "barbji"
+            },
+            "reviewBody": "This was delicious! Only change I made was to use frozen organic corn instead of fresh and salt and pepper. Very tasty and easy! Low in calories too. Thanks Kim!",
+            "datePublished": "2013-09-29T09:53:21.927Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chefellie"
+            },
+            "reviewBody": "This recipe was great! I actually used a pie crust, but I think it would be great without one. I also did not have tomatoes unfortunately, because it would be even better with them. This was so easy to make and relatively healthy so I know I'll make it again. It also makes great leftovers :) thanks!",
+            "datePublished": "2012-10-14T11:59:19.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "John Mackx"
+            },
+            "reviewBody": "Great taste, but the added stuffing mix is a no, no. Adds tooo many unneeded calories. Subsitute stuffing mix with bread crumbs or planko",
+            "datePublished": "2012-01-05T04:31:18.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jamie Tanner Garlick"
+            },
+            "reviewBody": "This started to brown way before it was done cooking, so I turned down the temp, and it ended up soggy in the middle- almost inedible. Quite a disappointment! Maybe it is just supposed to get really dark, so just down turn the temperature down!",
+            "datePublished": "2011-09-20T14:33:22.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Leighann Harris"
+            },
+            "reviewBody": "My husband and I enjoyed this so much there were no leftovers! I think its one of those simple dishes that just doesn't need anything to jazz it up. Very good!",
+            "datePublished": "2011-08-01T15:36:37.123Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tami Brass"
+            },
+            "reviewBody": "Loved it! Tweaked a little. Added an egg white, some Parmesan, some garlic, and some black pepper. Kids asked me to make it again. Tasted like really good corn bread. Great way to use farm veggies!",
+            "datePublished": "2011-07-27T16:35:30.000Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CLKENEALY"
+            },
+            "reviewBody": "rating on how written, the instructions are not complete there are steps missing. the way it is written you bake it in the bowl that you have mixed everything up in",
+            "datePublished": "2011-07-04T07:43:28.783Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ange"
+            },
+            "reviewBody": "Great idea. 2 of us ate this up fast, so I might suggest making a larger batch especially for 3+ people. Yummy recipe though!",
+            "datePublished": "2011-03-18T16:39:01.530Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14012/zucchini-corn-and-tomato-pie/",
+          "name": "Zucchini, Corn, and Tomato Pie",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/252/main-dish/savory-pies/",
+                  "name": "Savory Pie Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/2272/main-dish/savory-pies/vegetarian-pie/",
+                  "name": "Vegetarian Pie"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

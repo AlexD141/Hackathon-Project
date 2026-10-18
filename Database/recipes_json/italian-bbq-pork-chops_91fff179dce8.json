@@ -1,0 +1,456 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/218088/italian-bbq-pork-chops/",
+  "extracted_at": "2026-10-18T03:03:52.325693+00:00",
+  "recipes": [
+    {
+      "name": "Italian BBQ Pork Chops",
+      "ingredients_raw": [
+        "0.75 cup balsamic vinegar",
+        "0.5 cup ketchup",
+        "0.25 cup brown sugar",
+        "1 tablespoon Worcestershire sauce",
+        "1 tablespoon Dijon mustard",
+        "1 clove garlic, minced",
+        "0.5 teaspoon salt",
+        "0.5 teaspoon freshly ground black pepper",
+        "cooking spray",
+        "4 (6 ounce) pork loin chops",
+        "salt and freshly ground black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Stir together vinegar, ketchup, brown sugar, Worcestershire sauce, Dijon mustard, garlic, 1/2 teaspoon salt, and 1/2 teaspoon black pepper in a saucepan over medium-low heat; simmer sauce for 20 minutes. Remove from heat and allow to sit for 5 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+        },
+        {
+          "id": 3,
+          "text": "Season pork chops with salt and pepper. Pour a small amount of sauce from the saucepan into a bowl. Brush chops with sauce from the bowl. Discard any remaining sauce from the bowl."
+        },
+        {
+          "id": 4,
+          "text": "Cook pork chops on the preheated grill until no longer pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Allow pork chops to rest for 3 minutes. Serve with remaining sauce on the side."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Italian BBQ Pork Chops",
+        "datePublished": "2020-03-05T00:08:06-05:00",
+        "dateModified": "2026-06-07T12:31:05-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Sarah"
+          }
+        ],
+        "description": "Pork chops with a quick homemade BBQ sauce made with balsamic vinegar, ketchup, and brown sugar have just the right amount of sweetness to become addictive.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/hhe9RrOWfb22yEFlyiIo_gvp2o4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/659267-italian-bbq-pork-chops-Rebekah-Rose-HIlls-4x3-1-3b7909b4e4de473faabeb0d8247a009b.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Italian BBQ Pork Chops",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "202"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "270 kcal",
+          "carbohydrateContent": "30 g",
+          "cholesterolContent": "54 mg",
+          "fiberContent": "0 g",
+          "proteinContent": "22 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "807 mg",
+          "sugarContent": "27 g",
+          "fatContent": "7 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "American"
+        ],
+        "recipeIngredient": [
+          "0.75 cup balsamic vinegar",
+          "0.5 cup ketchup",
+          "0.25 cup brown sugar",
+          "1 tablespoon Worcestershire sauce",
+          "1 tablespoon Dijon mustard",
+          "1 clove garlic, minced",
+          "0.5 teaspoon salt",
+          "0.5 teaspoon freshly ground black pepper",
+          "cooking spray",
+          "4 (6 ounce) pork loin chops",
+          "salt and freshly ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Stir together vinegar, ketchup, brown sugar, Worcestershire sauce, Dijon mustard, garlic, 1/2 teaspoon salt, and 1/2 teaspoon black pepper in a saucepan over medium-low heat; simmer sauce for 20 minutes. Remove from heat and allow to sit for 5 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Season pork chops with salt and pepper. Pour a small amount of sauce from the saucepan into a bowl. Brush chops with sauce from the bowl. Discard any remaining sauce from the bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook pork chops on the preheated grill until no longer pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Allow pork chops to rest for 3 minutes. Serve with remaining sauce on the side."
+          }
+        ],
+        "recipeYield": "4",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jillian"
+            },
+            "reviewBody": "WOW! Say good-bye to dreaded \"dry pork\" forever with this tasty BBQ pork dish that definitely has an Italian flair to it. I LOVE balsamic vinegar and could practically drink the stuff so I had to try this. Instead of cooking the sauce I decided to use it as a marinade. I cut back a bit on the balsamic (use a good quality one and you can't go wrong) and added 2 Tbsp. of olive oil. Other than that I wouldn't change a thing. I used thick cut bone-in chops and put everything into a ziploc bag and let it marinate for a full 24 hours. The smell coming off the grill was fantastic and the taste was sensational. Just as the submitter states it's just the right amount of sweetness and the chops were definitely moist, juicy and full of flavor. This was perfect served with \"Grilled Tomato, Onion, and Bread Salad\" from this site. Thanks Sarah for a great recipe!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "redstorm_"
+            },
+            "reviewBody": "I made a little extra sauce as I had 6 to 7 half inch chops which were perfect for this recipe. I add cayenne pepper too for heat.\n\nI also seasoned the chops with salt and pepper and spooned some sauce over to coat chops then refrigerated for a few hours to really get that flavor infused.\n\n When grilling I always get the unit up to really high heat around 500-600 degrees on my grill then when chops go on one side I lower 2 of the burners to low and keep lid closed for 6 minutes then flip for another 3 at most and with this sauce...mmmm good. You only need around 140-145 temp and their perfectly fine and safe Too many people grill pork to death and ruin the meat. \n\n You can serve this over rice or whatever you like. Great recipe and this can easily be tweaked.",
+            "datePublished": "2020-06-03T00:25:42.280Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carol"
+            },
+            "reviewBody": "ABSOLUTELY LOVED IT!!!! Thank you, I have redeemed myself cooking pork chops. My kids went crazy for this and requested it again. I used a thick pork chop and pan seared it with olive oil for 5 min on each side until browned then I poured the balsamic sauce over it and oven cooked them for 15 min more. Let the chops rest in the pan for 10 min before serving. I added garlic and soy sauce for additional flavor. Save the extra sauce for chicken the next night. The sauce has that pungent vinegar smell, don't worry the taste is amazing. Printed the recipe and its in my box for the next time.",
+            "datePublished": "2018-02-25T03:40:20.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cherb"
+            },
+            "reviewBody": "AWESOME! Made this almost to the letter. However. Added a little olive oil and just marinated chops while doing my usual side dish prep, etc. this allowed the chops to soak it all in, and eliminated the vinegar smell that everyone is complaining about. All into the zip lock bag and later onto grill. Fantastic!!! Also, saved some marinade and brushed it onto sliced zucchini, when the chops still had 5 more minutes added the zucchini to the grill. Out of this world . Served with potato salad, and you can’t ask for a better meal.",
+            "datePublished": "2018-04-21T23:52:07.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stacy Anne Hoehle"
+            },
+            "reviewBody": "I didn't have ketchup so I used Sweet Baby Ray's BBQ sauce (and omitted the brown sugar) and these turned out juicy and tasty. Of note--make sure you use non-stick spray in a grill pan or on the grill since this will stick. The sugar in the ketchup or BBQ sauce stuck pretty badly, so clean up was difficult. Punch up the italian inspiration with fresh oregano, instead of dried--add a pinch at the end and the aromatics are very nice.",
+            "datePublished": "2016-09-01T15:41:01.353Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tiffany"
+            },
+            "reviewBody": "I am not a big fan of pork chops, but this was AMAZING. The sauce is perfect! It is cold and snowing outside so I made the sauce, poured 1/2 of it over the boneless pork chops in a baking pan and baked it at 350 for 30 minutes. Then used the extra sauce for dipping. I also added a touch of honey into the sauce to give it a little extra sweetness. The pork chops melted in my mouth. I will definitely be making this recipe again!",
+            "datePublished": "2014-02-26T15:32:21.230Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chef Cosmo"
+            },
+            "reviewBody": "Not sure what makes this Italian but...\nNot bad but some suggestions. One, cut the vinegar in half ...way too much for 4 chops. Two, wait until the chops are half done before applying any type of BBQ sauce. The sugars in the sauce will caramelize and start to burn before your chops are done. Lastly, it is not necessary to wait three minutes before enjoying. Dig in, it's not beef. GL, Chef Cosmo",
+            "datePublished": "2016-08-28T15:52:23.007Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Hailey Andresen"
+            },
+            "reviewBody": "I finally found a pork chop recipe I like! We didn’t cook the sauce initially. Rather, we marinated the pork chops in it for about 4 hours. When we put the pork chops on the grill, we simmered the leftover marinade for 5 minutes, then basted the pork chops with it while they were cooking. Delicious!",
+            "datePublished": "2020-12-13T03:14:03.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dianne"
+            },
+            "reviewBody": "Well, I really liked it. The family, not so much. The kids wouldn't touch it and my husband who drinks vinegar straight from the bottle has now declared that he doesn't like warm vinegar, but liked \"whatever other tastes there were in it\". So, I think the fix is, that I'll have to reduce the vinegar...maybe by half. \n\nI used it as a marinade for about an hour and then broiled the chops (5 min per side). While they were broiling I brought the leftover marinade to a boil and then when I flipped the chops I poured it on top of them. This made them very saucy which I loved because that's where all of the flavor was, but too much for the rest of them! Oh well.",
+            "datePublished": "2013-04-13T15:12:17.497Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim in Denver"
+            },
+            "reviewBody": "My hubs and I loved this! Made the sauce exactly as written. Ended up cutting a pork tenderloin into chunky pieces since the porl chops i had just bought didn't look or smell too good - ready to try it again with chops but the tenderloin was amazing! Served with butter noodkes and grilled veggies (onion, red and orange peppers, and zucchini). Great dinner that looks and tastes fancy enough to impress company but super quick and easy!",
+            "datePublished": "2020-07-06T01:32:08.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My bbq ran out of propane so I breaded the chops with bread crumbs, browned them in a pan on the stove, and then added the sauce on top of them and baked them at 400 for about 30 minutes. I also reduced the Worcestershire sauce to 1/2 tsp and thought it turned out beautifully.",
+            "datePublished": "2016-09-14T14:15:21.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "grpawell"
+            },
+            "reviewBody": "The balsamic bbq sauce is an interesting twist. The recipe was easy and the outcome was good.",
+            "datePublished": "2025-08-18T01:09:45.221Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "The balsamic vinager enhances all the flavor of this bbq sauce. I shared it w my neighbors and they said it was the best sauce I've ever made. Excellent recipe.",
+            "datePublished": "2025-04-15T18:23:09.348Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeff Baird"
+            },
+            "reviewBody": "I’ve made these chops many times. Everyone has loved them. Black-eyed peas with diced jalapeños and scalloped potatoes make wonderful sides.",
+            "datePublished": "2023-08-06T20:31:18.895Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeni Bristol"
+            },
+            "reviewBody": "My bf and I were not fans. The overwhelming taste of balsamic vinegar was a huge turn off. The 145° doneness was spot on and these were very tender but we won’t be making them again.",
+            "datePublished": "2021-05-13T01:26:43.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Willie"
+            },
+            "reviewBody": "This is a keeper! The pork was so moist and delicious.",
+            "datePublished": "2020-07-23T17:41:00.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "BCAB"
+            },
+            "reviewBody": "I don't usually write a review after trying new recipes but this one is totally worth the effort! We made this tonight exactly as the directions specified. What great flavour!! Luvvvvved it!! We'll do it again next time on ribs, not that it wasn't great on the chops too though. It has the right balance of spice and sweetness and we think it would probably work well on chicken too.",
+            "datePublished": "2020-07-08T01:02:06.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RoRo"
+            },
+            "reviewBody": "I enjoyed this recipe, it was very easy to follow, fun ingredients (I had all the ingredients for a last minute recipe) &amp; one of the quickest sauces to do in a quick short time! The pork chops I had were 1.5” to 2” thick, 4” to 4.5” long and about 8 to 9 oz., so I played with the cooking time to have them just right and not be overdone...it definitely took between 6.5 to 7.5 minutes for just a faint faded pink in the middle. I checked the temp when I removed them and it read 140 but let them sit for 3min.. perfect recipe for a quick on the grill weekday meal and great flavor. Now I have extra sauce for another pork-chop week meal this week!",
+            "datePublished": "2020-06-25T14:04:48.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debbie T"
+            },
+            "reviewBody": "Absolutely Amazing! The flavor was out of this world! Tender &amp; juicy! You will not be disappointed! I followed the recipes and it was perfect!",
+            "datePublished": "2020-03-30T23:47:34.240Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Overseascook"
+            },
+            "reviewBody": "Outstanding!! The chops were juicy and flavorful! Will definitely keep this one on rotation! Thanks for a great recipe.",
+            "datePublished": "2020-02-20T18:19:48.767Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/218088/italian-bbq-pork-chops/",
+          "name": "Italian BBQ Pork Chops",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

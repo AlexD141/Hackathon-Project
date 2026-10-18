@@ -1,0 +1,460 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18442/bobs-awesome-lasagna/",
+  "extracted_at": "2026-10-18T02:30:58.581925+00:00",
+  "recipes": [
+    {
+      "name": "Bob&#39;s Awesome Lasagna",
+      "ingredients_raw": [
+        "8 ounces lasagna noodles",
+        "1 pound ground beef",
+        "0.25 cup minced onions",
+        "1 teaspoon salt",
+        "0.5 teaspoon garlic salt",
+        "1 (32 ounce) jar spaghetti sauce",
+        "1 (16 ounce) package large curd cottage cheese",
+        "1 pound mozzarella cheese, shredded"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Cook noodles in boiling water for 8 to 10 minutes, or until al dente; drain."
+        },
+        {
+          "id": 2,
+          "text": "In a large skillet over medium heat, saute ground beef, onions, salt and garlic salt until meat is brown. Drain excess fat, add spaghetti sauce to beef mixture, and bring to a boil. Reduce heat, and simmer for 15 to 20 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch glass baking pan."
+        },
+        {
+          "id": 4,
+          "text": "Line bottom of pan with three lasagna noodles. Spread 1/3 of sauce mixture over noodles. Layer 1/3 of the cottage cheese over the sauce. Sprinkle 1/3 of the mozzarella over the cottage cheese. Repeat this layering process until all ingredients are used up."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven for one hour. Let stand for 10 minutes before serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Bob&#39;s Awesome Lasagna",
+        "datePublished": "2000-04-27T13:09:13-04:00",
+        "dateModified": "2022-07-14T15:55:30-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Bob"
+          }
+        ],
+        "description": "This is a traditional baked lasagna that is a favorite in our family. Ground beef, cottage cheese, and mozzarella make it rich and filling.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/JjDRvTjruY3ONN8Q347veNE8qd8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/649914-72c3faa0decb4f1ea073f0c2e78a972c.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Bob&#39;s Awesome Lasagna",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "920"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "335 kcal",
+          "carbohydrateContent": "26 g",
+          "cholesterolContent": "54 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "24 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "984 mg",
+          "sugarContent": "8 g",
+          "fatContent": "15 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT30M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired"
+        ],
+        "recipeIngredient": [
+          "8 ounces lasagna noodles",
+          "1 pound ground beef",
+          "0.25 cup minced onions",
+          "1 teaspoon salt",
+          "0.5 teaspoon garlic salt",
+          "1 (32 ounce) jar spaghetti sauce",
+          "1 (16 ounce) package large curd cottage cheese",
+          "1 pound mozzarella cheese, shredded"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Cook noodles in boiling water for 8 to 10 minutes, or until al dente; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large skillet over medium heat, saute ground beef, onions, salt and garlic salt until meat is brown. Drain excess fat, add spaghetti sauce to beef mixture, and bring to a boil. Reduce heat, and simmer for 15 to 20 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch glass baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Line bottom of pan with three lasagna noodles. Spread 1/3 of sauce mixture over noodles. Layer 1/3 of the cottage cheese over the sauce. Sprinkle 1/3 of the mozzarella over the cottage cheese. Repeat this layering process until all ingredients are used up."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven for one hour. Let stand for 10 minutes before serving."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 - 9x13 inch pan"
+        ],
+        "totalTime": "PT90M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MommyFromSeattle"
+            },
+            "reviewBody": "Very rich and tender lasagne and easy/quick to prepare. But a few additions: add 1/2 box of 10oz. frozen, chopped spinach to meat mixture while cooking for more nutrition &amp; color. Moms, this is a good way to sneak in something green. Also, as previous reviews states, the cottage cheese needs one egg to bind together or else it's too runny. And add a few dashes of grated nutmeg to cottage mixture- (an old italian secret!). And one more trick for lasagna makers: no need to wash an extra pot to boil lasagna noodles. Put very hot tap water into a large bowl and soak the raw, hard noodles for 20-30 min. Noodles won't be cooked, but soft and can complete it's cooking in the oven. I learned this trick from a caterer, try it!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ohevshalomel"
+            },
+            "reviewBody": "First of all, for the reviewers saying that the lasagna doesn’t have enough flavor, well, this recipe is easily tweaked. I used a half-and-half mix of ricotta and cottage cheeses. Into that, I mixed a generous sprinkling of Italian seasoning, ground sage and fennel, and dried savory. To the beef mixture, I added garlic powder, onion powder, celery salt, and a touch of cayenne pepper (as I couldn’t find my crushed red pepper). When I assembled it, I split up a 19-ounce package of browned, sliced mild Italian sausage links to sprinkle on top of the beef mixture, and then I added twelve Provolone slices between the first and second layers, and then again on top (underneath the mozzarella cheese—six slices per layer). I also used about 3/4 pound of shredded mozzarella instead of 1/2 pound called for. Optional: serve with jarred or fresh grated Parmesan on top. Everything else about the recipe I followed to a T. Oh, and even though it says to use half a pound of lasagna noodles, I count out nine whole noodles (about the same amount) to make sure I have three for each layer to fill the pan. So rich and filling!",
+            "datePublished": "2020-05-15T04:36:49.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "I followed many tips from other reviewers--let lasagne noodles soak in a pan of hot water while you make the sauce. This one tip made making lasagne so much more doable. I also added a beaten egg to the cottage cheese to bind it together. This is a favorite in our family .",
+            "datePublished": "2021-02-16T06:52:33.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cvwalker24"
+            },
+            "reviewBody": "Really great basic receipe. I read some reviews and made a few adjustments. I used the suggestion to use hot tap water to prep the noodles which works great! I only had ground pork sausage at home but it was still tasty. I used mozzarella, provolone, and ricotta cheese (added eggs to the ricotta to hold together) to build the lasagna. Lastly I added some some veggies to the meat sauce so we could get some nutrients in. I love to follow this basic receipe and its fun to make adjustments based on what you have!",
+            "datePublished": "2020-06-12T00:15:45.857Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emma"
+            },
+            "reviewBody": "This was a delicious recipe. I made a few tweaks. I followed the recipe except I added 2 cloves of garlic instead of using garlic salt. I wanted to have a bit of a spice kick so I added one scotch bonnet pepper finely chopped and added cayenne pepper to taste along with a generous sprinkle of chilli flakes. Sometimes I add a splash of Worcester sauce to the beef sauce too. I sprinkled plenty of dried Italian herbs to the sauce along with some chopped mushrooms and a grated carrot. I added nutmeg to the cottage cheese and sprinkled cheddar and marble cheese on top with sprinkle of the Italian herbs and cayenne on top too. It was delicious! Served with garlic bread this was a delicious comfort meal. Thanks Bob!",
+            "datePublished": "2019-02-14T03:07:05.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mousielove"
+            },
+            "reviewBody": "Have made lasagna twice; first time disaster. This time success. I used \"oven ready\" noodles and added a small amount of water to the casserole pan - no boiling, perfect. Also added 1 Tbsp. of water mixed with 1/4 tsp. of baking soda to facilitate browning, but also to make it more tender. (Velveting) Will make this again - thank you for an easy to make treat!",
+            "datePublished": "2019-10-12T21:30:41.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mckaty"
+            },
+            "reviewBody": "Amazing!! I did add a couple of eggs to the cottage cheese and my teenage boys actually commented on that in particular. I also just soaked the noodles in hot water to soften while I prepared the rest. Noodles turned out perfectly. It was awesome",
+            "datePublished": "2019-05-29T10:29:47.490Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barbara Morehouse"
+            },
+            "reviewBody": "Tweaked the recipe per the suggestion of other home cooks. I used extra meat(well seasoned), ricotta (well seasoned), and saved time by soaking the pasta instead of boiling. I also cooked the dish covered in foil and removed the foil during the last 10mins. The recipe was super easy and quite tasty. I've never made lasagna before and based on how well it turned out i will definitely make it again.",
+            "datePublished": "2015-08-02T17:32:39.963Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deborah"
+            },
+            "reviewBody": "loved it! I added some saute spinach and used 1/2 lb turkey and 1/2 lb turkey sausage.",
+            "datePublished": "2021-09-26T14:08:44.647Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Barb J E Scott"
+            },
+            "reviewBody": "I did add about 1 cup parmesan cheese. Even my picky eating son loved it!",
+            "datePublished": "2020-08-04T01:19:29.787Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Scott Smith"
+            },
+            "reviewBody": "I doubled the recipe, adding a pound of Italian sausage, a 15 oz. can of diced tomatoes and a 15 oz. can of tomato sauce (plus Italian seasoning and fresh garlic). I blended the cheeses with one egg and about 1/2 cup of Parmesan. It was delicious!",
+            "datePublished": "2019-10-13T23:28:02.843Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KAITLYNSOPHIA"
+            },
+            "reviewBody": "This has been my go-to lasagna recipe and everyone loves it!",
+            "datePublished": "2026-07-14T00:15:09.421Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Monica Colgan"
+            },
+            "reviewBody": "Great recipe, taste good and pretty easy to make.",
+            "datePublished": "2022-07-06T23:41:37.531Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vandeeva"
+            },
+            "reviewBody": "I added minced garlic while browning the ground beef, along with fresh parsley, to compliment this hearty, fulfilling dish!",
+            "datePublished": "2022-06-02T00:32:04.236Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jason"
+            },
+            "reviewBody": "I made this for my staff for a company function. All loved it including one that used to cook professionally and another who is a foodie.",
+            "datePublished": "2022-03-30T23:40:36.281Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alex246"
+            },
+            "reviewBody": "Great basic recipe!!! It was very good. Of course, I think the sauce you choose really makes a lasagna. I used just traditional style spaghetti sauce. Addition: I did whip an egg and 2T of dried parsley AND used ricotta cheese (not cottage cheese) before spreading it on the lasagna.",
+            "datePublished": "2022-01-11T02:22:10.687Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LisaMHall"
+            },
+            "reviewBody": "Great, easy recipe! I used 1.5 lbs ground beef and Prego Roasted Garlic Parmesan spaghetti sauce. The whole family loved it and already wants to have it again. Thanks for the awesome recipe!",
+            "datePublished": "2021-08-05T15:43:22.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dagillz1"
+            },
+            "reviewBody": "this is an amazing recipe super simple everyone loved it",
+            "datePublished": "2021-03-23T23:28:26.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Catsm103"
+            },
+            "reviewBody": "I used 1-1/2 pounds of ground beef and combined the cheeses along with a couple eggs for binding, as suggested in previous reviews. It was a hit!",
+            "datePublished": "2021-01-28T03:18:23.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lore Apted"
+            },
+            "reviewBody": "I made this for the first time and it didn't seem like the ingredients spread as much as they should have. Thank goodness I had extra cottage in the fridge and next time I will cook more of the meat",
+            "datePublished": "2021-01-11T02:46:46.900Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18442/bobs-awesome-lasagna/",
+          "name": "Bob&#39;s Awesome Lasagna",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+                  "name": "Pasta"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/502/main-dish/pasta/lasagna/",
+                  "name": "Lasagna Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

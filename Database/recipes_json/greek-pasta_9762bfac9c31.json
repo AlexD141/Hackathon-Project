@@ -1,0 +1,453 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21110/greek-pasta/",
+  "extracted_at": "2026-10-18T02:48:00.676446+00:00",
+  "recipes": [
+    {
+      "name": "Greek Pasta",
+      "ingredients_raw": [
+        "1 pound linguine pasta",
+        "3 tomatoes",
+        "0.33333334326744 cup olive oil",
+        "3 cloves garlic, minced",
+        "1 pound mushrooms, sliced",
+        "1 teaspoon dried oregano",
+        "0.75 cup crumbled feta cheese",
+        "1 (2 ounce) can sliced black olives, drained"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Bring a large pot of lightly salted water to a boil. Plunge whole tomatoes in water briefly, until skin starts to peel. Remove with a slotted spoon and place in cold water. Add pasta to boiling water and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+          "id": 2,
+          "text": "While pasta is cooking peel blanched tomatoes and chop."
+        },
+        {
+          "id": 3,
+          "text": "In a large skillet over medium heat, heat olive oil. Stir in garlic and mushrooms and saute until mushrooms begin to give up their juices. Stir in tomatoes and oregano and cook until tomatoes are tender."
+        },
+        {
+          "id": 4,
+          "text": "To serve, plate pasta, top with hot tomato sauce and sprinkle with feta and olives."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Greek Pasta",
+        "datePublished": "2000-08-28T15:10:39-04:00",
+        "dateModified": "2022-07-14T18:04:06-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Mary"
+          }
+        ],
+        "description": "Linguine topped with a hot tomato mushroom sauce and sprinkled with crumbled feta and black olives.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/weoBgNFJXHge7au7kXKpAIKLLs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21110greek-pastaSoupLovingNicole4x-992cf817847c4063bb83558bf4f030d2.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Greek Pasta",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "45"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "759 kcal",
+          "carbohydrateContent": "102 g",
+          "cholesterolContent": "25 mg",
+          "fiberContent": "7 g",
+          "proteinContent": "23 g",
+          "saturatedFatContent": "8 g",
+          "sodiumContent": "866 mg",
+          "sugarContent": "6 g",
+          "fatContent": "31 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner",
+          "Side Dish"
+        ],
+        "recipeCuisine": [
+          "Greek"
+        ],
+        "recipeIngredient": [
+          "1 pound linguine pasta",
+          "3 tomatoes",
+          "0.33333334326744 cup olive oil",
+          "3 cloves garlic, minced",
+          "1 pound mushrooms, sliced",
+          "1 teaspoon dried oregano",
+          "0.75 cup crumbled feta cheese",
+          "1 (2 ounce) can sliced black olives, drained"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Bring a large pot of lightly salted water to a boil. Plunge whole tomatoes in water briefly, until skin starts to peel. Remove with a slotted spoon and place in cold water. Add pasta to boiling water and cook for 8 to 10 minutes or until al dente; drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "While pasta is cooking peel blanched tomatoes and chop."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large skillet over medium heat, heat olive oil. Stir in garlic and mushrooms and saute until mushrooms begin to give up their juices. Stir in tomatoes and oregano and cook until tomatoes are tender."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "To serve, plate pasta, top with hot tomato sauce and sprinkle with feta and olives."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 servings"
+        ],
+        "totalTime": "PT30M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "poppy26"
+            },
+            "reviewBody": "this was very tasty and had an authentic mediterranean taste to it. I thought the sauce needed a little pep though and added tabasco and some cayenne pepper. I used canned tomatoes which worked fine. we'll definitely make this again :)"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "OliviaMae"
+            },
+            "reviewBody": "We slightly edited this recipe by adding more olives and shrimp for the seafood lovers. We didn't blanch the tomatoes which made it a much easier and faster recipe. This is great for parents with picky eaters, as everyone cleaned their plates.",
+            "datePublished": "2011-10-23T17:52:47.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Caj"
+            },
+            "reviewBody": "I used cherry tomatoes and marinades grilled button mushrooms. Served it alongside pork souvlaki. It was a huge hit in this house!",
+            "datePublished": "2024-01-13T12:26:08.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sammie"
+            },
+            "reviewBody": "GREAT RECIPE! Me and my roommate made it one night and it as awesome...easy prep quick to cook and went very nicely with some garlic bread...the only thing we changed was that we added a 1/4 c white wine when cooking the mushroom and it was fantastic, the mushroom soaked it all up and gave the dish a slightly sweet note which complimented the acidity of the tomatoes the bitterness of the olives and the saltiness of the feta. Next time we'll try adding other vegetables as suggested.",
+            "datePublished": "2014-01-24T18:59:20.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Soup Loving Nicole"
+            },
+            "reviewBody": "Made as written and we liked this. Switch steps 2 and 3 around for a time saver. I really feel the title of this recipe needs mushrooms in there some where but what do I know? It's good, fast, and we liked it.",
+            "datePublished": "2023-03-05T01:38:06.872Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MPEBLE"
+            },
+            "reviewBody": "I feel the olives and feta are optional. (If someone in the family doesn't like them, the recipe is still very do-able.)\n\nThe tomatoes don't really have to be blanched. Next time I'll just cut them up.\n\nThis also works with Basil instead of Oregano.\n\nFor a variation, add marinated artichoke hearts.",
+            "datePublished": "2006-03-26T20:44:31.607Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sinisa"
+            },
+            "reviewBody": "Overall it was good, although I do not know of one Greek person who would use canned black olives. Only Kalamata olives would do, as well as a tablespoon (at least) of Greek oregano.",
+            "datePublished": "2010-02-11T09:06:32.273Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "declanphineas"
+            },
+            "reviewBody": "My family loved it. I used multigrain pasta and kalmata olives. I also added some grilled chicken. We ended up having twice in one week.",
+            "datePublished": "2008-07-25T12:48:42.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MICHELEMC"
+            },
+            "reviewBody": "This recipe was awesome. My whole family loved it. I added in the black olives with the garlic and mushrooms to saute. I also didn't blanch the tomatoes, and they turned out great. I just chopped them up and added them to the saute pan for the last few minutes. Then sprinked with feta when done. Yummy!! Will make again.",
+            "datePublished": "2003-01-01T07:29:31.967Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kensie"
+            },
+            "reviewBody": "I thought that this was a pretty good recipe. The one inprovement I made was just to use fresh oregano instead of dried oregano. In my opinion adding fresh ingredients instead of dried ingredients adds so much more flavor. If you like flavorful food, i would use fresh oregano not dried oregano. Overall this was a tasty recipe!",
+            "datePublished": "2011-04-26T17:58:52.990Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cranefeather"
+            },
+            "reviewBody": "The whole family loved this. I used less oil--maybe 2 tbs and left out the mushrooms because I'm the only one in my family who will eat them (go figure...).",
+            "datePublished": "2010-04-03T10:20:10.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephen Rainey"
+            },
+            "reviewBody": "i added a roasted bell pepper to the sauce. I also cut abchicked breast into strips and cooked them in olive oil and oregano. once the chicken was done i setit aside and moved to the sauce prep. when the sauce was close to done i added the chicken back to warm it back up.",
+            "datePublished": "2016-06-27T23:49:49.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "debiy55"
+            },
+            "reviewBody": "I made this recipe exactly as the directions said and my husband and I LOVED IT! \nWe will definitely be making this more often than spaghetti, as it's much better than spaghetti could ever be! My husband hates black olives too, but in this dish he said they go perfect with the fresh tomato sauce and feta! He's right!",
+            "datePublished": "2013-06-01T15:10:55.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "cornelia_sltz"
+            },
+            "reviewBody": "A nice recipe,good for a quick dinner.Anyway,I like greek recipes.",
+            "datePublished": "2012-12-27T02:34:40.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "veggieprincess"
+            },
+            "reviewBody": "Awesome!",
+            "datePublished": "2011-07-02T16:20:30.470Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shellbee1012"
+            },
+            "reviewBody": "It turned out good but I added some parsley, used stewed tomatoes, and added marinated chicken to bring up the flavor a bit.",
+            "datePublished": "2011-06-10T12:27:08.760Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sourgurl758"
+            },
+            "reviewBody": "Pretty simple. There are lots of ways to spice up and add to this dish... And it can go either way - Italian or Greek. Sub the feta cheese for parmesan and it's not greek anymore IMO.",
+            "datePublished": "2011-06-05T18:55:45.157Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Marbear"
+            },
+            "reviewBody": "It didn't have a lot of ingredients, and we liked it. SOLD",
+            "datePublished": "2010-09-03T22:04:10.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mellie"
+            },
+            "reviewBody": "I did not care for this. Without taste - needed a little more seasoning. It honestly just didn't work - it was a very water-downed version of a classic Greek dish. Not recommended if you are a fan of Greek food. Possibly good for young kids???",
+            "datePublished": "2008-12-09T15:36:34.847Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "marushka"
+            },
+            "reviewBody": "Excellent! Even with exceptions - canned tomatoes, no mushrooms, and used fettucini. Very fast prep. Very good!",
+            "datePublished": "2008-08-26T19:16:20.220Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21110/greek-pasta/",
+          "name": "Greek Pasta",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+                  "name": "Everyday Cooking"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+                  "name": "Vegetarian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/264/everyday-cooking/vegetarian/side-dishes/",
+                  "name": "Side Dishes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

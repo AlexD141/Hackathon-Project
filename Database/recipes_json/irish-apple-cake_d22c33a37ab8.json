@@ -1,0 +1,479 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/220471/irish-apple-cake/",
+  "extracted_at": "2026-10-18T03:10:22.887460+00:00",
+  "recipes": [
+    {
+      "name": "Irish Applesauce Cake",
+      "ingredients_raw": [
+        "3 cups sifted all-purpose flour",
+        "0.75 cup white sugar",
+        "0.5 teaspoon salt",
+        "3 egg yolks",
+        "1 cup butter, softened",
+        "1 lemon, zest grated",
+        "1.75 cups applesauce",
+        "0.5 teaspoon ground cinnamon",
+        "0.25 teaspoon ground cloves"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Grease a 9x9-inch baking pan."
+        },
+        {
+          "id": 3,
+          "text": "Mix flour, sugar, and salt together in a bowl."
+        },
+        {
+          "id": 4,
+          "text": "Beat in egg yolks, butter, and lemon zest until dough is thoroughly mixed."
+        },
+        {
+          "id": 5,
+          "text": "Mix applesauce, cinnamon, and cloves together in a small bowl."
+        },
+        {
+          "id": 6,
+          "text": "Press half the dough into the prepared baking pan; spread applesauce mixture over dough in a layer. Top with remaining dough."
+        },
+        {
+          "id": 7,
+          "text": "Bake in the preheated oven until cake is browned, 40 to 45 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Irish Applesauce Cake",
+        "datePublished": "2020-06-18T23:47:49-04:00",
+        "dateModified": "2022-01-14T01:23:14-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "DOMINIAKS"
+          }
+        ],
+        "description": "A simple cake with light spice and lemon flavors has a layer of applesauce baked in. Top with whipped cream or lemon sauce.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/jL1ISISME6gXqnZjRwe7paz-9R4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/807379-658ab1da6243420eb3db8fb22ba487b9.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Irish Applesauce Cake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "ratingCount": "28"
+        },
+        "cookTime": "PT40M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "490 kcal",
+          "carbohydrateContent": "61 g",
+          "cholesterolContent": "138 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "6 g",
+          "saturatedFatContent": "15 g",
+          "sodiumContent": "314 mg",
+          "sugarContent": "24 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert",
+          "Cake"
+        ],
+        "recipeCuisine": [
+          "Irish"
+        ],
+        "recipeIngredient": [
+          "3 cups sifted all-purpose flour",
+          "0.75 cup white sugar",
+          "0.5 teaspoon salt",
+          "3 egg yolks",
+          "1 cup butter, softened",
+          "1 lemon, zest grated",
+          "1.75 cups applesauce",
+          "0.5 teaspoon ground cinnamon",
+          "0.25 teaspoon ground cloves"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Grease a 9x9-inch baking pan."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix flour, sugar, and salt together in a bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Beat in egg yolks, butter, and lemon zest until dough is thoroughly mixed."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix applesauce, cinnamon, and cloves together in a small bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Press half the dough into the prepared baking pan; spread applesauce mixture over dough in a layer. Top with remaining dough."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until cake is browned, 40 to 45 minutes."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 9x9-inch cake"
+        ],
+        "totalTime": "PT55M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Pam Ziegler Lutz"
+            },
+            "reviewBody": "Topping this cake is key. By itself, it's a bit dry, but has a nice flavor. I sprinkled the top of the cake with a little cinnamon before baking and served the cake with a tart lemon sauce."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "anna_bonita"
+            },
+            "reviewBody": "Wow, this is really good! I used unsweetened applesauce and it still came out tasting sweet. It was not dry at all. I rarely have lemons on hand so I used about 2-3 Tbs lemon juice. The taste isn't as strong as some reviewers say they can taste the lemon zest, but it does add a bit of liquid that helps to keep the dough together. The dough resembles shortening/flour \"crumbles\". Just grab half of it and mold into a ball, then press into the glass dish. Cover with applesauce mixture, then grab remaining \"crumbles\" and sprinkle over the applesauce. It should cover the whole pan. Press down lightly, add some cinnamon for flavor and color, bake for 40-45 mins and it turns out incredible. Can't wait to add ice cream!",
+            "datePublished": "2014-03-17T14:27:55.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sassyoldlady"
+            },
+            "reviewBody": "Made for Recipe Group. I thought this was good, nice lemony flavor in the background. I made it in an 8x8 pan. I sprinkled cinnamon sugar over natural applesauce and on the top. I just mixed the batter with my hands, pressed down the bottom layer and crumbled over the applesauce. Makes a nice coffecake! Thanks for the recipe.",
+            "datePublished": "2014-03-16T11:36:58.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sassyoldlady"
+            },
+            "reviewBody": "Made for Recipe Group. I thought this was good, nice lemony flavor in the background. I made it in an 8x8 pan. I sprinkled cinnamon sugar over natural applesauce and on the top. I just mixed the batter with my hands, pressed down the bottom layer and crumbled over the applesauce. Makes a nice coffecake! Thanks for the recipe.",
+            "datePublished": "2014-03-16T11:36:58.070Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb C"
+            },
+            "reviewBody": "Recipe Group selection for March 8, 2014 – Many of the reviews commented that the cake was dry; therefore I used 2 cups of applesauce and made sure to remove the cake from the oven just as the edges started to brown. In addition, because of their suggestions, I sprinkled a little cinnamon over the top. I loved the ease in making this dessert. The cake was delicious and had wonderful texture and flavor, and you’ll love the touch of lemon in the crumb mixture.",
+            "datePublished": "2014-03-15T12:46:34.330Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Fickle"
+            },
+            "reviewBody": "I made this dessert in the winter when I wanted a fruit dessert but the fresh fruit selection was scarce. I made one following the recipe and then I made another one with cherry pie filling. For the cherry one I omitted the lemon zest, cloves and cinnamon. Both were very good! Not too sweet!",
+            "datePublished": "2014-02-22T21:54:27.080Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "flameworker222"
+            },
+            "reviewBody": "I've made this cake twice, and have found that using chunky applesauce gives it a nice texture. As some people thought it was a bit bland, I decided to add in about 1/4 cup pumpkin butter once and some apple butter the next time; both were great additions. Love that it's quickly turned out with things I usually have on hand. Thanks for sharing this recipe, Dominiaks.",
+            "datePublished": "2014-11-24T12:28:52.540Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "easternoregonterp"
+            },
+            "reviewBody": "Lovely dessert...the shortbread crust and topping are a nice counterpoint to the applesauce (which basically becomes apple butter during the baking process). I used homemade applesauce, which has more flavor than most store brands. Do sprinkle a little cinnamon on the cake prior to baking. The cake took about 60 minutes to bake. Not sure what happened with the cake of the rater who said it was dry...mine was not. I'm very glad I made it in spite of the 'dry' comment!\nI used the Lemon Sauce 1 recipe (since I had the lemon left from the cake) and it's perfect (cut back on the nutmeg and use a bit of cinnamon) as a finishing drizzle. Yum! Everyone loved it.",
+            "datePublished": "2013-03-17T19:15:17.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Molly"
+            },
+            "reviewBody": "Recipe Group Selection: 08, March 2014 ~ I am glad I waited to write the review about this cake. The first night we tried it was the day I baked it. We found it to be a little dry, even with the 'Lemon Sauce II' from AR, that I made as a topper. (Submitter suggested a lemon sauce). By covering the leftovers with a tight fitting lid, the dessert softened up and we enjoyed it so much better. If I were to make this again, I would cut back on the crust/topping layers or add about 3/4 cup more applesauce. I did sprinkle a little cinnamon on the top before baking.",
+            "datePublished": "2014-03-14T20:37:44.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christina"
+            },
+            "reviewBody": "Made this for Recipe Group...Delicious! I didn't have a 9x9 square baking pan, so I used a 9\" round pan and that worked well, except I had some 'dough' left over, but that was fine. This baked up beautifully, and was very tasty...sort of reminded me of a cross between a cobbler and a pie. Topped with a sprinkle of cinnamon before baking, as Pam noted in her review, and served with whipped cream and a drizzle of caramel. This was a big hit for dessert tonight...a keeper, for sure~YUM! Thanks for sharing. :)",
+            "datePublished": "2014-03-10T07:22:08.937Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Dottie"
+            },
+            "reviewBody": "Far too thick to be malleable enough to spread evenly in the pan, not to mention over top of the layer of apple sauce. Make it a bit thinner or drag out a rolling pin to make two nice even flat pieces to fit your desired baking pan. This way they can be even and you won't squish everything out.",
+            "datePublished": "2015-09-21T11:18:31.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JI M"
+            },
+            "reviewBody": "I didn't care for this cake. It was very dry and crumbly. To me it tasted like pie dough with applesauce between layers. My family seemed to like it and I served with whipped cream which helped a little.",
+            "datePublished": "2026-03-19T22:11:54.602Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SilverTray1944"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-05-30T01:25:39.215Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kimberley Faught"
+            },
+            "reviewBody": "Add extra butter to make it moist",
+            "datePublished": "2018-02-05T20:39:49.820Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cynthia"
+            },
+            "reviewBody": "I made it in a 9\" round glass pie plate. It turned out perfectly and tasted great.",
+            "datePublished": "2017-03-19T22:37:10.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ST1200Girl"
+            },
+            "reviewBody": "My guests thought it was very good! I think next time I try it I will add baked or canned apples to it. Very easy recipe",
+            "datePublished": "2017-02-12T13:52:58.217Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "chef mom"
+            },
+            "reviewBody": "I thought it was good. Especially when warm. I filled",
+            "datePublished": "2016-05-16T01:00:38.447Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SueC"
+            },
+            "reviewBody": "Made it just as written. It was good!",
+            "datePublished": "2015-08-16T12:32:34.440Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "elizabeth edwards"
+            },
+            "reviewBody": "wonderful! !!",
+            "datePublished": "2015-02-28T13:41:35.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "robcangel"
+            },
+            "reviewBody": "This cake needs to be made a day in advance. After it came out of the oven and cooled, it was bland and not very good. I wrapped it up and figured it would probably be thrown away, but the next day I tasted another piece, and it was totally different from the day before. The flavors came together beautifully, and it was truly delicious.",
+            "datePublished": "2014-03-28T15:35:11.717Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/220471/irish-apple-cake/",
+          "name": "Irish Applesauce Cake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/704/world-cuisine/european/uk-and-ireland/",
+                  "name": "UK and Ireland"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/706/world-cuisine/european/uk-and-ireland/irish/",
+                  "name": "Irish"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

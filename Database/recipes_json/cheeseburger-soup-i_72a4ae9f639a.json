@@ -1,0 +1,517 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13062/cheeseburger-soup-i/",
+  "extracted_at": "2026-10-18T01:51:58.856579+00:00",
+  "recipes": [
+    {
+      "name": "Cheeseburger Soup",
+      "ingredients_raw": [
+        "4 tablespoons butter, divided",
+        "0.5 pound ground beef",
+        "0.75 cup chopped onion",
+        "0.75 cup shredded carrots",
+        "0.75 cup chopped celery",
+        "4 cups cubed potatoes",
+        "3 cups chicken broth",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried parsley",
+        "0.25 cup all-purpose flour",
+        "1.5 cups milk",
+        "2 cups cubed Cheddar cheese",
+        "0.25 cup sour cream",
+        "sliced green onions for garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Melt 1 tablespoon butter in a large pot over medium heat; add ground beef, onion, carrots, and celery. Cook and stir until beef is brown and crumbly, 5 to 7 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Stir in potatoes, broth, basil, and parsley; bring soup to a boil. Reduce heat to low and simmer until potatoes are tender, 10 to 12 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Melt remaining 3 tablespoons butter in a small saucepan over medium heat. Add flour; whisk until smooth, about 1 minute. Gradually whisk in milk. Simmer, whisking continuously, until sauce is thick and smooth."
+        },
+        {
+          "id": 4,
+          "text": "Pour sauce into soup mixture, stirring constantly. Bring to a boil over high heat; reduce heat to low. Add cheese and stir until melted. Add sour cream; stir until just heated through."
+        },
+        {
+          "id": 5,
+          "text": "Serve garnished with green onions."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Cheeseburger Soup",
+        "datePublished": "1999-02-18T11:24:32-05:00",
+        "dateModified": "2026-02-18T22:41:37-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Auntylene"
+          }
+        ],
+        "description": "This cheeseburger soup recipe is loaded with lean ground beef, potatoes, vegetables, and plenty of shredded cheese for a rich, hearty, filling meal.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/oTQRFMStJ4zxoBRWm1gYDvJoays=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-3x4-638-45cf610a6271431aa5f60f3762bf0b5a.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/wKkUAu8j-7uK69qX5.mp4",
+          "description": "Shame on us for thinking a cheeseburger couldn’t taste any more comforting. In this video, Natalie makes a hearty dinner with this cheeseburger soup recipe. Rich, creamy, and supremely satisfying, this beef-based soup perfectly captures the taste of a classic cheeseburger (especially when garnished with pickles.)",
+          "duration": "PT33S",
+          "name": "How to Make Cheeseburger Soup",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wKkUAu8j/thumbnails/1rwucJEb.jpg?width=1280",
+          "uploadDate": "2025-10-20T12:12:00-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Cheeseburger Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "1653"
+        },
+        "cookTime": "PT30M",
+        "keywords": "cheeseburger, publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "401 kcal",
+          "carbohydrateContent": "28 g",
+          "cholesterolContent": "83 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "21 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "686 mg",
+          "sugarContent": "6 g",
+          "fatContent": "23 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 tablespoons butter, divided",
+          "0.5 pound ground beef",
+          "0.75 cup chopped onion",
+          "0.75 cup shredded carrots",
+          "0.75 cup chopped celery",
+          "4 cups cubed potatoes",
+          "3 cups chicken broth",
+          "1 teaspoon dried basil",
+          "1 teaspoon dried parsley",
+          "0.25 cup all-purpose flour",
+          "1.5 cups milk",
+          "2 cups cubed Cheddar cheese",
+          "0.25 cup sour cream",
+          "sliced green onions for garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/HscUpRut7e4V20oZy316Z45u8Hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-step1-552-13a5e163a44a47599d1c029b674fc1da.jpg"
+              }
+            ],
+            "text": "Melt 1 tablespoon butter in a large pot over medium heat; add ground beef, onion, carrots, and celery. Cook and stir until beef is brown and crumbly, 5 to 7 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Mlsc5JwVFY0UhSlQaNWIC8uo2KM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-step2-599-346b9148b5bf455ebbcbf91b55e5efe2.jpg"
+              }
+            ],
+            "text": "Stir in potatoes, broth, basil, and parsley; bring soup to a boil. Reduce heat to low and simmer until potatoes are tender, 10 to 12 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/6NV0zg1gSeQAXjhaFH1z_qj1jmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-step3-554-2260de077a0249e999c11e763c70da12.jpg"
+              }
+            ],
+            "text": "Melt remaining 3 tablespoons butter in a small saucepan over medium heat. Add flour; whisk until smooth, about 1 minute. Gradually whisk in milk. Simmer, whisking continuously, until sauce is thick and smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/h8kRi9NnRcqTi2Py9Qsfm-htBZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-step5-609-2430201d277c41a08e198948a44eef50.jpg"
+              }
+            ],
+            "text": "Pour sauce into soup mixture, stirring constantly. Bring to a boil over high heat; reduce heat to low. Add cheese and stir until melted. Add sour cream; stir until just heated through."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/oTQRFMStJ4zxoBRWm1gYDvJoays=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13062-cheeseburger-soup-3x4-638-45cf610a6271431aa5f60f3762bf0b5a.jpg"
+              }
+            ],
+            "text": "Serve garnished with green onions."
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Carnes"
+            },
+            "reviewBody": "Because I commute 1 hour each way to work, I simplify this recipe. I also use more ground beef, 1#, I buy the cubed hash browned potatoes in the freezer section, along with the frozen diced onions. I use whole milk, and make this recipe as stated. I shave lots of time from assemblage with the 'easy' ingredients. Very hearty, creamy, filling on a cold winter's night. My family loves this, we have been making it for about 5 years now, I was surprised to find it on this site. To thicken this use potato flakes, it works great! The potato flakes make it a richer, thicker soup with substance."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MINNESOTAMOM"
+            },
+            "reviewBody": "I was frantically searching for a similar recipe featured in one of the first editions of Taste of Home. It's my husband's favorite, and I lost the recipe! I couldn't get it quite right until this one! I also add one seeded, minced jalapeno, crumbled bacon, and some cayanne to the adult's portions. He thinks I found the original recipe, but this one's even better!!",
+            "datePublished": "2002-03-01T07:42:21.933Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jimmy78"
+            },
+            "reviewBody": "I really liked this soup. The only thing I changed was adding two cloves of chopped garlic, some fried bacon and Valvetta vs cheddar. I also used frozen cubed hashbrown potatos only because thats what I had. To the person who said they didn't add the celery &amp; carrots because thats not in a cheeseburger, no wonder you gave it only 3 stars. This is soup, not a cheeseburger and virtually every good soup starts with onions, celery &amp; carrots (and garlic in my opinion). I served this to a group of 6 guys during a fishing trip and it got 12 enthusiastic thumbs up.",
+            "datePublished": "2010-06-25T12:47:17.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather Christian"
+            },
+            "reviewBody": "HUGE hit in my house! I've never made as written though. I measure with my heart.... I always double it. I start with a few strips of bacon, and instead of butter at first, I saute the onion/celery/carrot (and a couple cloves minced garlic in about a tblspoon or 2 of reserved bacon fat. I usually add a healthy shake or two of garlic and onion powder as well. I don't make a separate bowl of roux, just add the flour and butter to beef and veggies, let it cook a few minutes, then add the rest. I back off a bit on the flour and you could omit it entirely (gluten free) and use instant potato flakes to thicken instead. I've used sharp cheddar and velveeta. Season with salt and pepper as you go. Because of the potatoes, this doesn't freeze well in my opinion.",
+            "datePublished": "2023-10-25T15:53:18.372Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PurpleMalt7459"
+            },
+            "reviewBody": "For those who complained it didn't taste like Cheeseburger. Grill, charbroil the hamburger, or use a pellet grill for what ever meat your going to use first, heck freeze some! Then add it to your soup, via crumble, shredded or cubed. Good grief. For those who gave it a 1, because it needed salt? Add it. For those who gave it a 1 or 2 because it is not cheesey enough add more. Or use fake cheese called velveta.",
+            "datePublished": "2024-01-10T17:52:59.045Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "AsteriskBanana"
+            },
+            "reviewBody": "Great, hearty soup! I use 4 cups of beef broth, 1 lb of ground beef, 2 cups of Velveeta, a little cheddar, ground mustard, worcestershire, and a can of Ro-tel. I forgot to add the sour cream but it really didn't need it. I've also made this with cauliflower instead of potatoes for a lower carb option.",
+            "datePublished": "2023-11-03T01:21:18.374Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kristie Klock Wylie"
+            },
+            "reviewBody": "This was a great base recipe that I customized to our tastes. I added fresh garlic and Worcestershire sauce to the lean ground beef as I was frying it. I used beef broth instead of chicken and also added ground mustard and McCormick's Montreal Steak Seasoning since that is what I add to my burgers. All other ingredients were to the recipe. This recipe is definitely being added to my soup collection!",
+            "datePublished": "2023-11-22T11:30:45.929Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SandyWater8698"
+            },
+            "reviewBody": "Family loved it! Modified based on what i had on hand. Cooked some bacon, removed from pan and crumbed to be added back as an optional topping. Doubled carrots and celery, diced. Cooked in bacon dripping. Removed from pan, cooked 1lb burger, added minced garlic &amp; 1Tblsp italian seaoning, toasted for 1 min. Returned veggie mix to pan and added 1/2 cup flour., browned flour. Slowly added about 5 cups water, 3 Tblsps chicken bouillon and 4 tsps garlic powder and potatoes. Added 3/4 heavy cream and aboutv3 cups shredded cheddar.",
+            "datePublished": "2025-02-06T05:58:13.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jennifer"
+            },
+            "reviewBody": "Did not use butter when cooking hamburger and veggies, drained grease off prior to adding chicken broth &amp; potatoes. Added some mustard and tomato paste. Quick and easy dinner (with leftovers) for cold day. Will for sure make again!",
+            "datePublished": "2025-12-06T22:44:45.444Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "texmax"
+            },
+            "reviewBody": "It was really tasty. I had to substitute beef broth to save a trip to the store and I used 2/3 of a large block of Velveeta cheese and 1 pound of ground beef. It worked perfectly. This is the first soup that I have made without garlic added. Thank you for the recipe. And as we say here in Texas, for those who expected a cheeseburger, would complain if they were being hung with a new rope. Just make a cheeseburger and forget the soup.",
+            "datePublished": "2024-01-10T23:11:21.053Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kelly Fenwick"
+            },
+            "reviewBody": "Probably the best soup I've ever made! So good! I made a few changes. I added double the amount of ground beef, because it just didn't seem like enough. It was very strange that the recipe didn't call for salt and pepper, so I added a teaspoon each, plus oregano, plus a Tbsp or two of minced garlic. I used an entire box (900ml) of chicken stock. Once I tasted the cooked potatoes (I left the skins on BTW), I decided it was going to need more flavour, so I used some jalapeño Monterey Jack and some shredded taco mix cheese. The soup was so flavourful and delicious! I will definitely be making it again.",
+            "datePublished": "2019-11-10T18:41:39.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "alicia"
+            },
+            "reviewBody": "Im using everything but I am substituting beef for ground turkey.",
+            "datePublished": "2026-10-10T16:29:23.587Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "One of the best soups! My family loves it!",
+            "datePublished": "2026-09-28T11:39:43.031Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Theresa"
+            },
+            "reviewBody": "Soooo good! I garnished it with chopped pickles, has a nice crunch. Taste just like cheeseburger without the bun",
+            "datePublished": "2026-09-17T22:05:27.876Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Breanna"
+            },
+            "reviewBody": "Really delicious and filling soup! It is great after a chilly day. I added mild cheddar cheese, salt and pepper to taste. I will definitely be making this again!",
+            "datePublished": "2026-09-15T00:14:57.426Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LimeSauce6696"
+            },
+            "reviewBody": "Our family LOVES this soup! We made a giant batch and froze half to eat another night. My favorite soup used to be potato, but Cheeseburger soup just went to the top of the list!",
+            "datePublished": "2026-07-13T06:23:27.293Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Richard Stiles"
+            },
+            "reviewBody": "The only change was I didn't have any carrots. Even so, it was so good my 10 year old son said it was the best meal ever.",
+            "datePublished": "2026-07-07T03:10:30.778Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "Always on repeat! Love this recipe!",
+            "datePublished": "2026-06-12T17:23:52.940Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "shermdog1994"
+            },
+            "reviewBody": "My wife loves this recipe. I use heavy whipping cream instead of milk.",
+            "datePublished": "2026-05-24T17:20:25.278Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Asher"
+            },
+            "reviewBody": "this shi fire",
+            "datePublished": "2026-04-15T19:01:54.296Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13062/cheeseburger-soup-i/",
+          "name": "Cheeseburger Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/445/soups-stews-and-chili/soup/beef-soup/",
+                  "name": "Beef Soup Recipes"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

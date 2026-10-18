@@ -1,0 +1,474 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/18035/sweet-and-sour-meatloaf/",
+  "extracted_at": "2026-10-18T02:29:03.629266+00:00",
+  "recipes": [
+    {
+      "name": "Sweet and Sour Meatloaf",
+      "ingredients_raw": [
+        "1.5 pounds ground beef",
+        "1 cup dry bread crumbs",
+        "1 (15 ounce) can tomato sauce",
+        "2 eggs",
+        "1 teaspoon dried minced onion",
+        "1 teaspoon salt",
+        "0.25 teaspoon ground black pepper",
+        "0.5 cup white sugar",
+        "2 tablespoons brown sugar",
+        "2 tablespoons cider vinegar",
+        "2 teaspoons prepared mustard"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Combine ground beef, bread crumbs, 1/2 can tomato sauce, eggs, dried onion, salt, and black pepper in a large bowl until well mixed; transfer to a 9x5-inch loaf pan. Press the meatloaf into the pan, creating a slight well around the edges to hold the glaze."
+        },
+        {
+          "id": 3,
+          "text": "Bake uncovered in the preheated oven for 40 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Meanwhile, combine remaining 1/2 can tomato sauce, white sugar, brown sugar, vinegar, and mustard in a small saucepan over medium heat; bring to a boil, then remove from heat."
+        },
+        {
+          "id": 5,
+          "text": "Remove meatloaf from the oven and pour sauce over top."
+        },
+        {
+          "id": 6,
+          "text": "Return meatloaf to oven; continue to bake for 20 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Sweet and Sour Meatloaf",
+        "datePublished": "2008-06-30T19:10:59-04:00",
+        "dateModified": "2026-10-14T18:23:54-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "JOLO"
+          }
+        ],
+        "description": "Our family loves this meatloaf! It’s covered with a tangy sweet and sour sauce made on the stove. It is very good!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/OYWSKbF3BAQSrsSwHogqF57BjSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/58316-967edb2510704ff3b1f89020f2bcd71a.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Sweet and Sour Meatloaf",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "ratingCount": "408"
+        },
+        "cookTime": "PT60M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "547 kcal",
+          "carbohydrateContent": "38 g",
+          "cholesterolContent": "159 mg",
+          "fiberContent": "2 g",
+          "proteinContent": "24 g",
+          "saturatedFatContent": "13 g",
+          "sodiumContent": "988 mg",
+          "sugarContent": "25 g",
+          "fatContent": "33 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.5 pounds ground beef",
+          "1 cup dry bread crumbs",
+          "1 (15 ounce) can tomato sauce",
+          "2 eggs",
+          "1 teaspoon dried minced onion",
+          "1 teaspoon salt",
+          "0.25 teaspoon ground black pepper",
+          "0.5 cup white sugar",
+          "2 tablespoons brown sugar",
+          "2 tablespoons cider vinegar",
+          "2 teaspoons prepared mustard"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Combine ground beef, bread crumbs, 1/2 can tomato sauce, eggs, dried onion, salt, and black pepper in a large bowl until well mixed; transfer to a 9x5-inch loaf pan. Press the meatloaf into the pan, creating a slight well around the edges to hold the glaze."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake uncovered in the preheated oven for 40 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, combine remaining 1/2 can tomato sauce, white sugar, brown sugar, vinegar, and mustard in a small saucepan over medium heat; bring to a boil, then remove from heat."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Remove meatloaf from the oven and pour sauce over top."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Return meatloaf to oven; continue to bake for 20 minutes."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 (9x5-inch) meatloaf"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "I have had this recipe for years and everyone loves it. A couple of tips that have made this even better: bake the loaf in a larger casserole dish and double the sauce recipe - it's the best part! Since the loaf itself is just average, I use 1 lb ground sirloin and 1/2 lb hot italian sausage and I add about 1/2 cup or so of the fancy (thin) shredded sharp cheddar cheese. This has made a fantastic recipe even better. Also, for parties I have made meatballs instead of the loaf, baked them, and then put them in a crock pot with the double sauce recipe - always a big hit."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cyd Fiksel"
+            },
+            "reviewBody": "I followed the recipe almost 100%. Substituted apricot jam for honey and matzo meal for breadcrumbs but used less matzo meal because it denser. 2/3 cup of Matzo meal instead of 1 cup bread crumbs. Meatloaf had perfect texture. Combined all the meatloaf ingredients in the Cuisinart. Perfectly blended. I’ll keep making these for my family and friends. Not embarrassed to serve a meatloaf dinner anymore. 😋",
+            "datePublished": "2022-12-05T04:32:43.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy"
+            },
+            "reviewBody": "A great recipe, I just made a few small changes to suit my taste. 1) As others reviewers suggested, I eliminated the white sugar from the sauce and added a few more tsp of the brown sugar, 2) used 3/4 of the sauce to pour on the meatloaf while cooking (saved the remaining 1/4 for the table for guests to pour on as needed while eating) and for the meatloaf itself, used 1/4 cup regular ketchup, 3) drained the fat out of the pan before adding the sauce. It was yummy!",
+            "datePublished": "2017-04-11T17:19:15.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "My mother's recipe is similar. The meatloaf itself I use meatloaf mix(veal,beef and pork) giant food, acme sell this mix. I then add 1/2 can Hunt's tomato sauce, 2 eggs, 1cup of gluten free bread crumbs or Progresso Italian bread crumbs. Then 1/4 cup Parmesan cheese, I also use 1 small onion minced. S&amp;P, if use GF bread crumbs then use 1T Italian seasoning. Sauce the same but 2T stevia instead of sugar then pour on meatloaf in a 9 x 13 glass pan lightly buttered and bake at 350 degrees for 1 hour and 15 mins baste every 15 mins. By putting sauce on for the whole time it goes into meat and gives great flavor. If want gravy just doubled sauce and make from drippings . My favorite meatloaf. Great flavor.",
+            "datePublished": "2016-10-09T22:21:02.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CrispOrzo4121"
+            },
+            "reviewBody": "My mother's recipe is similar. The meatloaf itself I use meatloaf mix(veal,beef and pork) giant food, acme sell this mix. I then add 1/2 can Hunt's tomato sauce, 2 eggs, 1cup of gluten free bread crumbs or Progresso Italian bread crumbs. Then 1/4 cup Parmesan cheese, I also use 1 small onion minced. S&amp;P, if use GF bread crumbs then use 1T Italian seasoning. Sauce the same but 2T stevia instead of sugar then pour on meatloaf in a 9 x 13 glass pan lightly buttered and bake at 350 degrees for 1 hour and 15 mins baste every 15 mins. By putting sauce on for the whole time it goes into meat and gives great flavor. If want gravy just doubled sauce and make from drippings . My favorite meatloaf. Great flavor.",
+            "datePublished": "2016-10-09T22:21:02.960Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Merkin Muffly"
+            },
+            "reviewBody": "Sauce was way too sweet for me I like mine tangy. I left out the white sugar and replaced the 2 tbl of brown sugar with a 1/4 cup of brown sugar. For the meatloaf I replaced minced onion with real chopped onion that I sauteed in butter. I added a chopped red bell pepper and 1 tbl of mayonnaise. I also did not add the tomato sauce to the meatloaf mixture.",
+            "datePublished": "2016-01-21T19:56:33.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda K Miller"
+            },
+            "reviewBody": "I could not find my own recipe for sweet and sour meatloaf so I tried this one...way too sweet and way too much sauce! If I make it again, I will make it into a loaf ( not in a loaf pan) and make a trough in the top in which to pour some of the sauce. I’ll half the sugar and watch as I pour the sauce that I am not drowning the loaf. The meatloaf is tasty but we have to scrape the sauce off before eating it!",
+            "datePublished": "2018-12-21T15:21:52.520Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Karin'sKitchen"
+            },
+            "reviewBody": "This recipe is very similar to the meatloaf dinners my husband and I used to serve guests when we sold the famous Miracle Maid pan! You could cook a whole dinner in one electric pan in only 35 mins. The meat loaf was so easy = hamburger meat, chopped onion, tomato sauce, butter crackers, and 1 egg with salt &amp; pepper. On medium high heat we melted 1 stick of butter &amp; arranged halved potatoes, chopped carrots, and frozen Lima beans around the meatloaf - then placed cubed cabbage on top the veggies. Covered with the lid and turned it down to medium low for 35 mins. Wallah, a whole dinner ready in only 35 mins! Later on, we started baking the meatloaf separately topped with the same tomato sauce used in this recipe. Yum!",
+            "datePublished": "2025-07-19T22:47:14.226Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "rocknroller"
+            },
+            "reviewBody": "12/16/21: My 3rd time making this and I find the sweet/sour sauce combo makes for a nice topping with plenty of room for artistic touches of taste. 1st time making this got 3 stars. I find it helps to add a generous dash in the beef while mixing it. But adding in pineapple chunks and some of its juice while stirring the sauce is a very nice game changer. If you dare use spice--do so VERY carefully; I find, however, this recipe doesn't need jazzing up---Rockin' Roller.",
+            "datePublished": "2021-12-17T00:31:57.387Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Petite Chou"
+            },
+            "reviewBody": "If making with real meat, make sure to drain it after the initial cooking time. I actually prefer to make it veggie-style: Replace the ground beef with a 1 lb pkg of protein crumbles and then make up the extra difference with sautéed mushrooms, peppers, onions, and throw in some frozen cut up broccoli as well. It only has to cook 20 min before you put the sauce on since you're not cooking meat. You can also replace the sugars for Splenda blends with no real change in flavor. Incredible recipe!!",
+            "datePublished": "2010-01-26T06:00:46.580Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Amy Butterfield"
+            },
+            "reviewBody": "We absolutely love this meatloaf, and more specifically, THE SAUCE! When I make this dish, I only add 1 egg and only 1-2 tablespoons of tomato sauce to the meat. I also add 1/2-1 cup grated cheddar cheese and I add 2 minced fresh garlic cloves. For the sauce I add the remaining tomato sauce. I find by adding it to the meat, the meatloaf itself is just too mushy. And because I love the sauce so much, this way you have alot more of it! An excellent, easy and authentically \"homestyle\" dish.",
+            "datePublished": "2010-08-13T13:46:51.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cathy"
+            },
+            "reviewBody": "Love, love, love this recipe for meatloaf.",
+            "datePublished": "2025-10-17T19:25:31.397Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LivelyOnion8167"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-04-06T21:00:37.824Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CalmPlum7539"
+            },
+            "reviewBody": "I lost track of the timer and spilled some of the sauce out due to dropping the pan putting it back in... IT TURNED OUT GREAT 👍🏾 👌🏽 👏🏾 ☺️ 2👍🏾👍🏾",
+            "datePublished": "2025-03-12T02:52:43.993Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fitzy"
+            },
+            "reviewBody": "I made this and loved it, it was a bit sweet for me, but it had plenty of flavor. I served it with some fried cabbage, mashed potatoes and some mashed Turnip.",
+            "datePublished": "2025-02-23T23:02:00.466Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jimmie Johnson"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-02-18T14:09:27.200Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "TealBun6032"
+            },
+            "reviewBody": "I added lipton onion soup mix",
+            "datePublished": "2024-01-19T23:15:26.755Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SnazzyGyro5508"
+            },
+            "reviewBody": "Sweet and sour deliciousness!",
+            "datePublished": "2023-01-23T20:39:56.763Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlashyBrie2523"
+            },
+            "reviewBody": "It’s very easy. Simple ingredients and process with a big flavor. Our family loves it. It’s a great change from your everyday meatloaf.",
+            "datePublished": "2022-07-15T23:55:03.730Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jeff Brooks"
+            },
+            "reviewBody": "Very moist and delicious. Added just a touch of barbecue sauce to the meatloaf to give it some additional flavour.",
+            "datePublished": "2021-11-14T15:59:49.647Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/18035/sweet-and-sour-meatloaf/",
+          "name": "Sweet and Sour Meatloaf",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/256/main-dish/meatloaf/",
+                  "name": "Meatloaf Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/998/main-dish/meatloaf/beef-meatloaf/",
+                  "name": "Beef Meatloaf Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

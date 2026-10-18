@@ -1,0 +1,496 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/221069/spicy-orange-chicken/",
+  "extracted_at": "2026-10-18T03:12:21.450876+00:00",
+  "recipes": [
+    {
+      "name": "Spicy Orange Chicken",
+      "ingredients_raw": [
+        "1 cup orange juice",
+        "0.33333334326744 cup brown sugar",
+        "0.33333334326744 cup rice vinegar",
+        "2 tablespoons fish sauce",
+        "1 tablespoon soy sauce",
+        "1 tablespoon fresh ginger root, grated",
+        "1 teaspoon crushed red pepper flakes",
+        "2 pounds skinless, boneless chicken thighs, cut into chunks",
+        "1 bunch green onions, sliced, white parts and tops separated",
+        "4 cloves garlic, minced",
+        "2 tablespoons grated orange zest",
+        "1 red bell pepper, cut into 2 inch pieces",
+        "0.5 cup sugar snap peas",
+        "1 fresh jalapeno pepper, sliced into rings",
+        "1 bunch cilantro leaves, for garnish"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Whisk together orange juice, brown sugar, rice vinegar, fish sauce, soy sauce, ginger, and red pepper flakes in a large bowl."
+        },
+        {
+          "id": 2,
+          "text": "Mix in chicken pieces and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour."
+        },
+        {
+          "id": 3,
+          "text": "Drain chicken thoroughly in a colander, reserving marinade."
+        },
+        {
+          "id": 4,
+          "text": "Heat a large nonstick skillet over high heat. Cook and stir chicken in the hot skillet for 2 minutes; spoon out any excess liquid. Continue to cook and stir until chicken caramelizes, 6 to 7 minutes."
+        },
+        {
+          "id": 5,
+          "text": "Stir in white portions of green onions, garlic, and orange zest; cook and stir for 2 to 3 minutes. Pour in 1/2 of the reserved marinade; discard remaining marinade. Simmer until reduced and thickened, 3 to 4 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Stir in bell pepper, sugar snap peas, and jalapeño pepper; cook and stir until vegetables are warmed, about 2 minutes. Stir in green portions of green onions; cook and stir 1 minute."
+        },
+        {
+          "id": 7,
+          "text": "Remove from heat. Garnish with cilantro and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Spicy Orange Chicken",
+        "datePublished": "2012-04-09T18:38:12-04:00",
+        "dateModified": "2026-08-20T15:30:39-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "John Mitzewich",
+            "url": "https://www.allrecipes.com/author/chef-john/"
+          }
+        ],
+        "description": "Chef John’s version of the Chinese take-out favorite orange chicken is light, easy, and delicious.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/f4wuYQXxTB0oBLjddwH8asYWevI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3869480-d4cdff30513c454e846d43e198bac246.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/dh1JiOhN-7uK69qX5.mp4",
+          "description": "0370",
+          "duration": "PT6M45S",
+          "name": "Spicy Orange Chicken",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dh1JiOhN/poster.jpg?width=1280",
+          "uploadDate": "2021-07-22T14:17:23-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Spicy Orange Chicken",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "150"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "325 kcal",
+          "carbohydrateContent": "25 g",
+          "cholesterolContent": "103 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "31 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "627 mg",
+          "sugarContent": "18 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Asian Inspired"
+        ],
+        "recipeIngredient": [
+          "1 cup orange juice",
+          "0.33333334326744 cup brown sugar",
+          "0.33333334326744 cup rice vinegar",
+          "2 tablespoons fish sauce",
+          "1 tablespoon soy sauce",
+          "1 tablespoon fresh ginger root, grated",
+          "1 teaspoon crushed red pepper flakes",
+          "2 pounds skinless, boneless chicken thighs, cut into chunks",
+          "1 bunch green onions, sliced, white parts and tops separated",
+          "4 cloves garlic, minced",
+          "2 tablespoons grated orange zest",
+          "1 red bell pepper, cut into 2 inch pieces",
+          "0.5 cup sugar snap peas",
+          "1 fresh jalapeno pepper, sliced into rings",
+          "1 bunch cilantro leaves, for garnish"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Whisk together orange juice, brown sugar, rice vinegar, fish sauce, soy sauce, ginger, and red pepper flakes in a large bowl."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mix in chicken pieces and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Drain chicken thoroughly in a colander, reserving marinade."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat a large nonstick skillet over high heat. Cook and stir chicken in the hot skillet for 2 minutes; spoon out any excess liquid. Continue to cook and stir until chicken caramelizes, 6 to 7 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in white portions of green onions, garlic, and orange zest; cook and stir for 2 to 3 minutes. Pour in 1/2 of the reserved marinade; discard remaining marinade. Simmer until reduced and thickened, 3 to 4 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir in bell pepper, sugar snap peas, and jalapeño pepper; cook and stir until vegetables are warmed, about 2 minutes. Stir in green portions of green onions; cook and stir 1 minute."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/f4wuYQXxTB0oBLjddwH8asYWevI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3869480-d4cdff30513c454e846d43e198bac246.jpg"
+              }
+            ],
+            "text": "Remove from heat. Garnish with cilantro and serve."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT105M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JENNLANE1973"
+            },
+            "reviewBody": "crazy good. I forgot to add the fish sauce, skipped jalapeno and used on hand fresh vegetables ( celery carrots onion broccoli ) sauce is fantastic. orange zest is mandatory. Don't skip. Thanks for sharing"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bex Ciantelli"
+            },
+            "reviewBody": "Great recipe, easy to experiment with. After cutting the amount of orange juice (freshly squeezed) I let the chicken sit in the marinade and then I coated it in flour and fried it. Immediately after frying I put about a quarter of a white onion (nixing the green onion and Jalepanoes), grated the garlic, and then added all of that with the fried chicken in another skillet. Then I poured the whole rest of the marinade in about a minute later, added the red pepper and the peas to that and continuously mixed that all together for about 4.5 mins. End result served over white rice was delicious.",
+            "datePublished": "2014-06-26T20:09:59.090Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Emma Epps"
+            },
+            "reviewBody": "This was really good. I used a tablespoon of thai kitchen's roasted red chili paste in the marinade in place of the fish sauce and about half the brown sugar. Later in the recipe I decided to use all of the marinade for a sauce instead of half. I would definitely make this again.",
+            "datePublished": "2017-03-12T01:38:42.087Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baking Nana"
+            },
+            "reviewBody": "This was very welcome for dinner here. It was a tad sweet for me - but I am the odd-ball, everyone else loved it. I followed the recipe and method with the exception of finely chopping the jalapeno pepper. I did this is a heavy duty wok - really high heat and didn't have to spoon off any extra liquid from the chicken. I didn't need half of the marinade either. I used a large spoon and spooned a couple of spoonfulls of the marinade around the edge of the very hot wok - so the liquid would immediately come to a boil and thicken quickly. Thanks for a great recipe. Enjoy!",
+            "datePublished": "2012-04-25T19:15:17.163Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "nieves_victoria"
+            },
+            "reviewBody": "For a healthy version of this dish, the recipe is excellent. I did do a couple somethings slightly different. I used a splash of sesame oil to grease my pan and I marinated the chicken over-night instead of 1 hour. The end product was sweet, juicy, and flavorful! Definitely will make again.",
+            "datePublished": "2012-08-08T19:30:21.313Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tom Morgan"
+            },
+            "reviewBody": "Followed directions almost exactly. 1. Added more orange zest than called for. 2. Careful of Jalapino, I used two (love things hot). 3. Made in a wok w/splash of sesame oil. Served over jasmine rice (made with chicken broth, not water). Great orange flavor, looking forward to trying it with beef. It's a keeper for sure.",
+            "datePublished": "2015-11-04T15:15:25.920Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MollyMBK"
+            },
+            "reviewBody": "I experimented with the chicken part of this recipe today to use in a new dish that I made up! I marinated four cubed chicken breasts in the mixture exactly as listed, but I did not flour it or do the caramelizing process like the video suggested. I then cooked the chicken and added a green onion bunch, a red pepper, 20 fresh mushrooms, a can of pineapple chunks, two garlic cloves and a package of yakisoba noodles. YUM! My husband added some sweet chili sauce to his portion, along with some sesame seeds. We are thinking about making this again soon, but we'd leave out the noodles and instead add a few cashews and serve it over rice. The chicken was very flavorful and I anticipate using this recipe quite often from now on. Also, it provided me with a chance to purchase and cook with rice vinegar and fish sauce for the first time in my life! Thanks for broadening my horizons, Chef John!!",
+            "datePublished": "2014-09-27T19:39:57.930Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erica Miller"
+            },
+            "reviewBody": "The first time I made this, I made it exactly (can't really review a recipe if you don't use their recipe, right?!) -- and it's worth SIX stars. That said, it was too spicy for the kids -- so although we LOVE the heat, this time we eliminated the jalapeno and cut the red pepper flakes in half. Still has a kick, and it's STILL five-star worthy. I definitely agree with another reviewer that the orange zest is a must -- it really adds to the flavor. Don't skip that! :) You can also easily add fresh veggies that you have on hand, or those you love most in orange chicken. If you add carrots, I definitely recommend adding those with the first batch of veggies so they have an extra few minutes to cook. This truly tastes and looks like something out of a high-end restaurant, and it was so much easier than I thought it would be. It's become an instant family favorite!!",
+            "datePublished": "2016-05-22T14:11:32.050Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "zrink"
+            },
+            "reviewBody": "Ok, all of my 6 kids at this without complaining. That in itself makes this a keeper recipe. I left the jalapeno out, reduced the red pepper flakes to make a mild, kid-friendly version, and used ALL of the reserved marinade, thickened with a little cornstarch, to make the meal more 'saucy'. Hubby and I enjoyed it too!",
+            "datePublished": "2016-01-07T11:01:46.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ashley Kopenhefer-Hendry"
+            },
+            "reviewBody": "I made this for dinner tonight and it was very tasty! I did cook it in the crockpot instead of on the stove and omitted the orange zest(for my taste). I was pretty leary about the fish sauce but in the end I didn't get the strong taste or smell from it. I would have given 5 stars if it had lived up to the \"spicy\" factor.",
+            "datePublished": "2017-11-14T02:55:46.223Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Warrenjr527"
+            },
+            "reviewBody": "I tried this version of orange chicken because I enjoy spicy foods. Since I had 3 pounds of boneless chicken breasts,( instead of the 2 called for) (which I prefer to the legs) I used the handy recipe adjustment calculator to adjust the ingredients. It called for 1.5 jalapeno peppers. I used the whole 2 I had. Perhaps that was too much, because while it gave the dish a nice kick , the spice over powered the orange sweetness. So, if you want to enjoy both flavors easy does it on the heat.\nI also marinated the meat for several hours instead of the called for 1.\nIn any event Spicy Orange Chicken was a tasty change. The next time I will scale back the peppers.",
+            "datePublished": "2019-12-24T16:10:29.370Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "KeenMeal9652"
+            },
+            "reviewBody": "This is a great recipe! I've made it many times, and I don't change it up much. I generally add a little cornstarch slurry to the sauce in the pan, and I've used red onion when I can't find good green ones. The sugar snap peas really add a good crunch, so I definitely try to use/find those!",
+            "datePublished": "2026-05-30T21:38:57.906Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RoseMelt3934"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-13T22:06:56.399Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UpbeatFrog6331"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-26T14:02:18.761Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HotKiwi3118"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-01-12T23:38:26.639Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura Hernandez"
+            },
+            "reviewBody": "Delicious and I only changed one thing….red bell peppers per Chef John! Definitely add the red pepper flakes for spice! My husband said “sweet &amp; tangy”",
+            "datePublished": "2022-09-05T23:57:30.475Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kevin"
+            },
+            "reviewBody": "It's better than I thought it would be and it has a kick to it that's quite nice!",
+            "datePublished": "2022-08-16T23:13:18.107Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laurahallie"
+            },
+            "reviewBody": "This one's going on the heavy rotation list. I am usually not a fan of orange chicken as I've found most versions to be sickly sweet. Chef John's version is still kind of sweet, but much more subtle, and the sweetness meshes well with the spiciness and the fish/soy sauce flavors. Didn't make too many changes at all, although the reserved marinade took much longer than 3-4 minutes, as usual. As a result, I would wait to throw in the snap peas until it's clear that the sauce is almost ready. I served over white rice.",
+            "datePublished": "2022-05-23T23:05:15.127Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lori Fisher"
+            },
+            "reviewBody": "It was ok. Didn’t have the sticky sweet taste that we’re used to having at a restaurant.",
+            "datePublished": "2022-03-25T21:51:17.506Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gail S"
+            },
+            "reviewBody": "I cut the crushed red pepper in half and used chicken breasts instead of thighs. Next time I will add additional vegetables, like carrots. I would use all of the marinade so as to make more sauce.",
+            "datePublished": "2022-01-24T03:30:29.977Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/221069/spicy-orange-chicken/",
+          "name": "Spicy Orange Chicken",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+                  "name": "Global Cuisines"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+                  "name": "Asian"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

@@ -1,0 +1,411 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/14189/warm-shrimp-salad/",
+  "extracted_at": "2026-10-18T01:57:47.200520+00:00",
+  "recipes": [
+    {
+      "name": "Warm Shrimp Salad",
+      "ingredients_raw": [
+        "1 pound medium shrimp - peeled and deveined",
+        "2 tablespoons butter",
+        "2 lemons, juiced",
+        "2 heads butter lettuce",
+        "2 tomatoes, chopped",
+        "1 avocado - peeled, pitted and diced",
+        "2 stalks celery, chopped",
+        "1 cucumber, cleaned and chopped",
+        "0.5 cup shredded carrots",
+        "0.33333334326744 cup vinaigrette salad dressing"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "In a large saute pan melt butter over medium heat. Add the shrimp and lemon juice, cook until shrimp just turn pink. Remove from heat and drain."
+        },
+        {
+          "id": 2,
+          "text": "In a large bowl tear lettuce into bite-size pieces, add the tomatoes, avocado, celery, cucumber carrots and cooked shrimp, toss to combine. Top with your favorite dressing or vinaigrette."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Warm Shrimp Salad",
+        "datePublished": "1999-08-11T21:18:04-04:00",
+        "dateModified": "2026-04-11T17:03:36-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Liz Evans"
+          }
+        ],
+        "description": "The gently sauteed shrimp are combined with butter lettuce, tomatoes, avocado, cucumbers, and shredded carrots, and then topped with your favorite dressing.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/nIno-XqAzLgfsBIz9tNElE5S2Iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1959881-fc2874f140564ea289cead200a37e391.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Warm Shrimp Salad",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "33"
+        },
+        "cookTime": "PT15M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "460 kcal",
+          "carbohydrateContent": "29 g",
+          "cholesterolContent": "250 mg",
+          "fiberContent": "12 g",
+          "proteinContent": "37 g",
+          "saturatedFatContent": "7 g",
+          "sodiumContent": "566 mg",
+          "sugarContent": "9 g",
+          "fatContent": "26 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 pound medium shrimp - peeled and deveined",
+          "2 tablespoons butter",
+          "2 lemons, juiced",
+          "2 heads butter lettuce",
+          "2 tomatoes, chopped",
+          "1 avocado - peeled, pitted and diced",
+          "2 stalks celery, chopped",
+          "1 cucumber, cleaned and chopped",
+          "0.5 cup shredded carrots",
+          "0.33333334326744 cup vinaigrette salad dressing"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "In a large saute pan melt butter over medium heat. Add the shrimp and lemon juice, cook until shrimp just turn pink. Remove from heat and drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "In a large bowl tear lettuce into bite-size pieces, add the tomatoes, avocado, celery, cucumber carrots and cooked shrimp, toss to combine. Top with your favorite dressing or vinaigrette."
+          }
+        ],
+        "recipeYield": [
+          "3",
+          "4 servings"
+        ],
+        "totalTime": "PT25M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "Easy to make and a nice change from an ordinary salad. (Although it took longer than 10 minutes prep time -- maybe I chop slowly :-) It really impressed my girlfriend!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Erin Hughes"
+            },
+            "reviewBody": "Recipe was pretty good. Changes I made were omitting avocado, using 2 packets of TrueLime instead of the fruit, adding fresh spinach to the shrimp mixture as it was cooking, and adding the salad mixture to the skillet for the last few minutes. The lime and butter made a nice dressing.",
+            "datePublished": "2020-08-19T00:09:09.773Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sierra"
+            },
+            "reviewBody": "i added tomatoes and chives with the mixed lettuce of my choice and it turned out amazing after adding lemon juice and a substitute for lemons, for I didnt have any and also had pre cooked shrimp which worked with just lemon and baby shrimp.",
+            "datePublished": "2017-03-26T01:01:59.973Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Heather"
+            },
+            "reviewBody": "Really good - especially the recommended dressing in another comment (Mayo, sour cream, celery seed, etc). Very versatile!! Check your shrimp when thawing in the fridge - my salad was on the salty side and my husband asked if I had rinsed the shrimp since it can be frozen in a saline solution...I hadn’t. Original bag is gone to check.",
+            "datePublished": "2021-01-05T01:02:50.917Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LESLEY60"
+            },
+            "reviewBody": "This salad was easy and refreshing, plan to use it frequently during the summer. Only change was ommitting the celery. Made dressing out of 1/4 C mayo, 1/4 C sour cream, 3 tsp milk, 1 tsp salt, 1 tsp celery seed, 1 tsp garlic powder and black pepper to taste. In the end I added about 3 T of Newman's oil &amp; vinegar dressing to thin out just a bit. Delicious!",
+            "datePublished": "2011-04-27T10:32:05.553Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bernadette Drobny"
+            },
+            "reviewBody": "AHHHMAZING! I'm not really a salad kind of person but this was worth every ounce of effort. I added a T of capers to the shrimp mixture and used the liquid from the shrimp as dressing along with a homemade lemon vinaigrette. Made enough for 4 people. Loved it!",
+            "datePublished": "2013-05-02T15:28:32.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renecia Bihms-Cullier"
+            },
+            "reviewBody": "I made this for dinner last night and it was a winner! We've recently decided to get away from having meats on every evening and wanted to begin to include more veggies in our diet by eating more salads. We wanted to try something different and I ran across this recipe which looked very simple and we happened to have almost all of the ingredients in our house, with the exception of celery and cucumber. I prepared it on jumbo shrimp using my \"trinity\": Lawry's Seasoned Salt, Black Pepper and Garlic Powder. Then I added the lemon to it before sauteing and it was delicious and all of us ate every bit of it in one sitting with our own personal favorite dressings: Caesar Lite &amp; Italian!!!!!",
+            "datePublished": "2016-09-02T14:48:15.477Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LINDAGENE"
+            },
+            "reviewBody": "Awesome! I used ingredients on hand which included canned medium shrimp, Marketside (Walmart brand) Balsamic vinaigrette on the cold ingredients, and for fun I peeled a small orange I had and added it to the sauteed shrimp/onion/garlic mixture I had going on the stove. I didn't have celery, but I added two boiled eggs; even let my husband boil the eggs. I will make this again in a heartbeat. Thanks Lizard!!",
+            "datePublished": "2014-12-28T13:59:25.583Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rangel"
+            },
+            "reviewBody": "Great idea for an appetizer. I added old bay seasoning to the shrimp and used Vildia onion dressing. :)",
+            "datePublished": "2015-11-11T11:59:49.463Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LBLott"
+            },
+            "reviewBody": "This salad was delicious! I made a lemon vinaigrette dressing with olive oil and fresh lemon juice and just lightly covered everything. Anything else I was afraid would over power all the fresh flavors that come out of this salad.",
+            "datePublished": "2009-03-01T13:43:09.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gayle Leonard Moloney Foltz"
+            },
+            "reviewBody": "This was such an easy recipe, but sooo good. My husband normally like this kind of thing, but loved it.",
+            "datePublished": "2020-08-18T22:43:39.860Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ann Wassink Flansburg"
+            },
+            "reviewBody": "Great for Christmas Eve dinner. Made a French dressing... only the 3 yr old did not like the shrimp",
+            "datePublished": "2018-12-29T00:10:25.510Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine Callahan"
+            },
+            "reviewBody": "Great salad...very easy to make. Presentation very attractive and you can easily modify to meet personal taste preference...I.e. More avacado...more celery, etc. easy enough for mid week dinner. Attractive enough for company!!!",
+            "datePublished": "2017-07-13T13:42:45.893Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb C"
+            },
+            "reviewBody": "This was good but needed a little more jazz for us.",
+            "datePublished": "2015-08-31T14:06:41.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "naples34102"
+            },
+            "reviewBody": "This was creative not in terms of the ingredients or preparation necessarily, but it sure offered creativity when I was looking for something light, quick, easy, healthy, and still used ingredients I had at hand. It suited us just fine, thank you very much. We enjoyed it.",
+            "datePublished": "2015-01-17T17:53:25.707Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Wicksy"
+            },
+            "reviewBody": "Really tasty with my own homemade dressing...plain yogurt, dash of mayo, celery salt, garlic powder, Worcestershire sauce. Thanks for the idea!",
+            "datePublished": "2013-08-18T03:52:03.570Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sayda_g"
+            },
+            "reviewBody": "This was the first time we made this salad. Many of the ingredients were very standard. There was no \"wow\" factor. As mentioned in another review, we used the liquid from the sautéd shrimp as a dressing. This made the salad way too sour and lemony. All in all, the salad was okay but we probably wont make i again.",
+            "datePublished": "2013-08-13T19:15:30.420Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nubzzz83"
+            },
+            "reviewBody": "Sooo yummyyyyy made it for valentine's day the avocado and shrimp just made it so delicious easy to make too",
+            "datePublished": "2012-02-18T15:17:20.003Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Fegler"
+            },
+            "reviewBody": "Very good! I liked the simplicity of cooking the shrimp - just butter and lemon juice - so it comes together quickly. The warm shrimp contrasted nicely with the cool salad. We were about half way through dinner when we lost our power during Hurricane Irene. This will be one of those meals we won't forget! We'll definitely be enjoying it again soon, but hopefully under more peaceful circumstances.",
+            "datePublished": "2011-08-31T11:12:32.077Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/14189/warm-shrimp-salad/",
+          "name": "Warm Shrimp Salad",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/96/salad/",
+                  "name": "Salad"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

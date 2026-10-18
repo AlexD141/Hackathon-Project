@@ -1,0 +1,592 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/222588/strawberry-cheesecake/",
+  "extracted_at": "2026-10-18T03:16:19.074879+00:00",
+  "recipes": [
+    {
+      "name": "Strawberry Cheesecake",
+      "ingredients_raw": [
+        "1.25 cups graham cracker crumbs",
+        "0.33333334326744 cup butter, melted",
+        "0.25 cup white sugar",
+        "2 teaspoons ground cinnamon",
+        "2 (10 ounce) packages frozen sweetened sliced strawberries, thawed and drained",
+        "1 tablespoon cornstarch",
+        "3 (8 ounce) packages cream cheese, softened",
+        "1 (14 ounce) can sweetened condensed milk",
+        "0.25 cup lemon juice",
+        "0.5 teaspoon vanilla extract",
+        "3 eggs",
+        "1 tablespoon water"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "To make the crust: Combine graham cracker crumbs, butter, sugar, and cinnamon in a bowl; mix well. Press onto the bottom of an ungreased 9-inch springform pan. Place in the refrigerator to chill for 30 minutes. Preheat the oven to 300 degrees F (150 degrees C)."
+        },
+        {
+          "id": 3,
+          "text": "To make the filling: Place strawberries and cornstarch into a blender; cover and puree until smooth."
+        },
+        {
+          "id": 4,
+          "text": "Pour strawberry sauce into a saucepan and bring to a boil over high heat. Boil and stir until sauce is thick and shiny, about 2 minutes. Set aside 1/3 cup strawberry sauce; cool. Cover and refrigerate remaining sauce for serving."
+        },
+        {
+          "id": 5,
+          "text": "Beat cream cheese in a mixing bowl with an electric mixer until light and fluffy; gradually beat in condensed milk. Mix in lemon juice and vanilla extract, then beat in eggs on low speed until just combined."
+        },
+        {
+          "id": 6,
+          "text": "Pour 1/2 of the cream cheese mixture over crust; drop 1/2 of the reserved strawberry sauce by 1/2 teaspoonfuls on cream cheese layer."
+        },
+        {
+          "id": 7,
+          "text": "Carefully spoon remaining cream cheese mixture over sauce; drop remaining strawberry sauce by 1/2 teaspoonfuls on top."
+        },
+        {
+          "id": 8,
+          "text": "Cut through the top layer only with a knife to swirl strawberry sauce."
+        },
+        {
+          "id": 9,
+          "text": "Bake in the preheated oven until the center is almost set, 45 to 50 minutes."
+        },
+        {
+          "id": 10,
+          "text": "Cool on a wire rack for 10 minutes. Carefully run a knife around the edge of the pan to loosen; cool for 1 hour at room temperature. Refrigerate at least 4 hours to overnight before serving."
+        },
+        {
+          "id": 11,
+          "text": "Serve reserved strawberry sauce with cheesecake. If sauce is too thick, stir in water."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Strawberry Cheesecake",
+        "datePublished": "2020-06-18T23:49:39-04:00",
+        "dateModified": "2026-03-04T12:46:44-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Kathy Higgins"
+          }
+        ],
+        "description": "This creamy strawberry cheesecake has a crisp graham cracker crust and swirls of sweet strawberry sauce baked without a water bath for a dreamy dessert.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/iENPdiZ94wXS_ew1lxw_Vak3RUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-4x3-5a342f7e9d7f485884f4b0aca7a0cd1d.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/yYa1Wm5Q-ma1DlVvV.mp4",
+          "description": "This creamy strawberry cheesecake is perfect for any special occasion! The beautiful purple-red color cuts through the white, and looks just as amazing as it tastes! A fruit filling offers this rich dessert a refreshing addition to such a decedent treat. Enjoy on your own, or take it with you to your next gathering. ",
+          "duration": "PT2M3S",
+          "name": "Strawberry Cheesecake",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yYa1Wm5Q/thumbnails/4EoNXb0w.jpg?width=1280",
+          "uploadDate": "2021-07-06T04:40:48-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Strawberry Cheesecake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "332"
+        },
+        "cookTime": "PT50M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "459 kcal",
+          "carbohydrateContent": "42 g",
+          "cholesterolContent": "133 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "9 g",
+          "saturatedFatContent": "18 g",
+          "sodiumContent": "315 mg",
+          "sugarContent": "34 g",
+          "fatContent": "30 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT20M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1.25 cups graham cracker crumbs",
+          "0.33333334326744 cup butter, melted",
+          "0.25 cup white sugar",
+          "2 teaspoons ground cinnamon",
+          "2 (10 ounce) packages frozen sweetened sliced strawberries, thawed and drained",
+          "1 tablespoon cornstarch",
+          "3 (8 ounce) packages cream cheese, softened",
+          "1 (14 ounce) can sweetened condensed milk",
+          "0.25 cup lemon juice",
+          "0.5 teaspoon vanilla extract",
+          "3 eggs",
+          "1 tablespoon water"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/HUX44KKmbgahwYs33cS2cFKZ71s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-01-726d622e242b47d8b7205e6c26c1cdc8.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3V5aieBb8biojfgKQ0tO3Mzgu10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-02-12428d9c9a604275ba00a1140e5f5192.jpg"
+              }
+            ],
+            "text": "To make the crust: Combine graham cracker crumbs, butter, sugar, and cinnamon in a bowl; mix well. Press onto the bottom of an ungreased 9-inch springform pan. Place in the refrigerator to chill for 30 minutes. Preheat the oven to 300 degrees F (150 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/L0M8IfiT8sf2LBWXbnGtLvt1Rpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-03-525ca7affc844acf919ef9f2cf58c7f2.jpg"
+              }
+            ],
+            "text": "To make the filling: Place strawberries and cornstarch into a blender; cover and puree until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/Tri7lxi3pWQtLfLE8v5tdu8N2rI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-04-c437d65285814c90967b0ddcef092f60.jpg"
+              }
+            ],
+            "text": "Pour strawberry sauce into a saucepan and bring to a boil over high heat. Boil and stir until sauce is thick and shiny, about 2 minutes. Set aside 1/3 cup strawberry sauce; cool. Cover and refrigerate remaining sauce for serving."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/dZlAkOFg8k6XDfd_c_4iLrf2YIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-05-b07b9f949f36456384f381ac177db619.jpg"
+              }
+            ],
+            "text": "Beat cream cheese in a mixing bowl with an electric mixer until light and fluffy; gradually beat in condensed milk. Mix in lemon juice and vanilla extract, then beat in eggs on low speed until just combined."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/XDUDaaWTB-GqvTTVLx1Vebhqyd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-06-fcb16826d50b40c4bd4878c52eeb94b4.jpg"
+              }
+            ],
+            "text": "Pour 1/2 of the cream cheese mixture over crust; drop 1/2 of the reserved strawberry sauce by 1/2 teaspoonfuls on cream cheese layer."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/V10IVrp0xCjvWtjhzjEd70GCkSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-07-ec40e7f225d04a86bcbbf95976c5e582.jpg"
+              }
+            ],
+            "text": "Carefully spoon remaining cream cheese mixture over sauce; drop remaining strawberry sauce by 1/2 teaspoonfuls on top."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/5Kd_9N7pu2uTX0aTzdtUtnsK0b8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-08-d230455b6a2249cfb4c8c8a2ec8518a1.jpg"
+              }
+            ],
+            "text": "Cut through the top layer only with a knife to swirl strawberry sauce."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/lBNtR57_OtPLhHw_-Bl0qfUtLW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-09-10-eeaaabff3de44712a20c4ed0f2357946.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until the center is almost set, 45 to 50 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/ToeMhRvuUhIqo-H2_xvJ3SxReBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-Step-11-1dcd555e13e149cfbaf33a32190c09d6.jpg"
+              }
+            ],
+            "text": "Cool on a wire rack for 10 minutes. Carefully run a knife around the edge of the pan to loosen; cool for 1 hour at room temperature. Refrigerate at least 4 hours to overnight before serving."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/iENPdiZ94wXS_ew1lxw_Vak3RUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222588-Strawberry-Cheesecake-DDMFS-4x3-5a342f7e9d7f485884f4b0aca7a0cd1d.jpg"
+              }
+            ],
+            "text": "Serve reserved strawberry sauce with cheesecake. If sauce is too thick, stir in water."
+          }
+        ],
+        "recipeYield": [
+          "12",
+          "1 (9-inch) cheesecake"
+        ],
+        "totalTime": "PT350M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "crwhitney"
+            },
+            "reviewBody": "This is a great cheesecake recipe! Very creamy and delicious. A couple suggestions: only use 1/2 a teaspoon of cinnamon as it is a very potent spice and 2 whole teaspoons makes the crust extremely sweet. You can also use natural unsweetened strawberries either frozen or fresh and the cheesecake tastes just as good!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kim"
+            },
+            "reviewBody": "This cheesecake is PHENOMENAL!! Oh my gosh it's sooo good! Creamy, decadent, not-to-sweet, and the little hit of strawberry takes it over the top. I have never made a cheesecake using sweetened condensed milk before, and I think I'm a convert! The resulting smoothness from adding it just beyond. I did have to make a few adjustments to this recipe--mainly to the crust and the strawberry filling. I only used 1/4 tsp cinnamon and 2 tbsps sugar in the crust; and I prebaked it for 15 minutes at 350. I let it cool, and then poured the cheesecake filling on it. I would definitely do that again, as the crust came out perfectly, with no sogginess. As for the strawberry filling: made as written, it didn't work for me. The strawberry sauce was far too thick, and no amount of water would thin it enough. So I made a different version: I placed a couple cups of unsweetened frozen sliced strawberries, a little sugar, and some lemon juice in a saucepot over medium heat. Once the strawberries defrosted all the way, I mashed them with a potato masher, then pressed the mixture through a fine mesh strainer. I poured the strained juice back into the pot, and added a corn starch slurry of 1 TEASPOON corn starch mixed with a bit of water. Stirred that into the strawberry juice and let that boil until slightly thickened. That worked much better as a strawberry filling for me. I followed the cheesecake portion of the recipe (and the baking of it) exactly as the recipe stated. I love love love the result! Beautiful, stunning, amazing, delicious cheesecake! Thank you for sharing your recipe!",
+            "datePublished": "2023-12-07T20:21:38.100Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Big Dave"
+            },
+            "reviewBody": "Too many have made this and raved over it but mine cracked horribly as it cooled. But it looks pretty, has an amazing flavor and a nice creamy texture as compared to most. I agree with one reader, 1 tsp of cinnamon in the crust is plenty.\n\nI make cheesecakes all the time but mine take 5 hours in a low oven of 200°F. They come out so creamy and stay flat. I have to give this 4 stars because it took forever for the center to even get close to setting which is 163°F (allows for carry-over baking to reach 165°F). After an hour, a test probe far from center came out wet. After that I used a digital thermometer. My oven is calibrated and spot on regarding baking temperatures.\n\nOn a positive ending note, I like the technique of the swirl in the center (I'm just not creative at all), and the sauce. I used fresh strawberries and sweetened them to just slightly tart to contrast with the sweetness of the custard. \n\nSo, in all fairness, I'll try this recipe again only in a low, 200°F oven for 4 - 5 hours and see how it works regarding appearance - flavor-wise this is delicious! Win some - lose some. Never say die!",
+            "datePublished": "2018-05-28T13:53:53.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine Gibson"
+            },
+            "reviewBody": "Friends raved over the crust. I made in a cupcake tin and formed a dense crust by placing a tbsp of crust mix in each cup and pressed the mix down using a 1/4 cup sized measuring cup. Still chilled it but used a 1/3 cup sized of batter in each cup and layered the top w fruit puree. Baked for 20-25 just until the cheesecake set. Was great for single serve portions.",
+            "datePublished": "2025-08-22T18:58:59.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shadowa Twillight"
+            },
+            "reviewBody": "The recipe is fairly vague when it comes to cooking, and when you should pull the cheesecake out. Plus, I would add that you should put a cookie sheet underneath the Cheesecake in the oven, to catch any melted butter from the pan. Also, unless you have a convection oven, you need to turn the cake about every 10 minutes to ensure an even bake.\nWhen it comes to separating the cake from the spring-form pan, use a hot knife first, then go back for a second time and just run a plastic knife around the edge to be sure.\nAll things considered, it is a fairly good recipe.",
+            "datePublished": "2020-06-15T00:14:31.130Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "WobblyLeek5816"
+            },
+            "reviewBody": "not bad however I suggest make the puree differently, put it frozen strawberries, 2 tbsp of sugar and a squeeze of lemon on a pot and mash or blend once soft with a tbsp or cornstarch. Optionally put back on heat. Personally worked way better than how it says on recipe and I’ve made this 3 times.",
+            "datePublished": "2024-11-12T06:48:31.405Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cinny Li"
+            },
+            "reviewBody": "It turned out great. But for me I didn’t add the eggs and lemon juice and just baked it for 10 minutes at 300 degrees. It still turned out really good because I froze it before serving which makes the crust more crunchy. Also I added a bit less sugar in the crust because for my crust I used a sweeter biscuit. But overall this is a great recipe!",
+            "datePublished": "2018-05-20T16:11:58.697Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lorilee Hellums"
+            },
+            "reviewBody": "I used sweet canned cherries instead of strawberrys and poured it on top instead of swirling. It was a simple, easy recipe and it was really good. Not to sweet.",
+            "datePublished": "2020-09-22T17:59:53.250Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cookin' With Lukie"
+            },
+            "reviewBody": "This is my fave strawberry cheesecake! I use fresh berries and add a touch of Splenda instead of using frozen, sweetened berries. For a thinner crust, I crush a few almond cookies in a blender, spray my spring form pan with Pam, add the cookie crumbs to the pan, then tap them to cover the bottom and sides. That adds just enough of a 'crust' for us. It also makes a pretty presentation when the cheesecake peeks through the crumbs. I'll be serving this cheesecake for our anniversary!",
+            "datePublished": "2018-06-02T22:22:50.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "redhed54"
+            },
+            "reviewBody": "I like this recipe but I only had fresh strawberries, so I used about 2 lbs of berries and added 1/2 cup sugar along with the other ingredients in the sauce. It turned out very pretty!",
+            "datePublished": "2020-04-11T23:48:11.913Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Corey Butler"
+            },
+            "reviewBody": "This was a great recipe! Using this every time I have the urge to bake. Everyone loved it! I didn’t have condensed milk on hand so I used 1 cup of sour cream with 3/4 cup of granulated sugar and it came out great! This is considered a great substitution after doing some quick research. Thanks for sharing this recipe!!",
+            "datePublished": "2026-01-04T04:15:44.442Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Vicky Payne"
+            },
+            "reviewBody": "It’s great would use it again.",
+            "datePublished": "2026-02-16T16:21:50.716Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RoseBean6399"
+            },
+            "reviewBody": "I didn't make any changes. Made it for a friend 25th birthday.",
+            "datePublished": "2026-01-23T13:38:11.403Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Durga"
+            },
+            "reviewBody": "Stick to the recipe and it will be a hit. First time made it and was a hit. Thank you!",
+            "datePublished": "2026-01-01T14:17:21.505Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Laura W"
+            },
+            "reviewBody": "I’ve made this cheesecake twice a year, every year - for my stepdaughter’s birthday and for Christmas, for the last 8 years! Everyone loves it! Sometimes I make swirls with the strawberries, but sometimes I use them to “write” my daughter’s age on top for her birthday or draw a Christmas themed picture for Christmas. I’m not very artistic so you wouldn’t be able to sell it in a store, but it’s fun to do!",
+            "datePublished": "2025-12-21T00:34:54.511Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brian"
+            },
+            "reviewBody": "I followed the recipe and had way too much filling. Even if I used a 10\" cake pan, it would have been too much. So much that I put the extra cream cheese &amp; strawberry sauce in a ceramic casserole dish and baked it alongside the cheesecake. If I used 2/3 of the ingredients as listed it would have been just right for a 9\" pie.",
+            "datePublished": "2025-12-14T20:40:44.725Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ndag"
+            },
+            "reviewBody": "Excellent recipe! I didn’t layer the strawberry, I made raspberry coulis hearts instead, but the actual cheesecake tasted just how we love it!",
+            "datePublished": "2025-11-25T14:24:45.541Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chris"
+            },
+            "reviewBody": "It turned out perfect!",
+            "datePublished": "2025-10-13T00:02:19.852Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "taylor"
+            },
+            "reviewBody": "This was my first time ever making cheesecake and it was so easy to make! It turned out so good and the strawberry sauce is amazing!",
+            "datePublished": "2025-09-24T04:21:59.934Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Charles"
+            },
+            "reviewBody": "Tastes great! First time making a cheesecake and this recipe was an easy first! I did however have to make double the crust to even get anywhere full on my pie dish. And I also had way too much cheesecake batter and strawberry sauce. Had to bake mine for about 65 minutes to set. Guess I'll just make more crust and make little muffin-sized cheesecakes with the extras. Would make again, with these tweaks.",
+            "datePublished": "2025-08-16T03:24:59.014Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/222588/strawberry-cheesecake/",
+          "name": "Strawberry Cheesecake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/276/desserts/cakes/",
+                  "name": "Cakes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/387/desserts/cakes/cheesecake/",
+                  "name": "Cheesecake Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

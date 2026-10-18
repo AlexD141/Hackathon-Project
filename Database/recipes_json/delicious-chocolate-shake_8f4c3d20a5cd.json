@@ -1,0 +1,393 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/21603/delicious-chocolate-shake/",
+  "extracted_at": "2026-10-18T02:59:02.523335+00:00",
+  "recipes": [
+    {
+      "name": "Delicious Chocolate Shake",
+      "ingredients_raw": [
+        "2 scoops chocolate ice cream",
+        "2 tablespoons powdered chocolate drink mix",
+        "1 cup milk"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Combine ice cream, drink mix powder, and milk in a blender. Blend until smooth."
+        },
+        {
+          "id": 2,
+          "text": "Pour into glasses and serve."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Delicious Chocolate Shake",
+        "datePublished": "2000-06-11T11:43:03-04:00",
+        "dateModified": "2022-06-22T15:43:44-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Stef"
+          }
+        ],
+        "description": "This quick, easy choco shake recipe makes a creamy, luscious chocolate shake!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/cjdl-vh_JqfjnxhNfayoZjARBT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/650936-4066411704c243348c8ff5637d7a2978.jpg",
+          "height": 250,
+          "width": 250
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Delicious Chocolate Shake",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "28"
+        },
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "253 kcal",
+          "carbohydrateContent": "32 g",
+          "cholesterolContent": "34 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "10 g",
+          "saturatedFatContent": "6 g",
+          "sodiumContent": "153 mg",
+          "sugarContent": "30 g",
+          "fatContent": "10 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Drink"
+        ],
+        "recipeIngredient": [
+          "2 scoops chocolate ice cream",
+          "2 tablespoons powdered chocolate drink mix",
+          "1 cup milk"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Combine ice cream, drink mix powder, and milk in a blender. Blend until smooth."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Pour into glasses and serve."
+          }
+        ],
+        "recipeYield": "1",
+        "totalTime": "PT10M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Allrecipes Member"
+            },
+            "reviewBody": "This was a really quick recipe. My kids loved it.Since im so busy sometimes I don't have much time to make them something they like that is very easy and fun to make together."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenn Harmon Jones"
+            },
+            "reviewBody": "The question is \"how big is a scoop?\" I added 2 huge scoops and less milk because I like a nice and thick chocolate shake. It was just right with a dollop of whipped cream on top. Yummy! I might add some Peppermint drops next time for a minty version.",
+            "datePublished": "2013-03-03T21:52:24.383Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kismet"
+            },
+            "reviewBody": "I used 2 individual Blue Bell cups and it was yummy. I would probably use half a cup of milk so that it's a little thicker for me. Quick, easy, cheap, and good...can't beat it.",
+            "datePublished": "2012-05-20T15:17:31.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "zozo3641"
+            },
+            "reviewBody": "I love this recipe. What i did extra was add a small scoop of vanilla ice cream and then drizzled some chocolate sauce. This is AWESOME",
+            "datePublished": "2009-07-18T08:42:13.227Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "t4k"
+            },
+            "reviewBody": "This is a really good recipe. I love it on a hot day. I like to add chocolate syrup and a little more ice cream/powder. Also, I use carnation instant breakfast chocolate powder so it is somewhat healthy. Delicious!",
+            "datePublished": "2007-04-23T12:30:28.530Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "PENNYPIE"
+            },
+            "reviewBody": "This was absolutely delicious! I've made this one several times now. Sometimes, I add melted dark chocolate chips plus Nesquik...for the chocoholics in my family! Thanks!!!",
+            "datePublished": "2005-06-25T11:43:31.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mollie"
+            },
+            "reviewBody": "Made this for the kids, topped with low-fat whipped cream and couple choc shavings and they absolutely loved it!!!!",
+            "datePublished": "2010-08-09T17:46:13.377Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "xxThePerfectMistakexx"
+            },
+            "reviewBody": "I didn't have chocolate icecream so I used vanilla icecream and some hot coco mix. It was delicious! I definitally will make it again for my parents.",
+            "datePublished": "2009-06-29T16:03:58.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "xXw33t cupck3Xx"
+            },
+            "reviewBody": "this tasted awesome i doubled the original recipe and used sleeping bear dunes bear hugs ice cream instead of chocolate but it is a type of chocolate\nand tasted yummy!!!!!!",
+            "datePublished": "2007-06-02T12:16:32.610Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nick Ernst"
+            },
+            "reviewBody": "This recipe was way too thin, and was closer to chocolate milk than a shake. I had to use 3x the ice cream called for and even then it wasn't really thick enough.",
+            "datePublished": "2019-02-18T05:04:39.630Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nancy Hammond"
+            },
+            "reviewBody": "Followed the recipe and it came out great. Not too thick, not too thin; perfect drinking consistency, rich chocolate taste.",
+            "datePublished": "2017-09-24T14:56:16.473Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele"
+            },
+            "reviewBody": "it was the BEST milkshake that i have tasted and my kids loved it!!!!!!!!!!!!!!!!!",
+            "datePublished": "2015-12-22T18:28:34.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "emily407"
+            },
+            "reviewBody": "this is so easy I added whipped cream on top mwwwwwwa perfecto loved it",
+            "datePublished": "2014-11-28T23:15:39.407Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Austin Roop"
+            },
+            "reviewBody": "TRY THIS WITH MOOSE TRACKS!!! IT IS HEAVENLY!!!",
+            "datePublished": "2014-07-27T03:23:05.770Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "michael"
+            },
+            "reviewBody": "A little light. I'd prefer a bit thicker",
+            "datePublished": "2014-06-23T10:07:17.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Deb C"
+            },
+            "reviewBody": "Super simple, super good.",
+            "datePublished": "2011-06-05T10:35:14.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "516516"
+            },
+            "reviewBody": "Awesome Shake! It is great!",
+            "datePublished": "2010-04-03T16:25:31.840Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jenna"
+            },
+            "reviewBody": "Tasted like melted ice cream... don't use a hand mixer.",
+            "datePublished": "2009-07-22T14:53:11.637Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/21603/delicious-chocolate-shake/",
+          "name": "Delicious Chocolate Shake",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/77/drinks/",
+                  "name": "Drinks Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/137/drinks/shakes-and-floats/",
+                  "name": "Shakes and Floats Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/135/drinks/shakes-and-floats/chocolate/",
+                  "name": "Chocolate"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

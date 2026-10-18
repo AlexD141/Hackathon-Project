@@ -1,0 +1,439 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/218074/basil-garlic-grilled-pork-chops/",
+  "extracted_at": "2026-10-18T03:03:49.911776+00:00",
+  "recipes": [
+    {
+      "name": "Basil Garlic Grilled Pork Chops",
+      "ingredients_raw": [
+        "4 (8 ounce) pork chops",
+        "1 lime, juiced",
+        "4 cloves garlic, minced",
+        "0.25 cup chopped fresh basil",
+        "salt and black pepper to taste"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Toss pork chops with lime juice in a bowl until evenly covered. Toss with garlic and basil. Season chops to taste with salt and pepper. Set aside to marinate for 30 minutes."
+        },
+        {
+          "id": 2,
+          "text": "Preheat an outdoor grill for medium heat, and lightly oil the grate."
+        },
+        {
+          "id": 3,
+          "text": "Cook pork chops on the preheated grill until no longer pink in the center, 5 to 10 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Basil Garlic Grilled Pork Chops",
+        "datePublished": "2018-06-08T09:58:37-04:00",
+        "dateModified": "2026-08-12T11:59:17-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gina-Li"
+          }
+        ],
+        "description": "These basil pork chops are thick, juicy, and coated in a simple lime juice, fresh basil, and fresh garlic marinade. Everyone will love these!",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/ACQlMrIG9_Cr3NVTgu6E1lAKOb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/668521-386b6421082c49db9258145cd7fcf509.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Basil Garlic Grilled Pork Chops",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.4",
+          "ratingCount": "194"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "324 kcal",
+          "carbohydrateContent": "3 g",
+          "cholesterolContent": "131 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "50 g",
+          "saturatedFatContent": "4 g",
+          "sodiumContent": "83 mg",
+          "sugarContent": "0 g",
+          "fatContent": "11 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner",
+          "Entree"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "4 (8 ounce) pork chops",
+          "1 lime, juiced",
+          "4 cloves garlic, minced",
+          "0.25 cup chopped fresh basil",
+          "salt and black pepper to taste"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Toss pork chops with lime juice in a bowl until evenly covered. Toss with garlic and basil. Season chops to taste with salt and pepper. Set aside to marinate for 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Preheat an outdoor grill for medium heat, and lightly oil the grate."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cook pork chops on the preheated grill until no longer pink in the center, 5 to 10 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+          }
+        ],
+        "recipeYield": [
+          "4",
+          "4 pork chops"
+        ],
+        "totalTime": "PT50M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele"
+            },
+            "reviewBody": "FANTASTIC! I just made this for dinner tonight, and wow was it tasty! I like a little extra lime flavor, so I juiced 2 limes instead of one. I mixed the lime juice, garlic, basil, salt, and pepper together all at once, then put them in a ziplock type freezer bag. I trimmed the pork, then added it to the marinade. I let it marinade for about 5-6 hours.\nWhat a tasty dinner! Thank you for posting it!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Lcwmom1"
+            },
+            "reviewBody": "Very moist and nice lime flavor. I used 2 limes as another person suggested. I even overcooked it and it was still great. I marinated for about 2 hours then \"grilled\" them on a grill pan on the stove getting nice grill marks on both sides. Then I popped the pan in the oven at 350 degrees til it registered 160. I. Will definitely make it again since I love basil and my basil plant is prolific!",
+            "datePublished": "2018-07-12T03:05:31.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "janhahn"
+            },
+            "reviewBody": "I added olive oil along with the lime juice. The pork chops grilled just perfect. I had the grill on the lower flame and did the indirect approach, slower grilling. Good flavor, family liked them, will make again.",
+            "datePublished": "2018-07-13T17:08:26.900Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stefan"
+            },
+            "reviewBody": "I made this way, it was good, but not a huge lime fan. Substituted the lime with EV Olive Oil and Balsamic Vinegar. Place all flat on a dish, ziplock, or, I prefer a large tupperware because I can bring stuff back in the house with it.First put a little EVOL on the chops, then salt and pepper, garlic, basil, flip, repeat. Drizzle each side with Balsamic, spread with a spoon or finger, just cover each side, a little goes a long way. Let it sit in the fridge or counter covered for at least 30 minute, longer is better. Take it out of the fridge and let it hit room temp, 15 minutes or more while the grill heats to high for thick (greater than 3/4 inch) chops. One minute on high covered, flip, one minute on the other side on high. Then, lower to medium, turn each chop a half turn for grill marks, 3 minutes. Then lower a bit more or stay at medium if preferred, grill opposing side with complimentary grill marks 4 minutes...remove from heat, place in tupperware, cover, let sit at least 5 minutes, longer better, let the juices run. A little longer for super thick chops at the lower settings is OK, but not really necessary, they continue to cook while they rest covered. I make chops with anything though, beer, Coke, Root Beer, Ginger Ale, coffee, any juice, hot peppers (Ghost peppers almost killed me in a goodish way and peppers were fully removed, used only to marinade), brown sugar, rubs, etc...but as this recipe stands, it is good on chops if you like lime.",
+            "datePublished": "2018-07-07T02:56:20.717Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SycamoreMan"
+            },
+            "reviewBody": "This is the best pork chop marinade ever. I bought 2 of the bone in chops - about 14 ounces each - used the juice of 2 limes, added a 1/4 cup of vegetable oil as another user suggested, a dash of red pepper flakes, and marinated for 2+ hours in fridge. The pork was most tender - much like a tenderloin. Will definitely make again",
+            "datePublished": "2018-07-12T11:48:56.833Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandra Weisgerber"
+            },
+            "reviewBody": "Finally had a chance to make this recipe. Used fresh pork chops and marinated overnight; using 1 extra clove of garlic (5 total) using up what I had on hand. Cooked the chops indoors with my grill pan since it is raining out side and I think it kept the meat juicier. Everyone loved it; very flavorful, will definitely make this again.",
+            "datePublished": "2018-11-08T00:05:37.203Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Fran Scalise"
+            },
+            "reviewBody": "This recipe was delicious. I did not make it on the outdoor grille, though. I cooked it in my oven on the BROIL setting for about 12 minutes in total. I used fresh basil from my herb garden.",
+            "datePublished": "2018-07-11T22:09:57.617Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "grammy"
+            },
+            "reviewBody": "This is a great recipe. I marinated 7 chops, so used 1/2 cup chopped basil, 4 cloves of garlic and 2 limes. It was plenty of garlic for me, and I like garlic. Mixed everything together and marinated in a zip lock bag for three hours, turning frequently. So good, made for company and they were a big hit. Served with twice baked potatoes, also in allrecipes.",
+            "datePublished": "2011-09-05T18:06:16.437Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dafishman"
+            },
+            "reviewBody": "great great flavour!.... I changed up a bit and brined (prior to marinating) my chops for an hour in 2 litres of water with 1 third cup salt and 1 third cup sugar - marinade I added a dash or two of soy sauce.... sprinkle of salt and pepper both sides just before the grill.... unbelievable - and I cook for two VERY picky individuals... its all eaten!",
+            "datePublished": "2016-05-17T21:44:15.853Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Trish-the-Dish"
+            },
+            "reviewBody": "It was pretty good with double the lime juice and lime zest added. Still, I think it would have more intensified flavor if marinated for a longtime frame, possibly overnight. I had thin sliced chops and 5 minutes per side was a bit too much.",
+            "datePublished": "2021-08-06T02:02:50.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carolina"
+            },
+            "reviewBody": "Really delicious, thanks for the recipe. Since it is not grill time here yet, I made them on a skillet. My husband likes meat to go with a sauce or gravy, so I used 20g tomato concentrate and 2dl of cream (18%fat, much lighter than half and half) to use the rest of garlic, basil and meat taste from the pan. It was a hit.",
+            "datePublished": "2013-04-11T05:39:11.413Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "canesmojo"
+            },
+            "reviewBody": "I made a couple of small changes, but mainly stuck ot the basic recipe. I was using boneless loin chops with very little fat, so I added some olive oil to the marinade and like some of the other reviewers, mixed all of the marinade ingredients together and put the chops and the marinade in a freezer bag in the fridge for about 2-3 hours. And like at least one other reviewer, I cooked over indirect heat. I put my charcoal on one side of the grill and the chops on the other, with the vent lid over the food, and a smoker box on the fire side. (I do this with almost everything on the grill that isn't cooked to temp.) The result was a first ballot keeper of a recipe. Smothered it in baby bello mushrooms, and slivered onions sautéed in butter and fresh ground pepper, and paired it with sautéed broccoli and roasted seasoned potato wedges. This hit all the right notes for me -- easy, not terribly expensive, and amazing.",
+            "datePublished": "2022-06-28T22:45:59.868Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Claudia Liontos"
+            },
+            "reviewBody": "This was a quick and delicious difference! Had a huge bunch of Basil so I looked up this recipe. I had smaller pork chops but it worked out perfect! Only change was I put a little olive oil in the marinade with the garlic &amp; lime. Salt and pepper. We grilled it indoor as it was still a little rainy out. (We have a little indoor electric grill) they were delicious. I used lots of Basil. Thanks for this recipe I will use it again!",
+            "datePublished": "2022-06-16T03:09:43.947Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "dvignola"
+            },
+            "reviewBody": "Very easy and lots of flavor.",
+            "datePublished": "2021-05-20T00:02:10.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chrissy"
+            },
+            "reviewBody": "It was average I had such high hopes but this one left me disappointed.",
+            "datePublished": "2019-07-03T00:08:56.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Katie"
+            },
+            "reviewBody": "Awesome",
+            "datePublished": "2018-08-20T18:17:33.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "christina"
+            },
+            "reviewBody": "Wow. Simple recipe that wow’d the crowd! I marinated it in 30 min too and it turned out amazing. I brined the chops 30 min before putting the life, garlic, basil on to marinate. I think the brine really is essential.",
+            "datePublished": "2018-08-13T17:54:42.047Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jane Couture Lyons"
+            },
+            "reviewBody": "This is an excellent recipe. The flavor combination is delicious. I had 1 inch thick pork chops and I marinated them for approximately 6 hours in a glass bowl turning them several time. They grilled beautifully. I cooked them until just barely pink in the center and they were very tender. This will definitely be in my recipe rotation file.",
+            "datePublished": "2018-08-09T11:06:29.483Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry Alte-Cook"
+            },
+            "reviewBody": "These are the most flavorful chops I've ever made!",
+            "datePublished": "2018-08-08T21:22:46.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Izzy Rowan"
+            },
+            "reviewBody": "That was SO delicious! I was worried because I’ve never grilled before but it was so easy and my whole family loved it! Definitely will make this again!",
+            "datePublished": "2018-08-06T01:50:54.350Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/218074/basil-garlic-grilled-pork-chops/",
+          "name": "Basil Garlic Grilled Pork Chops",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/673/main-dish/pork/",
+                  "name": "Pork"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/674/main-dish/pork/pork-chops/",
+                  "name": "Pork Chop Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

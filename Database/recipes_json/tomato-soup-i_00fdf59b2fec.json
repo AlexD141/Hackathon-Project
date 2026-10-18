@@ -1,0 +1,485 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/13381/tomato-soup-i/",
+  "extracted_at": "2026-10-18T01:53:32.535560+00:00",
+  "recipes": [
+    {
+      "name": "Creamy Tomato Soup",
+      "ingredients_raw": [
+        "1 (29 ounce) can diced tomatoes",
+        "1 (10.5 ounce) can condensed chicken broth, undiluted",
+        "2 tablespoons butter",
+        "2 tablespoons white sugar",
+        "1 tablespoon chopped onion",
+        "0.25 teaspoon baking soda",
+        "2 cups heavy whipping cream"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Gather all ingredients."
+        },
+        {
+          "id": 2,
+          "text": "Combine tomatoes, chicken broth, butter, sugar, onion, and baking soda in a large stock pot."
+        },
+        {
+          "id": 3,
+          "text": "Bring to a boil over medium-high heat; reduce heat to low and simmer for 30 minutes."
+        },
+        {
+          "id": 4,
+          "text": "Stir in cream until heated through."
+        },
+        {
+          "id": 5,
+          "text": "Serve and enjoy!"
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Creamy Tomato Soup",
+        "datePublished": "1999-01-14T10:58:33-05:00",
+        "dateModified": "2026-03-19T06:05:01-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lee Ann"
+          }
+        ],
+        "description": "This creamy tomato soup is easy to make from scratch with diced tomatoes, onion, broth, and heavy cream for a flavorsome homemade soup.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/skPZMNDkZ_EdRfV97MFCE-R0gOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13381-tomato-soup-i-VAT-Beauty-4x3-0b1b13148459487ebd8abf9cd7b41423.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Creamy Tomato Soup",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "266"
+        },
+        "cookTime": "PT30M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "275 kcal",
+          "carbohydrateContent": "9 g",
+          "cholesterolContent": "90 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "4 g",
+          "saturatedFatContent": "16 g",
+          "sodiumContent": "554 mg",
+          "sugarContent": "6 g",
+          "fatContent": "25 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT5M",
+        "recipeCategory": [
+          "Soup"
+        ],
+        "recipeCuisine": [
+          "American"
+        ],
+        "recipeIngredient": [
+          "1 (29 ounce) can diced tomatoes",
+          "1 (10.5 ounce) can condensed chicken broth, undiluted",
+          "2 tablespoons butter",
+          "2 tablespoons white sugar",
+          "1 tablespoon chopped onion",
+          "0.25 teaspoon baking soda",
+          "2 cups heavy whipping cream"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/zwT_56fOMCC_VMdSw8awAL0GFqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13381-tomato-soup-i-VAT-step-01-e3ccf4b192e7467aaae77cc1effb8605.jpg"
+              }
+            ],
+            "text": "Gather all ingredients."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/3aKnWtO6VqEpL-NvkM5EuPYyDPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13381-tomato-soup-i-VAT-step-02-00aafddb86e04be596109d270aac3817.jpg"
+              }
+            ],
+            "text": "Combine tomatoes, chicken broth, butter, sugar, onion, and baking soda in a large stock pot."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/GAcnlOuGNTfkIyBY0skFLbueiGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13381-tomato-soup-i-VAT-step-03-74f1af08aca041e0bd01c4d1bacd190d.jpg"
+              }
+            ],
+            "text": "Bring to a boil over medium-high heat; reduce heat to low and simmer for 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/7XMPr7SLgwCxg2Oi0dAx6Z_fJc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13381-tomato-soup-i-VAT-step-04-5510698d361e4a40a9adbcadd954880c.jpg"
+              }
+            ],
+            "text": "Stir in cream until heated through."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/YjFXmPaIWvbLxAjwoWqyAqOyx_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13381-tomato-soup-i-VAT-step-05-9f9cd079766e4b94bebdb92353fd83aa.jpg"
+              }
+            ],
+            "text": "Serve and enjoy!"
+          }
+        ],
+        "recipeYield": "8",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Baricat"
+            },
+            "reviewBody": "Lovely, simple flavor. I omitted both the margarine (and if I had wanted the extra calories, I would have used butter for its superior taste) and sugar, which is unnecessary in properly prepared tomato recipes. Also cut the soda to a mere sprinkle. The result was perfection. I incorporated milk instead of cream for a lighter, fresher flavor. For those of you who have had problems with the cream curdling, try tempering the cream. After heating it, add a spoonful of the hot soup into it and stir it in. Add another couple of spoonfuls and stir. After adding about a cup of hot soup this way, whisk your cream mixture into the pot of hot soup. The soup should be at the barest simmer, not a rippin' boil. Possibilities for garnishes of your bowls of soup include julienne strips of fresh basil leaves, a tsp of freshly grated Parmesan or Asiago, or finely minced pepperoni."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CHARLOTTE "
+            },
+            "reviewBody": "This was absolutely delicious. I used a quart of my home canned whole tomatoes, and a half of a chopped onion. I sauteed the onion in the butter until soft and then added the tomatoes juice and all. I smashed the tomatoes with a spoon. I only used a teaspoon of sugar and one cup of fat free half and half. Two cups would have been too much. I used my immersion blender to make it a smooth texture and added a can of tomato sauce. I served it for lunch and hubby and I agreed it was better than the stuff in the can. Thanks for sharing this recipe.",
+            "datePublished": "2011-04-20T12:55:43.180Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Paula"
+            },
+            "reviewBody": "I made this soup again using the Italian style tomatoes. So good! But this time I added all the cream called for in the recipe. I still think it's too much and will use less from now on. 1-10-2014 I love this soup with a few tweaks for personal taste. I used diced tomatoes with basil, garlic, and oregano. Oh, the flavor the spices gave to this soup was marvelous! I added only 1/2 the sugar called for because of personal preference and might could use even less. Since I cut the recipe in half, I simmered the tomatoes for only 30 minutes. At the end of that time, I used my immersion blender but did not blend the mixture smooth. I then heated the cream in the microwave and added it very slowly while whisking into the tomato mixture. The half recipe called for 1 cup cream, but I had only 3/4 cup which was plenty. I can't believe this will serve 8-12 people. I cut the recipe in half and could have eaten all of it!",
+            "datePublished": "2014-01-10T09:25:49.270Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sharon H"
+            },
+            "reviewBody": "This soup turned out good to pair with grilled cheese. I used diced petite tomatoes, only 1 Tbs. sugar, and about 1.5 cups of cream which seemed plenty. I was a bit confused at first that they called it \"condensed\" chicken broth. I just used plain old canned chicken broth but only the 10 oz it called for not the whole can. The liquid condensed down to tomato mush after the hour then I added the cream after it cooled and also used my immersion blender to thicken a bit.",
+            "datePublished": "2015-11-11T16:11:13.980Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JAHLER"
+            },
+            "reviewBody": "I really liked this recipe. I added one 15oz. can of tomato sauce. I did use the full 2 tbsps. of sugar and felt that the recipe needed it. I added a tsp. of Italian seasoning. I also cut the cream to 1/4 of a cup. I hit the whole thing with my stick blender. It was fantastic!",
+            "datePublished": "2015-07-26T13:50:01.970Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kat M"
+            },
+            "reviewBody": "I love, love, love it. A soup this good made from canned tomatoes is a definite keeper. The first time, I made it using only half the required cream. The second time, I doubled the recipe, substituted 2 tablespoons of olive oil instead of the butter, and completely omitted the cream. This way, I can enjoy my own tomato soup several times in a week without feeling like I am eating loads of unhealthy fats. Also, the soup even without cream is still creamy, and the taste is zestier which I prefer. I blend it but keep a good amount of tomato chunks in. For anyone wondering, the sugar seems like a lot, but I really think it's necessary to balance out the acidity that diced tomatoes have (since citric acid is added to canned tomatoes in the first place). A good substitute is molasses if you want to cut refined sugar. Sounds weird, but I often use molasses in tomato based soups, using the same amount I would if I were to use white sugar.",
+            "datePublished": "2019-01-04T17:40:59.590Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Nomospammam"
+            },
+            "reviewBody": "Only changes: substituted large can Cento crushed tomatoes ((because I wanted smoothie soup); 1 T sugar (not 2); sautéed grated onions in butter before adding other ingredients; frozen condensed turkey stock from my freezer (not canned); 2% milk (not heavy cream) to lighten it up.. also topped my bowl with shredded Italian cheeses &amp; minced fresh basil. Neither necessary.",
+            "datePublished": "2017-03-06T03:16:40.117Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "lutzflcat"
+            },
+            "reviewBody": "I simmered this for 45 minutes which really intensified the tomato flavor before adding the cream. I then used my immersion blender, since I didn’t want “chunky” tomato soup. Too much cream weakened the tomato flavor (could be personal taste). If I make this again, I’ll start with half the amount of cream, taste, and then add more if needed. This recipe has had many good reviews, been around for a long time. Tomato soup is my favorite, made many different recipes, and I think this could be a 5-star recipe if I can get the amount of cream adjusted to my taste.",
+            "datePublished": "2024-09-10T17:31:41.208Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "NewCook"
+            },
+            "reviewBody": "This was super easy. I used a can of mixed crushed and diced tomatoes. I also added dried basil to the mix and julienned fresh basil as a garnish. I also did less sugar. It turned out very well.",
+            "datePublished": "2021-04-14T21:58:53.343Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee Garant Jacobs"
+            },
+            "reviewBody": "I would half the sugar it’s a little to sweet. I blended the tomatoes in the pot with a hand blender first. I used half and half instead of heavy cream and it was amazing! Definitely a keeper! Amazing soup that was so silky and impressive! Make some grilled cheese with this!!",
+            "datePublished": "2019-01-08T00:32:15.637Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "EuroGirl6"
+            },
+            "reviewBody": "Easy and delicious recipe that should encourage anyone to stop buying those nasty condensed soups at the grocery store. A few comments: I found 2 cups of cream to be too much and I only ended up adding about half of that; it was plenty creamy. Also, I did not add the sugar. America is so over-sugared and I didn't miss a thing by leaving it out. It was sweet enough just from the tomatos. And do yourself a favor and use real butter - bugs won't even eat margarine ;) Although not necessary, I did buzz it with my stick blender so it wasn't quite so chunky. Someone else had commented about tempering the cream to avoid it curdling and that was an excellent tip.",
+            "datePublished": "2012-05-07T06:46:53.263Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Quentin"
+            },
+            "reviewBody": "My daughter and I love!!! So fast and hearty!!! Great to make lactose free also!!!",
+            "datePublished": "2026-02-17T00:06:39.679Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Gail Harding Ratchel"
+            },
+            "reviewBody": "I left the onion out &amp; used home canned tomatoes &amp; didn’t puree. May puree after the first bowl tho! Tastes great &amp; gluten free!!",
+            "datePublished": "2026-01-14T00:36:39.013Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Joy"
+            },
+            "reviewBody": "Ok. I have made this several times but I like to add other stuffs at times. Yesterday I was out of heavy cream so I substituted with 1 1/2 cup of milk and added 1/4 cup cream cheese smoothed by itself then slowly added 1/4 cup cream cheese and then little bit of tomato sauce until I could blend it altogether. It was just as good a heavy cream maybe even better. I love tomato soup and this recipe is so much better than store bought, and it's super quick and easy to make.",
+            "datePublished": "2025-11-21T16:13:18.565Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "J"
+            },
+            "reviewBody": "Yummy and easy. My 2 favorite ingredients",
+            "datePublished": "2025-10-11T18:05:26.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LaDonna Langwell"
+            },
+            "reviewBody": "My husband loved this!! I used our immersion blender as we like our soup smoother. I added some salt/pepper and let it simmer with a bayleaf. I also only added about a quarter of the called for cream amount. It just was so good already!",
+            "datePublished": "2025-01-12T22:20:20.931Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "UniqueChop6044"
+            },
+            "reviewBody": "This creamy tomato soup is delicious but I have a question -- I noticed in the recipe it did not state to puree the diced tomatoes after cooking for 1 hour (letting it cool down first). I did not want chunks of tomato in the soup but rather a creamy texture, so I had to puree it. Did anyone else find this to be the case? Otherwise, it was lovely.",
+            "datePublished": "2023-12-30T09:26:52.233Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Harry Martin"
+            },
+            "reviewBody": "*Great* recipe. My partner likes this soup because it's not as tangy as others. I do sub Splenda for the sugar, though. I also use non-fat half and half and I prefer 15 oz. tomato sauce for a smoother texture. My go-to tomato soup recipe. Made with Bev's grilled ham and cheese on Allrecipes.",
+            "datePublished": "2022-10-12T22:39:32.311Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mealiffe"
+            },
+            "reviewBody": "Soooo good! Such a simple recipe so I couldn't believe all the good reviews. I omitted the sugar, simmered for only 35 min, and used 1-1/4 c cream -because that's all I had. Excellent! Made 4 servings.",
+            "datePublished": "2022-03-10T02:46:47.909Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Skippy"
+            },
+            "reviewBody": "This is my favorite tomato soup ever.",
+            "datePublished": "2021-10-20T23:07:14.843Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/13381/tomato-soup-i/",
+          "name": "Creamy Tomato Soup",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+                  "name": "Soups, Stews and Chili Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+                  "name": "Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+                  "name": "Vegetable Soup Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/14731/soups-stews-and-chili/soup/vegetable-soup/tomato-soup/",
+                  "name": "Tomato Soup Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

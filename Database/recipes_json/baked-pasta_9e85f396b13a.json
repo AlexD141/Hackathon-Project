@@ -1,0 +1,482 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/11906/baked-pasta/",
+  "extracted_at": "2026-10-18T01:47:51.597042+00:00",
+  "recipes": [
+    {
+      "name": "Baked Pasta",
+      "ingredients_raw": [
+        "cooking spray",
+        "1 pound lean ground beef",
+        "2 (15 ounce) cans tomato sauce",
+        "12 ounces brown gravy",
+        "0.5 cup half-and-half",
+        "0.5 cup grated Parmesan cheese",
+        "3 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "1 (16 ounce) package dry ziti pasta",
+        "1 cup shredded mozzarella cheese"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with cooking spray."
+        },
+        {
+          "id": 2,
+          "text": "Heat a large frying pan or Dutch oven over medium-high heat. Cook and stir ground beef in the hot pan until browned and crumbly, 5 to 7 minutes. Add tomato sauce, gravy, half-and-half, Parmesan cheese, garlic, oregano, and basil; mix well. Simmer for 30 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Meanwhile, fill a large pot with lightly salted water and bring to a rolling boil. Stir in ziti, return to a boil, and cook over medium heat until tender yet firm to the bite, 10 to 12 minutes. Drain."
+        },
+        {
+          "id": 4,
+          "text": "Stir ziti into meat sauce, then spread into the prepared baking dish. Sprinkle with mozzarella cheese."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven until bubbly, 20 to 30 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Baked Pasta",
+        "datePublished": "1999-02-10T13:00:06-05:00",
+        "dateModified": "2026-09-23T15:11:30-04:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lisa Stinger"
+          }
+        ],
+        "description": "This oven-baked pasta is a hearty ground beef and pasta casserole in a creamy tomato sauce flavored with brown gravy, perfect for chilly evenings.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/vFxsdki55Iw2dpBgmoAgyOVuXzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11906-baked-pasta-PICS-Beauty-4x3-7eb217d8258242d88cb60808054066a7.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://cdn.jwplayer.com/videos/fyk652Eg-K3AjnAEN.mp4",
+          "description": "Join us in the kitchen for a culinary adventure as we show you how to make delicious Homemade Baked Italian Pasta. The classic Italian casserole dish in this video combines perfectly cooked pasta with a rich, savory sauce and gooey cheese, all baked to perfection. From choosing the finest ingredients to layering it all together, we'll guide you through the process, ensuring a mouthwatering outcome that will have your family and friends coming back for seconds. Buon appetito!\n",
+          "duration": "PT1M12S",
+          "name": "How to Make Homemade Baked Italian Pasta",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fyk652Eg/thumbnails/XJHasFKx.jpg?width=1280",
+          "uploadDate": "2023-10-13T11:39:32-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Baked Pasta",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "ratingCount": "178"
+        },
+        "cookTime": "PT55M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "490 kcal",
+          "carbohydrateContent": "49 g",
+          "cholesterolContent": "133 mg",
+          "fiberContent": "3 g",
+          "proteinContent": "26 g",
+          "saturatedFatContent": "10 g",
+          "sodiumContent": "1021 mg",
+          "sugarContent": "7 g",
+          "fatContent": "21 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeCuisine": [
+          "Italian Inspired",
+          "Italian"
+        ],
+        "recipeIngredient": [
+          "cooking spray",
+          "1 pound lean ground beef",
+          "2 (15 ounce) cans tomato sauce",
+          "12 ounces brown gravy",
+          "0.5 cup half-and-half",
+          "0.5 cup grated Parmesan cheese",
+          "3 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "1 (16 ounce) package dry ziti pasta",
+          "1 cup shredded mozzarella cheese"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with cooking spray."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Heat a large frying pan or Dutch oven over medium-high heat. Cook and stir ground beef in the hot pan until browned and crumbly, 5 to 7 minutes. Add tomato sauce, gravy, half-and-half, Parmesan cheese, garlic, oregano, and basil; mix well. Simmer for 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, fill a large pot with lightly salted water and bring to a rolling boil. Stir in ziti, return to a boil, and cook over medium heat until tender yet firm to the bite, 10 to 12 minutes. Drain."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Stir ziti into meat sauce, then spread into the prepared baking dish. Sprinkle with mozzarella cheese."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/vFxsdki55Iw2dpBgmoAgyOVuXzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11906-baked-pasta-PICS-Beauty-4x3-7eb217d8258242d88cb60808054066a7.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven until bubbly, 20 to 30 minutes."
+          }
+        ],
+        "recipeYield": [
+          "8",
+          "1 (9x13-inch) dish"
+        ],
+        "totalTime": "PT70M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sherry H"
+            },
+            "reviewBody": "Do I EVER love this recipe! We loved it so much, I made it again 5 days later. And, it's SOOO easy to make. The only changes I made to this recipe is that I substituted a jar of Alfredo Sauce for the half-and-half. What a wonderful flavor it gave it. Also, since I bought a 2 cup bag of shredded mozzarella cheese, I used it all because my son loves the cheese! This is a keeper I'll make over and over again! Thank you!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MOLSON7"
+            },
+            "reviewBody": "I was a little leary of the brown gravy but it wasn't bad. I do agree it is a little bland . I added chopped onion and green pepper. I also doubled the Mozzerella. I added a cup of mozzerlla in with the pasta and put the rest on top. I will make it again and play around with the seasonings a bit.",
+            "datePublished": "2001-09-02T11:37:17.043Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julnlisha is a cook"
+            },
+            "reviewBody": "I am not a fan of red sauce and pasta ie: lasagna, baked ziti, or spaghetti.....but this recipe was absolutely delcious!!! Wow!!! My family requested I make some sort of pasta dish and I searched and found this one. The fact that it had brown gravy in the ingredients made me really curious (plus all the rave reviews!). I can't tell you enough how tasty and wonderful this baked pasta was. As usual, I changed up a few things though. I added two cut up sweet italian sausages with the ground beef (seasoned meat with adobo, garlic powder, and pepper); used a 10.5 oz of brown gravy with onions; used 2 kinds of cheeses - swiss and mozzerella (and I layered pasta, cheese, pasta, cheese). The outcome was SPECTACULAR!!!!! Will make this again. It was a BIG HIT!!!!!",
+            "datePublished": "2011-06-15T07:01:43.890Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Brenda"
+            },
+            "reviewBody": "I was apprehensive about the gravy, but my family loved it. Slight modifications because I didn't have all the ingredients. I didn't have ground beef on hand so I decided to use precooked meatballs. While the meatballs cooked in oven, I cooked about 1/4 c. of chopped onion and the garlic in olive oil in pan until tender. Then I added all sauce ingredients except I used shredded Parmesan cheese and a Tbsp of Italian seasoning. I cut meatballs in half and mixed into the pasta and sauce mix. I added a layer of shredded mozzarella between half the pasta mix and then a layer on the top. I am looking forward to trying it with ground sausage next time. Excellent recipe!",
+            "datePublished": "2016-10-10T02:00:59.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "quickchick"
+            },
+            "reviewBody": "Made it the original way first...4 stars. I then made it again, but this time, used ricotta cheese with fresh grated parmesan and egg yolks and chopped parsley as a layer. I also doubled the sauce mixture and used alfredo sauce instead of half and half (per another reviewer) and used a combo of 1 lb. of ground italian sausage and 1/2 lb. of ground beef cooked with chopped onion and garlic. Doubled the cheese, also fresh grated, as a personal preference. Just as good, but, not better. I'd make this again either way, but, maybe halve the recipe.",
+            "datePublished": "2018-11-26T23:54:31.460Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Renee'B"
+            },
+            "reviewBody": "I didn’t care for the brown gravy, I’ll skip it next time. But the rest was good. I split it into 2 8x8 pans. One for dinner, one for the freezer.",
+            "datePublished": "2021-03-13T01:15:36.563Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "freddy"
+            },
+            "reviewBody": "Very nice my boyfriend loved it, made few changes, instead of a tomato sauce used a white sauce then dont need to add the cream makes it lighter. add an egg when you combine the sauce n pasta, this helps it set, and i added more cheese. very nice will be doing it again",
+            "datePublished": "2011-03-14T11:16:28.543Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Summerpls"
+            },
+            "reviewBody": "I was skeptical of the 1/2 and 1/2 cream as I usually do not put it in my pasta sauces but it made the finished recipe so good. I also added 1 can cut up tomatoes and the juice, Italian seasonings and 3 tbsp of Franks Hot Sauce. Did not cook my pasta beforehand and left it in the oven for 55 minutes. Used rigatoni for the pasta. Will be making this again ... came out very smooth and the pasta was a la dente ... very flavourful with the added changes. Would have given it a 4 star without the additions.",
+            "datePublished": "2016-04-12T13:27:48.143Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "fabeveryday"
+            },
+            "reviewBody": "This was great, and very easy! Lots of sauce. You may want to salt and pepper, to taste. I made a packet of brown gravy mix and added 12 ounces of that rather than a jarred brown gravy.",
+            "datePublished": "2024-10-03T00:12:30.132Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "MEGSMIAMIU"
+            },
+            "reviewBody": "Great recipe! A few changes that made it delicious - used fresh basil and fresh oregano. I also used whole wheat pasta, fat free gravy and reduced fat mozzarella to make it a tad more healthy. I also added an onion and some seasoning to the meat. Will definitely make this again!",
+            "datePublished": "2011-01-17T07:39:17.083Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "sarahkathryn"
+            },
+            "reviewBody": "Easy easy easy! I really enjoyed this meal, my family LOVED it, and my boyfriend said it's his new favorite. All the different ingredients ended up working together to make a fantastic sauce. I did add a half of an onion (diced) and sprinkled garlic powder &amp; italian seasoning on the ground beef. I drained the meat, as well. I added just a few squirts of ketchup (although I would reccomend tomato paste) and a dollop of Bertolli alfredo sauce. I ignored the amount of cheese to use and just threw as much in as I felt necessary. I layered everything, using about 1/3 of the sauce on the bottom of the pan so that there was not much on the top, and cheese melted &amp; stuck to the pasta.",
+            "datePublished": "2009-07-29T11:45:04.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Mary"
+            },
+            "reviewBody": "So good, I added onion and green pepper, extra garlic and some italian seasoning. I subbed 2% milk for cream and used impossible beef. It was really good.",
+            "datePublished": "2025-10-31T19:23:09.160Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Adrian"
+            },
+            "reviewBody": "I wasn't crazy about it, it was just ok! However my spouse enjoyed the meal it was something different. I will make it again however I will tweek it a little bit with my favorite seasonings.",
+            "datePublished": "2025-10-21T23:20:17.572Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Debby Clements"
+            },
+            "reviewBody": "",
+            "datePublished": "2025-03-11T19:09:09.675Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "VividSieve7570"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-09T19:24:34.073Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Stephanie Nickerson"
+            },
+            "reviewBody": "I didn’t have basis so instead of oregano and basil I used 2 teaspoons of Italian seasoning",
+            "datePublished": "2024-11-26T23:16:40.064Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LaDonna Langwell"
+            },
+            "reviewBody": "This was so good! For something so simple and downhome, it had great flavor. Hubby, who is not a pasta fan as much as I am, really liked it. Easy, full of flavor.. quite good!",
+            "datePublished": "2024-10-29T02:20:14.682Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Desdaemona"
+            },
+            "reviewBody": "Great recipe. I have made this many times. I add extra mozzarella into and on top but that just a family preference.",
+            "datePublished": "2024-08-09T16:51:30.333Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "CrispToast1705"
+            },
+            "reviewBody": "This recipe went over very well with my family. Serving it again at my daughter’s 30th birthday dinner.",
+            "datePublished": "2024-05-03T17:07:40.422Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michele M Reboulet"
+            },
+            "reviewBody": "My son who is 14 Years old and myself love this recipe it's really easy to make and taste is excellent we make this dish twice a month.highly recommend this recipe.",
+            "datePublished": "2024-03-08T22:07:18.006Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/11906/baked-pasta/",
+          "name": "Baked Pasta",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+                  "name": "European"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+                  "name": "Italian"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/",
+                  "name": "Main Dishes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1794/world-cuisine/european/italian/main-dishes/beef/",
+                  "name": "Beef"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

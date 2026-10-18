@@ -1,0 +1,519 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/17515/quiche-lorraine-i/",
+  "extracted_at": "2026-10-18T02:26:42.233686+00:00",
+  "recipes": [
+    {
+      "name": "Quiche Lorraine",
+      "ingredients_raw": [
+        "12 slices bacon",
+        "1 cup shredded Swiss cheese",
+        "0.33333334326744 cup minced onion",
+        "1 (9 inch) prepared pie crust",
+        "2 cups light cream",
+        "4 large eggs, beaten",
+        "0.75 teaspoon salt",
+        "0.25 teaspoon white sugar",
+        "0.125 teaspoon cayenne pepper"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+        },
+        {
+          "id": 2,
+          "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels, then chop coarsely."
+        },
+        {
+          "id": 3,
+          "text": "Sprinkle bacon, Swiss cheese, and onion into prepared pastry crust."
+        },
+        {
+          "id": 4,
+          "text": "Whisk cream, eggs, salt, sugar, and cayenne pepper in a medium bowl; pour mixture into pastry shell."
+        },
+        {
+          "id": 5,
+          "text": "Bake in the preheated oven for 15 minutes. Reduce heat to 300 degrees F (150 degrees C) and continue baking until a knife inserted 1 inch from the edge comes out clean, about 30 minutes."
+        },
+        {
+          "id": 6,
+          "text": "Allow quiche to sit 10 minutes before cutting into wedges and serving."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe",
+          "NewsArticle"
+        ],
+        "headline": "Quiche Lorraine",
+        "datePublished": "2000-04-05T20:21:14-04:00",
+        "dateModified": "2026-01-20T19:00:52-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Laundrie"
+          }
+        ],
+        "description": "This quiche Lorraine with crisp bacon, shredded Swiss cheese, and onion baked in a buttery, flaky crust with a creamy filling is perfect for brunch.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/plG7UKAQvPQdn04AA_SBfj88ki0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17515-quiche-lorraine-i-DDMFS-4x3-efda035d462a4242b7a18f39e21df047.jpg",
+          "height": 1125,
+          "width": 1500
+        },
+        "video": {
+          "@type": "VideoObject",
+          "contentUrl": "https://content.jwplatform.com/videos/ia5lgiCr-ma1DlVvV.mp4",
+          "description": "AR1150",
+          "duration": "PT3M32S",
+          "name": "Quiche Lorraine I",
+          "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ia5lgiCr/poster.jpg?width=1280",
+          "uploadDate": "2021-07-06T21:21:31-04:00"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Quiche Lorraine",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.7",
+          "ratingCount": "603"
+        },
+        "cookTime": "PT55M",
+        "keywords": "publisher-tested",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "761 kcal",
+          "carbohydrateContent": "19 g",
+          "cholesterolContent": "267 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "19 g",
+          "saturatedFatContent": "31 g",
+          "sodiumContent": "1022 mg",
+          "sugarContent": "1 g",
+          "fatContent": "68 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Brunch",
+          "Lunch"
+        ],
+        "recipeCuisine": [
+          "French"
+        ],
+        "recipeIngredient": [
+          "12 slices bacon",
+          "1 cup shredded Swiss cheese",
+          "0.33333334326744 cup minced onion",
+          "1 (9 inch) prepared pie crust",
+          "2 cups light cream",
+          "4 large eggs, beaten",
+          "0.75 teaspoon salt",
+          "0.25 teaspoon white sugar",
+          "0.125 teaspoon cayenne pepper"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/_Fz7jvAwG70Tb98ueWpuxO6epP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17515-quiche-lorraine-i-ddmfs-Step-01-0fd20c9366804029a67a1a92035466c0.jpg"
+              }
+            ],
+            "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels, then chop coarsely."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/W0Y8LIvIkEivrvPRHVQRC-JS6d4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17515-quiche-lorraine-i-ddmfs-Step-02-a34930ec3875472797da28d9f12e6839.jpg"
+              }
+            ],
+            "text": "Sprinkle bacon, Swiss cheese, and onion into prepared pastry crust."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/1CgRqiAMVRJt305_9HpZScWoFiQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17515-quiche-lorraine-i-ddmfs-Step-03-bb438a4bc4994fa2af9cc09141a40b4f.jpg"
+              }
+            ],
+            "text": "Whisk cream, eggs, salt, sugar, and cayenne pepper in a medium bowl; pour mixture into pastry shell."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/-zkVMmJovN6SC8-Z-qL14_SAdtA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17515-quiche-lorraine-i-ddmfs-Step-04-8e631b5f8573471080281c54b5e460fe.jpg"
+              }
+            ],
+            "text": "Bake in the preheated oven for 15 minutes. Reduce heat to 300 degrees F (150 degrees C) and continue baking until a knife inserted 1 inch from the edge comes out clean, about 30 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "image": [
+              {
+                "@type": "ImageObject",
+                "url": "https://www.allrecipes.com/thmb/plG7UKAQvPQdn04AA_SBfj88ki0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17515-quiche-lorraine-i-DDMFS-4x3-efda035d462a4242b7a18f39e21df047.jpg"
+              }
+            ],
+            "text": "Allow quiche to sit 10 minutes before cutting into wedges and serving."
+          }
+        ],
+        "recipeYield": [
+          "6",
+          "1 (9-inch) quiche"
+        ],
+        "totalTime": "PT80M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ANGELWINGS"
+            },
+            "reviewBody": "GREAT recipe! I made a few changes... I was scared by the comments about the quiche being too runny, so I used 1 1/2 cups whipping cream instead. I hand-measured the salt and pepper - using a mixture of black and white pepper instead of cayene. I also used 1 cup of swiss and 1/2 cup of grated guyere. Added spinach instead of onions. It turned out gorgeous (for some reason I had doubts it would!). I did cover the edges with aluminum foil 25-minutes into baking to prevent it getting too dark."
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Michelle Finley Baker"
+            },
+            "reviewBody": "Awesome recipe, however I don't see how 2 cups of cream will fit in any deep dish pie crust. 1.5 cups with 4 eggs fit perfectly and was delicious! I used 1.5 cups half and half, because I could not find light cream. I also used gruyere cheese since that's traditional, and I cooked the onions in the bacon grease. I also used a dash of nutmeg instead of the cayenne pepper. I used a deep dish frozen pie crust, and cooked the quiche 15 minutes on the higher heat and then 45 minutes on 350. It turned out perfectly and the crust did not brown too much. I did not have to cover the crust edges with foil! With these changes the recipe is to die for, so I took away 1 star since I had to make changes.",
+            "datePublished": "2017-06-10T21:42:16.723Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Cindy Luca"
+            },
+            "reviewBody": "This was amazing but I made many changes. I only used 1 cup of half and half and 1 1/4 cups shredded swiss and 3/4 cup shredded low fat sharp cheddar. I used 1 Tablespoon butter to saute the onion until soft then added 2 cloves minced garlic to the pan for another two minutes and then allowed the onion garlic mixture to cool slightly. I eliminated the sugar. I added the bacon, both cheeses and onion/garlic mixture to the egg/half and half/salt/cayenne pepper mixture and poured into the pie crust. I cooked at an even 375 degrees for 45 minutes or until set.",
+            "datePublished": "2020-04-18T02:47:56.267Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Rebecca Lothyan"
+            },
+            "reviewBody": "This is a perfect recipe.",
+            "datePublished": "2026-01-01T20:24:12.702Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Ms Jean"
+            },
+            "reviewBody": "I scaled this down to 3 servings, using a small, round casserole dish that I lightly sprayed with cooking spray. I made this crustless (like a lot of quiches I make), and it came out great. I saw comments about the onions being crunchy, so I sauteed them in 1 tblsp of butter for about 5 min. I layered half bacon, half cheese and half onions, and repeated. I wanted to use up what I had on hand, using micro-bacon and 1/2 regular milk and 1/2 heavy whipping cream. Cooking times worked very well. I tried some after 10 min (couldn't wait!); a little loose at that time. Delicious tasting Quiche Lorraine; just how I remember it. Once it sets up in the fridge, the texture will surely improve. Thanks - great recipe! UPDATE 10/26/17: My hunch was right. Much better texture the next day, just delicious!",
+            "datePublished": "2017-10-25T16:40:32.710Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Myra"
+            },
+            "reviewBody": "Omg this was great! I didn't have a pie crust so I smashed up some hash brown potatoes and tater tots, ½ stuck butter, and one TBS each of corn starch and flour, then baked the potato pie shell in a 13x9 until golden brown. I was low on bacon and but added 2 hot Italian sausages well crisped, which wasn't a good idea, because it was a great idea! Also I used grated parmesan, Mozzarella, and kolby jack. I figured it wouldn't matter, and it didn't; some recipes call for gruyere and some Swiss cheese, so I figured a local cheese in good supply will do. I added a tsp of thyme and subbed in evaporated milk for light cream, no worries. Extra onions and some green onions from the garden, I sautéed the onions first. The final coup de grâce was adding fresh spinach finely chopped. You should put it on top of the cheese layer before adding eggs. I forgot to add garlic so I sprinkled some powder over top while it was cooling, plus some red pepper flakes. I literally could not stop eating it. The potato pie shell put the flavor over the top.",
+            "datePublished": "2023-06-13T15:32:36.985Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mnerney"
+            },
+            "reviewBody": "Super tasty! Used Cajun spice instead of cayenne, heavy cream, and pan-fried the onions first. Also, cooked the bacon in the microwave so it was super crispy. Dash of parsley before serving gave it a nice splash of color - turned out great!",
+            "datePublished": "2023-11-08T04:36:01.334Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Kari Anne Moseley"
+            },
+            "reviewBody": "This Quiche Lorraine turned out delicious. I do agree with other reviewers that there was liquid ingredient filling leftover in the bowl that would have overflowed the pie crust but it still worked with the amount I was able to fill the pie crust with. Instead of putting it in a standard prepared pie crust, I used a walnut pie crust sold at Walmart. I think it brought it to a whole other level. It was delicious. Also it was runny even after 45 minutes at 300 degrees so I resolved that by putting it back to 425 for another 15 minutes at the end and it turned out perfect!",
+            "datePublished": "2023-03-24T19:51:02.596Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Bear and Gator's Mom"
+            },
+            "reviewBody": "Awesome recipe! Made a few changes, sautéed the bacon drained most of the grease and then sautéed the onions with the bacon and the remaining bacon grease. Used 1 3/4 cup heavy cream and 1/2 cup milk, added 1/4 cup shredded cheddar cheese, did not add sugar. Started layering the bacon/onion with the cheese, made four layers. It was amazing, our daughter who cannot stands eggs liked it. High recommended.",
+            "datePublished": "2018-01-14T00:01:28.680Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "FlimsySeed8038"
+            },
+            "reviewBody": "Light cream? No way. If I'm making quiche I want it to be rich and decadent. I used heavy whipping cream and used caramelized thin-sliced onions and gruyere. Also used white pepper and a good pinch of nutmeg. Very French! Tré magnifique!!!",
+            "datePublished": "2024-02-07T23:40:08.448Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Linda"
+            },
+            "reviewBody": "Very yummy! I did a little variation tho-used Loranne cheese from the deli-more swissy flavor. I also put the chopped onion in the microwave with seran wrap covering it for about 1 min so they onions were translucent. I cooked the quiche for 20 min at 425 then dropped it to 350 for about 45 min. It always takes longer than you'd think. when I take it out of oven, I drape more swiss on top so it slowly melts as it is cooling. Oh, and I use whole milk instead of cream. Sometimes I add a tablespoon or two of cottage cheese or sour cream. QUiche is a great recipe to thro all sorts of things in it!",
+            "datePublished": "2020-03-10T20:34:13.360Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christy6714"
+            },
+            "reviewBody": "This is my favorite quiche recipe! Delicious.",
+            "datePublished": "2026-07-19T21:20:06.422Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sandra Gehrman"
+            },
+            "reviewBody": "I used two cups whipping cream.",
+            "datePublished": "2026-06-21T17:25:24.224Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Poppe Art"
+            },
+            "reviewBody": "This thing exploded with flavor. Exploded! So good. Best quiche ever. Exploded! with flavor. Thank you for this recipe. I explode with thank yous. Thank you.",
+            "datePublished": "2026-06-01T02:28:06.815Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "SadRoast1140"
+            },
+            "reviewBody": "The best!",
+            "datePublished": "2026-04-05T18:02:09.709Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Janina Farias"
+            },
+            "reviewBody": "This was a pretty tasty recipe! I took off one star because a couple tweaks had to be made to make it work. I only used one and a half cups of heavy cream as suggested people, and I still had some leftover. Also, there is no mention of blind baking, which absolutely needs to be done or you’ll get a soggy bottom. On a more positive note, I imagine this would be a really easy recipe to play with and swap out ingredients. As written, it’s very moist and rich, and as you can see, it puffs up quite beautifully. I am certainly going to keep this one and make it again and again! 👩🏻‍🍳♥️",
+            "datePublished": "2026-01-28T21:49:35.584Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mofun"
+            },
+            "reviewBody": "Great flavor. I know you need to let it set on a wire rack to firm up the quiche. I let it set for 23 minutes and it helped a lot, but still runny. Knife was clean when I tested. Will try with whipping cream next time.",
+            "datePublished": "2025-11-27T17:21:42.253Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "HappyTofu2402"
+            },
+            "reviewBody": "Perfect for Sunday dinner or Supper.. Thank you",
+            "datePublished": "2025-10-19T21:37:04.020Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Susan Turner"
+            },
+            "reviewBody": "Love it! Freezes in slices and heat up when you want a slice. Great for lunch/Brunch.",
+            "datePublished": "2025-09-19T21:17:00.683Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Andrew Hobbs"
+            },
+            "reviewBody": "Made this several times and it turns out perfectly every time. Love it",
+            "datePublished": "2025-09-15T19:42:59.205Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/17515/quiche-lorraine-i/",
+          "name": "Quiche Lorraine",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+                  "name": "Breakfast and Brunch"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+                  "name": "Eggs"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/153/breakfast-and-brunch/eggs/quiche/",
+                  "name": "Quiche"
+                }
+              }
+            ]
+          },
+          "reviewedBy": [
+            {
+              "@type": "Person",
+              "name": "Allrecipes Test Kitchen",
+              "url": "https://www.allrecipes.com/allrecipes-test-kitchen-7553892"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

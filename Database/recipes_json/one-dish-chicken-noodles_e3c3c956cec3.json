@@ -1,0 +1,440 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/15709/one-dish-chicken-noodles/",
+  "extracted_at": "2026-10-18T02:16:45.777839+00:00",
+  "recipes": [
+    {
+      "name": "One Dish Chicken Noodles",
+      "ingredients_raw": [
+        "1 teaspoon oil, or as needed",
+        "1 pound skinless, boneless chicken breast meat",
+        "1 (12 ounce) package egg noodles",
+        "2 (12 ounce) jars chicken gravy",
+        "3 cups frozen green peas, thawed"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Heat oil in a large skillet. Cube chicken into bite-sized pieces and brown in hot oil."
+        },
+        {
+          "id": 2,
+          "text": "Meanwhile, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes."
+        },
+        {
+          "id": 3,
+          "text": "Add hot cooked noodles to chicken in the skillet and pour in gravy and peas. Stir together until ingredients are coated with gravy."
+        },
+        {
+          "id": 4,
+          "text": "Cover skillet, reduce heat to medium-low, and let simmer for 10 minutes until gravy and peas are hot. Serve directly from the skillet."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "One Dish Chicken Noodles",
+        "datePublished": "1999-05-04T11:27:17-04:00",
+        "dateModified": "2022-12-15T14:08:25-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Susan DiMario"
+          }
+        ],
+        "description": "This recipe is a delicious combination of chicken, gravy, egg noodles, and peas — all made in one pot for an easy and comforting meal to enjoy.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/RsQvtTKTSZ_RfZWdZKAbjeB_ZPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5676206-af4460bf65034cbca8752c47c510ddb3.jpg",
+          "height": 960,
+          "width": 960
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "One Dish Chicken Noodles",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.1",
+          "ratingCount": "46"
+        },
+        "cookTime": "PT25M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "450 kcal",
+          "carbohydrateContent": "58 g",
+          "cholesterolContent": "100 mg",
+          "fiberContent": "5 g",
+          "proteinContent": "31 g",
+          "saturatedFatContent": "2 g",
+          "sodiumContent": "650 mg",
+          "sugarContent": "5 g",
+          "fatContent": "9 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT10M",
+        "recipeCategory": [
+          "Dinner"
+        ],
+        "recipeIngredient": [
+          "1 teaspoon oil, or as needed",
+          "1 pound skinless, boneless chicken breast meat",
+          "1 (12 ounce) package egg noodles",
+          "2 (12 ounce) jars chicken gravy",
+          "3 cups frozen green peas, thawed"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Heat oil in a large skillet. Cube chicken into bite-sized pieces and brown in hot oil."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Meanwhile, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Add hot cooked noodles to chicken in the skillet and pour in gravy and peas. Stir together until ingredients are coated with gravy."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Cover skillet, reduce heat to medium-low, and let simmer for 10 minutes until gravy and peas are hot. Serve directly from the skillet."
+          }
+        ],
+        "recipeYield": "6",
+        "totalTime": "PT35M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tracy"
+            },
+            "reviewBody": "I made this last night, I added a can of cream of chicken soup to make it creamy, and some garlic powder, pepper and steak sauce. I thought it was ok, but my son and my husband LOVED it, It was so easy to make, I will definaly do this one again!!!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Shana Lunsford"
+            },
+            "reviewBody": "Deboned a rotisserie chicken.\n4 cups of frozen vegetables , 12 oz cooked egg noodles. Added a can of cream of chicken along with the 2 jars of chicken gravy. Salt, Garlic, Pepper, Onion Powder, and a splash of Worcestershire Sauce...its very good. Thank you ??",
+            "datePublished": "2018-08-22T23:27:03.500Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Chans favorites"
+            },
+            "reviewBody": "This would a good start for a good recipe. The only thing I don't like is the taste of the chicken gravy. I did add the gravy but tweaked it by mixing 2 tablespoons of flour with a cup of milk to make more of a cream gravy. It totally changed the taste. I'm a country girl and there just isn't anything better than cream gravy .",
+            "datePublished": "2016-08-19T21:20:08.923Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "RBassettAK"
+            },
+            "reviewBody": "Used Rotisserie chicken and added finely chopped onions and carrots. Also since I don’t like chicken gravy taste, I added a can of cream of mushroom and a can of cream of chicken soup mix. My husband added hot sauce but I liked it!",
+            "datePublished": "2024-02-24T22:04:08.826Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "LoveSerrano"
+            },
+            "reviewBody": "This recipe was great, I read several reviews and took some advice to complete my dish. I started out by using 2 tablespoons of extra virgin olive oil, to saute 1 clove of fresh garlic and half of a medium onion. I added my chicken was the garlic began to brown along with a little Seasonal Salt, sweet basil, and pepper. From there I followed the directions to a \"T\", but once finished, I added a coating of Parmesan cheese. This is a great dish and a do over in our household!",
+            "datePublished": "2010-11-14T15:53:46.560Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Julie Anne"
+            },
+            "reviewBody": "did something similar. cooked 8 chx tenders with s 7 p, garlic and onion powder and poultry seasoning. remove from pan, add 1/2 carton chicken broth and equal water added egg noodles then cut up chicken and added back in.then added 1 pkt chx gravy cook for 10 minutes while steaming brociolli on side. should be simple enough for all my picky eaters to enjoy",
+            "datePublished": "2009-12-21T17:49:16.780Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Jan Mowbray"
+            },
+            "reviewBody": "Not bad for a quick meal. Used homemade gravy rather than bought. And used broccoli in place of peas.",
+            "datePublished": "2011-11-23T13:27:39.057Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Christine B"
+            },
+            "reviewBody": "My husband I both enjoyed this. We omitted the peas and added salt, pepper and garlic powder to the chicken as it was browning. This is a wonderful quick, weeknight recipe that you can prepare with items from your pantry. I will definitely add this to my go to list.",
+            "datePublished": "2008-02-20T10:20:10.550Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Carla"
+            },
+            "reviewBody": "Very easy and very tasty. I seasoned chicken with garlic, salt, pepper, and onion powder. I also used frozen peas and carrots just for a bit more variety.",
+            "datePublished": "2015-05-11T17:05:22.320Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jessi84"
+            },
+            "reviewBody": "i used packaged gravy because that is what i had. 1 chicken &amp; 1 country gravy prepared them seperately then combined them and added 2 cups shreadded cheddar cheese before pouring over the chicken &amp; pasta mixture. it was a last minute meal and worked our to be a new family favorite!",
+            "datePublished": "2012-02-19T21:54:07.523Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "carolinaoffins"
+            },
+            "reviewBody": "I really enjoyed this recipe. My husband, who is very picky, also ate it too days in a row. He hates leftovers! I added a can of cream of chicken soup per other reviews and cracked black pepper and garlic powder.",
+            "datePublished": "2010-12-30T10:37:24.867Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "joysrecipes"
+            },
+            "reviewBody": "I've made this dish several times. I use chicken gravy or cream of chicken soup - which ever I on-hand - and added other veggies as well as garlic and onion powder. Quick and easy sure is a plus. This is in my regular rotation for dinners.",
+            "datePublished": "2023-01-03T19:11:18.010Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "hqmjk7czwv"
+            },
+            "reviewBody": "I love this recipe, however I used the (AR)chicken gravy recipe instead of store bought, I substituted West African hot pepper for cayenne and I also added sliced fresh mushrooms along with frozen mixed veggies. Oh I forgot, I didn’t have any egg noodles so I used medium macaroni.",
+            "datePublished": "2022-09-01T00:57:58.996Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tam"
+            },
+            "reviewBody": "it was really easy to make and was really good! I will definitely be making it again.",
+            "datePublished": "2018-10-15T15:38:09.147Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Tbiggs"
+            },
+            "reviewBody": "used leftover rotisserie chicken and added a little cream of chicken soup. Pepper to taste.",
+            "datePublished": "2018-09-20T06:49:13.323Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Loves Snoopy"
+            },
+            "reviewBody": "This is a quick and easy idea. I modified it to suit our tastes and for the ingredients that I had on hand, but that is the beauty of this recipe.",
+            "datePublished": "2018-08-30T14:37:23.830Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "elle19"
+            },
+            "reviewBody": "I didn't make any changes except to add carrots as it was pictured. I wish I had, this was bland and just tasted like the gravy from the jar. Terrible...",
+            "datePublished": "2018-08-03T12:09:25.777Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "jjhavens135"
+            },
+            "reviewBody": "i made it according to the posted recipe. It needed a little extra spice for my taste. Added a little garlic.",
+            "datePublished": "2018-01-16T02:19:19.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "2"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JULIESM"
+            },
+            "reviewBody": "This was so bland I could barely eat it. This needs a lot more seasoning. Maybe i will try to doctor up the leftovers since it made such a huge amount.",
+            "datePublished": "2014-10-29T16:19:42.873Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "mguevara"
+            },
+            "reviewBody": "good and simple. The kids loved it ate it all up!",
+            "datePublished": "2011-11-15T17:26:22.850Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/15709/one-dish-chicken-noodles/",
+          "name": "One Dish Chicken Noodles",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+                  "name": "Meat and Poultry"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+                  "name": "Chicken"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+                  "name": "Chicken Breast"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/1982/meat-and-poultry/chicken/chicken-breasts/skillet/",
+                  "name": "Skillet Chicken"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}

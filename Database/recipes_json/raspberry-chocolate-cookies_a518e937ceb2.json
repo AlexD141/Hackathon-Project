@@ -1,0 +1,300 @@
+{
+  "source_url": "https://www.allrecipes.com/recipe/214557/raspberry-chocolate-cookies/",
+  "extracted_at": "2026-10-18T02:53:18.737480+00:00",
+  "recipes": [
+    {
+      "name": "Raspberry Chocolate Cookies",
+      "ingredients_raw": [
+        "0.5 cup butter at room temperature",
+        "1 cup white sugar",
+        "2 eggs",
+        "2 teaspoons raspberry extract",
+        "0.5 teaspoon almond extract",
+        "0.25 cup milk",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "0.5 cup semi-sweet chocolate chips"
+      ],
+      "steps": [
+        {
+          "id": 1,
+          "text": "Preheat oven to 350 degrees F (175 degrees C). Grease baking sheets."
+        },
+        {
+          "id": 2,
+          "text": "Mash the butter and sugar together in a bowl with a wooden spoon until the mixture is creamy and well blended, and beat in eggs, one at a time. Stir in the raspberry extract, almond extract, and milk. In a separate bowl, stir the flour and baking powder together until thoroughly combined, and gradually beat into the butter-egg mixture. Stir in the chocolate chips, and drop by spoonfuls onto the prepared baking sheets."
+        },
+        {
+          "id": 3,
+          "text": "Bake in the preheated oven until very lightly browned at the edges, 8 to 10 minutes."
+        }
+      ],
+      "warnings": [],
+      "raw_recipe": {
+        "@context": "http://schema.org",
+        "@type": [
+          "Recipe"
+        ],
+        "headline": "Raspberry Chocolate Cookies",
+        "datePublished": "2020-06-18T23:42:30-04:00",
+        "dateModified": "2022-01-14T01:28:18-05:00",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Winnigirl"
+          }
+        ],
+        "description": "A simple cookie with raspberry flavoring and chocolate chips is quick to whip up.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://www.allrecipes.com/thmb/_Y-RdaUiwNgevxDocWYRp6pPeMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6414124-eb81cc554e274df897311f8fe015be1a.jpg",
+          "height": 1500,
+          "width": 1500
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Allrecipes",
+          "url": "https://www.allrecipes.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+            "width": 112,
+            "height": 112
+          },
+          "brand": "Allrecipes",
+          "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines",
+          "sameAs": [
+            "https://www.facebook.com/allrecipes",
+            "https://www.instagram.com/allrecipes/",
+            "https://www.pinterest.com/allrecipes/",
+            "https://www.tiktok.com/@allrecipes",
+            "https://www.youtube.com/allrecipes",
+            "https://profile.google.com/@allrecipes",
+            "https://flipboard.com/@Allrecipes",
+            "https://en.wikipedia.org/wiki/Allrecipes.com",
+            "http://linkedin.com/company/allrecipes.com",
+            "https://www.threads.com/@allrecipes",
+            "https://x.com/allrecipes"
+          ]
+        },
+        "name": "Raspberry Chocolate Cookies",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4",
+          "ratingCount": "9"
+        },
+        "cookTime": "PT10M",
+        "nutrition": {
+          "@type": "NutritionInformation",
+          "calories": "129 kcal",
+          "carbohydrateContent": "19 g",
+          "cholesterolContent": "26 mg",
+          "fiberContent": "1 g",
+          "proteinContent": "2 g",
+          "saturatedFatContent": "3 g",
+          "sodiumContent": "75 mg",
+          "sugarContent": "10 g",
+          "fatContent": "6 g",
+          "unsaturatedFatContent": "0 g"
+        },
+        "prepTime": "PT15M",
+        "recipeCategory": [
+          "Dessert"
+        ],
+        "recipeIngredient": [
+          "0.5 cup butter at room temperature",
+          "1 cup white sugar",
+          "2 eggs",
+          "2 teaspoons raspberry extract",
+          "0.5 teaspoon almond extract",
+          "0.25 cup milk",
+          "2 cups all-purpose flour",
+          "2 teaspoons baking powder",
+          "0.5 cup semi-sweet chocolate chips"
+        ],
+        "recipeInstructions": [
+          {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 350 degrees F (175 degrees C). Grease baking sheets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Mash the butter and sugar together in a bowl with a wooden spoon until the mixture is creamy and well blended, and beat in eggs, one at a time. Stir in the raspberry extract, almond extract, and milk. In a separate bowl, stir the flour and baking powder together until thoroughly combined, and gradually beat into the butter-egg mixture. Stir in the chocolate chips, and drop by spoonfuls onto the prepared baking sheets."
+          },
+          {
+            "@type": "HowToStep",
+            "text": "Bake in the preheated oven until very lightly browned at the edges, 8 to 10 minutes."
+          }
+        ],
+        "recipeYield": [
+          "24",
+          "2 dozen cookies"
+        ],
+        "totalTime": "PT40M",
+        "review": [
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "calgirl"
+            },
+            "reviewBody": "Amazing! I made them with vanilla extract instead of raspberry extract since i didn't have any and they still turned out great. Some of the best cookies i have ever had!"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "JollyHam2391"
+            },
+            "reviewBody": "",
+            "datePublished": "2024-12-12T18:21:28.232Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "larry"
+            },
+            "reviewBody": "Amazing cookie. I didn’t have raspberry extract so I added vanilla. I didn’t have chocolate chip so I added dried cranberries and chopped hazel nuts. My family said they tasted like a cranberry scone. Delicious",
+            "datePublished": "2021-01-14T15:52:09.503Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "For taste"
+            },
+            "reviewBody": "Very nice light taste! I didn't have extract so I blended up a small package of raspberries I had and added about a quarter of a package of cream cheese! Wow!! The flavor is awesome!!!!",
+            "datePublished": "2016-12-18T20:00:06.690Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Flipper"
+            },
+            "reviewBody": "I made these cookies with white chocolate chips. The raspberry taste was not that strong, and it was pretty artificial Overall, though, they were decent cookies.",
+            "datePublished": "2016-02-22T17:34:15.060Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "bakingbirdie"
+            },
+            "reviewBody": "I made these for my german club and they devoured them. They are so delicious and addicting! The only thing I changed though was I didn't add the almond extract.",
+            "datePublished": "2013-04-13T15:06:33.797Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "momofthreekids"
+            },
+            "reviewBody": "This cookie was alright, I was wanting a little more of a raspberry flavor so next time I may add just a little more of the raspberry extract. They came out a little gummy in texture and I am not sure if the milk has anything to do with it. I split the dough and put semi sweet chocolate chips in one half and the other half I used white chocolate chips. I liked both equally.",
+            "datePublished": "2010-05-20T17:40:24.657Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "4"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "99centtaco"
+            },
+            "reviewBody": "This was a great cookie to try out. I work in a upscale restaurant and we once served a chocolate raspberry chocolate chip cookie and I never got to try it. This one was nice.",
+            "datePublished": "2010-05-20T12:38:57.953Z"
+          },
+          {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "3"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah E"
+            },
+            "reviewBody": "I will be trying this recipe! I am in a cookie mode and this sounds like a great alteration of the chip cookie.",
+            "datePublished": "2010-05-18T11:32:33.090Z"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": [
+            "WebPage"
+          ],
+          "@id": "https://www.allrecipes.com/recipe/214557/raspberry-chocolate-cookies/",
+          "name": "Raspberry Chocolate Cookies",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/",
+                  "name": "Recipes"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/79/desserts/",
+                  "name": "Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/",
+                  "name": "Fruit Desserts"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "item": {
+                  "@id": "https://www.allrecipes.com/recipes/17533/desserts/fruit-desserts/raspberry-desserts/",
+                  "name": "Raspberry Dessert Recipes"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "input_method": "http"
+}
