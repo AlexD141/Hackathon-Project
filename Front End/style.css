@@ -778,3 +778,161 @@ dialog::backdrop { background: rgba(47, 37, 48, 0.45); }
 .cart-total small { flex-basis: 100%; margin-top: 0.25rem; font-size: 0.75rem; letter-spacing: 0; text-transform: none; color: var(--muted); }
 .sheet .price-note { margin: 0 0 1.5rem; font-size: 0.8125rem; }
 .cart-item-price { font-size: 0.8125rem; color: var(--plum); }
+
+/* ---------- Recipe photos ---------- */
+.recipe.has-image::before { display: none; }
+.recipe-img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: var(--sage); }
+
+/* ---------- Cooking plan ---------- */
+.plan { max-width: var(--wrap); margin: 0 auto; padding: 4rem 1.5rem 5rem; border-top: 1px solid var(--line); }
+.plan .section-head { margin-bottom: 2rem; }
+.plan-status:empty { display: none; }
+.plan-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); border: 1px solid var(--line); margin-bottom: 2.5rem; }
+.plan-stat { display: grid; gap: 0.2rem; padding: 1.25rem 1.5rem; background: var(--white); }
+.plan-stat + .plan-stat { border-left: 1px solid var(--line); }
+.plan-stat-label { font-size: 0.6875rem; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--plum); }
+.plan-stat strong { font-family: var(--serif); font-weight: 300; font-size: 2.6rem; line-height: 1.1; color: var(--plum); }
+.plan-stat-note { font-size: 0.875rem; color: var(--muted); }
+.plan-body { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2.2fr); gap: 3rem; align-items: start; }
+.plan-side { position: sticky; top: 1.5rem; padding: 1.5rem; background: var(--honeydew); }
+.plan-side h3 { margin: 0 0 0.75rem; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--plum); }
+.plan-dishes, .plan-tips { margin: 0 0 1.5rem; padding-left: 1.1rem; }
+.plan-dishes li, .plan-tips li { margin-bottom: 0.4rem; }
+.plan-tips li { font-size: 0.9375rem; }
+.plan-tips-wrap[hidden], .plan-source[hidden], .plan-content[hidden] { display: none; }
+.plan-source { font-size: 0.75rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--plum); }
+.plan-steps { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--dust); }
+.plan-step { position: relative; display: grid; grid-template-columns: 4rem 1fr; gap: 1rem; padding: 0 0 1.5rem 1.25rem; }
+.plan-step::before {
+  content: ""; position: absolute; left: -5px; top: 0.45rem;
+  width: 9px; height: 9px; border-radius: 50%; background: var(--plum);
+}
+.plan-step.is-wait::before { background: var(--white); border: 2px solid var(--lilac); }
+.plan-step.is-prep::before { background: var(--sage); border: 1px solid var(--plum); }
+.plan-time { font-family: var(--serif); font-size: 1.35rem; line-height: 1.2; color: var(--plum); }
+.plan-text { margin: 0; }
+.plan-meta { margin: 0.25rem 0 0; font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.plan-while[hidden] { display: none; }
+.plan-while {
+  display: inline-block; margin: 0.5rem 0 0; padding: 0.3rem 0.7rem;
+  font-size: 0.875rem; color: var(--plum); background: var(--sage); border-radius: 4px;
+}
+@media (max-width: 900px) {
+  .plan-body { grid-template-columns: 1fr; }
+  .plan-side { position: static; }
+}
+@media (max-width: 640px) {
+  .plan-stat + .plan-stat { border-left: 0; border-top: 1px solid var(--line); }
+  .plan-step { grid-template-columns: 3.25rem 1fr; gap: 0.75rem; }
+}
+
+/* ---------- Plan: amounts, ingredients, nutrition ---------- */
+.plan-amounts[hidden], .plan-ingredients-wrap[hidden], .plan-nutrition-wrap[hidden] { display: none; }
+.plan-amounts { margin: 0.3rem 0 0; font-size: 0.9375rem; color: var(--plum); font-weight: 400; }
+.plan-ingredients { margin: 0 0 1.5rem; padding-left: 1.1rem; font-size: 0.9375rem; }
+.plan-ingredients li { margin-bottom: 0.35rem; }
+.plan-nutrition-wrap { margin-bottom: 1.5rem; }
+.plan-nutrition-note { margin: -0.4rem 0 0.6rem; font-size: 0.8125rem; color: var(--muted); }
+.plan-nutrition { margin: 0; background: var(--white); border: 1px solid var(--line); }
+.plan-nutrition-row { display: flex; justify-content: space-between; gap: 1rem; padding: 0.45rem 0.75rem; font-size: 0.9375rem; }
+.plan-nutrition-row + .plan-nutrition-row { border-top: 1px solid var(--line); }
+.plan-nutrition-row:first-child { font-weight: 500; color: var(--plum); }
+.plan-nutrition dt, .plan-nutrition dd { margin: 0; }
+.plan-nutrition dd { white-space: nowrap; }
+
+/* ---------- "Do you have these?" tool popup ---------- */
+.tool-questions { display: grid; gap: 1rem; margin: 0 0 1.75rem; }
+.tool-question { border: 0; border-top: 1px solid var(--line); margin: 0; padding: 1rem 0 0; display: grid; gap: 0.5rem; }
+.tool-question legend { float: left; width: 100%; padding: 0; font-size: 1.05rem; color: var(--ink); }
+.tool-note { font-size: 0.8125rem; color: var(--muted); }
+.tool-answers { display: flex; gap: 0.5rem; }
+
+/* ---------- Results search and filters ---------- */
+.results-tools[hidden], .filters-panel[hidden], .filter-group[hidden] { display: none; }
+.results-tools { margin: -1rem 0 2rem; }
+.results-toolbar { display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; }
+.results-search {
+  flex: 1 1 18rem;
+  min-width: 0;
+  font: inherit;
+  color: var(--ink);
+  background: var(--white);
+  border: 1px solid var(--dust);
+  border-radius: 4px;
+  padding: 0.75rem 0.9rem;
+}
+.results-search:focus { outline: none; border-color: var(--plum); }
+.filters-btn[aria-expanded="true"] { background: var(--sage); }
+.filters-count { margin-left: 0.25rem; }
+.filters-panel {
+  display: grid;
+  gap: 1.25rem;
+  margin-top: 1rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--honeydew);
+}
+.filter-group { border: 0; margin: 0; padding: 0; min-width: 0; }
+.filter-group legend {
+  padding: 0;
+  margin-bottom: 0.6rem;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--plum);
+}
+.filter-options { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.clear-filters-btn { justify-self: start; }
+.profile-filter-note { margin: 0.9rem 0 0; font-size: 0.875rem; }
+.results-count { margin: 0.25rem 0 0; font-size: 0.875rem; }
+
+/* ---------- Cook this + rating ---------- */
+.recipe-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin: 1.25rem 1.25rem 1.5rem;
+}
+.recipe .recipe-footer .cook-btn { margin: 0; white-space: nowrap; }
+.recipe-rating { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.9375rem; color: var(--plum); white-space: nowrap; }
+.recipe-rating .star { color: var(--lilac); font-size: 1.1rem; line-height: 1; }
+.recipe-rating.is-unrated { font-size: 0.8125rem; color: var(--muted); }
+/* Slightly wider cards so the rating fits beside the button */
+.results-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+
+/* ---------- Swaps, cost per serving, servings control ---------- */
+.recipe .per-serving { margin: 0.2rem 1.25rem 0; text-align: right; font-size: 0.8125rem; color: var(--muted); }
+.recipe .swaps { list-style: none; padding-left: 0; }
+.recipe .swaps li, .plan-swaps li { margin-bottom: 0.5rem; }
+.swap-line strong { font-weight: 500; color: var(--plum); }
+.swap-use { color: var(--ink); }
+.swap-how { display: block; font-size: 0.8125rem; color: var(--muted); }
+.plan-swaps-wrap[hidden] { display: none; }
+.plan-swaps { list-style: none; margin: 0 0 1.5rem; padding: 0; font-size: 0.9375rem; }
+.servings-control { display: flex; align-items: center; gap: 0.75rem; }
+.servings-value { font-family: var(--serif); font-weight: 300; font-size: 2.6rem; line-height: 1.1; color: var(--plum); min-width: 2ch; text-align: center; }
+.servings-btn {
+  display: grid; place-items: center;
+  width: 2.25rem; height: 2.25rem;
+  font: inherit; font-size: 1.25rem; line-height: 1;
+  color: var(--plum); background: var(--white);
+  border: 1px solid var(--plum); border-radius: 50%;
+  cursor: pointer;
+}
+.servings-btn:hover:not(:disabled) { background: var(--sage); }
+.servings-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+
+/* Note under the cost-per-serving filter */
+.filter-note { margin: 0.5rem 0 0; font-size: 0.8125rem; }
+.filter-note[hidden] { display: none; }
+
+/* Clear all button at the top of the cart */
+.drawer-head { align-items: center; }
+.drawer-head-actions { display: flex; align-items: center; gap: 0.5rem; }
+.clear-cart-btn[hidden] { display: none; }
+
+/* Clear all, at the bottom right of the cart's item list */
+.cart-list-actions { display: flex; justify-content: flex-end; margin: -1rem 0 1.5rem; }
+.cart-list-actions[hidden] { display: none; }

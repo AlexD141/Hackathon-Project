@@ -111,6 +111,9 @@
       </div>
       <p class="muted cart-empty">Your cart is empty. When a recipe needs ingredients you don’t have, you can add them here.</p>
       <ul class="cart-list"></ul>
+      <div class="cart-list-actions">
+        <button type="button" class="btn btn-outline btn-small clear-cart-btn">Clear all</button>
+      </div>
       <div class="cart-checkout">
         <p class="cart-total"></p>
         <div class="instacart-box" hidden>
@@ -124,7 +127,6 @@
         <p class="hint store-hint"></p>
         <div class="cart-actions">
           <button type="button" class="btn btn-outline btn-small copy-btn">Copy list</button>
-          <button type="button" class="link-btn clear-cart-btn">Clear cart</button>
         </div>
         <p class="cart-status hint" aria-live="polite"></p>
       </div>
@@ -147,17 +149,21 @@
   }
 
   // ---------- Ask before buying ----------
-  function askToBuy(recipe) {
+  let pendingDone = null; // runs after the question box closes (Add to cart, No thanks or Esc)
+
+  function askToBuy(recipe, onDone) {
     const missing = [...new Set((recipe.missing || []).map(String))];
 
     if (missing.length === 0) {
       showToast(`You have everything for ${recipe.name}. Happy cooking!`, false);
+      if (onDone) onDone();
       return;
     }
 
     const notInCart = missing.filter((name) => !inCart(name));
     if (notInCart.length === 0) {
       showToast(`Everything ${recipe.name} needs is already in your cart.`, true);
+      if (onDone) onDone();
       return;
     }
 
@@ -193,6 +199,7 @@
 
     updateBuyTotal();
     askDialog.dataset.recipe = recipe.name;
+    pendingDone = onDone || null;
     askDialog.returnValue = "";
     askDialog.showModal();
   }
@@ -210,6 +217,9 @@
   askDialog.addEventListener("change", updateBuyTotal);
 
   askDialog.addEventListener("close", () => {
+    const done = pendingDone;
+    pendingDone = null;
+    if (done) setTimeout(done, 0);
     if (askDialog.returnValue !== "add") return;
     const names = [...askDialog.querySelectorAll(".buy-list input:checked:not(:disabled)")].map((b) => b.value);
     if (names.length === 0) {
@@ -266,6 +276,7 @@
     }
 
     const empty = cart.length === 0;
+    cartDialog.querySelector(".cart-list-actions").hidden = empty;
     cartDialog.querySelector(".cart-empty").hidden = !empty;
     cartDialog.querySelector(".cart-checkout").hidden = empty;
     cartDialog.querySelector(".instacart-box").hidden = !instacartReady;

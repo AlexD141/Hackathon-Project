@@ -311,6 +311,35 @@ def put_preferences():
     return jsonify(preferences=prefs)
 
 
+# ---------- Real recipes and cooking plans (see planner.py) ----------
+from planner import RecipeBook
+
+RECIPES = RecipeBook(ROOT / "Database" / "recipes_json", LISTS["ingredients"])
+
+
+@app.post("/api/recipes/search")
+def search_recipes():
+    body = request.get_json(silent=True) or {}
+    have = [str(x) for x in body.get("ingredients", [])][:300]
+    utensils = [str(x) for x in body.get("utensils", [])][:300]
+    preferences = body.get("preferences") or {}
+    result = RECIPES.search(
+        have, utensils, preferences,
+        limit=body["limit"] if isinstance(body.get("limit"), int) and 0 < body["limit"] <= 100 else 12,
+        tools_yes=[str(x) for x in body.get("tools_yes", [])][:50],
+        tools_no=[str(x) for x in body.get("tools_no", [])][:50],
+    )
+    return jsonify(recipes=result["recipes"], questions=result["questions"])
+
+
+@app.get("/api/plan/<path:recipe_id>")
+def recipe_plan(recipe_id):
+    plan = RECIPES.plan(recipe_id)
+    if plan is None:
+        return jsonify(error="That recipe wasn’t found."), 404
+    return jsonify(plan=plan)
+
+
 # ---------- Photo detection ----------
 # Loaded once - recognizer.py matches against these (ingredients use the common subset)
 VOCABS = {kind: load_vocab(path) for kind, path in VOCAB_FILES.items()}
@@ -367,4 +396,5 @@ if __name__ == "__main__":
     if not get_groq_api_key():
         print("Warning: GROQ_API_KEY isn't set, so photo detection will fail. "
               "Get a key at https://console.groq.com/keys")
+    RECIPES._load()  # read the recipe files once at startup
     app.run(host="0.0.0.0", port=8000, debug=False)

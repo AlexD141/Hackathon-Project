@@ -495,25 +495,117 @@ function updateFindButton() {
   document.getElementById("find-hint").hidden = ready;
 }
 
-// PLACEHOLDER: replace with your real recipe-matching logic or API call.
-// preferences = { diets: ["vegetarian"], allergies: ["peanuts", "kiwi"] }
-async function findRecipes(utensils, ingredients, preferences = { diets: [], allergies: [] }) {
-  // const res = await fetch("/api/recipes", {
-  //   method: "POST",
-  //   headers: { "Content-Type": "application/json" },
-  //   body: JSON.stringify({ utensils, ingredients }),
-  // });
-  // return await res.json();
+// Real recipes from Database/recipes_json, matched on the server (see planner.py).
+// preferences = { diets: [...], allergies: [...] } from the person's profile (empty if signed out).
+let recipeSearchError = "";
 
-  await new Promise((r) => setTimeout(r, 800));
-  const extras = ["olive oil", "garlic", "salt", "lemon", "parsley", "rice", "butter"];
-  return [1, 2, 3].map((n) => ({
-    name: `Placeholder recipe ${n}`,
-    time: `${15 + n * 10} min`,
-    have: ingredients.slice(0, 2 + n),
-    missing: extras.filter((x) => !ingredients.includes(x)).slice(n - 1, n + 1),
-    utensils: utensils.length ? utensils.slice(0, 2) : ["frying pan"],
-  }));
+// Tools answered in the popup during this visit ("yes" ones are also added to your utensil list)
+const toolAnswers = { yes: [], no: [] };
+
+// Only recipes your utensils can make are shown. If too few fit, the server suggests
+// tools that would unlock more, and we ask about them (yes/no) before showing results.
+async function findRecipes(utensils, ingredients, preferences = { diets: [], allergies: [] }) {
+  recipeSearchError = "";
+  try {
+    for (let round = 0; round < 4; round++) {
+      const data = await api("/api/recipes/search", {
+        method: "POST",
+        body: JSON.stringify({
+          utensils: [...state.utensils.selected],
+          ingredients,
+          preferences,
+          tools_yes: toolAnswers.yes,
+          tools_no: toolAnswers.no,
+          limit: 60,
+        }),
+      });
+      const recipes = data.recipes || [];
+      const questions = (data.questions || []).filter(
+        (q) => !toolAnswers.yes.includes(q.kind) && !toolAnswers.no.includes(q.kind)
+      );
+      if (!questions.length || round === 3 || !(await askAboutTools(questions))) {
+        if (!recipes.length) {
+          recipeSearchError = "No recipes fit the utensils you have yet. Add more utensils or ingredients and try again.";
+        }
+        return recipes;
+      }
+    }
+  } catch (err) {
+    recipeSearchError = err.message;
+  }
+  return [];
+}
+
+// Popup: "Do you have a strainer or sieve?" Yes / No for each tool. Resolves true when answered.
+function askAboutTools(questions) {
+  return new Promise((resolve) => {
+    let dialog = document.getElementById("tools-dialog");
+    if (!dialog) {
+      dialog = document.createElement("dialog");
+      dialog.id = "tools-dialog";
+      dialog.className = "sheet";
+      dialog.setAttribute("aria-labelledby", "tools-title");
+      dialog.innerHTML = `
+        <form method="dialog" class="sheet-body">
+          <p class="label">Your utensils</p>
+          <h2 id="tools-title">Do you have these?</h2>
+          <p class="muted tools-text">Only a few recipes fit the utensils you picked. These would unlock more.</p>
+          <div class="tool-questions"></div>
+          <div class="sheet-actions">
+            <button type="submit" value="ok" class="btn btn-solid">Show recipes</button>
+            <button type="submit" value="skip" class="btn btn-quiet">Skip</button>
+          </div>
+        </form>`;
+      document.body.append(dialog);
+    }
+
+    const box = dialog.querySelector(".tool-questions");
+    box.innerHTML = "";
+    for (const q of questions) {
+      const set = document.createElement("fieldset");
+      set.className = "tool-question";
+      set.innerHTML = `
+        <legend></legend>
+        <span class="tool-note"></span>
+        <div class="tool-answers">
+          <label class="pref-pill"><input type="radio" value="yes"><span>Yes</span></label>
+          <label class="pref-pill"><input type="radio" value="no"><span>No</span></label>
+        </div>`;
+      const article = /^[aeiou]/i.test(q.label) ? "an" : "a";
+      set.querySelector("legend").textContent = `Do you have ${article} ${q.label}?`;
+      set.querySelector(".tool-note").textContent = `Needed for ${q.unlocks} recipe${q.unlocks === 1 ? "" : "s"}`;
+      set.querySelectorAll("input").forEach((input) => (input.name = `tool-${q.kind}`));
+      box.append(set);
+    }
+
+    dialog.returnValue = "";
+    dialog.addEventListener(
+      "close",
+      () => {
+        if (dialog.returnValue !== "ok") {
+          resolve(false);
+          return;
+        }
+        for (const q of questions) {
+          const answer = dialog.querySelector(`input[name="tool-${q.kind}"]:checked`);
+          if (answer && answer.value === "yes") {
+            toolAnswers.yes.push(q.kind);
+            // Add it to the utensil list too, so it's remembered and can be saved to the profile
+            const item = state.utensils.items.find((i) => q.utensil && i.name.toLowerCase() === q.utensil.toLowerCase());
+            if (item) {
+              state.utensils.selected.add(item.name);
+              refresh("utensils");
+            }
+          } else {
+            toolAnswers.no.push(q.kind); // "No" or left blank: hide recipes that need it
+          }
+        }
+        resolve(true);
+      },
+      { once: true }
+    );
+    dialog.showModal();
+  });
 }
 
 function renderRecipes(recipes) {
@@ -521,7 +613,10 @@ function renderRecipes(recipes) {
   list.innerHTML = "";
 
   if (!recipes.length) {
-    list.innerHTML = `<p class="hint">No recipes match yet. Add a few more ingredients and try again.</p>`;
+    const message = document.createElement("p");
+    message.className = "hint";
+    message.textContent = recipeSearchError || "No recipes match yet. Add a few more ingredients and try again.";
+    list.append(message);
     return;
   }
 
@@ -540,8 +635,21 @@ function renderRecipes(recipes) {
     const card = document.createElement("article");
     card.className = "recipe";
     card.innerHTML = `<h3></h3><p class="meta"></p>`;
+    if (r.image) {
+      const img = document.createElement("img");
+      img.className = "recipe-img";
+      img.alt = "";
+      img.loading = "lazy";
+      img.src = r.image;
+      img.addEventListener("error", () => {
+        img.remove();
+        card.classList.remove("has-image");
+      });
+      card.prepend(img);
+      card.classList.add("has-image");
+    }
     card.querySelector("h3").textContent = r.name;
-    card.querySelector(".meta").textContent = `${r.time}, uses ${r.utensils.join(" and ")}`;
+    card.querySelector(".meta").textContent = `${r.time} · ${r.utensils.join(", ")}`;
 
     const h1 = document.createElement("h4");
     h1.textContent = "You have";
@@ -572,9 +680,33 @@ function renderRecipes(recipes) {
         const totalLine = document.createElement("p");
         totalLine.className = "est-total";
         totalLine.innerHTML = `<span>Estimated cost</span><strong></strong>`;
-        totalLine.querySelector("strong").textContent = `~${Prices.format(Prices.total(missing))}`;
+        const cost = Prices.total(missing);
+        totalLine.querySelector("strong").textContent = `~${Prices.format(cost)}`;
         card.append(totalLine);
+        if (r.servings) {
+          const per = document.createElement("p");
+          per.className = "per-serving";
+          per.textContent = `about ${Prices.format(cost / r.servings)} per serving · serves ${r.servings}`;
+          card.append(per);
+        }
       }
+    }
+
+    // Swaps: things you're missing but can replace with what you have
+    if (r.swaps && r.swaps.length) {
+      const h3 = document.createElement("h4");
+      h3.textContent = "Swaps you can make";
+      const ul = document.createElement("ul");
+      ul.className = "swaps";
+      for (const s of r.swaps) {
+        const li = document.createElement("li");
+        li.innerHTML = `<span class="swap-line"><strong></strong> → <span class="swap-use"></span><span class="swap-how"></span></span>`;
+        li.querySelector("strong").textContent = s.for;
+        li.querySelector(".swap-use").textContent = s.use;
+        li.querySelector(".swap-how").textContent = s.how;
+        ul.append(li);
+      }
+      card.append(h3, ul);
     }
 
     // "Cook this" asks to buy missing ingredients (see shop.js)
@@ -583,9 +715,29 @@ function renderRecipes(recipes) {
     cook.className = "btn btn-solid btn-small cook-btn";
     cook.textContent = "Cook this";
     cook.addEventListener("click", () => {
-      if (window.Shop) window.Shop.askToBuy(r);
+      // Ask about missing ingredients first, then show the cooking plan (see plan.js)
+      const showPlan = () => {
+        if (window.Plan) window.Plan.show(r);
+      };
+      if (window.Shop) window.Shop.askToBuy(r, showPlan);
+      else showPlan();
     });
-    card.append(cook);
+    // Cook this, with the recipe's rating on the right
+    const footer = document.createElement("div");
+    footer.className = "recipe-footer";
+    const rating = document.createElement("span");
+    rating.className = "recipe-rating";
+    if (r.rating != null) {
+      const count = r.rating_count ? ` (${r.rating_count.toLocaleString()})` : "";
+      rating.innerHTML = `<span class="star" aria-hidden="true">★</span><span></span>`;
+      rating.lastChild.textContent = `${r.rating.toFixed(1)}${count}`;
+      rating.setAttribute("aria-label", `Rated ${r.rating.toFixed(1)} out of 5` + (r.rating_count ? ` by ${r.rating_count.toLocaleString()} people` : ""));
+    } else {
+      rating.textContent = "No ratings yet";
+      rating.classList.add("is-unrated");
+    }
+    footer.append(cook, rating);
+    card.append(footer);
 
     list.append(card);
   }
@@ -603,7 +755,8 @@ function initCook() {
     btn.disabled = false;
     const results = document.getElementById("results");
     results.hidden = false;
-    renderRecipes(recipes);
+    if (window.RecipeFilters) window.RecipeFilters.setRecipes(recipes);
+    else renderRecipes(recipes);
     results.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
   });
 }
