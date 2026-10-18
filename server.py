@@ -1,5 +1,6 @@
 """
-Runs the website, accounts, saved kitchen lists and the photo detector.
+Runs the website, accounts, saved kitchen lists, the photo detector and the
+recipe search over Database/recipes_json (recipe_search.py).
 
 Start it from the project folder:
     python server.py
@@ -23,6 +24,7 @@ from flask import Flask, abort, g, jsonify, redirect, request, send_from_directo
 from PIL import Image, UnidentifiedImageError
 from werkzeug.security import check_password_hash, generate_password_hash
 
+from recipe_search import RecipeIndex
 from recognizer import VOCAB_FILES, get_groq_api_key, load_vocab, recognize
 
 ROOT = Path(__file__).parent
@@ -342,6 +344,47 @@ def detect(kind):
     return jsonify(items=[f["name"] for f in found], scores=found)
 
 
+# ---------- Recipe search ----------
+_recipe_index = None
+
+
+def recipe_index():
+    """Loaded on first use (built the first time, about 40 s; then about 1 s)."""
+    global _recipe_index
+    if _recipe_index is None:
+        _recipe_index = RecipeIndex.load()
+    return _recipe_index
+
+
+@app.post("/api/recipes/search")
+def search_recipes():
+    """Body: {"ingredients": [...], "utensils": [...], "preferences": {"diets": [...], "allergies": [...]}}"""
+    body = request.get_json(silent=True) or {}
+    clean = lambda items, n: [str(i).strip()[:60] for i in (items or [])[:n] if str(i).strip()]
+    ingredients = clean(body.get("ingredients"), 300)
+    if not ingredients:
+        return jsonify(error="Add at least one ingredient."), 400
+    prefs = body.get("preferences") or {}
+    preferences = {
+        "diets": [d for d in clean(prefs.get("diets"), 20) if d in DIETS],
+        "allergies": [a.lower() for a in clean(prefs.get("allergies"), 30)],
+    }
+    limit = min(max(int(body.get("limit") or 12), 1), 50)
+    results = recipe_index().search(ingredients, clean(body.get("utensils"), 300), preferences, limit)
+    return jsonify(recipes=results)
+
+
+@app.get("/api/recipes/<recipe_id>")
+def get_recipe(recipe_id):
+    """The full recipe, with "step_texts": the list of strings Aarush's makeGraph expects."""
+    recipe = recipe_index().recipe(recipe_id)
+    if recipe is None:
+        return jsonify(error="No recipe with that id."), 404
+    steps = [s["text"] if isinstance(s, dict) else s for s in recipe.get("steps", [])]
+    recipe.pop("raw_recipe", None)      # reviews and publisher data: large and not needed here
+    return jsonify(recipe={**recipe, "step_texts": steps})
+
+
 @app.errorhandler(413)
 def too_large(_):
     return jsonify(error="That photo is over 20 MB. Try a smaller one."), 413
@@ -367,4 +410,5 @@ if __name__ == "__main__":
     if not get_groq_api_key():
         print("Warning: GROQ_API_KEY isn't set, so photo detection will fail. "
               "Get a key at https://console.groq.com/keys")
+    recipe_index()  # load up front so the first search isn't slow
     app.run(host="0.0.0.0", port=8000, debug=False)

@@ -495,25 +495,15 @@ function updateFindButton() {
   document.getElementById("find-hint").hidden = ready;
 }
 
-// PLACEHOLDER: replace with your real recipe-matching logic or API call.
+// Searches Database/recipes_json through server.py (see recipe_search.py).
 // preferences = { diets: ["vegetarian"], allergies: ["peanuts", "kiwi"] }
+// Each recipe: { id, name, url, image, time, have, missing, utensils, ... }
 async function findRecipes(utensils, ingredients, preferences = { diets: [], allergies: [] }) {
-  // const res = await fetch("/api/recipes", {
-  //   method: "POST",
-  //   headers: { "Content-Type": "application/json" },
-  //   body: JSON.stringify({ utensils, ingredients }),
-  // });
-  // return await res.json();
-
-  await new Promise((r) => setTimeout(r, 800));
-  const extras = ["olive oil", "garlic", "salt", "lemon", "parsley", "rice", "butter"];
-  return [1, 2, 3].map((n) => ({
-    name: `Placeholder recipe ${n}`,
-    time: `${15 + n * 10} min`,
-    have: ingredients.slice(0, 2 + n),
-    missing: extras.filter((x) => !ingredients.includes(x)).slice(n - 1, n + 1),
-    utensils: utensils.length ? utensils.slice(0, 2) : ["frying pan"],
-  }));
+  const data = await api("/api/recipes/search", {
+    method: "POST",
+    body: JSON.stringify({ utensils, ingredients, preferences }),
+  });
+  return data.recipes || [];
 }
 
 function renderRecipes(recipes) {
@@ -540,8 +530,30 @@ function renderRecipes(recipes) {
     const card = document.createElement("article");
     card.className = "recipe";
     card.innerHTML = `<h3></h3><p class="meta"></p>`;
-    card.querySelector("h3").textContent = r.name;
-    card.querySelector(".meta").textContent = `${r.time}, uses ${r.utensils.join(" and ")}`;
+    if (r.image) {
+      const img = document.createElement("img");
+      img.className = "recipe-photo";
+      img.src = r.image;
+      img.alt = "";
+      img.loading = "lazy";
+      img.addEventListener("error", () => { img.remove(); card.classList.remove("has-photo"); });
+      card.classList.add("has-photo");
+      card.prepend(img);
+    }
+    const title = card.querySelector("h3");
+    if (r.url) {
+      const link = document.createElement("a");
+      link.href = r.url;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.textContent = r.name;
+      title.append(link);
+    } else {
+      title.textContent = r.name;
+    }
+    const utensilText = (r.utensils || []).join(" and ");
+    card.querySelector(".meta").textContent =
+      [r.time, utensilText && `uses ${utensilText}`].filter(Boolean).join(", ");
 
     const h1 = document.createElement("h4");
     h1.textContent = "You have";
@@ -597,13 +609,25 @@ function initCook() {
     btn.disabled = true;
     btn.innerHTML = `<span class="spinner" aria-hidden="true"></span>Finding recipes…`;
 
-    const recipes = await findRecipes([...state.utensils.selected], [...state.ingredients.selected], state.preferences);
+    let recipes = [];
+    let error = "";
+    try {
+      recipes = await findRecipes([...state.utensils.selected], [...state.ingredients.selected], state.preferences);
+    } catch (err) {
+      error = err.message;
+    }
 
     btn.textContent = "Find recipes";
     btn.disabled = false;
     const results = document.getElementById("results");
     results.hidden = false;
     renderRecipes(recipes);
+    if (error) {
+      const p = document.createElement("p");
+      p.className = "hint";
+      p.textContent = error;
+      document.getElementById("results-list").replaceChildren(p);
+    }
     results.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
   });
 }
