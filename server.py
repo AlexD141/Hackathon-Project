@@ -5,8 +5,8 @@ Start it from the project folder:
     python server.py
 Then open port 8000 and go to /Front%20End/
 
-Photo detection uses the vision model in recognizer.py, so set GEMINI_API_KEY
-first (get one at https://aistudio.google.com/apikey).
+Photo detection uses the vision model in recognizer.py, so set GROQ_API_KEY
+first (get one at https://console.groq.com/keys).
 """
 
 import io
@@ -289,7 +289,7 @@ def detect(kind):
         found = recognize(data, mime, VOCABS[kind], kind=kind)
     except RuntimeError as err:  # e.g. missing API key, all models busy, no internet
         print("Detection failed:", err)
-        return jsonify(error="Photo detection failed. Check the terminal running server.py."), 502
+        return jsonify(error=f"Photo detection failed: {str(err).splitlines()[0][:200]}"), 502
 
     return jsonify(items=[f["name"] for f in found], scores=found)
 
@@ -316,7 +316,7 @@ def files(path):
 
 if __name__ == "__main__":
     init_db()
-    if not os.environ.get("GEMINI_API_KEY"):
-        print("Warning: GEMINI_API_KEY isn't set, so photo detection will fail. "
-              "Get a key at https://aistudio.google.com/apikey")
+    if not os.environ.get("GROQ_API_KEY"):
+        print("Warning: GROQ_API_KEY isn't set, so photo detection will fail. "
+              "Get a key at https://console.groq.com/keys")
     app.run(host="0.0.0.0", port=8000, debug=False)

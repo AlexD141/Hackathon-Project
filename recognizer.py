@@ -12,20 +12,25 @@ It also keeps the guarantee the original detector.py had: every name returned is
 checked against your list before it goes out, so the output can never contain a
 word you did not supply.
 
-    export GEMINI_API_KEY=...        # Windows: set GEMINI_API_KEY=...
-    pip install -U google-genai pydantic
+    export GROQ_API_KEY=...          # Windows: set GROQ_API_KEY=...
+    pip install -U pydantic pillow
     python recognizer.py food.jpg
     python recognizer.py drawer.jpg utensils
 """
 
 import base64
+import io
 import json
 import mimetypes
 import os
 import sys
+import time
+import urllib.error
+import urllib.request
 from pathlib import Path
 from typing import List, Literal
 
+from PIL import Image, ImageOps
 from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).parent
@@ -38,17 +43,23 @@ VOCAB_FILES = {
     "utensils": ROOT / "cookingUtensils.json",
 }
 
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
+
 # The free tier is rate-limited, so one call per upload and nothing speculative.
-# Tried in order: the free tier returns 503 "high demand" on popular models often
-# enough that a single-model client will visibly fail for real users. Falling
+# Tried in order; add more vision models here as Groq offers them. Falling
 # through to the next model costs nothing when the first one works.
-MODELS = ["gemini-3.8-flash", "gemini-flash-latest", "gemini-2.5-flash",
-          "gemini-3.8-pro"]
+MODELS = ["qwen/qwen3.8-27b"]
 MODEL = MODELS[0]
 
-# Errors worth trying another model for, rather than giving up on.
-TRANSIENT = ("503", "service_unavailable", "high demand", "429",
-             "resource_exhausted", "overloaded", "unavailable")
+# HTTP statuses worth trying another model for, rather than giving up on.
+TRANSIENT = (429, 500, 502, 503)
+
+# Longest rate-limit pause (seconds) worth sitting through before giving up.
+MAX_WAIT = 30
+
+# Groq caps base64 images at 4 MB, and phone photos are often bigger. Labels
+# stay readable at this size.
+MAX_SIDE = 1600
 
 PROMPT = """You are identifying food ingredients in a photograph for a kitchen \
 inventory app.
@@ -115,41 +126,101 @@ def load_vocab(path=VOCAB_FILE):
     return names
 
 
-def _gemini(image_b64, mime, prompt, api_key):
-    from google import genai
+# Written out by hand: Groq's strict mode rejects the $defs/$ref that pydantic
+# generates for nested models. Result still validates the reply afterwards.
+RESULT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "items": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {"type": "string"},
+                    "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
+                    "evidence": {"type": "string", "enum": ["appearance", "label"]},
+                },
+                "required": ["name", "confidence", "evidence"],
+                "additionalProperties": False,
+            },
+        },
+    },
+    "required": ["items"],
+    "additionalProperties": False,
+}
 
-    client = genai.Client(api_key=api_key) if api_key else genai.Client()
+
+def _shrink(image_bytes):
+    """Upright JPEG no bigger than MAX_SIDE, so it fits Groq's size limit."""
+    image = ImageOps.exif_transpose(Image.open(io.BytesIO(image_bytes))).convert("RGB")
+    image.thumbnail((MAX_SIDE, MAX_SIDE))
+    buf = io.BytesIO()
+    image.save(buf, "JPEG", quality=90)
+    return buf.getvalue(), "image/jpeg"
+
+
+def _post_with_wait(req):
+    """
+    Sends req and returns the reply text. The free tier allows ~2 photos a
+    minute; when Groq says the window frees up in a few seconds, waiting beats
+    failing - up to MAX_WAIT seconds in total.
+    """
+    waited = 0.0
+    while True:
+        try:
+            with urllib.request.urlopen(req, timeout=60) as res:
+                return json.load(res)["choices"][0]["message"]["content"]
+        except urllib.error.HTTPError as e:
+            wait = float(e.headers.get("retry-after") or MAX_WAIT + 1) + 1
+            if e.code != 429 or waited + wait > MAX_WAIT:
+                raise
+            print(f"  rate limited, retrying in {wait:.0f}s...", file=sys.stderr)
+            time.sleep(wait)
+            waited += wait
+
+
+def _groq(image_b64, mime, prompt, api_key):
     last = None
     for model in MODELS:
+        body = {
+            "model": model,
+            "messages": [{"role": "user", "content": [
+                {"type": "text", "text": prompt},
+                {"type": "image_url", "image_url": {"url": f"data:{mime};base64,{image_b64}"}},
+            ]}],
+            # Structured output means we parse a schema, not scrape prose.
+            "response_format": {"type": "json_schema", "json_schema": {
+                "name": "result", "strict": True, "schema": RESULT_SCHEMA}},
+            "temperature": 0,
+        }
+        req = urllib.request.Request(GROQ_URL, data=json.dumps(body).encode(), method="POST", headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+            "User-Agent": "kitchen-app/1.0",  # Groq's firewall blocks urllib's default agent
+        })
         try:
-            interaction = client.interactions.create(
-                model=model,
-                input=[
-                    {"type": "text", "text": prompt},
-                    {"type": "image", "data": image_b64, "mime_type": mime},
-                ],
-                # Structured output means we parse a schema, not scrape prose.
-                response_format={
-                    "type": "text",
-                    "mime_type": "application/json",
-                    "schema": Result.model_json_schema(),
-                },
-            )
-            return interaction.output_text
-        except Exception as e:
-            last = e
-            if any(t in str(e).lower() for t in TRANSIENT):
+            return _post_with_wait(req)
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode(errors="replace")
+            try:
+                detail = json.loads(detail)["error"]["message"]
+            except (ValueError, KeyError, TypeError):
+                pass
+            last = f"{model} returned {e.code}: {detail}"
+            if e.code in TRANSIENT:
                 print(f"  {model} busy, trying next...", file=sys.stderr)
                 continue
-            raise  # A real error (bad key, bad schema) should surface immediately.
+            raise RuntimeError(last)  # A real error (bad key, bad request) should surface immediately.
+    if last and " 429:" in last:
+        raise RuntimeError("Groq's rate limit for this API key is used up. Wait a bit and try again.")
     raise RuntimeError(f"All models busy. Last error: {last}")
 
 
 # Swapping provider is one entry here - the rest of the app does not change.
-PROVIDERS = {"gemini": _gemini}
+PROVIDERS = {"groq": _groq}
 
 
-def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="gemini", api_key=None,
+def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="groq", api_key=None,
               kind="ingredients"):
     """
     Returns [{"name": ..., "confidence": ..., "evidence": ...}, ...].
@@ -160,19 +231,22 @@ def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="gemini", api
     model returns something unparseable - the caller turns that into an HTTP error.
     """
     vocab = vocab or load_vocab(VOCAB_FILES[kind])
-    api_key = api_key or os.environ.get("GEMINI_API_KEY")
+    api_key = api_key or os.environ.get("GROQ_API_KEY")
     if not api_key:
         raise RuntimeError(
-            "No API key. Set GEMINI_API_KEY in your environment "
-            "(get one at https://aistudio.google.com/apikey).")
+            "No API key. Set GROQ_API_KEY in your environment "
+            "(get one at https://console.groq.com/keys).")
 
     prompt = PROMPTS[kind].format(count=len(vocab), vocabulary=", ".join(vocab))
+    image_bytes, mime = _shrink(image_bytes)
     image_b64 = base64.b64encode(image_bytes).decode("utf-8")
 
     try:
         raw = PROVIDERS[provider](image_b64, mime, prompt, api_key)
-    except Exception as e:
-        raise RuntimeError(f"{provider} call failed: {e}") from e
+    except RuntimeError:
+        raise
+    except Exception as e:  # e.g. no internet, timeout
+        raise RuntimeError(f"Couldn't reach {provider}: {e}") from e
 
     try:
         parsed = Result.model_validate_json(raw)
