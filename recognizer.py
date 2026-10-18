@@ -15,6 +15,7 @@ word you did not supply.
     export GEMINI_API_KEY=...        # Windows: set GEMINI_API_KEY=...
     pip install -U google-genai pydantic
     python recognizer.py food.jpg
+    python recognizer.py drawer.jpg utensils
 """
 
 import base64
@@ -29,6 +30,13 @@ from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).parent
 VOCAB_FILE = ROOT / "ingredients_common.json"
+
+# Which list each kind is matched against. Ingredients use the curated common
+# subset - 500 names keeps the prompt small and the model focused.
+VOCAB_FILES = {
+    "ingredients": VOCAB_FILE,
+    "utensils": ROOT / "cookingUtensils.json",
+}
 
 # The free tier is rate-limited, so one call per upload and nothing speculative.
 # Tried in order: the free tier returns 503 "high demand" on popular models often
@@ -61,6 +69,25 @@ an empty list.
 Allowed list ({count} names):
 {vocabulary}"""
 
+UTENSIL_PROMPT = """You are identifying cooking utensils and kitchen equipment in \
+a photograph for a kitchen inventory app.
+
+List every distinct utensil, tool, pot, pan or appliance you can see. Use its \
+shape, material and any printed branding or labels as evidence.
+
+Rules:
+- Use ONLY names from the allowed list below. If you see something real that is \
+not on the list, leave it out rather than substituting a near-miss.
+- One entry per distinct item. Do not list the same thing twice under two names.
+- Do not guess at things you cannot actually see. An empty counter should return \
+an empty list.
+- Do not list food.
+
+Allowed list ({count} names):
+{vocabulary}"""
+
+PROMPTS = {"ingredients": PROMPT, "utensils": UTENSIL_PROMPT}
+
 
 class Item(BaseModel):
     name: str = Field(description="The ingredient, copied exactly from the allowed list.")
@@ -76,7 +103,7 @@ class Result(BaseModel):
 
 def load_vocab(path=VOCAB_FILE):
     """Flat list of allowed names. Falls back to the full list if the curated one is absent."""
-    if not path.exists():
+    if not path.exists() and path == VOCAB_FILE:
         path = ROOT / "ingredients.json"
     data = json.loads(path.read_text(encoding="utf-8"))
     names, seen = [], set()
@@ -122,21 +149,24 @@ def _gemini(image_b64, mime, prompt, api_key):
 PROVIDERS = {"gemini": _gemini}
 
 
-def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="gemini", api_key=None):
+def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="gemini", api_key=None,
+              kind="ingredients"):
     """
     Returns [{"name": ..., "confidence": ..., "evidence": ...}, ...].
+
+    kind: "ingredients" or "utensils" - picks the prompt and the default list.
 
     Raises RuntimeError with a readable message if the key is missing or the
     model returns something unparseable - the caller turns that into an HTTP error.
     """
-    vocab = vocab or load_vocab()
+    vocab = vocab or load_vocab(VOCAB_FILES[kind])
     api_key = api_key or os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError(
             "No API key. Set GEMINI_API_KEY in your environment "
             "(get one at https://aistudio.google.com/apikey).")
 
-    prompt = PROMPT.format(count=len(vocab), vocabulary=", ".join(vocab))
+    prompt = PROMPTS[kind].format(count=len(vocab), vocabulary=", ".join(vocab))
     image_b64 = base64.b64encode(image_bytes).decode("utf-8")
 
     try:
@@ -164,19 +194,22 @@ def recognize(image_bytes, mime="image/jpeg", vocab=None, provider="gemini", api
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        sys.exit("Usage: python recognizer.py path/to/photo.jpg")
+        sys.exit("Usage: python recognizer.py path/to/photo.jpg [ingredients|utensils]")
 
     path = Path(sys.argv[1])
+    kind = sys.argv[2] if len(sys.argv) > 2 else "ingredients"
+    if kind not in VOCAB_FILES:
+        sys.exit(f"Unknown kind {kind!r}. Use ingredients or utensils.")
     mime = mimetypes.guess_type(path.name)[0] or "image/jpeg"
-    vocab = load_vocab()
+    vocab = load_vocab(VOCAB_FILES[kind])
     print(f"vocabulary: {len(vocab)} names | model: {MODEL}\n")
 
     try:
-        found = recognize(path.read_bytes(), mime, vocab)
+        found = recognize(path.read_bytes(), mime, vocab, kind=kind)
     except RuntimeError as e:
         sys.exit(str(e))
 
     if not found:
-        print("No ingredients from your list were recognized.")
+        print(f"No {kind} from your list were recognized.")
     for item in found:
         print(f"{item['name']:26} {item['confidence']:8} ({item['evidence']})")
