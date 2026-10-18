@@ -1,3 +1,6 @@
 flask>=3.0
 pillow>=10.0
 pydantic>=2
+# Aarush's recipe optimizer; after installing, also run:
+#   python -m spacy download en_core_web_sm
+spacy>=3.7

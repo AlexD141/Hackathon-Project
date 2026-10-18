@@ -783,3 +783,26 @@ dialog::backdrop { background: rgba(47, 37, 48, 0.45); }
 .cart-total small { flex-basis: 100%; margin-top: 0.25rem; font-size: 0.75rem; letter-spacing: 0; text-transform: none; color: var(--muted); }
 .sheet .price-note { margin: 0 0 1.5rem; font-size: 0.8125rem; }
 .cart-item-price { font-size: 0.8125rem; color: var(--plum); }
+
+/* ---------- Optimized recipe (Aarush's pipeline) ---------- */
+.recipe .optimize-btn { margin: 0 1.25rem 1.5rem; }
+.recipe .optimize-btn[aria-pressed="true"] { background: var(--sage); }
+.optimized { border-top: 1px solid var(--line); }
+.optimized-grid { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 3rem; align-items: start; }
+@media (max-width: 900px) { .optimized-grid { grid-template-columns: 1fr; gap: 2rem; } .optimized-utensils { order: -1; } }
+.optimized-steps h3 { font-family: var(--serif); font-weight: 400; font-size: 1.6rem; color: var(--plum); margin: 0 0 1rem; }
+.optimized-list { margin: 0 0 1rem; padding-left: 1.6rem; }
+.optimized-list li { padding: 0.6rem 0 0.6rem 0.4rem; border-top: 1px solid var(--line); font-size: 1.0625rem; }
+.optimized-list li::marker { color: var(--plum); font-weight: 500; }
+.optimized-list .is-parallel { background: linear-gradient(90deg, var(--honeydew), transparent 80%); }
+.optimized-list .is-wash { color: var(--missing); font-style: italic; }
+.optimized-utensils { background: var(--honeydew); padding: 1.5rem; border-radius: 4px; }
+.optimized-utensils .label { margin-bottom: 0.25rem; }
+.optimized-count { font-family: var(--serif); font-size: 4rem; line-height: 1; color: var(--plum); margin: 0 0 0.75rem; }
+.optimized-utensils .chip { cursor: default; padding-right: 1rem; }
+.optimized-utensils .selected { margin: 1rem 0; }
+.optimized-warning { color: var(--missing); font-size: 0.9375rem; }
+.optimized-original { margin-top: 1.5rem; }
+.optimized-original summary { cursor: pointer; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--plum); }
+.optimized-original ol { margin: 1rem 0 0; padding-left: 1.6rem; color: var(--muted); }
+.optimized-original li { margin-bottom: 0.5rem; }

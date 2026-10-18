@@ -388,11 +388,11 @@ class RecipeIndex:
             missing = [n[0] for n in needs if n not in got] + r["unknown"]
             if max_missing is not None and len(missing) > max_missing:
                 continue
-            # Each thing you'd have to buy costs a point, each of yours it uses earns
-            # one back, so a dish using 4 of yours and needing 2 more beats one
-            # using 1 of yours and needing 1. Ties: fewer to buy, then rating.
+            # Each thing you'd have to buy costs a point and each of yours it uses
+            # earns 1.5, so a dish using 3 of yours and needing 2 more beats one
+            # using just 1 of yours. Ties: fewer to buy, then rating.
             score = (
-                len(missing) - len(got),
+                len(missing) - 1.5 * len(got),
                 len(missing),
                 -(r["rating"] * math.log10(r["ratings"] + 1)),   # well rated by many people
             )

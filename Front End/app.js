@@ -599,8 +599,95 @@ function renderRecipes(recipes) {
     });
     card.append(cook);
 
+    // "Optimize steps" runs Aarush's pipeline on this recipe (see showOptimized)
+    if (r.id) {
+      const opt = document.createElement("button");
+      opt.type = "button";
+      opt.className = "btn btn-outline btn-small optimize-btn";
+      opt.textContent = "Optimize steps";
+      opt.addEventListener("click", () => showOptimized(r, opt));
+      card.append(opt);
+    }
+
     list.append(card);
   }
+}
+
+// ---------- Optimized recipe (Aarush's pipeline) ----------
+// Sends the chosen recipe to server.py, which writes its steps to a .txt file,
+// runs them through Aarush's parser and optimizer, and returns the reordered
+// steps with the fewest utensils they fit in.
+async function showOptimized(recipe, button) {
+  const section = document.getElementById("optimized");
+  const body = document.getElementById("optimized-body");
+  document.querySelectorAll(".optimize-btn").forEach((b) => b.setAttribute("aria-pressed", b === button));
+  section.hidden = false;
+  document.getElementById("optimized-title").textContent = recipe.name;
+  body.innerHTML = `<p class="hint"><span class="spinner" aria-hidden="true"></span>Reading the steps and working out the order…</p>`;
+  section.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+
+  let data;
+  try {
+    data = await api(`/api/recipes/${encodeURIComponent(recipe.id)}/optimize`, {
+      method: "POST",
+      body: JSON.stringify({ utensils: [...state.utensils.selected] }),
+    });
+  } catch (err) {
+    body.innerHTML = "";
+    body.append(Object.assign(document.createElement("p"), { className: "hint", textContent: err.message }));
+    return;
+  }
+  body.replaceChildren(renderOptimized(data));
+}
+
+function renderOptimized(data) {
+  const make = (tag, cls, text) => {
+    const node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text != null) node.textContent = text;
+    return node;
+  };
+  const wrap = make("div", "optimized-grid");
+
+  // Utensil summary
+  const side = make("aside", "optimized-utensils");
+  side.append(make("p", "label", "Utensils to use"));
+  side.append(make("p", "optimized-count", String(data.utensil_count)));
+  side.append(make("p", "hint", data.utensil_count
+    ? `That’s all you need to wash at the end${data.washes ? `, plus ${data.washes} quick wash${data.washes === 1 ? "" : "es"} along the way so a pan can be reused` : ""}.`
+    : "No pots or pans needed for this one."));
+  if (data.utensils.length) {
+    const chips = make("ul", "selected");
+    data.utensils.forEach((u) => chips.append(make("li", "chip", u)));
+    side.append(chips);
+  }
+  if (data.missing_kinds?.length) {
+    side.append(make("p", "optimized-warning", `Not in your kitchen list: ${data.missing_kinds.join(", ")}.`));
+  }
+  if (data.minutes > 0) side.append(make("p", "hint", `Timed steps add up to about ${data.minutes} min.`));
+
+  // Optimized steps
+  const main = make("div", "optimized-steps");
+  main.append(make("h3", null, "Steps, in the best order"));
+  const ol = make("ol", "optimized-list");
+  for (const step of data.steps) {
+    const li = make("li", null, step);
+    if (/^meanwhile/i.test(step)) li.classList.add("is-parallel");
+    if (/^wash the/i.test(step)) li.classList.add("is-wash");
+    ol.append(li);
+  }
+  main.append(ol);
+  main.append(make("p", "hint", "“Meanwhile” steps don’t depend on the step before, so you can do them at the same time."));
+
+  const details = make("details", "optimized-original");
+  details.append(make("summary", null, `Original recipe steps (${data.original_steps.length})`));
+  const orig = make("ol");
+  data.original_steps.forEach((s) => orig.append(make("li", null, s)));
+  details.append(orig);
+  main.append(details);
+
+  wrap.append(main, side);
+  return wrap;
 }
 
 function initCook() {

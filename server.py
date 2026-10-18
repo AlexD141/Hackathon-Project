@@ -1,6 +1,7 @@
 """
-Runs the website, accounts, saved kitchen lists, the photo detector and the
-recipe search over Database/recipes_json (recipe_search.py).
+Runs the website, accounts, saved kitchen lists, the photo detector, the
+recipe search over Database/recipes_json (recipe_search.py) and Aarush's
+recipe optimizer (aarush_pipeline.py).
 
 Start it from the project folder:
     python server.py
@@ -24,6 +25,7 @@ from flask import Flask, abort, g, jsonify, redirect, request, send_from_directo
 from PIL import Image, UnidentifiedImageError
 from werkzeug.security import check_password_hash, generate_password_hash
 
+from aarush_pipeline import optimize
 from recipe_search import RecipeIndex
 from recognizer import VOCAB_FILES, get_groq_api_key, load_vocab, recognize
 
@@ -383,6 +385,30 @@ def get_recipe(recipe_id):
     steps = [s["text"] if isinstance(s, dict) else s for s in recipe.get("steps", [])]
     recipe.pop("raw_recipe", None)      # reviews and publisher data: large and not needed here
     return jsonify(recipe={**recipe, "step_texts": steps})
+
+
+@app.post("/api/recipes/<recipe_id>/optimize")
+def optimize_recipe(recipe_id):
+    """
+    Runs Aarush's pipeline (aarush_pipeline.py) on one recipe: its steps go to a
+    .txt file, his makeGraph/render reorder them, and we report the fewest
+    utensils it fits in. Body (optional): {"utensils": [...the person's kitchen...]}
+    """
+    index = recipe_index()
+    if recipe_id not in index.by_id:
+        return jsonify(error="No recipe with that id."), 404
+    body = request.get_json(silent=True) or {}
+    utensils = [str(u)[:60] for u in (body.get("utensils") or [])[:300]]
+    try:
+        result = optimize(recipe_id, index.steps(recipe_id), utensils)
+    except RuntimeError as err:     # e.g. spaCy model not installed
+        print("Optimizing failed:", err)
+        return jsonify(error=str(err)), 502
+    except Exception as err:        # his parser hit something it doesn't handle
+        print("Optimizing failed:", repr(err))
+        return jsonify(error="Couldn’t optimize this recipe’s steps. Try another one."), 500
+    r = index.by_id[recipe_id]
+    return jsonify(recipe={"id": recipe_id, "name": r["name"], "url": r["url"], "image": r["image"]}, **result)
 
 
 @app.errorhandler(413)
