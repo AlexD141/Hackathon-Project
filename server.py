@@ -1,5 +1,7 @@
 """
-Runs the website, accounts, saved kitchen lists and the photo detector.
+Runs the website, accounts, saved kitchen lists, the photo detector, the
+recipe search over Database/recipes_json (recipe_search.py) and Aarush's
+recipe optimizer (aarush_pipeline.py).
 
 Start it from the project folder:
     python server.py
@@ -9,6 +11,7 @@ Photo detection uses the vision model in recognizer.py, so set GROQ_API_KEY
 first (get one at https://console.groq.com/keys).
 """
 
+import html
 import io
 import json
 import os
@@ -23,6 +26,8 @@ from flask import Flask, abort, g, jsonify, redirect, request, send_from_directo
 from PIL import Image, UnidentifiedImageError
 from werkzeug.security import check_password_hash, generate_password_hash
 
+from aarush_pipeline import optimize
+from kitchen_search import KitchenSearch
 from recognizer import VOCAB_FILES, get_groq_api_key, load_vocab, recognize
 
 ROOT = Path(__file__).parent
@@ -311,35 +316,6 @@ def put_preferences():
     return jsonify(preferences=prefs)
 
 
-# ---------- Real recipes and cooking plans (see planner.py) ----------
-from planner import RecipeBook
-
-RECIPES = RecipeBook(ROOT / "Database" / "recipes_json", LISTS["ingredients"])
-
-
-@app.post("/api/recipes/search")
-def search_recipes():
-    body = request.get_json(silent=True) or {}
-    have = [str(x) for x in body.get("ingredients", [])][:300]
-    utensils = [str(x) for x in body.get("utensils", [])][:300]
-    preferences = body.get("preferences") or {}
-    result = RECIPES.search(
-        have, utensils, preferences,
-        limit=body["limit"] if isinstance(body.get("limit"), int) and 0 < body["limit"] <= 100 else 12,
-        tools_yes=[str(x) for x in body.get("tools_yes", [])][:50],
-        tools_no=[str(x) for x in body.get("tools_no", [])][:50],
-    )
-    return jsonify(recipes=result["recipes"], questions=result["questions"])
-
-
-@app.get("/api/plan/<path:recipe_id>")
-def recipe_plan(recipe_id):
-    plan = RECIPES.plan(recipe_id)
-    if plan is None:
-        return jsonify(error="That recipe wasn’t found."), 404
-    return jsonify(plan=plan)
-
-
 # ---------- Photo detection ----------
 # Loaded once - recognizer.py matches against these (ingredients use the common subset)
 VOCABS = {kind: load_vocab(path) for kind, path in VOCAB_FILES.items()}
@@ -371,6 +347,90 @@ def detect(kind):
     return jsonify(items=[f["name"] for f in found], scores=found)
 
 
+# ---------- Recipe search ----------
+# recipe_search.py finds and ranks recipes; kitchen_search.py adds the utensil check,
+# swaps, ratings, cuisines, servings and the cooking plan from planner.py.
+KITCHEN = KitchenSearch()
+
+
+def recipe_index():
+    """The search index (built the first time, about 40 s; then about 1 s)."""
+    return KITCHEN.index()
+
+
+@app.post("/api/recipes/search")
+def search_recipes():
+    """Body: {"ingredients": [...], "utensils": [...], "preferences": {...},
+              "tools_yes": [...], "tools_no": [...], "limit": 60}"""
+    body = request.get_json(silent=True) or {}
+    clean = lambda items, n: [str(i).strip()[:60] for i in (items or [])[:n] if str(i).strip()]
+    ingredients = clean(body.get("ingredients"), 300)
+    if not ingredients:
+        return jsonify(error="Add at least one ingredient."), 400
+    prefs = body.get("preferences") or {}
+    preferences = {
+        "diets": [d for d in clean(prefs.get("diets"), 20) if d in DIETS],
+        "allergies": [a.lower() for a in clean(prefs.get("allergies"), 30)],
+    }
+    try:
+        limit = min(max(int(body.get("limit") or 12), 1), 60)
+    except (TypeError, ValueError):
+        limit = 12
+    result = KITCHEN.search(
+        ingredients, clean(body.get("utensils"), 300), preferences, limit,
+        tools_yes=clean(body.get("tools_yes"), 50),
+        tools_no=clean(body.get("tools_no"), 50),
+    )
+    return jsonify(recipes=result["recipes"], questions=result["questions"])
+
+
+@app.route("/api/plan/<path:plan_id>", methods=["GET", "POST"])
+def recipe_plan(plan_id):
+    """The "Cook this" plan: Aarush's optimized step order in the planner's layout.
+    Body (optional, POST): {"utensils": [...the person's kitchen...]}"""
+    body = request.get_json(silent=True) or {}
+    utensils = [str(u)[:60] for u in (body.get("utensils") or [])[:300]]
+    plan = KITCHEN.cook_plan(plan_id, utensils)
+    if plan is None:
+        return jsonify(error="That recipe wasn’t found."), 404
+    return jsonify(plan=plan)
+
+
+@app.get("/api/recipes/<recipe_id>")
+def get_recipe(recipe_id):
+    """The full recipe, with "step_texts": the list of strings Aarush's makeGraph expects."""
+    recipe = recipe_index().recipe(recipe_id)
+    if recipe is None:
+        return jsonify(error="No recipe with that id."), 404
+    steps = [s["text"] if isinstance(s, dict) else s for s in recipe.get("steps", [])]
+    recipe.pop("raw_recipe", None)      # reviews and publisher data: large and not needed here
+    return jsonify(recipe={**recipe, "step_texts": steps})
+
+
+@app.post("/api/recipes/<recipe_id>/optimize")
+def optimize_recipe(recipe_id):
+    """
+    Runs Aarush's pipeline (aarush_pipeline.py) on one recipe: its steps go to a
+    .txt file, his makeGraph/render reorder them, and we report the fewest
+    utensils it fits in. Body (optional): {"utensils": [...the person's kitchen...]}
+    """
+    index = recipe_index()
+    if recipe_id not in index.by_id:
+        return jsonify(error="No recipe with that id."), 404
+    body = request.get_json(silent=True) or {}
+    utensils = [str(u)[:60] for u in (body.get("utensils") or [])[:300]]
+    try:
+        result = optimize(recipe_id, [html.unescape(t) for t in index.steps(recipe_id)], utensils)
+    except RuntimeError as err:     # e.g. spaCy model not installed
+        print("Optimizing failed:", err)
+        return jsonify(error=str(err)), 502
+    except Exception as err:        # his parser hit something it doesn't handle
+        print("Optimizing failed:", repr(err))
+        return jsonify(error="Couldn’t optimize this recipe’s steps. Try another one."), 500
+    r = index.by_id[recipe_id]
+    return jsonify(recipe={"id": recipe_id, "name": r["name"], "url": r["url"], "image": r["image"]}, **result)
+
+
 @app.errorhandler(413)
 def too_large(_):
     return jsonify(error="That photo is over 20 MB. Try a smaller one."), 413
@@ -396,5 +456,5 @@ if __name__ == "__main__":
     if not get_groq_api_key():
         print("Warning: GROQ_API_KEY isn't set, so photo detection will fail. "
               "Get a key at https://console.groq.com/keys")
-    RECIPES._load()  # read the recipe files once at startup
+    recipe_index()  # load up front so the first search isn't slow
     app.run(host="0.0.0.0", port=8000, debug=False)

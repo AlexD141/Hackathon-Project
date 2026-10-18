@@ -936,3 +936,29 @@ dialog::backdrop { background: rgba(47, 37, 48, 0.45); }
 /* Clear all, at the bottom right of the cart's item list */
 .cart-list-actions { display: flex; justify-content: flex-end; margin: -1rem 0 1.5rem; }
 .cart-list-actions[hidden] { display: none; }
+
+/* ---------- Optimized recipe (Aarush's pipeline) ---------- */
+.recipe .optimize-btn { margin: 0 1.25rem 1.5rem; }
+.recipe .optimize-btn[aria-pressed="true"] { background: var(--sage); }
+.optimized { border-top: 1px solid var(--line); }
+.optimized-grid { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 3rem; align-items: start; }
+@media (max-width: 900px) { .optimized-grid { grid-template-columns: 1fr; gap: 2rem; } .optimized-utensils { order: -1; } }
+.optimized-steps h3 { font-family: var(--serif); font-weight: 400; font-size: 1.6rem; color: var(--plum); margin: 0 0 1rem; }
+.optimized-list { margin: 0 0 1rem; padding-left: 1.6rem; }
+.optimized-list li { padding: 0.6rem 0 0.6rem 0.4rem; border-top: 1px solid var(--line); font-size: 1.0625rem; }
+.optimized-list li::marker { color: var(--plum); font-weight: 500; }
+.optimized-list .is-parallel { background: linear-gradient(90deg, var(--honeydew), transparent 80%); }
+.optimized-list .is-wash { color: var(--missing); font-style: italic; }
+.optimized-utensils { background: var(--honeydew); padding: 1.5rem; border-radius: 4px; }
+.optimized-utensils .label { margin-bottom: 0.25rem; }
+.optimized-count { font-family: var(--serif); font-size: 4rem; line-height: 1; color: var(--plum); margin: 0 0 0.75rem; }
+.optimized-utensils .chip { cursor: default; padding-right: 1rem; }
+.optimized-utensils .selected { margin: 1rem 0; }
+.optimized-warning { color: var(--missing); font-size: 0.9375rem; }
+.optimized-original { margin-top: 1.5rem; }
+.optimized-original summary { cursor: pointer; font-size: 0.75rem; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--plum); }
+.optimized-original ol { margin: 1rem 0 0; padding-left: 1.6rem; color: var(--muted); }
+.optimized-original li { margin-bottom: 0.5rem; }
+/* Recipe names link to the original recipe */
+.recipe h3 a { color: inherit; text-decoration: none; }
+.recipe h3 a:hover { text-decoration: underline; text-underline-offset: 4px; }

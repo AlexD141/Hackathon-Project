@@ -197,6 +197,8 @@
 
   // ---------- Render ----------
   function render() {
+    $(".plan-intro").textContent = plan.note ||
+      "The steps are reordered so you can do things at the same time and reuse pans. Start a timer and follow the clock.";
     $(".plan-stats").innerHTML = "";
     $(".plan-stats").append(
       stat("Total time", formatDuration(plan.total_minutes), factor === 1 ? "" : "Times stay the same"),
@@ -285,7 +287,11 @@
     status.textContent = "Planning the quickest way to cook this…";
     section.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
     try {
-      const res = await fetch(`/api/plan/${encodeURIComponent(r.id)}`);
+      const res = await fetch(`/api/plan/${encodeURIComponent(r.id)}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ utensils: typeof state !== "undefined" ? [...state.utensils.selected] : [] }),
+      });
       const data = await res.json().catch(() => ({}));
       if (!res.ok || !data.plan) throw new Error(data.error || `Couldn’t make a plan (error ${res.status}).`);
       if (!data.plan.steps.length) throw new Error(data.plan.error || "This recipe has no steps to plan.");

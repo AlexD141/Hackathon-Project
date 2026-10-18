@@ -648,7 +648,17 @@ function renderRecipes(recipes) {
       card.prepend(img);
       card.classList.add("has-image");
     }
-    card.querySelector("h3").textContent = r.name;
+    const title = card.querySelector("h3");
+    if (r.url) {
+      const link = document.createElement("a");
+      link.href = r.url;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.textContent = r.name;
+      title.append(link);
+    } else {
+      title.textContent = r.name;
+    }
     card.querySelector(".meta").textContent = `${r.time} · ${r.utensils.join(", ")}`;
 
     const h1 = document.createElement("h4");
@@ -738,6 +748,7 @@ function renderRecipes(recipes) {
     }
     footer.append(cook, rating);
     card.append(footer);
+
 
     list.append(card);
   }
